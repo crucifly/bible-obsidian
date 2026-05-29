@@ -1,0 +1,49 @@
+# jexxxus_qlora.yaml - Gemma 4 E4B Fine-Tuning Config
+base_model: google/gemma-4-4b-it # Starting from the Instruct-Tuned base
+model_type: AutoModelForCausalLM
+tokenizer_type: AutoTokenizer
+
+load_in_4bit: true
+strict: false
+
+# The JEXXXUS Dataset
+datasets:
+  - path: ./divine_training_set.jsonl
+    type: 
+      system_prompt: ""
+      field_instruction: instruction
+      field_input: thinking
+      field_output: response
+
+# QLoRA "Iron Curtain" Settings
+adapter: qlora
+lora_model_dir: ./lora-out/jexxxus-gemma4-v1
+
+# High Rank to absorb 45k+ verses of dense theology
+lora_r: 64
+lora_alpha: 16
+lora_dropout: 0.05
+lora_target_linear: true # Targets q, k, v, o, gate, up, down automatically
+
+# Unsloth & Memory Optimizations
+unsloth: true
+sequence_len: 8192 # Wide enough for multi-verse RAG context
+sample_packing: true
+eval_sample_packing: false
+pad_to_sequence_len: true
+
+# Training Hyperparameters
+wandb_project: jexxxus-stack
+gradient_accumulation_steps: 4
+micro_batch_size: 2
+num_epochs: 3
+optimizer: paged_adamw_32bit
+lr_scheduler: cosine
+learning_rate: 2e-4
+
+# Precision
+bf16: auto
+fp16: false
+tf32: false
+
+flash_attention: true

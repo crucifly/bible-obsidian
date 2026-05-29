@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+.obsidian/workspace
+.obsidian/workspace-mobile
+.obsidian/backups/
+*.azw3
+*.epub
+*.pdf
+# Keep the training set for now as it's small (19MB)
+# divine_training_set.jsonl
