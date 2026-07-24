@@ -1,0 +1,26 @@
+---
+book: "1 Enoch"
+chapter: 37
+canon: "Ethiopian-81"
+---
+
+# 1 Enoch 37
+
+### 1
+The second vision which he saw, the vision of wisdom--which Enoch the son of Jared, the son of Mahalalel, the son of Cainan, the son of Enos, the son of Seth, the son of Adam, saw.
+
+### 2
+And this is the beginning of the words of wisdom which I lifted up my voice to speak and say to those which dwell on earth: Hear, ye men of old time, and see, ye that come after, the words of the Holy One which I will speak before the Lord of Spirits.
+
+### 3
+It were better to declare (them only) to the men of old time, but even from those that come after we will not withhold the beginning of wisdom.
+
+### 4
+Till the present day such wisdom has never been given by the Lord of Spirits as I have received according to my insight, according to the good pleasure of the Lord of Spirits by whom the lot of eternal life has been given to me.
+
+### 5
+Now three parables were imparted to me, and I lifted up my voice and recounted them to those that dwell on the earth. The First Parable
+
+### 6
+And thenceforward none shall seek for themselves mercy from the Lord of Spirits For their life is at an end.
+

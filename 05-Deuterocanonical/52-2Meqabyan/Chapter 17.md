@@ -1,0 +1,44 @@
+---
+book: "2 Meqabyan"
+chapter: 17
+canon: "Ethiopian-81"
+---
+
+# 2 Meqabyan 17
+
+### 1
+A wheat kernel will not grow or bear fruit unless it is first broken down (destroyed). But if a wheat kernel is broken down, it sends roots into the Earth, sends forth leaves, produces buds, and bears fruit.
+
+### 2
+You know that a single wheat kernel becomes many kernels.
+
+### 3
+Likewise, this kernel grows by rising up from water, wind, and the dew of the Earth. Wheat cannot bear fruit without the Sun, and the Sun serves in the place of fire.
+
+### 4
+The wind serves in the place of a soul—for wheat cannot bear fruit without wind—and the water gives the Earth drink to satisfy it.
+
+### 5
+After the Earth, which is ashes, drinks the water, it produces roots, and its tips grow high. It bears fruit according to how the Lord blessed it.
+
+### 6
+A wheat kernel is an example of Adam, in whom dwells a living soul created by the Lord. Likewise, a grapevine drinks water and sends forth roots.
+
+### 7
+The Dew of Pardon from the Lord gives drink to the long tips of the vines, sending water upward to the leaves. It buds from the heat of the Sun, and by the Will of the Lord, it bears fruit.
+
+### 8
+It produces a good fragrance that makes the mind joyful. When eaten, it satisfies like water that quenches thirst or grain that satisfies hunger. When pressed, it becomes the blood of the cluster.
+
+### 9
+As it is said in the Psalms: "Wine makes a person's heart glad." When they drink it, it makes the heart joyful. When a person opens his mouth and drinks, he is filled, and the blood flows toward his heart.
+
+### 10
+Because the drunkenness of grapes can mislead and deprive a man of his mind, it makes pits and cliffs seem like wide meadows; he does not notice the obstacles or thorns against his feet and hands.
+
+### 11
+The Lord did this with the fruit and the vine so that His Name might be praised by those who believe the dead will rise and who do His Will.
+
+### 12
+In the Kingdom of Heaven, He shall make those who believe in the Resurrection joyful.
+

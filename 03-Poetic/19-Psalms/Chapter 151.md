@@ -1,0 +1,29 @@
+---
+book: "Psalms"
+chapter: 151
+canon: "Deuterocanon"
+---
+
+# Psalms 151
+
+### 1
+I was small among my brothers, and the youngest in my father's house; I tended my father's sheep.
+
+### 2
+My hands made a harp; my fingers fashioned a lyre.
+
+### 3
+And who will tell my Lord? The Lord himself; it is he who hears.
+
+### 4
+It was he who sent his messenger and took me from my father's sheep, and anointed me with his anointing oil.
+
+### 5
+My brothers were handsome and tall, but the Lord was not pleased with them.
+
+### 6
+I went out to meet the Philistine, and he cursed me by his idols.
+
+### 7
+But I drew his own sword; I beheaded him, and took away reproach from the people of Israel.
+

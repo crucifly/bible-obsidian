@@ -1,0 +1,14 @@
+---
+book: "Psalms"
+chapter: 117
+canon: "Masoretic"
+---
+
+# Psalms 117
+
+### 1
+Praise Yahweh, all you nations! Extol him, all you peoples!
+
+### 2
+For his loving kindness is great toward us. Yahweh’s faithfulness endures forever. Praise Yah!
+

@@ -1,0 +1,17 @@
+---
+book: "1 Enoch"
+chapter: 107
+canon: "Ethiopian-81"
+---
+
+# 1 Enoch 107
+
+### 1
+And I saw written on them that generation upon generation shall transgress, till a generation of righteousness arises, and transgression is destroyed and sin passes away from the earth, and all manner of good comes upon it.
+
+### 2
+And now, my son, go and make known to thy son Lamech that this son, which has been born, is in truth his son, and that (this) is no lie.’
+
+### 3
+And when Methuselah had heard the words of his father Enoch--for he had shown to him everything in secret--he returned and showed (them) to him and called the name of that son Noah; for he will comfort the earth after all the destruction. An Appendix To The Book Of Enoch
+

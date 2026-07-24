@@ -1,0 +1,17 @@
+---
+book: "1 Enoch"
+chapter: 30
+canon: "Ethiopian-81"
+---
+
+# 1 Enoch 30
+
+### 0
+1 .And beyond these, I went afar to the east, and I saw another place, a valley (full) of water.
+
+### 2
+And ⌈therein there was⌉ a tree, the colour (?) of fragrant trees such as the mastic.
+
+### 3
+And on the sides of those valleys I saw fragrant cinnamon. And beyond these I proceeded to the east.
+
