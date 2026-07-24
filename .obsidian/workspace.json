@@ -11,10 +11,14 @@
             "id": "3fac804be7005181",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "08-NagHammadi/1st Apocalypse of James/Section-10.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Section-10"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "08-NagHammadi/1st Apocalypse of James/Section-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Section-10"
             }
           },
           {
@@ -193,34 +198,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "1b4321dd1d5d9ad5",
+  "active": "3fac804be7005181",
   "lastOpenFiles": [
-    "02-Historical/15-Ezra/Chapter 08.md",
-    "02-Historical/14-2Chronicles/Chapter 29.md",
-    "02-Historical/14-2Chronicles/Chapter 28.md",
-    "02-Historical/14-2Chronicles/Chapter 27.md",
-    "02-Historical/14-2Chronicles/Chapter 26.md",
-    "02-Historical/14-2Chronicles/Chapter 25.md",
-    "02-Historical/14-2Chronicles/Chapter 24.md",
-    "02-Historical/14-2Chronicles/Chapter 23.md",
-    "02-Historical/14-2Chronicles/Chapter 22.md",
-    "02-Historical/14-2Chronicles/Chapter 21.md",
-    "02-Historical/14-2Chronicles/Chapter 20.md",
-    "02-Historical/14-2Chronicles/Chapter 02.md",
-    "02-Historical/14-2Chronicles/Chapter 19.md",
-    "02-Historical/14-2Chronicles/Chapter 13.md",
-    "02-Historical/14-2Chronicles/Chapter 12.md",
-    "02-Historical/14-2Chronicles/Chapter 11.md",
-    "02-Historical/14-2Chronicles/Chapter 10.md",
-    "02-Historical/14-2Chronicles/Chapter 01.md",
-    "02-Historical/13-1Chronicles/Chapter 09.md",
-    "02-Historical/13-1Chronicles/Chapter 14.md",
-    "02-Historical/13-1Chronicles/Chapter 13.md",
-    "02-Historical/13-1Chronicles/Chapter 12.md",
-    "02-Historical/13-1Chronicles/Chapter 11.md",
-    "02-Historical/13-1Chronicles/Chapter 10.md",
-    "02-Historical/13-1Chronicles/Chapter 01.md",
-    "02-Historical/12-2Kings/Chapter 21.md",
+    "08-NagHammadi/1st Apocalypse of James/Section-02.md",
+    "08-NagHammadi/1st Apocalypse of James/Section-01.md",
+    "08-NagHammadi/GospelOfMary/Chapter-4/4-22.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-105.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-108.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-128.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-112.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-89.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-69.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-65.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-83.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-125.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-77.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-61.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-113.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-123.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-121.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-126.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-84.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-82.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-127.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-99.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-68.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-92.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-51.md",
+    "08-NagHammadi/Dialogue of the Savior/Section-63.md",
     "scripts/populate_final_6.py",
     "scripts/chunk_all_sections.py",
     "09-Pseudepigrapha/Odes of Solomon",
