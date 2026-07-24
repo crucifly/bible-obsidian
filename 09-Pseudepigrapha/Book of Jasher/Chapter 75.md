@@ -1,26 +1,87 @@
 ---
-book: "Book of Jasher"
+canon: Pseudepigrapha
+source_type: Scripture
+id: JASH-75
 chapter: 75
-canon: "Pseudepigrapha"
+title: "Book of Jasher - Chapter 75"
 ---
 
-# Book of Jasher 75
+# Book of Jasher - Chapter 75
 
-### 0
-auto 4px auto;width:100%}.mw-parser-output .wst-header-left{float:left}←Chapter 74Sefer Ha-yashar, or, the Book of Jasher (1840)Chapter 75Chapter 76→1622921Sefer Ha-yashar, or, the Book of Jasher (1840) — Chapter 75
+Chapter 75
 
-### 1
-vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-not-available skin-thumbsize-clientpref-standard";var cookie=document.cookie.match(/(?:^|; )enwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"603136c2-55c6-44d8-9190-45b2eb6376e7","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_75","wgTitle":"Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 75","wgCurRevisionId":11446104,"wgRevisionId":11446104,"wgArticleId":1622921,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Subpages","Headers applying DefaultSort key"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_75","wgRelevantArticleId":1622921,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Book_of_Jasher/Chapter_75","wgNoticeProject":"wikisource","wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditForceShowCaptcha":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgMediaViewerMobileBeta":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":4000,"wgInternalRedirectTargetUrl":"/wiki/Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_75","prpProofreadPageBookNamespaces":[0,0,114],"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgULSLanguageSelectorV2Enabled":true,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"]};
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 
-### 10
-And when the children of Gath saw the evil doings of the children of Ephraim, they returned and assembled the men of Gath, and they put on each man his armor, and came forth to the children of Ephraim for battle.
+Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 75
 
-### 30
-June 2021, at 02:16.
+< Sefer Ha-yashar, or, the Book of Jasher (1840)(Redirected from Book of Jasher/Chapter 75)
 
-### 75
-Add languages
+.mw-parser-output .wst-verse{color:#2E8B57}.mw-parser-output .wst-verse-left{position:absolute;left:1em}.mw-parser-output .wst-verse-float{float:left;text-align:right;margin-left:-4em;width:4em}@media screen{html.skin-theme-clientpref-night .mw-parser-output .wst-verse{color:#97efbe}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .wst-verse{color:#97efbe}}1At that time, in the hundred and eightieth year of the Israelites going down into Egypt, there went forth from Egypt valiant men, thirty thousand on foot, from the children of Israel, who were all of the tribe of Joseph, of the children of Ephraim the son of Joseph.
 
-### 612
-1 -total"," 65.63% 107.376 1 Template:Header"," 33.64% 55.045 22 Template:Verse"," 12.16% 19.891 22 Template:Makeid"," 12.14% 19.863 22 Template:Optional_style"]},"scribunto":{"limitreport-timeusage":{"value":"0.073","limit":"10.000"},"limitreport-memusage":{"value":1900348,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-5b5684bb46-z4cck","timestamp":"20260703183610","ttl":2592000,"transientcontent":false,"expiry-source":"Module:Header (os.date(%Y))"}}});});
+2For they said the period was completed which the Lord had appointed to the children of Israel in the times of old, which he had spoken to Abraham.
 
+3And these men girded themselves, and they put each man his sword at his side, and every man his armor upon him, and they trusted to their strength, and they went out together from Egypt with a mighty hand.
+
+4But they brought no provision for the road, only silver and gold, not even bread for that day did they bring in their hands, for they thought of getting their provision for pay from the Philistines, and if not they would take it by force.
+
+5And these men were very mighty and valiant men, one man could pursue a thousand and two could rout ten thousand, so they trusted to their strength and went together as they were.
+
+6And they directed their course toward the land of Gath, and they went down and found the shepherds of Gath feeding the cattle of the children of Gath.
+
+7And they said to the shepherds, Give us some of the sheep for pay, that we may eat, for we are hungry, for we have eaten no bread this day.
+
+8And the shepherds said, Are they our sheep or cattle that we should give them to you even for pay? so the children of Ephraim approached to take them by force.
+
+9And the shepherds of Gath shouted over them that their cry was heard at a distance, so all the children of Gath went out to them.
+
+10 And when the children of Gath saw the evil doings of the children of Ephraim, they returned and assembled the men of Gath, and they put on each man his armor, and came forth to the children of Ephraim for battle.
+
+11And they engaged with them in the valley of Gath, and the battle was severe, and they smote from each other a great many on that day.
+
+12And on the second day the children of Gath sent to all the cities of the Philistines that they should come to their help, saying,
+
+13Come up unto us and help us, that we may smite the children of Ephraim who have come forth from Egypt to take our cattle, and to fight against us without cause.
+
+14Now the souls of the children of Ephraim were exhausted with hunger and thirst, for they had eaten no bread for three days. And forty thousand men went forth from the cities of the Philistines to the assistance of the men of Gath.
+
+15And these men were engaged in battle with the children of Ephraim, and the Lord delivered the children of Ephraim into the hands of the Philistines.
+
+16And they smote all the children of Ephraim, all who had gone forth from Egypt, none were remaining but ten men who had run away from the engagement.
+
+17For this evil was from the Lord against the children of Ephraim, for they transgressed the word of the Lord in going forth from Egypt, before the period had arrived which the Lord in the days of old had appointed to Israel.
+
+18And of the Philistines also there fell a great many, about twenty thousand men, and their brethren carried them and buried them in their cities.
+
+19And the slain of the children of Ephraim remained forsaken in the valley of Gath for many days and years, and were not brought to burial, and the valley was filled with men's bones.
+
+20And the men who had escaped from the battle came to Egypt, and told all the children of Israel all that had befallen them.
+
+21And their father Ephraim mourned over them for many days, and his brethren came to console him.
+
+22And he came unto his wife and she bare a son, and he called his name Beriah, for she was unfortunate in his house.
+
+Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_75&oldid=11446104"
+
+Hidden categories: SubpagesHeaders applying DefaultSort key
+
+This page was last edited on 30 June 2021, at 02:16.
+
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+
+Privacy policy
+
+Disclaimers
+
+Code of Conduct
+
+Developers
+
+Statistics
+
+Cookie statement
+
+Mobile view
+
+Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 75
+
+Add topic

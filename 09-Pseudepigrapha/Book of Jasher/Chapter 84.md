@@ -1,23 +1,107 @@
 ---
-book: "Book of Jasher"
+canon: Pseudepigrapha
+source_type: Scripture
+id: JASH-84
 chapter: 84
-canon: "Pseudepigrapha"
+title: "Book of Jasher - Chapter 84"
 ---
 
-# Book of Jasher 84
+# Book of Jasher - Chapter 84
 
-### 0
-auto 4px auto;width:100%}.mw-parser-output .wst-header-left{float:left}←Chapter 83Sefer Ha-yashar, or, the Book of Jasher (1840)Chapter 84Chapter 85→1631168Sefer Ha-yashar, or, the Book of Jasher (1840) — Chapter 84
+Chapter 84
 
-### 1
-vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-not-available skin-thumbsize-clientpref-standard";var cookie=document.cookie.match(/(?:^|; )enwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"eaef15da-56be-4cda-aee1-e9a2b2e27b55","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_84","wgTitle":"Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 84","wgCurRevisionId":11446136,"wgRevisionId":11446136,"wgArticleId":1631168,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Subpages","Headers applying DefaultSort key"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_84","wgRelevantArticleId":1631168,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Book_of_Jasher/Chapter_84","wgNoticeProject":"wikisource","wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditForceShowCaptcha":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgMediaViewerMobileBeta":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":6000,"wgInternalRedirectTargetUrl":"/wiki/Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_84","prpProofreadPageBookNamespaces":[0,0,114],"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgULSLanguageSelectorV2Enabled":true,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"]};
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 
-### 30
-June 2021, at 02:19.
+Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 84
 
-### 84
-Add languages
+< Sefer Ha-yashar, or, the Book of Jasher (1840)(Redirected from Book of Jasher/Chapter 84)
 
-### 973
-1 -total"," 60.28% 62.675 1 Template:Header"," 38.53% 40.057 32 Template:Verse"," 14.95% 15.540 32 Template:Makeid"," 13.43% 13.962 32 Template:Optional_style"]},"scribunto":{"limitreport-timeusage":{"value":"0.046","limit":"10.000"},"limitreport-memusage":{"value":1933131,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-546fbbb8d9-jswvf","timestamp":"20260702124624","ttl":2592000,"transientcontent":false,"expiry-source":"Module:Header (os.date(%Y))"}}});});
+.mw-parser-output .wst-verse{color:#2E8B57}.mw-parser-output .wst-verse-left{position:absolute;left:1em}.mw-parser-output .wst-verse-float{float:left;text-align:right;margin-left:-4em;width:4em}@media screen{html.skin-theme-clientpref-night .mw-parser-output .wst-verse{color:#97efbe}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .wst-verse{color:#97efbe}}1At that time Korah the son of Jetzer the son of Kehath the son of Levi, took many men of the children of Israel, and they rose up and quarreled with Moses and Aaron and the whole congregation.
 
+2And the Lord was angry with them, and the earth opened its mouth, and swallowed them up, with their houses and all belonging to them, and all the men belonging to Korah.
+
+3And after this God made the people go round by the way of Mount Seir for a long time.
+
+4At that time the Lord said unto Moses, Provoke not a war against the children of Esau, for I will not give to you of any thing belonging to them, as much as the sole of the foot could tread upon, for I have given Mount Seir for an inheritance to Esau.
+
+5Therefore did the children of Esau fight against the children of Seir in former times, and the Lord had delivered the children of Seir into the hands of the children of Esau, and destroyed them from before them, and the children of Esau dwelt in their stead unto this day.
+
+6Therefore the Lord said to the children of Israel, Fight not against the children of Esau your brethren, for nothing in their land belongs to you, but you may buy food of them for money and eat it, and you may buy water of them for money and drink it.
+
+7And the children of Israel did according to the word of the Lord.
+
+8And the children of Israel went about the wilderness, going round by the way of Mount Sinai for a long time, and touched not the children of Esau, and they continued in that district for nineteen years.
+
+9At that time died Latinus king of the children of Chittim, in the forty-fifth year of his reign, which is the fourteenth year of the children of Israel's departure from Egypt.
+
+10And they buried him in his place which he had built for himself in the land of Chittim, and Abimnas reigned in his place for thirty-eight years.
+
+11And the children of Israel passed the boundary of the children of Esau in those days, at the end of nineteen years, and they came and passed the road of the wilderness of Moab.
+
+12And the Lord said to Moses, besiege not Moab, and do not fight against them, for I will give you nothing of their land.
+
+13And the children of Israel passed the road of the wilderness of Moab for nineteen years, and they did not fight against them.
+
+14And in the thirty-sixth year of the children of Israel's departing from Egypt the Lord smote the heart of Sihon, king of the Amorites, and he waged war, and went forth to fight against the children of Moab.
+
+15And Sihon sent messengers to Beor the son of Janeas, the son of Balaam, counsellor to the king of Egypt, and to Balaam his son, to curse Moab, in order that it might be delivered into the hand of Sihon.
+
+16And the messengers went and brought Beor the son of Janeas, and Balaam his son, from Pethor in Mesopotamia, so Beor and Balaam his son came to the city of Sihon and they cursed Moab and their king in the presence of Sihon king of the Amorites.
+
+17So Sihon went out with his whole army, and he went to Moab and fought against them, and he subdued them, and the Lord delivered them into his hands, and Sihon slew the king of Moab.
+
+18And Sihon took all the cities of Moab in the battle; he also took Heshbon from them, for Heshbon was one of the cities of Moab, and Sihon placed his princes and his nobles in Heshbon, and Heshbon belonged to Sihon in those days.
+
+19Therefore the parable speakers Beor and Balaam his son uttered these words, saying, Come unto Heshbon, the city of Sihon will be built and established.
+
+20Woe unto thee Moab! thou art lost, O people of Kemosh! behold it is written upon the book of the law of God.
+
+21And when Sihon had conquered Moab, he placed guards in the cities which he had taken from Moab, and a considerable number of the children of Moab fell in battle into the hand of Sihon, and he made a great capture of them, sons and daughters, and he slew their king; so Sihon turned back to his own land.
+
+22And Sihon gave numerous presents of silver and gold to Beor and Balaam his son, and he dismissed them, and they went to Mesopotamia to their home and country.
+
+23At that time all the children of Israel passed from the road of the wilderness of Moab, and returned and surrounded the wilderness of Edom.
+
+24So the whole congregation came to the wilderness of Sin in the first month of the fortieth year from their departure from Egypt, and the children of Israel dwelt there in Kadesh, of the wilderness of Sin, and Miriam died there and she was buried there.
+
+25At that time Moses sent messengers to Hadad king of Edom, saying, Thus says thy brother Israel, Let me pass I pray thee through thy land, we will not pass through field or vineyard, we will not drink the water of the well; we will walk in the king's road.
+
+26And Edom said to him, Thou shalt not pass through my country, and Edom went forth to meet the children of Israel with a mighty people.
+
+27And the children of Esau refused to let the children of Israel pass through their land, so the Israelites removed from them and fought not against them.
+
+28For before this the Lord had commanded the children of Israel, saying, You shall not fight against the children of Esau, therefore the Israelites removed from them and did not fight against them.
+
+29So the children of Israel departed from Kadesh, and all the people came to Mount Hor.
+
+30At that time the Lord said to Moses, Tell thy brother Aaron that he shall die there, for he shall not come to the land which I have given to the children of Israel.
+
+31And Aaron went up, at the command of the Lord, to Mount Hor, in the fortieth year, in the fifth month, in the first day of the month.
+
+32And Aaron was one hundred and twenty-three years old when he died in Mount Hor.
+
+Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_84&oldid=11446136"
+
+Hidden categories: SubpagesHeaders applying DefaultSort key
+
+This page was last edited on 30 June 2021, at 02:19.
+
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+
+Privacy policy
+
+Disclaimers
+
+Code of Conduct
+
+Developers
+
+Statistics
+
+Cookie statement
+
+Mobile view
+
+Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 84
+
+Add topic

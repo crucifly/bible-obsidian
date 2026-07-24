@@ -1,23 +1,75 @@
 ---
-book: "Book of Jasher"
+canon: Pseudepigrapha
+source_type: Scripture
+id: JASH-78
 chapter: 78
-canon: "Pseudepigrapha"
+title: "Book of Jasher - Chapter 78"
 ---
 
-# Book of Jasher 78
+# Book of Jasher - Chapter 78
 
-### 0
-auto 4px auto;width:100%}.mw-parser-output .wst-header-left{float:left}←Chapter 77Sefer Ha-yashar, or, the Book of Jasher (1840)Chapter 78Chapter 79→1630827Sefer Ha-yashar, or, the Book of Jasher (1840) — Chapter 78
+Chapter 78
 
-### 1
-vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-disabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-not-available skin-thumbsize-clientpref-standard";var cookie=document.cookie.match(/(?:^|; )enwikisourcemwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"95efa08e-ffad-43de-a964-d98bf707b026","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_78","wgTitle":"Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 78","wgCurRevisionId":11446112,"wgRevisionId":11446112,"wgArticleId":1630827,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Subpages","Headers applying DefaultSort key"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_78","wgRelevantArticleId":1630827,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Book_of_Jasher/Chapter_78","wgNoticeProject":"wikisource","wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditForceShowCaptcha":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgMediaViewerMobileBeta":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":3000,"wgInternalRedirectTargetUrl":"/wiki/Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_78","prpProofreadPageBookNamespaces":[0,0,114],"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgULSLanguageSelectorV2Enabled":true,"wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"]};
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
 
-### 30
-June 2021, at 02:17.
+Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 78
 
-### 78
-Add languages
+< Sefer Ha-yashar, or, the Book of Jasher (1840)(Redirected from Book of Jasher/Chapter 78)
 
-### 809
-1 -total"," 68.89% 87.360 1 Template:Header"," 30.26% 38.377 16 Template:Verse"," 11.75% 14.905 16 Template:Makeid"," 9.97% 12.642 16 Template:Optional_style"]},"scribunto":{"limitreport-timeusage":{"value":"0.061","limit":"10.000"},"limitreport-memusage":{"value":1890147,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-dc845fc45-rxrpf","timestamp":"20260701133245","ttl":2592000,"transientcontent":false,"expiry-source":"Module:Header (os.date(%Y))"}}});});
+.mw-parser-output .wst-verse{color:#2E8B57}.mw-parser-output .wst-verse-left{position:absolute;left:1em}.mw-parser-output .wst-verse-float{float:left;text-align:right;margin-left:-4em;width:4em}@media screen{html.skin-theme-clientpref-night .mw-parser-output .wst-verse{color:#97efbe}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .wst-verse{color:#97efbe}}1At that time died Baal Channan son of Achbor, king of Edom, and was buried in his house in the land of Edom.
 
+2And after his death the children of Esau sent to the land of Edom, and took from there a man who was in Edom, whose name was Hadad, and they made him king over them in the place of Baal Channan, their king.
+
+3And Hadad reigned over the children of Edom forty-eight years.
+
+4And when he reigned he resolved to fight against the children of Moab, to bring them under the power of the children of Esau as they were before, but he was not able, because the children of Moab heard this thing, and they rose up and hastened to elect a king over them from amongst their brethren.
+
+5And they afterward gathered together a great people, and sent to the children of Ammon their brethren for help to fight against Hadad king of Edom.
+
+6And Hadad heard the thing which the children of Moab had done, and was greatly afraid of them, and refrained from fighting against them.
+
+7In those days Moses, the son of Amram, in Midian, took Zipporah, the daughter of Reuel the Midianite, for a wife.
+
+8And Zipporah walked in the ways of the daughters of Jacob, she was nothing short of the righteousness of Sarah, Rebecca, Rachel and Leah.
+
+9And Zipporah conceived and bare a son and he called his name Gershom, for he said, I was a stranger in a foreign land; but he circumcised not his foreskin, at the command of Reuel his father-in-law.
+
+10And she conceived again and bare a son, but circumcised his foreskin, and called his name Eliezer, for Moses said, Because the God of my fathers was my help, and delivered me from the sword of Pharaoh.
+
+11And Pharaoh king of Egypt greatly increased the labor of the children of Israel in those days, and continued to make his yoke heavier upon the children of Israel.
+
+12And he ordered a proclamation to be made in Egypt, saying, Give no more straw to the people to make bricks with, let them go and gather themselves straw as they can find it.
+
+13Also the tale of bricks which they shall make let them give each day, and diminish nothing from them, for they are idle in their work.
+
+14And the children of Israel heard this, and they mourned and sighed, and they cried unto the Lord on account of the bitterness of their souls.
+
+15And the Lord heard the cries of the children of Israel, and saw the oppression with which the Egyptians oppressed them.
+
+16And the Lord was jealous of his people and his inheritance, and heard their voice, and he resolved to take them out of the affliction of Egypt, to give them the land of Canaan for a possession.
+
+Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_78&oldid=11446112"
+
+Hidden categories: SubpagesHeaders applying DefaultSort key
+
+This page was last edited on 30 June 2021, at 02:17.
+
+Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+
+Privacy policy
+
+Disclaimers
+
+Code of Conduct
+
+Developers
+
+Statistics
+
+Cookie statement
+
+Mobile view
+
+Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 78
+
+Add topic
