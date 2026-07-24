@@ -26,7 +26,7 @@ Built by **Crucifly, LLC** for the JEXXXUS Theological & Gnostic Intelligence En
 
 Every single verse and section exists as an individual Markdown note with structured YAML frontmatter, designed to serve as the **Source of Truth** for training, fine-tuning, and RAG (Retrieval-Augmented Generation) across large language models.
 
-This vault contains **zero commentary, zero interpretation, and zero subjective opinions** — only verbatim scripture and canonical metadata.
+This vault contains **zero commentary, zero interpretation, and zero subjective opinions**—only verbatim scripture and canonical metadata.
 
 ---
 
@@ -34,7 +34,7 @@ This vault contains **zero commentary, zero interpretation, and zero subjective 
 
 A strict validation rule governs this vault: only files tagged with `source_type: Scripture` or `source_type: Gnostic-Codex` are permitted to enter fine-tuning pipelines. Any file containing subjective commentary, modern commentary, or web navigation noise is quarantined and purged. 
 
-This architectural constraint — the **Iron Curtain** — ensures that AI models trained on this repository produce accurate, verbatim canonical output rather than hallucinated theology.
+This architectural constraint—the **Iron Curtain**—ensures that AI models trained on this repository produce accurate, verbatim canonical output rather than hallucinated theology.
 
 ---
 
