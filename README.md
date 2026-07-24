@@ -20,6 +20,12 @@ Built by **Crucifly, LLC** for the JEXXXUS Theological & Gnostic Intelligence En
 
 ---
 
+<div align="center">
+  <img src=".github/social-preview.png" alt="The Divine Vault Social Preview" width="100%">
+</div>
+
+---
+
 ## 📖 Overview & Purpose
 
 **The Divine Vault** is a machine-readable, verse-level and section-level decomposition of the complete **117-book expanded biblical canon**, encompassing the 81-Book Ethiopian Orthodox Tewahedo Bible, the Nag Hammadi Gnostic Library, and the Old Testament Pseudepigrapha. 
