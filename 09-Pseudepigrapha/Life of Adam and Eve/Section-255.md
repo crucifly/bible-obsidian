@@ -1,0 +1,11 @@
+---
+canon: Pseudepigrapha
+source_type: Scripture
+id: ADAMEVE-255
+section: 255
+title: "Life of Adam and Eve - Section 255"
+---
+
+# Life of Adam and Eve - Section 255
+
+24. And those who kept the gate of the (third) heaven demanded the password, and the Lord gave (it) to them in order that He should not be recognized. And when they saw Him, they did not praise or laud Him; for His form was like unto their form.

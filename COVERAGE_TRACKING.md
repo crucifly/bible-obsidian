@@ -20,8 +20,8 @@ This document serves as the **single source of truth** for ingestion progress ac
 | Metric | Value | Status |
 |--------|-------|--------|
 | **Total Verses Ingested** | 40,054 | ✅ Ethiopic Apocrypha Scaling |
-| **Total Verses Expected** | 86,706 | — |
-| **Overall Completion** | 46.2% | ✅ Scaling Vault |
+| **Total Verses Expected** | 94,306 | — |
+| **Overall Completion** | 42.5% | ✅ Scaling Vault |
 | **Books Started** | 82 | — |
 | **Books Complete** | 82 | — |
 | **Validation Errors** | 0 | ✅ Pass |
@@ -206,10 +206,25 @@ This document serves as the **single source of truth** for ingestion progress ac
 
 ---
 
+### 09. Pseudepigrapha & Lost Books (7 Books)
+
+| Book | Target Verses | Ingested | % Complete | Status | Last Updated |
+|------|--------------|----------|-----------|--------|--------------|
+| 3 Enoch | 900 | 0 | 0% | ⏳ Pending | — |
+| Apocalypse of Abraham | 600 | 0 | 0% | ⏳ Pending | — |
+| Sibylline Oracles | 1,200 | 0 | 0% | ⏳ Pending | — |
+| Testaments of the Twelve Patriarchs | 800 | 0 | 0% | ⏳ Pending | — |
+| Life / Books of Adam and Eve | 900 | 0 | 0% | ⏳ Pending | — |
+| Book of Jasher | 2,000 | 0 | 0% | ⏳ Pending | — |
+| 2 Baruch | 1,200 | 0 | 0% | ⏳ Pending | — |
+| **SUBTOTAL** | **7,600** | **0** | **0%** | ⏳ | — |
+
+---
+
 ## Aggregate Progress by Section
 
 ```mermaid
-pie title "Canon Coverage: 86,706 Verses Total"
+pie title "Canon Coverage: 94,306 Verses Total"
     "Torah (5.8k)" : 5852
     "Historical (8k)" : 8018
     "Poetic (4.8k)" : 4785
@@ -218,6 +233,7 @@ pie title "Canon Coverage: 86,706 Verses Total"
     "New Testament (7.8k)" : 7758
     "Ethiopic Apocrypha (8k)" : 8010
     "Additional Orthodox (3k)" : 3020
+    "Pseudepigrapha (7.6k)" : 7600
 ```
 
 ---
@@ -265,6 +281,12 @@ pie title "Canon Coverage: 86,706 Verses Total"
 - **Planned Dates**: 2026-09-01 to 2026-09-15
 - **Target**: Additional texts (3,020 verses)
 - **Expected Completion**: 2026-09-15
+- **Milestone**: Ethiopian Orthodox extensions complete
+
+### Phase 6: Pseudepigrapha & Lost Books ⏳ (PENDING)
+- **Planned Dates**: 2026-09-16 to 2026-09-30
+- **Target**: Pseudepigrapha (7,600 verses)
+- **Expected Completion**: 2026-09-30
 - **Milestone**: **FULL CANON COMPLETE** 🎉
 
 ---

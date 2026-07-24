@@ -2,16 +2,16 @@
 
 # 🕊️ The Divine Vault ☦️
 
-### A Verse-Level Canonical Dataset for the Ethiopian 81-Book Bible
+### A Verse-Level Canonical Dataset for the Expanded Biblical & Gnostic Canon
 
-**41,148 verses** · **7 canonical sections** · **81 books** · **Zero interpretation**
+**96,116 verses** · **11 canonical sections** · **117 books** · **Zero interpretation**
 
-Built by [BLXCKBOOK Labs](https://github.com/blackbooklabs) for the JEXXXUS Theological Intelligence Engine
+Built for the JEXXXUS Theological & Gnostic Intelligence Engine
 
 ---
 
-![Status](https://img.shields.io/badge/verses-41%2C148-gold?style=for-the-badge)
-![Canon](https://img.shields.io/badge/canon-Ethiopian--81-darkred?style=for-the-badge)
+![Status](https://img.shields.io/badge/verses-96%2C116-gold?style=for-the-badge)
+![Canon](https://img.shields.io/badge/canon-Ethiopian--81%20%2B%20Gnostic%20%2B%20Pseudepigrapha-darkred?style=for-the-badge)
 ![Format](https://img.shields.io/badge/format-Obsidian%20%2B%20JSONL-7C3AED?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-Public%20Domain%20(Scripture)-333?style=for-the-badge)
 

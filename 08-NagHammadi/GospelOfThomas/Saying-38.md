@@ -1,9 +1,0 @@
----
-canon: Nag-Hammadi
-source_type: Gnostic-Codex
-translation: Lambdin
-id: G-THOMAS-38
-saying: 38
----
-
-Jesus said, "Many times have you desired to hear these words which I am saying to you, and you have no one else to hear them from. There will be days when you will look for me and will not find me."

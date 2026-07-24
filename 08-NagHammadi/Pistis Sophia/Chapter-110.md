@@ -1,0 +1,24 @@
+---
+canon: Nag-Hammadi
+source_type: Gnostic-Codex
+id: PISTIS-110
+chapter: 110
+title: "Pistis Sophia - Chapter 110"
+translation: G.R.S. Mead
+---
+
+# Pistis Sophia - Chapter 110
+
+Chapter 110
+
+Pistis Sophia
+
+Next
+
+CHAPTER 109
+
+Mary continueth her questioning.And Mary answered and said: "Now, therefore, my Lord, hast thou then not brought mysteries into the world that man may not die through the death which is appointed him by the rulers of the Fate,--be it that it is appointed one to die by the sword or die by the waters or through tortures and torturings and acts of violence which are in the law, or through any other evil death,--hast thou then not brought mysteries into the world that man may not die with them through the rulers of the Fate, but that he may die by a sudden death, so that he endure no sufferings through such kinds of death? For they are exceedingly numerous who persecute us because of thee, and numerous those who persecute us because of thy name, in order that, if they torture us, we may speak the mystery and straightway go out of the body without having endured any sufferings at all."
+
+How he who possesseth the mysteries can come forth out of the body without suffering.The Saviour answered and said unto all his disciples: "Concerning this word on which ye question me, I have spoken unto you at another time; but hearken again that I may say it unto you anew: Not only ye, but every man who will accomplish that first mystery of the First Mystery of the Ineffable,--he who, therefore, shall perform that mystery and accomplish it in all its figures and all its types and all its stations, in
+
+performing it, he will not come out of the body; but after he hath accomplished that mystery in all its figures and all its types, thereafter then at every time when he shall speak the name of that mystery, he will save himself from all that which is appointed him by the rulers of the Fate. And in that hour he will come forth out of the body of the matter of the rulers, and his soul will become a great light-stream, so that it soareth on high and penetrateth all the regions of the rulers and all the regions of the Light, until it reacheth the region of its kingdom. Neither giveth it answers nor apologies in any region at all, for it is without tokens."

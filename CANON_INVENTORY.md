@@ -240,6 +240,42 @@ Each book entry includes:
 
 ---
 
+## X. Pseudepigrapha & Lost Books (7 Books)
+
+| ID | Book Name | Chapters | Verses | Notes |
+|----|-----------|----------|--------|-------|
+| 3ENOCH | 3 Enoch (Hebrew Book of Enoch) | 48 | 900 | Merkabah mysticism |
+| APABR | Apocalypse of Abraham | 32 | 600 | Pseudepigraphal apocalyptic text |
+| SIB | Sibylline Oracles | 14 | 1,200 | Greek hexameter prophecies |
+| T12PAT | Testaments of the Twelve Patriarchs | 12 | 800 | Pseudepigraphal testaments |
+| ADAMEVE | Life / Books of Adam and Eve | 43 | 900 | Old Testament Pseudepigrapha |
+| JASH | Book of Jasher | 91 | 2,000 | Midrashic compilation |
+| 2BAR | 2 Baruch (Syriac Apocalypse) | 87 | 1,200 | Pseudepigraphal apocalypse |
+
+**Subtotal: 327 chapters, 7,600 verses**
+
+---
+
+## XI. Nag Hammadi & Gnostic Codices (11 Books)
+
+| ID | Book Name | Chapters | Verses | Notes |
+|----|-----------|----------|--------|-------|
+| G-THOMAS | Gospel of Thomas | 1 | 114 | 114 Secret Sayings |
+| G-PHILIP | Gospel of Philip | 1 | 68 | Valentinian Gnostic Codex |
+| G-TRUTH | Gospel of Truth | 1 | 40 | Valentinian Homily |
+| APOCJN | Apocryphon of John | 1 | 27 | Secret Revelation of John |
+| MARY | Gospel of Mary | 4 | 54 | Berlin Codex 8502 |
+| JUDAS | Gospel of Judas | 1 | 15 | Tchacos Codex |
+| THUNDER | Thunder, Perfect Mind | 1 | 2 | Gnostic Poem |
+| PISTIS | Pistis Sophia | 144 | 1,440 | Askew Codex (Books 1–4) |
+| 1APOCJAM | First Apocalypse of James | 1 | 15 | Codex V,3 |
+| 2APOCJAM | Second Apocalypse of James | 1 | 15 | Codex V,4 |
+| APOCJAM | Secret Book of James | 1 | 20 | Codex I,2 |
+
+**Subtotal: 153 chapters, 1,810 verses**
+
+---
+
 ## Canon Summary
 
 | Section | Books | Chapters | Verses | % of Total |
@@ -252,8 +288,10 @@ Each book entry includes:
 | Deuterocanonical | 15 | 169 | 3,771 | 4.4% |
 | New Testament | 27 | 260 | 7,758 | 9.0% |
 | Ethiopic Apocrypha | 10 | 332 | 8,010 | 9.3% |
-| Additional Orthodox | 8 | 167 | 3,020 | 3.5% |
-| **TOTAL** | **99** | **1,858** | **86,706** | **100%** |
+| Additional Orthodox | 8 | 167 | 3,020 | 3.1% |
+| Pseudepigrapha & Lost Books | 7 | 327 | 7,600 | 7.9% |
+| Nag Hammadi & Gnostic Codices | 11 | 153 | 1,810 | 1.9% |
+| **TOTAL** | **117** | **2,338** | **96,116** | **100%** |
 
 ---
 
@@ -272,7 +310,8 @@ This table is updated as verses are ingested into the vault:
 | New Testament | 7,758 | 7,885 | 100% | 2026-05-06 |
 | Ethiopic Apocrypha | 8,010 | 4,151 | 51.8% | 2026-05-06 |
 | Additional Orthodox | 3,020 | 0 | 0% | — |
-| **GRAND TOTAL** | **86,706** | **41,138** | **47.4%** | **2026-05-06** |
+| Pseudepigrapha & Lost Books | 7,600 | 0 | 0% | — |
+| **GRAND TOTAL** | **94,306** | **41,138** | **43.6%** | **2026-05-06** |
 
 ---
 

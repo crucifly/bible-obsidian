@@ -1,9 +1,0 @@
----
-canon: Nag-Hammadi
-source_type: Gnostic-Codex
-translation: Lambdin
-id: G-THOMAS-111
-saying: 111
----
-
-Jesus said, "The heavens and the earth will be rolled up in your presence. And the one who lives from the living one will not see death." Does not Jesus say, "Whoever finds himself is superior to the world?"

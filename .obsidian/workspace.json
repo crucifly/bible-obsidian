@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "feb31d640c1cad73",
+        "id": "d0c811cc5f0fc7c3",
         "type": "tabs",
-        "dimension": 69.96587030716724,
         "children": [
           {
-            "id": "af46d82218f59a8f",
+            "id": "3fac804be7005181",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06-NewTestament/55-Matthew/Chapter 1/1-4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1-4"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4cec811777e05e6b",
-        "type": "tabs",
-        "dimension": 30.034129692832767,
-        "children": [
-          {
-            "id": "9aa2c70f840b822c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -112,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-NewTestament/55-Matthew/Chapter 1/1-4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1-4"
+              "title": "Backlinks"
             }
           },
           {
@@ -184,11 +161,26 @@
             }
           }
         ]
+      },
+      {
+        "id": "63ed8a06744d2c72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af46d82218f59a8f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,43 +193,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "9aa2c70f840b822c",
+  "active": "1b4321dd1d5d9ad5",
   "lastOpenFiles": [
-    "06-NewTestament/55-Matthew/Chapter 1/1-4.md",
-    "AGENTS.md",
-    "06-NewTestament/55-Matthew/Chapter 1/1-3.md",
-    "06-NewTestament/55-Matthew/Chapter 1/1-2.md",
-    "06-NewTestament/55-Matthew/Chapter 1/1-1.md",
-    "COVERAGE_TRACKING.md",
-    "08-NagHammadi/GospelOfPhilip/Section-68.md",
-    "08-NagHammadi/GospelOfPhilip/Section-67.md",
-    "08-NagHammadi/GospelOfPhilip/Section-66.md",
-    "08-NagHammadi/GospelOfPhilip/Section-65.md",
-    "08-NagHammadi/GospelOfPhilip/Section-64.md",
-    "08-NagHammadi/GospelOfPhilip/Section-63.md",
-    "08-NagHammadi/GospelOfPhilip/Section-62.md",
-    "08-NagHammadi/GospelOfPhilip/Section-61.md",
-    "08-NagHammadi/GospelOfPhilip/Section-60.md",
-    "08-NagHammadi/GospelOfPhilip/Section-59.md",
-    "08-NagHammadi/GospelOfPhilip/Section-58.md",
-    "08-NagHammadi/GospelOfPhilip/Section-57.md",
-    "08-NagHammadi/GospelOfPhilip/Section-56.md",
-    "08-NagHammadi/GospelOfPhilip/Section-55.md",
-    "08-NagHammadi/GospelOfPhilip/Section-54.md",
-    "08-NagHammadi/GospelOfPhilip/Section-53.md",
-    "08-NagHammadi/GospelOfPhilip/Section-52.md",
-    "08-NagHammadi/GospelOfPhilip/Section-51.md",
-    "08-NagHammadi/GospelOfPhilip/Section-50.md",
-    "08-NagHammadi/GospelOfPhilip/Section-49.md",
-    "08-NagHammadi/GospelOfPhilip",
-    "08-NagHammadi/GospelOfTruth",
-    "08-NagHammadi/GospelOfThomas",
-    "08-NagHammadi",
-    "07-EthiopicApocrypha/73-Didascalica",
-    "07-EthiopicApocrypha/72-ApostolicConstitutions/HornerStatutes",
-    "Horner Statutes",
-    "05-Deuterocanonical/53-3Meqabyan/Chapter 10",
-    "05-Deuterocanonical/53-3Meqabyan/Chapter 9",
-    "05-Deuterocanonical/53-3Meqabyan/Chapter 8"
+    "08-NagHammadi/Authoritative Teaching/Section-57.md",
+    "08-NagHammadi/Authoritative Teaching/Section-56.md",
+    "08-NagHammadi/Authoritative Teaching/Section-55.md",
+    "08-NagHammadi/Authoritative Teaching/Section-54.md",
+    "08-NagHammadi/Authoritative Teaching/Section-53.md",
+    "08-NagHammadi/Authoritative Teaching/Section-52.md",
+    "08-NagHammadi/Authoritative Teaching/Section-51.md",
+    "08-NagHammadi/Authoritative Teaching/Section-50.md",
+    "08-NagHammadi/Authoritative Teaching/Section-49.md",
+    "08-NagHammadi/Authoritative Teaching/Section-48.md",
+    "08-NagHammadi/Authoritative Teaching/Section-47.md",
+    "08-NagHammadi/Authoritative Teaching/Section-46.md",
+    "08-NagHammadi/Authoritative Teaching/Section-45.md",
+    "08-NagHammadi/Authoritative Teaching/Section-44.md",
+    "08-NagHammadi/Authoritative Teaching/Section-43.md",
+    "08-NagHammadi/Authoritative Teaching/Section-42.md",
+    "08-NagHammadi/Authoritative Teaching/Section-41.md",
+    "08-NagHammadi/Authoritative Teaching/Section-40.md",
+    "08-NagHammadi/Authoritative Teaching/Section-39.md",
+    "08-NagHammadi/Authoritative Teaching/Section-38.md",
+    "08-NagHammadi/Authoritative Teaching/Section-37.md",
+    "08-NagHammadi/Authoritative Teaching/Section-36.md",
+    "08-NagHammadi/Authoritative Teaching/Section-35.md",
+    "08-NagHammadi/Authoritative Teaching/Section-34.md",
+    "08-NagHammadi/Authoritative Teaching/Section-33.md",
+    "08-NagHammadi/Authoritative Teaching/Section-32.md",
+    "scripts/chunk_all_sections.py",
+    "09-Pseudepigrapha/Odes of Solomon",
+    "09-Pseudepigrapha/Book of Jasher/Chapter-91",
+    "09-Pseudepigrapha/Book of Jasher/Chapter-90",
+    "09-Pseudepigrapha/Book of Jasher/Chapter-89",
+    "09-Pseudepigrapha/Book of Jasher/Chapter-88",
+    "09-Pseudepigrapha/Book of Jasher/Chapter-87",
+    "09-Pseudepigrapha/Book of Jasher/Chapter-86",
+    "09-Pseudepigrapha/Book of Jasher/Chapter-85",
+    "09-Pseudepigrapha/Book of Jasher/Chapter-84"
   ]
 }
