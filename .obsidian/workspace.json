@@ -11,14 +11,10 @@
             "id": "3fac804be7005181",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "08-NagHammadi/1st Apocalypse of James/Section-10.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Section-10"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08-NagHammadi/1st Apocalypse of James/Section-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Section-10"
+              "title": "Backlinks"
             }
           },
           {
@@ -198,34 +193,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "3fac804be7005181",
+  "active": "1b4321dd1d5d9ad5",
   "lastOpenFiles": [
-    "08-NagHammadi/1st Apocalypse of James/Section-02.md",
-    "08-NagHammadi/1st Apocalypse of James/Section-01.md",
-    "08-NagHammadi/GospelOfMary/Chapter-4/4-22.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-105.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-108.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-128.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-112.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-89.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-69.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-65.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-83.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-125.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-77.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-61.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-113.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-123.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-121.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-126.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-84.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-82.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-127.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-99.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-68.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-92.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-51.md",
-    "08-NagHammadi/Dialogue of the Savior/Section-63.md",
+    "05-Deuterocanonical/49-Susanna/Chapter 01.md",
+    "05-Deuterocanonical/48-PrayerofAzariah/Chapter 01.md",
+    "Chapter 01.md",
+    "09-Pseudepigrapha/Sibylline Oracles/Chapter 01.md",
+    "09-Pseudepigrapha/Odes of Solomon/Chapter 01.md",
+    "09-Pseudepigrapha/Life of Adam and Eve/Chapter 01.md",
+    "09-Pseudepigrapha/Ascension of Isaiah/Chapter 01.md",
+    "09-Pseudepigrapha/Apocalypse of Abraham/Chapter 01.md",
+    "08-NagHammadi/Zostrianos/Chapter 01.md",
+    "08-NagHammadi/Trimorphic Protennoia/Chapter 01.md",
+    "08-NagHammadi/Sophia of Jesus Christ/Chapter 01.md",
+    "08-NagHammadi/Second Discourse of Great Seth/Chapter 01.md",
+    "08-NagHammadi/On the Origin of the World/Chapter 01.md",
+    "08-NagHammadi/Hypostasis of the Archons/Chapter 01.md",
+    "08-NagHammadi/Gospel of Truth/Chapter 01.md",
+    "08-NagHammadi/Gospel of Thomas/Chapter 01.md",
+    "08-NagHammadi/Gospel of Philip/Chapter 01.md",
+    "08-NagHammadi/Gospel of Judas/Chapter 01.md",
+    "08-NagHammadi/Exegesis on the Soul/Chapter 01.md",
+    "08-NagHammadi/Dialogue of the Savior/Chapter 01.md",
+    "08-NagHammadi/Concept of Our Great Power/Chapter 01.md",
+    "09-Pseudepigrapha/Testaments of the Twelve Patriarchs/Chapter 01.md",
+    "08-NagHammadi/Tripartite Tractate/Chapter 01.md",
+    "08-NagHammadi/1st Apocalypse of James/Chapter 01.md",
+    "07-EthiopicApocrypha/73-Didascalica/Chapter 01.md",
+    "07-EthiopicApocrypha/70-PsalmsOfSolomon/Chapter 9/Chapter 01.md",
     "scripts/populate_final_6.py",
     "scripts/chunk_all_sections.py",
     "09-Pseudepigrapha/Odes of Solomon",
