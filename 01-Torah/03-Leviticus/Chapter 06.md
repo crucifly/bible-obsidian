@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 6
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 6

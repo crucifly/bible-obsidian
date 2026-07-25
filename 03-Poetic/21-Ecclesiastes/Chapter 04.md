@@ -1,7 +1,7 @@
 ---
 book: "Ecclesiastes"
 chapter: 4
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Ecclesiastes 4

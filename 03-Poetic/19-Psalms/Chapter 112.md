@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 112
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 112

@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 87
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 87

@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 4
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 4

@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 23
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 23

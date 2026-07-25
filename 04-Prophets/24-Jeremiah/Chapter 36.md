@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 36
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 36

@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 13
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 13

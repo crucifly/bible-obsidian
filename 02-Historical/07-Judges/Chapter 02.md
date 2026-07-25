@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 2
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 2

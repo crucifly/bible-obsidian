@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 31
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 31

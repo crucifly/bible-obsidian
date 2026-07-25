@@ -1,7 +1,7 @@
 ---
 book: "Tobit"
 chapter: 8
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Tobit 8

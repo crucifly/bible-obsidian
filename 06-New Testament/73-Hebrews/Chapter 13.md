@@ -1,7 +1,7 @@
 ---
 book: "Hebrews"
 chapter: 13
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Hebrews 13

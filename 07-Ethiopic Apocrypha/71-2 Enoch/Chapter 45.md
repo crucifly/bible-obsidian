@@ -1,7 +1,7 @@
 ---
-book: "Chapter 45"
-chapter: 1
-canon: "Ethiopic-81"
+book: "2 Enoch"
+chapter: 45
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 45

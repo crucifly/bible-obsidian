@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 5
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 5

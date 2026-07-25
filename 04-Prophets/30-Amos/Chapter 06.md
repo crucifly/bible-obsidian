@@ -1,7 +1,7 @@
 ---
 book: "Amos"
 chapter: 6
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Amos 6

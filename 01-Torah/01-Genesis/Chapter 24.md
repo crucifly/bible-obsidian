@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 24
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 24

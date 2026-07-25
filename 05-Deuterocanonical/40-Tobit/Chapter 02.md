@@ -1,7 +1,7 @@
 ---
 book: "Tobit"
 chapter: 2
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Tobit 2

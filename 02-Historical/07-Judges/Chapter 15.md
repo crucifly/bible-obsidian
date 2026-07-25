@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 15
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 15

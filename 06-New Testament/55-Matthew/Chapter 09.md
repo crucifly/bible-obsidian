@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 9
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 9

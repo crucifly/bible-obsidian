@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 32
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 32

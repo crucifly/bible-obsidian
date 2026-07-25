@@ -1,7 +1,7 @@
 ---
 book: "Lamentations"
 chapter: 4
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Lamentations 4

@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 12
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 12

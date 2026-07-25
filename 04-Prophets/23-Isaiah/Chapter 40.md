@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 40
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 40

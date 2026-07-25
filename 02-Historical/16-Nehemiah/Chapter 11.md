@@ -1,7 +1,7 @@
 ---
 book: "Nehemiah"
 chapter: 11
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Nehemiah 11

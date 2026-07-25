@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 46
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 46

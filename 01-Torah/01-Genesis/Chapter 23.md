@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 23
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 23

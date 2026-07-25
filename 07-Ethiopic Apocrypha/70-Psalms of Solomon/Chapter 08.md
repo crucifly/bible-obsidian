@@ -1,7 +1,7 @@
 ---
-book: "Chapter 8"
-chapter: 1
-canon: "Ethiopic-81"
+book: "Psalms of Solomon"
+chapter: 8
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 8

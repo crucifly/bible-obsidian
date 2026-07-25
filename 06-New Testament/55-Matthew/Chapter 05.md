@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 5
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 5

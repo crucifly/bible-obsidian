@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 39
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 39

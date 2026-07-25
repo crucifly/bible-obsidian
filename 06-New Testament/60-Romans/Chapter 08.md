@@ -1,7 +1,7 @@
 ---
 book: "Romans"
 chapter: 8
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Romans 8

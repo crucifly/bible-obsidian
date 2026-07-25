@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 25
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 25

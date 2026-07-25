@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 26
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 26

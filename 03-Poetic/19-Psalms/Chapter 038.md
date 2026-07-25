@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 38
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 38

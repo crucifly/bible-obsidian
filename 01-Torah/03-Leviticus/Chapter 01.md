@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 1
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 1

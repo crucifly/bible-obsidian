@@ -1,7 +1,7 @@
 ---
-book: "Chapter 33"
-chapter: 1
-canon: "Ethiopic-81"
+book: "2 Enoch"
+chapter: 33
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 33

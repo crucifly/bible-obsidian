@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 79
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 79

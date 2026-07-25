@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 49
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 49

@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 18
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 18

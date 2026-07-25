@@ -1,7 +1,7 @@
 ---
 book: "Proverbs"
 chapter: 17
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Proverbs 17

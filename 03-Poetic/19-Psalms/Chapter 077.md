@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 77
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 77

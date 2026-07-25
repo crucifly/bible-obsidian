@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 33
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 33

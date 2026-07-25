@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 5
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 5

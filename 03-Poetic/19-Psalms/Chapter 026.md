@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 26
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 26

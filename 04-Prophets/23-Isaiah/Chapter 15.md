@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 15
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 15

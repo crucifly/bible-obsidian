@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 30
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 30

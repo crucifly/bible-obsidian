@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 78
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 78

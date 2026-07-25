@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 6
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 6

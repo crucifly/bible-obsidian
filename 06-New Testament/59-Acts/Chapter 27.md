@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 27
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 27

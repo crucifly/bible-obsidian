@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 19
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 19

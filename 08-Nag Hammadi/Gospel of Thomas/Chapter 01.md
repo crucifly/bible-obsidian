@@ -1,7 +1,7 @@
 ---
 book: "Gospel of Thomas"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Gospel of Thomas

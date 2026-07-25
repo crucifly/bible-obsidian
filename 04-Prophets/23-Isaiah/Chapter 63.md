@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 63
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 63

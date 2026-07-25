@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 42
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 42

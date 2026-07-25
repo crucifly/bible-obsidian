@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 57
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 57

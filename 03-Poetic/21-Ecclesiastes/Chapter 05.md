@@ -1,7 +1,7 @@
 ---
 book: "Ecclesiastes"
 chapter: 5
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Ecclesiastes 5

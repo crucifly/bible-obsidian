@@ -1,7 +1,7 @@
 ---
-book: "Chapter 58"
-chapter: 1
-canon: "Ethiopic-81"
+book: "2 Enoch"
+chapter: 58
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 58

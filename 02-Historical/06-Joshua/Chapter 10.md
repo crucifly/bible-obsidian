@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 10
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 10

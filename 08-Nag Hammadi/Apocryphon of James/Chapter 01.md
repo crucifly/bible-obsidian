@@ -1,7 +1,7 @@
 ---
 book: "Apocryphon of James"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Apocryphon of James

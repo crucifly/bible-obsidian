@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 15
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 15

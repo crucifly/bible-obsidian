@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 21
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 21

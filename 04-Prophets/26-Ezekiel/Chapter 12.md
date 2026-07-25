@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 12
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 12

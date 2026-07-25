@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 24
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 24

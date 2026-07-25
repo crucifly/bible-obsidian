@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 13
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 13

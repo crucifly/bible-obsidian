@@ -1,7 +1,7 @@
 ---
-book: "Chapter 36"
-chapter: 1
-canon: "Ethiopic-81"
+book: "2 Enoch"
+chapter: 36
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 36

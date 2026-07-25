@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 7
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 7

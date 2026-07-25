@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 10
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 10

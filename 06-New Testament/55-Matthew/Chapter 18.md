@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 18
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 18

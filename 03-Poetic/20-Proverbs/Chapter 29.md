@@ -1,7 +1,7 @@
 ---
 book: "Proverbs"
 chapter: 29
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Proverbs 29

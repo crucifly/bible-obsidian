@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 24
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 24

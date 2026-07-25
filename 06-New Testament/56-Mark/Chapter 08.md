@@ -1,7 +1,7 @@
 ---
 book: "Mark"
 chapter: 8
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Mark 8

@@ -1,7 +1,7 @@
 ---
 book: "Nehemiah"
 chapter: 7
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Nehemiah 7

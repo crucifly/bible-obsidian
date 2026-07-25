@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 25
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 25

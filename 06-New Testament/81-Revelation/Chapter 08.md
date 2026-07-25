@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 8
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 8

@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 26
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 26

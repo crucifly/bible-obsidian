@@ -1,7 +1,7 @@
 ---
 book: "1 Corinthians"
 chapter: 8
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # 1 Corinthians 8

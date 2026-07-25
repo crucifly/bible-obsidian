@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 58
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 58

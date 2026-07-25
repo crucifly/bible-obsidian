@@ -1,7 +1,7 @@
 ---
 book: "Micah"
 chapter: 4
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Micah 4

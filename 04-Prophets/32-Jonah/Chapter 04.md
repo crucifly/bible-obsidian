@@ -1,7 +1,7 @@
 ---
 book: "Jonah"
 chapter: 4
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jonah 4

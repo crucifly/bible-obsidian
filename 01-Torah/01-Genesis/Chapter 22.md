@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 22
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 22

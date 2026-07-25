@@ -1,7 +1,7 @@
 ---
 book: "1 Peter"
 chapter: 4
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # 1 Peter 4

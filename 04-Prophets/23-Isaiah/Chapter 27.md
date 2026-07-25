@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 27
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 27

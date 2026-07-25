@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 46
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 46

@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 34
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 34

@@ -1,7 +1,7 @@
 ---
 book: "Zechariah"
 chapter: 7
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Zechariah 7

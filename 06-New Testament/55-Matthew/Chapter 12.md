@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 12
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 12

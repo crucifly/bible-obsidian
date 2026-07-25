@@ -1,7 +1,7 @@
 ---
 book: "Malachi"
 chapter: 1
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Malachi 1

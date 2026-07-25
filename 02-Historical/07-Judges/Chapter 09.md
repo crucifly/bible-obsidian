@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 9
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 9

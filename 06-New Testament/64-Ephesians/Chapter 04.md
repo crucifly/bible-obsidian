@@ -1,7 +1,7 @@
 ---
 book: "Ephesians"
 chapter: 4
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Ephesians 4

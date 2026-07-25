@@ -1,7 +1,7 @@
 ---
 book: "Romans"
 chapter: 12
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Romans 12

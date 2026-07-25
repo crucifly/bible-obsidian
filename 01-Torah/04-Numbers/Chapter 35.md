@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 35
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 35

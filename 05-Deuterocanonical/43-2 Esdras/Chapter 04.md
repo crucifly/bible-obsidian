@@ -1,7 +1,7 @@
 ---
-book: "Chapter 4"
-chapter: 1
-canon: "Unknown"
+book: "2 Esdras"
+chapter: 4
+canon: "Deuterocanonical"
 ---
 
 # Chapter 4

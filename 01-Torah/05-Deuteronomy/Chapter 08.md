@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 8
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 8

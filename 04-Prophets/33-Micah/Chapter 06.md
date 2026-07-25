@@ -1,7 +1,7 @@
 ---
 book: "Micah"
 chapter: 6
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Micah 6

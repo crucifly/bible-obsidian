@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 14
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 14

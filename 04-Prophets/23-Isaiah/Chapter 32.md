@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 32
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 32

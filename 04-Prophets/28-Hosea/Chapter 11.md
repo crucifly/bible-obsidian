@@ -1,7 +1,7 @@
 ---
 book: "Hosea"
 chapter: 11
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Hosea 11

@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 24
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 24

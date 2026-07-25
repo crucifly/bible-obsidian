@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 21
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 21

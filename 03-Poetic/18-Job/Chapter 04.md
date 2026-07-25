@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 4
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 4

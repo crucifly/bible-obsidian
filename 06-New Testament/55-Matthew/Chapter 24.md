@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 24
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 24

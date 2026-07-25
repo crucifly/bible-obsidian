@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 18
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 18

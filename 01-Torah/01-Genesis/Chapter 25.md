@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 25
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 25

@@ -1,7 +1,7 @@
 ---
 book: "2 Meqabyan"
 chapter: 17
-canon: "Ethiopian-81"
+canon: "Deuterocanonical"
 ---
 
 # 2 Meqabyan 17

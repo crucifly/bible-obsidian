@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 5
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 5

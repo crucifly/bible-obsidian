@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 76
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 76

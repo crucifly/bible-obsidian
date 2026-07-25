@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 35
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 35

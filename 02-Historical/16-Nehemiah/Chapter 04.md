@@ -1,7 +1,7 @@
 ---
 book: "Nehemiah"
 chapter: 4
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Nehemiah 4

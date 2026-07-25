@@ -1,7 +1,7 @@
 ---
 book: "Proverbs"
 chapter: 22
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Proverbs 22

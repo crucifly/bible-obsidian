@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 36
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 36

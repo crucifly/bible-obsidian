@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 47
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 47

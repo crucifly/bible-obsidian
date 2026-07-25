@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 3
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 3

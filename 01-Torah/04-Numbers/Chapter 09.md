@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 9
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 9

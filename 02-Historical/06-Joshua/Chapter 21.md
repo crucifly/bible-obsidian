@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 21
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 21

@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 46
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 46

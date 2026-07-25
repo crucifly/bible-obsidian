@@ -1,7 +1,7 @@
 ---
 book: "Ezra"
 chapter: 2
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Ezra 2

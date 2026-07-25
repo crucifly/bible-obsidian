@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 31
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 31

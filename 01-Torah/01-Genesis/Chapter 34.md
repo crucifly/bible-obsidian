@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 34
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 34

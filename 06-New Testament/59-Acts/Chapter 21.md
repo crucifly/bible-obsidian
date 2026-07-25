@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 21
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 21

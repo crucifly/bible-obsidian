@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 16
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 16

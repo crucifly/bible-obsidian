@@ -1,7 +1,7 @@
 ---
 book: "Didascalia"
 chapter: 2
-canon: "Ethiopic-81"
+canon: "Ethiopic Apocrypha"
 ---
 
 # Didascalia 2

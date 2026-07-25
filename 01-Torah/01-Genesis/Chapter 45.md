@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 45
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 45

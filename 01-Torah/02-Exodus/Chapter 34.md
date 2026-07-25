@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 34
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 34

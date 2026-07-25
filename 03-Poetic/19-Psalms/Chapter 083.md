@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 83
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 83

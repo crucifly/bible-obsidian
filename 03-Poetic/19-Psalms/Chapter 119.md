@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 119
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 119

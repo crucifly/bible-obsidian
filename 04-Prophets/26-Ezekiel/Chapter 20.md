@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 20
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 20

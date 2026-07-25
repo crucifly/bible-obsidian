@@ -1,7 +1,7 @@
 ---
 book: "Ecclesiastes"
 chapter: 8
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Ecclesiastes 8

@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 11
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 11

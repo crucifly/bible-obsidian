@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 17
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 17

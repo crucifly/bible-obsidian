@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 37
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 37

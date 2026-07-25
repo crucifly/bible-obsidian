@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 9
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 9

@@ -1,7 +1,7 @@
 ---
 book: "Exegesis on the Soul"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Exegesis on the Soul

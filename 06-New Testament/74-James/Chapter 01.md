@@ -1,7 +1,7 @@
 ---
 book: "James"
 chapter: 1
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # James 1

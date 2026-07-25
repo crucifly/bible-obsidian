@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 8
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 8

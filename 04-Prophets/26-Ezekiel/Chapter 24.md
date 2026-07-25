@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 24
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 24

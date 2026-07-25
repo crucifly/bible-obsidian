@@ -1,7 +1,7 @@
 ---
 book: "1 Kings"
 chapter: 12
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # 1 Kings 12

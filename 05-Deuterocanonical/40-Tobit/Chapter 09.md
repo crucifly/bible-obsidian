@@ -1,7 +1,7 @@
 ---
 book: "Tobit"
 chapter: 9
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Tobit 9

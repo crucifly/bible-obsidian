@@ -1,7 +1,7 @@
 ---
 book: "Daniel"
 chapter: 10
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Daniel 10

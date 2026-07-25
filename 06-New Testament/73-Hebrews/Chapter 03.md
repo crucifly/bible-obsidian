@@ -1,7 +1,7 @@
 ---
 book: "Hebrews"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Hebrews 3

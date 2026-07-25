@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 138
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 138

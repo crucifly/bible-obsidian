@@ -1,7 +1,7 @@
 ---
-book: "Song of Solomon"
+book: "Song of Songs"
 chapter: 4
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Song of Solomon 4

@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 1
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 1

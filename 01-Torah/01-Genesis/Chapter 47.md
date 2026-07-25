@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 47
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 47

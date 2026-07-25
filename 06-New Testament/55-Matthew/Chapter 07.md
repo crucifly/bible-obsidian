@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 7
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 7

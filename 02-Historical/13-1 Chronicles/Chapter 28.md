@@ -1,7 +1,7 @@
 ---
 book: "1 Chronicles"
 chapter: 28
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # 1 Chronicles 28

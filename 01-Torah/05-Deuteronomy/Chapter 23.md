@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 23
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 23

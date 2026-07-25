@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 15
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 15

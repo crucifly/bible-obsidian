@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 3
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 3

@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 124
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 124

@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 41
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 41

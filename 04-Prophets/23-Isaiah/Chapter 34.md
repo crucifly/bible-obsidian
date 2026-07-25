@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 34
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 34

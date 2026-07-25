@@ -1,7 +1,7 @@
 ---
 book: "2 Corinthians"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # 2 Corinthians 3

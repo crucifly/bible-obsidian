@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 43
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 43

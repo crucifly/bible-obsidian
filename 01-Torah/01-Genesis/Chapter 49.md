@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 49
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 49

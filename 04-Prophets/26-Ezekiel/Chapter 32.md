@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 32
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 32

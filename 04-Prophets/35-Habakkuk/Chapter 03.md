@@ -1,7 +1,7 @@
 ---
 book: "Habakkuk"
 chapter: 3
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Habakkuk 3

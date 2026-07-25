@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 19
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 19

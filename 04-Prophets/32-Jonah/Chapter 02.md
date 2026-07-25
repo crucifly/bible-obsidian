@@ -1,7 +1,7 @@
 ---
 book: "Jonah"
 chapter: 2
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jonah 2

@@ -1,7 +1,7 @@
 ---
 book: "Mark"
 chapter: 9
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Mark 9

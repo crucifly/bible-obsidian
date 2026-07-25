@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 117
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 117

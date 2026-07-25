@@ -1,7 +1,7 @@
 ---
 book: "Titus"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Titus 3

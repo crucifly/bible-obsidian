@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 127
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 127

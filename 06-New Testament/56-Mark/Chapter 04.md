@@ -1,7 +1,7 @@
 ---
 book: "Mark"
 chapter: 4
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Mark 4

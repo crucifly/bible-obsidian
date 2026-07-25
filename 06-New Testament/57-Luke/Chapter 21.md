@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 21
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 21

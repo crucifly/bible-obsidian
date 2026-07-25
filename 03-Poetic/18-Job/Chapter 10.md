@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 10
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 10

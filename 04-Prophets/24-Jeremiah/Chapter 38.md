@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 38
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 38

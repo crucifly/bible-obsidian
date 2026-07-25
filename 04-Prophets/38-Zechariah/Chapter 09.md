@@ -1,7 +1,7 @@
 ---
 book: "Zechariah"
 chapter: 9
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Zechariah 9

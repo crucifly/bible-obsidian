@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 130
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 130

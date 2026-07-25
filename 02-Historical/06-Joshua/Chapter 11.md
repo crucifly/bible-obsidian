@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 11
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 11

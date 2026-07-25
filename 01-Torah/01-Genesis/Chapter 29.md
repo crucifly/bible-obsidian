@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 29
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 29

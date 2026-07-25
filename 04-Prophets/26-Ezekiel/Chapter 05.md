@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 5
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 5

@@ -1,7 +1,7 @@
 ---
 book: "Second Discourse of Great Seth"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Second Discourse of Great Seth

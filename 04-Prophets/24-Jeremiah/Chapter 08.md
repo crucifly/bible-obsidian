@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 8
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 8

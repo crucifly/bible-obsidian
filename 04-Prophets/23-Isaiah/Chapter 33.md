@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 33
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 33

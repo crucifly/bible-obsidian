@@ -1,7 +1,7 @@
 ---
 book: "Ezra"
 chapter: 5
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Ezra 5

@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 13
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 13

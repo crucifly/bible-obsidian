@@ -1,7 +1,7 @@
 ---
 book: "Malachi"
 chapter: 3
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Malachi 3

@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 28
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 28

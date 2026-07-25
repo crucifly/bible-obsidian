@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 11
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 11

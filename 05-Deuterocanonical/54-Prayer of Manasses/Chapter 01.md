@@ -1,7 +1,7 @@
 ---
 book: "Prayer of Manasses"
 chapter: 1
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Prayer of Manasses 1

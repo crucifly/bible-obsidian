@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 35
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 35

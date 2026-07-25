@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 6
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 6

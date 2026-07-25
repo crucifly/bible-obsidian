@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 3
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 3

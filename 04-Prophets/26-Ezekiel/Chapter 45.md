@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 45
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 45

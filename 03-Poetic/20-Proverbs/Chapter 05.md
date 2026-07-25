@@ -1,7 +1,7 @@
 ---
 book: "Proverbs"
 chapter: 5
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Proverbs 5

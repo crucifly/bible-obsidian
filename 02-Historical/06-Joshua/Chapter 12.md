@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 12
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 12

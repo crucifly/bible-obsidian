@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 22
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 22

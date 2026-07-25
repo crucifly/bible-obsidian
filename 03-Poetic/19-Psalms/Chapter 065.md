@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 65
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 65

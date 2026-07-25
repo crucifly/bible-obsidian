@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 22
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 22

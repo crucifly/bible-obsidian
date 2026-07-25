@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 19
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 19

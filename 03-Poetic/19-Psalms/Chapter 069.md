@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 69
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 69

@@ -1,7 +1,7 @@
 ---
 book: "Mark"
 chapter: 12
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Mark 12

@@ -1,7 +1,7 @@
 ---
 book: "Kebra Nagast"
 chapter: 110
-canon: "Ethiopian-81"
+canon: "Ethiopic Apocrypha"
 ---
 
 # Kebra Nagast 110

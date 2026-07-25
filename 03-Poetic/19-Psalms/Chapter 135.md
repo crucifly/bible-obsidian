@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 135
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 135

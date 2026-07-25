@@ -1,7 +1,7 @@
 ---
-book: "73-Didascalica"
+book: "Didascalica"
 chapter: 1
-canon: "Ethiopian-81"
+canon: "Ethiopic Apocrypha"
 ---
 
 # 73-Didascalica

@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 38
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 38

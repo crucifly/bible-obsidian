@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 3
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 3

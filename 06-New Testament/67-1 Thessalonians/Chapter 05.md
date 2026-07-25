@@ -1,7 +1,7 @@
 ---
 book: "1 Thessalonians"
 chapter: 5
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # 1 Thessalonians 5

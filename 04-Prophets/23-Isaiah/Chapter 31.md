@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 31
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 31

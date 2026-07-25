@@ -1,7 +1,7 @@
 ---
 book: "Letter of Jeremiah"
 chapter: 6
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Letter of Jeremiah 6

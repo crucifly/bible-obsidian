@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 8
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 8

@@ -1,7 +1,7 @@
 ---
 book: "Hebrews"
 chapter: 6
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Hebrews 6

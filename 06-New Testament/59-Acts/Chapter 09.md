@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 9
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 9

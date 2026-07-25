@@ -1,7 +1,7 @@
 ---
 book: "Gospel of Truth"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Gospel of Truth

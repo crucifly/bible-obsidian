@@ -1,7 +1,7 @@
 ---
 book: "Nehemiah"
 chapter: 3
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Nehemiah 3

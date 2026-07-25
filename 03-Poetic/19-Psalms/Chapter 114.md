@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 114
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 114

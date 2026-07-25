@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 143
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 143

@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 26
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 26

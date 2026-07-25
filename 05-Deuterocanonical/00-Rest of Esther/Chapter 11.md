@@ -1,7 +1,7 @@
 ---
 book: "Rest of Esther"
 chapter: 11
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Rest of Esther 11

@@ -1,7 +1,7 @@
 ---
 book: "Zostrianos"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Zostrianos

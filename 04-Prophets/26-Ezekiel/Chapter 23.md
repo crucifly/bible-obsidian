@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 23
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 23

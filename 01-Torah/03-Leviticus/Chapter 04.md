@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 4
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 4

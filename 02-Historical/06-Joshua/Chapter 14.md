@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 14
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 14

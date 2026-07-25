@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 9
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 9

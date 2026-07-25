@@ -1,7 +1,7 @@
 ---
-book: "Chapter 56"
-chapter: 1
-canon: "Ethiopic-81"
+book: "2 Enoch"
+chapter: 56
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 56

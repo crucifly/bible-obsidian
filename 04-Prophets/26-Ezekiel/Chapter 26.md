@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 26
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 26

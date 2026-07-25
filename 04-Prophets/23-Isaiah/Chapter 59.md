@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 59
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 59

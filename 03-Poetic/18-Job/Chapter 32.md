@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 32
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 32

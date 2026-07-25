@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 31
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 31

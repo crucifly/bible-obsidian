@@ -1,7 +1,7 @@
 ---
 book: "Tripartite Tractate"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Tripartite Tractate

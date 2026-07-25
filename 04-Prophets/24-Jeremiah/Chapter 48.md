@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 48
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 48

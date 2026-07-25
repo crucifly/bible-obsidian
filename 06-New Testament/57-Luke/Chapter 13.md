@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 13
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 13

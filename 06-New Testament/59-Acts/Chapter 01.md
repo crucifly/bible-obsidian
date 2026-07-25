@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 1
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 1

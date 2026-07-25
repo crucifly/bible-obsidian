@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 30
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 30

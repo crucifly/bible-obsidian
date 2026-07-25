@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 22
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 22

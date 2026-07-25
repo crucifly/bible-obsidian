@@ -1,7 +1,7 @@
 ---
 book: "Wisdom of Solomon"
 chapter: 13
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Wisdom of Solomon 13

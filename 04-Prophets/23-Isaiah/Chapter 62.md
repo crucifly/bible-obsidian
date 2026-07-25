@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 62
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 62

@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 31
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 31

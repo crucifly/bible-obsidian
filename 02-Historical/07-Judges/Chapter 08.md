@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 8
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 8

@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 4
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 4

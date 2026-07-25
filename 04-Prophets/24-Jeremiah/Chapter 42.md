@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 42
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 42

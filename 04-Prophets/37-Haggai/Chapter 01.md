@@ -1,7 +1,7 @@
 ---
 book: "Haggai"
 chapter: 1
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Haggai 1

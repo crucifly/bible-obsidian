@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 11
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 11

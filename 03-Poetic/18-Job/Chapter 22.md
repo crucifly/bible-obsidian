@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 22
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 22

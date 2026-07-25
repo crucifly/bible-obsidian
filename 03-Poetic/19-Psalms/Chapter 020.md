@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 20
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 20

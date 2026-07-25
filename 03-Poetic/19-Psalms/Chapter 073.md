@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 73
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 73

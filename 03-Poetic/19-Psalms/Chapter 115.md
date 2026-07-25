@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 115
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 115

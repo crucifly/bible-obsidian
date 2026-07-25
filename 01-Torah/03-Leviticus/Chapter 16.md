@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 16
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 16

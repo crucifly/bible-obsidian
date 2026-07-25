@@ -1,7 +1,7 @@
 ---
 book: "Nehemiah"
 chapter: 5
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Nehemiah 5

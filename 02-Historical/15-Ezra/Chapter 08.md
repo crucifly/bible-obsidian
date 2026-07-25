@@ -1,7 +1,7 @@
 ---
 book: "Ezra"
 chapter: 8
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Ezra 8

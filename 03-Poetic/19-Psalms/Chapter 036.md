@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 36
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 36

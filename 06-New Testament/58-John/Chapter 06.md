@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 6
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 6

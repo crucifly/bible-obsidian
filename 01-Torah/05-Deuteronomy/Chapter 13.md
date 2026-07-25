@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 13
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 13

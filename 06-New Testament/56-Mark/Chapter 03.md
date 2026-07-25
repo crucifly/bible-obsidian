@@ -1,7 +1,7 @@
 ---
 book: "Mark"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Mark 3

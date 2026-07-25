@@ -1,7 +1,7 @@
 ---
 book: "Judith"
 chapter: 19
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Judith 19

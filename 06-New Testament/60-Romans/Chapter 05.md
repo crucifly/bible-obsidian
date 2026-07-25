@@ -1,7 +1,7 @@
 ---
 book: "Romans"
 chapter: 5
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Romans 5

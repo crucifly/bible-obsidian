@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 42
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 42

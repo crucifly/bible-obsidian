@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 3

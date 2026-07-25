@@ -1,7 +1,7 @@
 ---
 book: "Joel"
 chapter: 3
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Joel 3

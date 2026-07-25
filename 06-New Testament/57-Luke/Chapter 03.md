@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 3

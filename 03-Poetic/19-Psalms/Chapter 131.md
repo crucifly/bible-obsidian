@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 131
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 131

@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 5
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 5

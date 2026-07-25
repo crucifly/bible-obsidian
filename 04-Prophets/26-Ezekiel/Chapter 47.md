@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 47
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 47

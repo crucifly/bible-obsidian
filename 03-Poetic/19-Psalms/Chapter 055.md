@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 55
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 55

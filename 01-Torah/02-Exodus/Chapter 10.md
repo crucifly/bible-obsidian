@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 10
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 10

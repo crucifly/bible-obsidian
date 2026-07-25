@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 25
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 25

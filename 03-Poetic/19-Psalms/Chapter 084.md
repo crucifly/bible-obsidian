@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 84
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 84

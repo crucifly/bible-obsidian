@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 37
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 37

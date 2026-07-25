@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 18
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 18

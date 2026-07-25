@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 6
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 6

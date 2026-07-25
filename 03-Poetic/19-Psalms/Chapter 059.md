@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 59
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 59

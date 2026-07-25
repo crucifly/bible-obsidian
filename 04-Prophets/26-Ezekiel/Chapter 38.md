@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 38
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 38

@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 18
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 18

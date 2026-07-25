@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 28
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 28

@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 111
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 111

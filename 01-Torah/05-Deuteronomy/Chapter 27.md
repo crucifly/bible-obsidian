@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 27
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 27

@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 8
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 8

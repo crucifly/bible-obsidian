@@ -1,7 +1,7 @@
 ---
 book: "Titus"
 chapter: 1
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Titus 1

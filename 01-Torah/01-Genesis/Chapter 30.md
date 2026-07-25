@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 30
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 30

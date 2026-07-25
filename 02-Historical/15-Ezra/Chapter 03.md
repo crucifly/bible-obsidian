@@ -1,7 +1,7 @@
 ---
 book: "Ezra"
 chapter: 3
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Ezra 3

@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 32
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 32

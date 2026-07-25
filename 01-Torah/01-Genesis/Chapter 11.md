@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 11
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 11

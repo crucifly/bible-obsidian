@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 14
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 14

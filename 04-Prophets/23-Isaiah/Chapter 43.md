@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 43
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 43

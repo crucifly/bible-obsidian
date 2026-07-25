@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 25
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 25

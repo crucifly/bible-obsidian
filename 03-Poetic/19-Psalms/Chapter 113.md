@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 113
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 113

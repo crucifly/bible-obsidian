@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 20
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 20

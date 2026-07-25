@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 38
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 38

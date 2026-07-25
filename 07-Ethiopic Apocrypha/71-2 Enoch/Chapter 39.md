@@ -1,7 +1,7 @@
 ---
-book: "Chapter 39"
-chapter: 1
-canon: "Ethiopic-81"
+book: "2 Enoch"
+chapter: 39
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 39

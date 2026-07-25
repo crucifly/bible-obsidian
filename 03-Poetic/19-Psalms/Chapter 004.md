@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 4
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 4

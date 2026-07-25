@@ -1,7 +1,7 @@
 ---
 book: "Lamentations"
 chapter: 3
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Lamentations 3

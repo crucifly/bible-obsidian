@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 39
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 39

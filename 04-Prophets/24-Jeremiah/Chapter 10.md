@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 10
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 10

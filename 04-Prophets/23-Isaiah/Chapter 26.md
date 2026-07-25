@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 26
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 26

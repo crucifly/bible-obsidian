@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 42
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 42

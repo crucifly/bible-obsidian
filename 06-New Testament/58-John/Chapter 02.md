@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 2
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 2

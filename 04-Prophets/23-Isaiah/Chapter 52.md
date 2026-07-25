@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 52
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 52

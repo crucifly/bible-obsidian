@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 45
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 45

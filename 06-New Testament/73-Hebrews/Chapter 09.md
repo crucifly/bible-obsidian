@@ -1,7 +1,7 @@
 ---
 book: "Hebrews"
 chapter: 9
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Hebrews 9

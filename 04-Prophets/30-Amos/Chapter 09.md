@@ -1,7 +1,7 @@
 ---
 book: "Amos"
 chapter: 9
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Amos 9

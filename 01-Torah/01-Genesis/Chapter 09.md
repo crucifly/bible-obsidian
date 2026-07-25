@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 9
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 9

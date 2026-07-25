@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 32
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 32

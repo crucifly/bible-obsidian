@@ -1,7 +1,7 @@
 ---
 book: "Mark"
 chapter: 14
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Mark 14

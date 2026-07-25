@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 64
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 64

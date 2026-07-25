@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 13
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 13

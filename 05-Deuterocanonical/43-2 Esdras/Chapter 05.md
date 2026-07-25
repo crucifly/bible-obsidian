@@ -1,7 +1,7 @@
 ---
-book: "Chapter 5"
-chapter: 1
-canon: "Unknown"
+book: "2 Esdras"
+chapter: 5
+canon: "Deuterocanonical"
 ---
 
 # Chapter 5

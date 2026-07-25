@@ -1,7 +1,7 @@
 ---
 book: "Proverbs"
 chapter: 31
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Proverbs 31

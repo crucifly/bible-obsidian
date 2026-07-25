@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 22
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 22

@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 26
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 26

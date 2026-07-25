@@ -1,7 +1,7 @@
 ---
 book: "Proverbs"
 chapter: 8
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Proverbs 8

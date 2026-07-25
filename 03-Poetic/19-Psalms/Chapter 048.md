@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 48
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 48

@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 22
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 22

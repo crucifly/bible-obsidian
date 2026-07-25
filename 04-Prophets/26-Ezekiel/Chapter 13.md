@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 13
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 13

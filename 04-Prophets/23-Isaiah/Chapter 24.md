@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 24
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 24

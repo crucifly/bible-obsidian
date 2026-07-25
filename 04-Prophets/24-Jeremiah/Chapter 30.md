@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 30
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 30

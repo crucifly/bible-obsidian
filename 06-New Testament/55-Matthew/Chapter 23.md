@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 23
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 23

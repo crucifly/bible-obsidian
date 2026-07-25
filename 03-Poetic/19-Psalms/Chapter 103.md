@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 103
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 103

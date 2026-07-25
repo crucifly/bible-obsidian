@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 13
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 13

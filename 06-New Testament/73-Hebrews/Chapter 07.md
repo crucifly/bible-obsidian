@@ -1,7 +1,7 @@
 ---
 book: "Hebrews"
 chapter: 7
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Hebrews 7

@@ -1,7 +1,7 @@
 ---
 book: "2nd Apocalypse of James"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # 2nd Apocalypse of James

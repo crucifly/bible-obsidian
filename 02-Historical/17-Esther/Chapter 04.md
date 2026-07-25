@@ -1,7 +1,7 @@
 ---
 book: "Esther"
 chapter: 4
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Esther 4

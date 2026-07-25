@@ -1,7 +1,7 @@
 ---
 book: "Wisdom of Solomon"
 chapter: 8
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Wisdom of Solomon 8

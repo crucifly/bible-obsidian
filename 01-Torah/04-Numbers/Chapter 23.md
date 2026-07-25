@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 23
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 23

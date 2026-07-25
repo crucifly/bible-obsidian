@@ -1,7 +1,7 @@
 ---
 book: "Amos"
 chapter: 3
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Amos 3

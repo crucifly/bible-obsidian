@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 50
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 50

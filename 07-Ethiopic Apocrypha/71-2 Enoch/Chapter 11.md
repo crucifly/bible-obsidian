@@ -1,7 +1,7 @@
 ---
-book: "Chapter 11"
-chapter: 1
-canon: "Ethiopic-81"
+book: "2 Enoch"
+chapter: 11
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 11

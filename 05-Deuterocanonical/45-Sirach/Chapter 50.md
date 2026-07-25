@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 50
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 50

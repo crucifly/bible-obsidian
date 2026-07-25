@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 42
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 42

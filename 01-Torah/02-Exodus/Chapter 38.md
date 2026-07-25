@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 38
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 38

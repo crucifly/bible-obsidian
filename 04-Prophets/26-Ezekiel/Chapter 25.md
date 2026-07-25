@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 25
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 25

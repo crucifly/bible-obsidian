@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 8
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 8

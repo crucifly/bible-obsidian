@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 25
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 25

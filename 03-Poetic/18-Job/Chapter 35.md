@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 35
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 35

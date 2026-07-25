@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 18
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 18

@@ -1,7 +1,7 @@
 ---
 book: "Hosea"
 chapter: 10
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Hosea 10

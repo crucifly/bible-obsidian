@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 2
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 2

@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 40
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 40

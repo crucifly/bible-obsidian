@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 14
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 14

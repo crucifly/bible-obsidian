@@ -1,7 +1,7 @@
 ---
 book: "Mark"
 chapter: 15
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Mark 15

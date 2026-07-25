@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 6
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 6

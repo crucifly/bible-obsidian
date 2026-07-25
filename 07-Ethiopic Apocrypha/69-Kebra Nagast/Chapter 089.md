@@ -1,7 +1,7 @@
 ---
 book: "Kebra Nagast"
 chapter: 89
-canon: "Ethiopian-81"
+canon: "Ethiopic Apocrypha"
 ---
 
 # Kebra Nagast 89

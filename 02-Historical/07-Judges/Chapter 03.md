@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 3
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 3

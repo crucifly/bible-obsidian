@@ -1,7 +1,7 @@
 ---
 book: "2 Timothy"
 chapter: 1
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # 2 Timothy 1

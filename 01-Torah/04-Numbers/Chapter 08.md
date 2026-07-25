@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 8
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 8

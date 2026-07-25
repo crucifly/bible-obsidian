@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 27
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 27

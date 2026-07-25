@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 13
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 13

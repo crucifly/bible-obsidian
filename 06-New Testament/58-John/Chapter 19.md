@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 19
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 19

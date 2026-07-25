@@ -1,7 +1,7 @@
 ---
 book: "Proverbs"
 chapter: 28
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Proverbs 28

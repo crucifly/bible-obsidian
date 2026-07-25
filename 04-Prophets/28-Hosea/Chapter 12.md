@@ -1,7 +1,7 @@
 ---
 book: "Hosea"
 chapter: 12
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Hosea 12

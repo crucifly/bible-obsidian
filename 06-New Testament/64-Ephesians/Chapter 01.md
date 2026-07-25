@@ -1,7 +1,7 @@
 ---
 book: "Ephesians"
 chapter: 1
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Ephesians 1

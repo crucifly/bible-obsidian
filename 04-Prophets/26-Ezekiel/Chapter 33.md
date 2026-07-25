@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 33
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 33

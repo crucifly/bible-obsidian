@@ -1,7 +1,7 @@
 ---
 book: "Gospel of Judas"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Gospel of Judas

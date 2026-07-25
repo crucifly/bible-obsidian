@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 29
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 29

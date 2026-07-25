@@ -1,7 +1,7 @@
 ---
 book: "Daniel"
 chapter: 11
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Daniel 11

@@ -1,7 +1,7 @@
 ---
 book: "Dialogue of the Savior"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Dialogue of the Savior

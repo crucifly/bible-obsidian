@@ -1,7 +1,7 @@
 ---
 book: "Zechariah"
 chapter: 8
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Zechariah 8

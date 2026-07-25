@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 9
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 9

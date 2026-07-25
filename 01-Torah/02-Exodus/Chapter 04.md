@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 4
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 4

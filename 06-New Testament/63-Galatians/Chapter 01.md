@@ -1,7 +1,7 @@
 ---
 book: "Galatians"
 chapter: 1
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Galatians 1

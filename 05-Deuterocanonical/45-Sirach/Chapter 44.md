@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 44
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 44

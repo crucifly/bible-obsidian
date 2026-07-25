@@ -1,7 +1,7 @@
 ---
 book: "Esther"
 chapter: 9
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Esther 9

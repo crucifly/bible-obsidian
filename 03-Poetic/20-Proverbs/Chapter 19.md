@@ -1,7 +1,7 @@
 ---
 book: "Proverbs"
 chapter: 19
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Proverbs 19

@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 91
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 91

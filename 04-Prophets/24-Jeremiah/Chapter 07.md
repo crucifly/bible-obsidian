@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 7
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 7

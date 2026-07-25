@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 82
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 82

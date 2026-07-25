@@ -1,7 +1,7 @@
 ---
 book: "Zechariah"
 chapter: 13
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Zechariah 13

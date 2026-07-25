@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 36
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 36

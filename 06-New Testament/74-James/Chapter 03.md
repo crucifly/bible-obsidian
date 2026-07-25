@@ -1,7 +1,7 @@
 ---
 book: "James"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # James 3

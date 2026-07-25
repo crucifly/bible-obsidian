@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 35
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 35

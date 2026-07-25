@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 2
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 2

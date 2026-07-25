@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 12
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 12

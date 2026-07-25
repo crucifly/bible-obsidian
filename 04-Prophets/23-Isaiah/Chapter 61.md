@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 61
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 61

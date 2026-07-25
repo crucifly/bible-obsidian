@@ -1,7 +1,7 @@
 ---
 book: "Nehemiah"
 chapter: 2
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Nehemiah 2

@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 12
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 12

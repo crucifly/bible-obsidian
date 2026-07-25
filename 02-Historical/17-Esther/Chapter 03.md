@@ -1,7 +1,7 @@
 ---
 book: "Esther"
 chapter: 3
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Esther 3

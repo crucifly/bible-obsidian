@@ -1,7 +1,7 @@
 ---
 book: "Mark"
 chapter: 2
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Mark 2

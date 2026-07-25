@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 7
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 7

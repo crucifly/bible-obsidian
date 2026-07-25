@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 71
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 71

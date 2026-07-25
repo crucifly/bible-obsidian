@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 118
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 118

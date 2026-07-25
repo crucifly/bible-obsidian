@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 33
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 33

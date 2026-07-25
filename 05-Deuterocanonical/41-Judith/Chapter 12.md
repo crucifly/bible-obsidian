@@ -1,7 +1,7 @@
 ---
 book: "Judith"
 chapter: 12
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Judith 12

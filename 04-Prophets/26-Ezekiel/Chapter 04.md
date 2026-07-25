@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 4
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 4

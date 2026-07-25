@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 46
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 46

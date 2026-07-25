@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 21
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 21

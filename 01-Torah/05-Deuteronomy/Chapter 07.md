@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 7
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 7

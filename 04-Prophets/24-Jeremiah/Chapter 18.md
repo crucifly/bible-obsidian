@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 18
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 18

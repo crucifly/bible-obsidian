@@ -1,7 +1,7 @@
 ---
 book: "Galatians"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Galatians 3

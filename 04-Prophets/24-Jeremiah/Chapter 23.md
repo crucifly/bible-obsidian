@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 23
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 23

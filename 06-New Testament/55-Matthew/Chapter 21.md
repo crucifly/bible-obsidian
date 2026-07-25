@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 21
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 21

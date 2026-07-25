@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 4
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 4

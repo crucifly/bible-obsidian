@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 2
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 2

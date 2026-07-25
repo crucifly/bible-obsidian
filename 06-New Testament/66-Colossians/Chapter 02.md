@@ -1,7 +1,7 @@
 ---
 book: "Colossians"
 chapter: 2
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Colossians 2

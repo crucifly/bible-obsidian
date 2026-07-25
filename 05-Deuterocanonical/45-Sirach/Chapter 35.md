@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 35
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 35

@@ -1,7 +1,7 @@
 ---
 book: "Habakkuk"
 chapter: 2
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Habakkuk 2

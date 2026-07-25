@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 22
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 22

@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 52
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 52

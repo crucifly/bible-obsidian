@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 9
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 9

@@ -1,7 +1,7 @@
 ---
 book: "Amos"
 chapter: 5
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Amos 5

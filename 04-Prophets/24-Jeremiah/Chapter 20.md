@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 20
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 20

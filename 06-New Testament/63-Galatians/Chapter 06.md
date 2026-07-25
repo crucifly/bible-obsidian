@@ -1,7 +1,7 @@
 ---
 book: "Galatians"
 chapter: 6
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Galatians 6

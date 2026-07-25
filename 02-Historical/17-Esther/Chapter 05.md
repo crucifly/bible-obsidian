@@ -1,7 +1,7 @@
 ---
 book: "Esther"
 chapter: 5
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Esther 5

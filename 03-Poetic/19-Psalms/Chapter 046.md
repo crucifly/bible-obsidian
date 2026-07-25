@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 46
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 46

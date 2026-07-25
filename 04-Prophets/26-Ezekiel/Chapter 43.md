@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 43
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 43

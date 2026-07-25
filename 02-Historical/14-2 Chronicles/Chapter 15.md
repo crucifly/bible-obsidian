@@ -1,7 +1,7 @@
 ---
 book: "2 Chronicles"
 chapter: 15
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # 2 Chronicles 15

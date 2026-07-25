@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 26
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 26

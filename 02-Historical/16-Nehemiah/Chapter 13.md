@@ -1,7 +1,7 @@
 ---
 book: "Nehemiah"
 chapter: 13
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Nehemiah 13

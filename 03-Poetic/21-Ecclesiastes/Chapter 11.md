@@ -1,7 +1,7 @@
 ---
 book: "Ecclesiastes"
 chapter: 11
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Ecclesiastes 11

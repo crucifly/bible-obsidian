@@ -1,7 +1,7 @@
 ---
 book: "Esther"
 chapter: 8
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Esther 8

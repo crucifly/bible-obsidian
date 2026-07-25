@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 1
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 1

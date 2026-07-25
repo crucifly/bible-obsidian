@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 146
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 146

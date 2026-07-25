@@ -1,7 +1,7 @@
 ---
 book: "Wisdom of Solomon"
 chapter: 11
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Wisdom of Solomon 11

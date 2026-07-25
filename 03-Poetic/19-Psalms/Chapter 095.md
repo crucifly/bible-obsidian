@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 95
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 95

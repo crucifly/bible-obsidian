@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 36
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 36

@@ -1,7 +1,7 @@
 ---
 book: "Bel and the Dragon"
 chapter: 1
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Bel and the Dragon 1

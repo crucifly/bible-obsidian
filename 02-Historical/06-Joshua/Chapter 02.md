@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 2
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 2

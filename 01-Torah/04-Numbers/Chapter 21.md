@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 21
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 21

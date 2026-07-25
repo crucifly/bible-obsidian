@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 16
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 16

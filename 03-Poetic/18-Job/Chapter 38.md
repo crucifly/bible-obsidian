@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 38
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 38

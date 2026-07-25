@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 3
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 3

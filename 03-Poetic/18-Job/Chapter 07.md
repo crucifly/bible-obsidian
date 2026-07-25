@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 7
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 7

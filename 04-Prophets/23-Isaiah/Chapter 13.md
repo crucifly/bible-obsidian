@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 13
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 13

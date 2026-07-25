@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 20
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 20

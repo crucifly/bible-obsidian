@@ -1,7 +1,7 @@
 ---
 book: "Prayer of Azariah"
 chapter: 1
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Prayer of Azariah 1

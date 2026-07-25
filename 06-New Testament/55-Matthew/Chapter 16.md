@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 16
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 16

@@ -1,7 +1,7 @@
 ---
 book: "Daniel"
 chapter: 5
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Daniel 5

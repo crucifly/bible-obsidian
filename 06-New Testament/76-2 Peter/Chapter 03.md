@@ -1,7 +1,7 @@
 ---
 book: "2 Peter"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # 2 Peter 3

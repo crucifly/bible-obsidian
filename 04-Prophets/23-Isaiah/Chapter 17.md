@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 17
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 17

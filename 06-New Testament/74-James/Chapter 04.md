@@ -1,7 +1,7 @@
 ---
 book: "James"
 chapter: 4
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # James 4

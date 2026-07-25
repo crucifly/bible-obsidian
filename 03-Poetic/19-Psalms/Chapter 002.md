@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 2
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 2

@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 65
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 65

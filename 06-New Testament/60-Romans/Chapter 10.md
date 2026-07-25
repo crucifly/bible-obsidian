@@ -1,7 +1,7 @@
 ---
 book: "Romans"
 chapter: 10
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Romans 10

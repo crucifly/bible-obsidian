@@ -1,7 +1,7 @@
 ---
 book: "Amos"
 chapter: 8
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Amos 8

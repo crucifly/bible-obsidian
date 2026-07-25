@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 39
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 39

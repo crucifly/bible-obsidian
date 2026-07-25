@@ -1,7 +1,7 @@
 ---
 book: "Micah"
 chapter: 3
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Micah 3

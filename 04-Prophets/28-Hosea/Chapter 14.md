@@ -1,7 +1,7 @@
 ---
 book: "Hosea"
 chapter: 14
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Hosea 14

@@ -1,7 +1,7 @@
 ---
 book: "Esther"
 chapter: 1
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Esther 1

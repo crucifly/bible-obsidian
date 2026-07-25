@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 39
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 39

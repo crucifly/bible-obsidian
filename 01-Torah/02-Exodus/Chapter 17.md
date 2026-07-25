@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 17
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 17

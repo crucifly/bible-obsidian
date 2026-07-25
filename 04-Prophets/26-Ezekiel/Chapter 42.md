@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 42
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 42

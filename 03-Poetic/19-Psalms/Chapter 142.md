@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 142
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 142

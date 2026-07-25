@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 26
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 26

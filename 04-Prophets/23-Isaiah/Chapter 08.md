@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 8
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 8

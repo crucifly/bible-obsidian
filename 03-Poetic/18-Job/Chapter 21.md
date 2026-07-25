@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 21
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 21

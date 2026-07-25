@@ -1,7 +1,7 @@
 ---
-book: "Chapter 1"
+book: "2 Enoch"
 chapter: 1
-canon: "Ethiopic-81"
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 1

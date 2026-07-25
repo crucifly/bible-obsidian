@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 5
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 5

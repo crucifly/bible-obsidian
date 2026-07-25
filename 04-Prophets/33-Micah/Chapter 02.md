@@ -1,7 +1,7 @@
 ---
 book: "Micah"
 chapter: 2
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Micah 2

@@ -1,7 +1,7 @@
 ---
 book: "1 Kings"
 chapter: 15
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # 1 Kings 15

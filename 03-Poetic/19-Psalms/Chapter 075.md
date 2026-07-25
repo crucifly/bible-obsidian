@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 75
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 75

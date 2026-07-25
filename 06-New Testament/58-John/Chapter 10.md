@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 10
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 10

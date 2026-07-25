@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 12
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 12

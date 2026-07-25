@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 19
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 19

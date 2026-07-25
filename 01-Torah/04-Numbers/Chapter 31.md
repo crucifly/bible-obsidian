@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 31
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 31

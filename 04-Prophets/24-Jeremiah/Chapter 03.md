@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 3
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 3

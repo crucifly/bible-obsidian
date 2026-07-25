@@ -1,7 +1,7 @@
 ---
-book: "Chapter 46"
-chapter: 1
-canon: "Ethiopic-81"
+book: "2 Enoch"
+chapter: 46
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 46

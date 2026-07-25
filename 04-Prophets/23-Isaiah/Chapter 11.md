@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 11
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 11

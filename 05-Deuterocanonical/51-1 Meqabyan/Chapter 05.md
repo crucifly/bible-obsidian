@@ -1,7 +1,7 @@
 ---
 book: "1 Meqabyan"
 chapter: 5
-canon: "Ethiopian-81"
+canon: "Deuterocanonical"
 ---
 
 # 1 Meqabyan 5

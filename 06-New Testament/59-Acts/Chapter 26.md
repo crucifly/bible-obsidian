@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 26
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 26

@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 10
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 10

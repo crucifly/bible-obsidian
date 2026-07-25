@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 21
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 21

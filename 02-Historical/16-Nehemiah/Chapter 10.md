@@ -1,7 +1,7 @@
 ---
 book: "Nehemiah"
 chapter: 10
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Nehemiah 10

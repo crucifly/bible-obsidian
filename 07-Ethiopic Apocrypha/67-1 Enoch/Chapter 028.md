@@ -1,7 +1,7 @@
 ---
 book: "1 Enoch"
 chapter: 28
-canon: "Ethiopian-81"
+canon: "Ethiopic Apocrypha"
 ---
 
 # 1 Enoch 28

@@ -1,7 +1,7 @@
 ---
 book: "Esther"
 chapter: 10
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Esther 10

@@ -1,7 +1,7 @@
 ---
 book: "Ecclesiastes"
 chapter: 3
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Ecclesiastes 3

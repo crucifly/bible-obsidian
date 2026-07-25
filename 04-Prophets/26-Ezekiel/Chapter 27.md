@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 27
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 27

@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 37
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 37

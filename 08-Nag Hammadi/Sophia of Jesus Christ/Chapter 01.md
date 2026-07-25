@@ -1,7 +1,7 @@
 ---
 book: "Sophia of Jesus Christ"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Sophia of Jesus Christ

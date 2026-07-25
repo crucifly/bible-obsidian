@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 28
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 28

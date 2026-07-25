@@ -1,7 +1,7 @@
 ---
 book: "Mark"
 chapter: 1
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Mark 1

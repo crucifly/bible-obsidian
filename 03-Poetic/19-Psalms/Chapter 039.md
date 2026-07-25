@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 39
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 39

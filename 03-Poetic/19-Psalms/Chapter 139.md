@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 139
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 139

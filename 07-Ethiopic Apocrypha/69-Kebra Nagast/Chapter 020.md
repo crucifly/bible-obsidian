@@ -1,7 +1,7 @@
 ---
 book: "Kebra Nagast"
 chapter: 20
-canon: "Ethiopian-81"
+canon: "Ethiopic Apocrypha"
 ---
 
 # Kebra Nagast 20

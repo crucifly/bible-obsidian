@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 44
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 44

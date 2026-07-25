@@ -1,7 +1,7 @@
 ---
 book: "Ezra"
 chapter: 9
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Ezra 9

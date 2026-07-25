@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 14
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 14

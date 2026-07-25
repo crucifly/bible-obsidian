@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 10
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 10

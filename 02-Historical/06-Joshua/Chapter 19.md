@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 19
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 19

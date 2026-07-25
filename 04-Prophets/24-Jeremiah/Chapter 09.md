@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 9
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 9

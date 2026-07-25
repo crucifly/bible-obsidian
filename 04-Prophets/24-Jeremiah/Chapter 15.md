@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 15
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 15

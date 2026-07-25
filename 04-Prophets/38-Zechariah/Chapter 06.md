@@ -1,7 +1,7 @@
 ---
 book: "Zechariah"
 chapter: 6
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Zechariah 6

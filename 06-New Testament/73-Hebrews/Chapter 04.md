@@ -1,7 +1,7 @@
 ---
 book: "Hebrews"
 chapter: 4
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Hebrews 4

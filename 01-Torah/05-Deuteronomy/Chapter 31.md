@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 31
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 31

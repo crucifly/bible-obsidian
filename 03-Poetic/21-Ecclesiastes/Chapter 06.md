@@ -1,7 +1,7 @@
 ---
 book: "Ecclesiastes"
 chapter: 6
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Ecclesiastes 6

@@ -1,7 +1,7 @@
 ---
 book: "Baruch"
 chapter: 4
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Baruch 4

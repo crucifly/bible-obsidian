@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 19
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 19

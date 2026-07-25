@@ -1,7 +1,7 @@
 ---
 book: "Nehemiah"
 chapter: 12
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Nehemiah 12

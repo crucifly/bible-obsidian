@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 13
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 13

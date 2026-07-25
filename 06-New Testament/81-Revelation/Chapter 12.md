@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 12
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 12

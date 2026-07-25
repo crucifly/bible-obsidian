@@ -1,7 +1,7 @@
 ---
 book: "Wisdom of Solomon"
 chapter: 10
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Wisdom of Solomon 10

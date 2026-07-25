@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 6
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 6

@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 40
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 40

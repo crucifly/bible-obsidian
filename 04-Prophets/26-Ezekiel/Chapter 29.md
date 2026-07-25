@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 29
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 29

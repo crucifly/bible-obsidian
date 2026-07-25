@@ -1,7 +1,7 @@
 ---
 book: "Nehemiah"
 chapter: 9
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Nehemiah 9

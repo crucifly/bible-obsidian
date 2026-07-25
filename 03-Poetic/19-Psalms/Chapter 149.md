@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 149
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 149

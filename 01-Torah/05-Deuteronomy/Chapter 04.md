@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 4
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 4

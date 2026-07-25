@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 5
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 5

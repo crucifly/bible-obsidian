@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 3
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 3

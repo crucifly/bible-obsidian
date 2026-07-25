@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 41
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 41

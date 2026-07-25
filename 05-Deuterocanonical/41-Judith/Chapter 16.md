@@ -1,7 +1,7 @@
 ---
 book: "Judith"
 chapter: 16
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Judith 16

@@ -1,7 +1,7 @@
 ---
 book: "Ecclesiastes"
 chapter: 12
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Ecclesiastes 12

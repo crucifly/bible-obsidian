@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 23
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 23

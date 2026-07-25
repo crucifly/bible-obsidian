@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 56
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 56

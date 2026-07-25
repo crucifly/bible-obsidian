@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 29
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 29

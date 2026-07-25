@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 25
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 25

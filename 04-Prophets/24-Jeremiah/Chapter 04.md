@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 4
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 4

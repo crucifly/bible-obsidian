@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 31
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 31

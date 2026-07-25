@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 90
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 90

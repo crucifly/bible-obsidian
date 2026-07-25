@@ -1,7 +1,7 @@
 ---
 book: "Hosea"
 chapter: 13
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Hosea 13

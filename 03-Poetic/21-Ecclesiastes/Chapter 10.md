@@ -1,7 +1,7 @@
 ---
 book: "Ecclesiastes"
 chapter: 10
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Ecclesiastes 10

@@ -1,7 +1,7 @@
 ---
 book: "Zechariah"
 chapter: 10
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Zechariah 10

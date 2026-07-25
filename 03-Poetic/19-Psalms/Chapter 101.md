@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 101
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 101

@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 54
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 54

@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 5
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 5

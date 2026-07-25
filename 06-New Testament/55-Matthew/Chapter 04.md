@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 4
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 4

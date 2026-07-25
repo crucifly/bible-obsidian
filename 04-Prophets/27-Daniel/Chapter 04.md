@@ -1,7 +1,7 @@
 ---
 book: "Daniel"
 chapter: 4
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Daniel 4

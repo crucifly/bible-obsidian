@@ -1,7 +1,7 @@
 ---
 book: "Baruch"
 chapter: 6
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Baruch 6

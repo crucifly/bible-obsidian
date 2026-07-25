@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 10
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 10

@@ -1,7 +1,7 @@
 ---
 book: "Proverbs"
 chapter: 4
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Proverbs 4

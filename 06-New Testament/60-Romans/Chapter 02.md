@@ -1,7 +1,7 @@
 ---
 book: "Romans"
 chapter: 2
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Romans 2

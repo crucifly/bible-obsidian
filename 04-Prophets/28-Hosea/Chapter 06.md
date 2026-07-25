@@ -1,7 +1,7 @@
 ---
 book: "Hosea"
 chapter: 6
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Hosea 6

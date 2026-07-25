@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 24
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 24

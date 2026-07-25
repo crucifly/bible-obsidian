@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 47
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 47

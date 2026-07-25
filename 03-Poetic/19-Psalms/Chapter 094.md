@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 94
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 94

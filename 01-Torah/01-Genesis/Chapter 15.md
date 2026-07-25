@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 15
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 15

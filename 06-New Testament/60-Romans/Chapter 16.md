@@ -1,7 +1,7 @@
 ---
 book: "Romans"
 chapter: 16
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Romans 16

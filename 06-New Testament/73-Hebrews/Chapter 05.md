@@ -1,7 +1,7 @@
 ---
 book: "Hebrews"
 chapter: 5
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Hebrews 5

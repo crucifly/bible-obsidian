@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 15
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 15

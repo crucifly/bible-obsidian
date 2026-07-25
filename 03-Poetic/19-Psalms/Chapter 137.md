@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 137
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 137

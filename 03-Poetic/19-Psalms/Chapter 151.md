@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 151
-canon: "Deuterocanon"
+canon: "Poetic"
 ---
 
 # Psalms 151

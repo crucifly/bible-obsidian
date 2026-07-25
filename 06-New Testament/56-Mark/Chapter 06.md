@@ -1,7 +1,7 @@
 ---
 book: "Mark"
 chapter: 6
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Mark 6

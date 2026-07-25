@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 30
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 30

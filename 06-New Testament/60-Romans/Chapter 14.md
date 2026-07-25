@@ -1,7 +1,7 @@
 ---
 book: "Romans"
 chapter: 14
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Romans 14

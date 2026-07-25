@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 11
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 11

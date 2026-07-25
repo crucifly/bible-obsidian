@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 35
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 35

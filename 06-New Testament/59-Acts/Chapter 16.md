@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 16
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 16

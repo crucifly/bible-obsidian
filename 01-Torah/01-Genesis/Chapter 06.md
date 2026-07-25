@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 6
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 6

@@ -1,7 +1,7 @@
 ---
-book: "Chapter 35"
-chapter: 1
-canon: "Ethiopic-81"
+book: "2 Enoch"
+chapter: 35
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 35

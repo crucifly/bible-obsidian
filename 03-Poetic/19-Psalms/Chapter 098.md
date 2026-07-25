@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 98
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 98

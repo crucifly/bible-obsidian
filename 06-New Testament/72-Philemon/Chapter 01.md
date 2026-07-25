@@ -1,7 +1,7 @@
 ---
 book: "Philemon"
 chapter: 1
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Philemon 1

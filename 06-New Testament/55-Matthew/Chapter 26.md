@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 26
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 26

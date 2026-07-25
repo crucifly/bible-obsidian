@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 51
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 51

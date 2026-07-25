@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 24
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 24

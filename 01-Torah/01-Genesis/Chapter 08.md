@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 8
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 8

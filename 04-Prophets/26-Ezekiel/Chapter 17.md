@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 17
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 17

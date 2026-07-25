@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 108
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 108

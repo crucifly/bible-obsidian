@@ -1,7 +1,7 @@
 ---
 book: "On the Origin of the World"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # On the Origin of the World

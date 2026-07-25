@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 28
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 28

@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 6
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 6

@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 29
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 29

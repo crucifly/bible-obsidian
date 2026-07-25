@@ -1,7 +1,7 @@
 ---
 book: "Nahum"
 chapter: 2
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Nahum 2

@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 18
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 18

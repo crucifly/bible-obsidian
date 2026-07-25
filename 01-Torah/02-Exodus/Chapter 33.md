@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 33
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 33

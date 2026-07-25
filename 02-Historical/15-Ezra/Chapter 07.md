@@ -1,7 +1,7 @@
 ---
 book: "Ezra"
 chapter: 7
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Ezra 7

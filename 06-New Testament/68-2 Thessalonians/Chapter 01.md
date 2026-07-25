@@ -1,7 +1,7 @@
 ---
 book: "2 Thessalonians"
 chapter: 1
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # 2 Thessalonians 1

@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 4
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 4

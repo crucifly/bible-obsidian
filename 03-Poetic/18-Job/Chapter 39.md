@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 39
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 39

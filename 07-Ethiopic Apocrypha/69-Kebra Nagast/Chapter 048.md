@@ -1,7 +1,7 @@
 ---
 book: "Kebra Nagast"
 chapter: 48
-canon: "Ethiopian-81"
+canon: "Ethiopic Apocrypha"
 ---
 
 # Kebra Nagast 48

@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 49
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 49

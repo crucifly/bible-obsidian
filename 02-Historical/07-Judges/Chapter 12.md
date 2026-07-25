@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 12
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 12

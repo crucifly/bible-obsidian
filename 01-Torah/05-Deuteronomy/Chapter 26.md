@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 26
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 26

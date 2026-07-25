@@ -1,7 +1,7 @@
 ---
 book: "Jude"
 chapter: 1
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Jude 1

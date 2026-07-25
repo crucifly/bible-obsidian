@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 11
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 11

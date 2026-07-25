@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 32
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 32

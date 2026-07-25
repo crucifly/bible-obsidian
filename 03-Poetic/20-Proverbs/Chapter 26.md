@@ -1,7 +1,7 @@
 ---
 book: "Proverbs"
 chapter: 26
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Proverbs 26

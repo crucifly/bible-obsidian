@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 36
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 36

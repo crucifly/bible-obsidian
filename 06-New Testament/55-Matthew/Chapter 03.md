@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 3

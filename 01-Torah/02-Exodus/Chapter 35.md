@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 35
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 35

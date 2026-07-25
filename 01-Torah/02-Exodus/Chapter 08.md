@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 8
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 8

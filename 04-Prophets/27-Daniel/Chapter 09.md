@@ -1,7 +1,7 @@
 ---
 book: "Daniel"
 chapter: 9
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Daniel 9

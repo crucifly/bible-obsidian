@@ -1,7 +1,7 @@
 ---
 book: "Malachi"
 chapter: 2
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Malachi 2

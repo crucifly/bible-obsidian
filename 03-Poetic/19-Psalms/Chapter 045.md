@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 45
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 45

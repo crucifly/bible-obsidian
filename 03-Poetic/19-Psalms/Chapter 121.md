@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 121
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 121

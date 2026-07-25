@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 36
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 36

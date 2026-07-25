@@ -11,10 +11,14 @@
             "id": "3fac804be7005181",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "09-Pseudepigrapha/Apocalypse of Abraham/Chapter 01.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter 01"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "09-Pseudepigrapha/Apocalypse of Abraham/Chapter 01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Chapter 01"
             }
           },
           {
@@ -195,41 +200,41 @@
   },
   "active": "1b4321dd1d5d9ad5",
   "lastOpenFiles": [
-    "08-Nag Hammadi/Zostrianos/Chapter 01.md",
-    "08-Nag Hammadi/Tripartite Tractate/Chapter 01.md",
-    "08-Nag Hammadi/Trimorphic Protennoia/Chapter 01.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-99.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-98.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-97.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-96.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-95.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-94.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-93.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-92.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-91.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-90.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-89.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-88.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-87.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-86.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-85.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-84.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-83.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-82.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-81.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-80.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-79.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-78.md",
-    "08-Nag Hammadi/Pistis Sophia/Chapter-77.md",
-    "08-Nag Hammadi/Zostrianos",
-    "08-Nag Hammadi/Tripartite Tractate",
-    "08-Nag Hammadi/Trimorphic Protennoia",
-    "08-Nag Hammadi/Thunder, Perfect Mind",
-    "08-Nag Hammadi/Sophia of Jesus Christ",
-    "08-Nag Hammadi/Second Discourse of Great Seth",
-    "08-Nag Hammadi/Pistis Sophia",
-    "08-Nag Hammadi/On the Origin of the World",
-    "08-Nag Hammadi/Hypostasis of the Archons",
-    "08-Nag Hammadi/Gospel of Truth"
+    "12-Hermetic/Poimandres/Chapter 01.md",
+    "12-Hermetic/Poimandres",
+    "12-Hermetic",
+    "11-Nag-Hammadi/Song of the Pearl/Chapter 01.md",
+    "11-Nag-Hammadi/Song of the Pearl",
+    "11-Nag-Hammadi/The Reality of the Rulers/Chapter 01.md",
+    "11-Nag-Hammadi/The Reality of the Rulers",
+    "11-Nag-Hammadi/On the Origin of the World/Chapter 01.md",
+    "11-Nag-Hammadi/On the Origin of the World",
+    "11-Nag-Hammadi/Thunder, Perfect Mind/Chapter 01.md",
+    "11-Nag-Hammadi/Thunder, Perfect Mind",
+    "11-Nag-Hammadi/Gospel of Mary/Chapter 01.md",
+    "11-Nag-Hammadi/Gospel of Mary",
+    "11-Nag-Hammadi/1st Apocalypse of James/Chapter 01.md",
+    "11-Nag-Hammadi/1st Apocalypse of James",
+    "11-Nag-Hammadi/Secret Book of John/Chapter 01.md",
+    "11-Nag-Hammadi/Secret Book of John",
+    "11-Nag-Hammadi/Gospel of Judas/Chapter 01.md",
+    "11-Nag-Hammadi/Gospel of Judas",
+    "06-New Testament/79-3 John/Chapter 01.md",
+    "06-New Testament/78-2 John/Chapter 01.md",
+    "06-New Testament/77-1 John/Chapter 05.md",
+    "06-New Testament/77-1 John/Chapter 04.md",
+    "06-New Testament/77-1 John/Chapter 03.md",
+    "06-New Testament/77-1 John/Chapter 02.md",
+    "06-New Testament/77-1 John/Chapter 01.md",
+    "06-New Testament/76-2 Peter/Chapter 03.md",
+    "06-New Testament/76-2 Peter/Chapter 02.md",
+    "06-New Testament/76-2 Peter/Chapter 01.md",
+    "06-New Testament/75-1 Peter/Chapter 05.md",
+    "06-New Testament/75-1 Peter/Chapter 04.md",
+    "06-New Testament/75-1 Peter/Chapter 03.md",
+    "06-New Testament/75-1 Peter/Chapter 02.md",
+    "06-New Testament/75-1 Peter/Chapter 01.md",
+    "06-New Testament/70-2 Timothy/Chapter 04.md",
+    "06-New Testament/70-2 Timothy/Chapter 03.md"
   ]
 }

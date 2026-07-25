@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 3
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 3

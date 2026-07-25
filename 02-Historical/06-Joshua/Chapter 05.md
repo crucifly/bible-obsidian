@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 5
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 5

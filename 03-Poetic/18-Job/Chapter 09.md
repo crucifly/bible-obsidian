@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 9
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 9

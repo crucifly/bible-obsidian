@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 5
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 5

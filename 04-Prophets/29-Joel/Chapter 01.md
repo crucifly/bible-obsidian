@@ -1,7 +1,7 @@
 ---
 book: "Joel"
 chapter: 1
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Joel 1

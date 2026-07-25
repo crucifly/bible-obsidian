@@ -1,7 +1,7 @@
 ---
 book: "1 Thessalonians"
 chapter: 4
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # 1 Thessalonians 4

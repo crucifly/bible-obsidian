@@ -1,7 +1,7 @@
 ---
 book: "Nehemiah"
 chapter: 8
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Nehemiah 8

@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 27
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 27

@@ -1,7 +1,7 @@
 ---
 book: "Mark"
 chapter: 7
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Mark 7

@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 10
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 10

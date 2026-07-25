@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 20
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 20

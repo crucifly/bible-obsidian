@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 14
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 14

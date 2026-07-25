@@ -1,7 +1,7 @@
 ---
 book: "Romans"
 chapter: 7
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Romans 7

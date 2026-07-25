@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 15
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 15

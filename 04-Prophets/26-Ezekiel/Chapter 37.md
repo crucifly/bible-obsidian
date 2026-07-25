@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 37
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 37

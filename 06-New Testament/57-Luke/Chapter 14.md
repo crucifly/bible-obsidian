@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 14
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 14

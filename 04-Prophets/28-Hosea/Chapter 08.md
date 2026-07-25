@@ -1,7 +1,7 @@
 ---
 book: "Hosea"
 chapter: 8
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Hosea 8

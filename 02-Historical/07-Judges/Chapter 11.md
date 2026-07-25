@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 11
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 11

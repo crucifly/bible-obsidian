@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 22
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 22

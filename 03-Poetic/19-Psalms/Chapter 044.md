@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 44
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 44

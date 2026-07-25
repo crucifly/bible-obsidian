@@ -1,7 +1,7 @@
 ---
 book: "1 Enoch"
 chapter: 41
-canon: "Ethiopian-81"
+canon: "Ethiopic Apocrypha"
 ---
 
 # 1 Enoch 41

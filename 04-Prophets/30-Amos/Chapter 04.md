@@ -1,7 +1,7 @@
 ---
 book: "Amos"
 chapter: 4
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Amos 4

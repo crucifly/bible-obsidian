@@ -1,7 +1,7 @@
 ---
 book: "Allogenes"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Allogenes

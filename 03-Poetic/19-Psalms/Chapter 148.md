@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 148
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 148

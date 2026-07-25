@@ -1,7 +1,7 @@
 ---
 book: "Tobit"
 chapter: 14
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Tobit 14

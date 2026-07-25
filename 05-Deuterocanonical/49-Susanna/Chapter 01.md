@@ -1,7 +1,7 @@
 ---
 book: "Susanna"
 chapter: 1
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Susanna 1

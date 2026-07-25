@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 24
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 24

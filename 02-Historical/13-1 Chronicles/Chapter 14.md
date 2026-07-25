@@ -1,7 +1,7 @@
 ---
 book: "1 Chronicles"
 chapter: 14
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # 1 Chronicles 14

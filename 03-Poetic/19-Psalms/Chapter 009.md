@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 9
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 9

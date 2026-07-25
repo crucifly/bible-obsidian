@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 96
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 96

@@ -1,7 +1,7 @@
 ---
 book: "Hosea"
 chapter: 5
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Hosea 5

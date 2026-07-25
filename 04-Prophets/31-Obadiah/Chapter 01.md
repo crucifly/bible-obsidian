@@ -1,7 +1,7 @@
 ---
 book: "Obadiah"
 chapter: 1
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Obadiah 1

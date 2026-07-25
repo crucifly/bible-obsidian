@@ -1,7 +1,7 @@
 ---
 book: "Mark"
 chapter: 10
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Mark 10

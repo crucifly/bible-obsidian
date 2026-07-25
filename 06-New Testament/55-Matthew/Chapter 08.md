@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 8
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 8

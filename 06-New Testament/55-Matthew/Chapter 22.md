@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 22
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 22

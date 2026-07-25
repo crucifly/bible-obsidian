@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 39
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 39

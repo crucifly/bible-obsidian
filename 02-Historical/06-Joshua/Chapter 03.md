@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 3
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 3

@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 30
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 30

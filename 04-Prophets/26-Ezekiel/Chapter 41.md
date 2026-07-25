@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 41
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 41

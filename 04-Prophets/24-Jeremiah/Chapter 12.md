@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 12
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 12

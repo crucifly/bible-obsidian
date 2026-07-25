@@ -1,7 +1,7 @@
 ---
 book: "Hebrews"
 chapter: 11
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Hebrews 11

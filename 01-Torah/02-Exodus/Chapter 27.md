@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 27
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 27

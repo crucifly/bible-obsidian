@@ -1,7 +1,7 @@
 ---
 book: "2 Samuel"
 chapter: 1
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # 2 Samuel 1

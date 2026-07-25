@@ -1,7 +1,7 @@
 ---
 book: "Jonah"
 chapter: 1
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jonah 1

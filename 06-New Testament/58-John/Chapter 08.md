@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 8
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 8

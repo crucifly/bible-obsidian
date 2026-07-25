@@ -1,7 +1,7 @@
 ---
 book: "Jonah"
 chapter: 3
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jonah 3

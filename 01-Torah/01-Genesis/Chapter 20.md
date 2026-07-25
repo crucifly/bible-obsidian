@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 20
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 20

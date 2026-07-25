@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 41
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 41

@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 6
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 6

@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 40
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 40

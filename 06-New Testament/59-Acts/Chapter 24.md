@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 24
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 24

@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 86
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 86

@@ -1,7 +1,7 @@
 ---
 book: "Romans"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Romans 3

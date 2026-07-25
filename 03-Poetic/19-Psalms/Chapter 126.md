@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 126
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 126

@@ -1,7 +1,7 @@
 ---
 book: "1 Kings"
 chapter: 1
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # 1 Kings 1

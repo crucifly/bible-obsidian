@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 14
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 14

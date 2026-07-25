@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 18
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 18

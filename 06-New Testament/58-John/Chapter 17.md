@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 17
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 17

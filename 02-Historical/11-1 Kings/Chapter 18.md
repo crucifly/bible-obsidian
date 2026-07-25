@@ -1,7 +1,7 @@
 ---
 book: "1 Kings"
 chapter: 18
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # 1 Kings 18

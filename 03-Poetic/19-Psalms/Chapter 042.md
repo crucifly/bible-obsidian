@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 42
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 42

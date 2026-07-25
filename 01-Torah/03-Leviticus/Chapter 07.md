@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 7
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 7

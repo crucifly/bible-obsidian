@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 9
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 9

@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 15
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 15

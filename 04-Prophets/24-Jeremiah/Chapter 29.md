@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 29
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 29

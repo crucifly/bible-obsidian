@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 106
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 106

@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 23
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 23

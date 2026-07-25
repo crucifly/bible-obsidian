@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 2
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 2

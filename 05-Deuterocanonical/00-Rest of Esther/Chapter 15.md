@@ -1,7 +1,7 @@
 ---
 book: "Rest of Esther"
 chapter: 15
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Rest of Esther 15

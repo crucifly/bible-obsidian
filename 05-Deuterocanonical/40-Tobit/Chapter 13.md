@@ -1,7 +1,7 @@
 ---
 book: "Tobit"
 chapter: 13
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Tobit 13

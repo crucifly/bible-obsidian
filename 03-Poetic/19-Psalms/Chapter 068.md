@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 68
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 68

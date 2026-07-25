@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 33
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 33

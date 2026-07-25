@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 10
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 10

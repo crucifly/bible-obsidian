@@ -1,7 +1,7 @@
 ---
-book: "Chapter 8"
-chapter: 1
-canon: "Unknown"
+book: "2 Esdras"
+chapter: 8
+canon: "Deuterocanonical"
 ---
 
 # Chapter 8

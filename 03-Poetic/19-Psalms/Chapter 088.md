@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 88
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 88

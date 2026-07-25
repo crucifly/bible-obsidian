@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 5
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 5

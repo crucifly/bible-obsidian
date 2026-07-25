@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 41
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 41

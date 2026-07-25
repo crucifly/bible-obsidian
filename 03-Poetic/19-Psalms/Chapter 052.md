@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 52
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 52

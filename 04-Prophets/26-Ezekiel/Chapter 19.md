@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 19
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 19

@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 21
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 21

@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 22
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 22

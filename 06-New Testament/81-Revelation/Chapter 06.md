@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 6
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 6

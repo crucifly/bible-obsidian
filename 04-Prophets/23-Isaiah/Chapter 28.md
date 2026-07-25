@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 28
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 28

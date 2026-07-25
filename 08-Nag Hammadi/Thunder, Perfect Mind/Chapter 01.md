@@ -1,7 +1,7 @@
 ---
 book: "Thunder, Perfect Mind"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Thunder, Perfect Mind

@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 60
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 60

@@ -1,7 +1,7 @@
 ---
 book: "Zechariah"
 chapter: 14
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Zechariah 14

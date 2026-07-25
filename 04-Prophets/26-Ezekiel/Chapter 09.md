@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 9
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 9

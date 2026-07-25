@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 30
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 30

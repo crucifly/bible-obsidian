@@ -1,7 +1,7 @@
 ---
 book: "Proverbs"
 chapter: 24
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Proverbs 24

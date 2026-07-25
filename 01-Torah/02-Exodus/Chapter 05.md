@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 5
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 5

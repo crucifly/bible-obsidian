@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 40
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 40

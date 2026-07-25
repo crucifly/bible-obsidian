@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 2
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 2

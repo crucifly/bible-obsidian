@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 150
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 150

@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 49
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 49

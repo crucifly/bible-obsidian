@@ -1,7 +1,7 @@
 ---
 book: "Philippians"
 chapter: 2
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Philippians 2

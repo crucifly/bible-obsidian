@@ -1,7 +1,7 @@
 ---
 book: "Romans"
 chapter: 4
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Romans 4

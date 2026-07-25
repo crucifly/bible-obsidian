@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 33
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 33

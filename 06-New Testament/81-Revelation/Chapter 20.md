@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 20
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 20

@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 34
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 34

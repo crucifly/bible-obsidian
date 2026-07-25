@@ -1,7 +1,7 @@
 ---
 book: "Hebrews"
 chapter: 8
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Hebrews 8

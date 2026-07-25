@@ -1,7 +1,7 @@
 ---
 book: "Judges"
 chapter: 13
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Judges 13

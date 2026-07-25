@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 49
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 49

@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 2
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 2

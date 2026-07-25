@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 25
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 25

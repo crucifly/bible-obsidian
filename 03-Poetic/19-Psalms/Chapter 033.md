@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 33
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 33

@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 28
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 28

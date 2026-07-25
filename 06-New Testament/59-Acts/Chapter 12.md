@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 12
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 12

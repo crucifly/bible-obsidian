@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 32
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 32

@@ -1,7 +1,7 @@
 ---
 book: "Galatians"
 chapter: 4
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Galatians 4

@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 37
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 37

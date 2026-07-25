@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 80
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 80

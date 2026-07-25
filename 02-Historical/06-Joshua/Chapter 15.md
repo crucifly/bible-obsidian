@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 15
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 15

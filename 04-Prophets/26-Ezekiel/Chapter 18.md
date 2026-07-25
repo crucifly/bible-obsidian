@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 18
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 18

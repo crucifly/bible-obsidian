@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 3

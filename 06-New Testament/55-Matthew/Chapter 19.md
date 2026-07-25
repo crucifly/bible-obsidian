@@ -1,7 +1,7 @@
 ---
 book: "Matthew"
 chapter: 19
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Matthew 19

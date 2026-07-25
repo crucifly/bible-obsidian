@@ -1,7 +1,7 @@
 ---
 book: "Wisdom of Solomon"
 chapter: 18
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Wisdom of Solomon 18

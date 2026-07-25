@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 11
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 11

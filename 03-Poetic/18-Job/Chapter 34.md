@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 34
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 34

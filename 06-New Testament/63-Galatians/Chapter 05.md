@@ -1,7 +1,7 @@
 ---
 book: "Galatians"
 chapter: 5
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Galatians 5

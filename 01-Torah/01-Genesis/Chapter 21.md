@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 21
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 21

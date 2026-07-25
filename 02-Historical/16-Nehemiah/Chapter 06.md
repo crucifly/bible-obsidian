@@ -1,7 +1,7 @@
 ---
 book: "Nehemiah"
 chapter: 6
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Nehemiah 6

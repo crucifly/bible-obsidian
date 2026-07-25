@@ -1,7 +1,7 @@
 ---
-book: "Chapter 5"
-chapter: 1
-canon: "Ethiopic-81"
+book: "Psalms of Solomon"
+chapter: 5
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 5

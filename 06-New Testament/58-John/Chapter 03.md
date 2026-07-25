@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 3

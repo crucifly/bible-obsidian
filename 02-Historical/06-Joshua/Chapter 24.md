@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 24
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 24

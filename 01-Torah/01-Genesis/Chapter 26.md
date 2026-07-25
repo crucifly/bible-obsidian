@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 26
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 26

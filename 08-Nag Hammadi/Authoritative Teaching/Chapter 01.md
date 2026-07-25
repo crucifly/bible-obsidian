@@ -1,7 +1,7 @@
 ---
 book: "Authoritative Teaching"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Authoritative Teaching

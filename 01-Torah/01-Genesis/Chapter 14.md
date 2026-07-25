@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 14
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 14

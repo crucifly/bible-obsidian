@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 13
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 13

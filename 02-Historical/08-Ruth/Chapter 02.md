@@ -1,7 +1,7 @@
 ---
 book: "Ruth"
 chapter: 2
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Ruth 2

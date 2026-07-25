@@ -1,7 +1,7 @@
 ---
 book: "1 Chronicles"
 chapter: 5
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # 1 Chronicles 5

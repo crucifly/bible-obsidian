@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 37
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 37

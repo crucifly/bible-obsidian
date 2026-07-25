@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 4
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 4

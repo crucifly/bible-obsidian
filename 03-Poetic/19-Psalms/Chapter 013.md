@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 13
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 13

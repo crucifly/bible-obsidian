@@ -1,7 +1,7 @@
 ---
 book: "Hypostasis of the Archons"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Hypostasis of the Archons

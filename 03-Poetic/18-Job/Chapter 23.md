@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 23
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 23

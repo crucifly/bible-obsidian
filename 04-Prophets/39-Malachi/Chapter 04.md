@@ -1,7 +1,7 @@
 ---
 book: "Malachi"
 chapter: 4
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Malachi 4

@@ -1,7 +1,7 @@
 ---
 book: "Kebra Nagast"
 chapter: 12
-canon: "Ethiopian-81"
+canon: "Ethiopic Apocrypha"
 ---
 
 # Kebra Nagast 12

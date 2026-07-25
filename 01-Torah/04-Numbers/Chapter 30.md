@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 30
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 30

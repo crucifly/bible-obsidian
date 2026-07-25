@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 56
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 56

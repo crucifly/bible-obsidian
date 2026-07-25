@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 11
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 11

@@ -1,7 +1,7 @@
 ---
 book: "Trimorphic Protennoia"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Trimorphic Protennoia

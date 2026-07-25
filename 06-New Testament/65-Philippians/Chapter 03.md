@@ -1,7 +1,7 @@
 ---
 book: "Philippians"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Philippians 3

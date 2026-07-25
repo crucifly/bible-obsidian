@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 15
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 15

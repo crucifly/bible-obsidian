@@ -1,7 +1,7 @@
 ---
-book: "Chapter 14"
-chapter: 1
-canon: "Unknown"
+book: "2 Esdras"
+chapter: 14
+canon: "Deuterocanonical"
 ---
 
 # Chapter 14

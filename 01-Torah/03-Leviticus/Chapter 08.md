@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 8
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 8

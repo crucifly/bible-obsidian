@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 62
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 62

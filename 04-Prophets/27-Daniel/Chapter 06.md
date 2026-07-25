@@ -1,7 +1,7 @@
 ---
 book: "Daniel"
 chapter: 6
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Daniel 6

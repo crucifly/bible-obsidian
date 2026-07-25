@@ -1,7 +1,7 @@
 ---
 book: "Concept of Our Great Power"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Concept of Our Great Power

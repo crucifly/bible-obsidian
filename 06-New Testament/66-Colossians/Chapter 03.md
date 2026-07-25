@@ -1,7 +1,7 @@
 ---
 book: "Colossians"
 chapter: 3
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Colossians 3

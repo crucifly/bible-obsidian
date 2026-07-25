@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 50
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 50

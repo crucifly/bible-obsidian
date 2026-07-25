@@ -1,7 +1,7 @@
 ---
 book: "Romans"
 chapter: 15
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Romans 15

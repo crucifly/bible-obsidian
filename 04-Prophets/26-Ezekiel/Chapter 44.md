@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 44
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 44

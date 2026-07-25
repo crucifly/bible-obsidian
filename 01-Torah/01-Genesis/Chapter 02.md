@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 2
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 2

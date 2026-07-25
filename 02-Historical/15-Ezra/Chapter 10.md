@@ -1,7 +1,7 @@
 ---
 book: "Ezra"
 chapter: 10
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Ezra 10

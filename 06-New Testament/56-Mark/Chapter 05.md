@@ -1,7 +1,7 @@
 ---
 book: "Mark"
 chapter: 5
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Mark 5

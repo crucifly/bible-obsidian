@@ -1,7 +1,7 @@
 ---
 book: "Philippians"
 chapter: 4
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Philippians 4

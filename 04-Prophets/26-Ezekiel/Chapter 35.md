@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 35
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 35

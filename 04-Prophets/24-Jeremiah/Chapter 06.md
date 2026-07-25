@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 6
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 6

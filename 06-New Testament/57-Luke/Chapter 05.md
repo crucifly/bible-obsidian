@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 5
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 5

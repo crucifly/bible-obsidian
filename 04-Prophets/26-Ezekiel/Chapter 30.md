@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 30
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 30

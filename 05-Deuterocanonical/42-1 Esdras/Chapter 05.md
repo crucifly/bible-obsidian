@@ -1,7 +1,7 @@
 ---
 book: "1 Esdras"
 chapter: 5
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # 1 Esdras 5

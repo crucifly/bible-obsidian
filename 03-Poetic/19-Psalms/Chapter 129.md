@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 129
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 129

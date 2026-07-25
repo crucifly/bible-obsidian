@@ -1,7 +1,7 @@
 ---
 book: "Zephaniah"
 chapter: 3
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Zephaniah 3

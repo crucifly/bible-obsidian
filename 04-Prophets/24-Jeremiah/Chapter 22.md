@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 22
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 22

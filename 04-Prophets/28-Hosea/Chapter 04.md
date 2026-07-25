@@ -1,7 +1,7 @@
 ---
 book: "Hosea"
 chapter: 4
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Hosea 4

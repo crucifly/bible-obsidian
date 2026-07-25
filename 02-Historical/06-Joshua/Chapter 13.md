@@ -1,7 +1,7 @@
 ---
 book: "Joshua"
 chapter: 13
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Joshua 13

@@ -1,7 +1,7 @@
 ---
 book: "Ezra"
 chapter: 4
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Ezra 4

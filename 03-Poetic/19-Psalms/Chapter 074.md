@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 74
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 74

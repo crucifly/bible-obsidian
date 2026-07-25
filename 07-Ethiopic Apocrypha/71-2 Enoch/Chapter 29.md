@@ -1,7 +1,7 @@
 ---
-book: "Chapter 29"
-chapter: 1
-canon: "Ethiopic-81"
+book: "2 Enoch"
+chapter: 29
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 29

@@ -1,7 +1,7 @@
 ---
 book: "Proverbs"
 chapter: 20
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Proverbs 20

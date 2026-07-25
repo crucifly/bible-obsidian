@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 19
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 19

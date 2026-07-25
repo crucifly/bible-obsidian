@@ -1,7 +1,7 @@
 ---
 book: "Numbers"
 chapter: 14
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Numbers 14

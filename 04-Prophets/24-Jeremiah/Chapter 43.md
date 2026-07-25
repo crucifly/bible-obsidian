@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 43
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 43

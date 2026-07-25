@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 8
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 8

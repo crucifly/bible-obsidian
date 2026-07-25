@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 8
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 8

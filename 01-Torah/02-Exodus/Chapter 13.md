@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 13
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 13

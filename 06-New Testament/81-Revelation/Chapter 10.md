@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 10
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 10

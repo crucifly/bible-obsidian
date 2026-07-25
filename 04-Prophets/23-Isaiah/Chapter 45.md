@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 45
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 45

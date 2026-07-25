@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 14
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 14

@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 19
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 19

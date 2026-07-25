@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 67
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 67

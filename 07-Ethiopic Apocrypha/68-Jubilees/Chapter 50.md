@@ -1,7 +1,7 @@
 ---
 book: "Jubilees"
 chapter: 50
-canon: "Ethiopic-81"
+canon: "Ethiopic Apocrypha"
 ---
 
 # Jubilees 50

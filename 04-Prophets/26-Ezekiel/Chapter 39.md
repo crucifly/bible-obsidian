@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 39
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 39

@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 34
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 34

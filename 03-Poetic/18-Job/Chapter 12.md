@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 12
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 12

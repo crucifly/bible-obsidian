@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 41
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 41

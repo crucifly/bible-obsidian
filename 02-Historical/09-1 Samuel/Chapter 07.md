@@ -1,7 +1,7 @@
 ---
 book: "1 Samuel"
 chapter: 7
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # 1 Samuel 7

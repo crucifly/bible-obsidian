@@ -1,7 +1,7 @@
 ---
 book: "Micah"
 chapter: 5
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Micah 5

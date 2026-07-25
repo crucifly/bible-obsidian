@@ -1,7 +1,7 @@
 ---
 book: "Amos"
 chapter: 2
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Amos 2

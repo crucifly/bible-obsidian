@@ -1,7 +1,7 @@
 ---
 book: "1 Samuel"
 chapter: 12
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # 1 Samuel 12

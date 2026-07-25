@@ -1,7 +1,7 @@
 ---
 book: "1 Peter"
 chapter: 5
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # 1 Peter 5

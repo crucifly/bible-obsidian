@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 14
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 14

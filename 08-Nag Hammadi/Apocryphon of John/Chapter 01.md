@@ -1,7 +1,7 @@
 ---
 book: "Apocryphon of John"
 chapter: 1
-canon: "Nag-Hammadi"
+canon: "Nag Hammadi"
 ---
 
 # Apocryphon of John

@@ -1,7 +1,7 @@
 ---
 book: "Hosea"
 chapter: 9
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Hosea 9

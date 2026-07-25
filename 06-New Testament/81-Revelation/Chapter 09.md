@@ -1,7 +1,7 @@
 ---
 book: "Revelation"
 chapter: 9
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Revelation 9

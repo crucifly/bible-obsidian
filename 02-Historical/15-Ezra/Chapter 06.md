@@ -1,7 +1,7 @@
 ---
 book: "Ezra"
 chapter: 6
-canon: "Masoretic"
+canon: "Historical"
 ---
 
 # Ezra 6

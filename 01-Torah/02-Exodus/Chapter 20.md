@@ -1,7 +1,7 @@
 ---
 book: "Exodus"
 chapter: 20
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Exodus 20

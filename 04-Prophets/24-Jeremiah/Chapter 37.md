@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 37
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 37

@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 55
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 55

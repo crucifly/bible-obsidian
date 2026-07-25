@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 20
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 20

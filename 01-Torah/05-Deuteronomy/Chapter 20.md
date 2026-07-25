@@ -1,7 +1,7 @@
 ---
 book: "Deuteronomy"
 chapter: 20
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Deuteronomy 20

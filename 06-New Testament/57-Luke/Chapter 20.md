@@ -1,7 +1,7 @@
 ---
 book: "Luke"
 chapter: 20
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Luke 20

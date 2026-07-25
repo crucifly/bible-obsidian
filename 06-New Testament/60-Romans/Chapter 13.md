@@ -1,7 +1,7 @@
 ---
 book: "Romans"
 chapter: 13
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Romans 13

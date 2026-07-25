@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 14
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 14

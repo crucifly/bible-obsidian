@@ -1,7 +1,7 @@
 ---
 book: "Zechariah"
 chapter: 5
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Zechariah 5

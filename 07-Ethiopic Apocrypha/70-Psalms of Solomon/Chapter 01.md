@@ -1,7 +1,7 @@
 ---
-book: "Chapter 1"
+book: "Psalms of Solomon"
 chapter: 1
-canon: "Ethiopic-81"
+canon: "Ethiopic Apocrypha"
 ---
 
 # Chapter 1

@@ -1,7 +1,7 @@
 ---
-book: "Song of Solomon"
+book: "Song of Songs"
 chapter: 6
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Song of Solomon 6

@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 20
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 20

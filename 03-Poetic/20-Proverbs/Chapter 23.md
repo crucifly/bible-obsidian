@@ -1,7 +1,7 @@
 ---
 book: "Proverbs"
 chapter: 23
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Proverbs 23

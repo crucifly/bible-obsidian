@@ -1,7 +1,7 @@
 ---
 book: "Acts"
 chapter: 22
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # Acts 22

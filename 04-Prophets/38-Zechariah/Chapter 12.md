@@ -1,7 +1,7 @@
 ---
 book: "Zechariah"
 chapter: 12
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Zechariah 12

@@ -1,7 +1,7 @@
 ---
 book: "Isaiah"
 chapter: 48
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Isaiah 48

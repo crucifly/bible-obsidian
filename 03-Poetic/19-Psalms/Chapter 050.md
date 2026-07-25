@@ -1,7 +1,7 @@
 ---
 book: "Psalms"
 chapter: 50
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Psalms 50

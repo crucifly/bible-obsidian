@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 40
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 40

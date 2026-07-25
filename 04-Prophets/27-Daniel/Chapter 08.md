@@ -1,7 +1,7 @@
 ---
 book: "Daniel"
 chapter: 8
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Daniel 8

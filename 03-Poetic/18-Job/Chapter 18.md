@@ -1,7 +1,7 @@
 ---
 book: "Job"
 chapter: 18
-canon: "Masoretic"
+canon: "Poetic"
 ---
 
 # Job 18

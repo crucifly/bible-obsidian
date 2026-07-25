@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 21
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 21

@@ -1,7 +1,7 @@
 ---
 book: "Sirach"
 chapter: 8
-canon: "Deuterocanon"
+canon: "Deuterocanonical"
 ---
 
 # Sirach 8

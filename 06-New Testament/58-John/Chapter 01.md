@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 1
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 1

@@ -1,7 +1,7 @@
 ---
 book: "Genesis"
 chapter: 38
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Genesis 38

@@ -1,7 +1,7 @@
 ---
 book: "John"
 chapter: 18
-canon: "NewTestament"
+canon: "New Testament"
 ---
 
 # John 18

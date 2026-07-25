@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 14
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 14

@@ -1,7 +1,7 @@
 ---
 book: "Jeremiah"
 chapter: 19
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Jeremiah 19

@@ -1,7 +1,7 @@
 ---
 book: "Ezekiel"
 chapter: 21
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Ezekiel 21

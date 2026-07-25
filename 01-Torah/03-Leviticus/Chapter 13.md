@@ -1,7 +1,7 @@
 ---
 book: "Leviticus"
 chapter: 13
-canon: "Masoretic"
+canon: "Torah"
 ---
 
 # Leviticus 13

@@ -1,7 +1,7 @@
 ---
 book: "Zechariah"
 chapter: 4
-canon: "Masoretic"
+canon: "Prophets"
 ---
 
 # Zechariah 4
