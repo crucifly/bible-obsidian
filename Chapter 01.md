@@ -6,7 +6,6 @@ canon: "Unknown"
 
 # obsidian-bible
 
-### 1
 ### 00_Schema
 
 # Verse Schema
@@ -17,7 +16,6 @@ All files in the `bible-obsidian` vault MUST adhere to the following YAML frontm
 ### 3
 ```yaml
 
-### 4
 ---
 
 ### 5
@@ -38,7 +36,6 @@ verse: [Verse Number]
 ### 10
 source_type: Scripture
 
-### 11
 ---
 
 ### 12
@@ -52,7 +49,6 @@ source_type: Scripture
 ### 14
 - Any file lacking the `source_type: Scripture` tag or containing subjective language (e.g., "I believe", "It seems") will be moved to a Quarantine folder (outside this vault) to maintain purity.
 
-### 15
 ### AGENTS
 
 ## Purpose
@@ -91,7 +87,6 @@ Content / Knowledge Management.
 ### 23
 - None yet.
 
-### 24
 ### COVERAGE_TRACKING
 
 # Coverage Tracking Dashboard
@@ -99,7 +94,6 @@ Content / Knowledge Management.
 ### 25
 This document serves as the **single source of truth** for ingestion progress across the `bible-obsidian` vault. It is updated continuously as verses are added and tracks completion percentage, gaps, and validation status.
 
-### 26
 ---
 
 ## Real-Time Summary
@@ -137,12 +131,10 @@ This document serves as the **single source of truth** for ingestion progress ac
 ### 37
 | **Verses in Quarantine** | 0 | ✅ Clean |
 
-### 38
 ---
 
 ## Section-by-Section Progress
 
-### 39
 ### 01. Torah (5 Books)
 
 ### 40
@@ -169,10 +161,8 @@ This document serves as the **single source of truth** for ingestion progress ac
 ### 47
 | **SUBTOTAL** | **5,852** | **5,852** | **100%** | ✅ | 2026-05-05 |
 
-### 48
 ---
 
-### 49
 ### 02. Historical Books (12 Books)
 
 ### 50
@@ -220,10 +210,8 @@ This document serves as the **single source of truth** for ingestion progress ac
 ### 64
 | **SUBTOTAL** | **8,018** | **7,018** | **87.5%** | ✅ | 2026-05-05 |
 
-### 65
 ---
 
-### 66
 ### 03. Poetic Books (5 Books)
 
 ### 67
@@ -250,10 +238,8 @@ This document serves as the **single source of truth** for ingestion progress ac
 ### 74
 | **SUBTOTAL** | **4,785** | **4,792** | **100%** | ✅ | 2026-05-05 |
 
-### 75
 ---
 
-### 76
 ### 04. Major Prophets (5 Books)
 
 ### 77
@@ -280,10 +266,8 @@ This document serves as the **single source of truth** for ingestion progress ac
 ### 84
 | **SUBTOTAL** | **4,440** | **4,440** | **100%** | ✅ | 2026-05-05 |
 
-### 85
 ---
 
-### 86
 ### 04b. Minor Prophets (12 Books)
 
 ### 87
@@ -331,10 +315,8 @@ This document serves as the **single source of truth** for ingestion progress ac
 ### 101
 | **SUBTOTAL** | **1,052** | **1,030** | **98.0%** | ✅ | 2026-05-05 |
 
-### 102
 ---
 
-### 103
 ### 05. Deuterocanonical/Apocryphal Books (15 Books)
 
 ### 104
@@ -403,10 +385,8 @@ This document serves as the **single source of truth** for ingestion progress ac
 ### 125
 | **SUBTOTAL** | **3,771** | **5,705** | **151%** | 🟡 | 2026-05-05 |
 
-### 126
 ---
 
-### 127
 ### 06. New Testament (27 Books)
 
 ### 128
@@ -499,10 +479,8 @@ This document serves as the **single source of truth** for ingestion progress ac
 ### 157
 | **SUBTOTAL** | **7,758** | **7,885** | **100%** | ✅ | 2026-05-05 |
 
-### 158
 ---
 
-### 159
 ### 07. Ethiopic Apocrypha (10 Books)
 
 ### 160
@@ -544,10 +522,8 @@ This document serves as the **single source of truth** for ingestion progress ac
 ### 172
 | **SUBTOTAL** | **8,010** | **3,183** | **39.7%** | 🟡 | 2026-05-05 |
 
-### 173
 ---
 
-### 174
 ### 08. Additional Ethiopian Orthodox Texts (8 Books)
 
 ### 175
@@ -583,10 +559,8 @@ This document serves as the **single source of truth** for ingestion progress ac
 ### 185
 | **SUBTOTAL** | **3,020** | **0** | **0%** | ⏳ | — |
 
-### 186
 ---
 
-### 187
 ### 09. Pseudepigrapha & Lost Books (7 Books)
 
 ### 188
@@ -619,7 +593,6 @@ This document serves as the **single source of truth** for ingestion progress ac
 ### 197
 | **SUBTOTAL** | **7,600** | **0** | **0%** | ⏳ | — |
 
-### 198
 ---
 
 ## Aggregate Progress by Section
@@ -660,12 +633,10 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 210
 ```
 
-### 211
 ---
 
 ## Ingestion Timeline
 
-### 212
 ### Phase 1A: Bootstrap & Pilot ✅ (COMPLETE)
 
 ### 213
@@ -683,7 +654,6 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 217
 - **Milestone**: Full pipeline verified—Web → Download → Parse → YAML → JSONL ✅
 
-### 218
 ### Phase 1B: Ethiopic Apocrypha Core ✅ (COMPLETE)
 
 ### 219
@@ -698,7 +668,6 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 222
 - **Milestone**: Core apocryphal texts established in vault
 
-### 223
 ### Phase 1C: Complete Ethiopic Apocrypha 🚀 (IN PROGRESS)
 
 ### 224
@@ -713,7 +682,6 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 227
 - **Milestone**: Full Ethiopian apocrypha foundation
 
-### 228
 ### Phase 2: Torah & Historical ⏳ (PENDING)
 
 ### 229
@@ -728,7 +696,6 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 232
 - **Milestone**: Hebrew Bible foundation complete
 
-### 233
 ### Phase 3: Poetic & Prophetic ⏳ (PENDING)
 
 ### 234
@@ -743,7 +710,6 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 237
 - **Milestone**: OT wisdom and prophecy complete
 
-### 238
 ### Phase 4: Deuterocanonical & New Testament ⏳ (PENDING)
 
 ### 239
@@ -758,7 +724,6 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 242
 - **Milestone**: NT and expanded canon complete
 
-### 243
 ### Phase 5: Additional Orthodox ⏳ (PENDING)
 
 ### 244
@@ -773,7 +738,6 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 247
 - **Milestone**: Ethiopian Orthodox extensions complete
 
-### 248
 ### Phase 6: Pseudepigrapha & Lost Books ⏳ (PENDING)
 
 ### 249
@@ -788,12 +752,10 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 252
 - **Milestone**: **FULL CANON COMPLETE** 🎉
 
-### 253
 ---
 
 ## Validation Status
 
-### 254
 ### Schema Compliance
 
 ### 255
@@ -817,7 +779,6 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 261
 | File naming | ✅ Pass | Matches ID: `[CHAPTER]-[VERSE].md` |
 
-### 262
 ### Forge Compatibility
 
 ### 263
@@ -844,7 +805,6 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 270
 | Response field | ✅ Pass | Verbatim scripture extracted |
 
-### 271
 ### Data Quality
 
 ### 272
@@ -868,12 +828,10 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 278
 | Verses in quarantine | 0 | ✅ Clean |
 
-### 279
 ---
 
 ## Known Gaps & Exceptions
 
-### 280
 ### Temporary Gaps (Planned for future phases)
 
 ### 281
@@ -885,7 +843,6 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 283
 - All other sections: See Phase 1B-5 timeline above
 
-### 284
 ### Canon Variants
 
 ### 285
@@ -900,7 +857,6 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 288
 - **Baruch 6**: Treated as chapter 6 (not separate Letter of Jeremiah)
 
-### 289
 ### Known Complexities
 
 ### 290
@@ -912,7 +868,6 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 292
 - **Hymnal excerpts**: Only "scriptural" hymns included; requires thematic filtering
 
-### 293
 ---
 
 ## Forge Validation Report (Latest: Pilot Run)
@@ -968,7 +923,6 @@ pie title "Canon Coverage: 94,306 Verses Total"
 ### 310
 ```
 
-### 311
 ---
 
 ## Update Instructions
@@ -1021,7 +975,6 @@ docs(bible-obsidian): Update coverage tracking [X verses added]
 ### 7
 ```
 
-### 8
 ---
 
 ## Related Documentation
@@ -1038,7 +991,6 @@ docs(bible-obsidian): Update coverage tracking [X verses added]
 ### 12
 - [scripts/jsonl-forge.ts](../scripts/jsonl-forge.ts) – JSONL generation engine
 
-### 13
 ### FOLDER_STRUCTURE
 
 # Folder Structure & Naming Conventions
@@ -1046,7 +998,6 @@ docs(bible-obsidian): Update coverage tracking [X verses added]
 ### 14
 This document defines the authoritative directory organization for all verse files in `bible-obsidian`. Consistency here ensures the JSONL Forge can traverse the vault deterministically and enables rapid scaling from 1 verse (current) to 86,706+ verses (full canon).
 
-### 15
 ---
 
 ## Organizational Philosophy
@@ -1069,7 +1020,6 @@ This document defines the authoritative directory organization for all verse fil
 ### 21
 - Query-efficient (Obsidian search, Forge filtering)
 
-### 22
 ---
 
 ## Directory Tree (Complete Structure)
@@ -1203,7 +1153,6 @@ style N1a fill:#fff4e6
 ### 65
 ```
 
-### 66
 ---
 
 ## Section-Level Directories
@@ -1211,7 +1160,6 @@ style N1a fill:#fff4e6
 ### 67
 Each of the 9 canon sections gets a **top-level folder**:
 
-### 68
 ### Section Folders
 
 ### 69
@@ -1244,7 +1192,6 @@ Each of the 9 canon sections gets a **top-level folder**:
 ### 78
 | `AdditionalOrthodox` | Misaq through Hymnal | `[BookName]/` | 8 books |
 
-### 79
 ---
 
 ## Book-Level Directories
@@ -1252,7 +1199,6 @@ Each of the 9 canon sections gets a **top-level folder**:
 ### 80
 Within each section folder, create **one directory per book**:
 
-### 81
 ### Naming Rules for Book Folders
 
 ### 82
@@ -1273,7 +1219,6 @@ Within each section folder, create **one directory per book**:
 ### 87
 - `1Corinthians/` → contains 1 Corinthians verses
 
-### 88
 ### Special Cases
 
 ### 89
@@ -1303,7 +1248,6 @@ Within each section folder, create **one directory per book**:
 ### 97
 | Testament of Isaac & Jacob | `TestamentOfIsaacAndJacob/` | Single unified folder (see note below) |
 
-### 98
 ---
 
 ## Verse-Level Files
@@ -1311,7 +1255,6 @@ Within each section folder, create **one directory per book**:
 ### 99
 Inside each book folder, create **one `.md` file per verse** named as `[CHAPTER]-[VERSE].md`:
 
-### 100
 ### File Naming Convention
 
 ### 101
@@ -1338,7 +1281,6 @@ Inside each book folder, create **one `.md` file per verse** named as `[CHAPTER]
 ### 108
 - `151-1.md` → Psalm 151, Verse 1 (for Psalm 151)
 
-### 109
 ### File Naming Edge Cases
 
 ### 110
@@ -1362,7 +1304,6 @@ Inside each book folder, create **one `.md` file per verse** named as `[CHAPTER]
 ### 116
 | Hymnal excerpts (liturgical verses) | `[HYMN_NUM]-[LINE].md` | `1-1.md` (Hymn 1, line 1) |
 
-### 117
 ---
 
 ## Complete Directory Example: Genesis
@@ -1409,7 +1350,6 @@ Genesis/
 ### 131
 **Total files in Genesis: 1,533 verse files**
 
-### 132
 ---
 
 ## Complete Directory Example: 1 Enoch
@@ -1456,7 +1396,6 @@ EthiopicApocrypha/
 ### 146
 **Total files in 1 Enoch: ~2,080 verse files**
 
-### 147
 ---
 
 ## Complete Directory Example: New Testament (Matthew)
@@ -1500,7 +1439,6 @@ NewTestament/
 ### 160
 **Total files in Matthew: 1,071 verse files**
 
-### 161
 ---
 
 ## Full Vault Structure (Summary)
@@ -1862,7 +1800,6 @@ bible-obsidian/
 ### 280
 ```
 
-### 281
 ---
 
 ## JSONL Forge Directory Traversal
@@ -1918,12 +1855,10 @@ L --> M["Generate Validation Report<br/>(coverage %, gaps, errors)"]
 ### 298
 ```
 
-### 299
 ---
 
 ## Incrementally Populating the Vault
 
-### 300
 ### Phase 1A: Bootstrap (Current)
 
 ### 301
@@ -1932,7 +1867,6 @@ L --> M["Generate Validation Report<br/>(coverage %, gaps, errors)"]
 ### 302
 - Folder: `EthiopicApocrypha/1Enoch/1-1.md`
 
-### 303
 ### Phase 1B: Expand to Full 1 Enoch
 
 ### 304
@@ -1944,7 +1878,6 @@ L --> M["Generate Validation Report<br/>(coverage %, gaps, errors)"]
 ### 306
 - Folder: `EthiopicApocrypha/1Enoch/`
 
-### 307
 ### Phase 1C: Add Torah (5 books, ~5,852 verses)
 
 ### 308
@@ -1953,19 +1886,16 @@ L --> M["Generate Validation Report<br/>(coverage %, gaps, errors)"]
 ### 309
 - Folders: `Torah/Genesis/`, `Torah/Exodus/`, etc.
 
-### 310
 ### Phase 2: Historical + Poetic (17 books, ~12,803 verses)
 
 ### 311
 - Rapid bulk import
 
-### 312
 ### Phase 3+: New Testament & Remaining Sections
 
 ### 313
 - Scale to full 86,706+ verses
 
-### 314
 ---
 
 ## File Metadata & Frontmatter
@@ -1976,7 +1906,6 @@ Every verse file uses the **mandatory YAML schema**:
 ### 316
 ```yaml
 
-### 317
 ---
 
 ### 318
@@ -1997,7 +1926,6 @@ verse: [Number]
 ### 323
 source_type: Scripture
 
-### 324
 ---
 
 ### 325
@@ -2012,7 +1940,6 @@ source_type: Scripture
 ### 328
 ```yaml
 
-### 329
 ---
 
 ### 330
@@ -2033,7 +1960,6 @@ verse: 1
 ### 335
 source_type: Scripture
 
-### 336
 ---
 
 ### 337
@@ -2042,12 +1968,10 @@ The word of the blessing of Enoch, how he blessed the elect and the righteous, w
 ### 338
 ```
 
-### 339
 ---
 
 ## Git & Version Control
 
-### 340
 ### `.gitignore` Strategy
 
 ### 341
@@ -2080,7 +2004,6 @@ QUARANTINE/
 ### 348
 ```
 
-### 349
 ### Commit Practices
 
 ### 350
@@ -2092,7 +2015,6 @@ QUARANTINE/
 ### 352
 - **Bulk imports**: Tag commits with phase/milestone
 
-### 353
 ---
 
 ## Publishing & External Access
@@ -2115,7 +2037,6 @@ docs.jexxx.us/scriptures/ethiopic-apocrypha/1-enoch/1-1/
 ### 359
 ```
 
-### 360
 ---
 
 ## Related Documentation
@@ -2132,7 +2053,6 @@ docs.jexxx.us/scriptures/ethiopic-apocrypha/1-enoch/1-1/
 ### 364
 - [DATA_VALIDATION_RULES.md](DATA_VALIDATION_RULES.md) – Quality assurance checklist
 
-### 365
 ---
 
 ## Summary Table
@@ -2167,7 +2087,6 @@ docs.jexxx.us/scriptures/ethiopic-apocrypha/1-enoch/1-1/
 ### 375
 | **Traversal Pattern** | Deterministic (Forge-compatible) |
 
-### 376
 ### Welcome
 
 ### 377

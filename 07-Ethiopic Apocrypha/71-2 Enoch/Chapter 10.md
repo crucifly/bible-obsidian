@@ -6,19 +6,16 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 10
 
-### 1
 ### 10-1
 
 ### 2
 And those two men led me up on to the Northern side, and showed me there a very terrible place, and (there were) all manner of tortures in that place: cruel darkness and unillumined gloom, and there is no light there, but murky fire constantly flaming aloft, and (there is) a fiery river coming forth, and that whole place is everywhere fire, and everywhere (there is) frost and ice, thirst and shivering, while the bonds are very cruel, and the angels(spirits)(http://scriptures.lds.org/bds/spirit) fearful and merciless, bearing angry weapons, merciless torture, and I said:
 
-### 3
 ### 10-2
 
 ### 4
 Woe, woe, how very terrible is this place.
 
-### 5
 ### 10-3
 
 ### 6

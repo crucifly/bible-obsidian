@@ -6,7 +6,6 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 9
 
-### 1
 ### 9-1
 
 ### 2

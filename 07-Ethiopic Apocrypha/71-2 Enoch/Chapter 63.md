@@ -6,25 +6,21 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 63
 
-### 1
 ### 63-1
 
 ### 2
 When man clothes the naked and fills the hungry, he will find reward fromGod.
 
-### 3
 ### 63-2
 
 ### 4
 But if his heart murmur, he commits a double evil; ruin of himself and of that which he gives; and for him there will be no finding of reward on account of that.
 
-### 5
 ### 63-3
 
 ### 6
 And if his own heart is filled with his food and his own flesh, clothed with his own clothing, he commits contempt, and will forfeit all his endurance of poverty, and will not find reward of his good deeds.
 
-### 7
 ### 63-4
 
 ### 8

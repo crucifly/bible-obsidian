@@ -6,29 +6,15 @@ canon: "Nag-Hammadi"
 
 # Secret Book of John
 
-### 1
-[![Nag Hammadi Library main page](http://www.gnosis.org/images/butnhl.gif)](nhl.html)
 
-### 2
-[![Introduction to Gnosticism and the Nag Hammadi Library](http://www.gnosis.org/images/butintro.gif)](/naghamm/Pagels-Gnostic-Gospels.html)
 
-### 3
-[![Alphabetic Index of the Nag Hammadi Library](http://www.gnosis.org/images/butalpha.gif)](nhlalpha.html)
 
-### 4
-[![Codex Index of the Nag Hammadi Library](http://www.gnosis.org/images/butcodex.gif)](nhlcodex.html)
 
-### 5
-[![Gospel of Thomas Collection](http://www.gnosis.org/images/butgth.gif)](nhl_thomas.htm)
 
 ### 6
 [![Secret Book of John](http://www.gnosis.org/images/butrevjohn.gif)](nhl_sbj.htm)
 
-### 7
-[![Return to The Gnostic Society Library page](http://www.gnosis.org/images/libbut.gif)](../library.html)
 
-### 8
-[![Return to The Gnosis Archive main page](http://www.gnosis.org/images/butgnarch.gif)](../welcome.html)
 
 ### 9
 [![The Secret Book of John, by Stevan Davies](../images/Bookstore/secretbookjohn.jpg)](http://www.amazon.com/exec/obidos/ASIN/1594730822/ref=nosim/gnosisarchive)
@@ -39,8 +25,6 @@ _The Secret Book of John
 ### 11
 _by Stevan Davies
 
-### 12
-![The Gnostic Society Library](/images/GnosticSocietyLibrary.gif "The Gnostic Society Library - gnosis.org")
 
 ### 13
 **The Apocryphon of John Collection
@@ -48,7 +32,6 @@ _by Stevan Davies
 ### 14
 (The Secret Revelation of John - The Secret Book of John)**
 
-### 15
 ###### [Gnosis Archive](../welcome.html) | [Library](../library.html) | [Bookstore](../bookstore1.htm) | [Index](../search_form.html) | [Web Lectures](../lectures.html) | [Ecclesia Gnostica](../eghome.htm) | [Gnostic Society](../gnostsoc.htm)
 
 ### 16
@@ -3924,5 +3907,4 @@ _by Stevan Davies
 ### 1306
 > > All rights including right of electronic reproduction are reserved by the author._
 
-### 1307
 ###### [Gnosis Archive](../welcome.html) | [Library](../library.html) | [Bookstore](../bookstore1.htm) | [Index](../search_form.html) | [Web Lectures](../lectures.html) | [Ecclesia Gnostica](../eghome.htm) | [Gnostic Society](../gnostsoc.htm)

@@ -12,49 +12,35 @@ canon: "Nag-Hammadi"
 ### 2
 [![Search the entire library index](../images/butsrch.gif)](../search_form.html)
 
-### 3
 #####
 
 ### 4
 Gnostic and Related Material:
 
-### 5
 ###### [Library Main Page](../library.html)
 
-### 6
 ###### [Nag Hammadi Library](../naghamm/nhl.html)
 
-### 7
 ###### [Gnostic Scriptures](gs.htm)
 
-### 8
 ###### [GRS Mead Collection](grs-mead/mead_index.htm)
 
-### 9
 ###### [Polemical Works](polem.htm)
 
-### 10
 ###### [Christian Apocrypha](cac.htm)
 
-### 11
 ###### [Corpus Hermeticum](hermet.htm)
 
-### 12
 ###### [Manichaean Writings](manis.htm)
 
-### 13
 ###### [Mandaean Writings](mand.htm)
 
-### 14
 ###### [Cathar Writings](cathtx.htm)
 
-### 15
 ###### [Alchemical Writings](alch.htm)
 
-### 16
 ###### [Modern Gnostic Texts](modern.htm)
 
-### 17
 #####
 
 ### 18
@@ -63,15 +49,11 @@ Return to
 ### 19
 [Gnosis Archive](../welcome.html)
 
-### 20
-![The Gnostic Society Library](/images/GnosticSocietyLibrary.gif "The Gnostic Society Library - gnosis.org")
 
 ## Gnostic Scriptures and Fragments
 
-### 21
 ### The Hymn of the Pearl - The Acts of Thomas
 
-### 22
 ######
 
 ### 23
@@ -2282,5 +2264,4 @@ Return to
 ### 758
 > which he spake in prison, is ended.
 
-### 759
 ###### [Archive](../welcome.html) | [Library](../library.html) | [Bookstore](../bookstore1.htm) | [Index](../search_form.html) | [Web Lectures](../lectures.html) | [Ecclesia Gnostica](../eghome.htm) | [Gnostic Society](../gnostsoc/gnostsoc.htm)

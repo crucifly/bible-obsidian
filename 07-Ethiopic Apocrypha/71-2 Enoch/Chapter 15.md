@@ -6,19 +6,16 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 15
 
-### 1
 ### 15-1
 
 ### 2
 Then the elements of the sun, called Phoenixes and Chalkydri break into song, therefore every bird flutters with its wings, rejoicing at the giver of light, and they broke into song at the command of theLord.
 
-### 3
 ### 15-2
 
 ### 4
 The giver of light comes to give brightness to the whole world, and the morning guard takes shape, which is the rays of the sun, and the sun of the earth goes out, and receives its brightness to light up the whole face of the earth, and they showed me this calculation of the suns going.
 
-### 5
 ### 15-3
 
 ### 6

@@ -6,7 +6,6 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 42
 
-### 1
 ### 42-1
 
 ### 2

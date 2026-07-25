@@ -8990,8 +8990,6 @@ ill. 4,
 ### 2995
 CONCERNING THE CRAFTS (tekhnE) AND OCCUPATIONS
 
-### 2996
-* * * f%
 
 ### 2997
 75. Let them diligently inquire about their life :

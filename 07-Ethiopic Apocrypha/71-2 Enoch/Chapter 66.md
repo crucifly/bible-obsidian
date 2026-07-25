@@ -6,49 +6,41 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 66
 
-### 1
 ### 66-1
 
 ### 2
 And now, my children, keep your souls from all injustice, such as theLord hates.
 
-### 3
 ### 66-2
 
 ### 4
 Walk before his face with terror and trembling and serve him alone.
 
-### 5
 ### 66-3
 
 ### 6
 Bow down to the true God, not to dumb idols, but bow down to his similitude, and bring all just offerings before the Lords face. The Lord hates what is unjust.
 
-### 7
 ### 66-4
 
 ### 8
 For the Lord sees all things; when man takes thought in his heart, then he counsels the intellects, and every thought is always before the Lord, who made firm the earth and put all creatures on it.
 
-### 9
 ### 66-5
 
 ### 10
 If you look to heaven, the Lord is there; if you take thought of the seas deep and all the under-earth, the Lord is there.
 
-### 11
 ### 66-6
 
 ### 12
 For the Lord created all things. Bow not down to things made by man, leaving the Lord of all creation, because no work can remain hidden before the Lords face.
 
-### 13
 ### 66-7
 
 ### 14
 Walk, my children, in long-suffering, in meekness, honesty, in provocation, in grief, in faith and in truth, in (reliance on) promises, in illness, in abuse, in wounds, in temptation, in nakedness, in privation, loving one another, till you go out from this age of ills, that you become inheritors of endless time.
 
-### 15
 ### 66-8
 
 ### 16

@@ -3613,16 +3613,10 @@ the praise, the dominion, and the glory through [...] the Lord, the Savior, the 
 of all those belonging to the one filled with Love, through his Holy Spirit, from now
 
 ### 1203
-Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
-
-### 1204
 The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.
 
-### 1205
+### 1204
 E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.
 
-### 1206
-The translation presented here has been edited, modified and formatted for use in the Gnostic Society Library.
-
-### 1207
+### 1205
 For academic citation, please refer to published editions of this text.

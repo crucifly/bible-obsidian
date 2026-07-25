@@ -6,13 +6,11 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 43
 
-### 1
 ### 43-1
 
 ### 2
 I, my children, measured and wrote out every work and every measure and every righteous judgment.
 
-### 3
 ### 43-2
 
 ### 4

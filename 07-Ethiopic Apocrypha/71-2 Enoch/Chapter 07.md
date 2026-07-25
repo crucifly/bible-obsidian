@@ -6,19 +6,16 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 7
 
-### 1
 ### 7-1
 
 ### 2
 And those men took me and led me up on to the secondheaven, and showed me darkness, greater than earthly darkness, and there I saw prisoners hanging, watched, awaiting the great and boundless judgment, and these angels (spirits)(http://scriptures.lds.org/bds/spirit) were dark-looking, more than earthly darkness, and incessantly making weeping through all hours.
 
-### 3
 ### 7-2
 
 ### 4
 And I said to the men who were with me: Wherefore are these incessantly tortured? They answered me: These are Gods apostates, who obeyed not Gods commands, but took counsel with their own will, and turned away with their prince, who also (is) fastened on the fifth heaven.
 
-### 5
 ### 7-3
 
 ### 6

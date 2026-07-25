@@ -6,7 +6,6 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 2
 
-### 1
 ### 2-1
 
 ### 2

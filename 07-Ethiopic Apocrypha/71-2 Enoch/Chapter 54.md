@@ -6,13 +6,11 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 54
 
-### 1
 ### 54-1
 
 ### 2
 At that time, not understanding this let these books which I have given you be for an inheritance of your peace.
 
-### 3
 ### 54-2
 
 ### 4

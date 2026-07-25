@@ -6,19 +6,16 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 38
 
-### 1
 ### 38-1
 
 ### 2
 And theLord said to those men who first led me up: Let Enoch go down on to earth with you, and await him till the determined day.
 
-### 3
 ### 38-2
 
 ### 4
 And they placed me by night on my bed.
 
-### 5
 ### 38-3
 
 ### 6

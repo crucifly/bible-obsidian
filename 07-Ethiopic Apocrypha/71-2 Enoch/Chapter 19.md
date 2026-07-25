@@ -6,19 +6,16 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 19
 
-### 1
 ### 19-1
 
 ### 2
 And thence those men took me and bore me up on to the sixthheaven, and there I saw seven bands of angels, very bright and very glorious, and their faces shining more than the suns shining, glistening, and there is no difference in their faces, or behaviour, or manner of dress; and these make the orders, and learn the goings of the stars, and the alteration of the moon, or revolution of the sun, and the good government of the world.
 
-### 3
 ### 19-2
 
 ### 4
 And when they see evildoing they make commandments and instruction, and sweet and loud singing, and all (songs) of praise.
 
-### 5
 ### 19-3
 
 ### 6

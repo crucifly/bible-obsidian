@@ -6,13 +6,11 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 13
 
-### 1
 ### 13-1
 
 ### 2
 Those men bore me away to the east, and placed me at the suns gates, where the sun goes forth according to the regulation of the seasons and the circuit of the months of the whole year, and the number of the hours day and night.
 
-### 3
 ### 13-2
 
 ### 4

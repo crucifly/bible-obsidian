@@ -6,7 +6,6 @@ canon: "Unknown"
 
 # 00_META
 
-### 1
 ### Divine_Manifesto
 
 # The Divine Source of Truth (MANIFESTO)
@@ -14,7 +13,6 @@ canon: "Unknown"
 ### 2
 **Primary Objective:** Maintain a sterile, canonical representation of the Ethiopian 81-book canon and authorized translations.
 
-### 3
 ### Logical Constraints:
 
 ### 4
@@ -26,7 +24,6 @@ canon: "Unknown"
 ### 6
 - **Reference Integrity:** All cross-references must point only to other files within this directory.
 
-### 7
 ### Current Roadmap:
 
 ### 1

@@ -6,59 +6,30 @@ canon: "Nag-Hammadi"
 
 # The Reality of the Rulers
 
-### 1
-[![Nag Hammadi Library main page](../images/butnhl.gif)](nhl.html)
 
-### 2
-[![Introduction to Gnosticism and the Nag Hammadi Library](../images/butintro.gif)](nhlintro.html)
 
-### 3
-[![Alphabetic Index of the Nag Hammadi Library](../images/butalpha.gif)](nhlalpha.html)
 
-### 4
-[![Codex Index of the Nag Hammadi Library](../images/butcodex.gif)](nhlcodex.html)
 
-### 5
-[![Gospel of Thomas Collection](../images/butgth.gif)](nhl_thomas.htm)
 
-### 6
-[![Search the Nag Hammadi Library](../images/butnhlsr.gif)](nhsearch.html)
 
-### 7
-[![Return to The Gnostic Society Library page](../images/libbut.gif)](../library.html)
 
-### 8
-[![Return to The Gnosis Archive main page](../images/butgnarch.gif)](../welcome.html)
 
-### 9
-###### _Visit the [Bookstore](../bookstore1.htm) for a complete selection of translations and books about the Gnostic Gospels.
 
 ### 10
 _
 
-### 11
-[![The Gnostic Gospels, by Elaine Pagels (Click to buy the book)](../images/Bookstore/gnosticgospels.gif)](../bookstore1.htm)
 
 ### 12
 [![The Nag Hammadi Library, edited by James Robinson (Click to buy the book)](../images/Bookstore/naghammadi.gif)](../bookstore1.htm)
 
-### 13
-![The Gnostic Society Library](/images/GnosticSocietyLibrary.gif "The Gnostic Society Library - gnosis.org")
 
-### 14
-**The Nag Hammadi Library**
 
-### 15
 ### The Hypostasis of the Archons
 
 ### 16
 _(The Reality of the Rulers)_
 
-### 17
-* * *
 
-### 18
-**Translated by Bentley Layton**
 
 ### 19
 >
@@ -390,5 +361,4 @@ The translation presented here has been edited, modified and formatted for use i
 ### 128
 For academic citation, please refer to published editions of this text.
 
-### 129
 ###### | [Nag Hammadi Library](nhl.html) | [Gnostic Society Library](../library.html) | [Gnosis Archive](../welcome.html) |

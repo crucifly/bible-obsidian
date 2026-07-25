@@ -6,13 +6,11 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 67
 
-### 1
 ### 67-1
 
 ### 2
 WhenEnoch had talked to the people, the Lord sent out darkness on to the earth, and there was darkness, and it covered those men standing with Enoch, and they took Enoch up on to the highest heaven, where the Lord (is); and he received him and placed him before his face, and the darkness went off from the earth, and light came again.
 
-### 3
 ### 67-2
 
 ### 4

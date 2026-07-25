@@ -6,19 +6,16 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 41
 
-### 1
 ### 41-1
 
 ### 2
 And I saw all forefathers from (all) time withAdam and Eva (Eve)(http://scriptures.lds.org/bde/eve), and I sighed and broke into tears and said of the ruin of their dishonour:
 
-### 3
 ### 41-2
 
 ### 4
 Woe is me for my infirmity and (for that) of my forefathers, and thought in my heart and said:
 
-### 5
 ### 41-3
 
 ### 6

@@ -6,7 +6,6 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 17
 
-### 1
 ### 17-1
 
 ### 2

@@ -6,31 +6,26 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 64
 
-### 1
 ### 64-1
 
 ### 2
 WhenEnoch had spoken these words to his sons, all people far and near heard how the Lord was calling Enoch. They took counsel together:
 
-### 3
 ### 64-2
 
 ### 4
 Let us go and kiss Enoch, and two thousand men came together and came to the place Achuzan where Enoch was, and his sons.
 
-### 5
 ### 64-3
 
 ### 6
 And the elders of the people, the whole assembly, came and bowed down and began to kiss Enoch and said to him:
 
-### 7
 ### 64-4
 
 ### 8
 Our father Enoch, (may) you (be) blessed of the Lord, the eternal ruler, and now bless your sons and all the people, that we may be glorified to-day before your face.
 
-### 9
 ### 64-5
 
 ### 10

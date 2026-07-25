@@ -29,134 +29,48 @@ In the Arabic text it is said: “We have turned [this book] into Arabic from a 
 ### 8
 THE END
 
-### 9
-[↑ Back to top](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#title)
 
-### 10
-[[1]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref1) See the History of Ḥannâ, edited and translated by myself, in Lady Meux MSS. 2–5, p. 164.
 
-### 11
-[[2]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref2) Printed about 1533.
 
-### 12
-[[3]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref3) A French translation from the Spanish version of this work appeared in Paris in 1558, folio.
 
-### 13
-[[4]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref4) De Abassinorum rebus deque Æthiopiae Patriarchis, Libri I–III, Leyden, 1615, 8vo, p. 35.
 
-### 14
-[[5]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref5) Travels to Discover the Source of the Nile in the years 1768–1773, containing a Journey through Egypt, the three Arabias and Ethiopia. First edition in five vols., 1790; second edition in six vols., in 1805; 3rd edition in seven vols., 1813.
 
-### 15
-[[6]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref6) Cat. Codd. MSS. Bibliothecae Bodleianae, Oxford, 1848, No. xxvi, p. 68.
 
-### 16
-[[7]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref7) Ibid., p. 74 (No. xxvii).
 
-### 17
-[[8]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref8) Fabula de Regina Sabaea apud Æthiopes. Dissertatio Inauguralis. Halle (No date).
 
-### 18
-[[9]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref9) A description of the very ancient copy of the Kebra Nagast in the Bibliothèque Nationale, which Zotenberg assigned to the thirteenth century, was published by him in his Catalogue des MSS. Êthopiens, Paris, 1877, No. 5, p. 6.
 
-### 19
-[[10]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref10) Chez la Reine de Saba, Paris, 1914, pp. 110–121.
 
-### 20
-[[11]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref11) Ibid., pp. 125–227; see also a rendering of the French into English by Mrs. J. Van Vorst, entitled Magda, Queen of Sheba, New York and London, 1007, 8vo.
 
-### 21
-[[12]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref12) Translated from the Arabic text printed by Bezold, op. cit., p. xliv ff. A French paraphrase of the Arabic was printed by Amélineau in his Contes et Romans, Paris, 1888, tom. I, p. 144 ff.
 
-### 22
-[[13]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref13) Luke xi, 31; see also 1 Kings x, 1; 2 Chron. ix, 1.
 
-### 23
-[[14]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref14) Psalm cxxxii, 11 f.
 
-### 24
-[[15]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref15) Psalm xcv (xcvi), 10. See the Douay Version, vol. ii, p. 176, and Swete, Old Test. in Greek, vol. ii, p. 342.
 
-### 25
-[[16]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref16) Ali Beidhawî’s Commentary on the Kur’ân (ed. Fleischer, pt. 3, p. 67).
 
-### 26
-[[17]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref17) Al-Beidhawî, op. cit., p. 68.
 
-### 27
-[[18]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref18) Ibid., p. 69.
 
-### 28
-[[19]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref19) Commentary of Jalâl ad-Dîn Muḥammad bin Aḥmad, Cairo edit. A.H. 1311, pt. 2, p. 60.
 
-### 29
-[[20]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref20) Ibid., p. 70.
 
-### 30
-[[21]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref21) See Littmann, Dr. E., The Legend of the Queen of Sheba in the Tradition of Axum, Leyden, 1904; Conti Rossini, Ricordi di un Soggiorno in Eritrea, Asmara, 1903.
 
-### 31
-[[22]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref22) See Malan, Book of Adam and Eve, London, 1992, p. 92 ff., and Bezold, Schatzhöhle, Leipzig, 1883, p. 8.
 
-### 32
-[[23]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref23) In Genesis xiv, 14, Abraham’s home-born armed servants numbered 318.
 
-### 33
-[[24]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref24) 1 Kings xi, 3, says 700 wives, princesses, and 300 concubines
 
-### 34
-[[25]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref25) Several examples of such wooden tablets are exhibited among the Christian Antiquities in the White Wing of the British Museum.
 
-### 35
-[[26]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref26) See Pereira, Historia dos Martyres de Nagram, Lisbon, 1889.
 
-### 36
-[[27]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref27) I.e., the Virgin Mary, who is identified in Chapter 11 with the “Tabernacle of the Law of God, the heavenly and spiritual Zion.”
 
-### 37
-[[28]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref28) The Gregory here referred to is not Thaumaturgus, but the “Illuminator,” i.e., Gregor Lusavoritch, who flourished in the first quarter of the fourth century.
 
-### 38
-[[29]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref29) There is some confusion here; Cainan was the son of Enos (Gen. 9).
 
-### 39
-[[30]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref30) Here the name Judah is considered to be derived from the Ethiopic root hêd, “to carry off by force.”
 
-### 40
-[[31]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref31) i.e., three courses and seven courses had been consumed.
 
-### 41
-[[32]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref32) The remainder of this paragraph is a comment by the author of this work.
 
-### 42
-[[33]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref33) There is a mistake here. The author had in his mind Joab, the captain of David’s host. Several of the MSS. have the reading “Benyâs,” i.e., Benaiah, the son of Jehoiada (see 1 Kings ii, 35), who was put in Joab’s room.
 
-### 43
-[[34]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref34) The name of the reigning king to be added by the copyist.
 
-### 44
-[[35]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref35) I.e. double drachmas.
 
-### 45
-[[36]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref36) Or, cringing, or, degraded. The ancient Egyptians often spoke of “Kesh, the vile.”
 
-### 46
-[[37]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref37) Probably a corruption of the name Ekron (2 Kings i, 2), the city-god of which was Baal-zebub.
 
-### 47
-[[38]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref38) Five mice and five emerods
 
-### 48
-[[39]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref39) I.e. the “Shunammite woman” (see 1 Kings i, 3).
 
-### 49
-[[40]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref40) I.e., Satan, the Devil.
 
-### 50
-[[41]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref41) David was the eighth of Jesse’s sons.
 
-### 51
-[[42]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftnref42) Pieces of money in silver.
 
 ### 52
 Global Grey ebooks
@@ -167,74 +81,30 @@ A curated catalogue of public-domain classics.
 ### 54
 Browse
 
-### 55
-- [Recent](https://www.globalgreyebooks.com/recently-added.html)
 
-### 56
-- [Categories](https://www.globalgreyebooks.com/ebook-categories.html)
 
-### 57
-- [Authors](https://www.globalgreyebooks.com/authors.html)
 
-### 58
-- [Series](https://www.globalgreyebooks.com/series.html)
 
-### 59
-- [Support the site](https://www.globalgreyebooks.com/donate.html)
 
-### 60
-[Recent](https://www.globalgreyebooks.com/recently-added.html)
 
-### 61
-[Categories](https://www.globalgreyebooks.com/ebook-categories.html)
 
-### 62
-[Authors](https://www.globalgreyebooks.com/authors.html)
 
-### 63
-[Series](https://www.globalgreyebooks.com/series.html)
 
-### 64
-[Support the site](https://www.globalgreyebooks.com/donate.html)
 
 ### 65
 Help
 
-### 66
-- [About](https://www.globalgreyebooks.com/about.html)
 
-### 67
-- [FAQ](https://www.globalgreyebooks.com/f-a-q.html)
 
-### 68
-- [Contact](https://www.globalgreyebooks.com/contact.html)
 
-### 69
-- [Search](https://www.globalgreyebooks.com/search.html)
 
-### 70
-- [Terms](https://www.globalgreyebooks.com/terms-conditions.html)
 
-### 71
-- [Privacy](https://www.globalgreyebooks.com/privacy-policy.html)
 
-### 72
-[About](https://www.globalgreyebooks.com/about.html)
 
-### 73
-[FAQ](https://www.globalgreyebooks.com/f-a-q.html)
 
-### 74
-[Contact](https://www.globalgreyebooks.com/contact.html)
 
-### 75
-[Search](https://www.globalgreyebooks.com/search.html)
 
-### 76
-[Terms](https://www.globalgreyebooks.com/terms-conditions.html)
 
-### 77
-[Privacy](https://www.globalgreyebooks.com/privacy-policy.html)
 
 ### 78
 © 2012- Global Grey ebooks. All rights reserved.

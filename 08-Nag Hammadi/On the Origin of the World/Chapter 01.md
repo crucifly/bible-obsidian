@@ -478,16 +478,10 @@ immortals: but they will never enter the kingless realm. For everyone must go to
 from which he has come. Indeed, by his acts and his knowledge, each person will make his
 
 ### 158
-Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
-
-### 159
 The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.
 
-### 160
+### 159
 E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.
 
-### 161
-The translation presented here has been edited, modified and formatted for use in the Gnostic Society Library.
-
-### 162
+### 160
 For academic citation, please refer to published editions of this text.

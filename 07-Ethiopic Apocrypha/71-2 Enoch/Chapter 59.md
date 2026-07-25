@@ -6,37 +6,31 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 59
 
-### 1
 ### 59-1
 
 ### 2
 Whoever defiles the soul of beasts, defiles his own soul.
 
-### 3
 ### 59-2
 
 ### 4
 For man brings clean animals to make sacrifice for sin, that he may have cure of his soul.
 
-### 5
 ### 59-3
 
 ### 6
 And if they bring for sacrifice clean animals, and birds, man has cure, he cures his soul.
 
-### 7
 ### 59-4
 
 ### 8
 All is given you for food, bind it by the four feet, that is to make good the cure, he cures his soul.
 
-### 9
 ### 59-5
 
 ### 10
 But whoever kills beast without wounds, kills his own souls and defiles his own flesh.
 
-### 11
 ### 59-6
 
 ### 12

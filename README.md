@@ -4,7 +4,6 @@
 
 # 🕊️ The Divine Vault ☦️
 
-### 2
 ### A Verse-Level Canonical Dataset for the 117-Book Expanded Biblical, Ethiopic, Gnostic & Pseudepigraphal Canon
 
 ### 3
@@ -13,7 +12,6 @@
 ### 4
 Built by **Crucifly, LLC** for the JEXXXUS Theological & Gnostic Intelligence Engine
 
-### 5
 ---
 
 ### 6
@@ -34,7 +32,6 @@ Built by **Crucifly, LLC** for the JEXXXUS Theological & Gnostic Intelligence En
 ### 11
 </div>
 
-### 12
 ---
 
 ### 13
@@ -46,7 +43,6 @@ Built by **Crucifly, LLC** for the JEXXXUS Theological & Gnostic Intelligence En
 ### 15
 </div>
 
-### 16
 ---
 
 ## 📖 Overview & Purpose
@@ -60,7 +56,6 @@ Every single verse and section exists as an individual Markdown note with struct
 ### 19
 This vault contains **zero commentary, zero interpretation, and zero subjective opinions**—only verbatim scripture and canonical metadata.
 
-### 20
 ---
 
 ## 🛡️ The Iron Curtain Directive
@@ -71,7 +66,6 @@ A strict validation rule governs this vault: only files tagged with `source_type
 ### 22
 This architectural constraint—the **Iron Curtain**—ensures that AI models trained on this repository produce accurate, verbatim canonical output rather than hallucinated theology.
 
-### 23
 ---
 
 ## 📂 Vault Structure
@@ -253,7 +247,6 @@ bible-obsidian/
 ### 82
 ```
 
-### 83
 ---
 
 ## 📊 Canon Breakdown
@@ -294,7 +287,6 @@ bible-obsidian/
 ### 95
 | **TOTAL** | **The Divine Vault Ecosystem** | **117** | **96,116** | **Canonical & Extracanonical** |
 
-### 96
 ---
 
 ## 🛠️ YAML Frontmatter Specification
@@ -305,7 +297,6 @@ Every note in the vault strictly adheres to the following metadata structure:
 ### 98
 ```yaml
 
-### 99
 ---
 
 ### 100
@@ -326,7 +317,6 @@ chapter: 1
 ### 105
 verse: 2
 
-### 106
 ---
 
 ### 107
@@ -335,7 +325,6 @@ And God formed man from the ground, and he blew into his nostrils the breath of 
 ### 108
 ```
 
-### 109
 ---
 
 ## 🛠️ Technology Stack & Tools
@@ -352,7 +341,6 @@ And God formed man from the ground, and he blew into his nostrils the breath of 
 ### 113
 - **Git Integration**: Automated synchronization with `Crucifly/bible-obsidian`
 
-### 114
 ---
 
 ## 🤝 Contribution & Governance
@@ -369,7 +357,6 @@ Maintained by **Crucifly, LLC** under the **JEXXXUS Ecosystem** DOX Framework co
 ### 118
 - **DOX Contract**: [AGENTS.md](file:///Users/dylanroberts/Documents/non-music/Dev/GitHub/JEXXXUS/AGENTS.md)
 
-### 119
 ---
 
 ### 120

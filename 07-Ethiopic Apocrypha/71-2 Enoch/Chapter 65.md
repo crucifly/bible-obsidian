@@ -6,43 +6,36 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 65
 
-### 1
 ### 65-1
 
 ### 2
 AndEnoch answered all his people saying: Hear, my children, before that all creatures were created, the Lord created the visible (physical) and invisible (spiritual) things.
 
-### 3
 ### 65-2
 
 ### 4
 And as much time as there was and went past, understand that after all that he created man in the likeness of his own form, and put into him eyes to see, and ears to hear, and heart to reflect, and intellect wherewith to deliberate.
 
-### 5
 ### 65-3
 
 ### 6
 And the Lord saw all mans works, and created all his creatures, and divided time, from time he fixed the years, and from the years he appointed the months, and from the months he appointed the days, and of days he appointed seven.
 
-### 7
 ### 65-4
 
 ### 8
 And in those he appointed the hours, measured them out exactly, that man might reflect on time and count years, months, and hours, (their) alternation, beginning, and end, and that he might count his own life, from the beginning until death, and reflect on his sin and write his work bad and good; because no work is hidden before the Lord, that every man might know his works and never transgress all his commandments, and keep my handwriting from generation to generation.
 
-### 9
 ### 65-5
 
 ### 10
 When all creation visible (physical) and invisible (spiritual), as the Lord created it, shall end, then every man goes to the great judgment, and then all time shall perish, and the years, and thenceforward there will be neither months nor days nor hours, they will be adhered together and will not be counted.
 
-### 11
 ### 65-6
 
 ### 12
 There will be one aeon, and all the righteous who shall escape the Lords great judgment, shall be collected in the great aeon, for the righteous the great aeon will begin, and they will live eternally, and then too there will be amongst them neither labour, nor sickness, nor humiliation, nor anxiety, nor need, nor brutality, nor night, nor darkness, but great light.
 
-### 13
 ### 65-7
 
 ### 14

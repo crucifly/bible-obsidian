@@ -6,5 +6,3 @@ canon: "Nag Hammadi"
 
 # Gospel of Judas
 
-### 1
-#

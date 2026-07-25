@@ -6,91 +6,76 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 3
 
-### 1
 ### 3-1
 
 ### 2
 Why sleepest thou, O my soul, And blessest not the Lord
 
-### 3
 ### 3-2
 
 ### 4
 Sing a new song, Unto God who is worthy to be praised. Sing and be wakeful against His awaking, For good is a psalm (sung) to God from a glad heart.
 
-### 5
 ### 3-3
 
 ### 6
 The righteous remember the Lord at all times, With thanksgiving and declaration of the righteousness of the Lord's judgments.
 
-### 7
 ### 3-4
 
 ### 8
 The righteous despiseth not the chastening of the Lord; His will is always before the Lord.
 
-### 9
 ### 3-5
 
 ### 10
 The righteous stumbleth and holdeth the Lord righteous: He falleth and looketh out for what God will do to him;
 
-### 11
 ### 3-6
 
 ### 12
 He seeketh out whence his deliverance will come.
 
-### 13
 ### 3-7
 
 ### 14
 The steadfastness of the righteous is from God their deliverer; There lodgeth not in the house of the righteous sin upon sin.
 
-### 15
 ### 3-8
 
 ### 16
 The righteous continually searcheth his house, To remove utterly (all) iniquity (done) by him in error.
 
-### 17
 ### 3-9
 
 ### 18
 He maketh atonement for (sins of) ignorance by fasting and afflicting his soul,
 
-### 19
 ### 3-10
 
 ### 20
 And the Lord counteth guiltless every pious man and his house.
 
-### 21
 ### 3-11
 
 ### 22
 The sinner stumbleth and curseth his life, The day when he was begotten, and his mother's travail.
 
-### 23
 ### 3-12
 
 ### 24
 He addeth sins to sins, while he liveth ();
 
-### 25
 ### 3-13
 
 ### 26
 He falleth—verily grievous is his fall—and riseth no more. The destruction of the sinner is for ever,
 
-### 27
 ### 3-14
 
 ### 28
 And he shall not be remembered, when the righteous is visited. 15 This is the portion of sinners for ever.
 
-### 29
 ### 3-16
 
 ### 30

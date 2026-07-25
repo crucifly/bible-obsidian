@@ -6,7 +6,6 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 4
 
-### 1
 ### 4-1
 
 ### 2

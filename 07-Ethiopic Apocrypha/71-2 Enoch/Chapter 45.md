@@ -6,19 +6,16 @@ canon: "Ethiopic Apocrypha"
 
 # Chapter 45
 
-### 1
 ### 45-1
 
 ### 2
 Whoever hastens to make offerings before theLords face, the Lord for his part will hasten that offering by granting of his work.
 
-### 3
 ### 45-2
 
 ### 4
 But whoever increases his lamp before the Lords face and make not true judgment, the Lord will (not) increase his treasure in the realm of the highest.
 
-### 5
 ### 45-3
 
 ### 6

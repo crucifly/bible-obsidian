@@ -31,7 +31,6 @@ Each book entry includes:
 ### 7
 - **Notes**: Canon-specific metadata or variants
 
-### 8
 ---
 
 ## I. Torah (5 Books)
@@ -60,7 +59,6 @@ Each book entry includes:
 ### 16
 **Subtotal: 187 chapters, 5,852 verses**
 
-### 17
 ---
 
 ## II. Historical Books (12 Books)
@@ -110,7 +108,6 @@ Each book entry includes:
 ### 32
 **Subtotal: 249 chapters, 8,018 verses**
 
-### 33
 ---
 
 ## III. Poetic Books (5 Books)
@@ -139,7 +136,6 @@ Each book entry includes:
 ### 41
 **Subtotal: 244 chapters, 4,785 verses**
 
-### 42
 ---
 
 ## IV. Major Prophets (5 Books)
@@ -168,7 +164,6 @@ Each book entry includes:
 ### 50
 **Subtotal: 183 chapters, 4,440 verses**
 
-### 51
 ---
 
 ## V. Minor Prophets (12 Books)
@@ -218,7 +213,6 @@ Each book entry includes:
 ### 66
 **Subtotal: 67 chapters, 1,052 verses**
 
-### 67
 ---
 
 ## VI. Deuterocanonical/Apocryphal Books (15 Books)
@@ -277,12 +271,10 @@ Each book entry includes:
 ### 85
 **Subtotal: 169 chapters, 3,771 verses**
 
-### 86
 ---
 
 ## VII. New Testament (27 Books)
 
-### 87
 ### Gospels (4 Books)
 
 ### 88
@@ -306,7 +298,6 @@ Each book entry includes:
 ### 94
 **Gospels Subtotal: 89 chapters, 3,779 verses**
 
-### 95
 ### Acts & Pauline Epistles (14 Books)
 
 ### 96
@@ -360,7 +351,6 @@ Each book entry includes:
 ### 112
 **Pauline Subtotal: 115 chapters, 2,840 verses**
 
-### 113
 ### Hebrews & James (2 Books)
 
 ### 114
@@ -378,7 +368,6 @@ Each book entry includes:
 ### 118
 **Hebrews & James Subtotal: 18 chapters, 411 verses**
 
-### 119
 ### 1 & 2 Peter (2 Books)
 
 ### 120
@@ -396,7 +385,6 @@ Each book entry includes:
 ### 124
 **Peter Subtotal: 8 chapters, 166 verses**
 
-### 125
 ### 1, 2, 3 John (3 Books)
 
 ### 126
@@ -417,7 +405,6 @@ Each book entry includes:
 ### 131
 **John Epistles Subtotal: 7 chapters, 133 verses**
 
-### 132
 ### Jude & Revelation (2 Books)
 
 ### 133
@@ -438,7 +425,6 @@ Each book entry includes:
 ### 138
 **NT Subtotal: 260 chapters, 7,758 verses**
 
-### 139
 ---
 
 ## VIII. Ethiopic Apocrypha (10 Books)
@@ -482,7 +468,6 @@ Each book entry includes:
 ### 152
 **Subtotal: 332 chapters, 8,010 verses**
 
-### 153
 ---
 
 ## IX. Additional Ethiopian Orthodox Texts (8 Books)
@@ -520,7 +505,6 @@ Each book entry includes:
 ### 164
 **Subtotal: 167 chapters, 3,020 verses**
 
-### 165
 ---
 
 ## X. Pseudepigrapha & Lost Books (7 Books)
@@ -555,7 +539,6 @@ Each book entry includes:
 ### 175
 **Subtotal: 327 chapters, 7,600 verses**
 
-### 176
 ---
 
 ## XI. Nag Hammadi & Gnostic Codices (11 Books)
@@ -602,7 +585,6 @@ Each book entry includes:
 ### 190
 **Subtotal: 153 chapters, 1,810 verses**
 
-### 191
 ---
 
 ## Canon Summary
@@ -649,7 +631,6 @@ Each book entry includes:
 ### 205
 | **TOTAL** | **117** | **2,338** | **96,116** | **100%** |
 
-### 206
 ---
 
 ## Coverage Tracking by Section
@@ -696,7 +677,6 @@ This table is updated as verses are ingested into the vault:
 ### 220
 | **GRAND TOTAL** | **94,306** | **41,138** | **43.6%** | **2026-05-06** |
 
-### 221
 ---
 
 ## Verse ID Convention
@@ -743,12 +723,10 @@ All verses follow the deterministic format:
 ### 235
 - **Multi-part apocrypha** (e.g., Testament of Isaac & Jacob): `TESTIJ-1-1` for Isaac, with internal numbering
 
-### 236
 ---
 
 ## Notes on Canon Variants
 
-### 237
 ### Ethiopian-81 Specifics
 
 ### 1
@@ -766,7 +744,6 @@ All verses follow the deterministic format:
 ### 5
 **Liturgical Texts**: Portions of hymnal and saints' lives carry scriptural authority in Ethiopian tradition
 
-### 6
 ### Translation Reference
 
 ### 7
@@ -778,7 +755,6 @@ All verses follow the deterministic format:
 ### 9
 - **Ethiopic-Specific**: Direct English translations from Ge'ez manuscripts for apocryphal texts
 
-### 10
 ---
 
 ## JSONL Forge Validation
@@ -801,7 +777,6 @@ This inventory is used by `scripts/jsonl-forge.ts` to:
 ### 5
 **Forge Validation Checksum**: Compare generated JSONL verse count to "Ingested" row above.
 
-### 6
 ---
 
 ## Related Documentation
