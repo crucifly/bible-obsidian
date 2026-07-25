@@ -6,20 +6,48 @@ chapter: 53
 title: "Pistis Sophia - Chapter 53"
 translation: G.R.S. Mead
 ---
+
 # Pistis Sophia - Chapter 53
 
-Chapter 53
+> **Chapter 53**
+
+### 1
 Pistis Sophia
+
+### 2
 Next
-CHAPTER 53
+
+> **CHAPTER 53**
+
+### 3
 When then Jesus had said this unto his disciples, he said unto them: "Now, therefore, let him whom his spirit stirreth, come forward and speak the solution of the tenth repentance of Pistis Sophia."
+
+### 4
 Peter answered and said: "O Lord, concerning this thy light-power prophesied aforetime through David in the one-hundred-and-nineteenth Psalm; saying:
+
+### 5
 Peter interpreteth the tenth repentance from Psalm cxix."'1. I cried unto thee, O Lord, in my oppression, and thou hearkenest unto me.
+
+### 6
 "'2. O Lord, save my soul from unjust lips and from crafty tongues.
+
+### 7
 "'3. What will be given unto thee or what will be added unto thee with a crafty tongue?
+
+### 8
 "'4. The arrows of the strong [one] are made sharp with the coal of the desert.
+
+### 9
 "'5. Woe unto me, that my dwelling is far off, and I dwelt in the tents of Kedar.
+
+### 10
 "'6. My soul hath dwelt in many regions as a guest.
+
+### 11
 "'7. I was peaceful with them who hate peace; if I spake unto them, they fought against me without a cause.'
+
+### 12
 "This is now, therefore, O Lord, the solution of the tenth repentance of Pistis Sophia, which she hath uttered when the material emanations of Self-willed oppressed her, they and his lion-faced power, and when they oppressed her exceedingly."
+
+### 13
 Jesus commendeth Peter.Jesus said unto him: "Well said, Peter, and finely. This is the solution of the tenth repentance of Pistis Sophia."

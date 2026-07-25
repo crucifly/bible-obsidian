@@ -6,43 +6,117 @@ chapter: 70
 title: "Pistis Sophia - Chapter 70"
 translation: G.R.S. Mead
 ---
+
 # Pistis Sophia - Chapter 70
 
-Chapter 70
+> **Chapter 70**
+
+### 1
 Pistis Sophia
+
+### 2
 Next
-CHAPTER 69
+
+> **CHAPTER 69**
+
+### 3
 It came to pass then, when the First Mystery had finished saying these words unto his disciples, that Thomas came forward, and said: "My Lord, my light-dweller hath ears and my mind hath understood the words which thou hast said. Now, therefore, give commandment unto me to set forth clearly the solution of the words."
+
+### 4
 And the First Mystery answered and said unto Thomas: "I give thee commandment to set forth the solution of the song which Pistis Sophia sang unto me."
+
+### 5
 Thomas interpreteth the song of Sophia from the Odes of Solomon.Thomas answered and said: "My Lord, concerning the song which Pistis Sophia hath uttered, because she was saved out of the chaos, thy light-power prophesied aforetime thereon through Solomon, the son of David, in his Odes:
+
+### 6
 "'1. I am saved from the bonds and am fled unto thee, O Lord.
+
+### 7
 "'2. For thou hast been on my right hand, saving me and helping me.
+
+### 8
 "'3. Thou hast hindered my adversaries and they have not been revealed, because thy face was with me, saving me in thy grace.
+
+### 9
 "'4. I was despised in the sight of many and cast out; I have become as lead in their sight.
+
+### 10
 "'5. Through thee I have gotten a power which helped me; for thou hast set lamps on my right and on my left, so that no side of me may be without light.
+
+### 11
 "'6. Thou hast overshadowed me with the shadow of thy grace, and I was relieved of the coats of skin.
+
+### 12
 "'7. It is thy right hand which hath raised me up, and thou hast taken the sickness from me.
+
+### 13
 "'8. I have become powerful in thy truth and purified in thy righteousness.
+
+### 14
 "'9. My adversaries have withdrawn themselves from me, and I am justified by thy goodness, for thy rest endureth unto all eternity.'
+
+### 15
 "This then, my Lord, is the solution of the repentance which Pistis Sophia hath uttered, when she was saved out of the chaos. Hearken, therefore, that I may say it in openness.
+
+### 16
 "The word then which thy light-power hath spoken through Solomon: 'I am saved from the bonds and am fled unto thee, O Lord,'--it is the word which Pistis Sophia hath spoken: 'I am loosed from the bonds of the darkness and am come unto thee, O Light.'
+
+### 17
 "And the word which thy power hath spoken: 'Thou wert on my right hand, saving and helping me,'--it is again the word which Pistis Sophia
+
+### 18
 hath spoken: 'Thou art become a light on all sides of me, [saving me] and helping me.'
+
+### 19
 "And the word which thy light-power hath spoken: 'Thou hast hindered my adversaries and they have not been revealed,'--it is the word which Pistis Sophia hath spoken: 'And the emanations of Self-willed which fought against me, thou hast hindered through thy light, and they could not come nigh me.'
+
+### 20
 "And the word which thy power hath spoken: 'Thy face was with me, saving me in thy grace,'--it is the word which Pistis Sophia hath spoken: 'Thy light was with me, saving me in thy light-stream.'
+
+### 21
 "And the word which thy power hath spoken: 'I was despised in the sight of many and cast out,'--it is the word which Pistis Sophia hath spoken:
+
+### 22
 The emanations of Self-willed constrained me and took my power from me, and I have been despised before them and cast out into the chaos, with no light in me.'
+
+### 23
 "And the word which thy power hath spoken:
+
+### 24
 I have become as lead in their sight,'--it is the word which Pistis Sophia hath spoken: 'When they had taken my light from me, I became as heavy-weighing matter before them.'
+
+### 25
 "And moreover the word which thy power hath spoken: 'Through thee I have gotten a power for me which helped me,'--it is again the word which Pistis Sophia hath spoken: 'And thereafter came a light-power unto me through thee which saved me.'
+
+### 26
 "And the word which thy power hath spoken: 'Thou hast set lamps on my right and on my left, so that no side of me may be without light,'--it
+
+### 27
 is the word which Pistis Sophia hath spoken:
+
+### 28
 'Thy power shone on my right and on my left and surrounded me on all sides of me, so that no part of me was without light.'
+
+### 29
 "And the word which thy power hath spoken:
+
+### 30
 'Thou hast overshadowed me with the shadow of thy grace,'--it is again the word which Pistis Sophia hath spoken: 'And thou hast covered me with the light of the stream.'
+
+### 31
 "And the word which thy power hath spoken: I was relieved of the coats of skin,'--it is again the word which Pistis Sophia hath spoken: 'And they have purified me of all my evil matters, and I raised myself above them in thy light.'
+
+### 32
 "And the word which thy power hath spoken through Solomon: 'It is thy right hand which hath raised me up, and hath taken the sickness from me,'--it is the word which Pistis Sophia hath spoken: 'And it is thy light-stream which hath raised me up in thy light and hath taken from me the emanations of Self-willed which constrained me.' "And the word which thy power hath spoken: 'I have become powerful in thy truth and purified in thy righteousness,'--it is the word which Pistis Sophia hath spoken: 'I have become powerful in thy light and purified light in thy stream.'
+
+### 33
 And the word which thy power hath spoken: 'My adversaries have withdrawn themselves from me,'--it is the word which Pistis Sophia hath spoken: 'The emanations of Self-willed which constrained me, have withdrawn themselves from me.'
+
+### 34
 "And the word which thy power hath spoken through Solomon: 'And I am justified in thy
+
+### 35
 goodness, for thy rest endureth unto all eternity,'--it is the word which Pistis Sophia hath spoken: 'I am saved in thy goodness; for thou savest every one.'
+
+### 36
 "This then, O my Lord, is the whole solution of the repentance which Pistis Sophia hath uttered, when she was saved out of the chaos and loosed from the bonds of the darkness."

@@ -3,131 +3,383 @@ book: "2 Esdras"
 chapter: 15
 canon: "Deuterocanonical"
 ---
+
 # Chapter 15
 
+### 1
 ### 15-1
+
+### 2
 Behold, speak thou in the ears of my people the words of prophecy, which I will put in thy mouth, saith the Lord:
+
+### 3
 ### 15-2
+
+### 4
 And cause them to be written in paper: for they are faithful and true.
+
+### 5
 ### 15-3
+
+### 6
 Fear not the imaginations against thee, let not the incredulity of them trouble thee, that speak against thee.
+
+### 7
 ### 15-4
+
+### 8
 For all the unfaithful shall die in their unfaithfulness.
+
+### 9
 ### 15-5
+
+### 10
 Behold, saith the Lord, I will bring plagues upon the world; the sword, famine, death, and destruction.
+
+### 11
 ### 15-6
+
+### 12
 For wickedness hath exceedingly polluted the whole earth, and their hurtful works are fulfilled.
+
+### 13
 ### 15-7
+
+### 14
 Therefore saith the Lord,
+
+### 15
 ### 15-8
+
+### 16
 I will hold my tongue no more as touching their wickedness, which they profanely commit, neither will I suffer them in those things, in which they wickedly exercise themselves: behold, the innocent and righteous blood crieth unto me, and the souls of the just complain continually.
+
+### 17
 ### 15-9
+
+### 18
 And therefore, saith the Lord, I will surely avenge them, and receive unto me all the innocent blood from among them.
+
+### 19
 ### 15-10
+
+### 20
 Behold, my people is led as a flock to the slaughter: I will not suffer them now to dwell in the land of Egypt:
+
+### 21
 ### 15-11
+
+### 22
 But I will bring them with a mighty hand and a stretched out arm, and smite Egypt with plagues, as before, and will destroy all the land thereof.
+
+### 23
 ### 15-12
+
+### 24
 Egypt shall mourn, and the foundation of it shall be smitten with the plague and punishment that God shall bring upon it.
+
+### 25
 ### 15-13
+
+### 26
 They that till the ground shall mourn: for their seeds shall fail through the blasting and hail, and with a fearful constellation.
+
+### 27
 ### 15-14
+
+### 28
 Woe to the world and them that dwell therein!
+
+### 29
 ### 15-15
+
+### 30
 For the sword and their destruction draweth nigh, and one people shall stand up and fight against another, and swords in their hands.
+
+### 31
 ### 15-16
+
+### 32
 For there shall be sedition among men, and invading one another; they shall not regard their kings nor princes, and the course of their actions shall stand in their power.
+
+### 33
 ### 15-17
+
+### 34
 A man shall desire to go into a city, and shall not be able.
+
+### 35
 ### 15-18
+
+### 36
 For because of their pride the cities shall be troubled, the houses shall be destroyed, and men shall be afraid.
+
+### 37
 ### 15-19
+
+### 38
 A man shall have no pity upon his neighbour, but shall destroy their houses with the sword, and spoil their goods, because of the lack of bread, and for great tribulation.
+
+### 39
 ### 15-20
+
+### 40
 Behold, saith God, I will call together all the kings of the earth to reverence me, which are from the rising of the sun, from the south, from the east, and Libanus; to turn themselves one against another, and repay the things that they have done to them.
+
+### 41
 ### 15-21
+
+### 42
 Like as they do yet this day unto my chosen, so will I do also, and recompense in their bosom. Thus saith the Lord God;
+
+### 43
 ### 15-22
+
+### 44
 My right hand shall not spare the sinners, and my sword shall not cease over them that shed innocent blood upon the earth.
+
+### 45
 ### 15-23
+
+### 46
 The fire is gone forth from his wrath, and hath consumed the foundations of the earth, and the sinners, like the straw that is kindled.
+
+### 47
 ### 15-24
+
+### 48
 Woe to them that sin, and keep not my commandments! saith the Lord.
+
+### 49
 ### 15-25
+
+### 50
 I will not spare them: go your way, ye children, from the power, defile not my sanctuary.
+
+### 51
 ### 15-26
+
+### 52
 For the Lord knoweth all them that sin against him, and therefore delivereth he them unto death and destruction.
+
+### 53
 ### 15-27
+
+### 54
 For now are the plagues come upon the whole earth and ye shall remain in them: for God shall not deliver you, because ye have sinned against him.
+
+### 55
 ### 15-28
+
+### 56
 Behold an horrible vision, and the appearance thereof from the east:
+
+### 57
 ### 15-29
+
+### 58
 Where the nations of the dragons of Arabia shall come out with many chariots, and the multitude of them shall be carried as the wind upon earth, that all they which hear them may fear and tremble.
+
+### 59
 ### 15-30
+
+### 60
 Also the Carmanians raging in wrath shall go forth as the wild boars of the wood, and with great power shall they come, and join battle with them, and shall waste a portion of the land of the Assyrians.
+
+### 61
 ### 15-31
+
+### 62
 And then shall the dragons have the upper hand, remembering their nature; and if they shall turn themselves, conspiring together in great power to persecute them,
+
+### 63
 ### 15-32
+
+### 64
 Then these shall be troubled bled, and keep silence through their power, and shall flee.
+
+### 65
 ### 15-33
+
+### 66
 And from the land of the Assyrians shall the enemy besiege them, and consume some of them, and in their host shall be fear and dread, and strife among their kings.
+
+### 67
 ### 15-34
+
+### 68
 Behold clouds from the east and from the north unto the south, and they are very horrible to look upon, full of wrath and storm.
+
+### 69
 ### 15-35
+
+### 70
 They shall smite one upon another, and they shall smite down a great multitude of stars upon the earth, even their own star; and blood shall be from the sword unto the belly,
+
+### 71
 ### 15-36
+
+### 72
 And dung of men unto the camel's hough.
+
+### 73
 ### 15-37
+
+### 74
 And there shall be great fearfulness and trembling upon earth: and they that see the wrath shall be afraid, and trembling shall come upon them.
+
+### 75
 ### 15-38
+
+### 76
 And then shall there come great storms from the south, and from the north, and another part from the west.
+
+### 77
 ### 15-39
+
+### 78
 And strong winds shall arise from the east, and shall open it; and the cloud which he raised up in wrath, and the star stirred to cause fear toward the east and west wind, shall be destroyed.
+
+### 79
 ### 15-40
+
+### 80
 The great and mighty clouds shall be puffed up full of wrath, and the star, that they may make all the earth afraid, and them that dwell therein; and they shall pour out over every high and eminent place an horrible star,
+
+### 81
 ### 15-41
+
+### 82
 Fire, and hail, and flying swords, and many waters, that all fields may be full, and all rivers, with the abundance of great waters.
+
+### 83
 ### 15-42
+
+### 84
 And they shall break down the cities and walls, mountains and hills, trees of the wood, and grass of the meadows, and their corn.
+
+### 85
 ### 15-43
+
+### 86
 And they shall go stedfastly unto Babylon, and make her afraid.
+
+### 87
 ### 15-44
+
+### 88
 They shall come to her, and besiege her, the star and all wrath shall they pour out upon her: then shall the dust and smoke go up unto the heaven, and all they that be about her shall bewail her.
+
+### 89
 ### 15-45
+
+### 90
 And they that remain under her shall do service unto them that have put her in fear.
+
+### 91
 ### 15-46
+
+### 92
 And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person:
+
+### 93
 ### 15-47
+
+### 94
 Woe be unto thee, thou wretch, because thou hast made thyself like unto her; and hast decked thy daughters in whoredom, that they might please and glory in thy lovers, which have always desired to commit whoredom with thee.
+
+### 95
 ### 15-48
+
+### 96
 Thou hast followed her that is hated in all her works and inventions: therefore saith God,
+
+### 97
 ### 15-49
+
+### 98
 I will send plagues upon thee; widowhood, poverty, famine, sword, and pestilence, to waste thy houses with destruction and death.
+
+### 99
 ### 15-50
+
+### 100
 And the glory of thy Power shall be dried up as a flower, the heat shall arise that is sent over thee.
+
+### 101
 ### 15-51
+
+### 102
 Thou shalt be weakened as a poor woman with stripes, and as one chastised with wounds, so that the mighty and lovers shall not be able to receive thee.
+
+### 103
 ### 15-52
+
+### 104
 Would I with jealousy have so proceeded against thee, saith the Lord,
+
+### 105
 ### 15-53
+
+### 106
 If thou hadst not always slain my chosen, exalting the stroke of thine hands, and saying over their dead, when thou wast drunken,
+
+### 107
 ### 15-54
+
+### 108
 Set forth the beauty of thy countenance?
+
+### 109
 ### 15-55
+
+### 110
 The reward of thy whoredom shall be in thy bosom, therefore shalt thou receive recompence.
+
+### 111
 ### 15-56
+
+### 112
 Like as thou hast done unto my chosen, saith the Lord, even so shall God do unto thee, and shall deliver thee into mischief
+
+### 113
 ### 15-57
+
+### 114
 Thy children shall die of hunger, and thou shalt fall through the sword: thy cities shall be broken down, and all thine shall perish with the sword in the field.
+
+### 115
 ### 15-58
+
+### 116
 They that be in the mountains shall die of hunger, and eat their own flesh, and drink their own blood, for very hunger of bread, and thirst of water.
+
+### 117
 ### 15-59
+
+### 118
 Thou as unhappy shalt come through the sea, and receive plagues again.
+
+### 119
 ### 15-60
+
+### 120
 And in the passage they shall rush on the idle city, and shall destroy some portion of thy land, and consume part of thy glory, and shall return to Babylon that was destroyed.
+
+### 121
 ### 15-61
+
+### 122
 And thou shalt be cast down by them as stubble, and they shall be unto thee as fire;
+
+### 123
 ### 15-62
+
+### 124
 And shall consume thee, and thy cities, thy land, and thy mountains; all thy woods and thy fruitful trees shall they burn up with fire.
+
+### 125
 ### 15-63
+
+### 126
 Thy children shall they carry away captive, and, look, what thou hast, they shall xxxx it, and mar the beauty of thy face.

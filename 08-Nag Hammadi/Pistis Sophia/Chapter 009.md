@@ -6,9 +6,15 @@ chapter: 9
 title: "Pistis Sophia - Chapter 9"
 translation: G.R.S. Mead
 ---
+
 # Pistis Sophia - Chapter 9
 
-Chapter 9
+> **Chapter 9**
+
+### 1
 Pistis Sophia
+
+### 2
 Next
-CHAPTER 9
+
+> **CHAPTER 9**

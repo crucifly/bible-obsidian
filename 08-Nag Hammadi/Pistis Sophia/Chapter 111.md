@@ -6,15 +6,33 @@ chapter: 111
 title: "Pistis Sophia - Chapter 111"
 translation: G.R.S. Mead
 ---
+
 # Pistis Sophia - Chapter 111
 
-Chapter 111
+> **Chapter 111**
+
+### 1
 Pistis Sophia
+
+### 2
 Next
-CHAPTER 110
+
+> **CHAPTER 110**
+
+### 3
 Jesus answered and said unto Mary: "Question on what ye question, and I will reveal [it] unto you in openness without similitude."
+
+### 4
 Mary continueth her questioning.Mary answered and said: "My Lord, hast thou then not brought mysteries into the world because of poverty and riches, and because of weakness and strength, and because of . . . and healthy bodies, in a word because of all such, so that, if we go into the regions of the land, and they do not have faith in us and they hearken not unto our words, and we perform any such mysteries in those regions, they may know truly in truth that we herald the words [of the God] of the universe?"
+
+### 5
 The Saviour answered and said unto Mary in the midst of the disciples: "Concerning this mystery on which ye question me, I have given
+
+### 6
 it unto you at another time; but I will repeat it and speak the word unto you:
+
+### 7
 The mystery of the raising of the dead."Now, therefore, Mary, not only ye, but every man who shall accomplish the mystery of the raising of the dead,--that which healeth the demons and all pains and all sicknesses and the blind and the lame and the maimed and the dumb and the deaf, which I have given unto you aforetime,--he who shall receive [that] mystery and accomplish it, thereafter then, if he ask for all things, for poverty and riches, for weakness and strength, for . . . and healthy body, and for all healings of the body and for the raising of the dead and for healing the lame and the blind and the deaf and the dumb and all sicknesses and all pains,--in a word, he who shall accomplish that mystery and ask for all the things which I have just said, then will they quickly come to pass for him."
+
+### 8
 The disciples became frenzied at the sublimity of the prospect.When then the Saviour had said this, the disciples came forward, cried out all together and said: "O Saviour, thou hath made us very exceedingly frenzied because of the great deeds of which thou tellest us; and because thou hast borne up our souls, they have pressed to go forth out of us unto thee, for we issue from thee. Now, therefore, because of these great deeds of which thou tellest us, our souls have become frenzied and they have pressed very exceedingly, yearning to go forth out of us on high to the region of thy kingdom."

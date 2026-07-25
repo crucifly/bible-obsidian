@@ -3,19 +3,47 @@ book: "Psalms of Solomon"
 chapter: 12
 canon: "Ethiopic Apocrypha"
 ---
+
 # Chapter 12
 
+### 1
 ### 12-1
+
+### 2
 O Lord, deliver my soul from (the) lawless and wicked man, From the tongue that is lawless and slanderous, and speaketh lies and deceit.
+
+### 3
 ### 12-2
+
+### 4
 Manifoldly twisted () are the words of the tongue of the wicked man, Even as among a people a fire that burneth up their beauty.
+
+### 5
 ### 12-3
+
+### 6
 So he delights to fill houses with a lying tongue, To cut down the trees of gladness which setteth on fire transgressors,
+
+### 7
 ### 12-4
+
+### 8
 To involve households in warfare by means of slanderous lips. May God remove far from the innocent the lips of transgressors by (bringing them to) want And may the bones of slanderers be scattered (far) away from them that fear the Lord!
+
+### 9
 ### 12-5
+
+### 10
 In flaming fire perish the slanderous tongue (far) away from the pious!
+
+### 11
 ### 12-6
+
+### 12
 May the Lord preserve the quiet soul that hateth the unrighteous; And may the Lord establish the man that followeth peace at home.
+
+### 13
 ### 12-7
+
+### 14
 The salvation of the Lord be upon Israel His servant for ever; And let the sinners perish together at the presence of the Lord; But let the Lord's pious ones inherit the promises of the Lord.

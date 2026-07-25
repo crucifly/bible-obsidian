@@ -6,41 +6,111 @@ chapter: 66
 title: "Pistis Sophia - Chapter 66"
 translation: G.R.S. Mead
 ---
+
 # Pistis Sophia - Chapter 66
 
-Chapter 66
+> **Chapter 66**
+
+### 1
 Pistis Sophia
+
+### 2
 Next
-CHAPTER 65
+
+> **CHAPTER 65**
+
+### 3
 Peter came forward and said: "My Lord, concerning the solution of the words which thou hast spoken, thus hath thy light-power prophesied aforetime through Solomon in his Odes:
+
+### 4
 Peter interpreteth the narrative from the Odes of Solomon."'1. A stream came forth and became a great wide flood.
+
+### 5
 "'2. It tore away all to itself and turned itself against the temple.
+
+### 6
 "'3. Dams and buildings could not hold it, nor could the art of them who hold the waters.
+
+### 7
 "'4. It was led over the whole land and laid hold of all.
+
+### 8
 "'5. They who were on the dry sand, drank; their thirst was quieted and quenched, when the draught from the hand of the Highest was given.
+
+### 9
 "'6. Blessed are the ministers of that draught, to whom the water of the Lord is entrusted.
+
+### 10
 "'7. They have refreshed parched lips; they whose power was taken away, have gotten joy of heart and they have laid hold of souls, having
+
+### 11
 poured in the breath, so that they should not die.
+
+### 12
 "'8. They have raised up limbs which were fallen; they have given power to their openness and light unto their eyes.
+
+### 13
 "'9. For they all have known themselves in the Lord and are saved through the water of Life eternal.'
+
+### 14
 "Hearken, therefore, my Lord, that I may set forth the word in openness. As thy power hath prophesied through Solomon: 'A stream came forth and became a great wide flood,'--this is: The light-stream hath spread itself out in the chaos over all the regions of the emanations of Self-willed.
+
+### 15
 "And again the word which thy power hath spoken through Solomon: 'It tore away all to itself and led it over the temple,'--that is: It drew all the light-powers out of the emanations of Self-willed, which they had taken from Pistis Sophia, and poured them anew into Pistis Sophia.
+
+### 16
 "And again the word thy power hath spoken: 'The dams and buildings could not hold it,'--that is: The emanations of Self-willed could not hold the light-stream within the walls of the darkness of the chaos.
+
+### 17
 "And again the word which it hath spoken: It was led over the whole land and filled all,'--that is: When Gabriēl and Michaēl had led it over the body of Pistis Sophia, they poured into her all the lights which the emanations of Self-willed had taken from her, and the body of her matter shone.
+
+### 18
 "And the word which it hath spoken: 'They who were in the dry sand, drank,'--that is:
+
+### 19
 All in Pistis Sophia whose light had before been taken away, got light.
+
+### 20
 "And the word which it hath spoken: 'Their thirst was quieted and quenched,'--that is: Her powers ceased to lack the light, because their light, which had been taken from them, was given them [again].
+
+### 21
 "And again as thy power hath spoken: 'The draught through the Highest was given them,'--that is: The light was given unto them through the light-stream, which came forth out of thee, the First Mystery."
+
+### 22
 "And as thy power hath spoken: 'Blessed are the ministers of that draught,'--this is the word which thou hast spoken: 'Michaēl and Gabriēl, who have ministered, have brought the light-stream into the chaos and also led it forth again. They will give them the mysteries of the Light of the Height, they to whom the light-stream is entrusted.'
+
+### 23
 "And again as thy power hath spoken: 'They have refreshed parched lips,'--that is: Gabriēl and Michaēl have not taken for themselves from the lights of Pistis Sophia, which they had spoiled from the emanations of Self-willed, but they have poured them into Pistis Sophia.
+
+### 24
 "And again the word which it hath spoken:
+
+### 25
 They whose power was taken away, have gotten joy of heart,'--that is: All the other powers of Pistis Sophia, which the emanations of Self-willed have not taken, are become exceedingly merry and have filled themselves with light from their light-fellows, for these have poured it into them. "And the word which thy power hath spoken: 'They have quickened souls, having poured in
+
+### 26
 the breath, so that they should not die,'--that is: When they had poured the lights into Pistis Sophia, they quickened the body of her matter, from which they had before taken its lights, and which was on the point of perishing.
+
+### 27
 "And again the word which thy power hath spoken: 'They have raised up limbs which were fallen, or that they should not fall,'--that is: When they poured into her her lights, they raised up all her powers which were on the point of being dissolved.
+
+### 28
 "And again as thy light-power hath spoken: They have received again their light and have become as they were before '; and again the word which it hath spoken: 'They have given light unto their eyes,'--that is: They have received sense in the Light and known the light-stream, that it belongeth to the Height.
+
+### 29
 "And again the word which it hath spoken: 'They all have known themselves in the Lord,'--that is: All the powers of Pistis Sophia have known one another through the light-stream.
+
+### 30
 "And again the word which it hath spoken: 'They are saved through water of Life eternal,'--that is: They are saved through the whole light-stream.
+
+### 31
 "And again the word which it hath spoken: 'The light-stream tore all to itself and drew it over the temple,'--that is: When the light-stream had taken all the light-powers of Pistis Sophia and had spoiled them from the emanations of Self-willed, it poured them into Pistis Sophia and turned itself about and went out of the chaos and came over thee,--thou who art the temple.
+
+### 32
 "This is the solution of all the words which
+
+### 33
 thy light-power hath spoken through the Ode of Solomon."
+
+### 34
 It came to pass then, when the First Mystery had heard Peter speak these words, that he said unto him: "Well said, blessed Peter. This is the solution of the words which have been spoken."

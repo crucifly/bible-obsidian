@@ -6,12 +6,24 @@ chapter: 118
 title: "Pistis Sophia - Chapter 118"
 translation: G.R.S. Mead
 ---
+
 # Pistis Sophia - Chapter 118
 
-Chapter 118
+> **Chapter 118**
+
+### 1
 Pistis Sophia
+
+### 2
 Next
-CHAPTER 117
+
+> **CHAPTER 117**
+
+### 3
 Mary further questioneth Jesus.Mary answered again and said: "My Lord, I will still continue to question thee. Now, therefore, my Lord, bear with me questioning thee. Lo, in openness have we known the type in which the baptisms forgive sins. Now on the other hand the mystery of these three spaces and the mysteries of this First Mystery and the mysteries of the Ineffable, in what type do they forgive sins? Do they forgive in the type of the baptisms, or not?"
+
+### 4
 Of the forgiveness of sins according to the higher mysteries.The Saviour answered again and said: "Nay, but all the mysteries of the three spaces forgive the soul in all the regions of the rulers all the sine which the soul hath committed from the beginning onwards. They forgive it, and moreover they forgive the sins which it thereafter will commit, until the time up to which every one of the mysteries shall be effective,--the time up to which every one of the mysteries shall be effective I will tell you at the expansion of the universe.
+
+### 5
 "And moreover the mystery of the First Mystery and the mysteries of the Ineffable forgive the soul in all the regions of the rulers all the sins and all the iniquities which the soul hath committed; and [not only] do they forgive it all, but they impute unto it no sin from this hour unto all eternity, because of the gift of that great mystery and its prodigiously great glory."

@@ -5,84 +5,241 @@ id: JASH-81
 chapter: 81
 title: "Book of Jasher - Chapter 81"
 ---
+
 # Book of Jasher - Chapter 81
 
-Chapter 81
+> **Chapter 81**
+
+### 1
 (RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+
+### 2
 Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 81
+
+### 3
 < Sefer Ha-yashar, or, the Book of Jasher (1840)(Redirected from Book of Jasher/Chapter 81)
+
+### 4
 .mw-parser-output .wst-verse{color:#2E8B57}.mw-parser-output .wst-verse-left{position:absolute;left:1em}.mw-parser-output .wst-verse-float{float:left;text-align:right;margin-left:-4em;width:4em}@media screen{html.skin-theme-clientpref-night .mw-parser-output .wst-verse{color:#97efbe}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .wst-verse{color:#97efbe}}1And the children of Israel journeyed from Rameses to Succoth, about six hundred thousand men on foot, besides the little ones and their wives.
+
+### 5
 2Also a mixed multitude went up with them, and flocks and herds, even much cattle.
+
+### 6
 3And the sojourning of the children of Israel, who dwelt in the land of Egypt in hard labor, was two hundred and ten years.
+
+### 7
 4And at the end of two hundred and ten years, the Lord brought forth the children of Israel from Egypt with a strong hand.
+
+### 8
 5And the children of Israel traveled from Egypt and from Goshen and from Rameses, and encamped in Succoth on the fifteenth day of the first month.
+
+### 9
 6And the Egyptians buried all their first born whom the Lord had smitten, and all the Egyptians buried their slain for three days.
+
+### 10
 7And the children of Israel traveled from Succoth and encamped in Ethom, at the end of the wilderness.
+
+### 11
 8And on the third day after the Egyptians had buried their first born, many men rose up from Egypt and went after Israel to make them return to Egypt, for they repented that they had sent the Israelites away from their servitude.
+
+### 12
 9And one man said to his neighbor, Surely Moses and Aaron spoke to Pharaoh, saying, We will go a three days' journey in the wilderness and sacrifice to the Lord our God.
+
+### 13
 10Now therefore let us rise up early in the morning and cause them to return, and it shall be that if they return with us to Egypt to their masters, then shall we know that there is faith in them, but if they will not return, then will we fight with them, and make them come back with great power and a strong hand.
+
+### 14
 11And all the nobles of Pharaoh rose up in the morning, and with them about seven hundred thousand men, and they went forth from Egypt on that day, and came to the place where the children of Israel were.
+
+### 15
 12And all the Egyptians saw and behold Moses and Aaron and all the children of Israel were sitting before Pi-hahiroth, eating and drinking and celebrating the feast of the Lord.
+
+### 16
 13And all the Egyptians said to the children of Israel, Surely you said, We will go a journey for three days in the wilderness and sacrifice to our God and return.
+
+### 17
 14Now therefore this day makes five days since you went, why do you not return to your masters?
+
+### 18
 15And Moses and Aaron answered them, saying, Because the Lord our God has testified in us, saying, You shall no more return to Egypt, but we will betake ourselves to a land flowing with milk and honey, as the Lord our God had sworn to our ancestors to give to us.
+
+### 19
 16And when the nobles of Egypt saw that the children of Israel did not hearken to them, to return to Egypt, they girded themselves to fight with Israel.
+
+### 20
 17And the Lord strengthened the hearts of the children of Israel over the Egyptians, that they gave them a severe beating, and the battle was sore upon the Egyptians, and all the Egyptians fled from before the children of Israel, for many of them perished by the hand of Israel.
+
+### 21
 18And the nobles of Pharaoh went to Egypt and told Pharaoh, saying, The children of Israel have fled, and will no more return to Egypt, and in this manner did Moses and Aaron speak to us.
+
+### 22
 19And Pharaoh heard this thing, and his heart and the hearts of all his subjects were turned against Israel, and they repented that they had sent Israel; and all the Egyptians advised Pharaoh to pursue the children of Israel to make them come back to their burdens.
+
+### 23
 20And they said each man to his brother, What is this which we have done, that we have sent Israel from our servitude?
+
+### 24
 21And the Lord strengthened the hearts of all the Egyptians to pursue the Israelites, for the Lord desired to overthrow the Egyptians in the Red Sea.
+
+### 25
 22And Pharaoh rose up and harnessed his chariot, and he ordered all the Egyptians to assemble, not one man was left excepting the little ones and the women.
+
+### 26
 23And all the Egyptians went forth with Pharaoh to pursue the children of Israel, and the camp of Egypt was an exceedingly large and heavy camp, about ten hundred thousand men.
+
+### 27
 24And the whole of this camp went and pursued the children of Israel to bring them back to Egypt, and they reached them encamping by the Red Sea.
+
+### 28
 25And the children of Israel lifted up their eyes, and beheld all the Egyptians pursuing them, and the children of Israel were greatly terrified at them, and the children of Israel cried to the Lord.
+
+### 29
 26And on account of the Egyptians, the children of Israel divided themselves into four divisions, and they were divided in their opinions, for they were afraid of the Egyptians, and Moses spoke to each of them.
+
+### 30
 27The first division was of the children of Reuben, Simeon, and Issachar, and they resolved to cast themselves into the sea, for they were exceedingly afraid of the Egyptians.
+
+### 31
 28And Moses said to them, Fear not, stand still and see the salvation of the Lord which He will effect this day for you.
+
+### 32
 29The second division was of the children of Zebulun, Benjamin and Naphtali, and they resolved to go back to Egypt with the Egyptians.
+
+### 33
 30And Moses said to them, Fear not, for as you have seen the Egyptians this day, so shall you see them no more for ever.
+
+### 34
 31The third division was of the children of Judah and Joseph, and they resolved to go to meet the Egyptians to fight with them.
+
+### 35
 32And Moses said to them, Stand in your places, for the Lord will fight for you, and you shall remain silent.
+
+### 36
 33And the fourth division was of the children of Levi, Gad, and Asher, and they resolved to go into the midst of the Egyptians to confound them, and Moses said to them, Remain in your stations and fear not, only call unto the Lord that he may save you out of their hands.
+
+### 37
 34After this Moses rose up from amidst the people, and he prayed to the Lord and said,
+
+### 38
 35O Lord God of the whole earth, save now thy people whom thou didst bring forth from Egypt, and let not the Egyptians boast that power and might are theirs.
+
+### 39
 36So the Lord said to Moses, Why dost thou cry unto me? speak to the children of Israel that they shall proceed, and do thou stretch out thy rod upon the sea and divide it, and the children of Israel shall pass through it.
+
+### 40
 37And Moses did so, and he lifted up his rod upon the sea and divided it.
+
+### 41
 38And the waters of the sea were divided into twelve parts, and the children of Israel passed through on foot, with shoes, as a man would pass through a prepared road.
+
+### 42
 39And the Lord manifested to the children of Israel his wonders in Egypt and in the sea by the hand of Moses and Aaron.
+
+### 43
 40And when the children of Israel had entered the sea, the Egyptians came after them, and the waters of the sea resumed upon them, and they all sank in the water, and not one man was left excepting Pharaoh, who gave thanks to the Lord and believed in him, therefore the Lord did not cause him to perish at that time with the Egyptians.
+
+### 44
 41And the Lord ordered an angel to take him from amongst the Egyptians, who cast him upon the land of Ninevah and he reigned over it for a long time.
+
+### 45
 42And on that day the Lord saved Israel from the hand of Egypt, and all the children of Israel saw that the Egyptians had perished, and they beheld the great hand of the Lord, in what he had performed in Egypt and in the sea.
+
+### 46
 43Then sang Moses and the children of Israel this song unto the Lord, on the day when the Lord caused the Egyptians to fall before them.
+
+### 47
 44And all Israel sang in concert, saying, I will sing to the Lord for He is greatly exalted, the horse and his rider has he cast into the sea; behold it is written in the book of the law of God.
+
+### 48
 45After this the children of Israel proceeded on their journey, and encamped in Marah, and the Lord gave to the children of Israel statutes and judgments in that place in Marah, and the Lord commanded the children of Israel to walk in all his ways and to serve him.
+
+### 49
 46And they journeyed from Marah and came to Elim, and in Elim were twelve springs of water and seventy date trees, and the children encamped there by the waters.
+
+### 50
 47And they journeyed from Elim and came to the wilderness of Sin, on the fifteenth day of the second month after their departure from Egypt.
+
+### 51
 48At that time the Lord gave the manna to the children of Israel to eat, and the Lord caused food to rain from heaven for the children of Israel day by day.
+
+### 52
 49And the children of Israel ate the manna for forty years, all the days that they were in the wilderness, until they came to the land of Canaan to possess it.
+
+### 53
 50And they proceeded from the wilderness of Sin and encamped in Alush.
+
+### 54
 51And they proceeded from Alush and encamped in Rephidim.
+
+### 55
 52And when the children of Israel were in Rephidim, Amalek the son of Eliphaz, the son of Esau, the brother of Zepho, came to fight with Israel.
+
+### 56
 53And he brought with him eight hundred and one thousand men, magicians and conjurers, and he prepared for battle with Israel in Rephidim.
+
+### 57
 54And they carried on a great and severe battle against Israel, and the Lord delivered Amalek and his people into the hands of Moses and the children of Israel, and into the hand of Joshua, the son of Nun, the Ephrathite, the servant of Moses.
+
+### 58
 55And the children of Israel smote Amalek and his people at the edge of the sword, but the battle was very sore upon the children of Israel.
+
+### 59
 56And the Lord said to Moses, Write this thing as a memorial for thee in a book, and place it in the hand of Joshua, the son of Nun, thy servant, and thou shalt command the children of Israel, saying, When thou shalt come to the land of Canaan, thou shalt utterly efface the remembrance of Amalek from under heaven.
+
+### 60
 57And Moses did so, and he took the book and wrote upon it these words, saying,
+
+### 61
 58Remember what Amalek has done to thee in the road when thou wentest forth from Egypt.
+
+### 62
 59Who met thee in the road and smote thy rear, even those that were feeble behind thee when thou wast faint and weary.
+
+### 63
 60Therefore it shall be when the Lord thy God shall have given thee rest from all thine enemies round about in the land which the Lord thy God giveth thee for an inheritance, to possess it, that thou shalt blot out the remembrance of Amalek from under heaven, thou shalt not forget it.
+
+### 64
 61And the king who shall have pity on Amalek, or upon his memory or upon his seed, behold I will require it of him, and I will cut him off from amongst his people.
+
+### 65
 62And Moses wrote all these things in a book, and he enjoined the children of Israel respecting all these matters.
+
+### 66
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_81&oldid=11446126"
+
+### 67
 Hidden categories: SubpagesHeaders applying DefaultSort key
+
+### 68
 This page was last edited on 30 June 2021, at 02:18.
+
+### 69
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
+
+### 70
 Privacy policy
+
+### 71
 Disclaimers
+
+### 72
 Code of Conduct
+
+### 73
 Developers
+
+### 74
 Statistics
+
+### 75
 Cookie statement
+
+### 76
 Mobile view
+
+### 77
 Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 81
+
+### 78
 Add topic
