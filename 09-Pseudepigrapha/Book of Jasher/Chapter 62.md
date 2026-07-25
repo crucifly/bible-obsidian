@@ -53,73 +53,55 @@ And at the revolution of the year, when the rest of the people of Midian that we
 And the children of Midian sent to all their brethren the children of the east, and all their brethren, all the children of Keturah came to assist Midian to fight with Moab.
 
 ### 15
-And the children of Moab heard this thing, and they were greatly afraid that all the children of the east had assembled together against them for battle, and they the children of Moab sent a memorial to the land of Edom to Hadad the son of Bedad, saying,
+And the children of Moab heard this thing, and they were greatly afraid that all the children of the east had assembled together against them for battle, and they the children of Moab sent a memorial to the land of Edom to Hadad the son of Bedad, saying, Come now unto us and assist us and we will smite Midian, for they all assembled together and have come against us with all their brethren the children of the east to battle, to avenge the cause of Midian that fell in battle.
 
 ### 16
-Come now unto us and assist us and we will smite Midian, for they all assembled together and have come against us with all their brethren the children of the east to battle, to avenge the cause of Midian that fell in battle.
-
-### 17
 And Hadad, son of Bedad, king of Edom, went forth with his whole army and went to the land of Moab to fight with Midian, and Midian and the children of the east fought with Moab in the field of Moab, and the battle was very fierce between them.
 
-### 18
+### 17
 And Hadad smote all the children of Midian and the children of the east with the edge of the sword, and Hadad at that time delivered Moab from the hand of Midian, and those that remained of Midian and of the children of the east fled before Hadad and his army, and Hadad pursued them to their land, and smote them with a very heavy slaughter, and the slain fell in the road.
 
-### 19
+### 18
 And Hadad delivered Moab from the hand of Midian, for all the children of Midian had fallen by the edge of the sword, and Hadad turned and went back to his land.
 
-### 20
+### 19
 And from that day forth, the children of Midian hated the children of Moab, because they had fallen in battle for their sake, and there was a great and mighty enmity between them all the days.
 
-### 21
+### 20
 And all that were found of Midian in the road of the land of Moab perished by the sword of Moab, and all that were found of Moab in the road of the land of Midian, perished by the sword of Midian; thus did Midian unto Moab and Moab unto Midian for many days.
 
-### 22
+### 21
 And it came to pass at that time that Judah the son of Jacob died in Egypt, in the eighty-sixth year of Jacob's going down to Egypt, and Judah was a hundred and twenty-nine years old at his death, and they embalmed him and put him into a coffin, and he was given into the hands of his children.
 
-### 23
+### 22
 And in the eighty-ninth year died Naphtali, he was a hundred and thirty-two years old, and he was put into a coffin and given into the hands of his children.
 
-### 24
+### 23
 And it came to pass in the ninety-first year of the Israelites going down to Egypt, that is in the thirtieth year of the reign of Zepho the son of Eliphaz, the son of Esau, over the children of Chittim, the children of Africa came upon the children of Chittim to plunder them as usual, but they had not come upon them for these thirteen years.
 
-### 25
+### 24
 And they came to them in that year, and Zepho the son of Eliphaz went out to them with some of his men and smote them desperately, and the troops of Africa fled from before Zepho and the slain fell before him, and Zepho and his men pursued them, going on and smiting them until they were near unto Africa.
 
-### 26
+### 25
 And Angeas king of Africa heard the thing which Zepho had done, and it vexed him exceedingly, and Angeas was afraid of Zepho all the days.
 
-### 27
+### 26
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_62&oldid=11446016"
 
+### 27
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:04.
+
 ### 28
-Hidden categories: SubpagesHeaders applying DefaultSort key
-
-### 29
-This page was last edited on 30 June 2021, at 02:04.
-
-### 30
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 29
+Privacy policy Disclaimers
+
+### 30
+Code of Conduct Developers
+
 ### 31
-Privacy policy
+Statistics Cookie statement
 
 ### 32
-Disclaimers
-
-### 33
-Code of Conduct
-
-### 34
-Developers
-
-### 35
-Statistics
-
-### 36
-Cookie statement
-
-### 37
-Mobile view
-
-### 38
-Add topic
+Mobile view Add topic

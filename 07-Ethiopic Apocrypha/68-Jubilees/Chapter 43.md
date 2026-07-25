@@ -78,7 +78,4 @@ And they went up and told their father that Joseph was alive, and was measuring 
 And their father did not believe it, for he was beside himself in his mind; but when he saw the wagons which Joseph had sent, the life of his spirit revived, and he said: 'It is enough for me if Joseph lives; I will go down and see him before I die.'
 
 ### 25
-The Book of Jubilees
-
-### 26
-Jacob celebrates the feast of firstfruits, and encouraged by a vision goes down to Egypt, 1-10. Names of his descendants, 11-34. (Cf. Gen. xlvi.1-28.)
+The Book of Jubilees Jacob celebrates the feast of firstfruits, and encouraged by a vision goes down to Egypt, 1-10. Names of his descendants, 11-34. (Cf. Gen. xlvi.1-28.)

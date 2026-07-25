@@ -6,61 +6,52 @@ canon: "Poetic"
 # Job 11
 
 ### 1
-Then Zophar, the Naamathite, answered,
+Then Zophar, the Naamathite, answered, “Shouldn’t the multitude of words be answered? Should a man full of talk be justified?
 
 ### 2
-“Shouldn’t the multitude of words be answered? Should a man full of talk be justified?
-
-### 3
 Should your boastings make men hold their peace? When you mock, shall no man make you ashamed?
 
-### 4
+### 3
 For you say, ‘My doctrine is pure. I am clean in your eyes.’
 
+### 4
+But oh that God would speak, and open his lips against you, that he would show you the secrets of wisdom! For true wisdom has two sides. Know therefore that God exacts of you less than your iniquity deserves.
+
 ### 5
-But oh that God would speak, and open his lips against you,
-
-### 6
-that he would show you the secrets of wisdom! For true wisdom has two sides. Know therefore that God exacts of you less than your iniquity deserves.
-
-### 7
 “Can you fathom the mystery of God? Or can you probe the limits of the Almighty?
 
-### 8
+### 6
 They are high as heaven. What can you do? They are deeper than Sheol. What can you know?
 
-### 9
+### 7
 Its measure is longer than the earth, and broader than the sea.
 
-### 10
+### 8
 If he passes by, or confines, or convenes a court, then who can oppose him?
 
-### 11
+### 9
 For he knows false men. He sees iniquity also, even though he doesn’t consider it.
 
-### 12
+### 10
 An empty-headed man becomes wise when a man is born as a wild donkey’s colt.
 
-### 13
+### 11
 “If you set your heart aright, stretch out your hands toward him.
 
-### 14
+### 12
 If iniquity is in your hand, put it far away. Don’t let unrighteousness dwell in your tents.
 
-### 15
-Surely then you shall lift up your face without spot; Yes, you shall be steadfast, and shall not fear:
+### 13
+Surely then you shall lift up your face without spot; Yes, you shall be steadfast, and shall not fear: for you shall forget your misery. You shall remember it like waters that have passed away.
 
-### 16
-for you shall forget your misery. You shall remember it like waters that have passed away.
-
-### 17
+### 14
 Life shall be clearer than the noonday. Though there is darkness, it shall be as the morning.
 
-### 18
+### 15
 You shall be secure, because there is hope. Yes, you shall search, and shall take your rest in safety.
 
-### 19
+### 16
 Also you shall lie down, and no one shall make you afraid. Yes, many shall court your favor.
 
-### 20
+### 17
 But the eyes of the wicked shall fail. They shall have no way to flee. Their hope shall be the giving up of the spirit.”

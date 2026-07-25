@@ -48,43 +48,28 @@ And Abraham called that place 'The Lord hath seen', so that it is said in the mo
 And the Lord called Abraham by his name a second time from heaven, as he caused us to appear to speak to him in the name of the Lord.
 
 ### 15
-And he said: 'By Myself have I sworn, saith the Lord,
+And he said: 'By Myself have I sworn, saith the Lord, Because thou hast done this thing,
 
 ### 16
-Because thou hast done this thing,
+And hast not withheld thy son, thy beloved son, from Me, That in blessing I will bless thee,
 
 ### 17
-And hast not withheld thy son, thy beloved son, from Me,
+And in multiplying I will multiply thy seed As the stars of heaven, And as the sand which is on the seashore.
 
 ### 18
-That in blessing I will bless thee,
+And thy seed shall inherit the cities of its enemies, And in thy seed shall all nations of the earth be blessed;
 
 ### 19
-And in multiplying I will multiply thy seed
+Because thou hast obeyed My voice, And I have shown to all that thou art faithful unto Me in all that I have said unto thee:
 
 ### 20
-As the stars of heaven, And as the sand which is on the seashore.
-
-### 21
-And thy seed shall inherit the cities of its enemies,
-
-### 22
-And in thy seed shall all nations of the earth be blessed;
-
-### 23
-Because thou hast obeyed My voice,
-
-### 24
-And I have shown to all that thou art faithful unto Me in all that I have said unto thee:
-
-### 25
 Go in peace.'
 
-### 26
+### 21
 And Abraham went to his young men, and they arose and went together to Beersheba, and Abraham [2010 A.M.] dwelt by the Well of the Oath.
 
-### 27
+### 22
 And he celebrated this festival every year, seven days with joy, and he called it the festival of the Lord according to the seven days during which he went and returned in peace.
 
-### 28
+### 23
 And accordingly has it been ordained and written on the heavenly tablets regarding Israel and its seed that they should observe this festival seven days with the joy of festival.

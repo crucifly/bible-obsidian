@@ -17,55 +17,37 @@ And the children of Esau sent to Pethor, which is upon the river, and they fetch
 And Saul reigned over all the children of Esau in the land of Edom for forty years.
 
 ### 3
-And when Pharaoh king of Egypt saw that the counsel which Balaam had advised respecting the children of Israel did not succeed, but that still they were fruitful, multiplied and increased throughout the land of Egypt,
+And when Pharaoh king of Egypt saw that the counsel which Balaam had advised respecting the children of Israel did not succeed, but that still they were fruitful, multiplied and increased throughout the land of Egypt, Then Pharaoh commanded in those days that a proclamation should be issued throughout Egypt to the children of Israel, saying, No man shall diminish any thing of his daily labor.
 
 ### 4
-Then Pharaoh commanded in those days that a proclamation should be issued throughout Egypt to the children of Israel, saying, No man shall diminish any thing of his daily labor.
-
-### 5
 And the man who shall be found deficient in his labor which he performs daily, whether in mortar or in bricks, then his youngest son shall be put in their place.
 
-### 6
+### 5
 And the labor of Egypt strengthened upon the children of Israel in those days, and behold if one brick was deficient in any man's daily labor, the Egyptians took his youngest boy by force from his mother, and put him into the building in the place of the brick which his father had left wanting.
 
-### 7
+### 6
 And the men of Egypt did so to all the children of Israel day by day, all the days for a long period.
 
-### 8
+### 7
 But the tribe of Levi did not at that time work with the Israelites their brethren, from the beginning, for the children of Levi knew the cunning of the Egyptians which they exercised at first toward the Israelites.
 
-### 9
+### 8
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_69&oldid=11446033"
 
+### 9
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:05.
+
 ### 10
-Hidden categories: SubpagesHeaders applying DefaultSort key
-
-### 11
-This page was last edited on 30 June 2021, at 02:05.
-
-### 12
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 11
+Privacy policy Disclaimers
+
+### 12
+Code of Conduct Developers
+
 ### 13
-Privacy policy
+Statistics Cookie statement
 
 ### 14
-Disclaimers
-
-### 15
-Code of Conduct
-
-### 16
-Developers
-
-### 17
-Statistics
-
-### 18
-Cookie statement
-
-### 19
-Mobile view
-
-### 20
-Add topic
+Mobile view Add topic

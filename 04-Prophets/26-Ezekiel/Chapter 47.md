@@ -48,28 +48,25 @@ Thus says the Lord Yahweh: “This shall be the border, by which you shall divid
 You shall inherit it, one as well as another; for I swore to give it to your fathers. This land will fall to you for inheritance.
 
 ### 15
-“This shall be the border of the land: “On the north side, from the great sea, by the way of Hethlon, to the entrance of Zedad;
+“This shall be the border of the land: “On the north side, from the great sea, by the way of Hethlon, to the entrance of Zedad; Hamath, Berothah, Sibraim, which is between the border of Damascus and the border of Hamath; Hazer Hatticon, which is by the border of Hauran.
 
 ### 16
-Hamath, Berothah, Sibraim, which is between the border of Damascus and the border of Hamath; Hazer Hatticon, which is by the border of Hauran.
-
-### 17
 The border from the sea, shall be Hazar Enon at the border of Damascus; and on the north northward is the border of Hamath. This is the north side.
 
-### 18
+### 17
 “The east side, between Hauran and Damascus and Gilead, and the land of Israel, shall be the Jordan; from the north border to the east sea you shall measure. This is the east side.
 
-### 19
+### 18
 “The south side southward shall be from Tamar as far as the waters of Meriboth Kadesh, to the brook, to the great sea. This is the south side southward.
 
-### 20
+### 19
 “The west side shall be the great sea, from the south border as far as over against the entrance of Hamath. This is the west side.
 
-### 21
+### 20
 “So you shall divide this land to yourselves according to the tribes of Israel.
 
-### 22
+### 21
 It will happen, that you shall divide it by lot for an inheritance to you and to the aliens who live among you, who will father children among you. Then they shall be to you as the native-born among the children of Israel. They shall have inheritance with you among the tribes of Israel.
 
-### 23
+### 22
 It shall happen, that in whatever tribe the stranger lives, there you shall give him his inheritance,” says the Lord Yahweh.

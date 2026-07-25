@@ -72,34 +72,25 @@ I have waited for your salvation, Yahweh.
 “Joseph is a fruitful vine, a fruitful vine by a spring. His branches run over the wall.
 
 ### 23
-The archers have severely grieved him, shot at him, and persecuted him:
+The archers have severely grieved him, shot at him, and persecuted him: But his bow remained strong. The arms of his hands were made strong, by the hands of the Mighty One of Jacob, (from there is the shepherd, the stone of Israel),
 
 ### 24
-But his bow remained strong. The arms of his hands were made strong, by the hands of the Mighty One of Jacob, (from there is the shepherd, the stone of Israel),
-
-### 25
 even by the God of your father, who will help you; by the Almighty, who will bless you, with blessings of heaven above, blessings of the deep that lies below, blessings of the breasts, and of the womb.
 
-### 26
+### 25
 The blessings of your father have prevailed above the blessings of your ancestors, above the boundaries of the ancient hills. They will be on the head of Joseph, on the crown of the head of him who is separated from his brothers.
 
-### 27
+### 26
 “Benjamin is a ravenous wolf. In the morning he will devour the prey. At evening he will divide the plunder.”
 
-### 28
+### 27
 All these are the twelve tribes of Israel, and this is what their father spoke to them and blessed them. He blessed everyone according to his blessing.
 
+### 28
+He instructed them, and said to them, “I am to be gathered to my people. Bury me with my fathers in the cave that is in the field of Ephron the Hittite, in the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite as a burial place.
+
 ### 29
-He instructed them, and said to them, “I am to be gathered to my people. Bury me with my fathers in the cave that is in the field of Ephron the Hittite,
+There they buried Abraham and Sarah, his wife. There they buried Isaac and Rebekah, his wife, and there I buried Leah: the field and the cave that is therein, which was purchased from the children of Heth.”
 
 ### 30
-in the cave that is in the field of Machpelah, which is before Mamre, in the land of Canaan, which Abraham bought with the field from Ephron the Hittite as a burial place.
-
-### 31
-There they buried Abraham and Sarah, his wife. There they buried Isaac and Rebekah, his wife, and there I buried Leah:
-
-### 32
-the field and the cave that is therein, which was purchased from the children of Heth.”
-
-### 33
 When Jacob finished charging his sons, he gathered up his feet into the bed, and yielded up the spirit, and was gathered to his people.

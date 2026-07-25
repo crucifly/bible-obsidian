@@ -62,115 +62,94 @@ And the king came forth and ascended the steps of the throne, and Joseph spoke u
 And the king greatly rejoiced on account of Joseph, and all the king's officers rejoiced greatly with the king when they heard all the words of Joseph.
 
 ### 18
-And the thing seemed good in the sight of the king and the officers, to appoint Joseph to be second to the king over the whole land of Egypt, and the king spoke to Joseph, saying,
+And the thing seemed good in the sight of the king and the officers, to appoint Joseph to be second to the king over the whole land of Egypt, and the king spoke to Joseph, saying, Now thou didst give me counsel to appoint a wise man over the land of Egypt, in order with his wisdom to save the land from the famine; now therefore, since God has made all this known to thee, and all the words which thou hast spoken, there is not throughout the land a discreet and wise man like unto thee.
 
 ### 19
-Now thou didst give me counsel to appoint a wise man over the land of Egypt, in order with his wisdom to save the land from the famine; now therefore, since God has made all this known to thee, and all the words which thou hast spoken, there is not throughout the land a discreet and wise man like unto thee.
-
-### 20
 And thy name no more shall be called Joseph, but Zaphnath Paaneah shall be thy name; thou shalt be second to me, and according to thy word shall be all the affairs of my government, and at thy word shall my people go out and come in.
 
-### 21
+### 20
 Also from under thy hand shall my servants and officers receive their salary which is given to them monthly, and to thee shall all the people of the land bow down; only in my throne will I be greater than thou.
 
-### 22
+### 21
 And the king took off his ring from his hand and put it upon the hand of Joseph, and the king dressed Joseph in a princely garment, and he put a golden crown upon his head, and he put a golden chain upon his neck.
 
-### 23
+### 22
 And the king commanded his servants, and they made him ride in the second chariot belonging to the king, that went opposite to the king's chariot, and he caused him to ride upon a great and strong horse from the king's horses, and to be conducted through the streets of the land of Egypt.
 
-### 24
+### 23
 And the king commanded that all those that played upon timbrels, harps and other musical instruments should go forth with Joseph; one thousand timbrels, one thousand mecholoth, and one thousand nebalim went after him.
 
-### 25
+### 24
 And five thousand men, with drawn swords glittering in their hands, and they went marching and playing before Joseph, and twenty thousand of the great men of the king girt with girdles of skin covered with gold, marched at the right hand of Joseph, and twenty thousand at his left, and all the women and damsels went upon the roofs or stood in the streets playing and rejoicing at Joseph, and gazed at the appearance of Joseph and at his beauty.
 
+### 25
+And the king's people went before him and behind him, perfuming the road with frankincense and with cassia, and with all sorts of fine perfume, and scattered myrrh and aloes along the road, and twenty men proclaimed these words before him throughout the land in a loud voice: Do you see this man whom the king has chosen to be his second? all the affairs of government shall be regulated by him, and he that transgresses his orders, or that does not bow down before him to the ground, shall die, for he rebels against the king and his second.
+
 ### 26
-And the king's people went before him and behind him, perfuming the road with frankincense and with cassia, and with all sorts of fine perfume, and scattered myrrh and aloes along the road, and twenty men proclaimed these words before him throughout the land in a loud voice:
-
-### 27
-Do you see this man whom the king has chosen to be his second? all the affairs of government shall be regulated by him, and he that transgresses his orders, or that does not bow down before him to the ground, shall die, for he rebels against the king and his second.
-
-### 28
 And when the heralds had ceased proclaiming, all the people of Egypt bowed down to the ground before Joseph and said, May the king live, also may his second live; and all the inhabitants of Egypt bowed down along the road, and when the heralds approached them, they bowed down, and they rejoiced with all sorts of timbrels, mechol and nebal before Joseph.
 
-### 29
+### 27
 And Joseph upon his horse lifted up his eyes to heaven, and called out and said, He raiseth the poor man from the dust, He lifteth up the needy from the dunghill. O Lord of Hosts, happy is the man who trusteth in thee.
 
-### 30
+### 28
 And Joseph passed throughout the land of Egypt with Pharaoh's servants and officers, and they showed him the whole land of Egypt and all the king's treasures.
 
-### 31
+### 29
 And Joseph returned and came on that day before Pharaoh, and the king gave unto Joseph a possession in the land of Egypt, a possession of fields and vineyards, and the king gave unto Joseph three thousand talents of silver and one thousand talents of gold, and onyx stones and bdellium and many gifts.
 
-### 32
+### 30
 And on the next day the king commanded all the people of Egypt to bring unto Joseph offerings and gifts, and that he that violated the command of the king should die; and they made a high place in the street of the city, and they spread out garments there, and whoever brought anything to Joseph put it into the high place.
 
-### 33
+### 31
 And all the people of Egypt cast something into the high place, one man a golden ear-ring, and the other rings and ear-rings, and different vessels of gold and silver work, and onyx stones and bdellium did he cast upon the high place; every one gave something of what he possessed.
 
-### 34
+### 32
 And Joseph took all these and placed them in his treasuries, and all the officers and nobles belonging to the king exalted Joseph, and they gave him many gifts, seeing that the king had chosen him to be his second.
 
-### 35
+### 33
 And the king sent to Potiphera, the son of Ahiram priest of On, and he took his young daughter Osnath and gave her unto Joseph for a wife.
 
-### 36
+### 34
 And the damsel was very comely, a virgin, one whom man had not known, and Joseph took her for a wife; and the king said unto Joseph, I am Pharaoh, and beside thee none shall dare to lift up his hand or his foot to regulate my people throughout the land of Egypt.
 
-### 37
+### 35
 And Joseph was thirty years old when he stood before Pharaoh, and Joseph went out from before the king, and he became the king's second in Egypt.
 
-### 38
+### 36
 And the king gave Joseph a hundred servants to attend him in his house, and Joseph also sent and purchased many servants and they remained in the house of Joseph.
 
-### 39
+### 37
 Joseph then built for himself a very magnificent house like unto the houses of kings, before the court of the king's palace, and he made in the house a large temple, very elegant in appearance and convenient for his residence; three years was Joseph in erecting his house.
 
-### 40
+### 38
 And Joseph made unto himself a very elegant throne of abundance of gold and silver, and he covered it with onyx stones and bdellium, and he made upon it the likeness of the whole land of Egypt, and the likeness of the river of Egypt that watereth the whole land of Egypt; and Joseph sat securely upon his throne in his house and the Lord increased Joseph's wisdom.
 
-### 41
+### 39
 And all the inhabitants of Egypt and Pharaoh's servants and his princes loved Joseph exceedingly, for this thing was from the Lord to Joseph.
 
-### 42
+### 40
 And Joseph had an army that made war, going out in hosts and troops to the number of forty thousand six hundred men, capable of bearing arms to assist the king and Joseph against the enemy, besides the king's officers and his servants and inhabitants of Egypt without number.
 
-### 43
+### 41
 And Joseph gave unto his mighty men, and to all his host, shields and javelins, and caps and coats of mail and stones for slinging.
 
-### 44
+### 42
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_49&oldid=11445968"
 
-### 45
-Hidden categories: SubpagesHeaders applying DefaultSort key
+### 43
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:00.
 
-### 46
-This page was last edited on 30 June 2021, at 02:00.
-
-### 47
+### 44
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 45
+Privacy policy Disclaimers
+
+### 46
+Code of Conduct Developers
+
+### 47
+Statistics Cookie statement
+
 ### 48
-Privacy policy
-
-### 49
-Disclaimers
-
-### 50
-Code of Conduct
-
-### 51
-Developers
-
-### 52
-Statistics
-
-### 53
-Cookie statement
-
-### 54
-Mobile view
-
-### 55
-Add topic
+Mobile view Add topic

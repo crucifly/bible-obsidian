@@ -167,34 +167,19 @@ And the sons of Jacob took all the spoil of the city, and captured what they des
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_38&oldid=11445936"
 
 ### 53
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:57.
 
 ### 54
-This page was last edited on 30 June 2021, at 01:57.
-
-### 55
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 55
+Privacy policy Disclaimers
+
 ### 56
-Privacy policy
+Code of Conduct Developers
 
 ### 57
-Disclaimers
+Statistics Cookie statement
 
 ### 58
-Code of Conduct
-
-### 59
-Developers
-
-### 60
-Statistics
-
-### 61
-Cookie statement
-
-### 62
-Mobile view
-
-### 63
-Add topic
+Mobile view Add topic

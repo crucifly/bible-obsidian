@@ -18,16 +18,10 @@ From the rising of the sun to the going down of the same, Yahweh’s name is to 
 Yahweh is high above all nations, his glory above the heavens.
 
 ### 5
-Who is like Yahweh, our God, who has his seat on high,
+Who is like Yahweh, our God, who has his seat on high, Who stoops down to see in heaven and in the earth?
 
 ### 6
-Who stoops down to see in heaven and in the earth?
+He raises up the poor out of the dust. Lifts up the needy from the ash heap; that he may set him with princes, even with the princes of his people.
 
 ### 7
-He raises up the poor out of the dust. Lifts up the needy from the ash heap;
-
-### 8
-that he may set him with princes, even with the princes of his people.
-
-### 9
 He settles the barren woman in her home, as a joyful mother of children. Praise Yah!

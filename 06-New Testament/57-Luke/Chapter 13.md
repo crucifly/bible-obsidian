@@ -72,40 +72,37 @@ It is like yeast, which a woman took and hid in three measures of flour, until i
 He went on his way through cities and villages, teaching, and traveling on to Jerusalem.
 
 ### 23
-One said to him, “Lord, are they few who are saved?” He said to them,
+One said to him, “Lord, are they few who are saved?” He said to them, “Strive to enter in by the narrow door, for many, I tell you, will seek to enter in, and will not be able.
 
 ### 24
-“Strive to enter in by the narrow door, for many, I tell you, will seek to enter in, and will not be able.
-
-### 25
 When once the master of the house has risen up, and has shut the door, and you begin to stand outside, and to knock at the door, saying, ‘Lord, Lord, open to us!’ then he will answer and tell you, ‘I don’t know you or where you come from.’
 
-### 26
+### 25
 Then you will begin to say, ‘We ate and drank in your presence, and you taught in our streets.’
 
-### 27
+### 26
 He will say, ‘I tell you, I don’t know where you come from. Depart from me, all you workers of iniquity.’
 
-### 28
+### 27
 There will be weeping and gnashing of teeth, when you see Abraham, Isaac, Jacob, and all the prophets, in God’s Kingdom, and yourselves being thrown outside.
 
-### 29
+### 28
 They will come from the east, west, north, and south, and will sit down in God’s Kingdom.
 
-### 30
+### 29
 Behold, there are some who are last who will be first, and there are some who are first who will be last.”
 
-### 31
+### 30
 On that same day, some Pharisees came, saying to him, “Get out of here, and go away, for Herod wants to kill you.”
 
-### 32
+### 31
 He said to them, “Go and tell that fox, ‘Behold, I cast out demons and perform cures today and tomorrow, and the third day I complete my mission.
 
-### 33
+### 32
 Nevertheless I must go on my way today and tomorrow and the next day, for it can’t be that a prophet would perish outside of Jerusalem.’
 
-### 34
+### 33
 “Jerusalem, Jerusalem, that kills the prophets, and stones those who are sent to her! How often I wanted to gather your children together, like a hen gathers her own brood under her wings, and you refused!
 
-### 35
+### 34
 Behold, your house is left to you desolate. I tell you, you will not see me, until you say, ‘Blessed is he who comes in the name of the Lord!’”

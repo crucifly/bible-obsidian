@@ -42,25 +42,22 @@ Sing praises to Yahweh, who dwells in Zion, and declare among the people what he
 For he who avenges blood remembers them. He doesn’t forget the cry of the afflicted.
 
 ### 13
-Have mercy on me, Yahweh. See my affliction by those who hate me, and lift me up from the gates of death;
+Have mercy on me, Yahweh. See my affliction by those who hate me, and lift me up from the gates of death; that I may show all of your praise. In the gates of the daughter of Zion, I will rejoice in your salvation.
 
 ### 14
-that I may show all of your praise. In the gates of the daughter of Zion, I will rejoice in your salvation.
-
-### 15
 The nations have sunk down in the pit that they made. In the net which they hid, their own foot is taken.
 
-### 16
+### 15
 Yahweh has made himself known. He has executed judgment. The wicked is snared by the work of his own hands. Meditation..
 
-### 17
+### 16
 The wicked shall be turned back to Sheol, even all the nations that forget God.
 
-### 18
+### 17
 For the needy shall not always be forgotten, nor the hope of the poor perish forever.
 
-### 19
+### 18
 Arise, Yahweh! Don’t let man prevail. Let the nations be judged in your sight.
 
-### 20
+### 19
 Put them in fear, Yahweh. Let the nations know that they are only men..

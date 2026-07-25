@@ -45,7 +45,4 @@ For you shall not go out in haste, neither shall you go by flight: for Yahweh wi
 Behold, my servant will deal wisely. He will be exalted and lifted up, and will be very high.
 
 ### 14
-Just as many were astonished at you (his appearance was marred more than any man, and his form more than the sons of men),
-
-### 15
-so he will cleanse many nations. Kings will shut their mouths at him: for they will see that which had not been told them; and they will understand that which they had not heard.
+Just as many were astonished at you (his appearance was marred more than any man, and his form more than the sons of men), so he will cleanse many nations. Kings will shut their mouths at him: for they will see that which had not been told them; and they will understand that which they had not heard.

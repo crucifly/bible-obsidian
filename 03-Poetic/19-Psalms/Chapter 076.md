@@ -27,16 +27,13 @@ At your rebuke, God of Jacob, both chariot and horse are cast into a dead sleep.
 You, even you, are to be feared. Who can stand in your sight when you are angry?
 
 ### 8
-You pronounced judgment from heaven. The earth feared, and was silent,
+You pronounced judgment from heaven. The earth feared, and was silent, when God arose to judgment, to save all the afflicted ones of the earth..
 
 ### 9
-when God arose to judgment, to save all the afflicted ones of the earth..
-
-### 10
 Surely the wrath of man praises you. The survivors of your wrath are restrained.
 
-### 11
+### 10
 Make vows to Yahweh your God, and fulfill them! Let all of his neighbors bring presents to him who is to be feared.
 
-### 12
+### 11
 He will cut off the spirit of princes. He is feared by the kings of the earth.

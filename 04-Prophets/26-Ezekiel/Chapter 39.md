@@ -30,64 +30,58 @@ You will fall on the open field; for I have spoken it,” says the Lord Yahweh.
 Behold, it comes, and it will be done,” says the Lord Yahweh. “This is the day about which I have spoken.
 
 ### 9
-“‘“Those who dwell in the cities of Israel will go out, and will make fires of the weapons and burn them, both the shields and the bucklers, the bows and the arrows, and the war clubs and the spears, and they will make fires with them for seven years;
+“‘“Those who dwell in the cities of Israel will go out, and will make fires of the weapons and burn them, both the shields and the bucklers, the bows and the arrows, and the war clubs and the spears, and they will make fires with them for seven years; so that they will take no wood out of the field, and not cut down any out of the forests; for they will make fires with the weapons. They will plunder those who plundered them, and rob those who robbed them,” says the Lord Yahweh.
 
 ### 10
-so that they will take no wood out of the field, and not cut down any out of the forests; for they will make fires with the weapons. They will plunder those who plundered them, and rob those who robbed them,” says the Lord Yahweh.
-
-### 11
 “‘“It will happen in that day, that I will give to Gog a place for burial in Israel, the valley of those who pass through on the east of the sea; and it will stop those who pass through. They will bury Gog and all his multitude there; and they will call it ‘The valley of Hamon Gog’.
 
-### 12
+### 11
 “‘“The house of Israel will be burying them for seven months, that they may cleanse the land.
 
-### 13
+### 12
 Yes, all the people of the land will bury them; and they will become famous in the day that I will be glorified,” says the Lord Yahweh.
 
-### 14
+### 13
 “‘“They will set apart men of continual employment, who will pass through the land. Those who pass through will go with those who bury those who remain on the surface of the land, to cleanse it. After the end of seven months they will search.
 
-### 15
+### 14
 Those who pass through the land will pass through; and when anyone sees a man’s bone, then will he set up a sign by it, until the undertakers have buried it in the valley of Hamon Gog.
 
-### 16
+### 15
 Hamonah will also be the name of a city. Thus will they cleanse the land.”’
 
-### 17
+### 16
 “You, son of man, thus says the Lord Yahweh: ‘Speak to the birds of every sort, and to every animal of the field, “Assemble yourselves, and come; gather yourselves on every side to my sacrifice that I sacrifice for you, even a great sacrifice on the mountains of Israel, that you may eat meat and drink blood.
 
-### 18
+### 17
 You shall eat the flesh of the mighty, and drink the blood of the princes of the earth, of rams, of lambs, and of goats, of bulls, all of them fatlings of Bashan.
 
-### 19
+### 18
 You shall eat fat until you are full, and drink blood until you are drunk, of my sacrifice which I have sacrificed for you.
 
-### 20
+### 19
 You shall be filled at my table with horses and chariots, with mighty men, and with all men of war,” says the Lord Yahweh.’
 
-### 21
+### 20
 “I will set my glory among the nations. Then all the nations will see my judgment that I have executed, and my hand that I have laid on them.
 
-### 22
+### 21
 So the house of Israel will know that I am Yahweh their God, from that day and forward.
 
-### 23
+### 22
 The nations will know that the house of Israel went into captivity for their iniquity; because they trespassed against me, and I hid my face from them; so I gave them into the hand of their adversaries, and they all fell by the sword.
 
-### 24
+### 23
 I did to them according to their uncleanness and according to their transgressions. I hid my face from them.
 
-### 25
+### 24
 “Therefore thus says the Lord Yahweh: ‘Now I will reverse the captivity of Jacob, and have mercy on the whole house of Israel. I will be jealous for my holy name.
 
+### 25
+They will bear their shame, and all their trespasses by which they have trespassed against me, when they dwell securely in their land, and no one will make them afraid, when I have brought them back from the peoples, and gathered them out of their enemies’ lands, and am sanctified in them in the sight of many nations.
+
 ### 26
-They will bear their shame, and all their trespasses by which they have trespassed against me, when they dwell securely in their land, and no one will make them afraid,
-
-### 27
-when I have brought them back from the peoples, and gathered them out of their enemies’ lands, and am sanctified in them in the sight of many nations.
-
-### 28
 They will know that I am Yahweh their God, in that I caused them to go into captivity among the nations, and have gathered them to their own land. Then I will leave none of them captive any more.
 
-### 29
+### 27
 I won’t hide my face from them any more; for I have poured out my Spirit on the house of Israel,’ says the Lord Yahweh.”

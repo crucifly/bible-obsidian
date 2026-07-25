@@ -78,40 +78,34 @@ All the country wept with a loud voice, and all the people passed over. The king
 Behold, Zadok also came, and all the Levites with him, bearing the ark of the covenant of God; and they set down God’s ark; and Abiathar went up, until all the people finished passing out of the city.
 
 ### 25
-The king said to Zadok, “Carry God’s ark back into the city. If I find favor in Yahweh’s eyes, he will bring me again, and show me both it, and his habitation;
+The king said to Zadok, “Carry God’s ark back into the city. If I find favor in Yahweh’s eyes, he will bring me again, and show me both it, and his habitation; but if he says, ‘I have no delight in you;’ behold, here am I. Let him do to me as seems good to him.”
 
 ### 26
-but if he says, ‘I have no delight in you;’ behold, here am I. Let him do to me as seems good to him.”
-
-### 27
 The king said also to Zadok the priest, “Aren’t you a seer? Return into the city in peace, and your two sons with you, Ahimaaz your son, and Jonathan the son of Abiathar.
 
-### 28
+### 27
 Behold, I will stay at the fords of the wilderness, until word comes from you to inform me.”
 
-### 29
+### 28
 Zadok therefore and Abiathar carried God’s ark to Jerusalem again; and they stayed there.
 
-### 30
+### 29
 David went up by the ascent of the Mount of Olives, and wept as he went up; and he had his head covered, and went barefoot: and all the people who were with him each covered his head, and they went up, weeping as they went up.
 
-### 31
+### 30
 Someone told David, saying, “Ahithophel is among the conspirators with Absalom.” David said, “Yahweh, please turn the counsel of Ahithophel into foolishness.”
 
-### 32
+### 31
 When David had come to the top, where God was worshiped, behold, Hushai the Archite came to meet him with his coat torn, and earth on his head.
 
+### 32
+David said to him, “If you pass on with me, then you will be a burden to me; but if you return to the city, and tell Absalom, ‘I will be your servant, O king. As I have been your father’s servant in time past, so will I now be your servant; then will you defeat for me the counsel of Ahithophel.’
+
 ### 33
-David said to him, “If you pass on with me, then you will be a burden to me;
-
-### 34
-but if you return to the city, and tell Absalom, ‘I will be your servant, O king. As I have been your father’s servant in time past, so will I now be your servant; then will you defeat for me the counsel of Ahithophel.’
-
-### 35
 Don’t you have Zadok and Abiathar the priests there with you? Therefore whatever you hear out of the king’s house, tell it to Zadok and Abiathar the priests.
 
-### 36
+### 34
 Behold, they have there with them their two sons, Ahimaaz, Zadok’s son, and Jonathan, Abiathar’s son. Send to me everything that you shall hear by them.”
 
-### 37
+### 35
 So Hushai, David’s friend, came into the city; and Absalom came into Jerusalem.

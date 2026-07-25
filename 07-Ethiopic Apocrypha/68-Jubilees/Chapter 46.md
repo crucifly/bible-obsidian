@@ -51,10 +51,7 @@ And he set over them taskmasters to afflict them with slavery; and they built st
 And they made them serve with rigour, and the more they dealt evilly with them, the more they increased and multiplied.
 
 ### 16
-And the people of Egypt abominated the children of Israel
+And the people of Egypt abominated the children of Israel The Book of Jubilees
 
 ### 17
-The Book of Jubilees
-
-### 18
 Birth of Moses, 1-4. Adopted by Pharaoh's daughter, 5-9. Slays an Egyptian and flees (into Midian), 10-12. (Cf. Exod. i.22; ii. 2-15.)

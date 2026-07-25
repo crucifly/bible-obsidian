@@ -54,13 +54,10 @@ He said to them, “Go into all the world, and preach the Good News to the whole
 He who believes and is baptized will be saved; but he who disbelieves will be condemned.
 
 ### 17
-These signs will accompany those who believe: in my name they will cast out demons; they will speak with new languages;
+These signs will accompany those who believe: in my name they will cast out demons; they will speak with new languages; they will take up serpents; and if they drink any deadly thing, it will in no way hurt them; they will lay hands on the sick, and they will recover.”
 
 ### 18
-they will take up serpents; and if they drink any deadly thing, it will in no way hurt them; they will lay hands on the sick, and they will recover.”
-
-### 19
 So then the Lord, after he had spoken to them, was received up into heaven, and sat down at the right hand of God.
 
-### 20
+### 19
 They went out, and preached everywhere, the Lord working with them, and confirming the word by the signs that followed. Amen.

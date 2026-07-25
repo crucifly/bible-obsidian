@@ -25,7 +25,4 @@ For the testimony (is) in the law of the eternal covenant, The testimony of the 
 Just and kind is our Lord in His judgments for ever, And Israel shall praise the name of the Lord in gladness.
 
 ### 7
-And the pious shall give thanks in the assembly of the people; And on the poor shall God have mercy in the gladness () of Israel;
-
-### 8
-For good and merciful is God for ever, And the assemblies of Israel shall glorify the name of the Lord. The salvation of the Lord be upon the house of Israel unto everlasting gladness!
+And the pious shall give thanks in the assembly of the people; And on the poor shall God have mercy in the gladness () of Israel; For good and merciful is God for ever, And the assemblies of Israel shall glorify the name of the Lord. The salvation of the Lord be upon the house of Israel unto everlasting gladness!

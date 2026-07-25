@@ -63,55 +63,49 @@ You shall make the boards for the tabernacle, twenty boards for the south side s
 You shall make forty sockets of silver under the twenty boards; two sockets under one board for its two tenons, and two sockets under another board for its two tenons.
 
 ### 20
-For the second side of the tabernacle, on the north side, twenty boards,
+For the second side of the tabernacle, on the north side, twenty boards, and their forty sockets of silver; two sockets under one board, and two sockets under another board.
 
 ### 21
-and their forty sockets of silver; two sockets under one board, and two sockets under another board.
-
-### 22
 For the far part of the tabernacle westward you shall make six boards.
 
-### 23
+### 22
 You shall make two boards for the corners of the tabernacle in the far part.
 
-### 24
+### 23
 They shall be double beneath, and in the same way they shall be whole to its top to one ring: thus shall it be for them both; they shall be for the two corners.
 
-### 25
+### 24
 There shall be eight boards, and their sockets of silver, sixteen sockets; two sockets under one board, and two sockets under another board.
 
+### 25
+“You shall make bars of acacia wood: five for the boards of the one side of the tabernacle, and five bars for the boards of the other side of the tabernacle, and five bars for the boards of the side of the tabernacle, for the far part westward.
+
 ### 26
-“You shall make bars of acacia wood: five for the boards of the one side of the tabernacle,
-
-### 27
-and five bars for the boards of the other side of the tabernacle, and five bars for the boards of the side of the tabernacle, for the far part westward.
-
-### 28
 The middle bar in the middle of the boards shall pass through from end to end.
 
-### 29
+### 27
 You shall overlay the boards with gold, and make their rings of gold for places for the bars: and you shall overlay the bars with gold.
 
-### 30
+### 28
 You shall set up the tabernacle according to the way that it was shown to you on the mountain.
 
-### 31
+### 29
 “You shall make a veil of blue, and purple, and scarlet, and fine twined linen, with cherubim. The work of the skillful workman shall it be made.
 
-### 32
+### 30
 You shall hang it on four pillars of acacia overlaid with gold; their hooks shall be of gold, on four sockets of silver.
 
-### 33
+### 31
 You shall hang up the veil under the clasps, and shall bring the ark of the testimony in there within the veil: and the veil shall separate the holy place from the most holy for you.
 
-### 34
+### 32
 You shall put the mercy seat on the ark of the testimony in the most holy place.
 
-### 35
+### 33
 You shall set the table outside the veil, and the lamp stand over against the table on the side of the tabernacle toward the south: and you shall put the table on the north side.
 
-### 36
+### 34
 “You shall make a screen for the door of the Tent, of blue, and purple, and scarlet, and fine twined linen, the work of the embroiderer.
 
-### 37
+### 35
 You shall make for the screen five pillars of acacia, and overlay them with gold: their hooks shall be of gold: and you shall cast five sockets of brass for them.

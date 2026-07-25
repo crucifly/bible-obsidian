@@ -33,46 +33,43 @@ My mouth shall be filled with your praise, with your honor all day long.
 Don’t reject me in my old age. Don’t forsake me when my strength fails.
 
 ### 10
-For my enemies talk about me. Those who watch for my soul conspire together,
+For my enemies talk about me. Those who watch for my soul conspire together, saying, “God has forsaken him. Pursue and take him, for no one will rescue him.”
 
 ### 11
-saying, “God has forsaken him. Pursue and take him, for no one will rescue him.”
-
-### 12
 God, don’t be far from me. My God, hurry to help me.
 
-### 13
+### 12
 Let my accusers be disappointed and consumed. Let them be covered with disgrace and scorn who want to harm me.
 
-### 14
+### 13
 But I will always hope, and will add to all of your praise.
 
-### 15
+### 14
 My mouth will tell about your righteousness, and of your salvation all day, though I don’t know its full measure.
 
-### 16
+### 15
 I will come with the mighty acts of the Lord Yahweh. I will make mention of your righteousness, even of yours alone.
 
-### 17
+### 16
 God, you have taught me from my youth. Until now, I have declared your wondrous works.
 
-### 18
+### 17
 Yes, even when I am old and gray-haired, God, don’t forsake me, until I have declared your strength to the next generation, your might to everyone who is to come.
 
-### 19
+### 18
 Your righteousness also, God, reaches to the heavens; you have done great things. God, who is like you?
 
-### 20
+### 19
 You, who have shown us many and bitter troubles, you will let me live. You will bring us up again from the depths of the earth.
 
-### 21
+### 20
 Increase my honor, and comfort me again.
 
-### 22
+### 21
 I will also praise you with the harp for your faithfulness, my God. I sing praises to you with the lyre, Holy One of Israel.
 
-### 23
+### 22
 My lips shall shout for joy! My soul, which you have redeemed, sings praises to you!
 
-### 24
+### 23
 My tongue will also talk about your righteousness all day long, for they are disappointed, and they are confounded, who want to harm me.

@@ -18,19 +18,16 @@ And they said to the Lord of the ages: ‘Lord of lords, God of gods, King of ki
 Thou hast made all things, and power over all things hast Thou: and all things are naked and open in Thy sight, and Thou seest all things, and nothing can hide itself from Thee.
 
 ### 5
-Thou seest what Azâzêl hath done, who hath taught all unrighteousness on earth and revealed the eternal secrets which were (preserved) in heaven, which men were striving to learn:
+Thou seest what Azâzêl hath done, who hath taught all unrighteousness on earth and revealed the eternal secrets which were (preserved) in heaven, which men were striving to learn: And Semjâzâ, to whom Thou hast given authority to bear rule over his associates.
 
 ### 6
-And Semjâzâ, to whom Thou hast given authority to bear rule over his associates.
-
-### 7
 And they have gone to the daughters of men upon the earth, and have slept with the women, and have defiled themselves, and revealed to them all kinds of sins.
 
-### 8
+### 7
 And the women have borne giants, and the whole earth has thereby been filled with blood and unrighteousness.
 
-### 9
+### 8
 And now, behold, the souls of those who have died are crying and making their suit to the gates of heaven, and their lamentations have ascended: and cannot cease because of the lawless deeds which are wrought on the earth.
 
-### 10
+### 9
 And Thou knowest all things before they come to pass, and Thou seest these things and Thou dost suffer them, and Thou dost not say to us what we are to do to them in regard to these.’

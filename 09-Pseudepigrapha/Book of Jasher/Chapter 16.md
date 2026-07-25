@@ -119,34 +119,19 @@ And Hagar at that time returned to her master's house, and at the end of days Ha
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_16&oldid=11445883"
 
 ### 37
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:44.
 
 ### 38
-This page was last edited on 30 June 2021, at 01:44.
-
-### 39
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 39
+Privacy policy Disclaimers
+
 ### 40
-Privacy policy
+Code of Conduct Developers
 
 ### 41
-Disclaimers
+Statistics Cookie statement
 
 ### 42
-Code of Conduct
-
-### 43
-Developers
-
-### 44
-Statistics
-
-### 45
-Cookie statement
-
-### 46
-Mobile view
-
-### 47
-Add topic
+Mobile view Add topic

@@ -33,13 +33,10 @@ Every daughter who possesses an inheritance in any tribe of the children of Isra
 So shall no inheritance move from one tribe to another tribe; for the tribes of the children of Israel shall each keep his own inheritance.’”
 
 ### 10
-The daughters of Zelophehad did as Yahweh commanded Moses:
+The daughters of Zelophehad did as Yahweh commanded Moses: for Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were married to their father’s brothers’ sons.
 
 ### 11
-for Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were married to their father’s brothers’ sons.
-
-### 12
 They were married into the families of the sons of Manasseh the son of Joseph. Their inheritance remained in the tribe of the family of their father.
 
-### 13
+### 12
 These are the commandments and the ordinances which Yahweh commanded by Moses to the children of Israel in the plains of Moab by the Jordan at Jericho.

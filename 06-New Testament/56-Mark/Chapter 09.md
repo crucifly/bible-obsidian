@@ -54,103 +54,88 @@ Immediately all the multitude, when they saw him, were greatly amazed, and runni
 He asked the scribes, “What are you asking them?”
 
 ### 17
-One of the multitude answered, “Teacher, I brought to you my son, who has a mute spirit;
+One of the multitude answered, “Teacher, I brought to you my son, who has a mute spirit; and wherever it seizes him, it throws him down, and he foams at the mouth, and grinds his teeth, and wastes away. I asked your disciples to cast it out, and they weren’t able.”
 
 ### 18
-and wherever it seizes him, it throws him down, and he foams at the mouth, and grinds his teeth, and wastes away. I asked your disciples to cast it out, and they weren’t able.”
-
-### 19
 He answered him, “Unbelieving generation, how long shall I be with you? How long shall I bear with you? Bring him to me.”
 
-### 20
+### 19
 They brought him to him, and when he saw him, immediately the spirit convulsed him, and he fell on the ground, wallowing and foaming at the mouth.
 
-### 21
+### 20
 He asked his father, “How long has it been since this has come to him?” He said, “From childhood.
 
-### 22
+### 21
 Often it has cast him both into the fire and into the water, to destroy him. But if you can do anything, have compassion on us, and help us.”
 
-### 23
+### 22
 Jesus said to him, “If you can believe, all things are possible to him who believes.”
 
-### 24
+### 23
 Immediately the father of the child cried out with tears, “I believe. Help my unbelief!”
 
-### 25
+### 24
 When Jesus saw that a multitude came running together, he rebuked the unclean spirit, saying to him, “You mute and deaf spirit, I command you, come out of him, and never enter him again!”
 
-### 26
+### 25
 After crying out and convulsing him greatly, it came out of him. The boy became like one dead; so much that most of them said, “He is dead.”
 
-### 27
+### 26
 But Jesus took him by the hand, and raised him up; and he arose.
 
-### 28
+### 27
 When he had come into the house, his disciples asked him privately, “Why couldn’t we cast it out?”
 
-### 29
+### 28
 He said to them, “This kind can come out by nothing, except by prayer and fasting.”
 
-### 30
+### 29
 They went out from there, and passed through Galilee. He didn’t want anyone to know it.
 
-### 31
+### 30
 For he was teaching his disciples, and said to them, “The Son of Man is being handed over to the hands of men, and they will kill him; and when he is killed, on the third day he will rise again.”
 
-### 32
+### 31
 But they didn’t understand the saying, and were afraid to ask him.
 
-### 33
+### 32
 He came to Capernaum, and when he was in the house he asked them, “What were you arguing among yourselves on the way?”
 
-### 34
+### 33
 But they were silent, for they had disputed one with another on the way about who was the greatest.
 
-### 35
+### 34
 He sat down, and called the twelve; and he said to them, “If any man wants to be first, he shall be last of all, and servant of all.”
 
+### 35
+He took a little child, and set him in the middle of them. Taking him in his arms, he said to them, “Whoever receives one such little child in my name, receives me, and whoever receives me, doesn’t receive me, but him who sent me.”
+
 ### 36
-He took a little child, and set him in the middle of them. Taking him in his arms, he said to them,
-
-### 37
-“Whoever receives one such little child in my name, receives me, and whoever receives me, doesn’t receive me, but him who sent me.”
-
-### 38
 John said to him, “Teacher, we saw someone who doesn’t follow us casting out demons in your name; and we forbade him, because he doesn’t follow us.”
 
-### 39
+### 37
 But Jesus said, “Don’t forbid him, for there is no one who will do a mighty work in my name, and be able quickly to speak evil of me.
 
-### 40
+### 38
 For whoever is not against us is on our side.
 
-### 41
+### 39
 For whoever will give you a cup of water to drink in my name, because you are Christ’s, most certainly I tell you, he will in no way lose his reward.
 
-### 42
+### 40
 Whoever will cause one of these little ones who believe in me to stumble, it would be better for him if he were thrown into the sea with a millstone hung around his neck.
 
+### 41
+If your hand causes you to stumble, cut it off. It is better for you to enter into life maimed, rather than having your two hands to go into Gehenna, into the unquenchable fire, ‘where their worm doesn’t die, and the fire is not quenched.’
+
+### 42
+If your foot causes you to stumble, cut it off. It is better for you to enter into life lame, rather than having your two feet to be cast into Gehenna, into the fire that will never be quenched— ‘where their worm doesn’t die, and the fire is not quenched.’
+
 ### 43
-If your hand causes you to stumble, cut it off. It is better for you to enter into life maimed, rather than having your two hands to go into Gehenna, into the unquenchable fire,
+If your eye causes you to stumble, cast it out. It is better for you to enter into God’s Kingdom with one eye, rather than having two eyes to be cast into the Gehenna of fire, ‘where their worm doesn’t die, and the fire is not quenched.’
 
 ### 44
-‘where their worm doesn’t die, and the fire is not quenched.’
-
-### 45
-If your foot causes you to stumble, cut it off. It is better for you to enter into life lame, rather than having your two feet to be cast into Gehenna, into the fire that will never be quenched—
-
-### 46
-‘where their worm doesn’t die, and the fire is not quenched.’
-
-### 47
-If your eye causes you to stumble, cast it out. It is better for you to enter into God’s Kingdom with one eye, rather than having two eyes to be cast into the Gehenna of fire,
-
-### 48
-‘where their worm doesn’t die, and the fire is not quenched.’
-
-### 49
 For everyone will be salted with fire, and every sacrifice will be seasoned with salt.
 
-### 50
+### 45
 Salt is good, but if the salt has lost its saltiness, with what will you season it? Have salt in yourselves, and be at peace with one another.”

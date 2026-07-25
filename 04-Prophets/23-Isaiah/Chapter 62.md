@@ -21,22 +21,16 @@ You will not be called Forsaken any more; nor will your land be called Desolate 
 For as a young man marries a virgin, so your sons will marry you. As a bridegroom rejoices over his bride, so your God will rejoice over you.
 
 ### 6
-I have set watchmen on your walls, Jerusalem. They will never be silent day nor night. You who call on Yahweh, take no rest,
+I have set watchmen on your walls, Jerusalem. They will never be silent day nor night. You who call on Yahweh, take no rest, and give him no rest, until he establishes, and until he makes Jerusalem a praise in the earth.
 
 ### 7
-and give him no rest, until he establishes, and until he makes Jerusalem a praise in the earth.
+Yahweh has sworn by his right hand, and by the arm of his strength, “Surely I will no more give your grain to be food for your enemies; and foreigners will not drink your new wine, for which you have labored; but those who have harvested it will eat it, and praise Yahweh; and those who have gathered it will drink it in the courts of my sanctuary.”
 
 ### 8
-Yahweh has sworn by his right hand, and by the arm of his strength, “Surely I will no more give your grain to be food for your enemies; and foreigners will not drink your new wine, for which you have labored;
-
-### 9
-but those who have harvested it will eat it, and praise Yahweh; and those who have gathered it will drink it in the courts of my sanctuary.”
-
-### 10
 Go through, go through the gates! Prepare the way of the people! Build up, build up the highway! Gather out the stones! Lift up a banner for the peoples.
 
-### 11
+### 9
 Behold, Yahweh has proclaimed to the end of the earth, “Say to the daughter of Zion, ‘Behold, your salvation comes. Behold, his reward is with him, and his recompense before him.’”
 
-### 12
+### 10
 They will call them The holy people, Yahweh’s redeemed. You will be called Sought out, A city not forsaken.

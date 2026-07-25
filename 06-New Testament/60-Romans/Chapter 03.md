@@ -42,58 +42,43 @@ There is no one who understands. There is no one who seeks after God.
 They have all turned away. They have together become unprofitable. There is no one who does good, no, not so much as one.”
 
 ### 13
-“Their throat is an open tomb. With their tongues they have used deceit.” “The poison of vipers is under their lips”;
+“Their throat is an open tomb. With their tongues they have used deceit.” “The poison of vipers is under their lips”; “whose mouth is full of cursing and bitterness.”
 
 ### 14
-“whose mouth is full of cursing and bitterness.”
-
-### 15
 “Their feet are swift to shed blood.
 
-### 16
+### 15
 Destruction and misery are in their ways.
 
-### 17
+### 16
 The way of peace, they haven’t known.”
 
-### 18
+### 17
 “There is no fear of God before their eyes.”
 
-### 19
+### 18
 Now we know that whatever things the law says, it speaks to those who are under the law, that every mouth may be closed, and all the world may be brought under the judgment of God.
 
-### 20
+### 19
 Because by the works of the law, no flesh will be justified in his sight. For through the law comes the knowledge of sin.
 
+### 20
+But now apart from the law, a righteousness of God has been revealed, being testified by the law and the prophets; even the righteousness of God through faith in Jesus Christ to all and on all those who believe. For there is no distinction,
+
 ### 21
-But now apart from the law, a righteousness of God has been revealed, being testified by the law and the prophets;
+for all have sinned, and fall short of the glory of God; being justified freely by his grace through the redemption that is in Christ Jesus;
 
 ### 22
-even the righteousness of God through faith in Jesus Christ to all and on all those who believe. For there is no distinction,
+whom God sent to be an atoning sacrifice, through faith in his blood, for a demonstration of his righteousness through the passing over of prior sins, in God’s forbearance; to demonstrate his righteousness at this present time; that he might himself be just, and the justifier of him who has faith in Jesus.
 
 ### 23
-for all have sinned, and fall short of the glory of God;
-
-### 24
-being justified freely by his grace through the redemption that is in Christ Jesus;
-
-### 25
-whom God sent to be an atoning sacrifice, through faith in his blood, for a demonstration of his righteousness through the passing over of prior sins, in God’s forbearance;
-
-### 26
-to demonstrate his righteousness at this present time; that he might himself be just, and the justifier of him who has faith in Jesus.
-
-### 27
 Where then is the boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith.
 
-### 28
+### 24
 We maintain therefore that a man is justified by faith apart from the works of the law.
 
-### 29
-Or is God the God of Jews only? Isn’t he the God of Gentiles also? Yes, of Gentiles also,
+### 25
+Or is God the God of Jews only? Isn’t he the God of Gentiles also? Yes, of Gentiles also, since indeed there is one God who will justify the circumcised by faith, and the uncircumcised through faith.
 
-### 30
-since indeed there is one God who will justify the circumcised by faith, and the uncircumcised through faith.
-
-### 31
+### 26
 Do we then nullify the law through faith? May it never be! No, we establish the law.

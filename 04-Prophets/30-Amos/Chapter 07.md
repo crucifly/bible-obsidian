@@ -39,19 +39,13 @@ Then Amaziah the priest of Bethel sent to Jeroboam king of Israel, saying, “Am
 For Amos says, ‘Jeroboam will die by the sword, and Israel shall surely be led away captive out of his land.’”
 
 ### 12
-Amaziah also said to Amos, “You seer, go, flee away into the land of Judah, and there eat bread, and prophesy there:
+Amaziah also said to Amos, “You seer, go, flee away into the land of Judah, and there eat bread, and prophesy there: but don’t prophesy again any more at Bethel; for it is the king’s sanctuary, and it is a royal house!”
 
 ### 13
-but don’t prophesy again any more at Bethel; for it is the king’s sanctuary, and it is a royal house!”
+Then Amos answered Amaziah, “I was no prophet, neither was I a prophet’s son; but I was a herdsman, and a farmer of sycamore figs; and Yahweh took me from following the flock, and Yahweh said to me, ‘Go, prophesy to my people Israel.’
 
 ### 14
-Then Amos answered Amaziah, “I was no prophet, neither was I a prophet’s son; but I was a herdsman, and a farmer of sycamore figs;
-
-### 15
-and Yahweh took me from following the flock, and Yahweh said to me, ‘Go, prophesy to my people Israel.’
-
-### 16
 Now therefore listen to Yahweh’s word: ‘You say, Don’t prophesy against Israel, and don’t preach against the house of Isaac.’
 
-### 17
+### 15
 Therefore Yahweh says: ‘Your wife shall be a prostitute in the city, and your sons and your daughters shall fall by the sword, and your land shall be divided by line; and you yourself shall die in a land that is unclean, and Israel shall surely be led away captive out of his land.’”

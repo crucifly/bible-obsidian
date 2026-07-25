@@ -6,79 +6,70 @@ canon: "Torah"
 # Exodus 20
 
 ### 1
-God spoke all these words, saying,
+God spoke all these words, saying, “I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage.
 
 ### 2
-“I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage.
-
-### 3
 “You shall have no other gods before me.
 
+### 3
+“You shall not make for yourselves an idol, nor any image of anything that is in the heavens above, or that is in the earth beneath, or that is in the water under the earth: you shall not bow yourself down to them, nor serve them, for I, Yahweh your God, am a jealous God, visiting the iniquity of the fathers on the children, on the third and on the fourth generation of those who hate me,
+
 ### 4
-“You shall not make for yourselves an idol, nor any image of anything that is in the heavens above, or that is in the earth beneath, or that is in the water under the earth:
-
-### 5
-you shall not bow yourself down to them, nor serve them, for I, Yahweh your God, am a jealous God, visiting the iniquity of the fathers on the children, on the third and on the fourth generation of those who hate me,
-
-### 6
 and showing loving kindness to thousands of those who love me and keep my commandments.
 
-### 7
+### 5
 “You shall not take the name of Yahweh your God in vain, for Yahweh will not hold him guiltless who takes his name in vain.
 
-### 8
+### 6
 “Remember the Sabbath day, to keep it holy.
 
-### 9
-You shall labor six days, and do all your work,
+### 7
+You shall labor six days, and do all your work, but the seventh day is a Sabbath to Yahweh your God. You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates;
 
-### 10
-but the seventh day is a Sabbath to Yahweh your God. You shall not do any work in it, you, nor your son, nor your daughter, your male servant, nor your female servant, nor your livestock, nor your stranger who is within your gates;
-
-### 11
+### 8
 for in six days Yahweh made heaven and earth, the sea, and all that is in them, and rested the seventh day; therefore Yahweh blessed the Sabbath day, and made it holy.
 
-### 12
+### 9
 “Honor your father and your mother, that your days may be long in the land which Yahweh your God gives you.
 
-### 13
+### 10
 “You shall not murder.
 
-### 14
+### 11
 “You shall not commit adultery.
 
-### 15
+### 12
 “You shall not steal.
 
-### 16
+### 13
 “You shall not give false testimony against your neighbor.
 
-### 17
+### 14
 “You shall not covet your neighbor’s house. You shall not covet your neighbor’s wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that is your neighbor’s.”
 
-### 18
+### 15
 All the people perceived the thunderings, the lightnings, the sound of the trumpet, and the mountain smoking. When the people saw it, they trembled, and stayed at a distance.
 
-### 19
+### 16
 They said to Moses, “Speak with us yourself, and we will listen; but don’t let God speak with us, lest we die.”
 
-### 20
+### 17
 Moses said to the people, “Don’t be afraid, for God has come to test you, and that his fear may be before you, that you won’t sin.”
 
-### 21
+### 18
 The people stayed at a distance, and Moses came near to the thick darkness where God was.
 
-### 22
+### 19
 Yahweh said to Moses, “This is what you shall tell the children of Israel: ‘You yourselves have seen that I have talked with you from heaven.
 
-### 23
+### 20
 You shall most certainly not make gods of silver or gods of gold for yourselves to be alongside me.
 
-### 24
+### 21
 You shall make an altar of earth for me, and shall sacrifice on it your burnt offerings and your peace offerings, your sheep and your cattle. In every place where I record my name I will come to you and I will bless you.
 
-### 25
+### 22
 If you make me an altar of stone, you shall not build it of cut stones; for if you lift up your tool on it, you have polluted it.
 
-### 26
+### 23
 You shall not go up by steps to my altar, that your nakedness may not be exposed to it.’

@@ -78,34 +78,31 @@ For they said to me, ‘Make us gods, which shall go before us. As for this Mose
 I said to them, ‘Whoever has any gold, let them take it off:’ so they gave it to me; and I threw it into the fire, and out came this calf.”
 
 ### 25
-When Moses saw that the people had broken loose, (for Aaron had let them loose for a derision among their enemies),
+When Moses saw that the people had broken loose, (for Aaron had let them loose for a derision among their enemies), then Moses stood in the gate of the camp, and said, “Whoever is on Yahweh’s side, come to me!” All the sons of Levi gathered themselves together to him.
 
 ### 26
-then Moses stood in the gate of the camp, and said, “Whoever is on Yahweh’s side, come to me!” All the sons of Levi gathered themselves together to him.
-
-### 27
 He said to them, “Yahweh says, the God of Israel, ‘Every man put his sword on his thigh, and go back and forth from gate to gate throughout the camp, and every man kill his brother, and every man his companion, and every man his neighbor.’”
 
-### 28
+### 27
 The sons of Levi did according to the word of Moses: and there fell of the people that day about three thousand men.
 
-### 29
+### 28
 Moses said, “Consecrate yourselves today to Yahweh, yes, every man against his son, and against his brother; that he may give you a blessing today.”
 
-### 30
+### 29
 On the next day, Moses said to the people, “You have sinned a great sin. Now I will go up to Yahweh. Perhaps I shall make atonement for your sin.”
 
-### 31
+### 30
 Moses returned to Yahweh, and said, “Oh, this people have sinned a great sin, and have made themselves gods of gold.
 
-### 32
+### 31
 Yet now, if you will, forgive their sin—and if not, please blot me out of your book which you have written.”
 
-### 33
+### 32
 Yahweh said to Moses, “Whoever has sinned against me, him will I blot out of my book.
 
-### 34
+### 33
 Now go, lead the people to the place of which I have spoken to you. Behold, my angel shall go before you. Nevertheless in the day when I punish, I will punish them for their sin.”
 
-### 35
+### 34
 Yahweh struck the people, because they made the calf, which Aaron made.

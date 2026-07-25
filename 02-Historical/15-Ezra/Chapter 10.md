@@ -24,115 +24,97 @@ Then Ezra arose, and made the chiefs of the priests, the Levites, and all Israel
 Then Ezra rose up from before God’s house, and went into the room of Jehohanan the son of Eliashib. When he came there, he ate no bread, nor drank water; for he mourned because of their trespass of the captivity.
 
 ### 7
-They made a proclamation throughout Judah and Jerusalem to all the children of the captivity, that they should gather themselves together to Jerusalem;
+They made a proclamation throughout Judah and Jerusalem to all the children of the captivity, that they should gather themselves together to Jerusalem; and that whoever didn’t come within three days, according to the counsel of the princes and the elders, all his possessions should be forfeited, and himself separated from the assembly of the captivity.
 
 ### 8
-and that whoever didn’t come within three days, according to the counsel of the princes and the elders, all his possessions should be forfeited, and himself separated from the assembly of the captivity.
-
-### 9
 Then all the men of Judah and Benjamin gathered themselves together to Jerusalem within the three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the wide place in front of God’s house, trembling because of this matter, and because of the great rain.
 
-### 10
+### 9
 Ezra the priest stood up and said to them, “You have trespassed, and have married foreign women, to increase the guilt of Israel.
 
-### 11
+### 10
 Now therefore make confession to Yahweh, the God of your fathers, and do his pleasure; and separate yourselves from the peoples of the land, and from the foreign women.”
 
-### 12
+### 11
 Then all the assembly answered with a loud voice, “As you have said concerning us, so must we do.
 
-### 13
+### 12
 But the people are many, and it is a time of much rain, and we are not able to stand outside. This is not a work of one day or two, for we have greatly transgressed in this matter.
 
-### 14
+### 13
 Now let our princes be appointed for all the assembly, and let all those who are in our cities who have married foreign women come at appointed times, and with them the elders of every city, and its judges, until the fierce wrath of our God is turned from us, until this matter is resolved.”
 
-### 15
+### 14
 Only Jonathan the son of Asahel and Jahzeiah the son of Tikvah stood up against this; and Meshullam and Shabbethai the Levite helped them.
 
-### 16
+### 15
 The children of the captivity did so. Ezra the priest, with certain heads of fathers’ households, after their fathers’ houses, and all of them by their names, were set apart; and they sat down in the first day of the tenth month to examine the matter.
 
-### 17
+### 16
 They finished with all the men who had married foreign women by the first day of the first month.
 
-### 18
+### 17
 Among the sons of the priests there were found who had married foreign women: of the sons of Jeshua, the son of Jozadak, and his brothers, Maaseiah, and Eliezer, and Jarib, and Gedaliah.
 
-### 19
+### 18
 They gave their hand that they would put away their wives; and being guilty, they offered a ram of the flock for their guilt.
 
-### 20
+### 19
 Of the sons of Immer: Hanani and Zebadiah.
 
-### 21
+### 20
 Of the sons of Harim: Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah.
 
-### 22
+### 21
 Of the sons of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.
 
-### 23
+### 22
 Of the Levites: Jozabad, and Shimei, and Kelaiah (also called Kelita), Pethahiah, Judah, and Eliezer.
 
-### 24
+### 23
 Of the singers: Eliashib. Of the gatekeepers: Shallum, and Telem, and Uri.
 
-### 25
+### 24
 Of Israel: Of the sons of Parosh: Ramiah, and Izziah, and Malchijah, and Mijamin, and Eleazar, and Malchijah, and Benaiah.
 
-### 26
+### 25
 Of the sons of Elam: Mattaniah, Zechariah, and Jehiel, and Abdi, and Jeremoth, and Elijah.
 
-### 27
+### 26
 Of the sons of Zattu: Elioenai, Eliashib, Mattaniah, and Jeremoth, and Zabad, and Aziza.
 
-### 28
+### 27
 Of the sons of Bebai: Jehohanan, Hananiah, Zabbai, Athlai.
 
-### 29
+### 28
 Of the sons of Bani: Meshullam, Malluch, and Adaiah, Jashub, and Sheal, Jeremoth.
 
-### 30
+### 29
 Of the sons of Pahathmoab: Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, and Binnui, and Manasseh.
 
+### 30
+Of the sons of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon, Benjamin, Malluch, Shemariah.
+
 ### 31
-Of the sons of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,
-
-### 32
-Benjamin, Malluch, Shemariah.
-
-### 33
 Of the sons of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, Shimei.
 
+### 32
+Of the sons of Bani: Maadai, Amram, and Uel, Benaiah, Bedeiah, Cheluhi,
+
+### 33
+Vaniah, Meremoth, Eliashib, Mattaniah, Mattenai, and Jaasu,
+
 ### 34
-Of the sons of Bani: Maadai, Amram, and Uel,
+and Bani, and Binnui, Shimei, and Shelemiah, and Nathan, and Adaiah,
 
 ### 35
-Benaiah, Bedeiah, Cheluhi,
+Machnadebai, Shashai, Sharai, Azarel, and Shelemiah, Shemariah,
 
 ### 36
-Vaniah, Meremoth, Eliashib,
-
-### 37
-Mattaniah, Mattenai, and Jaasu,
-
-### 38
-and Bani, and Binnui, Shimei,
-
-### 39
-and Shelemiah, and Nathan, and Adaiah,
-
-### 40
-Machnadebai, Shashai, Sharai,
-
-### 41
-Azarel, and Shelemiah, Shemariah,
-
-### 42
 Shallum, Amariah, Joseph.
 
-### 43
+### 37
 Of the sons of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Iddo, and Joel, Benaiah.
 
-### 44
+### 38
 All these had taken foreign wives; and some of them had wives by whom they had children.

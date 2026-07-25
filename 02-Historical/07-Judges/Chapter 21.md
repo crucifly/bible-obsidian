@@ -63,19 +63,16 @@ However we may not give them wives of our daughters, for the children of Israel 
 They said, “Behold, there is a feast of Yahweh from year to year in Shiloh, which is on the north of Bethel, on the east side of the highway that goes up from Bethel to Shechem, and on the south of Lebonah.”
 
 ### 20
-They commanded the children of Benjamin, saying, “Go and lie in wait in the vineyards,
+They commanded the children of Benjamin, saying, “Go and lie in wait in the vineyards, and see, and behold, if the daughters of Shiloh come out to dance in the dances, then come out of the vineyards, and each man catch his wife of the daughters of Shiloh, and go to the land of Benjamin.
 
 ### 21
-and see, and behold, if the daughters of Shiloh come out to dance in the dances, then come out of the vineyards, and each man catch his wife of the daughters of Shiloh, and go to the land of Benjamin.
-
-### 22
 It shall be, when their fathers or their brothers come to complain to us, that we will say to them, ‘Grant them graciously to us, because we didn’t take for each man his wife in battle, neither did you give them to them, otherwise you would now be guilty.’”
 
-### 23
+### 22
 The children of Benjamin did so, and took wives for themselves, according to their number, of those who danced, whom they carried off. They went and returned to their inheritance, built the cities, and lived in them.
 
-### 24
+### 23
 The children of Israel departed from there at that time, every man to his tribe and to his family, and they each went out from there to his own inheritance.
 
-### 25
+### 24
 In those days there was no king in Israel. Everyone did that which was right in his own eyes.

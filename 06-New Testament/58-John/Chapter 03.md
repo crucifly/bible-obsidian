@@ -45,70 +45,67 @@ If I told you earthly things and you don’t believe, how will you believe if I 
 No one has ascended into heaven, but he who descended out of heaven, the Son of Man, who is in heaven.
 
 ### 14
-As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up,
+As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, that whoever believes in him should not perish, but have eternal life.
 
 ### 15
-that whoever believes in him should not perish, but have eternal life.
-
-### 16
 For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.
 
-### 17
+### 16
 For God didn’t send his Son into the world to judge the world, but that the world should be saved through him.
 
-### 18
+### 17
 He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.
 
-### 19
+### 18
 This is the judgment, that the light has come into the world, and men loved the darkness rather than the light; for their works were evil.
 
-### 20
+### 19
 For everyone who does evil hates the light, and doesn’t come to the light, lest his works would be exposed.
 
-### 21
+### 20
 But he who does the truth comes to the light, that his works may be revealed, that they have been done in God.”
 
-### 22
+### 21
 After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized.
 
-### 23
+### 22
 John also was baptizing in Enon near Salim, because there was much water there. They came, and were baptized.
 
-### 24
+### 23
 For John was not yet thrown into prison.
 
-### 25
+### 24
 There arose therefore a questioning on the part of John’s disciples with some Jews about purification.
 
-### 26
+### 25
 They came to John, and said to him, “Rabbi, he who was with you beyond the Jordan, to whom you have testified, behold, the same baptizes, and everyone is coming to him.”
 
-### 27
+### 26
 John answered, “A man can receive nothing, unless it has been given him from heaven.
 
-### 28
+### 27
 You yourselves testify that I said, ‘I am not the Christ,’ but, ‘I have been sent before him.’
 
-### 29
+### 28
 He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. This, my joy, therefore is made full.
 
-### 30
+### 29
 He must increase, but I must decrease.
 
-### 31
+### 30
 He who comes from above is above all. He who is from the earth belongs to the earth, and speaks of the earth. He who comes from heaven is above all.
 
-### 32
+### 31
 What he has seen and heard, of that he testifies; and no one receives his witness.
 
-### 33
+### 32
 He who has received his witness has set his seal to this, that God is true.
 
-### 34
+### 33
 For he whom God has sent speaks the words of God; for God gives the Spirit without measure.
 
-### 35
+### 34
 The Father loves the Son, and has given all things into his hand.
 
-### 36
+### 35
 One who believes in the Son has eternal life, but one who disobeys the Son won’t see life, but the wrath of God remains on him.”

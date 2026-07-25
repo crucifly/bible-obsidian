@@ -18,13 +18,10 @@ Then Isaiah the prophet came to king Hezekiah, and asked him, “What did these 
 Then he asked, “What have they seen in your house?” Hezekiah answered, “They have seen all that is in my house. There is nothing among my treasures that I have not shown them.”
 
 ### 5
-Then Isaiah said to Hezekiah, “Hear the word of Yahweh of Armies:
+Then Isaiah said to Hezekiah, “Hear the word of Yahweh of Armies: ‘Behold, the days are coming when all that is in your house, and that which your fathers have stored up until today, will be carried to Babylon. Nothing will be left,’ says Yahweh.
 
 ### 6
-‘Behold, the days are coming when all that is in your house, and that which your fathers have stored up until today, will be carried to Babylon. Nothing will be left,’ says Yahweh.
-
-### 7
 ‘They will take away your sons who will issue from you, whom you shall father, and they will be eunuchs in the king of Babylon’s palace.’”
 
-### 8
+### 7
 Then Hezekiah said to Isaiah, “Yahweh’s word which you have spoken is good.” He said moreover, “For there will be peace and truth in my days.”

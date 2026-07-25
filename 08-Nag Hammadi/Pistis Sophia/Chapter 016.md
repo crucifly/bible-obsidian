@@ -12,12 +12,7 @@ translation: G.R.S. Mead
 **Chapter 16**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 16**
 
 ### 2
-Next
-
-**CHAPTER 16**
-
-### 3
 "It came to pass then, when I came into their region, that they mutinied and fought against the light. And I took the third of their power, in order that they should not be able to accomplish their evil deeds. And the Fate and the sphere, over which they rule, I have changed, and set them facing the left six months and accomplishing their influences, and I have set them turned another six months to the right and accomplishing their influences."

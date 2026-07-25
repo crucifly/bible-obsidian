@@ -145,34 +145,19 @@ And he said to them, Be fruitful and fill all the earth; become strong and incre
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_6&oldid=11479926"
 
 ### 45
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 5 July 2021, at 19:14.
 
 ### 46
-This page was last edited on 5 July 2021, at 19:14.
-
-### 47
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 47
+Privacy policy Disclaimers
+
 ### 48
-Privacy policy
+Code of Conduct Developers
 
 ### 49
-Disclaimers
+Statistics Cookie statement
 
 ### 50
-Code of Conduct
-
-### 51
-Developers
-
-### 52
-Statistics
-
-### 53
-Cookie statement
-
-### 54
-Mobile view
-
-### 55
-Add topic
+Mobile view Add topic

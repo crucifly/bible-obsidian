@@ -15,49 +15,46 @@ Yahweh’s word came to him in the days of Josiah the son of Amon, king of Judah
 It came also in the days of Jehoiakim the son of Josiah, king of Judah, to the end of the eleventh year of Zedekiah, the son of Josiah, king of Judah, to the carrying away of Jerusalem captive in the fifth month.
 
 ### 4
-Now Yahweh’s word came to me, saying,
+Now Yahweh’s word came to me, saying, “Before I formed you in the womb, I knew you. Before you were born, I sanctified you. I have appointed you a prophet to the nations.”
 
 ### 5
-“Before I formed you in the womb, I knew you. Before you were born, I sanctified you. I have appointed you a prophet to the nations.”
-
-### 6
 Then I said, “Ah, Lord Yahweh! Behold, I don’t know how to speak; for I am a child.”
 
-### 7
+### 6
 But Yahweh said to me, “Don’t say, ‘I am a child;’ for you must go to whomever I send you, and you must say whatever I command you.
 
-### 8
+### 7
 Don’t be afraid because of them, for I am with you to rescue you,” says Yahweh.
 
-### 9
+### 8
 Then Yahweh stretched out his hand, and touched my mouth. Then Yahweh said to me, “Behold, I have put my words in your mouth.
 
-### 10
+### 9
 Behold, I have today set you over the nations and over the kingdoms, to uproot and to tear down, to destroy and to overthrow, to build and to plant.”
 
-### 11
+### 10
 Moreover Yahweh’s word came to me, saying, “Jeremiah, what do you see?” I said, “I see a branch of an almond tree.”
 
-### 12
+### 11
 Then Yahweh said to me, “You have seen well; for I watch over my word to perform it.”
 
-### 13
+### 12
 Yahweh’s word came to me the second time, saying, “What do you see?” I said, “I see a boiling cauldron; and it is tipping away from the north.”
 
-### 14
+### 13
 Then Yahweh said to me, “Out of the north, evil will break out on all the inhabitants of the land.
 
-### 15
+### 14
 For, behold, I will call all the families of the kingdoms of the north,” says Yahweh. “They will come, and they will each set his throne at the entrance of the gates of Jerusalem, and against all its walls all around, and against all the cities of Judah.
 
-### 16
+### 15
 I will utter my judgments against them concerning all their wickedness, in that they have forsaken me, and have burned incense to other gods, and worshiped the works of their own hands.
 
-### 17
+### 16
 “You therefore put your belt on your waist, arise, and say to them all that I command you. Don’t be dismayed at them, lest I dismay you before them.
 
-### 18
+### 17
 For, behold, I have made you today a fortified city, an iron pillar, and bronze walls, against the whole land, against the kings of Judah, against its princes, against its priests, and against the people of the land.
 
-### 19
+### 18
 They will fight against you, but they will not prevail against you; for I am with you”, says Yahweh, “to rescue you.”

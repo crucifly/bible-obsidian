@@ -105,7 +105,4 @@ Gideon the son of Joash died in a good old age, and was buried in the tomb of Jo
 As soon as Gideon was dead, the children of Israel turned again, and played the prostitute following the Baals, and made Baal Berith their god.
 
 ### 34
-The children of Israel didn’t remember Yahweh their God, who had delivered them out of the hand of all their enemies on every side;
-
-### 35
-neither did they show kindness to the house of Jerubbaal, that is, Gideon, according to all the goodness which he had shown to Israel.
+The children of Israel didn’t remember Yahweh their God, who had delivered them out of the hand of all their enemies on every side; neither did they show kindness to the house of Jerubbaal, that is, Gideon, according to all the goodness which he had shown to Israel.

@@ -48,40 +48,34 @@ Take his garment when he puts up collateral for a stranger. Hold it for a waywar
 He who blesses his neighbor with a loud voice early in the morning, it will be taken as a curse by him.
 
 ### 15
-A continual dropping on a rainy day and a contentious wife are alike:
+A continual dropping on a rainy day and a contentious wife are alike: restraining her is like restraining the wind, or like grasping oil in his right hand.
 
 ### 16
-restraining her is like restraining the wind, or like grasping oil in his right hand.
-
-### 17
 Iron sharpens iron; so a man sharpens his friend’s countenance.
 
-### 18
+### 17
 Whoever tends the fig tree shall eat its fruit. He who looks after his master shall be honored.
 
-### 19
+### 18
 Like water reflects a face, so a man’s heart reflects the man.
 
-### 20
+### 19
 Sheol and Abaddon are never satisfied; and a man’s eyes are never satisfied.
 
-### 21
+### 20
 The crucible is for silver, and the furnace for gold; but man is refined by his praise.
 
-### 22
+### 21
 Though you grind a fool in a mortar with a pestle along with grain, yet his foolishness will not be removed from him.
 
+### 22
+Know well the state of your flocks, and pay attention to your herds: for riches are not forever, nor does the crown endure to all generations.
+
 ### 23
-Know well the state of your flocks, and pay attention to your herds:
-
-### 24
-for riches are not forever, nor does the crown endure to all generations.
-
-### 25
 The hay is removed, and the new growth appears, the grasses of the hills are gathered in.
 
-### 26
+### 24
 The lambs are for your clothing, and the goats are the price of a field.
 
-### 27
+### 25
 There will be plenty of goats’ milk for your food, for your family’s food, and for the nourishment of your servant girls.

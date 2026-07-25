@@ -78,7 +78,4 @@ And Ba'elunan, the son of Achbor died, and 'Adath reigned in his stead, and the 
 These are the kings who reigned in the land of Edom.
 
 ### 25
-The Book of Jubilees
-
-### 26
-Joseph set over Potiphar's house, 1-4. His purity and imprisonment, 5-13. Imprisonment of Pharaoh's chief butler and chief baker whose dreams Joseph interprets, 14-18. (Cf. Gen.xxxvii.2; xxxix.3-8, 12-15, 17-23; xl.1-5, 21-3; xli.1.)
+The Book of Jubilees Joseph set over Potiphar's house, 1-4. His purity and imprisonment, 5-13. Imprisonment of Pharaoh's chief butler and chief baker whose dreams Joseph interprets, 14-18. (Cf. Gen.xxxvii.2; xxxix.3-8, 12-15, 17-23; xl.1-5, 21-3; xli.1.)

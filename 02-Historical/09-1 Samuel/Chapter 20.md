@@ -45,88 +45,85 @@ Jonathan said to David, “By Yahweh, the God of Israel, when I have sounded my 
 Yahweh do so to Jonathan, and more also, should it please my father to do you evil, if I don’t disclose it to you, and send you away, that you may go in peace. May Yahweh be with you, as he has been with my father.
 
 ### 14
-You shall not only while yet I live show me the loving kindness of Yahweh, that I not die;
+You shall not only while yet I live show me the loving kindness of Yahweh, that I not die; but you shall also not cut off your kindness from my house forever; no, not when Yahweh has cut off every one of the enemies of David from the surface of the earth.”
 
 ### 15
-but you shall also not cut off your kindness from my house forever; no, not when Yahweh has cut off every one of the enemies of David from the surface of the earth.”
-
-### 16
 So Jonathan made a covenant with David’s house, saying, “Yahweh will require it at the hand of David’s enemies.”
 
-### 17
+### 16
 Jonathan caused David to swear again, for the love that he had to him; for he loved him as he loved his own soul.
 
-### 18
+### 17
 Then Jonathan said to him, “Tomorrow is the new moon, and you will be missed, because your seat will be empty.
 
-### 19
+### 18
 When you have stayed three days, go down quickly, and come to the place where you hid yourself when this started, and remain by the stone Ezel.
 
-### 20
+### 19
 I will shoot three arrows on its side, as though I shot at a mark.
 
-### 21
+### 20
 Behold, I will send the boy, saying, ‘Go, find the arrows!’ If I tell the boy, ‘Behold, the arrows are on this side of you. Take them;’ then come; for there is peace to you and no danger, as Yahweh lives.
 
-### 22
+### 21
 But if I say this to the boy, ‘Behold, the arrows are beyond you;’ then go your way; for Yahweh has sent you away.
 
-### 23
+### 22
 Concerning the matter which you and I have spoken of, behold, Yahweh is between you and me forever.”
 
-### 24
+### 23
 So David hid himself in the field. When the new moon had come, the king sat himself down to eat food.
 
-### 25
+### 24
 The king sat on his seat, as at other times, even on the seat by the wall; and Jonathan stood up, and Abner sat by Saul’s side, but David’s place was empty.
 
-### 26
+### 25
 Nevertheless Saul didn’t say anything that day, for he thought, “Something has happened to him. He is not clean. Surely he is not clean.”
 
-### 27
+### 26
 On the next day after the new moon, the second day, David’s place was empty. Saul said to Jonathan his son, “Why doesn’t the son of Jesse come to eat, either yesterday, or today?”
 
-### 28
+### 27
 Jonathan answered Saul, “David earnestly asked permission of me to go to Bethlehem.
 
-### 29
+### 28
 He said, ‘Please let me go, for our family has a sacrifice in the city. My brother has commanded me to be there. Now, if I have found favor in your eyes, please let me go away and see my brothers.’ Therefore he has not come to the king’s table.”
 
-### 30
+### 29
 Then Saul’s anger burned against Jonathan, and he said to him, “You son of a perverse rebellious woman, don’t I know that you have chosen the son of Jesse to your own shame, and to the shame of your mother’s nakedness?
 
-### 31
+### 30
 For as long as the son of Jesse lives on the earth, you will not be established, nor will your kingdom. Therefore now send and bring him to me, for he shall surely die!”
 
-### 32
+### 31
 Jonathan answered Saul his father, and said to him, “Why should he be put to death? What has he done?”
 
-### 33
+### 32
 Saul cast his spear at him to strike him. By this Jonathan knew that his father was determined to put David to death.
 
-### 34
+### 33
 So Jonathan arose from the table in fierce anger, and ate no food the second day of the month; for he was grieved for David, because his father had treated him shamefully.
 
-### 35
+### 34
 In the morning, Jonathan went out into the field at the time appointed with David, and a little boy with him.
 
-### 36
+### 35
 He said to his boy, “Run, find now the arrows which I shoot.” As the boy ran, he shot an arrow beyond him.
 
-### 37
+### 36
 When the boy had come to the place of the arrow which Jonathan had shot, Jonathan cried after the boy, and said, “Isn’t the arrow beyond you?”
 
-### 38
+### 37
 Jonathan cried after the boy, “Go fast! Hurry! Don’t delay!” Jonathan’s boy gathered up the arrows, and came to his master.
 
-### 39
+### 38
 But the boy didn’t know anything. Only Jonathan and David knew the matter.
 
-### 40
+### 39
 Jonathan gave his weapons to his boy, and said to him, “Go, carry them to the city.”
 
-### 41
+### 40
 As soon as the boy was gone, David arose out of the south, and fell on his face to the ground, and bowed himself three times. They kissed one another, and wept one with another, and David wept the most.
 
-### 42
+### 41
 Jonathan said to David, “Go in peace, because we have both sworn in Yahweh’s name, saying, ‘Yahweh is between me and you, and between my offspring and your offspring, forever.’” He arose and departed; and Jonathan went into the city.

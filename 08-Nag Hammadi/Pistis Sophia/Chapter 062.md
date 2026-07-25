@@ -12,36 +12,25 @@ translation: G.R.S. Mead
 **Chapter 62**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 62**
 
 ### 2
-Next
-
-**CHAPTER 62**
-
-### 3
 The other Mary came forward and said: "My Lord, bear with me and be not wroth with me. Yea, from the moment when thy mother spake with thee concerning the solution of these words, my power disquieted me to come forward and like-wise to speak the solution of these words."
 
-### 4
+### 3
 Jesus said unto her: "I bid thee speak their solution."
 
+### 4
+Mary said: "My Lord, 'Grace and truth met together,'--'grace' then is the spirit who hath Of the spiritual and material bodies of Jesus.
+
 ### 5
-Mary said: "My Lord, 'Grace and truth met together,'--'grace' then is the spirit who hath
-
-### 6
-Of the spiritual and material bodies of Jesus.
-
-### 7
 The other Mary further interpreteth the same scripture from the baptism of Jesus.come upon thee, when thou didst receive the baptism from John. 'Grace' then is the godly spirit who hath come upon thee; he hath had mercy on the race of men, hath come down and hath met with the power of Sabaōth, the Good which is in thee and which hath made proclamation concerning the regions of Truth. It hath said again: 'Righteousness and peace kissed each other,'--'righteousness' then is the spirit of the Light, which did come upon thee and hath brought the mysteries of the height, to give them unto the race of men. 'Peace' on the other hand is the power of Sabaōth, the Good, which is in thee,--he who hath baptized and hath forgiven the race of men,--and it hath made them at peace with the sons of the Light. And moreover as thy power hath said through David: 'Truth sprouted forth out of the earth,'--that is the power of Sabaōth, the Good, which sprouted forth out of Mary, thy mother, the dweller on earth. 'Righteousness,' which 'looked down from heaven,' on the other hand is the spirit in the height who hath brought all mysteries of the height and given them to the race of men; and they have become righteous and good, and have inherited the Light-kingdom."
 
-### 8
+### 6
 And it came to pass, when Jesus had heard Mary speak these words, that he said: "Well said, Mary, inheritress of the Light."
 
-### 9
-And Mary, the mother of Jesus, again came forward, fell down at his feet, kissed them and said: "My Lord, my son and my Saviour, be not wroth with me, but pardon me, that I may once more speak the solution of these words. 'Grace and truth met together,'--it is I, Mary,
+### 7
+And Mary, the mother of Jesus, again came forward, fell down at his feet, kissed them and said: "My Lord, my son and my Saviour, be not wroth with me, but pardon me, that I may once more speak the solution of these words. 'Grace and truth met together,'--it is I, Mary, Mary, the mother, again further interpreteth the same scripture from the meeting of herself with Elizabeth, mother of John the Baptizer.thy mother, and Elizabeth, mother of John, whom I have met. 'Grace' then is the power of Sabaōth in me, which went forth out of me, which thou art. Thou hast had mercy on the whole race of men. 'Truth' on the other hand is the power in Elizabeth, which is John, who did come and hath made proclamation concerning the way of Truth, which thou art,--who hath made proclamation before thee. And again, 'Grace and truth met together,'--that is thou, my Lord, thou who didst meet John on the day when thou hadst to receive the baptism. And again thou and John are 'Righteousness and peace kissed Of the incarnation of Jesus. each other.'--'Truth hath sprouted forth out of the earth, and righteousness looked down from heaven,'--this is, during the time when thou didst minister unto thyself, thou didst have the form of Gabriēl, thou didst look down upon me from heaven and speak with me. And when thou hadst spoken with me, thou didst sprout up in me,--that is the 'truth,' that is the power of Sabaōth, the Good, which is in thy material body, that is the 'truth' which 'sprouted up out of the earth.'"
 
-### 10
-Mary, the mother, again further interpreteth the same scripture from the meeting of herself with Elizabeth, mother of John the Baptizer.thy mother, and Elizabeth, mother of John, whom I have met. 'Grace' then is the power of Sabaōth in me, which went forth out of me, which thou art. Thou hast had mercy on the whole race of men. 'Truth' on the other hand is the power in Elizabeth, which is John, who did come and hath made proclamation concerning the way of Truth, which thou art,--who hath made proclamation before thee. And again, 'Grace and truth met together,'--that is thou, my Lord, thou who didst meet John on the day when thou hadst to receive the baptism. And again thou and John are 'Righteousness and peace kissed Of the incarnation of Jesus. each other.'--'Truth hath sprouted forth out of the earth, and righteousness looked down from heaven,'--this is, during the time when thou didst minister unto thyself, thou didst have the form of Gabriēl, thou didst look down upon me from heaven and speak with me. And when thou hadst spoken with me, thou didst sprout up in me,--that is the 'truth,' that is the power of Sabaōth, the Good, which is in thy material body, that is the 'truth' which 'sprouted up out of the earth.'"
-
-### 11
+### 8
 It came to pass then, when Jesus had heard his mother Mary speak these words, that he said: "Well said, and finely. This is the solution of all the words concerning which my light-power hath prophesied aforetime through the prophet David."

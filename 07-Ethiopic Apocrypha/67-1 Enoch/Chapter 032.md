@@ -6,22 +6,16 @@ canon: "Ethiopic Apocrypha"
 # 1 Enoch 32
 
 ### 1
-E
+E To the north-east I beheld seven mountains full of choice nard and mastic and cinnamon and pepper.
 
 ### 2
-To the north-east I beheld seven mountains full of choice nard and mastic and cinnamon and pepper.
+And thence I went over the summits of ⌈all⌉ these mountains, far towards the east ⌈of the earth⌉, and passed above the Erythraean sea and went far from it, and passed over ⌈⌈the angel⌉⌉ Zotîêl. E And I came to the Garden of Righteousness, and from afar off trees more numerous than these trees and great--†two† trees there, very great, beautiful, and glorious, and magnificent, and the tree of knowledge, whose holy fruit they eat and know great wisdom.
 
 ### 3
-And thence I went over the summits of ⌈all⌉ these mountains, far towards the east ⌈of the earth⌉, and passed above the Erythraean sea and went far from it, and passed over ⌈⌈the angel⌉⌉ Zotîêl. E
-
-### 4
-And I came to the Garden of Righteousness, and from afar off trees more numerous than these trees and great--†two† trees there, very great, beautiful, and glorious, and magnificent, and the tree of knowledge, whose holy fruit they eat and know great wisdom.
-
-### 5
 ⌈That tree is in height like the fir, and its leaves are⌉ like (those of) the Carob tree: and its fruit is like the clusters of the vine, very beautiful: and the fragrance of the tree penetrates afar.
 
-### 6
+### 4
 Then I said: ‘⌈How⌉ beautiful is the tree, and how attractive is its look!’
 
-### 7
+### 5
 Then Raphael the holy angel, who was with me, answered me ⌈⌈and said⌉⌉: ‘This is the tree of wisdom, of which thy father old (in years) and thy aged mother, who were before thee, have eaten, and they learnt wisdom and their eyes were opened, and they knew that they were naked and they were driven out of the garden.’

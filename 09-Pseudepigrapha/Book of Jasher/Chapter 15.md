@@ -152,34 +152,19 @@ And Abram dwelt in the plain of Mamre, which is in Hebron, and he pitched his te
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_15&oldid=11445881"
 
 ### 48
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:44.
 
 ### 49
-This page was last edited on 30 June 2021, at 01:44.
-
-### 50
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 50
+Privacy policy Disclaimers
+
 ### 51
-Privacy policy
+Code of Conduct Developers
 
 ### 52
-Disclaimers
+Statistics Cookie statement
 
 ### 53
-Code of Conduct
-
-### 54
-Developers
-
-### 55
-Statistics
-
-### 56
-Cookie statement
-
-### 57
-Mobile view
-
-### 58
-Add topic
+Mobile view Add topic

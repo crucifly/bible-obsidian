@@ -36,67 +36,49 @@ He was a mighty hunter before Yahweh. Therefore it is said, “like Nimrod, a mi
 The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.
 
 ### 11
-Out of that land he went into Assyria, and built Nineveh, Rehoboth Ir, Calah,
+Out of that land he went into Assyria, and built Nineveh, Rehoboth Ir, Calah, and Resen between Nineveh and the great city Calah.
 
 ### 12
-and Resen between Nineveh and the great city Calah.
+Mizraim became the father of Ludim, Anamim, Lehabim, Naphtuhim, Pathrusim, Casluhim (which the Philistines descended from), and Caphtorim.
 
 ### 13
-Mizraim became the father of Ludim, Anamim, Lehabim, Naphtuhim,
+Canaan became the father of Sidon (his firstborn), Heth, the Jebusites, the Amorites, the Girgashites,
 
 ### 14
-Pathrusim, Casluhim (which the Philistines descended from), and Caphtorim.
+the Hivites, the Arkites, the Sinites, the Arvadites, the Zemarites, and the Hamathites. Afterward the families of the Canaanites were spread abroad.
 
 ### 15
-Canaan became the father of Sidon (his firstborn), Heth,
-
-### 16
-the Jebusites, the Amorites, the Girgashites,
-
-### 17
-the Hivites, the Arkites, the Sinites,
-
-### 18
-the Arvadites, the Zemarites, and the Hamathites. Afterward the families of the Canaanites were spread abroad.
-
-### 19
 The border of the Canaanites was from Sidon—as you go toward Gerar—to Gaza—as you go toward Sodom, Gomorrah, Admah, and Zeboiim—to Lasha.
 
-### 20
+### 16
 These are the sons of Ham, after their families, according to their languages, in their lands and their nations.
 
-### 21
+### 17
 Children were also born to Shem, the father of all the children of Eber, the elder brother of Japheth.
 
-### 22
+### 18
 The sons of Shem were: Elam, Asshur, Arpachshad, Lud, and Aram.
 
-### 23
+### 19
 The sons of Aram were: Uz, Hul, Gether, and Mash.
 
-### 24
+### 20
 Arpachshad became the father of Shelah. Shelah became the father of Eber.
 
-### 25
+### 21
 To Eber were born two sons. The name of the one was Peleg, for in his days the earth was divided. His brother’s name was Joktan.
 
-### 26
-Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,
+### 22
+Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah, Hadoram, Uzal, Diklah,
 
-### 27
-Hadoram, Uzal, Diklah,
+### 23
+Obal, Abimael, Sheba, Ophir, Havilah, and Jobab. All these were the sons of Joktan.
 
-### 28
-Obal, Abimael, Sheba,
-
-### 29
-Ophir, Havilah, and Jobab. All these were the sons of Joktan.
-
-### 30
+### 24
 Their dwelling extended from Mesha, as you go toward Sephar, the mountain of the east.
 
-### 31
+### 25
 These are the sons of Shem, by their families, according to their languages, lands, and nations.
 
-### 32
+### 26
 These are the families of the sons of Noah, by their generations, according to their nations. The nations divided from these in the earth after the flood.

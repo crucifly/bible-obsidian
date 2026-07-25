@@ -18,7 +18,4 @@ And I asked the angel who went with me and showed me all the hidden things, conc
 And he shall put down the countenance of the strong, And shall fill them with shame. And darkness shall be their dwelling, And worms shall be their bed, And they shall have no hope of rising from their beds, Because they do not extol the name of the Lord of Spirits.
 
 ### 5
-And these are they who †judge† the stars of heaven, [And raise their hands against the Most High], †And tread upon the earth and dwell upon it†. And all their deeds manifest unrighteousness, And their power rests upon their riches, And their faith is in the †gods† which they have made with their hands, And they deny the name of the Lord of Spirits,
-
-### 6
-And they persecute the houses of His congregations, And the faithful who hang upon the name of the Lord of Spirits.
+And these are they who †judge† the stars of heaven, [And raise their hands against the Most High], †And tread upon the earth and dwell upon it†. And all their deeds manifest unrighteousness, And their power rests upon their riches, And their faith is in the †gods† which they have made with their hands, And they deny the name of the Lord of Spirits, And they persecute the houses of His congregations, And the faithful who hang upon the name of the Lord of Spirits.

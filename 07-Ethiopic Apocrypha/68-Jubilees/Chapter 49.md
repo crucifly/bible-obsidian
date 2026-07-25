@@ -75,7 +75,4 @@ And do thou, Moses, command the children of Israel to observe the ordinances of 
 For ye celebrated this festival with haste when ye went forth from Egypt till ye entered into the wilderness of Shur; for on the shore of the sea ye completed it.
 
 ### 24
-The Book of Jubilees
-
-### 25
-Laws regarding the jubilees, 1-5, and the Sabbath, 6-13.
+The Book of Jubilees Laws regarding the jubilees, 1-5, and the Sabbath, 6-13.

@@ -108,34 +108,31 @@ Thus Isaiah the Prophet prophesied and said, “The Lord of hosts hath planned t
 Thus David prophesied, and said, “Sing ye unto God Who dwelleth in Zion, and declare ye to the nation His work.”
 
 ### 35
-Thus Solomon his son prophesied and spake concerning our Saviour Emmanuel, the Sun of righteousness, “He brought Me forth before the hills, and before He made the lands and set them in order, and founded Me before the world; before He made the earth, and before
+Thus Solomon his son prophesied and spake concerning our Saviour Emmanuel, the Sun of righteousness, “He brought Me forth before the hills, and before He made the lands and set them in order, and founded Me before the world; before He made the earth, and before He made the abysses, and before the waterfloods came forth, and the beauty of the flowers appeared, and before the winds blew, God created His work before His face, and I existed conjointly with My Father.”
 
 ### 36
-He made the abysses, and before the waterfloods came forth, and the beauty of the flowers appeared, and before the winds blew, God created His work before His face, and I existed conjointly with My Father.”
-
-### 37
 Thus his father David prophesied and said, “His name was before the sun, and before the moon, generation to generation.”
 
-### 38
+### 37
 Thus his son Solomon prophesied and said, “When He made strong the firmament above the clouds, and when He set in position the walls of the boundaries of the heavens, and when He set the sea in its appointed place, and before He founded His throne above the winds, and when He made strong the foundations of the earth, I existed conjointly with Him. I was that wherein He rejoiced continually, and day by day, and I exulted with Him at all times before His face.”
 
-### 39
+### 38
 Thus Job the Prophet prophesied and said, “The face of my God is in the East, and His light is before [that of] the sun, and the nations put their trust in His Name.”
 
-### 40
+### 39
 Thus Isaiah the Prophet prophesied and said, “Remember ye not the things of the past, and think not about the things of olden time; behold, I will make a new thing, which shall now spring up, so that ye may know that I make a road through the desert and water floods in the wilderness; and the beasts of the field shall follow after Me, and the young birds, and the ostriches. For I have given water in the desert, and made streams of water to flow in the wilderness, so that I may give drink to My people and to My chosen ones whom I have gotten, so that they may declare My glory, and perform My commandment.”
 
-### 41
+### 40
 Thus Solomon prophesied and said, “Who hath gone up into heaven and come down? And who hath gathered together the winds in his bosom? And who hath collected the waters in his garment? And who hath measured the waters of the sea in his hand, and the heavens on the palm of his hand? And what is his name and what is the name of his son?”
 
-### 42
+### 41
 Thus Micah the Prophet prophesied and said unto the Jews, “I have no pleasure in you, saith God Who ruleth all things. And I have no pleasure in your offerings, and I will accept no gift from your hands. For from the rising of the sun to the setting thereof shall My Name be praised among all peoples, and in all countries incense shall be offered up to my great Name among all peoples, saith Almighty God.”
 
-### 43
+### 42
 And again Micah the Prophet said, “A new covenant shall appear upon the mountain of God, and it shall be prepared upon the tops of the mountains, and it shall be exalted above the hills, and people shall say, ‘Come ye, let us go up into the mountain of God.’ And many nations shall go thereto and shall say, ‘Come ye, let us go up into the mountain of God, and they shall declare unto us His way, and we will walk therein.’”
 
-### 44
+### 43
 Thus David the Prophet prophesied and said, “Hearken unto Me, O My people, and I will speak unto thee, Israel, and will bring testimony to thee; I am God, thy God.”
 
-### 45
+### 44
 Thus Moses the Prophet prophesied and said concerning the Trinity, “Hear, O Israel, the Lord thy God is One.” And this is to be explained thus Father, and Son, and Holy Spirit are One God, Whose kingdom is one, Whose dominion is one, and as One men shall worship Them in the heavens and in the earth, in the sea and in the abysses. And to Him be praise for ever and ever! Amen.

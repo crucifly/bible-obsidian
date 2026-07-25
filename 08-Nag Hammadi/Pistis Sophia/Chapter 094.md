@@ -12,156 +12,145 @@ translation: G.R.S. Mead
 **Chapter 94**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 93**
 
 ### 2
-Next
-
-**CHAPTER 93**
-
-### 3
 Jesus continued again and said unto his disciples: "Yet further, O my disciples and companions and brethren, let every one be sober in the spirit which is in him, let him understand and comprehend all the words which I shall say unto you; for from now on will I begin to discourse with you concerning all the gnoses of that Ineffable.
 
-### 4
+### 3
 "That mystery knoweth why the west hath arisen and why the east hath arisen.
 
-### 5
+### 4
 "And that mystery knoweth why the south hath arisen and why the north hath arisen.
 
-### 6
+### 5
 Yet further, O my disciples, hearken and continue to be sober and hearken to the total gnosis of the mystery of the Ineffable.
 
-### 7
+### 6
 "That mystery knoweth why the demons have arisen and why mankind hath arisen.
 
-### 8
+### 7
 "And that mystery knoweth why the heat hath arisen and why the pleasant air hath arisen.
 
-### 9
+### 8
 "And that mystery knoweth why the stars have arisen and why the clouds have arisen. "And that mystery knoweth why the earth became deep and why the water came thereon.
 
-### 10
+### 9
 "And that mystery knoweth why the earth became dry and why the water came thereon.
 
-### 11
+### 10
 "And that mystery knoweth why famine hath arisen and why superfluity hath arisen.
 
+### 11
+"And that mystery knoweth why the hoar-frost hath arisen and why the healthful dew hath arisen.
+
 ### 12
-"And that mystery knoweth why the hoar-frost
-
-### 13
-hath arisen and why the healthful dew hath arisen.
-
-### 14
 "And that mystery knoweth why the dust hath arisen and why the delightsome freshness hath arisen.
 
-### 15
+### 13
 "And that mystery knoweth why the hail hath arisen and why the pleasant snow hath arisen.
 
-### 16
+### 14
 "And that mystery knoweth why the west wind hath arisen and why the east wind hath arisen.
 
-### 17
+### 15
 ("And that mystery knoweth why the fire of the height hath arisen and why the waters have arisen.
 
-### 18
+### 16
 "And that mystery knoweth why the east wind hath arisen. [? miscopied.])
 
-### 19
+### 17
 "And that mystery knoweth why the south wind hath arisen and why the north wind hath arisen.
 
-### 20
+### 18
 "And that mystery knoweth why the stars of the heaven and the disks of the light-givers have arisen and why the firmament with all its veils hath arisen.
 
-### 21
+### 19
 "And that mystery knoweth why the rulers of the spheres have arisen and why the sphere with all its regions hath arisen.
 
-### 22
+### 20
 "And that mystery knoweth why the rulers of the æons have arisen and why the æons with their veils have arisen.
 
-### 23
+### 21
 "And that mystery knoweth why the tyrant rulers of the æons have arisen and why the rulers who have repented have arisen.
 
-### 24
+### 22
 "And that mystery knoweth why the servitors have arisen and why the decans have arisen.
 
-### 25
-"And that mystery knoweth why the angels
+### 23
+"And that mystery knoweth why the angels have arisen and why the archangels have arisen.
 
-### 26
-have arisen and why the archangels have arisen.
-
-### 27
+### 24
 "And that mystery knoweth why the lords have arisen and why the gods have arisen.
 
-### 28
+### 25
 "And that mystery knoweth why the jealousy in the height hath arisen and why concord hath arisen.
 
-### 29
+### 26
 "And that mystery knoweth why hate hath arisen and why love hath arisen.
 
-### 30
+### 27
 "And that mystery knoweth why discord hath arisen and why concord hath arisen.
 
-### 31
+### 28
 "And that mystery knoweth why avarice hath arisen and why renunciation of all hath arisen and love of possessions hath arisen.
 
-### 32
+### 29
 "And that mystery knoweth why love of the belly hath arisen and why satiety hath arisen.
 
-### 33
+### 30
 "And that mystery knoweth why the paired have arisen and why the unpaired have arisen.
 
-### 34
+### 31
 "And that mystery knoweth why impiety hath arisen and why fear of God hath arisen.
 
-### 35
+### 32
 "And that mystery knoweth why the light-givers have arisen and why the sparks have arisen.
 
-### 36
+### 33
 "And that mystery knoweth why the thrice-powerful have arisen and why the invisibles have arisen.
 
-### 37
+### 34
 "And that mystery knoweth why the fore-fathers have arisen and why the purities have arisen.
 
-### 38
+### 35
 "And that mystery knoweth why the great self-willed hath arisen and why his faithful have arisen.
 
-### 39
+### 36
 "And that mystery knoweth why the great triple-powerful hath arisen and why the great invisible forefather hath arisen.
 
-### 40
+### 37
 "And that mystery knoweth why the thirteenth æon hath arisen and why the region of those of the Midst hath arisen.
 
-### 41
+### 38
 "And that mystery knoweth why receivers of the Midst have arisen and why the virgins of the light have arisen.
 
-### 42
+### 39
 "And that mystery knoweth why the ministers of the Midst have arisen and why the angels of the Midst have arisen.
 
-### 43
+### 40
 "And that mystery knoweth why the light-land hath arisen and why the great receiver of the light hath arisen.
 
-### 44
+### 41
 "And that mystery knoweth why the guards of the region of the Right have arisen and why the leaders of them have arisen.
 
-### 45
+### 42
 "And that mystery knoweth why the gate of life hath arisen and why Sabaōth, the Good, hath arisen.
 
-### 46
+### 43
 "And that mystery knoweth why the region of the Right hath arisen and why the light-land, which is the treasury of the light, hath arisen.
 
-### 47
+### 44
 "And that mystery knoweth why the emanations of the light have arisen and why the twelve saviours have arisen.
 
-### 48
+### 45
 "And that mystery knoweth why the three gates of the treasury of the light have arisen and why the nine guards have arisen.
 
-### 49
+### 46
 "And that mystery knoweth why the twin-saviours have arisen and why the three Amēns have arisen.
 
-### 50
+### 47
 "And that mystery knoweth why the five Trees have arisen and why the seven Amēns have arisen.
 
-### 51
+### 48
 "And that mystery knoweth why the Mixture which existeth not, hath arisen and why it is purified."

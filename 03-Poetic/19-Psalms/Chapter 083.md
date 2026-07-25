@@ -21,40 +21,25 @@ They conspire with cunning against your people. They plot against your cherished
 For they have conspired together with one mind. They form an alliance against you.
 
 ### 6
-The tents of Edom and the Ishmaelites; Moab, and the Hagrites;
+The tents of Edom and the Ishmaelites; Moab, and the Hagrites; Gebal, Ammon, and Amalek; Philistia with the inhabitants of Tyre;
 
 ### 7
-Gebal, Ammon, and Amalek; Philistia with the inhabitants of Tyre;
-
-### 8
 Assyria also is joined with them. They have helped the children of Lot..
 
+### 8
+Do to them as you did to Midian, as to Sisera, as to Jabin, at the river Kishon; who perished at Endor, who became as dung for the earth.
+
 ### 9
-Do to them as you did to Midian, as to Sisera, as to Jabin, at the river Kishon;
+Make their nobles like Oreb and Zeeb; yes, all their princes like Zebah and Zalmunna; who said, “Let us take possession of God’s pasture lands.”
 
 ### 10
-who perished at Endor, who became as dung for the earth.
-
-### 11
-Make their nobles like Oreb and Zeeb; yes, all their princes like Zebah and Zalmunna;
-
-### 12
-who said, “Let us take possession of God’s pasture lands.”
-
-### 13
 My God, make them like tumbleweed; like chaff before the wind.
 
-### 14
-As the fire that burns the forest, as the flame that sets the mountains on fire,
+### 11
+As the fire that burns the forest, as the flame that sets the mountains on fire, so pursue them with your tempest, and terrify them with your storm.
 
-### 15
-so pursue them with your tempest, and terrify them with your storm.
-
-### 16
+### 12
 Fill their faces with confusion, that they may seek your name, Yahweh.
 
-### 17
-Let them be disappointed and dismayed forever. Yes, let them be confounded and perish;
-
-### 18
-that they may know that you alone, whose name is Yahweh, are the Most High over all the earth.
+### 13
+Let them be disappointed and dismayed forever. Yes, let them be confounded and perish; that they may know that you alone, whose name is Yahweh, are the Most High over all the earth.

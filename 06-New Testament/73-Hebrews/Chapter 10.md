@@ -27,97 +27,73 @@ You had no pleasure in whole burnt offerings and sacrifices for sin.
 Then I said, ‘Behold, I have come (in the scroll of the book it is written of me) to do your will, O God.’”
 
 ### 8
-Previously saying, “Sacrifices and offerings and whole burnt offerings and sacrifices for sin you didn’t desire, neither had pleasure in them” (those which are offered according to the law),
+Previously saying, “Sacrifices and offerings and whole burnt offerings and sacrifices for sin you didn’t desire, neither had pleasure in them” (those which are offered according to the law), then he has said, “Behold, I have come to do your will.” He takes away the first, that he may establish the second,
 
 ### 9
-then he has said, “Behold, I have come to do your will.” He takes away the first, that he may establish the second,
-
-### 10
 by which will we have been sanctified through the offering of the body of Jesus Christ once for all.
 
+### 10
+Every priest indeed stands day by day serving and often offering the same sacrifices, which can never take away sins, but he, when he had offered one sacrifice for sins forever, sat down on the right hand of God;
+
 ### 11
-Every priest indeed stands day by day serving and often offering the same sacrifices, which can never take away sins,
-
-### 12
-but he, when he had offered one sacrifice for sins forever, sat down on the right hand of God;
-
-### 13
 from that time waiting until his enemies are made the footstool of his feet.
 
-### 14
+### 12
 For by one offering he has perfected forever those who are being sanctified.
 
-### 15
-The Holy Spirit also testifies to us, for after saying,
+### 13
+The Holy Spirit also testifies to us, for after saying, “This is the covenant that I will make with them: ‘After those days,’ says the Lord, ‘I will put my laws on their heart, I will also write them on their mind;’” then he says,
 
-### 16
-“This is the covenant that I will make with them: ‘After those days,’ says the Lord, ‘I will put my laws on their heart, I will also write them on their mind;’” then he says,
-
-### 17
+### 14
 “I will remember their sins and their iniquities no more.”
 
-### 18
+### 15
 Now where remission of these is, there is no more offering for sin.
 
-### 19
-Having therefore, brothers, boldness to enter into the holy place by the blood of Jesus,
+### 16
+Having therefore, brothers, boldness to enter into the holy place by the blood of Jesus, by the way which he dedicated for us, a new and living way, through the veil, that is to say, his flesh;
 
-### 20
-by the way which he dedicated for us, a new and living way, through the veil, that is to say, his flesh;
+### 17
+and having a great priest over God’s house, let’s draw near with a true heart in fullness of faith, having our hearts sprinkled from an evil conscience, and having our body washed with pure water,
 
-### 21
-and having a great priest over God’s house,
-
-### 22
-let’s draw near with a true heart in fullness of faith, having our hearts sprinkled from an evil conscience, and having our body washed with pure water,
-
-### 23
+### 18
 let us hold fast the confession of our hope without wavering; for he who promised is faithful.
 
-### 24
-Let us consider how to provoke one another to love and good works,
+### 19
+Let us consider how to provoke one another to love and good works, not forsaking our own assembling together, as the custom of some is, but exhorting one another; and so much the more, as you see the Day approaching.
 
-### 25
-not forsaking our own assembling together, as the custom of some is, but exhorting one another; and so much the more, as you see the Day approaching.
+### 20
+For if we sin willfully after we have received the knowledge of the truth, there remains no more a sacrifice for sins, but a certain fearful expectation of judgment, and a fierceness of fire which will devour the adversaries.
 
-### 26
-For if we sin willfully after we have received the knowledge of the truth, there remains no more a sacrifice for sins,
-
-### 27
-but a certain fearful expectation of judgment, and a fierceness of fire which will devour the adversaries.
-
-### 28
+### 21
 A man who disregards Moses’ law dies without compassion on the word of two or three witnesses.
 
-### 29
+### 22
 How much worse punishment do you think he will be judged worthy of who has trodden under foot the Son of God, and has counted the blood of the covenant with which he was sanctified an unholy thing, and has insulted the Spirit of grace?
 
-### 30
+### 23
 For we know him who said, “Vengeance belongs to me,” says the Lord, “I will repay.” Again, “The Lord will judge his people.”
 
-### 31
+### 24
 It is a fearful thing to fall into the hands of the living God.
 
-### 32
-But remember the former days, in which, after you were enlightened, you endured a great struggle with sufferings;
+### 25
+But remember the former days, in which, after you were enlightened, you endured a great struggle with sufferings; partly, being exposed to both reproaches and oppressions; and partly, becoming partakers with those who were treated so.
 
-### 33
-partly, being exposed to both reproaches and oppressions; and partly, becoming partakers with those who were treated so.
-
-### 34
+### 26
 For you both had compassion on me in my chains, and joyfully accepted the plundering of your possessions, knowing that you have for yourselves a better possession and an enduring one in the heavens.
 
-### 35
+### 27
 Therefore don’t throw away your boldness, which has a great reward.
 
-### 36
+### 28
 For you need endurance so that, having done the will of God, you may receive the promise.
 
-### 37
+### 29
 “In a very little while, he who comes will come, and will not wait.
 
-### 38
+### 30
 But the righteous will live by faith. If he shrinks back, my soul has no pleasure in him.”
 
-### 39
+### 31
 But we are not of those who shrink back to destruction, but of those who have faith to the saving of the soul.

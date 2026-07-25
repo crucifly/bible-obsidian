@@ -54,7 +54,4 @@ And he slept with his fathers, and he was buried in the double cave in the land 
 And he gave all his books and the books of his fathers to Levi his son that he might preserve them and renew them for his children until this day.
 
 ### 17
-The Book of Jubilees
-
-### 18
-Prosperity of Israel in Egypt, 1-2. Death of Joseph, 3-5. War between Egypt and Canaan during which the bones of all the sons of Jacob except Joseph are buried at Hebron, 6-11. Egypt oppresses Israel, 12-16. (Cf. Gen. l.22, 25-6; Exod. i.6-14.)
+The Book of Jubilees Prosperity of Israel in Egypt, 1-2. Death of Joseph, 3-5. War between Egypt and Canaan during which the bones of all the sons of Jacob except Joseph are buried at Hebron, 6-11. Egypt oppresses Israel, 12-16. (Cf. Gen. l.22, 25-6; Exod. i.6-14.)

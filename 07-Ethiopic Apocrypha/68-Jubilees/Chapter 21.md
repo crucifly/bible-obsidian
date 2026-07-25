@@ -66,67 +66,43 @@ And take no gifts for the blood of man, lest it be shed with impunity, without j
 And take no present or gift for the blood of man: blood for blood, that thou mayest be accepted before the Lord, the Most High God; for He is the defence of the good: and that thou mayest be preserved from all evil, and that He may save thee from every kind of death.
 
 ### 21
-I see, my son,
+I see, my son, That all the works of the children of men are sin and wickedness,
 
 ### 22
-That all the works of the children of men are sin and wickedness,
+And all their deeds are uncleanness and an abomination and a pollution, And there is no righteousness with them.
 
 ### 23
-And all their deeds are uncleanness and an abomination and a pollution,
+Beware, lest thou shouldest walk in their ways And tread in their paths,
 
 ### 24
-And there is no righteousness with them.
-
-### 25
-Beware, lest thou shouldest walk in their ways
-
-### 26
-And tread in their paths,
-
-### 27
 And sin a sin unto death before the Most High God.
 
+### 25
+Else He will [hide His face from thee And] give thee back into the hands of thy transgression,
+
+### 26
+And root thee out of the land, and thy seed likewise from under heaven, And thy name and thy seed shall perish from the whole earth.
+
+### 27
+Turn away from all their deeds and all their uncleanness, And observe the ordinance of the Most High God,
+
 ### 28
-Else He will [hide His face from thee
-
-### 29
-And] give thee back into the hands of thy transgression,
-
-### 30
-And root thee out of the land, and thy seed likewise from under heaven,
-
-### 31
-And thy name and thy seed shall perish from the whole earth.
-
-### 32
-Turn away from all their deeds and all their uncleanness,
-
-### 33
-And observe the ordinance of the Most High God,
-
-### 34
 And do His will and be upright in all things.
 
-### 35
-And He will bless thee in all thy deeds,
+### 29
+And He will bless thee in all thy deeds, And will raise up from thee a plant of righteousness through all the earth, throughout all generations of the earth,
 
-### 36
-And will raise up from thee a plant of righteousness through all the earth, throughout all generations of the earth,
-
-### 37
+### 30
 And my name and thy name shall not be forgotten under heaven for ever.
 
-### 38
+### 31
 Go, my son in peace.
 
-### 39
-May the Most High God, my God and thy God, strengthen thee to do His will,
+### 32
+May the Most High God, my God and thy God, strengthen thee to do His will, And may He bless all thy seed and the residue of thy seed for the generations for ever, with all righteous blessings,
 
-### 40
-And may He bless all thy seed and the residue of thy seed for the generations for ever, with all righteous blessings,
-
-### 41
+### 33
 That thou mayest be a blessing on all the earth.'
 
-### 42
+### 34
 And he went out from him rejoicing.

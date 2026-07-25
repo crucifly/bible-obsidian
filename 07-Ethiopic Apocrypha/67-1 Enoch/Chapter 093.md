@@ -33,25 +33,22 @@ And after that in the seventh week shall an apostate generation arise, And many 
 And at its close shall be elected The elect righteous of the eternal plant of righteousness, To receive sevenfold instruction concerning all His creation. [11. For who is there of all the children of men that is able to hear the voice of the Holy One without being troubled? And who can think His thoughts? and who is there that can behold all the works of heaven?
 
 ### 10
-And after that there shall be another, the eighth week, that of righteousness, And a sword shall be given to it that a righteous judgement may be executed on the oppressors, And sinners shall be delivered into the hands of the righteous. 13 And at its close they shall acquire houses through their righteousness, And a house shall be built for the Great King in glory for evermore,
+And after that there shall be another, the eighth week, that of righteousness, And a sword shall be given to it that a righteous judgement may be executed on the oppressors, And sinners shall be delivered into the hands of the righteous. 13 And at its close they shall acquire houses through their righteousness, And a house shall be built for the Great King in glory for evermore, And who is there of all men that could know what is the breadth and the length of the earth, and to whom has been shown the measure of all of them?
 
 ### 11
-And who is there of all men that could know what is the breadth and the length of the earth, and to whom has been shown the measure of all of them?
-
-### 12
 Or is there any one who could discern the length of the heaven and how great is its height, and upon what it is founded, and how great is the number of the stars, and where all the luminaries rest?]
 
-### 13
+### 12
 And after that, in the ninth week, the righteous judgement shall be revealed to the whole world, b. And all the works of the godless shall vanish from all the earth, c. And the world shall be written down for destruction.
 
-### 14
+### 13
 And all mankind shall look to the path of uprightness.
 
-### 15
+### 14
 And after this, in the tenth week in the seventh part, There shall be the great eternal judgement, In which He will execute vengeance amongst the angels.
 
-### 16
+### 15
 And the first heaven shall depart and pass away, And a new heaven shall appear, And all the powers of the heavens shall give sevenfold light.
 
-### 17
+### 16
 And after that there will be many weeks without number for ever, And all shall be in goodness and righteousness, And sin shall no more be mentioned for ever.

@@ -81,10 +81,7 @@ For he looks to the ends of the earth, and sees under the whole sky.
 He establishes the force of the wind. Yes, he measures out the waters by measure.
 
 ### 26
-When he made a decree for the rain, and a way for the lightning of the thunder;
+When he made a decree for the rain, and a way for the lightning of the thunder; then he saw it, and declared it. He established it, yes, and searched it out.
 
 ### 27
-then he saw it, and declared it. He established it, yes, and searched it out.
-
-### 28
 To man he said, ‘Behold, the fear of the Lord, that is wisdom. To depart from evil is understanding.’”

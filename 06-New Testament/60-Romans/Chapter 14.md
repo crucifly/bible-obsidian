@@ -51,34 +51,28 @@ I know, and am persuaded in the Lord Jesus, that nothing is unclean of itself; e
 Yet if because of food your brother is grieved, you walk no longer in love. Don’t destroy with your food him for whom Christ died.
 
 ### 16
-Then don’t let your good be slandered,
+Then don’t let your good be slandered, for God’s Kingdom is not eating and drinking, but righteousness, peace, and joy in the Holy Spirit.
 
 ### 17
-for God’s Kingdom is not eating and drinking, but righteousness, peace, and joy in the Holy Spirit.
-
-### 18
 For he who serves Christ in these things is acceptable to God and approved by men.
 
-### 19
+### 18
 So then, let us follow after things which make for peace, and things by which we may build one another up.
 
-### 20
+### 19
 Don’t overthrow God’s work for food’s sake. All things indeed are clean, however it is evil for that man who creates a stumbling block by eating.
 
-### 21
+### 20
 It is good to not eat meat, drink wine, nor do anything by which your brother stumbles, is offended, or is made weak.
 
-### 22
+### 21
 Do you have faith? Have it to yourself before God. Happy is he who doesn’t judge himself in that which he approves.
 
-### 23
+### 22
 But he who doubts is condemned if he eats, because it isn’t of faith; and whatever is not of faith is sin.
 
+### 23
+Now to him who is able to establish you according to my Good News and the preaching of Jesus Christ, according to the revelation of the mystery which has been kept secret through long ages, but now is revealed, and by the Scriptures of the prophets, according to the commandment of the eternal God, is made known for obedience of faith to all the nations;
+
 ### 24
-Now to him who is able to establish you according to my Good News and the preaching of Jesus Christ, according to the revelation of the mystery which has been kept secret through long ages,
-
-### 25
-but now is revealed, and by the Scriptures of the prophets, according to the commandment of the eternal God, is made known for obedience of faith to all the nations;
-
-### 26
 to the only wise God, through Jesus Christ, to whom be the glory forever! Amen.

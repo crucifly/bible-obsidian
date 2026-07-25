@@ -69,49 +69,46 @@ He killed all the priests of the high places that were there, on the altars, and
 The king commanded all the people, saying, “Keep the Passover to Yahweh your God, as it is written in this book of the covenant.”
 
 ### 22
-Surely there was not kept such a Passover from the days of the judges who judged Israel, nor in all the days of the kings of Israel, nor of the kings of Judah;
+Surely there was not kept such a Passover from the days of the judges who judged Israel, nor in all the days of the kings of Israel, nor of the kings of Judah; but in the eighteenth year of king Josiah, this Passover was kept to Yahweh in Jerusalem.
 
 ### 23
-but in the eighteenth year of king Josiah, this Passover was kept to Yahweh in Jerusalem.
-
-### 24
 Moreover Josiah removed those who had familiar spirits, the wizards, and the teraphim, and the idols, and all the abominations that were seen in the land of Judah and in Jerusalem, that he might confirm the words of the law which were written in the book that Hilkiah the priest found in Yahweh’s house.
 
-### 25
+### 24
 There was no king like him before him, who turned to Yahweh with all his heart, and with all his soul, and with all his might, according to all the law of Moses; and there was none like him who arose after him.
 
-### 26
+### 25
 Notwithstanding, Yahweh didn’t turn from the fierceness of his great wrath, with which his anger burned against Judah, because of all the provocation with which Manasseh had provoked him.
 
-### 27
+### 26
 Yahweh said, “I will also remove Judah out of my sight, as I have removed Israel, and I will cast off this city which I have chosen, even Jerusalem, and the house of which I said, ‘My name shall be there.’”
 
-### 28
+### 27
 Now the rest of the acts of Josiah, and all that he did, aren’t they written in the book of the chronicles of the kings of Judah?
 
-### 29
+### 28
 In his days Pharaoh Necoh king of Egypt went up against the king of Assyria to the river Euphrates; and king Josiah went against him; and Pharaoh Necoh killed him at Megiddo, when he had seen him.
 
-### 30
+### 29
 His servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own tomb. The people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s place.
 
-### 31
+### 30
 Jehoahaz was twenty-three years old when he began to reign; and he reigned three months in Jerusalem. His mother’s name was Hamutal the daughter of Jeremiah of Libnah.
 
-### 32
+### 31
 He did that which was evil in Yahweh’s sight, according to all that his fathers had done.
 
-### 33
+### 32
 Pharaoh Necoh put him in bonds at Riblah in the land of Hamath, that he might not reign in Jerusalem; and put the land to a tribute of one hundred talents of silver, and a talent of gold.
 
-### 34
+### 33
 Pharaoh Necoh made Eliakim the son of Josiah king in the place of Josiah his father, and changed his name to Jehoiakim; but he took Jehoahaz away, and he came to Egypt and died there.
 
-### 35
+### 34
 Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh. He exacted the silver and the gold of the people of the land, from everyone according to his assessment, to give it to Pharaoh Necoh.
 
-### 36
+### 35
 Jehoiakim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem. His mother’s name was Zebidah the daughter of Pedaiah of Rumah.
 
-### 37
+### 36
 He did that which was evil in Yahweh’s sight, according to all that his fathers had done.

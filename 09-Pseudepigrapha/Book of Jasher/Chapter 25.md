@@ -95,34 +95,19 @@ And Rebecca the daughter of Bethuel, the wife of Abraham's son Isaac, was barren
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_25&oldid=11445910"
 
 ### 29
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:54.
 
 ### 30
-This page was last edited on 30 June 2021, at 01:54.
-
-### 31
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 31
+Privacy policy Disclaimers
+
 ### 32
-Privacy policy
+Code of Conduct Developers
 
 ### 33
-Disclaimers
+Statistics Cookie statement
 
 ### 34
-Code of Conduct
-
-### 35
-Developers
-
-### 36
-Statistics
-
-### 37
-Cookie statement
-
-### 38
-Mobile view
-
-### 39
-Add topic
+Mobile view Add topic

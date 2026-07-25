@@ -105,19 +105,16 @@ Their camels will be a booty, and the multitude of their livestock a plunder. I 
 Hazor will be a dwelling place of jackals, a desolation forever. No man will dwell there, neither will any son of man live therein.”
 
 ### 34
-Yahweh’s word that came to Jeremiah the prophet concerning Elam, in the beginning of the reign of Zedekiah king of Judah, saying,
+Yahweh’s word that came to Jeremiah the prophet concerning Elam, in the beginning of the reign of Zedekiah king of Judah, saying, “Yahweh of Armies says: ‘Behold, I will break the bow of Elam, the chief of their might.
 
 ### 35
-“Yahweh of Armies says: ‘Behold, I will break the bow of Elam, the chief of their might.
-
-### 36
 I will bring on Elam the four winds from the four quarters of the sky, and will scatter them toward all those winds. There will be no nation where the outcasts of Elam will not come.
 
-### 37
+### 36
 I will cause Elam to be dismayed before their enemies, and before those who seek their life. I will bring evil on them, even my fierce anger,’ says Yahweh; ‘and I will send the sword after them, until I have consumed them.
 
-### 38
+### 37
 I will set my throne in Elam, and will destroy from there king and princes,’ says Yahweh.
 
-### 39
+### 38
 ‘But it will happen in the latter days that I will reverse the captivity of Elam,’ says Yahweh.”

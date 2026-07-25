@@ -64,91 +64,70 @@ And Terah answered the king and said to him: My Lord and king, I have heard thy 
 But my lord and king, I will tell thee what happened to me yesternight, that I may see what advice the king will give his servant, and then I will answer the king upon what he has just spoken; and the king said, Speak.
 
 ### 18
-And Terah said to the king, Ayon, son of Mored, came to me yesternight, saying,
+And Terah said to the king, Ayon, son of Mored, came to me yesternight, saying, Give unto me the great and beautiful horse that the king gave thee, and I will give thee silver and gold, and straw and provender for its value; and I said to him, Wait till I see the king concerning thy words, and behold whatever the king saith, that will I do.
 
 ### 19
-Give unto me the great and beautiful horse that the king gave thee, and I will give thee silver and gold, and straw and provender for its value; and I said to him, Wait till I see the king concerning thy words, and behold whatever the king saith, that will I do.
-
-### 20
 And now my lord and king, behold I have made this thing known to thee, and the advice which my king will give unto his servant, that will I follow.
 
-### 21
+### 20
 And the king heard the words of Terah, and his anger was kindled and he considered him in the light of a fool.
 
-### 22
+### 21
 And the king answered Terah, and he said to him, Art thou so silly, ignorant, or deficient in understanding, to do this thing, to give thy beautiful horse for silver and gold or even for straw and provender?
 
-### 23
+### 22
 Art thou so short of silver and gold, that thou shouldst do this thing, because thou canst not obtain straw and provender to feed thy horse? and what is silver and gold to thee, or straw and provender, that thou shouldst give away that fine horse which I gave thee, like which there is none to be had on the whole earth?
 
+### 23
+And the king left off speaking, and Terah answered the king, saying, Like unto this has the king spoken to his servant; I beseech thee, my lord and king, what is this which thou didst say unto me, saying, Give thy son that we may slay him, and I will ​give thee silver and gold for his value; what shall I do with silver and gold after the death of my son? who shall inherit me? surely then at my death, the silver and gold will return to my king who gave it.
+
 ### 24
-And the king left off speaking, and Terah answered the king, saying, Like unto this has the king spoken to his servant;
-
-### 25
-I beseech thee, my lord and king, what is this which thou didst say unto me, saying, Give thy son that we may slay him, and I will ​give thee silver and gold for his value; what shall I do with silver and gold after the death of my son? who shall inherit me? surely then at my death, the silver and gold will return to my king who gave it.
-
-### 26
 And when the king heard the words of Terah, and the parable which he brought concerning the king, it grieved him greatly and he was vexed at this thing, and his anger burned within him.
 
-### 27
+### 25
 And Terah saw that the anger of the king was kindled against him, and he answered the king, saying, All that I have is in the king's power; whatever the king desireth to do to his servant, that let him do, yea, even my son, he is in the king's power, without value in exchange, he and his two brothers that are older than he.
 
-### 28
+### 26
 And the king said to Terah, No, but I will purchase thy younger son for a price.
 
-### 29
+### 27
 And Terah answered the king, saying, I beseech thee my lord and king to let thy servant speak a word before thee, and let the king hear the word of his servant, and Terah said, Let my king give me three days' time till I consider this matter within myself, and consult with my family concerning the words of my king; and he pressed the king greatly to agree to this.
 
-### 30
+### 28
 And the king hearkened to Terah, and he did so and he gave him three days' time, and Terah went out from the king's presence, and he came home to his family and spoke to them all the words of the king; and the people were greatly afraid.
 
-### 31
+### 29
 And it was in the third day that the king sent to Terah, saying, Send me thy son for a price as I spoke to thee; and shouldst thou not do this, I will send and slay all thou hast in thy house, so that thou shalt not even have a dog remaining.
 
-### 32
+### 30
 And Terah hastened, (as the thing was urgent from the king), and he took a child from one of his servants, which his handmaid had born to him that day, and Terah brought the child to the king and received value for him.
 
-### 33
+### 31
 And the Lord was with Terah in this matter, that Nimrod might not cause Abram's death, and the king took the child from Terah and with all his might dashed his head to the ground, for he thought it had been Abram; and this was concealed from him from that day, and it was forgotten by the king, as it was the will of Providence not to suffer Abram's death.
 
-### 34
+### 32
 And Terah took Abram his son secretly, together with his mother and nurse, and he concealed them in a cave, and he brought them their provisions monthly.
 
-### 35
+### 33
 And the Lord was with Abram in the cave and he grew up, and Abram was in the cave ten years, and the king and his princes, soothsayers and sages, thought that the king had killed Abram.
 
-### 36
+### 34
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_8&oldid=11499649"
 
-### 37
-Hidden categories: SubpagesHeaders applying DefaultSort key
+### 35
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 11 July 2021, at 20:01.
 
-### 38
-This page was last edited on 11 July 2021, at 20:01.
-
-### 39
+### 36
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 37
+Privacy policy Disclaimers
+
+### 38
+Code of Conduct Developers
+
+### 39
+Statistics Cookie statement
+
 ### 40
-Privacy policy
-
-### 41
-Disclaimers
-
-### 42
-Code of Conduct
-
-### 43
-Developers
-
-### 44
-Statistics
-
-### 45
-Cookie statement
-
-### 46
-Mobile view
-
-### 47
-Add topic
+Mobile view Add topic

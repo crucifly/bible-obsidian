@@ -39,43 +39,34 @@ You counted the houses of Jerusalem, and you broke down the houses to fortify th
 You also made a reservoir between the two walls for the water of the old pool. But you didn’t look to him who had done this, neither did you have respect for him who purposed it long ago.
 
 ### 12
-In that day, the Lord, Yahweh of Armies, called to weeping, and to mourning, and to baldness, and to dressing in sackcloth:
+In that day, the Lord, Yahweh of Armies, called to weeping, and to mourning, and to baldness, and to dressing in sackcloth: and behold, joy and gladness, killing cattle and killing sheep, eating meat and drinking wine: “Let us eat and drink, for tomorrow we will die.”
 
 ### 13
-and behold, joy and gladness, killing cattle and killing sheep, eating meat and drinking wine: “Let us eat and drink, for tomorrow we will die.”
-
-### 14
 Yahweh of Armies revealed himself in my ears, “Surely this iniquity will not be forgiven you until you die,” says the Lord, Yahweh of Armies.
 
+### 14
+Thus says the Lord, Yahweh of Armies, “Go, get yourself to this treasurer, even to Shebna, who is over the house, and say, ‘What are you doing here? Who has you here, that you have dug out a tomb here?’ Cutting himself out a tomb on high, chiseling a habitation for himself in the rock!”
+
 ### 15
-Thus says the Lord, Yahweh of Armies, “Go, get yourself to this treasurer, even to Shebna, who is over the house, and say,
-
-### 16
-‘What are you doing here? Who has you here, that you have dug out a tomb here?’ Cutting himself out a tomb on high, chiseling a habitation for himself in the rock!”
-
-### 17
 Behold, Yahweh will overcome you and hurl you away violently. Yes, he will grasp you firmly.
 
-### 18
+### 16
 He will surely wind you around and around, and throw you like a ball into a large country. There you will die, and there the chariots of your glory will be, you shame of your lord’s house.
 
-### 19
+### 17
 I will thrust you from your office. You will be pulled down from your station.
 
-### 20
-It will happen in that day that I will call my servant Eliakim the son of Hilkiah,
+### 18
+It will happen in that day that I will call my servant Eliakim the son of Hilkiah, and I will clothe him with your robe, and strengthen him with your belt. I will commit your government into his hand; and he will be a father to the inhabitants of Jerusalem, and to the house of Judah.
 
-### 21
-and I will clothe him with your robe, and strengthen him with your belt. I will commit your government into his hand; and he will be a father to the inhabitants of Jerusalem, and to the house of Judah.
-
-### 22
+### 19
 I will lay the key of David’s house on his shoulder. He will open, and no one will shut. He will shut, and no one will open.
 
-### 23
+### 20
 I will fasten him like a nail in a sure place. He will be for a throne of glory to his father’s house.
 
-### 24
+### 21
 They will hang on him all the glory of his father’s house, the offspring and the issue, every small vessel, from the cups even to all the pitchers.
 
-### 25
+### 22
 “In that day,” says Yahweh of Armies, “the nail that was fastened in a sure place will give way. It will be cut down, and fall. The burden that was on it will be cut off, for Yahweh has spoken it.”

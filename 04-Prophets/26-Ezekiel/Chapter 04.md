@@ -51,7 +51,4 @@ Then I said, “Ah Lord Yahweh! Behold, my soul has not been polluted; for from 
 Then he said to me, “Behold, I have given you cow’s dung for man’s dung, and you shall prepare your bread on it.”
 
 ### 16
-Moreover he said to me, “Son of man, behold, I will break the staff of bread in Jerusalem. They will eat bread by weight, and with fearfulness. They will drink water by measure, and in dismay;
-
-### 17
-that they may lack bread and water, be dismayed one with another, and pine away in their iniquity.
+Moreover he said to me, “Son of man, behold, I will break the staff of bread in Jerusalem. They will eat bread by weight, and with fearfulness. They will drink water by measure, and in dismay; that they may lack bread and water, be dismayed one with another, and pine away in their iniquity.

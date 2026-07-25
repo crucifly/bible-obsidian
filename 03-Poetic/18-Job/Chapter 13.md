@@ -63,28 +63,22 @@ See now, I have set my cause in order. I know that I am righteous.
 Who is he who will contend with me? For then would I hold my peace and give up the spirit.
 
 ### 20
-“Only don’t do two things to me; then I will not hide myself from your face:
+“Only don’t do two things to me; then I will not hide myself from your face: withdraw your hand far from me; and don’t let your terror make me afraid.
 
 ### 21
-withdraw your hand far from me; and don’t let your terror make me afraid.
-
-### 22
 Then call, and I will answer; or let me speak, and you answer me.
 
-### 23
+### 22
 How many are my iniquities and sins? Make me know my disobedience and my sin.
 
-### 24
+### 23
 Why hide you your face, and hold me for your enemy?
 
-### 25
+### 24
 Will you harass a driven leaf? Will you pursue the dry stubble?
 
+### 25
+For you write bitter things against me, and make me inherit the iniquities of my youth: You also put my feet in the stocks, and mark all my paths. You set a bound to the soles of my feet,
+
 ### 26
-For you write bitter things against me, and make me inherit the iniquities of my youth:
-
-### 27
-You also put my feet in the stocks, and mark all my paths. You set a bound to the soles of my feet,
-
-### 28
 though I am decaying like a rotten thing, like a garment that is moth-eaten.

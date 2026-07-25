@@ -57,91 +57,55 @@ David was then in the stronghold, and the garrison of the Philistines was in Bet
 David longed, and said, “Oh that one would give me water to drink from the well of Bethlehem, which is by the gate!”
 
 ### 18
-The three broke through the army of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David; but David would not drink any of it, but poured it out to Yahweh,
+The three broke through the army of the Philistines, and drew water out of the well of Bethlehem, that was by the gate, and took it, and brought it to David; but David would not drink any of it, but poured it out to Yahweh, and said, “My God forbid me, that I should do this! Shall I drink the blood of these men who have put their lives in jeopardy?” For they risked their lives to bring it. Therefore he would not drink it. The three mighty men did these things.
 
 ### 19
-and said, “My God forbid me, that I should do this! Shall I drink the blood of these men who have put their lives in jeopardy?” For they risked their lives to bring it. Therefore he would not drink it. The three mighty men did these things.
-
-### 20
 Abishai, the brother of Joab, he was chief of the three; for he lifted up his spear against three hundred and killed them, and had a name among the three.
 
-### 21
+### 20
 Of the three, he was more honorable than the two, and was made their captain; however he wasn’t included in the three.
 
-### 22
+### 21
 Benaiah the son of Jehoiada, the son of a valiant man of Kabzeel, who had done mighty deeds, killed the two sons of Ariel of Moab. He also went down and killed a lion in the middle of a pit on a snowy day.
 
-### 23
+### 22
 He killed an Egyptian, a man of great stature, five cubits high. In the Egyptian’s hand was a spear like a weaver’s beam; and he went down to him with a staff, plucked the spear out of the Egyptian’s hand, and killed him with his own spear.
 
-### 24
+### 23
 Benaiah the son of Jehoiada did these things, and had a name among the three mighty men.
 
-### 25
+### 24
 Behold, he was more honorable than the thirty, but he didn’t attain to the three; and David set him over his guard.
 
+### 25
+The mighty men of the armies also include Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem, Shammoth the Harorite, Helez the Pelonite,
+
 ### 26
-The mighty men of the armies also include Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem,
+Ira the son of Ikkesh the Tekoite, Abiezer the Anathothite, Sibbecai the Hushathite, Ilai the Ahohite,
 
 ### 27
-Shammoth the Harorite, Helez the Pelonite,
+Maharai the Netophathite, Heled the son of Baanah the Netophathite, Ithai the son of Ribai of Gibeah of the children of Benjamin, Benaiah the Pirathonite,
 
 ### 28
-Ira the son of Ikkesh the Tekoite, Abiezer the Anathothite,
+Hurai of the brooks of Gaash, Abiel the Arbathite, Azmaveth the Baharumite, Eliahba the Shaalbonite,
 
 ### 29
-Sibbecai the Hushathite, Ilai the Ahohite,
+the sons of Hashem the Gizonite, Jonathan the son of Shagee the Hararite, Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,
 
 ### 30
-Maharai the Netophathite, Heled the son of Baanah the Netophathite,
+Hepher the Mecherathite, Ahijah the Pelonite, Hezro the Carmelite, Naarai the son of Ezbai,
 
 ### 31
-Ithai the son of Ribai of Gibeah of the children of Benjamin, Benaiah the Pirathonite,
+Joel the brother of Nathan, Mibhar the son of Hagri, Zelek the Ammonite, Naharai the Berothite, the armor bearer of Joab the son of Zeruiah,
 
 ### 32
-Hurai of the brooks of Gaash, Abiel the Arbathite,
+Ira the Ithrite, Gareb the Ithrite, Uriah the Hittite, Zabad the son of Ahlai,
 
 ### 33
-Azmaveth the Baharumite, Eliahba the Shaalbonite,
+Adina the son of Shiza the Reubenite, a chief of the Reubenites, and thirty with him, Hanan the son of Maacah, and Joshaphat the Mithnite,
 
 ### 34
-the sons of Hashem the Gizonite, Jonathan the son of Shagee the Hararite,
+Uzzia the Ashterathite, Shama and Jeiel the sons of Hotham the Aroerite, Jediael the son of Shimri, and Joha his brother, the Tizite,
 
 ### 35
-Ahiam the son of Sacar the Hararite, Eliphal the son of Ur,
-
-### 36
-Hepher the Mecherathite, Ahijah the Pelonite,
-
-### 37
-Hezro the Carmelite, Naarai the son of Ezbai,
-
-### 38
-Joel the brother of Nathan, Mibhar the son of Hagri,
-
-### 39
-Zelek the Ammonite, Naharai the Berothite, the armor bearer of Joab the son of Zeruiah,
-
-### 40
-Ira the Ithrite, Gareb the Ithrite,
-
-### 41
-Uriah the Hittite, Zabad the son of Ahlai,
-
-### 42
-Adina the son of Shiza the Reubenite, a chief of the Reubenites, and thirty with him,
-
-### 43
-Hanan the son of Maacah, and Joshaphat the Mithnite,
-
-### 44
-Uzzia the Ashterathite, Shama and Jeiel the sons of Hotham the Aroerite,
-
-### 45
-Jediael the son of Shimri, and Joha his brother, the Tizite,
-
-### 46
-Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite,
-
-### 47
-Eliel, and Obed, and Jaasiel the Mezobaite.
+Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite, Eliel, and Obed, and Jaasiel the Mezobaite.

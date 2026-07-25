@@ -24,28 +24,25 @@ And I asked one of the holy angels who was with me and said unto him: ‘What is
 And he said unto me: ‘This place which thou seest--here are cast the spirits of sinners and blasphemers, and of those who work wickedness, and of those who pervert everything that the Lord hath spoken through the mouth of the prophets--(even) the things that shall be.
 
 ### 7
-For some of them are written and inscribed above in the heaven, in order that the angels may read them and know that which shall befall the sinners, and the spirits of the humble, and of those who have afflicted their bodies, and been recompensed by God; and of those who have been put to shame by wicked men:
+For some of them are written and inscribed above in the heaven, in order that the angels may read them and know that which shall befall the sinners, and the spirits of the humble, and of those who have afflicted their bodies, and been recompensed by God; and of those who have been put to shame by wicked men: Who love God and loved neither gold nor silver nor any of the good things which are in the world, but gave over their bodies to torture.
 
 ### 8
-Who love God and loved neither gold nor silver nor any of the good things which are in the world, but gave over their bodies to torture.
-
-### 9
 Who, since they came into being, longed not after earthly food, but regarded everything as a passing breath, and lived accordingly, and the Lord tried them much, and their spirits were found pure so that they should bless His name.
 
-### 10
+### 9
 And all the blessings destined for them I have recounted in the books. And he hath assigned them their recompense, because they have been found to be such as loved heaven more than their life in the world, and though they were trodden under foot of wicked men, and experienced abuse and reviling from them and were put to shame, yet they blessed Me.
 
-### 11
+### 10
 And now I will summon the spirits of the good who belong to the generation of light, and I will transform those who were born in darkness, who in the flesh were not recompensed with such honour as their faithfulness deserved.
 
-### 12
+### 11
 And I will bring forth in shining light those who have loved My holy name, and I will seat each on the throne of his honour.
 
-### 13
+### 12
 And they shall be resplendent for times without number; for righteousness is the judgement of God; for to the faithful He will give faithfulness in the habitation of upright paths.
 
-### 14
+### 13
 And they shall see those who were, born in darkness led into darkness, while the righteous shall be resplendent.
 
-### 15
+### 14
 And the sinners shall cry aloud and see them resplendent, and they indeed will go where days and seasons are prescribed for them.’ THE END

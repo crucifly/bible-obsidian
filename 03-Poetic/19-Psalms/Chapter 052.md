@@ -21,13 +21,10 @@ You love all devouring words, you deceitful tongue.
 God will likewise destroy you forever. He will take you up, and pluck you out of your tent, and root you out of the land of the living..
 
 ### 6
-The righteous also will see it, and fear, and laugh at him, saying,
+The righteous also will see it, and fear, and laugh at him, saying, “Behold, this is the man who didn’t make God his strength, but trusted in the abundance of his riches, and strengthened himself in his wickedness.”
 
 ### 7
-“Behold, this is the man who didn’t make God his strength, but trusted in the abundance of his riches, and strengthened himself in his wickedness.”
-
-### 8
 But as for me, I am like a green olive tree in God’s house. I trust in God’s loving kindness forever and ever.
 
-### 9
+### 8
 I will give you thanks forever, because you have done it. I will hope in your name, for it is good, in the presence of your saints.

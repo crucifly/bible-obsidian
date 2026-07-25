@@ -45,25 +45,16 @@ When the sun was going down, a deep sleep fell on Abram. Now terror and great da
 He said to Abram, “Know for sure that your offspring will live as foreigners in a land that is not theirs, and will serve them. They will afflict them four hundred years.
 
 ### 14
-I will also judge that nation, whom they will serve. Afterward they will come out with great wealth,
+I will also judge that nation, whom they will serve. Afterward they will come out with great wealth, but you will go to your fathers in peace. You will be buried at a good old age.
 
 ### 15
-but you will go to your fathers in peace. You will be buried at a good old age.
-
-### 16
 In the fourth generation they will come here again, for the iniquity of the Amorite is not yet full.”
 
-### 17
+### 16
 It came to pass that, when the sun went down, and it was dark, behold, a smoking furnace, and a flaming torch passed between these pieces.
 
+### 17
+In that day Yahweh made a covenant with Abram, saying, “I have given this land to your offspring, from the river of Egypt to the great river, the river Euphrates: the Kenites, the Kenizzites, the Kadmonites,
+
 ### 18
-In that day Yahweh made a covenant with Abram, saying, “I have given this land to your offspring, from the river of Egypt to the great river, the river Euphrates:
-
-### 19
-the Kenites, the Kenizzites, the Kadmonites,
-
-### 20
-the Hittites, the Perizzites, the Rephaim,
-
-### 21
-the Amorites, the Canaanites, the Girgashites, and the Jebusites.”
+the Hittites, the Perizzites, the Rephaim, the Amorites, the Canaanites, the Girgashites, and the Jebusites.”

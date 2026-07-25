@@ -36,64 +36,58 @@ Then king Belshazzar was greatly troubled, and his face was changed in him, and 
 The queen by reason of the words of the king and his lords came into the banquet house. The queen spoke and said, “O king, live forever; don’t let your thoughts trouble you, nor let your face be changed.
 
 ### 11
-There is a man in your kingdom, in whom is the spirit of the holy gods; and in the days of your father light and understanding and wisdom, like the wisdom of the gods, were found in him. The king Nebuchadnezzar your father, yes, the king, your father, made him master of the magicians, enchanters, Chaldeans, and soothsayers;
+There is a man in your kingdom, in whom is the spirit of the holy gods; and in the days of your father light and understanding and wisdom, like the wisdom of the gods, were found in him. The king Nebuchadnezzar your father, yes, the king, your father, made him master of the magicians, enchanters, Chaldeans, and soothsayers; because an excellent spirit, knowledge, understanding, interpreting of dreams, showing of dark sentences, and dissolving of doubts were found in the same Daniel, whom the king named Belteshazzar. Now let Daniel be called, and he will show the interpretation.”
 
 ### 12
-because an excellent spirit, knowledge, understanding, interpreting of dreams, showing of dark sentences, and dissolving of doubts were found in the same Daniel, whom the king named Belteshazzar. Now let Daniel be called, and he will show the interpretation.”
-
-### 13
 Then Daniel was brought in before the king. The king spoke and said to Daniel, “Are you that Daniel of the children of the captivity of Judah, whom the king my father brought out of Judah?
 
-### 14
+### 13
 I have heard of you, that the spirit of the gods is in you, and that light, understanding, and excellent wisdom are found in you.
 
-### 15
+### 14
 Now the wise men, the enchanters, have been brought in before me, that they should read this writing, and make known to me its interpretation; but they could not show the interpretation of the thing.
 
-### 16
+### 15
 But I have heard of you, that you can give interpretations, and dissolve doubts. Now if you can read the writing, and make known to me its interpretation, you shall be clothed with purple, and have a chain of gold around your neck, and shall be the third ruler in the kingdom.”
 
-### 17
+### 16
 Then Daniel answered before the king, “Let your gifts be to yourself, and give your rewards to another. Nevertheless, I will read the writing to the king, and make known to him the interpretation.
 
-### 18
+### 17
 “You, king, the Most High God gave Nebuchadnezzar your father the kingdom, and greatness, and glory, and majesty.
 
-### 19
+### 18
 Because of the greatness that he gave him, all the peoples, nations, and languages trembled and feared before him. He killed whom he wanted to, and he kept alive whom he wanted to. He raised up whom he wanted to, and he put down whom he wanted to.
 
-### 20
+### 19
 But when his heart was lifted up, and his spirit was hardened so that he dealt proudly, he was deposed from his kingly throne, and they took his glory from him.
 
-### 21
+### 20
 He was driven from the sons of men, and his heart was made like the animals’, and his dwelling was with the wild donkeys. He was fed with grass like oxen, and his body was wet with the dew of the sky; until he knew that the Most High God rules in the kingdom of men, and that he sets up over it whomever he will.
 
+### 21
+“You, his son, Belshazzar, have not humbled your heart, though you knew all this, but have lifted up yourself against the Lord of heaven; and they have brought the vessels of his house before you, and you and your lords, your wives, and your concubines, have drunk wine from them. You have praised the gods of silver and gold, of brass, iron, wood, and stone, which don’t see, or hear, or know; and you have not glorified the God in whose hand your breath is, and whose are all your ways.
+
 ### 22
-“You, his son, Belshazzar, have not humbled your heart, though you knew all this,
-
-### 23
-but have lifted up yourself against the Lord of heaven; and they have brought the vessels of his house before you, and you and your lords, your wives, and your concubines, have drunk wine from them. You have praised the gods of silver and gold, of brass, iron, wood, and stone, which don’t see, or hear, or know; and you have not glorified the God in whose hand your breath is, and whose are all your ways.
-
-### 24
 Then the part of the hand was sent from before him, and this writing was inscribed.
 
-### 25
+### 23
 “This is the writing that was inscribed: ‘MENE, MENE, TEKEL, UPHARSIN.’
 
-### 26
+### 24
 “This is the interpretation of the thing: MENE: God has counted your kingdom, and brought it to an end.
 
-### 27
+### 25
 TEKEL: you are weighed in the balances, and are found wanting.
 
-### 28
+### 26
 PERES: your kingdom is divided, and given to the Medes and Persians.”
 
-### 29
+### 27
 Then Belshazzar commanded, and they clothed Daniel with purple, and put a chain of gold about his neck, and made proclamation concerning him, that he should be the third ruler in the kingdom.
 
-### 30
+### 28
 In that night Belshazzar the Chaldean King was slain.
 
-### 31
+### 29
 Darius the Mede received the kingdom, being about sixty-two years old.

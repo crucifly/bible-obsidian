@@ -15,31 +15,25 @@ You are puffed up, and didn’t rather mourn, that he who had done this deed mig
 For I most certainly, as being absent in body but present in spirit, have already, as though I were present, judged him who has done this thing.
 
 ### 4
-In the name of our Lord Jesus Christ, you being gathered together, and my spirit, with the power of our Lord Jesus Christ,
+In the name of our Lord Jesus Christ, you being gathered together, and my spirit, with the power of our Lord Jesus Christ, are to deliver such a one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
 
 ### 5
-are to deliver such a one to Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
-
-### 6
 Your boasting is not good. Don’t you know that a little yeast leavens the whole lump?
 
-### 7
+### 6
 Purge out the old yeast, that you may be a new lump, even as you are unleavened. For indeed Christ, our Passover, has been sacrificed in our place.
 
-### 8
+### 7
 Therefore let us keep the feast, not with old yeast, neither with the yeast of malice and wickedness, but with the unleavened bread of sincerity and truth.
 
+### 8
+I wrote to you in my letter to have no company with sexual sinners; yet not at all meaning with the sexual sinners of this world, or with the covetous and extortionists, or with idolaters; for then you would have to leave the world.
+
 ### 9
-I wrote to you in my letter to have no company with sexual sinners;
-
-### 10
-yet not at all meaning with the sexual sinners of this world, or with the covetous and extortionists, or with idolaters; for then you would have to leave the world.
-
-### 11
 But as it is, I wrote to you not to associate with anyone who is called a brother who is a sexual sinner, or covetous, or an idolater, or a slanderer, or a drunkard, or an extortionist. Don’t even eat with such a person.
 
-### 12
+### 10
 For what do I have to do with also judging those who are outside? Don’t you judge those who are within?
 
-### 13
+### 11
 But those who are outside, God judges. “Put away the wicked man from among yourselves.”

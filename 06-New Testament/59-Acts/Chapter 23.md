@@ -78,34 +78,28 @@ He called to himself two of the centurions, and said, “Prepare two hundred sol
 He asked them to provide animals, that they might set Paul on one, and bring him safely to Felix the governor.
 
 ### 25
-He wrote a letter like this:
+He wrote a letter like this: “Claudius Lysias to the most excellent governor Felix: Greetings.
 
 ### 26
-“Claudius Lysias to the most excellent governor Felix: Greetings.
-
-### 27
 “This man was seized by the Jews, and was about to be killed by them, when I came with the soldiers and rescued him, having learned that he was a Roman.
 
-### 28
+### 27
 Desiring to know the cause why they accused him, I brought him down to their council.
 
-### 29
+### 28
 I found him to be accused about questions of their law, but not to be charged with anything worthy of death or of imprisonment.
 
-### 30
+### 29
 When I was told that the Jews lay in wait for the man, I sent him to you immediately, charging his accusers also to bring their accusations against him before you. Farewell.”
 
-### 31
+### 30
 So the soldiers, carrying out their orders, took Paul and brought him by night to Antipatris.
 
-### 32
+### 31
 But on the next day they left the horsemen to go with him, and returned to the barracks.
 
-### 33
+### 32
 When they came to Caesarea and delivered the letter to the governor, they also presented Paul to him.
 
-### 34
-When the governor had read it, he asked what province he was from. When he understood that he was from Cilicia, he said,
-
-### 35
-“I will hear you fully when your accusers also arrive.” He commanded that he be kept in Herod’s palace.
+### 33
+When the governor had read it, he asked what province he was from. When he understood that he was from Cilicia, he said, “I will hear you fully when your accusers also arrive.” He commanded that he be kept in Herod’s palace.

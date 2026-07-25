@@ -66,70 +66,49 @@ The sons of the wife of Hodiah, the sister of Naham, were the father of Keilah t
 The sons of Shimon: Amnon, Rinnah, Ben Hanan, and Tilon. The sons of Ishi: Zoheth, and Ben Zoheth.
 
 ### 21
-The sons of Shelah the son of Judah: Er the father of Lecah, Laadah the father of Mareshah, and the families of the house of those who worked fine linen, of the house of Ashbea;
+The sons of Shelah the son of Judah: Er the father of Lecah, Laadah the father of Mareshah, and the families of the house of those who worked fine linen, of the house of Ashbea; and Jokim, and the men of Cozeba, and Joash, and Saraph, who had dominion in Moab, and Jashubilehem. These records are ancient.
 
 ### 22
-and Jokim, and the men of Cozeba, and Joash, and Saraph, who had dominion in Moab, and Jashubilehem. These records are ancient.
-
-### 23
 These were the potters, and the inhabitants of Netaim and Gederah: they lived there with the king for his work.
 
+### 23
+The sons of Simeon: Nemuel, Jamin, Jarib, Zerah, Shaul; Shallum his son, Mibsam his son, and Mishma his son.
+
 ### 24
-The sons of Simeon: Nemuel, Jamin, Jarib, Zerah, Shaul;
-
-### 25
-Shallum his son, Mibsam his son, and Mishma his son.
-
-### 26
 The sons of Mishma: Hammuel his son, Zaccur his son, Shimei his son.
 
-### 27
+### 25
 Shimei had sixteen sons and six daughters; but his brothers didn’t have many children, and all their family did not multiply like the children of Judah.
 
+### 26
+They lived at Beersheba, Moladah, Hazarshual, at Bilhah, at Ezem, at Tolad,
+
+### 27
+at Bethuel, at Hormah, at Ziklag, at Beth Marcaboth, Hazar Susim, at Beth Biri, and at Shaaraim. These were their cities until David’s reign.
+
 ### 28
-They lived at Beersheba, Moladah, Hazarshual,
+Their villages were Etam, Ain, Rimmon, Tochen, and Ashan, five cities; and all their villages that were around the same cities, to Baal. These were their settlements, and they have their genealogy.
 
 ### 29
-at Bilhah, at Ezem, at Tolad,
+Meshobab, Jamlech, Joshah the son of Amaziah, Joel, Jehu the son of Joshibiah, the son of Seraiah, the son of Asiel,
 
 ### 30
-at Bethuel, at Hormah, at Ziklag,
+Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah, and Ziza the son of Shiphi, the son of Allon, the son of Jedaiah, the son of Shimri, the son of Shemaiah—
 
 ### 31
-at Beth Marcaboth, Hazar Susim, at Beth Biri, and at Shaaraim. These were their cities until David’s reign.
-
-### 32
-Their villages were Etam, Ain, Rimmon, Tochen, and Ashan, five cities;
-
-### 33
-and all their villages that were around the same cities, to Baal. These were their settlements, and they have their genealogy.
-
-### 34
-Meshobab, Jamlech, Joshah the son of Amaziah,
-
-### 35
-Joel, Jehu the son of Joshibiah, the son of Seraiah, the son of Asiel,
-
-### 36
-Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah,
-
-### 37
-and Ziza the son of Shiphi, the son of Allon, the son of Jedaiah, the son of Shimri, the son of Shemaiah—
-
-### 38
 these mentioned by name were princes in their families. Their fathers’ houses increased greatly.
 
-### 39
+### 32
 They went to the entrance of Gedor, even to the east side of the valley, to seek pasture for their flocks.
 
-### 40
+### 33
 They found fat pasture and good, and the land was wide, and quiet, and peaceful; for those who lived there before were descended from Ham.
 
-### 41
+### 34
 These written by name came in the days of Hezekiah king of Judah, and struck their tents. The Meunim who were found there, and they destroyed them utterly to this day, and lived in their place; because there was pasture there for their flocks.
 
-### 42
+### 35
 Some of them, even of the sons of Simeon, five hundred men, went to Mount Seir, having for their captains Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi.
 
-### 43
+### 36
 They struck the remnant of the Amalekites who escaped, and have lived there to this day.

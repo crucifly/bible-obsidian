@@ -24,37 +24,34 @@ So the tongue is also a little member, and boasts great things. See how a small 
 And the tongue is a fire. The world of iniquity among our members is the tongue, which defiles the whole body, and sets on fire the course of nature, and is set on fire by Gehenna.
 
 ### 7
-For every kind of animal, bird, creeping thing, and sea creature, is tamed, and has been tamed by mankind;
+For every kind of animal, bird, creeping thing, and sea creature, is tamed, and has been tamed by mankind; but nobody can tame the tongue. It is a restless evil, full of deadly poison.
 
 ### 8
-but nobody can tame the tongue. It is a restless evil, full of deadly poison.
-
-### 9
 With it we bless our God and Father, and with it we curse men, who are made in the image of God.
 
-### 10
+### 9
 Out of the same mouth comes blessing and cursing. My brothers, these things ought not to be so.
 
-### 11
+### 10
 Does a spring send out from the same opening fresh and bitter water?
 
-### 12
+### 11
 Can a fig tree, my brothers, yield olives, or a vine figs? Thus no spring yields both salt water and fresh water.
 
-### 13
+### 12
 Who is wise and understanding among you? Let him show by his good conduct that his deeds are done in gentleness of wisdom.
 
-### 14
+### 13
 But if you have bitter jealousy and selfish ambition in your heart, don’t boast and don’t lie against the truth.
 
-### 15
+### 14
 This wisdom is not that which comes down from above, but is earthly, sensual, and demonic.
 
-### 16
+### 15
 For where jealousy and selfish ambition are, there is confusion and every evil deed.
 
-### 17
+### 16
 But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy.
 
-### 18
+### 17
 Now the fruit of righteousness is sown in peace by those who make peace.

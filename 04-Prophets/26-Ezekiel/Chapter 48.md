@@ -93,19 +93,16 @@ Moreover from the possession of the Levites, and from the possession of the city
 “This is the land which you shall divide by lot to the tribes of Israel for inheritance, and these are their several portions, says the Lord Yahweh.
 
 ### 30
-“These are the exits of the city: On the north side four thousand and five hundred reeds by measure;
+“These are the exits of the city: On the north side four thousand and five hundred reeds by measure; and the gates of the city shall be named after the tribes of Israel, three gates northward: the gate of Reuben, one; the gate of Judah, one; the gate of Levi, one.
 
 ### 31
-and the gates of the city shall be named after the tribes of Israel, three gates northward: the gate of Reuben, one; the gate of Judah, one; the gate of Levi, one.
-
-### 32
 “At the east side four thousand and five hundred reeds, and three gates: even the gate of Joseph, one; the gate of Benjamin, one; the gate of Dan, one.
 
-### 33
+### 32
 “At the south side four thousand and five hundred reeds by measure, and three gates: the gate of Simeon, one; the gate of Issachar, one; the gate of Zebulun, one.
 
-### 34
+### 33
 “At the west side four thousand and five hundred reeds, with their three gates: the gate of Gad, one; the gate of Asher, one; the gate of Naphtali, one.
 
-### 35
+### 34
 “It shall be eighteen thousand reeds around: and the name of the city from that day shall be, ‘Yahweh is there.’

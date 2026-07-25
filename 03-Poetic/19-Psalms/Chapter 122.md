@@ -9,25 +9,22 @@ canon: "Poetic"
 I was glad when they said to me, “Let’s go to Yahweh’s house!”
 
 ### 2
-Our feet are standing within your gates, Jerusalem;
+Our feet are standing within your gates, Jerusalem; Jerusalem, that is built as a city that is compact together;
 
 ### 3
-Jerusalem, that is built as a city that is compact together;
-
-### 4
 where the tribes go up, even Yah’s tribes, according to an ordinance for Israel, to give thanks to Yahweh’s name.
 
-### 5
+### 4
 For there are set thrones for judgment, the thrones of David’s house.
 
-### 6
+### 5
 Pray for the peace of Jerusalem. Those who love you will prosper.
 
-### 7
+### 6
 Peace be within your walls, and prosperity within your palaces.
 
-### 8
+### 7
 For my brothers’ and companions’ sakes, I will now say, “Peace be within you.”
 
-### 9
+### 8
 For the sake of the house of Yahweh our God, I will seek your good.

@@ -60,31 +60,25 @@ For this reason I have commanded thee, saying: 'Testify this testimony to Israel
 And the seed of Levi was chosen for the priesthood, and to be Levites, that they might minister before the Lord, as we, continually, and that Levi and his sons may be blessed for ever; for he was zealous to execute righteousness and judgment and vengeance on all those who arose against Israel.
 
 ### 19
-And so they inscribe as a testimony in his favour on the heavenly tablets blessing and righteousness before the God of all:
+And so they inscribe as a testimony in his favour on the heavenly tablets blessing and righteousness before the God of all: And we remember the righteousness which the man fulfilled during his life, at all periods of the year; until a thousand generations they will record it, and it will come to him and to his descendants after him, and he has been recorded on the heavenly tablets as a friend and a righteous man.
 
 ### 20
-And we remember the righteousness which the man fulfilled during his life, at all periods of the year; until a thousand generations they will record it, and it will come to him and to his descendants after him, and he has been recorded on the heavenly tablets as a friend and a righteous man.
-
-### 21
 All this account I have written for thee, and have commanded thee to say to the children of Israel, that they should not commit sin nor transgress the ordinances nor break the covenant which has been ordained for them, (but) that they should fulfil it and be recorded as friends.
 
-### 22
+### 21
 But if they transgress and work uncleanness in every way, they will be recorded on the heavenly tablets as adversaries, and they will be destroyed out of the book of life, and they will be recorded in the book of those who will be destroyed and with those who will be rooted out of the earth.
 
-### 23
+### 22
 And on the day when the sons of Jacob slew Shechem a writing was recorded in their favour in heaven that they had executed righteousness and uprightness and vengeance on the sinners, and it was written for a blessing.
 
-### 24
+### 23
 And they brought Dinah, their sister, out of the house of Shechem, and they took captive everything that was in Shechem, their sheep and their oxen and their asses, and all their wealth, and all their flocks, and brought them all to Jacob their father.
 
-### 25
+### 24
 And he reproached them because they had put the city to the sword for he feared those who dwelt in the land, the Canaanites and the Perizzites.
 
-### 26
+### 25
 And the dread of the Lord was upon all the cities which are around about Shechem, and they did not rise to pursue after the sons of Jacob; for terror had fallen upon them.
 
-### 27
-The Book of Jubilees
-
-### 28
-Jacob goes to Bethel to offer sacrifice, 1-3 (cf. Gen. xxxv.2-4, 7, 14). Isaac blesses Levi, 4-17, and Judah, 18-22. Jacob recounts to Isaac how God prospered him, 24. Jacob goes to Bethel with Rebecca and Deborah, 26-30. Jacob blesses the God of his fathers, 31-2.
+### 26
+The Book of Jubilees Jacob goes to Bethel to offer sacrifice, 1-3 (cf. Gen. xxxv.2-4, 7, 14). Isaac blesses Levi, 4-17, and Judah, 18-22. Jacob recounts to Isaac how God prospered him, 24. Jacob goes to Bethel with Rebecca and Deborah, 26-30. Jacob blesses the God of his fathers, 31-2.

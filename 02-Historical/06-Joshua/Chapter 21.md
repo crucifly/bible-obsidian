@@ -30,112 +30,79 @@ The children of Merari according to their families had twelve cities out of the 
 The children of Israel gave these cities with their suburbs by lot to the Levites, as Yahweh commanded by Moses.
 
 ### 9
-They gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are mentioned by name:
+They gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are mentioned by name: and they were for the children of Aaron, of the families of the Kohathites, who were of the children of Levi; for theirs was the first lot.
 
 ### 10
-and they were for the children of Aaron, of the families of the Kohathites, who were of the children of Levi; for theirs was the first lot.
-
-### 11
 They gave them Kiriath Arba, named after the father of Anak (also called Hebron), in the hill country of Judah, with its suburbs around it.
 
-### 12
+### 11
 But they gave the fields of the city and its villages to Caleb the son of Jephunneh for his possession.
 
+### 12
+To the children of Aaron the priest they gave Hebron with its suburbs, the city of refuge for the man slayer, Libnah with its suburbs, Jattir with its suburbs, Eshtemoa with its suburbs,
+
 ### 13
-To the children of Aaron the priest they gave Hebron with its suburbs, the city of refuge for the man slayer, Libnah with its suburbs,
+Holon with its suburbs, Debir with its suburbs, Ain with its suburbs, Juttah with its suburbs, and Beth Shemesh with its suburbs: nine cities out of those two tribes.
 
 ### 14
-Jattir with its suburbs, Eshtemoa with its suburbs,
+Out of the tribe of Benjamin, Gibeon with its suburbs, Geba with its suburbs, Anathoth with its suburbs, and Almon with its suburbs: four cities.
 
 ### 15
-Holon with its suburbs, Debir with its suburbs,
-
-### 16
-Ain with its suburbs, Juttah with its suburbs, and Beth Shemesh with its suburbs: nine cities out of those two tribes.
-
-### 17
-Out of the tribe of Benjamin, Gibeon with its suburbs, Geba with its suburbs,
-
-### 18
-Anathoth with its suburbs, and Almon with its suburbs: four cities.
-
-### 19
 All the cities of the children of Aaron, the priests, were thirteen cities with their suburbs.
 
-### 20
+### 16
 The families of the children of Kohath, the Levites, even the rest of the children of Kohath, had the cities of their lot out of the tribe of Ephraim.
 
-### 21
-They gave them Shechem with its suburbs in the hill country of Ephraim, the city of refuge for the man slayer, and Gezer with its suburbs,
+### 17
+They gave them Shechem with its suburbs in the hill country of Ephraim, the city of refuge for the man slayer, and Gezer with its suburbs, Kibzaim with its suburbs, and Beth Horon with its suburbs: four cities.
 
-### 22
-Kibzaim with its suburbs, and Beth Horon with its suburbs: four cities.
+### 18
+Out of the tribe of Dan, Elteke with its suburbs, Gibbethon with its suburbs, Aijalon with its suburbs, Gath Rimmon with its suburbs: four cities.
 
-### 23
-Out of the tribe of Dan, Elteke with its suburbs, Gibbethon with its suburbs,
-
-### 24
-Aijalon with its suburbs, Gath Rimmon with its suburbs: four cities.
-
-### 25
+### 19
 Out of the half-tribe of Manasseh, Taanach with its suburbs, and Gath Rimmon with its suburbs: two cities.
 
-### 26
+### 20
 All the cities of the families of the rest of the children of Kohath were ten with their suburbs.
 
-### 27
+### 21
 They gave to the children of Gershon, of the families of the Levites, out of the half-tribe of Manasseh Golan in Bashan with its suburbs, the city of refuge for the man slayer, and Be Eshterah with its suburbs: two cities.
 
-### 28
-Out of the tribe of Issachar, Kishion with its suburbs, Daberath with its suburbs,
+### 22
+Out of the tribe of Issachar, Kishion with its suburbs, Daberath with its suburbs, Jarmuth with its suburbs, En Gannim with its suburbs: four cities.
 
-### 29
-Jarmuth with its suburbs, En Gannim with its suburbs: four cities.
+### 23
+Out of the tribe of Asher, Mishal with its suburbs, Abdon with its suburbs, Helkath with its suburbs, and Rehob with its suburbs: four cities.
 
-### 30
-Out of the tribe of Asher, Mishal with its suburbs, Abdon with its suburbs,
-
-### 31
-Helkath with its suburbs, and Rehob with its suburbs: four cities.
-
-### 32
+### 24
 Out of the tribe of Naphtali, Kedesh in Galilee with its suburbs, the city of refuge for the man slayer, Hammothdor with its suburbs, and Kartan with its suburbs: three cities.
 
-### 33
+### 25
 All the cities of the Gershonites according to their families were thirteen cities with their suburbs.
 
-### 34
-To the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with its suburbs, Kartah with its suburbs,
+### 26
+To the families of the children of Merari, the rest of the Levites, out of the tribe of Zebulun, Jokneam with its suburbs, Kartah with its suburbs, Dimnah with its suburbs, and Nahalal with its suburbs: four cities.
 
-### 35
-Dimnah with its suburbs, and Nahalal with its suburbs: four cities.
+### 27
+Out of the tribe of Reuben, Bezer with its suburbs, Jahaz with its suburbs, Kedemoth with its suburbs, and Mephaath with its suburbs: four cities.
 
-### 36
-Out of the tribe of Reuben, Bezer with its suburbs, Jahaz with its suburbs,
+### 28
+Out of the tribe of Gad, Ramoth in Gilead with its suburbs, the city of refuge for the man slayer, and Mahanaim with its suburbs, Heshbon with its suburbs, Jazer with its suburbs: four cities in all.
 
-### 37
-Kedemoth with its suburbs, and Mephaath with its suburbs: four cities.
-
-### 38
-Out of the tribe of Gad, Ramoth in Gilead with its suburbs, the city of refuge for the man slayer, and Mahanaim with its suburbs,
-
-### 39
-Heshbon with its suburbs, Jazer with its suburbs: four cities in all.
-
-### 40
+### 29
 All these were the cities of the children of Merari according to their families, even the rest of the families of the Levites. Their lot was twelve cities.
 
-### 41
+### 30
 All the cities of the Levites among the possessions of the children of Israel were forty-eight cities with their suburbs.
 
-### 42
+### 31
 Each of these cities included their suburbs around them. It was this way with all these cities.
 
-### 43
+### 32
 So Yahweh gave to Israel all the land which he swore to give to their fathers. They possessed it, and lived in it.
 
-### 44
+### 33
 Yahweh gave them rest all around, according to all that he swore to their fathers. Not a man of all their enemies stood before them. Yahweh delivered all their enemies into their hand.
 
-### 45
+### 34
 Nothing failed of any good thing which Yahweh had spoken to the house of Israel. All came to pass.

@@ -89,82 +89,64 @@ And Jacob rose up from his sons and spread forth his hands and he prayed unto th
 And all the wives of the sons of Jacob and their children lifted up their eyes to heaven and they all wept before the Lord, and cried unto him to deliver their fathers from the hand of the king of Egypt.
 
 ### 27
-And Jacob wrote a record to the king of Egypt and gave it into the hand of Judah and into the hands of his sons for the king of Egypt, saying,
+And Jacob wrote a record to the king of Egypt and gave it into the hand of Judah and into the hands of his sons for the king of Egypt, saying, From thy servant Jacob, son of Isaac, son of Abraham the Hebrew, the prince of God, to the powerful and wise king, the revealer of secrets, king of Egypt, greeting.
 
 ### 28
-From thy servant Jacob, son of Isaac, son of Abraham the Hebrew, the prince of God, to the powerful and wise king, the revealer of secrets, king of Egypt, greeting.
-
-### 29
 Be it known to my lord the king of Egypt, the famine was sore upon us in the land of Canaan, and I sent my sons to thee to buy us a little food from thee for our support.
 
-### 30
+### 29
 For my sons surrounded me and I being very old cannot see with my eyes, for my eyes have become very heavy through age, as well as with daily weeping for my son, for Joseph who was lost from before me, and I commanded my sons that they should not enter the gates of the city when they came to Egypt, on account of the inhabitants of the land.
 
-### 31
+### 30
 And I also commanded them to go about Egypt to seek for my son Joseph, perhaps they might find him there, and they did so, and thou didst consider them as spies of the land.
 
-### 32
+### 31
 Have we not heard concerning thee that thou didst interpret Pharaoh's dream and didst speak truly unto him? how then dost thou not know in thy wisdom whether my sons are spies or not?.
 
-### 33
+### 32
 Now therefore, my lord and king, behold I have sent my son before thee, as thou didst speak unto my sons; I beseech thee to put thy eyes upon him until he is returned to me in peace with his brethren.
 
-### 34
+### 33
 For dost thou not know, or hast thou not heard that which our God did unto Pharaoh when he took my mother Sarah, and what he did unto Abimelech king of the Philistines on account of her, and also what our father Abraham did unto the nine kings of Elam, how he smote them all with a few men that were with him?
 
-### 35
+### 34
 And also what my two sons Simeon and Levi did unto the eight cities of the Amorites, how they destroyed them on account of their sister Dinah?
 
-### 36
+### 35
 And also on account of their brother Benjamin they consoled themselves for the loss of his brother Joseph; what will they then do for him when they see the hand of any people prevailing over them, for his sake?
 
-### 37
+### 36
 Dost thou not know, O king of Egypt, that the power of God is with us, and that also God ever heareth our prayers and forsaketh us not all the days?
 
-### 38
+### 37
 And when my sons told me of thy dealings with them, I called not unto the Lord on account of thee, for then thou wouldst have perished with thy men before my son Benjamin came before thee, but I thought that as Simeon my son was in thy house, perhaps thou mightest deal kindly with him, therefore I did not this thing unto thee.
 
-### 39
+### 38
 Now therefore behold Benjamin my son cometh unto thee with my sons, take heed of him and put thy eyes upon him, and then will God place his eyes over thee and throughout thy kingdom.
 
-### 40
+### 39
 Now I have told thee all that is in my heart, and behold my sons are coming to thee with their brother, examine the face of the whole earth for their sake and send them back in peace with their brethren.
 
-### 41
+### 40
 And Jacob gave the record to his sons into the care of Judah to give it unto the king of Egypt.
 
-### 42
+### 41
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_52&oldid=11445986"
 
+### 42
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:02.
+
 ### 43
-Hidden categories: SubpagesHeaders applying DefaultSort key
-
-### 44
-This page was last edited on 30 June 2021, at 02:02.
-
-### 45
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 44
+Privacy policy Disclaimers
+
+### 45
+Code of Conduct Developers
+
 ### 46
-Privacy policy
+Statistics Cookie statement
 
 ### 47
-Disclaimers
-
-### 48
-Code of Conduct
-
-### 49
-Developers
-
-### 50
-Statistics
-
-### 51
-Cookie statement
-
-### 52
-Mobile view
-
-### 53
-Add topic
+Mobile view Add topic

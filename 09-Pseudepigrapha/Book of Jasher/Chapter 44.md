@@ -128,157 +128,139 @@ And Zelicah became worse from her love to Joseph, and she continued to decline, 
 And on a certain day Joseph was doing his master's work in the house, and Zelicah came secretly and fell suddenly upon him, and Joseph rose up against her, and he was more powerful than she, and he brought her down to the ground.
 
 ### 40
-And Zelicah wept on account of the desire of her heart toward him, and she supplicated him with weeping, and her tears flowed down her cheeks, and she spoke unto him in a voice of supplication and in bitterness of soul, saying,
+And Zelicah wept on account of the desire of her heart toward him, and she supplicated him with weeping, and her tears flowed down her cheeks, and she spoke unto him in a voice of supplication and in bitterness of soul, saying, Hast thou ever heard, seen or known of so beautiful a woman as I am, or better than myself, who speak daily unto thee, fall into a decline through love for thee, confer all this honor upon thee, and still thou wilt not hearken to my voice?
 
 ### 41
-Hast thou ever heard, seen or known of so beautiful a woman as I am, or better than myself, who speak daily unto thee, fall into a decline through love for thee, confer all this honor upon thee, and still thou wilt not hearken to my voice?
-
-### 42
 And if it be through fear of thy master lest he punish thee, as the king liveth no harm shall come to thee from thy master through this thing; now, therefore pray listen to me, and consent for the sake of the honor which I have conferred upon thee, and put off this death from me, and why should I die for thy sake? and she ceased to speak.
 
-### 43
+### 42
 And Joseph answered her, saying, Refrain from me, and leave this matter to my master; behold my master knoweth not what there is with me in the house, for all that belongeth to him he has delivered into my hand, and how shall I do these things in my master's house?
 
-### 44
+### 43
 For he hath also greatly honored me in his house, and he hath also made me overseer over his house, and he hath exalted me, and there is no one greater in this house than I am, and my master hath refrained nothing from me, excepting thee who art his wife, how then canst thou speak these words unto me, and how can I do this great evil and sin to God and to thy husband?
 
-### 45
+### 44
 Now therefore refrain from me, and speak no more such words as these, for I will not hearken to thy words. But Zelicah would not hearken to Joseph when he spoke these words unto her, but she daily enticed him to listen to her.
 
-### 46
+### 45
 And it was after this that the brook of Egypt was filled above all its sides, and all the inhabitants of Egypt went forth, and also the king and princes went forth with timbrels and dances, for it was a great rejoicing in Egypt, and a holiday at the time of the inundation of the sea Sihor, and they went there to rejoice all the day.
 
-### 47
+### 46
 And when the Egyptians went out to the river to rejoice, as was their custom, all the people of the house of Potiphar went with them, but Zelicah would not go with them, for she said, I am indisposed, and she remained alone in the house, and no other person was with her in the house.
 
-### 48
+### 47
 And she rose up and ascended to her temple in the house, and dressed herself in princely garments, and she placed upon her head precious stones of onyx stones, inlaid with silver and gold, and she beautified her face and skin with all sorts of women's purifying liquids, and she perfumed the temple and the house with cassia and frankincense, and she spread myrrh and aloes, and she afterward sat in the entrance of the temple, in the passage of the house, through which Joseph passed to do his work, and behold Joseph came from the field, and entered the house to do his master's work.
 
-### 49
+### 48
 And he came to the place through which he had to pass, and he saw all the work of Zelicah, and he turned back.
 
-### 50
+### 49
 And Zelicah saw Joseph turning back from her, and she called out to him, saying What aileth thee Joseph? come to thy work, and behold I will make room for thee until thou shalt have passed to thy seat.
 
-### 51
+### 50
 And Joseph returned and came to the house, and passed from thence to the place of his seat, and he sat down to do his master's work as usual and behold Zelicah came to him and stood before him in princely garments, and the scent from her clothes was spread to a distance.
 
-### 52
+### 51
 And she hastened and caught hold of Joseph and his garments, and she said unto him, As the king liveth if thou wilt not perform my request thou shalt die this day, and she hastened and stretched forth her other hand and drew a sword from beneath her garments, and she placed it upon Joseph's neck, and she said, Rise and perform my request, and if not thou diest this day.
 
-### 53
+### 52
 And Joseph was afraid of her at her doing this thing, and he rose up to flee from her, and she seized the front of his garments, and in the terror of his flight the garment which Zelicah seized was torn, and Joseph left the garment in the hand of Zelicah, and he fled and got out, for he was in fear.
 
-### 54
+### 53
 And when Zelicah saw that Joseph's garment was torn, and that he had left it in her hand, and had fled, she was afraid of her life, lest the report should spread concerning her, and she rose up and acted with cunning, and put off the garments in which she was dressed, and she put on her other garments.
 
-### 55
+### 54
 And she took Joseph's garment, and she laid it beside her, and she went and seated herself in the place where she had sat in her illness, before the people of her house had gone out to the river, and she called a young lad who was then in the house, and she ordered him to call the people of the house to her.
 
-### 56
+### 55
 And when she saw them she said unto them with a loud voice and lamentation, See what a Hebrew your master has brought to me in the house, for he came this day to lie with me.
 
-### 57
+### 56
 For when you had gone out he came to the house, and seeing that there was no person in the house, he came unto me, and caught hold of me, with intent to lie with me.
 
-### 58
+### 57
 And I seized his garments and tore them and called out against him with a loud voice, and when I had lifted up my voice he was afraid of his life and left his garment before me, and fled.
 
-### 59
+### 58
 And the people of her house spoke nothing, but their wrath was very much kindled against Joseph, and they went to his master and told him the words of his wile.
 
-### 60
+### 59
 And Potiphar came home enraged, and his wife cried out to him, saying, What is this thing that thou hast done unto me in bringing a Hebrew servant into my house, for he came unto me this day to sport with me; thus did he do unto me this day.
 
-### 61
+### 60
 And Potiphar heard the words of his wife, and he ordered Joseph to be punished with severe stripes, and they did so to him.
 
-### 62
+### 61
 And whilst they were smiting him, Joseph called out with a loud voice, and he lifted up his eyes to heaven, and he said, O Lord God, thou knowest that I am innocent of all these things, and why shall I die this day through falsehood, by the hand of these uncircumcised wicked men, whom thou knowest?
 
-### 63
+### 62
 And whilst Potiphar's men were beating Joseph, he continued to cry out and weep, and there was a child there eleven months old, and the Lord opened the mouth of the child, and he spake these words before Potiphar's men, who were smiting Joseph, saying,.
 
-### 64
+### 63
 What do you want of this man, and why do you do this evil unto him? my mother speaketh falsely and uttereth lies; thus was the transaction.
 
-### 65
+### 64
 And the child told them accurately all that happened, and all the words of Zelicah to Joseph day after day did he declare unto them.
 
-### 66
+### 65
 And all the men heard the words of the child and they wondered greatly at the child's words, and the child ceased to speak and became still.
 
-### 67
+### 66
 And Potiphar was very much ashamed at the words of his son, and he commanded his men not to beat Joseph any more, and the men ceased beating Joseph.
 
-### 68
+### 67
 And Potiphar took Joseph and ordered him to be brought to justice before the priests, who were judges belonging to the king, in order to judge him concerning this affair.
 
-### 69
+### 68
 And Potiphar and Joseph came before the priests who were the king's judges, and he said unto them, Decide I pray you, what judgment is due to a servant, for thus has he done.
 
-### 70
+### 69
 And the priests said unto Joseph, Why didst thou do this thing to thy master? and Joseph answered them, saying, Not so my lords, thus was the matter; and Potiphar said unto Joseph, Surely I entrusted in thy hands all that belonged to me, and I withheld nothing from thee but my wife, and how couldst thou do this evil?
 
-### 71
+### 70
 And Joseph answered saying, Not so my lord, as the Lord liveth, and as thy soul liveth, my lord, the word which thou didst hear from thy wife is untrue, for thus was the affair this day.
 
-### 72
+### 71
 A year has elapsed to me since I have been in thy house; hast thou seen any iniquity in me, or any thing which might cause thee to demand my life?
 
-### 73
+### 72
 And the priests said unto Potiphar, Send, we pray thee, and let them bring before us Joseph's torn garment, and let us see the tear in it, and if it shall be that the tear is in front of the garment, then his face must have been opposite to her and she must have caught hold of him, to come to her, and with deceit did thy wife do all that she has spoken.
 
-### 74
+### 73
 And they brought Joseph's garment before the priests who were judges, and they saw and behold the tear was in front of Joseph, and all the judging priests knew that she had pressed him, and they said, The judgment of death is not due to this slave for he has done nothing, but his judgment is, that he be placed in the prison house on account of the report, which through him has gone forth against thy wife.
 
-### 75
+### 74
 And Potiphar heard their words, and he placed him in the prison house, the place where the king's prisoners are confined, and Joseph was in the house of confinement twelve years.
 
-### 76
+### 75
 And notwithstanding this, his master's wife did not turn from him, and she did not cease from speaking to him day after day to hearken to her, and at the end of three months Zelicah continued going to Joseph to the house of confinement day by day, and she enticed him to hearken to her, and Zelicah said unto Joseph, How long wilt thou remain in this house? but hearken now to my voice, and I will bring thee out of this house.
 
-### 77
+### 76
 And Joseph answered her, saying, It is better for me to remain in this house than to hearken to thy words, to sin against God; and she said unto him, If thou wilt not perform my wish, I will pluck out thine eyes, add fetters to thy feet, and will deliver thee into the hands of them whom thou didst not know before.
 
-### 78
+### 77
 And Joseph answered her and said, Behold the God of the whole earth is able to deliver me from all that thou canst do unto me, for he openeth the eyes of the blind, and looseth those that are bound, and preserveth all strangers who are unacquainted with the land.
 
-### 79
+### 78
 And when Zelicah was unable to persuade Joseph to hearken to her, she left off going to entice him; and Joseph was still confined in the house of confinement. And Jacob the father of Joseph, and all his brethren who were in the land of Canaan still mourned and wept in those days on account of Joseph, for Jacob refused to be comforted for his son Joseph, and Jacob cried aloud, and wept and mourned all those days.
 
-### 80
+### 79
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_44&oldid=11445956"
 
+### 80
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:00.
+
 ### 81
-Hidden categories: SubpagesHeaders applying DefaultSort key
-
-### 82
-This page was last edited on 30 June 2021, at 02:00.
-
-### 83
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 82
+Privacy policy Disclaimers
+
+### 83
+Code of Conduct Developers
+
 ### 84
-Privacy policy
+Statistics Cookie statement
 
 ### 85
-Disclaimers
-
-### 86
-Code of Conduct
-
-### 87
-Developers
-
-### 88
-Statistics
-
-### 89
-Cookie statement
-
-### 90
-Mobile view
-
-### 91
-Add topic
+Mobile view Add topic

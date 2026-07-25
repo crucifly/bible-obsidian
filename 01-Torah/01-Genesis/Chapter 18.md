@@ -9,97 +9,88 @@ canon: "Torah"
 Yahweh appeared to him by the oaks of Mamre, as he sat in the tent door in the heat of the day.
 
 ### 2
-He lifted up his eyes and looked, and saw that three men stood opposite him. When he saw them, he ran to meet them from the tent door, and bowed himself to the earth,
+He lifted up his eyes and looked, and saw that three men stood opposite him. When he saw them, he ran to meet them from the tent door, and bowed himself to the earth, and said, “My lord, if now I have found favor in your sight, please don’t go away from your servant.
 
 ### 3
-and said, “My lord, if now I have found favor in your sight, please don’t go away from your servant.
-
-### 4
 Now let a little water be fetched, wash your feet, and rest yourselves under the tree.
 
-### 5
+### 4
 I will get a morsel of bread so you can refresh your heart. After that you may go your way, now that you have come to your servant.” They said, “Very well, do as you have said.”
 
-### 6
+### 5
 Abraham hurried into the tent to Sarah, and said, “Quickly prepare three seahs of fine meal, knead it, and make cakes.”
 
-### 7
+### 6
 Abraham ran to the herd, and fetched a tender and good calf, and gave it to the servant. He hurried to dress it.
 
-### 8
+### 7
 He took butter, milk, and the calf which he had dressed, and set it before them. He stood by them under the tree, and they ate.
 
-### 9
+### 8
 They asked him, “Where is Sarah, your wife?” He said, “See, in the tent.”
 
-### 10
+### 9
 He said, “I will certainly return to you at about this time next year; and behold, Sarah your wife will have a son.” Sarah heard in the tent door, which was behind him.
 
-### 11
+### 10
 Now Abraham and Sarah were old, well advanced in age. Sarah had passed the age of childbearing.
 
-### 12
+### 11
 Sarah laughed within herself, saying, “After I have grown old will I have pleasure, my lord being old also?”
 
-### 13
+### 12
 Yahweh said to Abraham, “Why did Sarah laugh, saying, ‘Will I really bear a child, yet I am old?’
 
-### 14
+### 13
 Is anything too hard for Yahweh? At the set time I will return to you, when the season comes round, and Sarah will have a son.”
 
-### 15
+### 14
 Then Sarah denied it, saying, “I didn’t laugh,” for she was afraid. He said, “No, but you did laugh.”
 
-### 16
+### 15
 The men rose up from there, and looked toward Sodom. Abraham went with them to see them on their way.
 
+### 16
+Yahweh said, “Will I hide from Abraham what I do, since Abraham will surely become a great and mighty nation, and all the nations of the earth will be blessed in him?
+
 ### 17
-Yahweh said, “Will I hide from Abraham what I do,
-
-### 18
-since Abraham will surely become a great and mighty nation, and all the nations of the earth will be blessed in him?
-
-### 19
 For I have known him, to the end that he may command his children and his household after him, that they may keep the way of Yahweh, to do righteousness and justice; to the end that Yahweh may bring on Abraham that which he has spoken of him.”
 
-### 20
-Yahweh said, “Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous,
+### 18
+Yahweh said, “Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous, I will go down now, and see whether their deeds are as bad as the reports which have come to me. If not, I will know.”
 
-### 21
-I will go down now, and see whether their deeds are as bad as the reports which have come to me. If not, I will know.”
-
-### 22
+### 19
 The men turned from there, and went toward Sodom, but Abraham stood yet before Yahweh.
 
-### 23
+### 20
 Abraham came near, and said, “Will you consume the righteous with the wicked?
 
-### 24
+### 21
 What if there are fifty righteous within the city? Will you consume and not spare the place for the fifty righteous who are in it?
 
-### 25
+### 22
 Be it far from you to do things like that, to kill the righteous with the wicked, so that the righteous should be like the wicked. May that be far from you. Shouldn’t the Judge of all the earth do right?”
 
-### 26
+### 23
 Yahweh said, “If I find in Sodom fifty righteous within the city, then I will spare the whole place for their sake.”
 
-### 27
+### 24
 Abraham answered, “See now, I have taken it on myself to speak to the Lord, although I am dust and ashes.
 
-### 28
+### 25
 What if there will lack five of the fifty righteous? Will you destroy all the city for lack of five?” He said, “I will not destroy it if I find forty-five there.”
 
-### 29
+### 26
 He spoke to him yet again, and said, “What if there are forty found there?” He said, “I will not do it for the forty’s sake.”
 
-### 30
+### 27
 He said, “Oh don’t let the Lord be angry, and I will speak. What if there are thirty found there?” He said, “I will not do it if I find thirty there.”
 
-### 31
+### 28
 He said, “See now, I have taken it on myself to speak to the Lord. What if there are twenty found there?” He said, “I will not destroy it for the twenty’s sake.”
 
-### 32
+### 29
 He said, “Oh don’t let the Lord be angry, and I will speak just once more. What if ten are found there?” He said, “I will not destroy it for the ten’s sake.”
 
-### 33
+### 30
 Yahweh went his way, as soon as he had finished communing with Abraham, and Abraham returned to his place.

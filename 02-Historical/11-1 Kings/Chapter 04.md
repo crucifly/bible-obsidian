@@ -9,100 +9,73 @@ canon: "Historical"
 King Solomon was king over all Israel.
 
 ### 2
-These were the princes whom he had: Azariah the son of Zadok, the priest;
+These were the princes whom he had: Azariah the son of Zadok, the priest; Elihoreph and Ahijah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder;
 
 ### 3
-Elihoreph and Ahijah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder;
+Benaiah the son of Jehoiada was over the army; Zadok and Abiathar were priests; Azariah the son of Nathan was over the officers; Zabud the son of Nathan was chief minister, the king’s friend;
 
 ### 4
-Benaiah the son of Jehoiada was over the army; Zadok and Abiathar were priests;
-
-### 5
-Azariah the son of Nathan was over the officers; Zabud the son of Nathan was chief minister, the king’s friend;
-
-### 6
 Ahishar was over the household; and Adoniram the son of Abda was over the men subject to forced labor.
 
-### 7
+### 5
 Solomon had twelve officers over all Israel, who provided food for the king and his household. Each man had to make provision for a month in the year.
 
+### 6
+These are their names: Ben Hur, in the hill country of Ephraim; Ben Deker, in Makaz, in Shaalbim, Beth Shemesh, and Elon Beth Hanan;
+
+### 7
+Ben Hesed, in Arubboth (Socoh and all the land of Hepher belonged to him); Ben Abinadab, in all the height of Dor (he had Taphath, Solomon’s daughter, as wife);
+
 ### 8
-These are their names: Ben Hur, in the hill country of Ephraim;
+Baana the son of Ahilud, in Taanach and Megiddo, and all Beth Shean which is beside Zarethan, beneath Jezreel, from Beth Shean to Abel Meholah, as far as beyond Jokmeam; Ben Geber, in Ramoth Gilead (the towns of Jair the son of Manasseh, which are in Gilead, belonged to him; and the region of Argob, which is in Bashan, sixty great cities with walls and bronze bars, belonged to him);
 
 ### 9
-Ben Deker, in Makaz, in Shaalbim, Beth Shemesh, and Elon Beth Hanan;
+Ahinadab the son of Iddo, in Mahanaim; Ahimaaz, in Naphtali (he also took Basemath the daughter of Solomon as wife);
 
 ### 10
-Ben Hesed, in Arubboth (Socoh and all the land of Hepher belonged to him);
+Baana the son of Hushai, in Asher and Bealoth; Jehoshaphat the son of Paruah, in Issachar;
 
 ### 11
-Ben Abinadab, in all the height of Dor (he had Taphath, Solomon’s daughter, as wife);
+Shimei the son of Ela, in Benjamin; Geber the son of Uri, in the land of Gilead, the country of Sihon king of the Amorites and of Og king of Bashan; and he was the only officer who was in the land.
 
 ### 12
-Baana the son of Ahilud, in Taanach and Megiddo, and all Beth Shean which is beside Zarethan, beneath Jezreel, from Beth Shean to Abel Meholah, as far as beyond Jokmeam;
-
-### 13
-Ben Geber, in Ramoth Gilead (the towns of Jair the son of Manasseh, which are in Gilead, belonged to him; and the region of Argob, which is in Bashan, sixty great cities with walls and bronze bars, belonged to him);
-
-### 14
-Ahinadab the son of Iddo, in Mahanaim;
-
-### 15
-Ahimaaz, in Naphtali (he also took Basemath the daughter of Solomon as wife);
-
-### 16
-Baana the son of Hushai, in Asher and Bealoth;
-
-### 17
-Jehoshaphat the son of Paruah, in Issachar;
-
-### 18
-Shimei the son of Ela, in Benjamin;
-
-### 19
-Geber the son of Uri, in the land of Gilead, the country of Sihon king of the Amorites and of Og king of Bashan; and he was the only officer who was in the land.
-
-### 20
 Judah and Israel were numerous as the sand which is by the sea in multitude, eating and drinking and making merry.
 
-### 21
+### 13
 Solomon ruled over all the kingdoms from the River to the land of the Philistines, and to the border of Egypt. They brought tribute and served Solomon all the days of his life.
 
-### 22
-Solomon’s provision for one day was thirty cors of fine flour, sixty measures of meal,
+### 14
+Solomon’s provision for one day was thirty cors of fine flour, sixty measures of meal, ten head of fat cattle, twenty head of cattle out of the pastures, and one hundred sheep, besides deer, and gazelles, and roebucks, and fattened fowl.
 
-### 23
-ten head of fat cattle, twenty head of cattle out of the pastures, and one hundred sheep, besides deer, and gazelles, and roebucks, and fattened fowl.
-
-### 24
+### 15
 For he had dominion over all on this side the River, from Tiphsah even to Gaza, over all the kings on this side the River: and he had peace on all sides around him.
 
-### 25
+### 16
 Judah and Israel lived safely, every man under his vine and under his fig tree, from Dan even to Beersheba, all the days of Solomon.
 
-### 26
+### 17
 Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.
 
-### 27
+### 18
 Those officers provided food for king Solomon, and for all who came to king Solomon’s table, every man in his month. They let nothing be lacking.
 
-### 28
+### 19
 They also brought Barley and straw for the horses and swift steeds to the place where the officers were, each man according to his duty.
 
-### 29
+### 20
 God gave Solomon abundant wisdom and understanding, and very great understanding, even as the sand that is on the seashore.
 
-### 30
+### 21
 Solomon’s wisdom excelled the wisdom of all the children of the east and all the wisdom of Egypt.
 
-### 31
+### 22
 For he was wiser than all men; than Ethan the Ezrahite, Heman, Calcol, and Darda, the sons of Mahol: and his fame was in all the nations all around.
 
-### 32
+### 23
 He spoke three thousand proverbs; and his songs numbered one thousand five.
 
-### 33
+### 24
 He spoke of trees, from the cedar that is in Lebanon even to the hyssop that grows out of the wall; he also spoke of animals, of birds, of creeping things, and of fish.
 
-### 34
+### 25
 People of all nations came to hear the wisdom of Solomon, sent by all kings of the earth, who had heard of his wisdom.

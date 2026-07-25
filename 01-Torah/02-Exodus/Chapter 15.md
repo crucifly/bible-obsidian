@@ -78,10 +78,7 @@ When they came to Marah, they couldn’t drink from the waters of Marah, for the
 The people murmured against Moses, saying, “What shall we drink?”
 
 ### 25
-Then he cried to Yahweh. Yahweh showed him a tree, and he threw it into the waters, and the waters were made sweet. There he made a statute and an ordinance for them, and there he tested them;
+Then he cried to Yahweh. Yahweh showed him a tree, and he threw it into the waters, and the waters were made sweet. There he made a statute and an ordinance for them, and there he tested them; and he said, “If you will diligently listen to Yahweh your God’s voice, and will do that which is right in his eyes, and will pay attention to his commandments, and keep all his statutes, I will put none of the diseases on you, which I have put on the Egyptians; for I am Yahweh who heals you.”
 
 ### 26
-and he said, “If you will diligently listen to Yahweh your God’s voice, and will do that which is right in his eyes, and will pay attention to his commandments, and keep all his statutes, I will put none of the diseases on you, which I have put on the Egyptians; for I am Yahweh who heals you.”
-
-### 27
 They came to Elim, where there were twelve springs of water, and seventy palm trees: and they encamped there by the waters.

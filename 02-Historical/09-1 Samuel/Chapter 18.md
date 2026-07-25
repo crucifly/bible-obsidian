@@ -33,64 +33,58 @@ Saul was very angry, and this saying displeased him. He said, “They have ascri
 Saul watched David from that day and forward.
 
 ### 10
-On the next day, an evil spirit from God came mightily on Saul, and he prophesied in the middle of the house. David played with his hand, as he did day by day. Saul had his spear in his hand;
+On the next day, an evil spirit from God came mightily on Saul, and he prophesied in the middle of the house. David played with his hand, as he did day by day. Saul had his spear in his hand; and Saul threw the spear, for he said, “I will pin David even to the wall!” David escaped from his presence twice.
 
 ### 11
-and Saul threw the spear, for he said, “I will pin David even to the wall!” David escaped from his presence twice.
-
-### 12
 Saul was afraid of David, because Yahweh was with him, and had departed from Saul.
 
-### 13
+### 12
 Therefore Saul removed him from his presence, and made him his captain over a thousand; and he went out and came in before the people.
 
-### 14
+### 13
 David behaved himself wisely in all his ways; and Yahweh was with him.
 
-### 15
+### 14
 When Saul saw that he behaved himself very wisely, he stood in awe of him.
 
-### 16
+### 15
 But all Israel and Judah loved David; for he went out and came in before them.
 
-### 17
+### 16
 Saul said to David, “Behold, my elder daughter Merab, I will give her to you as wife. Only be valiant for me, and fight Yahweh’s battles.” For Saul said, “Don’t let my hand be on him, but let the hand of the Philistines be on him.”
 
-### 18
+### 17
 David said to Saul, “Who am I, and what is my life, or my father’s family in Israel, that I should be son-in-law to the king?”
 
-### 19
+### 18
 But at the time when Merab, Saul’s daughter, should have been given to David, she was given to Adriel the Meholathite as wife.
 
-### 20
+### 19
 Michal, Saul’s daughter, loved David; and they told Saul, and the thing pleased him.
 
-### 21
+### 20
 Saul said, I will give her to him, that she may be a snare to him, and that the hand of the Philistines may be against him. Therefore Saul said to David, “You shall today be my son-in-law a second time.”
 
-### 22
+### 21
 Saul commanded his servants, “Talk with David secretly, and say, ‘Behold, the king has delight in you, and all his servants love you. Now therefore be the king’s son-in-law.’”
 
-### 23
+### 22
 Saul’s servants spoke those words in the ears of David. David said, “Does it seem to you a light thing to be the king’s son-in-law, since I am a poor man, and little known?”
 
-### 24
+### 23
 The servants of Saul told him, saying, “David spoke like this.”
 
-### 25
+### 24
 Saul said, “Tell David, ‘The king desires no dowry except one hundred foreskins of the Philistines, to be avenged of the king’s enemies.’” Now Saul thought he would make David fall by the hand of the Philistines.
 
+### 25
+When his servants told David these words, it pleased David well to be the king’s son-in-law. Before the deadline, David arose and went, he and his men, and killed two hundred men of the Philistines. Then David brought their foreskins, and they gave them in full number to the king, that he might be the king’s son-in-law. Then Saul gave him Michal his daughter as wife.
+
 ### 26
-When his servants told David these words, it pleased David well to be the king’s son-in-law. Before the deadline,
-
-### 27
-David arose and went, he and his men, and killed two hundred men of the Philistines. Then David brought their foreskins, and they gave them in full number to the king, that he might be the king’s son-in-law. Then Saul gave him Michal his daughter as wife.
-
-### 28
 Saul saw and knew that Yahweh was with David; and Michal, Saul’s daughter, loved him.
 
-### 29
+### 27
 Saul was even more afraid of David; and Saul was David’s enemy continually.
 
-### 30
+### 28
 Then the princes of the Philistines went out; and as often as they went out, David behaved himself more wisely than all the servants of Saul, so that his name was highly esteemed.

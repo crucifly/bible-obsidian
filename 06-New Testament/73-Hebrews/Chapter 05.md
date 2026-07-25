@@ -24,25 +24,19 @@ So also Christ didn’t glorify himself to be made a high priest, but it was he 
 As he says also in another place, “You are a priest forever, after the order of Melchizedek.”
 
 ### 7
-He, in the days of his flesh, having offered up prayers and petitions with strong crying and tears to him who was able to save him from death, and having been heard for his godly fear,
+He, in the days of his flesh, having offered up prayers and petitions with strong crying and tears to him who was able to save him from death, and having been heard for his godly fear, though he was a Son, yet learned obedience by the things which he suffered.
 
 ### 8
-though he was a Son, yet learned obedience by the things which he suffered.
+Having been made perfect, he became to all of those who obey him the author of eternal salvation, named by God a high priest after the order of Melchizedek.
 
 ### 9
-Having been made perfect, he became to all of those who obey him the author of eternal salvation,
-
-### 10
-named by God a high priest after the order of Melchizedek.
-
-### 11
 About him we have many words to say, and hard to interpret, seeing you have become dull of hearing.
 
-### 12
+### 10
 For although by this time you should be teachers, you again need to have someone teach you the rudiments of the first principles of the revelations of God. You have come to need milk, and not solid food.
 
-### 13
+### 11
 For everyone who lives on milk is not experienced in the word of righteousness, for he is a baby.
 
-### 14
+### 12
 But solid food is for those who are full grown, who by reason of use have their senses exercised to discern good and evil.

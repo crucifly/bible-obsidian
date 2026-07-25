@@ -63,88 +63,70 @@ The first came before him, saying, ‘Lord, your mina has made ten more minas.�
 “So he said to him, ‘And you are to be over five cities.’
 
 ### 20
-Another came, saying, ‘Lord, behold, your mina, which I kept laid away in a handkerchief,
+Another came, saying, ‘Lord, behold, your mina, which I kept laid away in a handkerchief, for I feared you, because you are an exacting man. You take up that which you didn’t lay down, and reap that which you didn’t sow.’
 
 ### 21
-for I feared you, because you are an exacting man. You take up that which you didn’t lay down, and reap that which you didn’t sow.’
-
-### 22
 “He said to him, ‘Out of your own mouth will I judge you, you wicked servant! You knew that I am an exacting man, taking up that which I didn’t lay down, and reaping that which I didn’t sow.
 
-### 23
+### 22
 Then why didn’t you deposit my money in the bank, and at my coming, I might have earned interest on it?’
 
-### 24
+### 23
 He said to those who stood by, ‘Take the mina away from him, and give it to him who has the ten minas.’
 
-### 25
+### 24
 “They said to him, ‘Lord, he has ten minas!’
 
-### 26
+### 25
 ‘For I tell you that to everyone who has, will more be given; but from him who doesn’t have, even that which he has will be taken away from him.
 
-### 27
+### 26
 But bring those enemies of mine who didn’t want me to reign over them here, and kill them before me.’”
 
-### 28
+### 27
 Having said these things, he went on ahead, going up to Jerusalem.
 
+### 28
+When he came near to Bethsphage and Bethany, at the mountain that is called Olivet, he sent two of his disciples, saying, “Go your way into the village on the other side, in which, as you enter, you will find a colt tied, which no man had ever sat upon. Untie it, and bring it.
+
 ### 29
-When he came near to Bethsphage and Bethany, at the mountain that is called Olivet, he sent two of his disciples,
-
-### 30
-saying, “Go your way into the village on the other side, in which, as you enter, you will find a colt tied, which no man had ever sat upon. Untie it, and bring it.
-
-### 31
 If anyone asks you, ‘Why are you untying it?’ say to him: ‘The Lord needs it.’”
 
-### 32
+### 30
 Those who were sent went away, and found things just as he had told them.
 
-### 33
+### 31
 As they were untying the colt, its owners said to them, “Why are you untying the colt?”
 
-### 34
+### 32
 They said, “The Lord needs it.”
 
-### 35
+### 33
 They brought it to Jesus. They threw their cloaks on the colt, and set Jesus on them.
 
-### 36
+### 34
 As he went, they spread their cloaks on the road.
 
-### 37
-As he was now getting near, at the descent of the Mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works which they had seen,
+### 35
+As he was now getting near, at the descent of the Mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works which they had seen, saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven, and glory in the highest!”
 
-### 38
-saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven, and glory in the highest!”
-
-### 39
+### 36
 Some of the Pharisees from the multitude said to him, “Teacher, rebuke your disciples!”
 
-### 40
+### 37
 He answered them, “I tell you that if these were silent, the stones would cry out.”
 
+### 38
+When he came near, he saw the city and wept over it, saying, “If you, even you, had known today the things which belong to your peace! But now, they are hidden from your eyes.
+
+### 39
+For the days will come on you, when your enemies will throw up a barricade against you, surround you, hem you in on every side, and will dash you and your children within you to the ground. They will not leave in you one stone on another, because you didn’t know the time of your visitation.”
+
+### 40
+He entered into the temple, and began to drive out those who bought and sold in it, saying to them, “It is written, ‘My house is a house of prayer,’ but you have made it a ‘den of robbers’!”
+
 ### 41
-When he came near, he saw the city and wept over it,
-
-### 42
-saying, “If you, even you, had known today the things which belong to your peace! But now, they are hidden from your eyes.
-
-### 43
-For the days will come on you, when your enemies will throw up a barricade against you, surround you, hem you in on every side,
-
-### 44
-and will dash you and your children within you to the ground. They will not leave in you one stone on another, because you didn’t know the time of your visitation.”
-
-### 45
-He entered into the temple, and began to drive out those who bought and sold in it,
-
-### 46
-saying to them, “It is written, ‘My house is a house of prayer,’ but you have made it a ‘den of robbers’!”
-
-### 47
 He was teaching daily in the temple, but the chief priests and the scribes and the leading men among the people sought to destroy him.
 
-### 48
+### 42
 They couldn’t find what they might do, for all the people hung on to every word that he said.

@@ -6,103 +6,70 @@ canon: "Poetic"
 # Proverbs 24
 
 ### 1
-Don’t be envious of evil men; neither desire to be with them:
+Don’t be envious of evil men; neither desire to be with them: for their hearts plot violence, and their lips talk about mischief.
 
 ### 2
-for their hearts plot violence, and their lips talk about mischief.
+Through wisdom a house is built; by understanding it is established; by knowledge the rooms are filled with all rare and beautiful treasure.
 
 ### 3
-Through wisdom a house is built; by understanding it is established;
+A wise man has great power; and a knowledgeable man increases strength; for by wise guidance you wage your war; and victory is in many advisors.
 
 ### 4
-by knowledge the rooms are filled with all rare and beautiful treasure.
-
-### 5
-A wise man has great power; and a knowledgeable man increases strength;
-
-### 6
-for by wise guidance you wage your war; and victory is in many advisors.
-
-### 7
 Wisdom is too high for a fool: he doesn’t open his mouth in the gate.
 
-### 8
+### 5
 One who plots to do evil will be called a schemer.
 
-### 9
+### 6
 The schemes of folly are sin. The mocker is detested by men.
 
-### 10
+### 7
 If you falter in the time of trouble, your strength is small.
 
-### 11
+### 8
 Rescue those who are being led away to death! Indeed, hold back those who are staggering to the slaughter!
 
-### 12
+### 9
 If you say, “Behold, we didn’t know this”; doesn’t he who weighs the hearts consider it? He who keeps your soul, doesn’t he know it? Shall he not render to every man according to his work?
 
+### 10
+My son, eat honey, for it is good; the droppings of the honeycomb, which are sweet to your taste: so you shall know wisdom to be to your soul; if you have found it, then there will be a reward, your hope will not be cut off.
+
+### 11
+Don’t lay in wait, wicked man, against the habitation of the righteous. Don’t destroy his resting place: for a righteous man falls seven times, and rises up again; but the wicked are overthrown by calamity.
+
+### 12
+Don’t rejoice when your enemy falls. Don’t let your heart be glad when he is overthrown; lest Yahweh see it, and it displease him, and he turn away his wrath from him.
+
 ### 13
-My son, eat honey, for it is good; the droppings of the honeycomb, which are sweet to your taste:
+Don’t fret yourself because of evildoers; neither be envious of the wicked: for there will be no reward to the evil man; and the lamp of the wicked shall be snuffed out.
 
 ### 14
-so you shall know wisdom to be to your soul; if you have found it, then there will be a reward, your hope will not be cut off.
+My son, fear Yahweh and the king. Don’t join those who are rebellious: for their calamity will rise suddenly; the destruction from them both—who knows?
 
 ### 15
-Don’t lay in wait, wicked man, against the habitation of the righteous. Don’t destroy his resting place:
-
-### 16
-for a righteous man falls seven times, and rises up again; but the wicked are overthrown by calamity.
-
-### 17
-Don’t rejoice when your enemy falls. Don’t let your heart be glad when he is overthrown;
-
-### 18
-lest Yahweh see it, and it displease him, and he turn away his wrath from him.
-
-### 19
-Don’t fret yourself because of evildoers; neither be envious of the wicked:
-
-### 20
-for there will be no reward to the evil man; and the lamp of the wicked shall be snuffed out.
-
-### 21
-My son, fear Yahweh and the king. Don’t join those who are rebellious:
-
-### 22
-for their calamity will rise suddenly; the destruction from them both—who knows?
-
-### 23
 These also are sayings of the wise. To show partiality in judgment is not good.
 
-### 24
-He who says to the wicked, “You are righteous”; peoples will curse him, and nations will abhor him—
+### 16
+He who says to the wicked, “You are righteous”; peoples will curse him, and nations will abhor him— but it will go well with those who convict the guilty, and a rich blessing will come on them.
 
-### 25
-but it will go well with those who convict the guilty, and a rich blessing will come on them.
-
-### 26
+### 17
 An honest answer is like a kiss on the lips.
 
-### 27
+### 18
 Prepare your work outside, and get your fields ready. Afterwards, build your house.
 
-### 28
+### 19
 Don’t be a witness against your neighbor without cause. Don’t deceive with your lips.
 
-### 29
+### 20
 Don’t say, “I will do to him as he has done to me; I will render to the man according to his work.”
 
-### 30
-I went by the field of the sluggard, by the vineyard of the man void of understanding;
+### 21
+I went by the field of the sluggard, by the vineyard of the man void of understanding; Behold, it was all grown over with thorns. Its surface was covered with nettles, and its stone wall was broken down.
 
-### 31
-Behold, it was all grown over with thorns. Its surface was covered with nettles, and its stone wall was broken down.
+### 22
+Then I saw, and considered well. I saw, and received instruction: a little sleep, a little slumber, a little folding of the hands to sleep;
 
-### 32
-Then I saw, and considered well. I saw, and received instruction:
-
-### 33
-a little sleep, a little slumber, a little folding of the hands to sleep;
-
-### 34
+### 23
 so your poverty will come as a robber, and your want as an armed man.

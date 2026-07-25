@@ -33,13 +33,10 @@ Let the wicked forsake his way, and the unrighteous man his thoughts. Let him re
 “For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.
 
 ### 10
-For as the rain comes down and the snow from the sky, and doesn’t return there, but waters the earth, and makes it grow and bud, and gives seed to the sower and bread to the eater;
+For as the rain comes down and the snow from the sky, and doesn’t return there, but waters the earth, and makes it grow and bud, and gives seed to the sower and bread to the eater; so is my word that goes out of my mouth: it will not return to me void, but it will accomplish that which I please, and it will prosper in the thing I sent it to do.
 
 ### 11
-so is my word that goes out of my mouth: it will not return to me void, but it will accomplish that which I please, and it will prosper in the thing I sent it to do.
-
-### 12
 For you shall go out with joy, and be led out with peace. The mountains and the hills will break out before you into singing; and all the trees of the fields will clap their hands.
 
-### 13
+### 12
 Instead of the thorn the cypress tree will come up; and instead of the brier the myrtle tree will come up: and it will make a name for Yahweh, for an everlasting sign that will not be cut off.”

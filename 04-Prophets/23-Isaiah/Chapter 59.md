@@ -39,31 +39,28 @@ We grope for the wall like the blind. Yes, we grope as those who have no eyes. W
 We all roar like bears, and moan bitterly like doves. We look for justice, but there is none; for salvation, but it is far off from us.
 
 ### 12
-For our transgressions are multiplied before you, and our sins testify against us; for our transgressions are with us, and as for our iniquities, we know them:
+For our transgressions are multiplied before you, and our sins testify against us; for our transgressions are with us, and as for our iniquities, we know them: transgressing and denying Yahweh, and turning away from following our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
 
 ### 13
-transgressing and denying Yahweh, and turning away from following our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.
-
-### 14
 Justice is turned away backward, and righteousness stands far away; for truth has fallen in the street, and uprightness can’t enter.
 
-### 15
+### 14
 Yes, truth is lacking; and he who departs from evil makes himself a prey. Yahweh saw it, and it displeased him that there was no justice.
 
-### 16
+### 15
 He saw that there was no man, and wondered that there was no intercessor. Therefore his own arm brought salvation to him; and his righteousness sustained him.
 
-### 17
+### 16
 He put on righteousness as a breastplate, and a helmet of salvation on his head. He put on garments of vengeance for clothing, and was clad with zeal as a mantle.
 
-### 18
+### 17
 According to their deeds, he will repay as appropriate, wrath to his adversaries, recompense to his enemies; he will repay the islands their due.
 
-### 19
+### 18
 So shall they fear Yahweh’s name from the west, and his glory from the rising of the sun; for he will come as a rushing stream, which Yahweh’s breath drives.
 
-### 20
+### 19
 “A Redeemer will come to Zion, and to those who turn from disobedience in Jacob,” says Yahweh.
 
-### 21
+### 20
 “As for me, this is my covenant with them,” says Yahweh. “My Spirit who is on you, and my words which I have put in your mouth, shall not depart out of your mouth, nor out of the mouth of your offspring, nor out of the mouth of your offspring’s offspring,” says Yahweh, “from henceforth and forever.”

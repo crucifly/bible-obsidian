@@ -87,7 +87,4 @@ Everyone who hears these words of mine, and doesn’t do them will be like a foo
 The rain came down, the floods came, and the winds blew, and beat on that house; and it fell—and great was its fall.”
 
 ### 28
-When Jesus had finished saying these things, the multitudes were astonished at his teaching,
-
-### 29
-for he taught them with authority, and not like the scribes.
+When Jesus had finished saying these things, the multitudes were astonished at his teaching, for he taught them with authority, and not like the scribes.

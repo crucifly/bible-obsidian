@@ -12,72 +12,52 @@ translation: G.R.S. Mead
 **Chapter 75**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 74**
 
 ### 2
-Next
-
-**CHAPTER 74**
-
-### 3
 It came to pass then, when the First Mystery had finished setting forth these words unto the disciples, that he said unto them: "Who hath understood the solution of these words, let him come forward and say it in openness."
 
+### 3
+Mary again came forward and said: "My Lord, concerning these words with which Pistis Sophia hath sung praises, thus thy light-power prophesied them through David: Mary interpreteth from Psalm cii."'1. My soul, praise the Lord, let all that is in me praise his holy name.
+
 ### 4
-Mary again came forward and said: "My Lord, concerning these words with which Pistis Sophia hath sung praises, thus thy light-power prophesied them through David:
-
-### 5
-Mary interpreteth from Psalm cii."'1. My soul, praise the Lord, let all that is in me praise his holy name.
-
-### 6
 "'2. My soul, praise the Lord and forget not all his requitals.
 
-### 7
-"'3. Who forgiveth all thy iniquities; who healeth all thy sicknesses;
+### 5
+"'3. Who forgiveth all thy iniquities; who healeth all thy sicknesses; "'4. Who redeemeth thy life from decay; who wreatheth thee with grace and compassion;
 
-### 8
-"'4. Who redeemeth thy life from decay; who wreatheth thee with grace and compassion;
-
-### 9
+### 6
 "'5. Who satisfieth thy longing with good things; thy youth will renew itself as an eagle's.'
 
-### 10
+### 7
 "That is: Sophia will be as the invisibles who are in the Height; he hath, therefore, said 'as an eagle,' because the dwelling-place of the eagle is in the height, and the invisibles also are in the Height; that is: Pistis Sophia will shine as the invisibles, as she was from her beginning."
 
-### 11
+### 8
 It came to pass then, when the First Mystery had heard Mary say these words, that he said: "Well said, Mary, blessed one."
 
-### 12
+### 9
 Sophia is led to a region below the thirteenth æon and given a new mystery.It came to pass then thereafter, that the First Mystery continued again in the discourse and said unto the disciples: "I took Pistis Sophia and led her up to a region which is below the thirteenth æon, and gave unto her a new mystery of the Light which is not that of her æon, the region of the invisibles. And moreover I gave her a song of the Light, so that from now on the rulers of the æons could not [prevail] against her. And I removed her to that region until I should come after her and bring her to her higher region.
 
-### 13
-"It came to pass then, when I had removed her to that region, that she again uttered this song thus:
+### 10
+"It came to pass then, when I had removed her to that region, that she again uttered this song thus: She continueth to sing."'1. In faith have I had faith in the Light; and it remembered me and hearkened to my song.
 
-### 14
-She continueth to sing."'1. In faith have I had faith in the Light; and it remembered me and hearkened to my song.
+### 11
+"'2. It hath led my power up out of the chaos and the nether darkness of the whole matter and it hath led me up. It hath removed. me to a higher and surer æon, lofty and firm; it hath changed my place on the way which leadeth to my region.
 
-### 15
-"'2. It hath led my power up out of the chaos and the nether darkness of the whole matter and it hath led me up. It hath removed. me to a higher
-
-### 16
-and surer æon, lofty and firm; it hath changed my place on the way which leadeth to my region.
-
-### 17
+### 12
 "'3. And it hath given unto me a new mystery, which is not that of my æon, and given unto me a song of the Light. Now, therefore, O Light, all the rulers will see what thou hast done unto me, and be afraid and have faith in the Light.'
 
-### 18
+### 13
 This song then Pistis Sophia uttered, rejoicing that she had been led up out of the chaos and brought to regions which are below the thirteenth æon. Now, therefore, let him whom his mind stirreth, so that he understandeth the solution of the thought of the song which Pistis Sophia hath uttered, come forward and say it."
 
-### 19
-Andrew came forward and said: "My Lord, this is concerning what thy light-power hath prophesied aforetime through David:
+### 14
+Andrew came forward and said: "My Lord, this is concerning what thy light-power hath prophesied aforetime through David: Andrew interpreteth from Psalm xxxix."'1. In patience I tarried for the Lord; he hath given heed unto me and ear unto my weeping.
 
-### 20
-Andrew interpreteth from Psalm xxxix."'1. In patience I tarried for the Lord; he hath given heed unto me and ear unto my weeping.
-
-### 21
+### 15
 "'2. He hath led up my soul out of the pit of misery and out of the filthy mire; he hath set my feet on a rock and made straight my steps.
 
-### 22
+### 16
 "'3. He hath put in my mouth a new song, a song of praise for our God. Many will see and be afraid and hope in the Lord.'"
 
-### 23
+### 17
 It came to pass then, when Andrew had set forth the thought of Pistis Sophia, that the First Mystery said unto him: "Well said, Andrew, blessed one."

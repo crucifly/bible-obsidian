@@ -126,10 +126,7 @@ The flocks conceived before the rods, and the flocks produced streaked, speckled
 Jacob separated the lambs, and set the faces of the flocks toward the streaked and all the black in the flock of Laban: and he put his own droves apart, and didn’t put them into Laban’s flock.
 
 ### 41
-Whenever the stronger of the flock conceived, Jacob laid the rods in front of the eyes of the flock in the gutters, that they might conceive among the rods;
+Whenever the stronger of the flock conceived, Jacob laid the rods in front of the eyes of the flock in the gutters, that they might conceive among the rods; but when the flock were feeble, he didn’t put them in. So the feebler were Laban’s, and the stronger Jacob’s.
 
 ### 42
-but when the flock were feeble, he didn’t put them in. So the feebler were Laban’s, and the stronger Jacob’s.
-
-### 43
 The man increased exceedingly, and had large flocks, female servants and male servants, and camels and donkeys.

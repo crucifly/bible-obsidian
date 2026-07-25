@@ -21,16 +21,13 @@ He answered and spoke to those who stood before him, saying, “Take the filthy 
 I said, “Let them set a clean turban on his head.” So they set a clean turban on his head, and clothed him; and Yahweh’s angel was standing by.
 
 ### 6
-Yahweh’s angel protested to Joshua, saying,
+Yahweh’s angel protested to Joshua, saying, “Yahweh of Armies says: ‘If you will walk in my ways, and if you will follow my instructions, then you also shall judge my house, and shall also keep my courts, and I will give you a place of access among these who stand by.
 
 ### 7
-“Yahweh of Armies says: ‘If you will walk in my ways, and if you will follow my instructions, then you also shall judge my house, and shall also keep my courts, and I will give you a place of access among these who stand by.
-
-### 8
 Hear now, Joshua the high priest, you and your fellows who sit before you; for they are men who are a sign: for, behold, I will bring out my servant, the Branch.
 
-### 9
+### 8
 For, behold, the stone that I have set before Joshua; on one stone are seven eyes: behold, I will engrave its engraving,’ says Yahweh of Armies, ‘and I will remove the iniquity of that land in one day.
 
-### 10
+### 9
 In that day,’ says Yahweh of Armies, ‘you will invite every man his neighbor under the vine and under the fig tree.’”

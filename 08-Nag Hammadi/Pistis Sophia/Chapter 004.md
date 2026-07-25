@@ -12,18 +12,13 @@ translation: G.R.S. Mead
 **Chapter 4**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 4**
 
 ### 2
-Next
-
-**CHAPTER 4**
-
-### 3
 But the disciples sat together in fear and were in exceedingly great agitation and were afraid because of the great earthquake which took place, and they wept together, saying: "What will then be? Peradventure the Saviour will destroy all regions?" Thus saying, they wept together.
 
-### 4
+### 3
 Jesus deseendeth again.While they then said this and wept together, then, on the ninth hour of the morrow, the heavens opened, and they saw Jesus descend, shining most exceedingly, and there was no measure for his light in which he was. For he shone more [radiantly] than at the hour when he had ascended to the heavens, so that men in the world cannot describe the light which was on him; and it shot forth light-rays in great abundance, and there was no measure for its rays, and its light was not alike together, but it was of divers kind and of divers type, some [rays] being more excellent than others . . .; and the whole light consisted together.
 
-### 5
+### 4
 [paragraph continues] The nature of his gloryIt was of threefold kind, and the one [kind] was more excellent than the other. . . . The second, that in the midst, was more excellent than the first which was below, and the third, which was above them all, was more excellent than the two which were below. And the first glory, which was placed below them all, was like to the light which had come over Jesus before he had ascended into the heavens, and was like only itself in its light. And the three light-modes were of divers light-kinds, and they were of divers type, one being more excellent than the other. . . .

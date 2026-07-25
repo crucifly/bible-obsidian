@@ -21,46 +21,43 @@ You hold my eyelids open. I am so troubled that I can’t speak.
 I have considered the days of old, the years of ancient times.
 
 ### 6
-I remember my song in the night. I consider in my own heart; my spirit diligently inquires:
+I remember my song in the night. I consider in my own heart; my spirit diligently inquires: “Will the Lord reject us forever? Will he be favorable no more?
 
 ### 7
-“Will the Lord reject us forever? Will he be favorable no more?
-
-### 8
 Has his loving kindness vanished forever? Does his promise fail for generations?
 
-### 9
+### 8
 Has God forgotten to be gracious? Has he, in anger, withheld his compassion?”.
 
-### 10
+### 9
 Then I thought, “I will appeal to this: the years of the right hand of the Most High.”
 
-### 11
+### 10
 I will remember Yah’s deeds; for I will remember your wonders of old.
 
-### 12
+### 11
 I will also meditate on all your work, and consider your doings.
 
-### 13
+### 12
 Your way, God, is in the sanctuary. What god is great like God?
 
-### 14
+### 13
 You are the God who does wonders. You have made your strength known among the peoples.
 
-### 15
+### 14
 You have redeemed your people with your arm, the sons of Jacob and Joseph..
 
-### 16
+### 15
 The waters saw you, God. The waters saw you, and they writhed. The depths also convulsed.
 
-### 17
+### 16
 The clouds poured out water. The skies resounded with thunder. Your arrows also flashed around.
 
-### 18
+### 17
 The voice of your thunder was in the whirlwind. The lightnings lit up the world. The earth trembled and shook.
 
-### 19
+### 18
 Your way was through the sea; your paths through the great waters. Your footsteps were not known.
 
-### 20
+### 19
 You led your people like a flock, by the hand of Moses and Aaron.

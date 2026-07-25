@@ -110,34 +110,19 @@ And the whole land of Canaan became an inheritance to the children of Israel for
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_47&oldid=11445962"
 
 ### 34
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:00.
 
 ### 35
-This page was last edited on 30 June 2021, at 02:00.
-
-### 36
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 36
+Privacy policy Disclaimers
+
 ### 37
-Privacy policy
+Code of Conduct Developers
 
 ### 38
-Disclaimers
+Statistics Cookie statement
 
 ### 39
-Code of Conduct
-
-### 40
-Developers
-
-### 41
-Statistics
-
-### 42
-Cookie statement
-
-### 43
-Mobile view
-
-### 44
-Add topic
+Mobile view Add topic

@@ -60,7 +60,4 @@ And as he interpreted to them so it befell them, and Pharaoh restored the chief 
 But the chief butler forgot Joseph in the prison, although he had informed him what would befall him, and did not remember to inform Pharaoh how Joseph had told him, for he forgot.
 
 ### 19
-The Book of Jubilees
-
-### 20
-Pharoah's dreams and their interpretation, 1-4. Elevation and marriage of Joseph, 5-13. (Cf. Gen. xli.1-5, 7-9, 14 seqq., 25, 29-30, 34, 36, 38-43, 45-6, 49.)
+The Book of Jubilees Pharoah's dreams and their interpretation, 1-4. Elevation and marriage of Joseph, 5-13. (Cf. Gen. xli.1-5, 7-9, 14 seqq., 25, 29-30, 34, 36, 38-43, 45-6, 49.)

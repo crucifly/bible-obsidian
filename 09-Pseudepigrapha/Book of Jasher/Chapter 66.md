@@ -50,88 +50,64 @@ But in proportion to the increase of the labor so do they increase and grow in t
 Now therefore our lord and king, the eyes of all Egypt are upon thee to give them advice with thy wisdom, by which they may prevail over Israel to destroy them, or to diminish them from the land; and the king answered them saying, Give you counsel in this matter that we may know what to do unto them.
 
 ### 14
-And an officer, one of the king's counsellors, whose name was Job, from Mesopotamia, in the land of Uz, answered the king, saying,
+And an officer, one of the king's counsellors, whose name was Job, from Mesopotamia, in the land of Uz, answered the king, saying, If it please the king, let him hear the counsel of his servant; and the king said unto him, Speak.
 
 ### 15
-If it please the king, let him hear the counsel of his servant; and the king said unto him, Speak.
+And Job spoke before the king, the princes, and before all the elders of Egypt, saying, Behold the counsel of the king which he advised formerly respecting the labor of the children of Israel is very good, and you must not remove from them that labor forever.
 
 ### 16
-And Job spoke before the king, the princes, and before all the elders of Egypt, saying,
-
-### 17
-Behold the counsel of the king which he advised formerly respecting the labor of the children of Israel is very good, and you must not remove from them that labor forever.
-
-### 18
 But this is the advice counselled by which you may lessen them, if it seems good to the king to afflict them.
 
-### 19
+### 17
 Behold we have feared war for a long time, and we said, When Israel becomes fruitful in the land, they will drive us from the land if a war should take place.
 
-### 20
+### 18
 If it please the king, let a royal decree go forth, and let it be written in the laws of Egypt which shall not be revoked, that every male child born to the Israelites, his blood shall be spilled upon the ground.
 
-### 21
+### 19
 And by your doing this, when all the male children of Israel shall have died, the evil of their wars will cease; let the king do so and send for all the Hebrew midwives and order them in this matter to execute it; so the thing pleased the king and the princes, and the king did according to the word of Job.
 
-### 22
+### 20
 And the king sent for the Hebrew midwives to be called, of which the name of one was Shephrah, and the name of the other Puah.
 
-### 23
+### 21
 And the midwives came before the king, and stood in his presence.
 
-### 24
+### 22
 And the king said unto them, When you do the office of a midwife to the Hebrew women, and see them upon the stools, if it be a son, then you shall kill him, but if it be a daughter, then she shall live.
 
-### 25
+### 23
 But if you will not do this thing, then will I burn you up and all your houses with fire.
 
-### 26
+### 24
 But the midwives feared God and did not hearken to the king of Egypt nor to his words, and when the Hebrew women brought forth to the midwife son or daughter, then did the midwife do all that was necessary to the child and let it live; thus did the midwives all the days.
 
-### 27
+### 25
 And this thing was told to the king, and he sent and called for the midwives and he said to them, Why have you done this thing and have saved the children alive?
 
-### 28
-And the midwives answered and spoke together before the king, saying,
+### 26
+And the midwives answered and spoke together before the king, saying, Let not the king think that the Hebrew women are as the Egyptian women, for all the children of Israel are hale, and before the midwife comes to them they are delivered, and as for us thy handmaids, for many days no Hebrew woman has brought forth upon us, for all the Hebrew women are their own midwives, because they are hale.
 
-### 29
-Let not the king think that the Hebrew women are as the Egyptian women, for all the children of Israel are hale, and before the midwife comes to them they are delivered, and as for us thy handmaids, for many days no Hebrew woman has brought forth upon us, for all the Hebrew women are their own midwives, because they are hale.
-
-### 30
+### 27
 And Pharaoh heard their words and believed them in this matter, and the midwives went away from the king, and God dealt well with them, and the people multiplied and waxed exceedingly.
 
-### 31
+### 28
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_66&oldid=11446027"
 
-### 32
-Hidden categories: SubpagesHeaders applying DefaultSort key
+### 29
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:05.
 
-### 33
-This page was last edited on 30 June 2021, at 02:05.
-
-### 34
+### 30
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
-### 35
-Privacy policy
+### 31
+Privacy policy Disclaimers
 
-### 36
-Disclaimers
+### 32
+Code of Conduct Developers
 
-### 37
-Code of Conduct
+### 33
+Statistics Cookie statement
 
-### 38
-Developers
-
-### 39
-Statistics
-
-### 40
-Cookie statement
-
-### 41
-Mobile view
-
-### 42
-Add topic
+### 34
+Mobile view Add topic

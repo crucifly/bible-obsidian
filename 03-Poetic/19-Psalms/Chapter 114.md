@@ -6,25 +6,19 @@ canon: "Poetic"
 # Psalms 114
 
 ### 1
-When Israel went out of Egypt, the house of Jacob from a people of foreign language;
+When Israel went out of Egypt, the house of Jacob from a people of foreign language; Judah became his sanctuary, Israel his dominion.
 
 ### 2
-Judah became his sanctuary, Israel his dominion.
-
-### 3
 The sea saw it, and fled. The Jordan was driven back.
 
-### 4
+### 3
 The mountains skipped like rams, the little hills like lambs.
 
-### 5
+### 4
 What was it, you sea, that you fled? You Jordan, that you turned back?
 
-### 6
+### 5
 You mountains, that you skipped like rams; you little hills, like lambs?
 
-### 7
-Tremble, you earth, at the presence of the Lord, at the presence of the God of Jacob,
-
-### 8
-who turned the rock into a pool of water, the flint into a spring of waters.
+### 6
+Tremble, you earth, at the presence of the Lord, at the presence of the God of Jacob, who turned the rock into a pool of water, the flint into a spring of waters.

@@ -63,55 +63,40 @@ It is written and ordained that He will show mercy to all who turn from all thei
 And as for all those who corrupted their ways and their thoughts before the flood, no man's person was accepted save that of Noah alone; for his person was accepted in behalf of his sons, whom (God) saved from the waters of the flood on his account; for his heart was righteous in all his ways, according as it was commanded regarding him, and he had not departed from aught that was ordained for him.
 
 ### 20
-And the Lord said that he would destroy everything which was upon the earth, both men and cattle, and
+And the Lord said that he would destroy everything which was upon the earth, both men and cattle, and beasts, and fowls of the air, and that which moveth on the earth. And He commanded Noah to make him an ark, that he might save himself from the waters of the flood.
 
 ### 21
-beasts, and fowls of the air, and that which moveth on the earth. And He commanded Noah to make him an ark, that he might save himself from the waters of the flood.
-
-### 22
 And Noah made the ark in all respects as He commanded him, in the twenty-seventh jubilee of years, in the fifth week in the fifth year (on the new moon of the first month). [1307 A.M.]
 
-### 23
+### 22
 And he entered in the sixth (year) thereof, [1308 A.M.] in the second month, on the new moon of the second month, till the sixteenth; and he entered, and all that we brought to him, into the ark, and the Lord closed it from without on the seventeenth evening.
 
+### 23
+And the Lord opened seven flood-gates of heaven, And the mouths of the fountains of the great deep, seven mouths in number.
+
 ### 24
-And the Lord opened seven flood-gates of heaven,
+And the flood-gates began to pour down water from the heaven forty days and forty nights, And the fountains of the deep also sent up waters, until the whole world was full of water.
 
 ### 25
-And the mouths of the fountains of the great deep, seven mouths in number.
+And the waters increased upon the earth: Fifteen cubits did the waters rise above all the high mountains,
 
 ### 26
-And the flood-gates began to pour down water from the heaven forty days and forty nights,
+And the ark was lift up above the earth, And it moved upon the face of the waters.
 
 ### 27
-And the fountains of the deep also sent up waters, until the whole world was full of water.
-
-### 28
-And the waters increased upon the earth:
-
-### 29
-Fifteen cubits did the waters rise above all the high mountains,
-
-### 30
-And the ark was lift up above the earth,
-
-### 31
-And it moved upon the face of the waters.
-
-### 32
 And the water prevailed on the face of the earth five months -one hundred and fifty days.
 
-### 33
+### 28
 And the ark went and rested on the top of Lubar, one of the mountains of Ararat.
 
-### 34
+### 29
 And (on the new moon) in the fourth month the fountains of the great deep were closed and the flood-gates of heaven were refrained; and on the new moon of the seventh month all the mouths of the abysses of the earth were opened, and the water began to descend into them.
 
-### 35
+### 30
 And on the new moon of the tenth month the tops of the mountains were seen, and on the new moon of the first month the earth became visible.
 
-### 36
+### 31
 And the waters disappeared from above the earth in the fifth week in the seventh year [1309 A.M.] thereof, and on the seventeenth day in the second month the earth was dry.
 
-### 37
+### 32
 And on the twenty-seventh thereof he opened the ark, and sent forth from it beasts, and cattle, and birds, and every moving thing.

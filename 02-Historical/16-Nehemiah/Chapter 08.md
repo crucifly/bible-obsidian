@@ -45,16 +45,13 @@ All the people went their way to eat, to drink, to send portions, and to celebra
 On the second day, the heads of fathers’ households of all the people, the priests, and the Levites were gathered together to Ezra the scribe, to study the words of the law.
 
 ### 14
-They found written in the law how Yahweh had commanded by Moses that the children of Israel should dwell in booths in the feast of the seventh month;
+They found written in the law how Yahweh had commanded by Moses that the children of Israel should dwell in booths in the feast of the seventh month; and that they should publish and proclaim in all their cities, and in Jerusalem, saying, “Go out to the mountain, and get olive branches, branches of wild olive, myrtle branches, palm branches, and branches of thick trees, to make temporary shelters, as it is written.”
 
 ### 15
-and that they should publish and proclaim in all their cities, and in Jerusalem, saying, “Go out to the mountain, and get olive branches, branches of wild olive, myrtle branches, palm branches, and branches of thick trees, to make temporary shelters, as it is written.”
-
-### 16
 So the people went out, and brought them, and made themselves temporary shelters, everyone on the roof of his house, in their courts, in the courts of God’s house, in the wide place of the water gate, and in the wide place of Ephraim’s gate.
 
-### 17
+### 16
 All the assembly of those who had come back out of the captivity made temporary shelters, and lived in the booths; for since the days of Jeshua the son of Nun to that day the children of Israel had not done so. There was very great gladness.
 
-### 18
+### 17
 Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance.

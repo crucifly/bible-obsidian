@@ -85,70 +85,52 @@ And now therefore I will teach you wisdom and knowledge and will give you instru
 And he taught them wisdom and knowledge, and gave them instruction, and he reproved them, and he placed before them statutes and judgments to do upon earth, and he made peace amongst them, and he taught them everlasting life, and dwelt with them some time teaching them all these things.
 
 ### 25
-And at that time the sons of men were with Enoch, and Enoch was speaking to them, and they lifted up their eyes and the likeness of a great horse descended from heaven, and the horse paced in the[1] air;
+And at that time the sons of men were with Enoch, and Enoch was speaking to them, and they lifted up their eyes and the likeness of a great horse descended from heaven, and the horse paced in the[1] air; And they told Enoch what they had seen, and Enoch said to them, On my account does this horse descend upon earth; the time is come when I must go from you and I shall no more be seen by you.
 
 ### 26
-And they told Enoch what they had seen, and Enoch said to them, On my account does this horse descend upon earth; the time is come when I must go from you and I shall no more be seen by you.
-
-### 27
 And the horse descended at that time and stood before Enoch, and all the sons of men that were with Enoch saw him.
 
-### 28
+### 27
 And Enoch then again ordered a voice to be proclaimed, saying, Where is the man who delighteth to know the ways of the Lord his God, let him come this day to Enoch before he is taken from us.
 
-### 29
+### 28
 And all the sons of men assembled and came to Enoch that day; and all the kings of the earth with their princes and counsellors remained with him that day; and Enoch then taught the sons of men wisdom and knowledge, and gave them divine instruction; and he bade them serve the Lord and walk in his ways all the days of their lives, and he continued to make peace amongst them.
 
-### 30
+### 29
 And it was after this that he rose up and rode upon the horse; and he went forth and all the sons of men went after him, about eight hundred thousand men; and they went with him one day's journey.
 
-### 31
+### 30
 And the second day he said to them, Return home to your tents, why will you go? perhaps you may die; and some of them went from him, and those that remained went with him six day's journey; and Enoch said to them every day, Return to your tents, lest you may die; but they were not willing to return, and they went with him.
 
-### 32
+### 31
 And on the sixth day some of the men remained and clung to him, and they said to him, We will go with thee to the place where thou goest; as the Lord liveth, death only shall separate us.
 
+### 32
+And they urged so much to go with him, that he ceased speaking to them; and they went after him and would not return; And when the kings returned ​they caused a census to be taken, in order to know the number of remaining men that went with Enoch; and it was upon the seventh day that Enoch ascended into heaven in a whirlwind, with horses and chariots of fire.
+
 ### 33
-And they urged so much to go with him, that he ceased speaking to them; and they went after him and would not return;
-
-### 34
-And when the kings returned ​they caused a census to be taken, in order to know the number of remaining men that went with Enoch; and it was upon the seventh day that Enoch ascended into heaven in a whirlwind, with horses and chariots of fire.
-
-### 35
 And on the eighth day all the kings that had been with Enoch sent to bring back the number of men that were with Enoch, in that place from which he ascended into heaven.
 
-### 36
+### 34
 And all those kings went to the place and they found the earth there filled with snow, and upon the snow were large stones of snow, and one said to the other, Come, let us break through the snow and see, perhaps the men that remained with Enoch are dead, and are now under the stones of snow, and they searched but could not find him, for he had ascended into heaven.
 
-### 37
+### 35
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_3&oldid=11450874"
 
-### 38
+### 36
 This page was last edited on 1 July 2021, at 23:47.
 
-### 39
+### 37
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 38
+Privacy policy Disclaimers
+
+### 39
+Code of Conduct Developers
+
 ### 40
-Privacy policy
+Statistics Cookie statement
 
 ### 41
-Disclaimers
-
-### 42
-Code of Conduct
-
-### 43
-Developers
-
-### 44
-Statistics
-
-### 45
-Cookie statement
-
-### 46
-Mobile view
-
-### 47
-Add topic
+Mobile view Add topic

@@ -113,61 +113,40 @@ And he closely followed Jacob, and he lurked for him in the border of the land o
 And Jacob saw Eliphaz and his men pursuing him, and Jacob stood still in the place in which he was going, in order to know what this was, for he did not know the thing; and Eliphaz drew his sword and he went on advancing, he and his men, toward Jacob; and Jacob said unto them, What is to do with you that you have come hither, and what meaneth it that you pursue with your swords.
 
 ### 35
-And Eliphaz came near to Jacob and he answered and said unto him, Thus did my father command me, and now therefore I will not deviate from the orders which my father gave me; and when Jacob saw that Esau had spoken to Eliphaz to employ force, Jacob then approached and supplicated Eliphaz and his men, saying to him,
+And Eliphaz came near to Jacob and he answered and said unto him, Thus did my father command me, and now therefore I will not deviate from the orders which my father gave me; and when Jacob saw that Esau had spoken to Eliphaz to employ force, Jacob then approached and supplicated Eliphaz and his men, saying to him, Behold all that I have and which my father and mother gave unto me, that take unto thee and go from me, and do not slay me, and may this thing be accounted unto thee a righteousness.
 
 ### 36
-Behold all that I have and which my father and mother gave unto me, that take unto thee and go from me, and do not slay me, and may this thing be accounted unto thee a righteousness.
-
-### 37
 And the Lord caused Jacob to find favor in the sight of Eliphaz the son of Esau, and his men, and they hearkened to the voice of Jacob, and they did not put him to death, and Eliphaz and his men took all belonging to Jacob together with the silver and gold that he had brought with him from Beersheba; they left him nothing.
 
-### 38
+### 37
 And Eliphaz and his men went away from him and they returned to Esau to Beersheba, and they told him all that had occurred to them with Jacob, and they gave him all that they had taken from Jacob.
 
-### 39
+### 38
 And Esau was indignant at Eliphaz his son, and at his men that were with him, because they had not put Jacob to death.
 
-### 40
+### 39
 And they answered and said unto Esau, Because Jacob supplicated us in this matter not to slay him, our pity was excited toward him, and we took all belonging to him and brought it unto thee; and Esau took all the silver and gold which Eliphaz had taken from Jacob and he put them by in his house.
 
+### 40
+At that time when Esau saw that Isaac had blessed Jacob, and had commanded him, saying, Thou shalt not take a wife from amongst the daughters of Canaan, and that the daughters of Canaan were bad in the sight of Isaac and Rebecca, Then he went to the house of Ishmael his uncle, and in addition to his older wives he took Machlath the daughter of Ishmael, the sister of Nebayoth, for a wife.
+
 ### 41
-At that time when Esau saw that Isaac had blessed Jacob, and had commanded him, saying, Thou shalt not take a wife from amongst the daughters of Canaan, and that the daughters of Canaan were bad in the sight of Isaac and Rebecca,
-
-### 42
-Then he went to the house of Ishmael his uncle, and in addition to his older wives he took Machlath the daughter of Ishmael, the sister of Nebayoth, for a wife.
-
-### 43
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_29&oldid=11445918"
 
-### 44
-Hidden categories: SubpagesHeaders applying DefaultSort key
+### 42
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:55.
 
-### 45
-This page was last edited on 30 June 2021, at 01:55.
-
-### 46
+### 43
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 44
+Privacy policy Disclaimers
+
+### 45
+Code of Conduct Developers
+
+### 46
+Statistics Cookie statement
+
 ### 47
-Privacy policy
-
-### 48
-Disclaimers
-
-### 49
-Code of Conduct
-
-### 50
-Developers
-
-### 51
-Statistics
-
-### 52
-Cookie statement
-
-### 53
-Mobile view
-
-### 54
-Add topic
+Mobile view Add topic

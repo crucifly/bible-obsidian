@@ -51,10 +51,7 @@ Cursed is the day in which I was born. Don’t let the day in which my mother bo
 Cursed is the man who brought news to my father, saying, “A boy is born to you,” making him very glad.
 
 ### 16
-Let that man be as the cities which Yahweh overthrew, and didn’t repent. Let him hear a cry in the morning, and shouting at noontime;
+Let that man be as the cities which Yahweh overthrew, and didn’t repent. Let him hear a cry in the morning, and shouting at noontime; because he didn’t kill me from the womb. So my mother would have been my grave, and her womb always great.
 
 ### 17
-because he didn’t kill me from the womb. So my mother would have been my grave, and her womb always great.
-
-### 18
 Why did I come out of the womb to see labor and sorrow, that my days should be consumed with shame?

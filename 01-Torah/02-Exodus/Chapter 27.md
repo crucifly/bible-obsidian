@@ -30,40 +30,37 @@ Its poles shall be put into the rings, and the poles shall be on the two sides o
 You shall make it with hollow planks. They shall make it as it has been shown you on the mountain.
 
 ### 9
-“You shall make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen one hundred cubits long for one side:
+“You shall make the court of the tabernacle: for the south side southward there shall be hangings for the court of fine twined linen one hundred cubits long for one side: and its pillars shall be twenty, and their sockets twenty, of brass; the hooks of the pillars and their fillets shall be of silver.
 
 ### 10
-and its pillars shall be twenty, and their sockets twenty, of brass; the hooks of the pillars and their fillets shall be of silver.
-
-### 11
 Likewise for the north side in length there shall be hangings one hundred cubits long, and its pillars twenty, and their sockets twenty, of brass; the hooks of the pillars, and their fillets, of silver.
 
-### 12
+### 11
 For the width of the court on the west side shall be hangings of fifty cubits; their pillars ten, and their sockets ten.
 
-### 13
+### 12
 The width of the court on the east side eastward shall be fifty cubits.
 
-### 14
+### 13
 The hangings for the one side of the gate shall be fifteen cubits; their pillars three, and their sockets three.
 
-### 15
+### 14
 For the other side shall be hangings of fifteen cubits; their pillars three, and their sockets three.
 
-### 16
+### 15
 For the gate of the court shall be a screen of twenty cubits, of blue, and purple, and scarlet, and fine twined linen, the work of the embroiderer; their pillars four, and their sockets four.
 
-### 17
+### 16
 All the pillars of the court around shall be filleted with silver; their hooks of silver, and their sockets of brass.
 
-### 18
+### 17
 The length of the court shall be one hundred cubits, and the width fifty throughout, and the height five cubits, of fine twined linen, and their sockets of brass.
 
-### 19
+### 18
 All the instruments of the tabernacle in all its service, and all its pins, and all the pins of the court, shall be of brass.
 
-### 20
+### 19
 “You shall command the children of Israel, that they bring to you pure olive oil beaten for the light, to cause a lamp to burn continually.
 
-### 21
+### 20
 In the Tent of Meeting, outside the veil which is before the testimony, Aaron and his sons shall keep it in order from evening to morning before Yahweh: it shall be a statute forever throughout their generations on the behalf of the children of Israel.

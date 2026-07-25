@@ -60,31 +60,25 @@ I came near to one of those who stood by, and asked him the truth concerning all
 But the saints of the Most High will receive the kingdom, and possess the kingdom forever, even forever and ever.’
 
 ### 19
-“Then I desired to know the truth concerning the fourth animal, which was different than all of them, exceedingly terrible, whose teeth were of iron, and its nails of brass; which devoured, broke in pieces, and stamped the residue with its feet;
+“Then I desired to know the truth concerning the fourth animal, which was different than all of them, exceedingly terrible, whose teeth were of iron, and its nails of brass; which devoured, broke in pieces, and stamped the residue with its feet; and concerning the ten horns that were on its head, and the other horn which came up, and before which three fell, even that horn that had eyes, and a mouth that spoke great things, whose look was more stout than its fellows.
 
 ### 20
-and concerning the ten horns that were on its head, and the other horn which came up, and before which three fell, even that horn that had eyes, and a mouth that spoke great things, whose look was more stout than its fellows.
+I saw, and the same horn made war with the saints, and prevailed against them, until the ancient of days came, and judgment was given to the saints of the Most High, and the time came that the saints possessed the kingdom.
 
 ### 21
-I saw, and the same horn made war with the saints, and prevailed against them,
-
-### 22
-until the ancient of days came, and judgment was given to the saints of the Most High, and the time came that the saints possessed the kingdom.
-
-### 23
 “Thus he said, ‘The fourth animal will be a fourth kingdom on earth, which will be different than all the kingdoms, and will devour the whole earth, and will tread it down, and break it in pieces.
 
-### 24
+### 22
 As for the ten horns, ten kings will arise out of this kingdom. Another will arise after them; and he will be different than the former, and he will put down three kings.
 
-### 25
+### 23
 He will speak words against the Most High, and will wear out the saints of the Most High. He will plan to change the times and the law; and they will be given into his hand until a time and times and half a time.
 
-### 26
+### 24
 “‘But the judgment will be set, and they will take away his dominion, to consume and to destroy it to the end.
 
-### 27
+### 25
 The kingdom and the dominion, and the greatness of the kingdoms under the whole sky, will be given to the people of the saints of the Most High. His kingdom is an everlasting kingdom, and all dominions will serve and obey him.’
 
-### 28
+### 26
 “Here is the end of the matter. As for me, Daniel, my thoughts much troubled me, and my face was changed in me; but I kept the matter in my heart.”

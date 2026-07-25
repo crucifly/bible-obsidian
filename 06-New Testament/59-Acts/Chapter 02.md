@@ -30,118 +30,97 @@ They were all amazed and marveled, saying to one another, “Behold, aren’t al
 How do we hear, everyone in our own native language?
 
 ### 9
-Parthians, Medes, Elamites, and people from Mesopotamia, Judea, Cappadocia, Pontus, Asia,
+Parthians, Medes, Elamites, and people from Mesopotamia, Judea, Cappadocia, Pontus, Asia, Phrygia, Pamphylia, Egypt, the parts of Libya around Cyrene, visitors from Rome, both Jews and proselytes,
 
 ### 10
-Phrygia, Pamphylia, Egypt, the parts of Libya around Cyrene, visitors from Rome, both Jews and proselytes,
-
-### 11
 Cretans and Arabians: we hear them speaking in our languages the mighty works of God!”
 
-### 12
+### 11
 They were all amazed, and were perplexed, saying to one another, “What does this mean?”
 
-### 13
+### 12
 Others, mocking, said, “They are filled with new wine.”
 
-### 14
+### 13
 But Peter, standing up with the eleven, lifted up his voice, and spoke out to them, “You men of Judea, and all you who dwell at Jerusalem, let this be known to you, and listen to my words.
 
-### 15
+### 14
 For these aren’t drunken, as you suppose, seeing it is only the third hour of the day.
 
+### 15
+But this is what has been spoken through the prophet Joel: ‘It will be in the last days, says God, that I will pour out my Spirit on all flesh. Your sons and your daughters will prophesy. Your young men will see visions. Your old men will dream dreams.
+
 ### 16
-But this is what has been spoken through the prophet Joel:
-
-### 17
-‘It will be in the last days, says God, that I will pour out my Spirit on all flesh. Your sons and your daughters will prophesy. Your young men will see visions. Your old men will dream dreams.
-
-### 18
 Yes, and on my servants and on my handmaidens in those days, I will pour out my Spirit, and they will prophesy.
 
-### 19
+### 17
 I will show wonders in the sky above, and signs on the earth beneath; blood, and fire, and billows of smoke.
 
-### 20
+### 18
 The sun will be turned into darkness, and the moon into blood, before the great and glorious day of the Lord comes.
 
-### 21
+### 19
 It will be that whoever will call on the name of the Lord will be saved.’
 
-### 22
-“Men of Israel, hear these words! Jesus of Nazareth, a man approved by God to you by mighty works and wonders and signs which God did by him among you, even as you yourselves know,
+### 20
+“Men of Israel, hear these words! Jesus of Nazareth, a man approved by God to you by mighty works and wonders and signs which God did by him among you, even as you yourselves know, him, being delivered up by the determined counsel and foreknowledge of God, you have taken by the hand of lawless men, crucified and killed;
 
-### 23
-him, being delivered up by the determined counsel and foreknowledge of God, you have taken by the hand of lawless men, crucified and killed;
-
-### 24
+### 21
 whom God raised up, having freed him from the agony of death, because it was not possible that he should be held by it.
 
-### 25
+### 22
 For David says concerning him, ‘I saw the Lord always before my face, For he is on my right hand, that I should not be moved.
 
-### 26
-Therefore my heart was glad, and my tongue rejoiced. Moreover my flesh also will dwell in hope;
+### 23
+Therefore my heart was glad, and my tongue rejoiced. Moreover my flesh also will dwell in hope; because you will not leave my soul in Hades, neither will you allow your Holy One to see decay.
 
-### 27
-because you will not leave my soul in Hades, neither will you allow your Holy One to see decay.
-
-### 28
+### 24
 You made known to me the ways of life. You will make me full of gladness with your presence.’
 
-### 29
+### 25
 “Brothers, I may tell you freely of the patriarch David, that he both died and was buried, and his tomb is with us to this day.
 
-### 30
-Therefore, being a prophet, and knowing that God had sworn with an oath to him that of the fruit of his body, according to the flesh, he would raise up the Christ to sit on his throne,
+### 26
+Therefore, being a prophet, and knowing that God had sworn with an oath to him that of the fruit of his body, according to the flesh, he would raise up the Christ to sit on his throne, he foreseeing this spoke about the resurrection of the Christ, that his soul wasn’t left in Hades, and his flesh didn’t see decay.
 
-### 31
-he foreseeing this spoke about the resurrection of the Christ, that his soul wasn’t left in Hades, and his flesh didn’t see decay.
-
-### 32
+### 27
 This Jesus God raised up, to which we all are witnesses.
 
-### 33
+### 28
 Being therefore exalted by the right hand of God, and having received from the Father the promise of the Holy Spirit, he has poured out this, which you now see and hear.
 
-### 34
-For David didn’t ascend into the heavens, but he says himself, ‘The Lord said to my Lord, “Sit by my right hand,
+### 29
+For David didn’t ascend into the heavens, but he says himself, ‘The Lord said to my Lord, “Sit by my right hand, until I make your enemies a footstool for your feet.”’
 
-### 35
-until I make your enemies a footstool for your feet.”’
-
-### 36
+### 30
 “Let all the house of Israel therefore know certainly that God has made him both Lord and Christ, this Jesus whom you crucified.”
 
-### 37
+### 31
 Now when they heard this, they were cut to the heart, and said to Peter and the rest of the apostles, “Brothers, what shall we do?”
 
-### 38
+### 32
 Peter said to them, “Repent, and be baptized, every one of you, in the name of Jesus Christ for the forgiveness of sins, and you will receive the gift of the Holy Spirit.
 
-### 39
+### 33
 For the promise is to you, and to your children, and to all who are far off, even as many as the Lord our God will call to himself.”
 
-### 40
+### 34
 With many other words he testified, and exhorted them, saying, “Save yourselves from this crooked generation!”
 
-### 41
+### 35
 Then those who gladly received his word were baptized. There were added that day about three thousand souls.
 
-### 42
+### 36
 They continued steadfastly in the apostles’ teaching and fellowship, in the breaking of bread, and prayer.
 
-### 43
+### 37
 Fear came on every soul, and many wonders and signs were done through the apostles.
 
-### 44
+### 38
 All who believed were together, and had all things in common.
 
-### 45
+### 39
 They sold their possessions and goods, and distributed them to all, according as anyone had need.
 
-### 46
-Day by day, continuing steadfastly with one accord in the temple, and breaking bread at home, they took their food with gladness and singleness of heart,
-
-### 47
-praising God, and having favor with all the people. The Lord added to the assembly day by day those who were being saved.
+### 40
+Day by day, continuing steadfastly with one accord in the temple, and breaking bread at home, they took their food with gladness and singleness of heart, praising God, and having favor with all the people. The Lord added to the assembly day by day those who were being saved.

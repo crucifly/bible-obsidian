@@ -128,34 +128,19 @@ And it was after the death of Abraham that God blessed his son Isaac and his chi
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_26&oldid=11445912"
 
 ### 40
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:55.
 
 ### 41
-This page was last edited on 30 June 2021, at 01:55.
-
-### 42
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 42
+Privacy policy Disclaimers
+
 ### 43
-Privacy policy
+Code of Conduct Developers
 
 ### 44
-Disclaimers
+Statistics Cookie statement
 
 ### 45
-Code of Conduct
-
-### 46
-Developers
-
-### 47
-Statistics
-
-### 48
-Cookie statement
-
-### 49
-Mobile view
-
-### 50
-Add topic
+Mobile view Add topic

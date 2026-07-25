@@ -33,79 +33,73 @@ He took Agag the king of the Amalekites alive, and utterly destroyed all the peo
 But Saul and the people spared Agag, and the best of the sheep, of the cattle, and of the fat calves, and the lambs, and all that was good, and were not willing to utterly destroy them; but everything that was vile and refuse, that they destroyed utterly.
 
 ### 10
-Then Yahweh’s word came to Samuel, saying,
+Then Yahweh’s word came to Samuel, saying, “It grieves me that I have set up Saul to be king; for he has turned back from following me, and has not performed my commandments.” Samuel was angry; and he cried to Yahweh all night.
 
 ### 11
-“It grieves me that I have set up Saul to be king; for he has turned back from following me, and has not performed my commandments.” Samuel was angry; and he cried to Yahweh all night.
-
-### 12
 Samuel rose early to meet Saul in the morning; and Samuel was told, saying, “Saul came to Carmel, and behold, he set up a monument for himself, and turned, and passed on, and went down to Gilgal.”
 
-### 13
+### 12
 Samuel came to Saul; and Saul said to him, “You are blessed by Yahweh! I have performed the commandment of Yahweh.”
 
-### 14
+### 13
 Samuel said, “Then what does this bleating of the sheep in my ears, and the lowing of the cattle which I hear mean?”
 
-### 15
+### 14
 Saul said, “They have brought them from the Amalekites; for the people spared the best of the sheep and of the cattle, to sacrifice to Yahweh your God. We have utterly destroyed the rest.”
 
-### 16
+### 15
 Then Samuel said to Saul, “Stay, and I will tell you what Yahweh said to me last night.” He said to him, “Say on.”
 
+### 16
+Samuel said, “Though you were little in your own sight, weren’t you made the head of the tribes of Israel? Yahweh anointed you king over Israel; and Yahweh sent you on a journey, and said, ‘Go, and utterly destroy the sinners the Amalekites, and fight against them until they are consumed.’
+
 ### 17
-Samuel said, “Though you were little in your own sight, weren’t you made the head of the tribes of Israel? Yahweh anointed you king over Israel;
-
-### 18
-and Yahweh sent you on a journey, and said, ‘Go, and utterly destroy the sinners the Amalekites, and fight against them until they are consumed.’
-
-### 19
 Why then didn’t you obey Yahweh’s voice, but took the plunder, and did that which was evil in Yahweh’s sight?”
 
-### 20
+### 18
 Saul said to Samuel, “But I have obeyed Yahweh’s voice, and have gone the way which Yahweh sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites.
 
-### 21
+### 19
 But the people took of the plunder, sheep and cattle, the chief of the devoted things, to sacrifice to Yahweh your God in Gilgal.”
 
-### 22
+### 20
 Samuel said, “Has Yahweh as great delight in burnt offerings and sacrifices, as in obeying Yahweh’s voice? Behold, to obey is better than sacrifice, and to listen than the fat of rams.
 
-### 23
+### 21
 For rebellion is as the sin of witchcraft, and stubbornness is as idolatry and teraphim. Because you have rejected Yahweh’s word, he has also rejected you from being king.”
 
-### 24
+### 22
 Saul said to Samuel, “I have sinned; for I have transgressed the commandment of Yahweh, and your words, because I feared the people, and obeyed their voice.
 
-### 25
+### 23
 Now therefore, please pardon my sin, and turn again with me, that I may worship Yahweh.”
 
-### 26
+### 24
 Samuel said to Saul, “I will not return with you; for you have rejected Yahweh’s word, and Yahweh has rejected you from being king over Israel.”
 
-### 27
+### 25
 As Samuel turned around to go away, Saul grabbed the skirt of his robe, and it tore.
 
-### 28
+### 26
 Samuel said to him, “Yahweh has torn the kingdom of Israel from you today, and has given it to a neighbor of yours who is better than you.
 
-### 29
+### 27
 Also the Strength of Israel will not lie nor repent; for he is not a man, that he should repent.”
 
-### 30
+### 28
 Then he said, “I have sinned; yet please honor me now before the elders of my people, and before Israel, and come back with me, that I may worship Yahweh your God.”
 
-### 31
+### 29
 So Samuel went back with Saul; and Saul worshiped Yahweh.
 
-### 32
+### 30
 Then Samuel said, “Bring Agag the king of the Amalekites here to me!” Agag came to him cheerfully. Agag said, “Surely the bitterness of death is past.”
 
-### 33
+### 31
 Samuel said, “As your sword has made women childless, so your mother will be childless among women!” Then Samuel cut Agag in pieces before Yahweh in Gilgal.
 
-### 34
+### 32
 Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul.
 
-### 35
+### 33
 Samuel came no more to see Saul until the day of his death; for Samuel mourned for Saul: and Yahweh grieved that he had made Saul king over Israel.

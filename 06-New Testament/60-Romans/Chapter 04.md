@@ -21,61 +21,52 @@ Now to him who works, the reward is not counted as grace, but as something owed.
 But to him who doesn’t work, but believes in him who justifies the ungodly, his faith is accounted for righteousness.
 
 ### 6
-Even as David also pronounces blessing on the man to whom God counts righteousness apart from works,
+Even as David also pronounces blessing on the man to whom God counts righteousness apart from works, “Blessed are they whose iniquities are forgiven, whose sins are covered.
 
 ### 7
-“Blessed are they whose iniquities are forgiven, whose sins are covered.
-
-### 8
 Blessed is the man whom the Lord will by no means charge with sin.”
 
-### 9
+### 8
 Is this blessing then pronounced on the circumcised, or on the uncircumcised also? For we say that faith was accounted to Abraham for righteousness.
 
-### 10
+### 9
 How then was it counted? When he was in circumcision, or in uncircumcision? Not in circumcision, but in uncircumcision.
 
-### 11
+### 10
 He received the sign of circumcision, a seal of the righteousness of the faith which he had while he was in uncircumcision, that he might be the father of all those who believe, though they might be in uncircumcision, that righteousness might also be accounted to them.
 
-### 12
+### 11
 He is the father of circumcision to those who not only are of the circumcision, but who also walk in the steps of that faith of our father Abraham, which he had in uncircumcision.
 
-### 13
+### 12
 For the promise to Abraham and to his offspring that he should be heir of the world wasn’t through the law, but through the righteousness of faith.
 
-### 14
+### 13
 For if those who are of the law are heirs, faith is made void, and the promise is made of no effect.
 
-### 15
+### 14
 For the law produces wrath, for where there is no law, neither is there disobedience.
 
-### 16
+### 15
 For this cause it is of faith, that it may be according to grace, to the end that the promise may be sure to all the offspring, not to that only which is of the law, but to that also which is of the faith of Abraham, who is the father of us all.
 
-### 17
+### 16
 As it is written, “I have made you a father of many nations.” This is in the presence of him whom he believed: God, who gives life to the dead, and calls the things that are not, as though they were.
 
-### 18
+### 17
 Besides hope, Abraham in hope believed, to the end that he might become a father of many nations, according to that which had been spoken, “So will your offspring be.”
 
-### 19
+### 18
 Without being weakened in faith, he didn’t consider his own body, already having been worn out, (he being about a hundred years old), and the deadness of Sarah’s womb.
 
+### 19
+Yet, looking to the promise of God, he didn’t waver through unbelief, but grew strong through faith, giving glory to God, and being fully assured that what he had promised, he was also able to perform.
+
 ### 20
-Yet, looking to the promise of God, he didn’t waver through unbelief, but grew strong through faith, giving glory to God,
-
-### 21
-and being fully assured that what he had promised, he was also able to perform.
-
-### 22
 Therefore it also was “credited to him for righteousness.”
 
-### 23
-Now it was not written that it was accounted to him for his sake alone,
+### 21
+Now it was not written that it was accounted to him for his sake alone, but for our sake also, to whom it will be accounted, who believe in him who raised Jesus, our Lord, from the dead,
 
-### 24
-but for our sake also, to whom it will be accounted, who believe in him who raised Jesus, our Lord, from the dead,
-
-### 25
+### 22
 who was delivered up for our trespasses, and was raised for our justification.

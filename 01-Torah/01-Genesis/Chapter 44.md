@@ -84,25 +84,19 @@ Our father said, ‘Go again and buy us a little food.’
 We said, ‘We can’t go down. If our youngest brother is with us, then we will go down: for we may not see the man’s face, unless our youngest brother is with us.’
 
 ### 27
-Your servant, my father, said to us, ‘You know that my wife bore me two sons:
+Your servant, my father, said to us, ‘You know that my wife bore me two sons: and the one went out from me, and I said, “Surely he is torn in pieces”; and I haven’t seen him since.
 
 ### 28
-and the one went out from me, and I said, “Surely he is torn in pieces”; and I haven’t seen him since.
-
-### 29
 If you take this one also from me, and harm happens to him, you will bring down my gray hairs with sorrow to Sheol.’
 
+### 29
+Now therefore when I come to your servant my father, and the boy is not with us; since his life is bound up in the boy’s life; it will happen, when he sees that the boy is no more, that he will die. Your servants will bring down the gray hairs of your servant, our father, with sorrow to Sheol.
+
 ### 30
-Now therefore when I come to your servant my father, and the boy is not with us; since his life is bound up in the boy’s life;
-
-### 31
-it will happen, when he sees that the boy is no more, that he will die. Your servants will bring down the gray hairs of your servant, our father, with sorrow to Sheol.
-
-### 32
 For your servant became collateral for the boy to my father, saying, ‘If I don’t bring him to you, then I will bear the blame to my father forever.’
 
-### 33
+### 31
 Now therefore, please let your servant stay instead of the boy, my lord’s slave; and let the boy go up with his brothers.
 
-### 34
+### 32
 For how will I go up to my father, if the boy isn’t with me?—lest I see the evil that will come on my father.”

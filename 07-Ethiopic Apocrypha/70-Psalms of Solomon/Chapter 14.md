@@ -16,13 +16,7 @@ The pious of the Lord shall live by it for ever; The Paradise of the Lord, the t
 Their planting is rooted for ever; They shall not be plucked up all the days of heaven: For the portion and the inheritance of God is Israel.
 
 ### 4
-But not so are the sinners and transgressors, Who love (the brief) day (spent) in companionship with their sin; Their delight is in fleeting corruption,
+But not so are the sinners and transgressors, Who love (the brief) day (spent) in companionship with their sin; Their delight is in fleeting corruption, And they remember not God. For the ways of men are known before Him at all times, And He knoweth the secrets of the heart before they come to pass.
 
 ### 5
-And they remember not God. For the ways of men are known before Him at all times, And He knoweth the secrets of the heart before they come to pass.
-
-### 6
-Therefore their inheritance is Sheol and darkness and destruction, And they shall not be found in the day when the righteous obtain mercy;
-
-### 7
-But the pious of the Lord shall inherit life in gladness.
+Therefore their inheritance is Sheol and darkness and destruction, And they shall not be found in the day when the righteous obtain mercy; But the pious of the Lord shall inherit life in gladness.

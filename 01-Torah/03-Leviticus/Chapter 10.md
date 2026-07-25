@@ -27,40 +27,31 @@ Moses said to Aaron, and to Eleazar and to Ithamar, his sons, “Don’t let the
 You shall not go out from the door of the Tent of Meeting, lest you die; for the anointing oil of Yahweh is on you.” They did according to the word of Moses.
 
 ### 8
-Then Yahweh said to Aaron,
+Then Yahweh said to Aaron, “You and your sons are not to drink wine or strong drink whenever you go into the Tent of Meeting, or you will die. This shall be a statute forever throughout your generations.
 
 ### 9
-“You and your sons are not to drink wine or strong drink whenever you go into the Tent of Meeting, or you will die. This shall be a statute forever throughout your generations.
-
-### 10
 You are to make a distinction between the holy and the common, and between the unclean and the clean.
 
-### 11
+### 10
 You are to teach the children of Israel all the statutes which Yahweh has spoken to them by Moses.”
 
+### 11
+Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons who were left, “Take the meal offering that remains of the offerings of Yahweh made by fire, and eat it without yeast beside the altar; for it is most holy; and you shall eat it in a holy place, because it is your portion, and your sons’ portion, of the offerings of Yahweh made by fire: for so I am commanded.
+
 ### 12
-Moses spoke to Aaron, and to Eleazar and to Ithamar, his sons who were left, “Take the meal offering that remains of the offerings of Yahweh made by fire, and eat it without yeast beside the altar; for it is most holy;
-
-### 13
-and you shall eat it in a holy place, because it is your portion, and your sons’ portion, of the offerings of Yahweh made by fire: for so I am commanded.
-
-### 14
 The waved breast and the heaved thigh you shall eat in a clean place, you, and your sons, and your daughters with you: for they are given as your portion, and your sons’ portion, out of the sacrifices of the peace offerings of the children of Israel.
 
-### 15
+### 13
 The heaved thigh and the waved breast they shall bring with the offerings made by fire of the fat, to wave it for a wave offering before Yahweh: and it shall be yours, and your sons’ with you, as a portion forever; as Yahweh has commanded.”
 
-### 16
-Moses diligently inquired about the goat of the sin offering, and, behold, it was burned: and he was angry with Eleazar and with Ithamar, the sons of Aaron who were left, saying,
+### 14
+Moses diligently inquired about the goat of the sin offering, and, behold, it was burned: and he was angry with Eleazar and with Ithamar, the sons of Aaron who were left, saying, “Why haven’t you eaten the sin offering in the place of the sanctuary, since it is most holy, and he has given it to you to bear the iniquity of the congregation, to make atonement for them before Yahweh?
 
-### 17
-“Why haven’t you eaten the sin offering in the place of the sanctuary, since it is most holy, and he has given it to you to bear the iniquity of the congregation, to make atonement for them before Yahweh?
-
-### 18
+### 15
 Behold, its blood was not brought into the inner part of the sanctuary: you certainly should have eaten it in the sanctuary, as I commanded.”
 
-### 19
+### 16
 Aaron spoke to Moses, “Behold, today they have offered their sin offering and their burnt offering before Yahweh; and such things as these have happened to me. If I had eaten the sin offering today, would it have been pleasing in Yahweh’s sight?”
 
-### 20
+### 17
 When Moses heard that, it was pleasing in his sight.

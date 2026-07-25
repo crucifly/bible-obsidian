@@ -42,31 +42,25 @@ But stretch out your hand now, and touch all that he has, and he will renounce y
 Yahweh said to Satan, “Behold, all that he has is in your power. Only on himself don’t stretch out your hand.” So Satan went out from the presence of Yahweh.
 
 ### 13
-It fell on a day when his sons and his daughters were eating and drinking wine in their oldest brother’s house,
+It fell on a day when his sons and his daughters were eating and drinking wine in their oldest brother’s house, that there came a messenger to Job, and said, “The oxen were plowing, and the donkeys feeding beside them,
 
 ### 14
-that there came a messenger to Job, and said, “The oxen were plowing, and the donkeys feeding beside them,
-
-### 15
 and the Sabeans attacked, and took them away. Yes, they have killed the servants with the edge of the sword, and I alone have escaped to tell you.”
 
-### 16
+### 15
 While he was still speaking, there also came another, and said, “The fire of God has fallen from the sky, and has burned up the sheep and the servants, and consumed them, and I alone have escaped to tell you.”
 
-### 17
+### 16
 While he was still speaking, there came also another, and said, “The Chaldeans made three bands, and swept down on the camels, and have taken them away, yes, and killed the servants with the edge of the sword; and I alone have escaped to tell you.”
 
+### 17
+While he was still speaking, there came also another, and said, “Your sons and your daughters were eating and drinking wine in their oldest brother’s house, and behold, there came a great wind from the wilderness, and struck the four corners of the house, and it fell on the young men, and they are dead. I alone have escaped to tell you.”
+
 ### 18
-While he was still speaking, there came also another, and said, “Your sons and your daughters were eating and drinking wine in their oldest brother’s house,
-
-### 19
-and behold, there came a great wind from the wilderness, and struck the four corners of the house, and it fell on the young men, and they are dead. I alone have escaped to tell you.”
-
-### 20
 Then Job arose, and tore his robe, and shaved his head, and fell down on the ground, and worshiped.
 
-### 21
+### 19
 He said, “Naked I came out of my mother’s womb, and naked shall I return there. Yahweh gave, and Yahweh has taken away. Blessed be Yahweh’s name.”
 
-### 22
+### 20
 In all this, Job did not sin, nor charge God with wrongdoing.

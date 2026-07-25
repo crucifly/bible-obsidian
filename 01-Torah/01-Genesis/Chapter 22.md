@@ -48,31 +48,25 @@ Abraham lifted up his eyes, and looked, and saw that behind him was a ram caught
 Abraham called the name of that place Yahweh Will Provide. As it is said to this day, “On Yahweh’s mountain, it will be provided.”
 
 ### 15
-Yahweh’s angel called to Abraham a second time out of the sky,
+Yahweh’s angel called to Abraham a second time out of the sky, and said, “I have sworn by myself, says Yahweh, because you have done this thing, and have not withheld your son, your only son,
 
 ### 16
-and said, “I have sworn by myself, says Yahweh, because you have done this thing, and have not withheld your son, your only son,
-
-### 17
 that I will bless you greatly, and I will multiply your offspring greatly like the stars of the heavens, and like the sand which is on the seashore. Your offspring will possess the gate of his enemies.
 
-### 18
+### 17
 All the nations of the earth will be blessed by your offspring, because you have obeyed my voice.”
 
-### 19
+### 18
 So Abraham returned to his young men, and they rose up and went together to Beersheba. Abraham lived at Beersheba.
 
+### 19
+After these things, Abraham was told, “Behold, Milcah, she also has borne children to your brother Nahor: Uz his firstborn, Buz his brother, Kemuel the father of Aram,
+
 ### 20
-After these things, Abraham was told, “Behold, Milcah, she also has borne children to your brother Nahor:
-
-### 21
-Uz his firstborn, Buz his brother, Kemuel the father of Aram,
-
-### 22
 Chesed, Hazo, Pildash, Jidlaph, and Bethuel.”
 
-### 23
+### 21
 Bethuel became the father of Rebekah. These eight Milcah bore to Nahor, Abraham’s brother.
 
-### 24
+### 22
 His concubine, whose name was Reumah, also bore Tebah, Gaham, Tahash, and Maacah.

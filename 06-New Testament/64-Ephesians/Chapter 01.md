@@ -6,70 +6,37 @@ canon: "New Testament"
 # Ephesians 1
 
 ### 1
-Paul, an apostle of Christ Jesus through the will of God, to the saints who are at Ephesus, and the faithful in Christ Jesus:
+Paul, an apostle of Christ Jesus through the will of God, to the saints who are at Ephesus, and the faithful in Christ Jesus: Grace to you and peace from God our Father and the Lord Jesus Christ.
 
 ### 2
-Grace to you and peace from God our Father and the Lord Jesus Christ.
+Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ; even as he chose us in him before the foundation of the world, that we would be holy and without defect before him in love;
 
 ### 3
-Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ;
+having predestined us for adoption as children through Jesus Christ to himself, according to the good pleasure of his desire, to the praise of the glory of his grace, by which he freely gave us favor in the Beloved,
 
 ### 4
-even as he chose us in him before the foundation of the world, that we would be holy and without defect before him in love;
+in whom we have our redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace, which he made to abound toward us in all wisdom and prudence,
 
 ### 5
-having predestined us for adoption as children through Jesus Christ to himself, according to the good pleasure of his desire,
+making known to us the mystery of his will, according to his good pleasure which he purposed in him to an administration of the fullness of the times, to sum up all things in Christ, the things in the heavens, and the things on the earth, in him;
 
 ### 6
-to the praise of the glory of his grace, by which he freely gave us favor in the Beloved,
+in whom also we were assigned an inheritance, having been foreordained according to the purpose of him who does all things after the counsel of his will; to the end that we should be to the praise of his glory, we who had before hoped in Christ.
 
 ### 7
-in whom we have our redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace,
+In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit, who is a pledge of our inheritance, to the redemption of God’s own possession, to the praise of his glory.
 
 ### 8
-which he made to abound toward us in all wisdom and prudence,
+For this cause I also, having heard of the faith in the Lord Jesus which is among you, and the love which you have toward all the saints, don’t cease to give thanks for you, making mention of you in my prayers,
 
 ### 9
-making known to us the mystery of his will, according to his good pleasure which he purposed in him
+that the God of our Lord Jesus Christ, the Father of glory, may give to you a spirit of wisdom and revelation in the knowledge of him; having the eyes of your hearts enlightened, that you may know what is the hope of his calling, and what are the riches of the glory of his inheritance in the saints,
 
 ### 10
-to an administration of the fullness of the times, to sum up all things in Christ, the things in the heavens, and the things on the earth, in him;
+and what is the exceeding greatness of his power toward us who believe, according to that working of the strength of his might which he worked in Christ, when he raised him from the dead, and made him to sit at his right hand in the heavenly places,
 
 ### 11
-in whom also we were assigned an inheritance, having been foreordained according to the purpose of him who does all things after the counsel of his will;
-
-### 12
-to the end that we should be to the praise of his glory, we who had before hoped in Christ.
-
-### 13
-In him you also, having heard the word of the truth, the Good News of your salvation—in whom, having also believed, you were sealed with the promised Holy Spirit,
-
-### 14
-who is a pledge of our inheritance, to the redemption of God’s own possession, to the praise of his glory.
-
-### 15
-For this cause I also, having heard of the faith in the Lord Jesus which is among you, and the love which you have toward all the saints,
-
-### 16
-don’t cease to give thanks for you, making mention of you in my prayers,
-
-### 17
-that the God of our Lord Jesus Christ, the Father of glory, may give to you a spirit of wisdom and revelation in the knowledge of him;
-
-### 18
-having the eyes of your hearts enlightened, that you may know what is the hope of his calling, and what are the riches of the glory of his inheritance in the saints,
-
-### 19
-and what is the exceeding greatness of his power toward us who believe, according to that working of the strength of his might
-
-### 20
-which he worked in Christ, when he raised him from the dead, and made him to sit at his right hand in the heavenly places,
-
-### 21
 far above all rule, and authority, and power, and dominion, and every name that is named, not only in this age, but also in that which is to come.
 
-### 22
-He put all things in subjection under his feet, and gave him to be head over all things for the assembly,
-
-### 23
-which is his body, the fullness of him who fills all in all.
+### 12
+He put all things in subjection under his feet, and gave him to be head over all things for the assembly, which is his body, the fullness of him who fills all in all.

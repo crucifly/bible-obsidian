@@ -74,127 +74,106 @@ And the inhabitants of the land observed them from afar, and all the inhabitants
 And the seven kings of the Canaanites resolved to make peace with the sons of Jacob, for they were greatly afraid of their lives, on account of the sons of Jacob.
 
 ### 22
-And on that day, being the seventh day, Japhia king of Hebron sent secretly to the king of Ai, and to the king of Gibeon, and to the king of Shalem, and to the king of Adulam, and to the king of Lachish, and to the king of Chazar, and to all the Canaanitish kings who were under their subjection, saying,
+And on that day, being the seventh day, Japhia king of Hebron sent secretly to the king of Ai, and to the king of Gibeon, and to the king of Shalem, and to the king of Adulam, and to the king of Lachish, and to the king of Chazar, and to all the Canaanitish kings who were under their subjection, saying, Go up with me, and come to me that we may go to the sons of Jacob, and I will make peace with them, and form a treaty with them, lest all your lands be destroyed by the swords of the sons of Jacob, as they did to Shechem and the cities around it, as you have heard and seen.
 
 ### 23
-Go up with me, and come to me that we may go to the sons of Jacob, and I will make peace with them, and form a treaty with them, lest all your lands be destroyed by the swords of the sons of Jacob, as they did to Shechem and the cities around it, as you have heard and seen.
-
-### 24
 And when you come to me, do not come with many men, but let every king bring his three head captains, and every captain bring three of his officers.
 
-### 25
+### 24
 And come all of you to Hebron, and we will go together to the sons of Jacob, and supplicate them that they shall form a treaty of peace with us.
 
-### 26
+### 25
 And all those kings did as the king of Hebron had sent to them, for they were all under his counsel and command, and all the kings of Canaan assembled to go to the sons of Jacob, to make peace with them; and the sons of Jacob returned and went to the portion of the field that was in Shechem, for they did not put confidence in the kings of the land.
 
-### 27
+### 26
 And the sons of Jacob returned and remained in the portion of the field ten days, and no one came to make war with them.
 
-### 28
+### 27
 And when the sons of Jacob saw that there was no appearance of war, they all assembled and went to the city of Shechem, and the sons of Jacob remained in Shechem.
 
-### 29
+### 28
 And at the expiration of forty days, all the kings of the Amorites assembled from all their places and came to Hebron, to Japhia, king of Hebron.
 
-### 30
+### 29
 And the number of kings that came to Hebron, to make peace with the sons of Jacob, was twenty-one kings, and the number of captains that came with them was sixty-nine, and their men were one hundred and eighty-nine, and all these kings and their men rested by Mount Hebron.
 
-### 31
+### 30
 And the king of Hebron went out with his three captains and nine men, and these kings resolved to go to the sons of Jacob to make peace.
 
-### 32
+### 31
 And they said unto the king of Hebron, Go thou before us with thy men, and speak for us unto the sons of Jacob, and we will come after thee and confirm thy words, and the king of Hebron did so.
 
-### 33
+### 32
 And the sons of Jacob heard that all the kings of Canaan had gathered together and rested in Hebron, and the sons of Jacob sent four of their servants as spies, saying, Go and spy these kings, and search and examine their men whether they are few or many, and if they are but few in number, number them all and come back.
 
-### 34
+### 33
 And the servants of Jacob went secretly to these kings, and did as the sons of Jacob had commanded them, and on that day they came back to the sons of Jacob, and said unto them, We came unto those kings, and they are but few in number, and we numbered them all, and behold, they were two hundred and eighty-eight, kings and men.
 
-### 35
+### 34
 And the sons of Jacob said, They are but few in number, therefore we will not all go out to them; and in the morning the sons of Jacob rose up and chose sixty two of their men, and ten of the sons of Jacob went with them; and they girt on their weapons of war, for they said, They are coming to make war with us, for they knew not that they were coming to make peace with them.
 
-### 36
+### 35
 And the sons of Jacob went with their servants to the gate of Shechem, toward those kings, and their father Jacob was with them.
 
-### 37
+### 36
 And when they had come forth, behold, the king of Hebron and his three captains and nine men with him were coming along the road against the sons of Jacob, and the sons of Jacob lifted up their eyes, and saw at a distance Japhia, king of Hebron, with his captains, coming toward them, and the sons of Jacob took their stand at the place of the gate of Shechem, and did not proceed.
 
-### 38
+### 37
 And the king of Hebron continued to advance, he and his captains, until he came nigh to the sons of Jacob, and he and his captains bowed down to them to the ground, and the king of Hebron sat with his captains before Jacob and his sons.
 
-### 39
+### 38
 And the sons of Jacob said unto him, What has befallen thee, O king of Hebron? why hast thou come to us this day? what dost thou require from us? and the king of Hebron said unto Jacob, I beseech thee my lord, all the kings of the Canaanites have this day come to make peace with you.
 
-### 40
+### 39
 And the sons of Jacob heard the words of the king of Hebron, and they would not consent to his proposals, for the sons of Jacob had no faith in him, for they imagined that the king of Hebron had spoken deceitfully to them.
 
-### 41
+### 40
 And the king of Hebron knew from the words of the sons of Jacob, that they did not believe his words, and the king of Hebron approached nearer to Jacob, and said unto him, I beseech thee, my lord, to be assured that all these kings have come to you on peaceable terms, for they have not come with all their men, neither did they bring their weapons of war with them, for they have come to seek peace from my lord and his sons.
 
-### 42
+### 41
 And the sons of Jacob answered the king of Hebron, saying, Send thou to all these kings, and if thou speakest truth unto us, let them each come singly before us, and if they come unto us unarmed, we shall then know that they seek peace from us.
 
+### 42
+And Japhia, king of Hebron, sent one of his men to the kings, and they all came before the sons of Jacob, and bowed down to them to the ground, and these kings sat before Jacob and his sons, and they spoke unto them, saying, We have heard all that you did unto the kings of the Amorites with your sword and exceedingly mighty arm, so that no man could stand up before you, and we were afraid of you for the sake of our lives, lest it should befall us as it did to them.
+
 ### 43
-And Japhia, king of Hebron, sent one of his men to the kings, and they all came before the sons of Jacob, and bowed down to them to the ground, and these kings sat before Jacob and his sons, and they spoke unto them, saying,
-
-### 44
-We have heard all that you did unto the kings of the Amorites with your sword and exceedingly mighty arm, so that no man could stand up before you, and we were afraid of you for the sake of our lives, lest it should befall us as it did to them.
-
-### 45
 So we have come unto you to form a treaty of peace between us, and now therefore contract with us a covenant of peace and truth, that you will not meddle with us, inasmuch as we have not meddled with you.
 
-### 46
+### 44
 And the sons of Jacob knew that they had really come to seek peace from them, and the sons of Jacob listened to them, and formed a covenant with them.
 
-### 47
+### 45
 And the sons of Jacob swore unto them that they would not meddle with them, and all the kings of the Canaanites swore also to them, and the sons of Jacob made them tributary from that day forward.
 
-### 48
+### 46
 And after this all the captains of these kings came with their men before Jacob, with presents in their hands for Jacob and his sons, and they bowed down to him to the ground.
 
-### 49
+### 47
 And these kings then urged the sons of Jacob and begged of them to return all the spoil they had captured from the seven cities of the Amorites, and the sons of Jacob did so, and they returned all that they had captured, the women, the little ones, the cattle and all the spoil which they had taken, and they sent them off, and they went away each to his city.
 
-### 50
+### 48
 And all these kings again bowed down to the sons of Jacob, and they sent or brought them many gifts in those days, and the sons of Jacob sent off these kings and their men, and they went peaceably away from them to their cities, and the sons of Jacob also returned to their home, to Shechem.
 
-### 51
+### 49
 And there was peace from that day forward between the sons of Jacob and the kings of the Canaanites, until the children of Israel came to inherit the land of Canaan.
 
-### 52
+### 50
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_40&oldid=11445941"
 
-### 53
-Hidden categories: SubpagesHeaders applying DefaultSort key
+### 51
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:59.
 
-### 54
-This page was last edited on 30 June 2021, at 01:59.
-
-### 55
+### 52
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 53
+Privacy policy Disclaimers
+
+### 54
+Code of Conduct Developers
+
+### 55
+Statistics Cookie statement
+
 ### 56
-Privacy policy
-
-### 57
-Disclaimers
-
-### 58
-Code of Conduct
-
-### 59
-Developers
-
-### 60
-Statistics
-
-### 61
-Cookie statement
-
-### 62
-Mobile view
-
-### 63
-Add topic
+Mobile view Add topic

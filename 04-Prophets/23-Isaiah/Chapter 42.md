@@ -21,61 +21,58 @@ He will not fail nor be discouraged, until he has set justice in the earth, and 
 Thus says God Yahweh, he who created the heavens and stretched them out, he who spread out the earth and that which comes out of it, he who gives breath to its people and spirit to those who walk in it.
 
 ### 6
-“I, Yahweh, have called you in righteousness, and will hold your hand, and will keep you, and make you a covenant for the people, as a light for the nations;
+“I, Yahweh, have called you in righteousness, and will hold your hand, and will keep you, and make you a covenant for the people, as a light for the nations; to open the blind eyes, to bring the prisoners out of the dungeon, and those who sit in darkness out of the prison.
 
 ### 7
-to open the blind eyes, to bring the prisoners out of the dungeon, and those who sit in darkness out of the prison.
-
-### 8
 “I am Yahweh. That is my name. I will not give my glory to another, nor my praise to engraved images.
 
-### 9
+### 8
 Behold, the former things have happened, and I declare new things. I tell you about them before they come up.”
 
-### 10
+### 9
 Sing to Yahweh a new song, and his praise from the end of the earth, you who go down to the sea, and all that is therein, the islands and their inhabitants.
 
-### 11
+### 10
 Let the wilderness and its cities raise their voices, with the villages that Kedar inhabits. Let the inhabitants of Sela sing. Let them shout from the top of the mountains!
 
-### 12
+### 11
 Let them give glory to Yahweh, and declare his praise in the islands.
 
-### 13
+### 12
 Yahweh will go out like a mighty man. He will stir up zeal like a man of war. He will raise a war cry. Yes, he will shout aloud. He will triumph over his enemies.
 
-### 14
+### 13
 “I have been silent a long time. I have been quiet and restrained myself. Now I will cry out like a travailing woman. I will both gasp and pant.
 
-### 15
+### 14
 I will destroy mountains and hills, and dry up all their herbs. I will make the rivers islands, and will dry up the pools.
 
-### 16
+### 15
 I will bring the blind by a way that they don’t know. I will lead them in paths that they don’t know. I will make darkness light before them, and crooked places straight. I will do these things, and I will not forsake them.
 
-### 17
+### 16
 “Those who trust in engraved images, who tell molten images, ‘You are our gods’ will be turned back. They will be utterly disappointed.
 
-### 18
+### 17
 “Hear, you deaf, and look, you blind, that you may see.
 
-### 19
+### 18
 Who is blind, but my servant? Or who is as deaf as my messenger whom I send? Who is as blind as he who is at peace, and as blind as Yahweh’s servant?
 
-### 20
+### 19
 You see many things, but don’t observe. His ears are open, but he doesn’t listen.
 
-### 21
+### 20
 It pleased Yahweh, for his righteousness’ sake, to magnify the law, and make it honorable.
 
-### 22
+### 21
 But this is a robbed and plundered people. All of them are snared in holes, and they are hidden in prisons. They have become captives, and no one delivers; and a plunder, and no one says, ‘Restore them!’
 
-### 23
+### 22
 Who is there among you who will give ear to this? Who will listen and hear for the time to come?
 
-### 24
+### 23
 Who gave Jacob as plunder, and Israel to the robbers? Didn’t Yahweh, he against whom we have sinned? For they would not walk in his ways, and they disobeyed his law.
 
-### 25
+### 24
 Therefore he poured the fierceness of his anger on him, and the strength of battle; and it set him on fire all around, but he didn’t know; and it burned him, but he didn’t take it to heart.”

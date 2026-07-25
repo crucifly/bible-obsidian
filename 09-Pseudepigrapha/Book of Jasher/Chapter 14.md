@@ -56,88 +56,70 @@ And in eight months time Rikayon and his men gathered great riches of silver and
 And when the year came round, at the time the king went forth into the town, all the inhabitants of Egypt assembled together to speak to him concerning the work of Rikayon and his men.
 
 ### 16
-And the king went forth on the appointed day, and all the Egyptians came before him and cried unto him, saying,
+And the king went forth on the appointed day, and all the Egyptians came before him and cried unto him, saying, May the king live forever. What is this thing thou doest in the town to thy servants, not to suffer a dead body to be buried until so much silver and gold be given? Was there ever the like unto this done in the whole earth, from the days of former kings yea even from the days of Adam, unto this day, that the dead should not be buried only for a set price?
 
 ### 17
-May the king live forever. What is this thing thou doest in the town to thy servants, not to suffer a dead body to be buried until so much silver and gold be given? Was there ever the like unto this done in the whole earth, from the days of former kings yea even from the days of Adam, unto this day, that the dead should not be buried only for a set price?
-
-### 18
 We know it to be the custom of kings to take a yearly tax from the living, but thou dost not only do this, but from the dead also thou exactest a tax day by day.
 
-### 19
+### 18
 Now, O king, we can no more bear this, for the whole city is ruined on this account, and dost thou not know it?
 
-### 20
+### 19
 And when the king heard all that they had spoken he was very wroth, and his anger burned within him at this affair, for he had known nothing of it.
 
-### 21
+### 20
 And the king said, Who and where is he that dares to do this wicked thing in my land without my command? Surely you will tell me.
 
-### 22
+### 21
 And they told him all the works of Rikayon and his men, and the king's anger was aroused, and he ordered Rikayon and his men to be brought before him.
 
-### 23
+### 22
 And Rikayon took about a thousand children, sons and daughters, and clothed them in silk and embroidery, and he set them upon horses and sent them to the king by means of his men, and he also took a great quantity of silver and gold and precious stones, and a strong and beautiful horse, as a present for the king, with which he came before the king and bowed down to the earth before him; and the king, his servants and all the inhabitants of Egypt wondered at the work of Rikayon, and they saw his riches and the present that he had brought to the king.
 
-### 24
+### 23
 And it greatly pleased the king and he wondered at it; and when Rikayon sat before him the king asked him concerning all his works, and Rikayon spoke all his words wisely before the king, his servants and all the inhabitants of Egypt.
 
-### 25
+### 24
 And when the king heard the words of Rikayon and his wisdom, Rikayon found grace in his sight, and he met with grace and kindness from all the servants of the king and from all the inhabitants of Egypt, on account of his wisdom and excellent speeches, and from that time they loved him exceedingly.
 
-### 26
+### 25
 And the king answered and said to Rikayon, Thy name shall no more be called Rikayon but Pharaoh shall be thy name, since thou didst exact a tax from the dead; and he called his name Pharaoh.
 
-### 27
+### 26
 And the king and his subjects loved Rikayon for his wisdom, and they consulted with all the inhabitants of Egypt to make him prefect under the king.
 
-### 28
+### 27
 And all the inhabitants of Egypt and its wise men did so, and it was made a law in Egypt.
 
-### 29
+### 28
 And they made Rikayon Pharaoh prefect under Oswiris king of Egypt, and Rikayon Pharaoh governed over Egypt, daily administering justice to the whole city, but Oswiris the king would judge the people of the land one day in the year, when he went out to make his appearance.
 
-### 30
+### 29
 And Rikayon Pharaoh cunningly usurped the government of Egypt, and he exacted a tax from all the inhabitants of Egypt.
 
-### 31
+### 30
 And all the inhabitants of Egypt greatly loved Rikayon Pharaoh, and they made a decree to call every king that should reign over them and their seed in Egypt, Pharaoh.
 
-### 32
+### 31
 Therefore all the kings that reigned in Egypt from that time forward were called Pharaoh unto this day.
 
-### 33
+### 32
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_14&oldid=11445879"
 
+### 33
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:44.
+
 ### 34
-Hidden categories: SubpagesHeaders applying DefaultSort key
-
-### 35
-This page was last edited on 30 June 2021, at 01:44.
-
-### 36
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 35
+Privacy policy Disclaimers
+
+### 36
+Code of Conduct Developers
+
 ### 37
-Privacy policy
+Statistics Cookie statement
 
 ### 38
-Disclaimers
-
-### 39
-Code of Conduct
-
-### 40
-Developers
-
-### 41
-Statistics
-
-### 42
-Cookie statement
-
-### 43
-Mobile view
-
-### 44
-Add topic
+Mobile view Add topic

@@ -176,34 +176,19 @@ And Satan answered the Lord and said, Speak then now unto Abraham as thou hast s
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_22&oldid=11445902"
 
 ### 56
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:54.
 
 ### 57
-This page was last edited on 30 June 2021, at 01:54.
-
-### 58
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 58
+Privacy policy Disclaimers
+
 ### 59
-Privacy policy
+Code of Conduct Developers
 
 ### 60
-Disclaimers
+Statistics Cookie statement
 
 ### 61
-Code of Conduct
-
-### 62
-Developers
-
-### 63
-Statistics
-
-### 64
-Cookie statement
-
-### 65
-Mobile view
-
-### 66
-Add topic
+Mobile view Add topic

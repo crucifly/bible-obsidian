@@ -21,13 +21,10 @@ But ye--ye have not been steadfast, nor done the commandments of the Lord, But y
 Therefore shall ye execrate your days, And the years of your life shall perish, And ⌈the years of your destruction⌉ shall be multiplied in eternal execration, And ye shall find no mercy.
 
 ### 6
-In those days ye shall make your names an eternal execration unto all the righteous, b. And by you shall ⌈all⌉ who curse, curse, And all the sinners ⌈and godless⌉ shall imprecate by you,
+In those days ye shall make your names an eternal execration unto all the righteous, b. And by you shall ⌈all⌉ who curse, curse, And all the sinners ⌈and godless⌉ shall imprecate by you, And all the . . . shall rejoice, e. And there shall be forgiveness of sins, f. And every mercy and peace and forbearance: g. There shall be salvation unto them, a goodly light. i. And for all of you sinners there shall be no salvation, j But on you all shall abide a curse.
 
 ### 7
-And all the . . . shall rejoice, e. And there shall be forgiveness of sins, f. And every mercy and peace and forbearance: g. There shall be salvation unto them, a goodly light. i. And for all of you sinners there shall be no salvation, j But on you all shall abide a curse.
-
-### 8
 But for the elect there shall be light and joy and peace, b. And they shall inherit the earth. 8 And then there shall be bestowed upon the elect wisdom, And they shall all live and never again sin, Either through ungodliness or through pride: But they who are wise shall be humble. 9 And they shall not again transgress, Nor shall they sin all the days of their life, Nor shall they die of (the divine) anger or wrath, But they shall complete the number of the days of their life. And their lives shall be increased in peace, And the years of their joy shall be multiplied, In eternal gladness and peace, All the days of their life.
 
-### 9
+### 8
 And for you the godless there shall be a curse.

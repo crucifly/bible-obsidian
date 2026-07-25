@@ -98,34 +98,19 @@ And those people came and told these things to Rebecca, and Rebecca rejoiced gre
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_28&oldid=11445916"
 
 ### 30
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:55.
 
 ### 31
-This page was last edited on 30 June 2021, at 01:55.
-
-### 32
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 32
+Privacy policy Disclaimers
+
 ### 33
-Privacy policy
+Code of Conduct Developers
 
 ### 34
-Disclaimers
+Statistics Cookie statement
 
 ### 35
-Code of Conduct
-
-### 36
-Developers
-
-### 37
-Statistics
-
-### 38
-Cookie statement
-
-### 39
-Mobile view
-
-### 40
-Add topic
+Mobile view Add topic

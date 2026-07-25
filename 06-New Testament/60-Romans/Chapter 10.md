@@ -21,49 +21,43 @@ For Christ is the fulfillment of the law for righteousness to everyone who belie
 For Moses writes about the righteousness of the law, “The one who does them will live by them.”
 
 ### 6
-But the righteousness which is of faith says this, “Don’t say in your heart, ‘Who will ascend into heaven?’ (that is, to bring Christ down);
+But the righteousness which is of faith says this, “Don’t say in your heart, ‘Who will ascend into heaven?’ (that is, to bring Christ down); or, ‘Who will descend into the abyss?’ (that is, to bring Christ up from the dead.)”
 
 ### 7
-or, ‘Who will descend into the abyss?’ (that is, to bring Christ up from the dead.)”
+But what does it say? “The word is near you, in your mouth, and in your heart”; that is, the word of faith, which we preach: that if you will confess with your mouth that Jesus is Lord, and believe in your heart that God raised him from the dead, you will be saved.
 
 ### 8
-But what does it say? “The word is near you, in your mouth, and in your heart”; that is, the word of faith, which we preach:
-
-### 9
-that if you will confess with your mouth that Jesus is Lord, and believe in your heart that God raised him from the dead, you will be saved.
-
-### 10
 For with the heart, one believes unto righteousness; and with the mouth confession is made unto salvation.
 
-### 11
+### 9
 For the Scripture says, “Whoever believes in him will not be disappointed.”
 
-### 12
+### 10
 For there is no distinction between Jew and Greek; for the same Lord is Lord of all, and is rich to all who call on him.
 
-### 13
+### 11
 For, “Whoever will call on the name of the Lord will be saved.”
 
-### 14
+### 12
 How then will they call on him in whom they have not believed? How will they believe in him whom they have not heard? How will they hear without a preacher?
 
-### 15
+### 13
 And how will they preach unless they are sent? As it is written: “How beautiful are the feet of those who preach the Good News of peace, who bring glad tidings of good things!”
 
-### 16
+### 14
 But they didn’t all listen to the glad news. For Isaiah says, “Lord, who has believed our report?”
 
-### 17
+### 15
 So faith comes by hearing, and hearing by the word of God.
 
-### 18
+### 16
 But I say, didn’t they hear? Yes, most certainly, “Their sound went out into all the earth, their words to the ends of the world.”
 
-### 19
+### 17
 But I ask, didn’t Israel know? First Moses says, “I will provoke you to jealousy with that which is no nation, with a nation void of understanding I will make you angry.”
 
-### 20
+### 18
 Isaiah is very bold, and says, “I was found by those who didn’t seek me. I was revealed to those who didn’t ask for me.”
 
-### 21
+### 19
 But as to Israel he says, “All day long I stretched out my hands to a disobedient and contrary people.”

@@ -39,28 +39,25 @@ His father went down to the woman; and Samson made a feast there, for the young 
 When they saw him, they brought thirty companions to be with him.
 
 ### 12
-Samson said to them, “Let me tell you a riddle now. If you can declare it to me within the seven days of the feast, and find it out, then I will give you thirty linen garments and thirty changes of clothing;
+Samson said to them, “Let me tell you a riddle now. If you can declare it to me within the seven days of the feast, and find it out, then I will give you thirty linen garments and thirty changes of clothing; but if you can’t declare it to me, then you shall give me thirty linen garments and thirty changes of clothing.” They said to him, “Tell us your riddle, that we may hear it.”
 
 ### 13
-but if you can’t declare it to me, then you shall give me thirty linen garments and thirty changes of clothing.” They said to him, “Tell us your riddle, that we may hear it.”
-
-### 14
 He said to them, “Out of the eater came out food. Out of the strong came out sweetness.” They couldn’t in three days declare the riddle.
 
-### 15
+### 14
 On the seventh day, they said to Samson’s wife, “Entice your husband, that he may declare to us the riddle, lest we burn you and your father’s house with fire. Have you called us to impoverish us? Isn’t that so?”
 
-### 16
+### 15
 Samson’s wife wept before him, and said, “You just hate me, and don’t love me. You’ve told a riddle to the children of my people, and haven’t told it to me.” He said to her, “Behold, I haven’t told my father or my mother, so why should I tell you?”
 
-### 17
+### 16
 She wept before him the seven days, while their feast lasted; and on the seventh day, he told her, because she pressed him severely; and she told the riddle to the children of her people.
 
-### 18
+### 17
 The men of the city said to him on the seventh day before the sun went down, “What is sweeter than honey? What is stronger than a lion?” He said to them, “If you hadn’t plowed with my heifer, you wouldn’t have found out my riddle.”
 
-### 19
+### 18
 Yahweh’s Spirit came mightily on him, and he went down to Ashkelon, and struck thirty men of them, and took their plunder, then gave the changes of clothing to those who declared the riddle. His anger burned, and he went up to his father’s house.
 
-### 20
+### 19
 But Samson’s wife was given to his companion who had been his friend.

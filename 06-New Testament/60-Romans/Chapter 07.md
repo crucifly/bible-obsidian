@@ -33,49 +33,43 @@ But sin, finding occasion through the commandment, produced in me all kinds of c
 I was alive apart from the law once, but when the commandment came, sin revived, and I died.
 
 ### 10
-The commandment, which was for life, this I found to be for death;
+The commandment, which was for life, this I found to be for death; for sin, finding occasion through the commandment, deceived me, and through it killed me.
 
 ### 11
-for sin, finding occasion through the commandment, deceived me, and through it killed me.
-
-### 12
 Therefore the law indeed is holy, and the commandment holy, and righteous, and good.
 
-### 13
+### 12
 Did then that which is good become death to me? May it never be! But sin, that it might be shown to be sin, was producing death in me through that which is good; that through the commandment sin might become exceedingly sinful.
 
-### 14
+### 13
 For we know that the law is spiritual, but I am fleshly, sold under sin.
 
-### 15
+### 14
 For I don’t know what I am doing. For I don’t practice what I desire to do; but what I hate, that I do.
 
-### 16
+### 15
 But if what I don’t desire, that I do, I consent to the law that it is good.
 
-### 17
+### 16
 So now it is no more I that do it, but sin which dwells in me.
 
-### 18
+### 17
 For I know that in me, that is, in my flesh, dwells no good thing. For desire is present with me, but I don’t find it doing that which is good.
 
-### 19
+### 18
 For the good which I desire, I don’t do; but the evil which I don’t desire, that I practice.
 
-### 20
+### 19
 But if what I don’t desire, that I do, it is no more I that do it, but sin which dwells in me.
 
-### 21
+### 20
 I find then the law, that, to me, while I desire to do good, evil is present.
 
+### 21
+For I delight in God’s law after the inward man, but I see a different law in my members, warring against the law of my mind, and bringing me into captivity under the law of sin which is in my members.
+
 ### 22
-For I delight in God’s law after the inward man,
-
-### 23
-but I see a different law in my members, warring against the law of my mind, and bringing me into captivity under the law of sin which is in my members.
-
-### 24
 What a wretched man I am! Who will deliver me out of the body of this death?
 
-### 25
+### 23
 I thank God through Jesus Christ, our Lord! So then with the mind, I myself serve God’s law, but with the flesh, the sin’s law.

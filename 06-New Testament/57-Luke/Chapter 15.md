@@ -72,31 +72,28 @@ The son said to him, ‘Father, I have sinned against heaven, and in your sight.
 “But the father said to his servants, ‘Bring out the best robe, and put it on him. Put a ring on his hand, and shoes on his feet.
 
 ### 23
-Bring the fattened calf, kill it, and let us eat, and celebrate;
+Bring the fattened calf, kill it, and let us eat, and celebrate; for this, my son, was dead, and is alive again. He was lost, and is found.’ They began to celebrate.
 
 ### 24
-for this, my son, was dead, and is alive again. He was lost, and is found.’ They began to celebrate.
-
-### 25
 “Now his elder son was in the field. As he came near to the house, he heard music and dancing.
 
-### 26
+### 25
 He called one of the servants to him, and asked what was going on.
 
-### 27
+### 26
 He said to him, ‘Your brother has come, and your father has killed the fattened calf, because he has received him back safe and healthy.’
 
-### 28
+### 27
 But he was angry, and would not go in. Therefore his father came out, and begged him.
 
-### 29
+### 28
 But he answered his father, ‘Behold, these many years I have served you, and I never disobeyed a commandment of yours, but you never gave me a goat, that I might celebrate with my friends.
 
-### 30
+### 29
 But when this your son came, who has devoured your living with prostitutes, you killed the fattened calf for him.’
 
-### 31
+### 30
 “He said to him, ‘Son, you are always with me, and all that is mine is yours.
 
-### 32
+### 31
 But it was appropriate to celebrate and be glad, for this, your brother, was dead, and is alive again. He was lost, and is found.’”

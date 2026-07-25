@@ -54,40 +54,34 @@ When Jezebel heard that Naboth had been stoned, and was dead, Jezebel said to Ah
 When Ahab heard that Naboth was dead, Ahab rose up to go down to the vineyard of Naboth the Jezreelite, to take possession of it.
 
 ### 17
-Yahweh’s word came to Elijah the Tishbite, saying,
+Yahweh’s word came to Elijah the Tishbite, saying, “Arise, go down to meet Ahab king of Israel, who dwells in Samaria. Behold, he is in the vineyard of Naboth, where he has gone down to take possession of it.
 
 ### 18
-“Arise, go down to meet Ahab king of Israel, who dwells in Samaria. Behold, he is in the vineyard of Naboth, where he has gone down to take possession of it.
-
-### 19
 You shall speak to him, saying, ‘Yahweh says, “Have you killed and also taken possession?”’ You shall speak to him, saying, ‘Yahweh says, “In the place where dogs licked the blood of Naboth, dogs will lick your blood, even yours.”’”
 
-### 20
+### 19
 Ahab said to Elijah, “Have you found me, my enemy?” He answered, “I have found you, because you have sold yourself to do that which is evil in Yahweh’s sight.
 
-### 21
+### 20
 Behold, I will bring evil on you, and will utterly sweep you away and will cut off from Ahab everyone who urinates against a wall, and him who is shut up and him who is left at large in Israel.
 
-### 22
+### 21
 I will make your house like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah for the provocation with which you have provoked me to anger, and have made Israel to sin.”
 
-### 23
+### 22
 Yahweh also spoke of Jezebel, saying, “The dogs will eat Jezebel by the rampart of Jezreel.
 
-### 24
+### 23
 The dogs will eat he who dies of Ahab in the city; and the birds of the sky will eat he who dies in the field.”
 
-### 25
+### 24
 But there was no one like Ahab, who sold himself to do that which was evil in Yahweh’s sight, whom Jezebel his wife stirred up.
 
-### 26
+### 25
 He did very abominably in following idols, according to all that the Amorites did, whom Yahweh cast out before the children of Israel.
 
-### 27
+### 26
 When Ahab heard those words, he tore his clothes, and put sackcloth on his flesh, and fasted, and lay in sackcloth, and went softly.
 
-### 28
-Yahweh’s word came to Elijah the Tishbite, saying,
-
-### 29
-“See how Ahab humbles himself before me? Because he humbles himself before me, I will not bring the evil in his days; but I will bring the evil on his house in his son’s day.”
+### 27
+Yahweh’s word came to Elijah the Tishbite, saying, “See how Ahab humbles himself before me? Because he humbles himself before me, I will not bring the evil in his days; but I will bring the evil on his house in his son’s day.”

@@ -36,19 +36,13 @@ And all the kings and the mighty and the exalted and those who rule the earth Sh
 Nevertheless that Lord of Spirits will so press them That they shall hastily go forth from His presence, And their faces shall be filled with shame, And the darkness grow deeper on their faces.
 
 ### 11
-And He will deliver them to the angels for punishment, To execute vengeance on them because they have oppressed His children and His elect
+And He will deliver them to the angels for punishment, To execute vengeance on them because they have oppressed His children and His elect And they shall be a spectacle for the righteous and for His elect: They shall rejoice over them, Because the wrath of the Lord of Spirits resteth upon them, And His sword is drunk with their blood.
 
 ### 12
-And they shall be a spectacle for the righteous and for His elect: They shall rejoice over them, Because the wrath of the Lord of Spirits resteth upon them, And His sword is drunk with their blood.
-
-### 13
 And the righteous and elect shall be saved on that day, And they shall never thenceforward see the face of the sinners and unrighteous.
 
-### 14
+### 13
 And the Lord of Spirits will abide over them, And with that Son of Man shall they eat And lie down and rise up for ever and ever.
 
-### 15
-And the righteous and elect shall have risen from the earth, And ceased to be of downcast countenance. And they shall have been clothed with garments of glory,
-
-### 16
-And these shall be the garments of life from the Lord of Spirits: And your garments shall not grow old, Nor your glory pass away before the Lord of Spirits.
+### 14
+And the righteous and elect shall have risen from the earth, And ceased to be of downcast countenance. And they shall have been clothed with garments of glory, And these shall be the garments of life from the Lord of Spirits: And your garments shall not grow old, Nor your glory pass away before the Lord of Spirits.

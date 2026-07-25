@@ -51,22 +51,19 @@ God said to Moses, “I AM WHO I AM,” and he said, “You shall tell the child
 God said moreover to Moses, “You shall tell the children of Israel this, ‘Yahweh, the God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, has sent me to you.’ This is my name forever, and this is my memorial to all generations.
 
 ### 16
-Go and gather the elders of Israel together, and tell them, ‘Yahweh, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying, “I have surely visited you, and seen that which is done to you in Egypt;
+Go and gather the elders of Israel together, and tell them, ‘Yahweh, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying, “I have surely visited you, and seen that which is done to you in Egypt; and I have said, I will bring you up out of the affliction of Egypt to the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite, to a land flowing with milk and honey.”’
 
 ### 17
-and I have said, I will bring you up out of the affliction of Egypt to the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Hivite, and the Jebusite, to a land flowing with milk and honey.”’
-
-### 18
 They will listen to your voice, and you shall come, you and the elders of Israel, to the king of Egypt, and you shall tell him, ‘Yahweh, the God of the Hebrews, has met with us. Now please let us go three days’ journey into the wilderness, that we may sacrifice to Yahweh, our God.’
 
-### 19
+### 18
 I know that the king of Egypt won’t give you permission to go, no, not by a mighty hand.
 
-### 20
+### 19
 I will reach out my hand and strike Egypt with all my wonders which I will do among them, and after that he will let you go.
 
-### 21
+### 20
 I will give this people favor in the sight of the Egyptians, and it will happen that when you go, you shall not go empty-handed.
 
-### 22
+### 21
 But every woman shall ask of her neighbor, and of her who visits her house, jewels of silver, jewels of gold, and clothing; and you shall put them on your sons, and on your daughters. You shall plunder the Egyptians.”

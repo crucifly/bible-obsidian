@@ -12,103 +12,88 @@ Doesn’t wisdom cry out? Doesn’t understanding raise her voice?
 On the top of high places by the way, where the paths meet, she stands.
 
 ### 3
-Beside the gates, at the entry of the city, at the entry doors, she cries aloud:
+Beside the gates, at the entry of the city, at the entry doors, she cries aloud: “To you men, I call! I send my voice to the sons of mankind.
 
 ### 4
-“To you men, I call! I send my voice to the sons of mankind.
-
-### 5
 You simple, understand prudence. You fools, be of an understanding heart.
 
-### 6
+### 5
 Hear, for I will speak excellent things. The opening of my lips is for right things.
 
-### 7
+### 6
 For my mouth speaks truth. Wickedness is an abomination to my lips.
 
-### 8
+### 7
 All the words of my mouth are in righteousness. There is nothing crooked or perverse in them.
 
-### 9
+### 8
 They are all plain to him who understands, right to those who find knowledge.
 
-### 10
+### 9
 Receive my instruction rather than silver; knowledge rather than choice gold.
 
-### 11
+### 10
 For wisdom is better than rubies. All the things that may be desired can’t be compared to it.
 
-### 12
+### 11
 “I, wisdom, have made prudence my dwelling. Find out knowledge and discretion.
 
-### 13
+### 12
 The fear of Yahweh is to hate evil. I hate pride, arrogance, the evil way, and the perverse mouth.
 
-### 14
+### 13
 Counsel and sound knowledge are mine. I have understanding and power.
 
-### 15
+### 14
 By me kings reign, and princes decree justice.
 
-### 16
+### 15
 By me princes rule; nobles, and all the righteous rulers of the earth.
 
-### 17
+### 16
 I love those who love me. Those who seek me diligently will find me.
 
-### 18
+### 17
 With me are riches, honor, enduring wealth, and prosperity.
 
-### 19
+### 18
 My fruit is better than gold, yes, than fine gold; my yield than choice silver.
 
+### 19
+I walk in the way of righteousness, in the middle of the paths of justice; that I may give wealth to those who love me. I fill their treasuries.
+
 ### 20
-I walk in the way of righteousness, in the middle of the paths of justice;
-
-### 21
-that I may give wealth to those who love me. I fill their treasuries.
-
-### 22
 “Yahweh possessed me in the beginning of his work, before his deeds of old.
 
-### 23
+### 21
 I was set up from everlasting, from the beginning, before the earth existed.
 
-### 24
+### 22
 When there were no depths, I was born, when there were no springs abounding with water.
 
+### 23
+Before the mountains were settled in place, before the hills, I was born; while as yet he had not made the earth, nor the fields, nor the beginning of the dust of the world.
+
+### 24
+When he established the heavens, I was there; when he set a circle on the surface of the deep, when he established the clouds above, when the springs of the deep became strong,
+
 ### 25
-Before the mountains were settled in place, before the hills, I was born;
+when he gave to the sea its boundary, that the waters should not violate his commandment, when he marked out the foundations of the earth; then I was the craftsman by his side. I was a delight day by day, always rejoicing before him,
 
 ### 26
-while as yet he had not made the earth, nor the fields, nor the beginning of the dust of the world.
-
-### 27
-When he established the heavens, I was there; when he set a circle on the surface of the deep,
-
-### 28
-when he established the clouds above, when the springs of the deep became strong,
-
-### 29
-when he gave to the sea its boundary, that the waters should not violate his commandment, when he marked out the foundations of the earth;
-
-### 30
-then I was the craftsman by his side. I was a delight day by day, always rejoicing before him,
-
-### 31
 rejoicing in his whole world. My delight was with the sons of men.
 
-### 32
+### 27
 “Now therefore, my sons, listen to me, for blessed are those who keep my ways.
 
-### 33
+### 28
 Hear instruction, and be wise. Don’t refuse it.
 
-### 34
+### 29
 Blessed is the man who hears me, watching daily at my gates, waiting at my door posts.
 
-### 35
+### 30
 For whoever finds me, finds life, and will obtain favor from Yahweh.
 
-### 36
+### 31
 But he who sins against me wrongs his own soul. All those who hate me love death.”

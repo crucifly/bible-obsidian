@@ -63,64 +63,52 @@ His sister Hammolecheth bore Ishhod, Abiezer, and Mahlah.
 The sons of Shemida were Ahian, Shechem, Likhi, and Aniam.
 
 ### 20
-The sons of Ephraim: Shuthelah, Bered his son, Tahath his son, Eleadah his son, Tahath his son,
+The sons of Ephraim: Shuthelah, Bered his son, Tahath his son, Eleadah his son, Tahath his son, Zabad his son, Shuthelah his son, Ezer, and Elead, whom the men of Gath who were born in the land killed, because they came down to take away their livestock.
 
 ### 21
-Zabad his son, Shuthelah his son, Ezer, and Elead, whom the men of Gath who were born in the land killed, because they came down to take away their livestock.
-
-### 22
 Ephraim their father mourned many days, and his brothers came to comfort him.
 
-### 23
+### 22
 He went in to his wife, and she conceived, and bore a son, and he named him Beriah, because there was trouble with his house.
 
-### 24
+### 23
 His daughter was Sheerah, who built Beth Horon the lower and the upper, and Uzzen Sheerah.
 
+### 24
+Rephah was his son, and Resheph, and Telah his son, Tahan his son, Ladan his son, Ammihud his son, Elishama his son,
+
 ### 25
-Rephah was his son, and Resheph, and Telah his son, Tahan his son,
-
-### 26
-Ladan his son, Ammihud his son, Elishama his son,
-
-### 27
 Nun his son, and Joshua his son.
 
-### 28
-Their possessions and settlements were Bethel and its towns, and eastward Naaran, and westward Gezer, with its towns; Shechem also and its towns, to Azzah and its towns;
+### 26
+Their possessions and settlements were Bethel and its towns, and eastward Naaran, and westward Gezer, with its towns; Shechem also and its towns, to Azzah and its towns; and by the borders of the children of Manasseh, Beth Shean and its towns, Taanach and its towns, Megiddo and its towns, and Dor and its towns. The children of Joseph the son of Israel lived in these.
 
-### 29
-and by the borders of the children of Manasseh, Beth Shean and its towns, Taanach and its towns, Megiddo and its towns, and Dor and its towns. The children of Joseph the son of Israel lived in these.
-
-### 30
+### 27
 The sons of Asher: Imnah, Ishvah, Ishvi, and Beriah. Serah was their sister.
 
-### 31
+### 28
 The sons of Beriah: Heber and Malchiel, who was the father of Birzaith.
 
-### 32
+### 29
 Heber became the father of Japhlet, Shomer, Hotham, and Shua their sister.
 
-### 33
+### 30
 The sons of Japhlet: Pasach, Bimhal, and Ashvath. These are the children of Japhlet.
 
-### 34
+### 31
 The sons of Shemer: Ahi, Rohgah, Jehubbah, and Aram.
 
-### 35
+### 32
 The sons of Helem his brother: Zophah, Imna, Shelesh, and Amal.
 
-### 36
-The sons of Zophah: Suah, Harnepher, Shual, Beri, Imrah,
+### 33
+The sons of Zophah: Suah, Harnepher, Shual, Beri, Imrah, Bezer, Hod, Shamma, Shilshah, Ithran, and Beera.
 
-### 37
-Bezer, Hod, Shamma, Shilshah, Ithran, and Beera.
-
-### 38
+### 34
 The sons of Jether: Jephunneh, Pispa, and Ara.
 
-### 39
+### 35
 The sons of Ulla: Arah, Hanniel, and Rizia.
 
-### 40
+### 36
 All these were the children of Asher, heads of the fathers’ houses, choice and mighty men of valor, chief of the princes. The number of them listed by genealogy for service in war was twenty-six thousand men.

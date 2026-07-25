@@ -39,34 +39,31 @@ I stayed on the mountain, as at the first time, forty days and forty nights: and
 Yahweh said to me, “Arise, take your journey before the people; and they shall go in and possess the land, which I swore to their fathers to give to them.”
 
 ### 12
-Now, Israel, what does Yahweh your God require of you, but to fear Yahweh your God, to walk in all his ways, and to love him, and to serve Yahweh your God with all your heart and with all your soul,
+Now, Israel, what does Yahweh your God require of you, but to fear Yahweh your God, to walk in all his ways, and to love him, and to serve Yahweh your God with all your heart and with all your soul, to keep Yahweh’s commandments and statutes, which I command you today for your good?
 
 ### 13
-to keep Yahweh’s commandments and statutes, which I command you today for your good?
-
-### 14
 Behold, to Yahweh your God belongs heaven and the heaven of heavens, the earth, with all that is therein.
 
-### 15
+### 14
 Only Yahweh had a delight in your fathers to love them, and he chose their offspring after them, even you above all peoples, as it is today.
 
-### 16
+### 15
 Circumcise therefore the foreskin of your heart, and be no more stiff-necked.
 
-### 17
+### 16
 For Yahweh your God, he is God of gods, and Lord of lords, the great God, the mighty, and the awesome, who doesn’t respect persons, nor takes reward.
 
-### 18
+### 17
 He does execute justice for the fatherless and widow, and loves the foreigner, in giving him food and clothing.
 
-### 19
+### 18
 Therefore love the foreigner; for you were foreigners in the land of Egypt.
 
-### 20
+### 19
 You shall fear Yahweh your God; you shall serve him; and you shall cling to him, and you shall swear by his name.
 
-### 21
+### 20
 He is your praise, and he is your God, who has done for you these great and awesome things, which your eyes have seen.
 
-### 22
+### 21
 Your fathers went down into Egypt with seventy persons; and now Yahweh your God has made you as the stars of the sky for multitude.

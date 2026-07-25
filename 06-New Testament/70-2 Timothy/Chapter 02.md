@@ -27,58 +27,49 @@ The farmer who labors must be the first to get a share of the crops.
 Consider what I say, and may the Lord give you understanding in all things.
 
 ### 8
-Remember Jesus Christ, risen from the dead, of the offspring of David, according to my Good News,
+Remember Jesus Christ, risen from the dead, of the offspring of David, according to my Good News, in which I suffer hardship to the point of chains as a criminal. But God’s word isn’t chained.
 
 ### 9
-in which I suffer hardship to the point of chains as a criminal. But God’s word isn’t chained.
-
-### 10
 Therefore I endure all things for the chosen ones’ sake, that they also may obtain the salvation which is in Christ Jesus with eternal glory.
 
-### 11
+### 10
 This saying is trustworthy: “For if we died with him, we will also live with him.
 
-### 12
+### 11
 If we endure, we will also reign with him. If we deny him, he also will deny us.
 
-### 13
+### 12
 If we are faithless, he remains faithful. For he can’t deny himself.”
 
-### 14
+### 13
 Remind them of these things, charging them in the sight of the Lord, that they don’t argue about words, to no profit, to the subverting of those who hear.
 
-### 15
+### 14
 Give diligence to present yourself approved by God, a workman who doesn’t need to be ashamed, properly handling the Word of Truth.
 
+### 15
+But shun empty chatter, for it will go further in ungodliness, and those words will consume like gangrene, of whom is Hymenaeus and Philetus;
+
 ### 16
-But shun empty chatter, for it will go further in ungodliness,
-
-### 17
-and those words will consume like gangrene, of whom is Hymenaeus and Philetus;
-
-### 18
 men who have erred concerning the truth, saying that the resurrection is already past, and overthrowing the faith of some.
 
-### 19
+### 17
 However God’s firm foundation stands, having this seal, “The Lord knows those who are his,” and, “Let every one who names the name of the Lord depart from unrighteousness.”
 
-### 20
+### 18
 Now in a large house there are not only vessels of gold and of silver, but also of wood and of clay. Some are for honor, and some for dishonor.
 
-### 21
+### 19
 If anyone therefore purges himself from these, he will be a vessel for honor, sanctified, and suitable for the master’s use, prepared for every good work.
 
-### 22
+### 20
 Flee from youthful lusts; but pursue righteousness, faith, love, and peace with those who call on the Lord out of a pure heart.
 
-### 23
+### 21
 But refuse foolish and ignorant questionings, knowing that they generate strife.
 
-### 24
-The Lord’s servant must not quarrel, but be gentle towards all, able to teach, patient,
+### 22
+The Lord’s servant must not quarrel, but be gentle towards all, able to teach, patient, in gentleness correcting those who oppose him: perhaps God may give them repentance leading to a full knowledge of the truth,
 
-### 25
-in gentleness correcting those who oppose him: perhaps God may give them repentance leading to a full knowledge of the truth,
-
-### 26
+### 23
 and they may recover themselves out of the devil’s snare, having been taken captive by him to his will.

@@ -9,151 +9,109 @@ canon: "Historical"
 The second lot came out for Simeon, even for the tribe of the children of Simeon according to their families. Their inheritance was in the middle of the inheritance of the children of Judah.
 
 ### 2
-They had for their inheritance Beersheba (or Sheba), Moladah,
+They had for their inheritance Beersheba (or Sheba), Moladah, Hazar Shual, Balah, Ezem,
 
 ### 3
-Hazar Shual, Balah, Ezem,
+Eltolad, Bethul, Hormah, Ziklag, Beth Marcaboth, Hazar Susah,
 
 ### 4
-Eltolad, Bethul, Hormah,
+Beth Lebaoth, and Sharuhen; thirteen cities with their villages; Ain, Rimmon, Ether, and Ashan; four cities with their villages;
 
 ### 5
-Ziklag, Beth Marcaboth, Hazar Susah,
-
-### 6
-Beth Lebaoth, and Sharuhen; thirteen cities with their villages;
-
-### 7
-Ain, Rimmon, Ether, and Ashan; four cities with their villages;
-
-### 8
 and all the villages that were around these cities to Baalath Beer, Ramah of the South. This is the inheritance of the tribe of the children of Simeon according to their families.
 
-### 9
+### 6
 Out of the part of the children of Judah was the inheritance of the children of Simeon; for the portion of the children of Judah was too much for them. Therefore the children of Simeon had inheritance in the middle of their inheritance.
 
-### 10
+### 7
 The third lot came up for the children of Zebulun according to their families. The border of their inheritance was to Sarid.
 
-### 11
+### 8
 Their border went up westward, even to Maralah, and reached to Dabbesheth. It reached to the brook that is before Jokneam.
 
-### 12
+### 9
 It turned from Sarid eastward toward the sunrise to the border of Chisloth Tabor. It went out to Daberath, and went up to Japhia.
 
-### 13
+### 10
 From there it passed along eastward to Gath Hepher, to Ethkazin; and it went out at Rimmon which stretches to Neah.
 
-### 14
-The border turned around it on the north to Hannathon; and it ended at the valley of Iphtah El;
+### 11
+The border turned around it on the north to Hannathon; and it ended at the valley of Iphtah El; Kattath, Nahalal, Shimron, Idalah, and Bethlehem: twelve cities with their villages.
 
-### 15
-Kattath, Nahalal, Shimron, Idalah, and Bethlehem: twelve cities with their villages.
-
-### 16
+### 12
 This is the inheritance of the children of Zebulun according to their families, these cities with their villages.
 
-### 17
+### 13
 The fourth lot came out for Issachar, even for the children of Issachar according to their families.
 
-### 18
-Their border was to Jezreel, Chesulloth, Shunem,
+### 14
+Their border was to Jezreel, Chesulloth, Shunem, Hapharaim, Shion, Anaharath,
 
-### 19
-Hapharaim, Shion, Anaharath,
+### 15
+Rabbith, Kishion, Ebez, Remeth, Engannim, En Haddah, and Beth Pazzez.
 
-### 20
-Rabbith, Kishion, Ebez,
-
-### 21
-Remeth, Engannim, En Haddah, and Beth Pazzez.
-
-### 22
+### 16
 The border reached to Tabor, Shahazumah, and Beth Shemesh. Their border ended at the Jordan: sixteen cities with their villages.
 
-### 23
+### 17
 This is the inheritance of the tribe of the children of Issachar according to their families, the cities with their villages.
 
-### 24
+### 18
 The fifth lot came out for the tribe of the children of Asher according to their families.
 
-### 25
-Their border was Helkath, Hali, Beten, Achshaph,
+### 19
+Their border was Helkath, Hali, Beten, Achshaph, Allammelech, Amad, Mishal. It reached to Carmel westward, and to Shihorlibnath.
 
-### 26
-Allammelech, Amad, Mishal. It reached to Carmel westward, and to Shihorlibnath.
+### 20
+It turned toward the sunrise to Beth Dagon, and reached to Zebulun, and to the valley of Iphtah El northward to Beth Emek and Neiel. It went out to Cabul on the left hand, and Ebron, Rehob, Hammon, and Kanah, even to great Sidon.
 
-### 27
-It turned toward the sunrise to Beth Dagon, and reached to Zebulun, and to the valley of Iphtah El northward to Beth Emek and Neiel. It went out to Cabul on the left hand,
+### 21
+The border turned to Ramah, to the fortified city of Tyre; and the border turned to Hosah. It ended at the sea by the region of Achzib; Ummah also, and Aphek, and Rehob: twenty-two cities with their villages.
 
-### 28
-and Ebron, Rehob, Hammon, and Kanah, even to great Sidon.
-
-### 29
-The border turned to Ramah, to the fortified city of Tyre; and the border turned to Hosah. It ended at the sea by the region of Achzib;
-
-### 30
-Ummah also, and Aphek, and Rehob: twenty-two cities with their villages.
-
-### 31
+### 22
 This is the inheritance of the tribe of the children of Asher according to their families, these cities with their villages.
 
-### 32
+### 23
 The sixth lot came out for the children of Naphtali, even for the children of Naphtali according to their families.
 
-### 33
+### 24
 Their border was from Heleph, from the oak in Zaanannim, Adami-nekeb, and Jabneel, to Lakkum. It ended at the Jordan.
 
-### 34
+### 25
 The border turned westward to Aznoth Tabor, and went out from there to Hukkok. It reached to Zebulun on the south, and reached to Asher on the west, and to Judah at the Jordan toward the sunrise.
 
-### 35
-The fortified cities were Ziddim, Zer, Hammath, Rakkath, Chinnereth,
+### 26
+The fortified cities were Ziddim, Zer, Hammath, Rakkath, Chinnereth, Adamah, Ramah, Hazor,
 
-### 36
-Adamah, Ramah, Hazor,
+### 27
+Kedesh, Edrei, En Hazor, Iron, Migdal El, Horem, Beth Anath, and Beth Shemesh; nineteen cities with their villages.
 
-### 37
-Kedesh, Edrei, En Hazor,
-
-### 38
-Iron, Migdal El, Horem, Beth Anath, and Beth Shemesh; nineteen cities with their villages.
-
-### 39
+### 28
 This is the inheritance of the tribe of the children of Naphtali according to their families, the cities with their villages.
 
-### 40
+### 29
 The seventh lot came out for the tribe of the children of Dan according to their families.
 
-### 41
-The border of their inheritance was Zorah, Eshtaol, Irshemesh,
+### 30
+The border of their inheritance was Zorah, Eshtaol, Irshemesh, Shaalabbin, Aijalon, Ithlah,
 
-### 42
-Shaalabbin, Aijalon, Ithlah,
+### 31
+Elon, Timnah, Ekron, Eltekeh, Gibbethon, Baalath,
 
-### 43
-Elon, Timnah, Ekron,
+### 32
+Jehud, Bene Berak, Gath Rimmon, Me Jarkon, and Rakkon, with the border over against Joppa.
 
-### 44
-Eltekeh, Gibbethon, Baalath,
-
-### 45
-Jehud, Bene Berak, Gath Rimmon,
-
-### 46
-Me Jarkon, and Rakkon, with the border over against Joppa.
-
-### 47
+### 33
 The border of the children of Dan went out beyond them; for the children of Dan went up and fought against Leshem, and took it, and struck it with the edge of the sword, and possessed it, and lived therein, and called Leshem, Dan, after the name of Dan their forefather.
 
-### 48
+### 34
 This is the inheritance of the tribe of the children of Dan according to their families, these cities with their villages.
 
-### 49
+### 35
 So they finished distributing the land for inheritance by its borders. The children of Israel gave an inheritance to Joshua the son of Nun among them.
 
-### 50
+### 36
 According to Yahweh’s commandment, they gave him the city which he asked, even Timnathserah in the hill country of Ephraim; and he built the city, and lived there.
 
-### 51
+### 37
 These are the inheritances, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers’ houses of the tribes of the children of Israel, distributed for inheritance by lot in Shiloh before Yahweh, at the door of the Tent of Meeting. So they finished dividing the land.

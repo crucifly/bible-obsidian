@@ -63,58 +63,52 @@ While he told these things to them, behold, a ruler came and worshiped him, sayi
 Jesus got up and followed him, as did his disciples.
 
 ### 20
-Behold, a woman who had an issue of blood for twelve years came behind him, and touched the fringe of his garment;
+Behold, a woman who had an issue of blood for twelve years came behind him, and touched the fringe of his garment; for she said within herself, “If I just touch his garment, I will be made well.”
 
 ### 21
-for she said within herself, “If I just touch his garment, I will be made well.”
-
-### 22
 But Jesus, turning around and seeing her, said, “Daughter, cheer up! Your faith has made you well.” And the woman was made well from that hour.
 
+### 22
+When Jesus came into the ruler’s house, and saw the flute players, and the crowd in noisy disorder, he said to them, “Make room, because the girl isn’t dead, but sleeping.” They were ridiculing him.
+
 ### 23
-When Jesus came into the ruler’s house, and saw the flute players, and the crowd in noisy disorder,
-
-### 24
-he said to them, “Make room, because the girl isn’t dead, but sleeping.” They were ridiculing him.
-
-### 25
 But when the crowd was put out, he entered in, took her by the hand, and the girl arose.
 
-### 26
+### 24
 The report of this went out into all that land.
 
-### 27
+### 25
 As Jesus passed by from there, two blind men followed him, calling out and saying, “Have mercy on us, son of David!”
 
-### 28
+### 26
 When he had come into the house, the blind men came to him. Jesus said to them, “Do you believe that I am able to do this?” They told him, “Yes, Lord.”
 
-### 29
+### 27
 Then he touched their eyes, saying, “According to your faith be it done to you.”
 
-### 30
+### 28
 Their eyes were opened. Jesus strictly commanded them, saying, “See that no one knows about this.”
 
-### 31
+### 29
 But they went out and spread abroad his fame in all that land.
 
-### 32
+### 30
 As they went out, behold, a mute man who was demon possessed was brought to him.
 
-### 33
+### 31
 When the demon was cast out, the mute man spoke. The multitudes marveled, saying, “Nothing like this has ever been seen in Israel!”
 
-### 34
+### 32
 But the Pharisees said, “By the prince of the demons, he casts out demons.”
 
-### 35
+### 33
 Jesus went about all the cities and the villages, teaching in their synagogues, and preaching the Good News of the Kingdom, and healing every disease and every sickness among the people.
 
-### 36
+### 34
 But when he saw the multitudes, he was moved with compassion for them, because they were harassed and scattered, like sheep without a shepherd.
 
-### 37
+### 35
 Then he said to his disciples, “The harvest indeed is plentiful, but the laborers are few.
 
-### 38
+### 36
 Pray therefore that the Lord of the harvest will send out laborers into his harvest.”

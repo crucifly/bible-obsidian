@@ -39,40 +39,37 @@ For we have heard how Yahweh dried up the water of the Red Sea before you, when 
 As soon as we had heard it, our hearts melted, and there wasn’t any more spirit in any man, because of you: for Yahweh your God, he is God in heaven above, and on earth beneath.
 
 ### 12
-Now therefore, please swear to me by Yahweh, since I have dealt kindly with you, that you also will deal kindly with my father’s house, and give me a true sign;
+Now therefore, please swear to me by Yahweh, since I have dealt kindly with you, that you also will deal kindly with my father’s house, and give me a true sign; and that you will save alive my father, my mother, my brothers, and my sisters, and all that they have, and will deliver our lives from death.”
 
 ### 13
-and that you will save alive my father, my mother, my brothers, and my sisters, and all that they have, and will deliver our lives from death.”
-
-### 14
 The men said to her, “Our life for yours, if you don’t talk about this business of ours; and it shall be, when Yahweh gives us the land, that we will deal kindly and truly with you.”
 
-### 15
+### 14
 Then she let them down by a cord through the window; for her house was on the side of the wall, and she lived on the wall.
 
-### 16
+### 15
 She said to them, “Go to the mountain, lest the pursuers find you. Hide yourselves there three days, until the pursuers have returned. Afterward, you may go your way.”
 
-### 17
+### 16
 The men said to her, “We will be guiltless of this your oath which you’ve made us to swear.
 
-### 18
+### 17
 Behold, when we come into the land, tie this line of scarlet thread in the window which you used to let us down. Gather to yourself into the house your father, your mother, your brothers, and all your father’s household.
 
-### 19
+### 18
 It shall be that whoever goes out of the doors of your house into the street, his blood will be on his head, and we will be guiltless. Whoever is with you in the house, his blood shall be on our head, if any hand is on him.
 
-### 20
+### 19
 But if you talk about this business of ours, then we shall be guiltless of your oath which you’ve made us to swear.”
 
-### 21
+### 20
 She said, “Let it be as you have said.” She sent them away, and they departed. Then she tied the scarlet line in the window.
 
-### 22
+### 21
 They went, and came to the mountain, and stayed there three days, until the pursuers had returned. The pursuers sought them all along the way, but didn’t find them.
 
-### 23
+### 22
 Then the two men returned, descended from the mountain, crossed the river, and came to Joshua the son of Nun. They told him all that had happened to them.
 
-### 24
+### 23
 They said to Joshua, “Truly Yahweh has delivered all the land into our hands. Moreover, all the inhabitants of the land melt away before us.”

@@ -39,79 +39,70 @@ For Moses said, ‘Honor your father and your mother;’ and, ‘He who speaks e
 But you say, ‘If a man tells his father or his mother, “Whatever profit you might have received from me is Corban, that is to say, given to God”;’
 
 ### 12
-then you no longer allow him to do anything for his father or his mother,
+then you no longer allow him to do anything for his father or his mother, making void the word of God by your tradition, which you have handed down. You do many things like this.”
 
 ### 13
-making void the word of God by your tradition, which you have handed down. You do many things like this.”
-
-### 14
 He called all the multitude to himself, and said to them, “Hear me, all of you, and understand.
 
-### 15
+### 14
 There is nothing from outside of the man, that going into him can defile him; but the things which proceed out of the man are those that defile the man.
 
-### 16
+### 15
 If anyone has ears to hear, let him hear!”
 
-### 17
+### 16
 When he had entered into a house away from the multitude, his disciples asked him about the parable.
 
+### 17
+He said to them, “Are you also without understanding? Don’t you perceive that whatever goes into the man from outside can’t defile him, because it doesn’t go into his heart, but into his stomach, then into the latrine, thus purifying all foods?”
+
 ### 18
-He said to them, “Are you also without understanding? Don’t you perceive that whatever goes into the man from outside can’t defile him,
-
-### 19
-because it doesn’t go into his heart, but into his stomach, then into the latrine, thus purifying all foods?”
-
-### 20
 He said, “That which proceeds out of the man, that defiles the man.
 
-### 21
-For from within, out of the hearts of men, proceed evil thoughts, adulteries, sexual sins, murders, thefts,
+### 19
+For from within, out of the hearts of men, proceed evil thoughts, adulteries, sexual sins, murders, thefts, covetings, wickedness, deceit, lustful desires, an evil eye, blasphemy, pride, and foolishness.
 
-### 22
-covetings, wickedness, deceit, lustful desires, an evil eye, blasphemy, pride, and foolishness.
-
-### 23
+### 20
 All these evil things come from within, and defile the man.”
 
-### 24
+### 21
 From there he arose, and went away into the borders of Tyre and Sidon. He entered into a house, and didn’t want anyone to know it, but he couldn’t escape notice.
 
-### 25
+### 22
 For a woman, whose little daughter had an unclean spirit, having heard of him, came and fell down at his feet.
 
-### 26
+### 23
 Now the woman was a Greek, a Syrophoenician by race. She begged him that he would cast the demon out of her daughter.
 
-### 27
+### 24
 But Jesus said to her, “Let the children be filled first, for it is not appropriate to take the children’s bread and throw it to the dogs.”
 
-### 28
+### 25
 But she answered him, “Yes, Lord. Yet even the dogs under the table eat the children’s crumbs.”
 
-### 29
+### 26
 He said to her, “For this saying, go your way. The demon has gone out of your daughter.”
 
-### 30
+### 27
 She went away to her house, and found the child having been laid on the bed, with the demon gone out.
 
-### 31
+### 28
 Again he departed from the borders of Tyre and Sidon, and came to the sea of Galilee, through the middle of the region of Decapolis.
 
-### 32
+### 29
 They brought to him one who was deaf and had an impediment in his speech. They begged him to lay his hand on him.
 
-### 33
+### 30
 He took him aside from the multitude, privately, and put his fingers into his ears, and he spat, and touched his tongue.
 
-### 34
+### 31
 Looking up to heaven, he sighed, and said to him, “Ephphatha!” that is, “Be opened!”
 
-### 35
+### 32
 Immediately his ears were opened, and the impediment of his tongue was released, and he spoke clearly.
 
-### 36
+### 33
 He commanded them that they should tell no one, but the more he commanded them, so much the more widely they proclaimed it.
 
-### 37
+### 34
 They were astonished beyond measure, saying, “He has done all things well. He makes even the deaf hear, and the mute speak!”

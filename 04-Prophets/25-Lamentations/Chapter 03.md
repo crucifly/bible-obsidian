@@ -105,100 +105,91 @@ For though he causes grief, yet he will have compassion according to the multitu
 For he does not afflict willingly, nor grieve the children of men.
 
 ### 34
-To crush under foot all the prisoners of the earth,
+To crush under foot all the prisoners of the earth, to turn away the right of a man before the face of the Most High,
 
 ### 35
-to turn away the right of a man before the face of the Most High,
-
-### 36
 to subvert a man in his cause, the Lord doesn’t approve.
 
-### 37
+### 36
 Who is he who says, and it comes to pass, when the Lord doesn’t command it?
 
-### 38
+### 37
 Doesn’t evil and good come out of the mouth of the Most High?
 
-### 39
+### 38
 Why does a living man complain, a man for the punishment of his sins?
 
-### 40
+### 39
 Let us search and try our ways, and turn again to Yahweh.
 
-### 41
+### 40
 Let us lift up our heart with our hands to God in the heavens.
 
-### 42
+### 41
 “We have transgressed and have rebelled. You have not pardoned.
 
-### 43
+### 42
 “You have covered us with anger and pursued us. You have killed. You have not pitied.
 
-### 44
+### 43
 You have covered yourself with a cloud, so that no prayer can pass through.
 
-### 45
+### 44
 You have made us an off-scouring and refuse in the middle of the peoples.
 
-### 46
+### 45
 “All our enemies have opened their mouth wide against us.
 
-### 47
+### 46
 Terror and the pit have come on us, devastation and destruction.”
 
-### 48
+### 47
 My eye runs down with streams of water, for the destruction of the daughter of my people.
 
+### 48
+My eye pours down and doesn’t cease, without any intermission, until Yahweh looks down, and sees from heaven.
+
 ### 49
-My eye pours down and doesn’t cease, without any intermission,
-
-### 50
-until Yahweh looks down, and sees from heaven.
-
-### 51
 My eye affects my soul, because of all the daughters of my city.
 
-### 52
+### 50
 They have chased me relentlessly like a bird, those who are my enemies without cause.
 
-### 53
+### 51
 They have cut off my life in the dungeon, and have cast a stone on me.
 
-### 54
+### 52
 Waters flowed over my head. I said, “I am cut off.”
 
-### 55
+### 53
 I called on your name, Yahweh, out of the lowest dungeon.
 
-### 56
+### 54
 You heard my voice: “Don’t hide your ear from my sighing, and my cry.”
 
-### 57
+### 55
 You came near in the day that I called on you. You said, “Don’t be afraid.”
 
-### 58
+### 56
 Lord, you have pleaded the causes of my soul. You have redeemed my life.
 
-### 59
+### 57
 Yahweh, you have seen my wrong. Judge my cause.
 
-### 60
+### 58
 You have seen all their vengeance and all their plans against me.
 
-### 61
-You have heard their reproach, Yahweh, and all their plans against me,
+### 59
+You have heard their reproach, Yahweh, and all their plans against me, the lips of those that rose up against me, and their plots against me all day long.
 
-### 62
-the lips of those that rose up against me, and their plots against me all day long.
-
-### 63
+### 60
 You see their sitting down and their rising up. I am their song.
 
-### 64
+### 61
 You will pay them back, Yahweh, according to the work of their hands.
 
-### 65
+### 62
 You will give them hardness of heart, your curse to them.
 
-### 66
+### 63
 You will pursue them in anger, and destroy them from under the heavens of Yahweh.

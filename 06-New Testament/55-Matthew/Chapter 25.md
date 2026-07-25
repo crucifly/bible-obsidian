@@ -12,133 +12,124 @@ canon: "New Testament"
 Five of them were foolish, and five were wise.
 
 ### 3
-Those who were foolish, when they took their lamps, took no oil with them,
+Those who were foolish, when they took their lamps, took no oil with them, but the wise took oil in their vessels with their lamps.
 
 ### 4
-but the wise took oil in their vessels with their lamps.
-
-### 5
 Now while the bridegroom delayed, they all slumbered and slept.
 
-### 6
+### 5
 But at midnight there was a cry, ‘Behold! The bridegroom is coming! Come out to meet him!’
 
-### 7
+### 6
 Then all those virgins arose, and trimmed their lamps.
 
-### 8
+### 7
 The foolish said to the wise, ‘Give us some of your oil, for our lamps are going out.’
 
-### 9
+### 8
 But the wise answered, saying, ‘What if there isn’t enough for us and you? You go rather to those who sell, and buy for yourselves.’
 
-### 10
+### 9
 While they went away to buy, the bridegroom came, and those who were ready went in with him to the marriage feast, and the door was shut.
 
-### 11
+### 10
 Afterward the other virgins also came, saying, ‘Lord, Lord, open to us.’
 
-### 12
+### 11
 But he answered, ‘Most certainly I tell you, I don’t know you.’
 
-### 13
+### 12
 Watch therefore, for you don’t know the day nor the hour in which the Son of Man is coming.
 
-### 14
+### 13
 “For it is like a man, going into another country, who called his own servants, and entrusted his goods to them.
 
-### 15
+### 14
 To one he gave five talents, to another two, to another one; to each according to his own ability. Then he went on his journey.
 
-### 16
+### 15
 Immediately he who received the five talents went and traded with them, and made another five talents.
 
-### 17
+### 16
 In the same way, he also who got the two gained another two.
 
-### 18
+### 17
 But he who received the one talent went away and dug in the earth, and hid his lord’s money.
 
-### 19
+### 18
 “Now after a long time the lord of those servants came, and reconciled accounts with them.
 
-### 20
+### 19
 He who received the five talents came and brought another five talents, saying, ‘Lord, you delivered to me five talents. Behold, I have gained another five talents besides them.’
 
-### 21
+### 20
 “His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.’
 
-### 22
+### 21
 “He also who got the two talents came and said, ‘Lord, you delivered to me two talents. Behold, I have gained another two talents besides them.’
 
-### 23
+### 22
 “His lord said to him, ‘Well done, good and faithful servant. You have been faithful over a few things, I will set you over many things. Enter into the joy of your lord.’
 
-### 24
+### 23
 “He also who had received the one talent came and said, ‘Lord, I knew you that you are a hard man, reaping where you did not sow, and gathering where you did not scatter.
 
-### 25
+### 24
 I was afraid, and went away and hid your talent in the earth. Behold, you have what is yours.’
 
-### 26
+### 25
 “But his lord answered him, ‘You wicked and slothful servant. You knew that I reap where I didn’t sow, and gather where I didn’t scatter.
 
-### 27
+### 26
 You ought therefore to have deposited my money with the bankers, and at my coming I should have received back my own with interest.
 
-### 28
+### 27
 Take away therefore the talent from him, and give it to him who has the ten talents.
 
-### 29
+### 28
 For to everyone who has will be given, and he will have abundance, but from him who doesn’t have, even that which he has will be taken away.
 
-### 30
+### 29
 Throw out the unprofitable servant into the outer darkness, where there will be weeping and gnashing of teeth.’
 
-### 31
+### 30
 “But when the Son of Man comes in his glory, and all the holy angels with him, then he will sit on the throne of his glory.
 
-### 32
+### 31
 Before him all the nations will be gathered, and he will separate them one from another, as a shepherd separates the sheep from the goats.
 
-### 33
+### 32
 He will set the sheep on his right hand, but the goats on the left.
 
+### 33
+Then the King will tell those on his right hand, ‘Come, blessed of my Father, inherit the Kingdom prepared for you from the foundation of the world; for I was hungry, and you gave me food to eat. I was thirsty, and you gave me drink. I was a stranger, and you took me in.
+
 ### 34
-Then the King will tell those on his right hand, ‘Come, blessed of my Father, inherit the Kingdom prepared for you from the foundation of the world;
-
-### 35
-for I was hungry, and you gave me food to eat. I was thirsty, and you gave me drink. I was a stranger, and you took me in.
-
-### 36
 I was naked, and you clothed me. I was sick, and you visited me. I was in prison, and you came to me.’
 
-### 37
+### 35
 “Then the righteous will answer him, saying, ‘Lord, when did we see you hungry, and feed you; or thirsty, and give you a drink?
 
-### 38
+### 36
 When did we see you as a stranger, and take you in; or naked, and clothe you?
 
-### 39
+### 37
 When did we see you sick, or in prison, and come to you?’
 
-### 40
+### 38
 “The King will answer them, ‘Most certainly I tell you, because you did it to one of the least of these my brothers, you did it to me.’
 
-### 41
-Then he will say also to those on the left hand, ‘Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels;
+### 39
+Then he will say also to those on the left hand, ‘Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels; for I was hungry, and you didn’t give me food to eat; I was thirsty, and you gave me no drink;
 
-### 42
-for I was hungry, and you didn’t give me food to eat; I was thirsty, and you gave me no drink;
-
-### 43
+### 40
 I was a stranger, and you didn’t take me in; naked, and you didn’t clothe me; sick, and in prison, and you didn’t visit me.’
 
-### 44
+### 41
 “Then they will also answer, saying, ‘Lord, when did we see you hungry, or thirsty, or a stranger, or naked, or sick, or in prison, and didn’t help you?’
 
-### 45
+### 42
 “Then he will answer them, saying, ‘Most certainly I tell you, because you didn’t do it to one of the least of these, you didn’t do it to me.’
 
-### 46
+### 43
 These will go away into eternal punishment, but the righteous into eternal life.”

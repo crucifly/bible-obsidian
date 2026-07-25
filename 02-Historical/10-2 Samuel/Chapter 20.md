@@ -72,13 +72,7 @@ The matter is not so. But a man of the hill country of Ephraim, Sheba the son of
 Then the woman went to all the people in her wisdom. They cut off the head of Sheba the son of Bichri, and threw it out to Joab. He blew the trumpet, and they were dispersed from the city, every man to his tent. Then Joab returned to Jerusalem to the king.
 
 ### 23
-Now Joab was over all the army of Israel, Benaiah the son of Jehoiada was over the Cherethites and over the Pelethites,
+Now Joab was over all the army of Israel, Benaiah the son of Jehoiada was over the Cherethites and over the Pelethites, Adoram was over the men subject to forced labor, Jehoshaphat the son of Ahilud was the recorder,
 
 ### 24
-Adoram was over the men subject to forced labor, Jehoshaphat the son of Ahilud was the recorder,
-
-### 25
-Sheva was scribe, and Zadok and Abiathar were priests,
-
-### 26
-and Ira the Jairite was chief minister to David.
+Sheva was scribe, and Zadok and Abiathar were priests, and Ira the Jairite was chief minister to David.

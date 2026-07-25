@@ -42,16 +42,13 @@ Then he sweeps by like the wind, and goes on. He is indeed guilty, whose strengt
 Aren’t you from everlasting, Yahweh my God, my Holy One? We will not die. Yahweh, you have appointed him for judgment. You, Rock, have established him to punish.
 
 ### 13
-You who have purer eyes than to see evil, and who cannot look on perversity, why do you tolerate those who deal treacherously, and keep silent when the wicked swallows up the man who is more righteous than he,
+You who have purer eyes than to see evil, and who cannot look on perversity, why do you tolerate those who deal treacherously, and keep silent when the wicked swallows up the man who is more righteous than he, and make men like the fish of the sea, like the creeping things, that have no ruler over them?
 
 ### 14
-and make men like the fish of the sea, like the creeping things, that have no ruler over them?
-
-### 15
 He takes up all of them with the hook. He catches them in his net, and gathers them in his dragnet. Therefore he rejoices and is glad.
 
-### 16
+### 15
 Therefore he sacrifices to his net, and burns incense to his dragnet, because by them his life is luxurious, and his food is good.
 
-### 17
+### 16
 Will he therefore continually empty his net, and kill the nations without mercy?

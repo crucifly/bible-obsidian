@@ -57,7 +57,4 @@ Yahweh, truly I am your servant. I am your servant, the son of your servant. You
 I will offer to you the sacrifice of thanksgiving, and will call on Yahweh’s name.
 
 ### 18
-I will pay my vows to Yahweh, yes, in the presence of all his people,
-
-### 19
-in the courts of Yahweh’s house, in the middle of you, Jerusalem. Praise Yah!
+I will pay my vows to Yahweh, yes, in the presence of all his people, in the courts of Yahweh’s house, in the middle of you, Jerusalem. Praise Yah!

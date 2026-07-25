@@ -63,19 +63,16 @@ Pray for us, for we are persuaded that we have a good conscience, desiring to li
 I strongly urge you to do this, that I may be restored to you sooner.
 
 ### 20
-Now may the God of peace, who brought again from the dead the great shepherd of the sheep with the blood of an eternal covenant, our Lord Jesus,
+Now may the God of peace, who brought again from the dead the great shepherd of the sheep with the blood of an eternal covenant, our Lord Jesus, make you complete in every good work to do his will, working in you that which is well pleasing in his sight, through Jesus Christ, to whom be the glory forever and ever. Amen.
 
 ### 21
-make you complete in every good work to do his will, working in you that which is well pleasing in his sight, through Jesus Christ, to whom be the glory forever and ever. Amen.
-
-### 22
 But I exhort you, brothers, endure the word of exhortation; for I have written to you in few words.
 
-### 23
+### 22
 Know that our brother Timothy has been freed, with whom, if he comes shortly, I will see you.
 
-### 24
+### 23
 Greet all of your leaders and all the saints. The Italians greet you.
 
-### 25
+### 24
 Grace be with you all. Amen.

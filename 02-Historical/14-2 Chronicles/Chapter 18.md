@@ -78,31 +78,28 @@ Then Zedekiah the son of Chenaanah came near, and struck Micaiah on the cheek, a
 Micaiah said, “Behold, you shall see on that day, when you go into an inner room to hide yourself.”
 
 ### 25
-The king of Israel said, “Take Micaiah, and carry him back to Amon the governor of the city, and to Joash the king’s son;
+The king of Israel said, “Take Micaiah, and carry him back to Amon the governor of the city, and to Joash the king’s son; and say, ‘Thus says the king, “Put this fellow in the prison, and feed him with bread of affliction and with water of affliction, until I return in peace.”’”
 
 ### 26
-and say, ‘Thus says the king, “Put this fellow in the prison, and feed him with bread of affliction and with water of affliction, until I return in peace.”’”
-
-### 27
 Micaiah said, “If you return at all in peace, Yahweh has not spoken by me.” He said, “Listen, you people, all of you!”
 
-### 28
+### 27
 So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth Gilead.
 
-### 29
+### 28
 The king of Israel said to Jehoshaphat, “I will disguise myself, and go into the battle; but you put on your robes.” So the king of Israel disguised himself; and they went into the battle.
 
-### 30
+### 29
 Now the king of Syria had commanded the captains of his chariots, saying, “Don’t fight with small nor great, except only with the king of Israel.”
 
-### 31
+### 30
 When the captains of the chariots saw Jehoshaphat, they said, “It is the king of Israel!” Therefore they turned around to fight against him. But Jehoshaphat cried out, and Yahweh helped him; and God moved them to depart from him.
 
-### 32
+### 31
 When the captains of the chariots saw that it was not the king of Israel, they turned back from pursuing him.
 
-### 33
+### 32
 A certain man drew his bow at random, and struck the king of Israel between the joints of the armor. Therefore he said to the driver of the chariot, “Turn your hand, and carry me out of the army; for I am severely wounded.”
 
-### 34
+### 33
 The battle increased that day. However the king of Israel propped himself up in his chariot against the Syrians until the evening; and at about sunset, he died.

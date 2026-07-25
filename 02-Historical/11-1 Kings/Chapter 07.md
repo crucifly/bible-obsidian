@@ -87,73 +87,58 @@ It was a hand width thick. Its brim was worked like the brim of a cup, like the 
 He made the ten bases of brass. The length of one base was four cubits, four cubits its width, and three cubits its height.
 
 ### 28
-The work of the bases was like this: they had panels; and there were panels between the ledges;
+The work of the bases was like this: they had panels; and there were panels between the ledges; and on the panels that were between the ledges were lions, oxen, and cherubim; and on the ledges there was a pedestal above; and beneath the lions and oxen were wreaths of hanging work.
 
 ### 29
-and on the panels that were between the ledges were lions, oxen, and cherubim; and on the ledges there was a pedestal above; and beneath the lions and oxen were wreaths of hanging work.
-
-### 30
 Every base had four bronze wheels, and axles of brass; and the four feet of it had supports. The supports were cast beneath the basin, with wreaths at the side of each.
 
-### 31
+### 30
 Its mouth within the capital and above was a cubit. Its mouth was round after the work of a pedestal, a cubit and a half; and also on its mouth were engravings, and their panels were square, not round.
 
-### 32
+### 31
 The four wheels were underneath the panels; and the axles of the wheels were in the base. The height of a wheel was a cubit and half a cubit.
 
-### 33
+### 32
 The work of the wheels was like the work of a chariot wheel. Their axles, and their rims, and their spokes, and their naves, were all of cast metal.
 
-### 34
+### 33
 There were four supports at the four corners of each base. Its supports were of the base itself.
 
-### 35
+### 34
 In the top of the base there was a round band half a cubit high; and on the top of the base its supports and its panels were of the same.
 
-### 36
+### 35
 On the plates of its supports, and on its panels, he engraved cherubim, lions, and palm trees, each in its space, with wreaths all around.
 
-### 37
+### 36
 He made the ten bases in this way: all of them had one casting, one measure, and one form.
 
-### 38
+### 37
 He made ten basins of brass. One basin contained forty baths; and every basin was four cubits; and on every one of the ten bases one basin.
 
-### 39
+### 38
 He set the bases, five on the right side of the house, and five on the left side of the house. He set the sea on the right side of the house eastward and toward the south.
 
+### 39
+Hiram made the basins, the shovels, and the basins. So Hiram finished doing all the work that he worked for king Solomon in Yahweh’s house: the two pillars; the two bowls of the capitals that were on the top of the pillars; the two networks to cover the two bowls of the capitals that were on the top of the pillars;
+
 ### 40
-Hiram made the basins, the shovels, and the basins. So Hiram finished doing all the work that he worked for king Solomon in Yahweh’s house:
+the four hundred pomegranates for the two networks; two rows of pomegranates for each network, to cover the two bowls of the capitals that were on the pillars; the ten bases; the ten basins on the bases;
 
 ### 41
-the two pillars; the two bowls of the capitals that were on the top of the pillars; the two networks to cover the two bowls of the capitals that were on the top of the pillars;
+the one sea; the twelve oxen under the sea; the pots; the shovels; and the basins: even all these vessels, which Hiram made for king Solomon, in Yahweh’s house, were of burnished brass.
 
 ### 42
-the four hundred pomegranates for the two networks; two rows of pomegranates for each network, to cover the two bowls of the capitals that were on the pillars;
-
-### 43
-the ten bases; the ten basins on the bases;
-
-### 44
-the one sea; the twelve oxen under the sea;
-
-### 45
-the pots; the shovels; and the basins: even all these vessels, which Hiram made for king Solomon, in Yahweh’s house, were of burnished brass.
-
-### 46
 The king cast them in the plain of the Jordan, in the clay ground between Succoth and Zarethan.
 
-### 47
+### 43
 Solomon left all the vessels unweighed, because there were so many of them. The weight of the brass could not be determined.
 
-### 48
-Solomon made all the vessels that were in Yahweh’s house: the golden altar and the table that the show bread was on, of gold;
+### 44
+Solomon made all the vessels that were in Yahweh’s house: the golden altar and the table that the show bread was on, of gold; and the lamp stands, five on the right side, and five on the left, before the inner sanctuary, of pure gold; and the flowers, the lamps, and the tongs, of gold;
 
-### 49
-and the lamp stands, five on the right side, and five on the left, before the inner sanctuary, of pure gold; and the flowers, the lamps, and the tongs, of gold;
-
-### 50
+### 45
 the cups, the snuffers, the basins, the spoons, and the fire pans, of pure gold; and the hinges, both for the doors of the inner house, the most holy place, and for the doors of the house, of the temple, of gold.
 
-### 51
+### 46
 Thus all the work that king Solomon did in Yahweh’s house was finished. Solomon brought in the things which David his father had dedicated, the silver, the gold, and the vessels, and put them in the treasuries of Yahweh’s house.

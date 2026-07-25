@@ -60,25 +60,19 @@ For the flesh lusts against the Spirit, and the Spirit against the flesh; and th
 But if you are led by the Spirit, you are not under the law.
 
 ### 19
-Now the deeds of the flesh are obvious, which are: adultery, sexual immorality, uncleanness, lustfulness,
+Now the deeds of the flesh are obvious, which are: adultery, sexual immorality, uncleanness, lustfulness, idolatry, sorcery, hatred, strife, jealousies, outbursts of anger, rivalries, divisions, heresies,
 
 ### 20
-idolatry, sorcery, hatred, strife, jealousies, outbursts of anger, rivalries, divisions, heresies,
-
-### 21
 envy, murders, drunkenness, orgies, and things like these; of which I forewarn you, even as I also forewarned you, that those who practice such things will not inherit God’s Kingdom.
 
+### 21
+But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith, gentleness, and self-control. Against such things there is no law.
+
 ### 22
-But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faith,
-
-### 23
-gentleness, and self-control. Against such things there is no law.
-
-### 24
 Those who belong to Christ have crucified the flesh with its passions and lusts.
 
-### 25
+### 23
 If we live by the Spirit, let’s also walk by the Spirit.
 
-### 26
+### 24
 Let’s not become conceited, provoking one another, and envying one another.

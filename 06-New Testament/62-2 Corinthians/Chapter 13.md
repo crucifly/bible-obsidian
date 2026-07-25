@@ -9,40 +9,37 @@ canon: "New Testament"
 This is the third time I am coming to you. “At the mouth of two or three witnesses shall every word be established.”
 
 ### 2
-I have said beforehand, and I do say beforehand, as when I was present the second time, so now, being absent, I write to those who have sinned before now, and to all the rest, that, if I come again, I will not spare;
+I have said beforehand, and I do say beforehand, as when I was present the second time, so now, being absent, I write to those who have sinned before now, and to all the rest, that, if I come again, I will not spare; seeing that you seek a proof of Christ who speaks in me; who toward you is not weak, but is powerful in you.
 
 ### 3
-seeing that you seek a proof of Christ who speaks in me; who toward you is not weak, but is powerful in you.
-
-### 4
 For he was crucified through weakness, yet he lives through the power of God. For we also are weak in him, but we will live with him through the power of God toward you.
 
-### 5
+### 4
 Examine your own selves, whether you are in the faith. Test your own selves. Or don’t you know as to your own selves, that Jesus Christ is in you?—unless indeed you are disqualified.
 
-### 6
+### 5
 But I hope that you will know that we aren’t disqualified.
 
-### 7
+### 6
 Now I pray to God that you do no evil; not that we may appear approved, but that you may do that which is honorable, though we are as reprobate.
 
-### 8
+### 7
 For we can do nothing against the truth, but for the truth.
 
-### 9
+### 8
 For we rejoice when we are weak and you are strong. And this we also pray for, even your perfecting.
 
-### 10
+### 9
 For this cause I write these things while absent, that I may not deal sharply when present, according to the authority which the Lord gave me for building up, and not for tearing down.
 
-### 11
+### 10
 Finally, brothers, rejoice. Be perfected, be comforted, be of the same mind, live in peace, and the God of love and peace will be with you.
 
-### 12
+### 11
 Greet one another with a holy kiss.
 
-### 13
+### 12
 All the saints greet you.
 
-### 14
+### 13
 The grace of the Lord Jesus Christ, God’s love, and the fellowship of the Holy Spirit, be with you all. Amen.

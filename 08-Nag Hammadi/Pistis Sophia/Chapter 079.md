@@ -12,36 +12,25 @@ translation: G.R.S. Mead
 **Chapter 79**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 78**
 
 ### 2
-Next
-
-**CHAPTER 78**
-
-### 3
 It came to pass then, when the First Mystery had finished saying these words unto the disciples, that he said: "Who hath understood the words which I have spoken, let him come forward and set forth their solution."
 
+### 3
+James came forward and said: "My Lord, concerning this song which Pistis Sophia hath sung, thus thy light-power hath prophesied aforetime through David in the seventh Psalm: James interpreteth the song from Psalm vii."'1. O Lord, my God, in thee have I hoped. Free me from my pursuers and save me,
+
 ### 4
-James came forward and said: "My Lord, concerning this song which Pistis Sophia hath sung, thus thy light-power hath prophesied aforetime through David in the seventh Psalm:
-
-### 5
-James interpreteth the song from Psalm vii."'1. O Lord, my God, in thee have I hoped. Free me from my pursuers and save me,
-
-### 6
 "'2. That in sooth he may never steal away my soul as a lion, without any one to deliver and save.
 
-### 7
-"'3. O Lord, my God, if I have done this, if injustice is on my hands,
+### 5
+"'3. O Lord, my God, if I have done this, if injustice is on my hands, "'4. If I have requited those who requite me with evil, then let me fall down empty through my foes.
 
-### 8
-"'4. If I have requited those who requite me with evil, then let me fall down empty through my foes.
-
-### 9
+### 6
 "'5. And let the foe pursue after my soul and seize it, and trample my life to the ground and lay my honour in the dust. (Selah.)
 
-### 10
+### 7
 "'6. Arise, O Lord, in thy wrath, raise thyself up for the end of my foes.
 
-### 11
+### 8
 "'7. Arise according to the commandment which thou hast commanded.'" It came to pass then, when the First Mystery had heard James speak these words, that he said: "Well said, James, beloved."

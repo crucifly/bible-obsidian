@@ -6,82 +6,73 @@ canon: "Historical"
 # Joshua 9
 
 ### 1
-When all the kings who were beyond the Jordan, in the hill country, and in the lowland, and on all the shore of the great sea in front of Lebanon, the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard of it
+When all the kings who were beyond the Jordan, in the hill country, and in the lowland, and on all the shore of the great sea in front of Lebanon, the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, heard of it they gathered themselves together to fight with Joshua and with Israel, with one accord.
 
 ### 2
-they gathered themselves together to fight with Joshua and with Israel, with one accord.
+But when the inhabitants of Gibeon heard what Joshua had done to Jericho and to Ai, they also resorted to a ruse, and went and made as if they had been ambassadors, and took old sacks on their donkeys, and old, torn-up and bound up wine skins,
 
 ### 3
-But when the inhabitants of Gibeon heard what Joshua had done to Jericho and to Ai,
-
-### 4
-they also resorted to a ruse, and went and made as if they had been ambassadors, and took old sacks on their donkeys, and old, torn-up and bound up wine skins,
-
-### 5
 and old and patched shoes on their feet, and wore old garments. All the bread of their food supply was dry and moldy.
 
-### 6
+### 4
 They went to Joshua at the camp at Gilgal, and said to him and to the men of Israel, “We have come from a far country. Now therefore make a covenant with us.”
 
-### 7
+### 5
 The men of Israel said to the Hivites, “What if you live among us? How could we make a covenant with you?”
 
-### 8
+### 6
 They said to Joshua, “We are your servants.” Joshua said to them, “Who are you? Where do you come from?”
 
-### 9
-They said to him, “Your servants have come from a very far country because of the name of Yahweh your God; for we have heard of his fame, all that he did in Egypt,
+### 7
+They said to him, “Your servants have come from a very far country because of the name of Yahweh your God; for we have heard of his fame, all that he did in Egypt, and all that he did to the two kings of the Amorites who were beyond the Jordan, to Sihon king of Heshbon and to Og king of Bashan, who was at Ashtaroth.
 
-### 10
-and all that he did to the two kings of the Amorites who were beyond the Jordan, to Sihon king of Heshbon and to Og king of Bashan, who was at Ashtaroth.
-
-### 11
+### 8
 Our elders and all the inhabitants of our country spoke to us, saying, ‘Take supplies in your hand for the journey, and go to meet them. Tell them, “We are your servants. Now make a covenant with us.”’
 
-### 12
+### 9
 This our bread we took hot for our supplies out of our houses on the day we went out to go to you; but now, behold, it is dry, and has become moldy.
 
-### 13
+### 10
 These wine skins, which we filled, were new; and behold, they are torn. These our garments and our shoes have become old because of the very long journey.”
 
-### 14
+### 11
 The men sampled their provisions, and didn’t ask counsel from Yahweh’s mouth.
 
-### 15
+### 12
 Joshua made peace with them, and made a covenant with them, to let them live. The princes of the congregation swore to them.
 
-### 16
+### 13
 At the end of three days after they had made a covenant with them, they heard that they were their neighbors, and that they lived among them.
 
-### 17
+### 14
 The children of Israel traveled and came to their cities on the third day. Now their cities were Gibeon, Chephirah, Beeroth, and Kiriath Jearim.
 
-### 18
+### 15
 The children of Israel didn’t strike them, because the princes of the congregation had sworn to them by Yahweh, the God of Israel. All the congregation murmured against the princes.
 
-### 19
+### 16
 But all the princes said to all the congregation, “We have sworn to them by Yahweh, the God of Israel. Now therefore we may not touch them.
 
-### 20
+### 17
 We will do this to them, and let them live; lest wrath be on us, because of the oath which we swore to them.”
 
-### 21
+### 18
 The princes said to them, “Let them live, so they became wood cutters and drawers of water for all the congregation, as the princes had spoken to them.”
 
-### 22
+### 19
 Joshua called for them, and he spoke to them, saying, “Why have you deceived us, saying, ‘We are very far from you,’ when you live among us?
 
-### 23
+### 20
 Now therefore you are cursed, and some of you will never fail to be slaves, both wood cutters and drawers of water for the house of my God.”
 
-### 24
+### 21
 They answered Joshua, and said, “Because your servants were certainly told how Yahweh your God commanded his servant Moses to give you all the land, and to destroy all the inhabitants of the land from before you. Therefore we were very afraid for our lives because of you, and have done this thing.
 
-### 25
+### 22
 Now, behold, we are in your hand. Do to us as it seems good and right to you to do.”
 
-### 26
+### 23
 He did so to them, and delivered them out of the hand of the children of Israel, so that they didn’t kill them.
 
-### 27
+### 24
 That day Joshua made them wood cutters and drawers of water for the congregation and for Yahweh’s altar to this day, in the place which he should choose.

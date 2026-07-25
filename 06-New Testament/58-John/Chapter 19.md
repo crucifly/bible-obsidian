@@ -54,79 +54,73 @@ They cried out, “Away with him! Away with him! Crucify him!” Pilate said to 
 So then he delivered him to them to be crucified. So they took Jesus and led him away.
 
 ### 17
-He went out, bearing his cross, to the place called “The Place of a Skull”, which is called in Hebrew, “Golgotha”,
+He went out, bearing his cross, to the place called “The Place of a Skull”, which is called in Hebrew, “Golgotha”, where they crucified him, and with him two others, on either side one, and Jesus in the middle.
 
 ### 18
-where they crucified him, and with him two others, on either side one, and Jesus in the middle.
-
-### 19
 Pilate wrote a title also, and put it on the cross. There was written, “JESUS OF NAZARETH, THE KING OF THE JEWS.”
 
-### 20
+### 19
 Therefore many of the Jews read this title, for the place where Jesus was crucified was near the city; and it was written in Hebrew, in Latin, and in Greek.
 
-### 21
+### 20
 The chief priests of the Jews therefore said to Pilate, “Don’t write, ‘The King of the Jews,’ but, ‘he said, “I am King of the Jews.”’”
 
-### 22
+### 21
 Pilate answered, “What I have written, I have written.”
 
-### 23
+### 22
 Then the soldiers, when they had crucified Jesus, took his garments and made four parts, to every soldier a part; and also the coat. Now the coat was without seam, woven from the top throughout.
 
-### 24
+### 23
 Then they said to one another, “Let’s not tear it, but cast lots for it to decide whose it will be,” that the Scripture might be fulfilled, which says, “They parted my garments among them. For my cloak they cast lots.” Therefore the soldiers did these things.
 
-### 25
+### 24
 But there were standing by the cross of Jesus his mother, and his mother’s sister, Mary the wife of Clopas, and Mary Magdalene.
 
-### 26
+### 25
 Therefore when Jesus saw his mother, and the disciple whom he loved standing there, he said to his mother, “Woman, behold, your son!”
 
-### 27
+### 26
 Then he said to the disciple, “Behold, your mother!” From that hour, the disciple took her to his own home.
 
-### 28
+### 27
 After this, Jesus, seeing that all things were now finished, that the Scripture might be fulfilled, said, “I am thirsty.”
 
-### 29
+### 28
 Now a vessel full of vinegar was set there; so they put a sponge full of the vinegar on hyssop, and held it at his mouth.
 
-### 30
+### 29
 When Jesus therefore had received the vinegar, he said, “It is finished.” He bowed his head, and gave up his spirit.
 
-### 31
+### 30
 Therefore the Jews, because it was the Preparation Day, so that the bodies wouldn’t remain on the cross on the Sabbath (for that Sabbath was a special one), asked of Pilate that their legs might be broken, and that they might be taken away.
 
+### 31
+Therefore the soldiers came, and broke the legs of the first, and of the other who was crucified with him; but when they came to Jesus, and saw that he was already dead, they didn’t break his legs.
+
 ### 32
-Therefore the soldiers came, and broke the legs of the first, and of the other who was crucified with him;
-
-### 33
-but when they came to Jesus, and saw that he was already dead, they didn’t break his legs.
-
-### 34
 However one of the soldiers pierced his side with a spear, and immediately blood and water came out.
 
-### 35
+### 33
 He who has seen has testified, and his testimony is true. He knows that he tells the truth, that you may believe.
 
-### 36
+### 34
 For these things happened, that the Scripture might be fulfilled, “A bone of him will not be broken.”
 
-### 37
+### 35
 Again another Scripture says, “They will look on him whom they pierced.”
 
-### 38
+### 36
 After these things, Joseph of Arimathaea, being a disciple of Jesus, but secretly for fear of the Jews, asked of Pilate that he might take away Jesus’ body. Pilate gave him permission. He came therefore and took away his body.
 
-### 39
+### 37
 Nicodemus, who at first came to Jesus by night, also came bringing a mixture of myrrh and aloes, about a hundred Roman pounds.
 
-### 40
+### 38
 So they took Jesus’ body, and bound it in linen cloths with the spices, as the custom of the Jews is to bury.
 
-### 41
+### 39
 Now in the place where he was crucified there was a garden. In the garden was a new tomb in which no man had ever yet been laid.
 
-### 42
+### 40
 Then because of the Jews’ Preparation Day (for the tomb was near at hand) they laid Jesus there.

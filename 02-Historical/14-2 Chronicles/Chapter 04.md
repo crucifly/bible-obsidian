@@ -36,37 +36,25 @@ Furthermore he made the court of the priests, the great court, and doors for the
 He set the sea on the right side of the house eastward, toward the south.
 
 ### 11
-Huram made the pots, the shovels, and the basins. So Huram finished doing the work that he did for king Solomon in God’s house:
+Huram made the pots, the shovels, and the basins. So Huram finished doing the work that he did for king Solomon in God’s house: the two pillars, the bowls, the two capitals which were on the top of the pillars, the two networks to cover the two bowls of the capitals that were on the top of the pillars,
 
 ### 12
-the two pillars, the bowls, the two capitals which were on the top of the pillars, the two networks to cover the two bowls of the capitals that were on the top of the pillars,
-
-### 13
 and the four hundred pomegranates for the two networks; two rows of pomegranates for each network, to cover the two bowls of the capitals that were on the pillars.
 
+### 13
+He also made the bases, and he made the basins on the bases; one sea, and the twelve oxen under it.
+
 ### 14
-He also made the bases, and he made the basins on the bases;
-
-### 15
-one sea, and the twelve oxen under it.
-
-### 16
 Huram his father also made the pots, the shovels, the forks, and all its vessels for king Solomon, for Yahweh’s house, of bright brass.
 
-### 17
+### 15
 The king cast them in the plain of the Jordan, in the clay ground between Succoth and Zeredah.
 
-### 18
+### 16
 Thus Solomon made all these vessels in great abundance; for the weight of the brass could not be determined.
 
-### 19
-Solomon made all the vessels that were in God’s house, the golden altar also, and the tables with the show bread on them;
+### 17
+Solomon made all the vessels that were in God’s house, the golden altar also, and the tables with the show bread on them; and the lamp stands with their lamps, to burn according to the ordinance before the inner sanctuary, of pure gold;
 
-### 20
-and the lamp stands with their lamps, to burn according to the ordinance before the inner sanctuary, of pure gold;
-
-### 21
-and the flowers, the lamps, and the tongs of gold that was perfect gold;
-
-### 22
-and the snuffers, the basins, the spoons, and the fire pans of pure gold. As for the entry of the house, its inner doors for the most holy place and the doors of the main hall of the temple were of gold.
+### 18
+and the flowers, the lamps, and the tongs of gold that was perfect gold; and the snuffers, the basins, the spoons, and the fire pans of pure gold. As for the entry of the house, its inner doors for the most holy place and the doors of the main hall of the temple were of gold.

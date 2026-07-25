@@ -6,43 +6,37 @@ canon: "New Testament"
 # Hebrews 1
 
 ### 1
-God, having in the past spoken to the fathers through the prophets at many times and in various ways,
+God, having in the past spoken to the fathers through the prophets at many times and in various ways, has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds.
 
 ### 2
-has at the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds.
+His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high; having become so much better than the angels, as he has inherited a more excellent name than they have.
 
 ### 3
-His Son is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high;
-
-### 4
-having become so much better than the angels, as he has inherited a more excellent name than they have.
-
-### 5
 For to which of the angels did he say at any time, “You are my Son. Today I have become your father?” and again, “I will be to him a Father, and he will be to me a Son?”
 
-### 6
+### 4
 When he again brings in the firstborn into the world he says, “Let all the angels of God worship him.”
 
-### 7
+### 5
 Of the angels he says, “Who makes his angels winds, and his servants a flame of fire.”
 
-### 8
+### 6
 But of the Son he says, “Your throne, O God, is forever and ever. The scepter of uprightness is the scepter of your Kingdom.
 
-### 9
+### 7
 You have loved righteousness, and hated iniquity; therefore God, your God, has anointed you with the oil of gladness above your fellows.”
 
-### 10
+### 8
 And, “You, Lord, in the beginning, laid the foundation of the earth. The heavens are the works of your hands.
 
-### 11
+### 9
 They will perish, but you continue. They all will grow old like a garment does.
 
-### 12
+### 10
 You will roll them up like a mantle, and they will be changed; but you are the same. Your years will not fail.”
 
-### 13
+### 11
 But which of the angels has he told at any time, “Sit at my right hand, until I make your enemies the footstool of your feet?”
 
-### 14
+### 12
 Aren’t they all serving spirits, sent out to do service for the sake of those who will inherit salvation?

@@ -45,136 +45,106 @@ For whoever has, to him will be given, and he will have abundance, but whoever d
 Therefore I speak to them in parables, because seeing they don’t see, and hearing, they don’t hear, neither do they understand.
 
 ### 14
-In them the prophecy of Isaiah is fulfilled, which says, ‘By hearing you will hear, and will in no way understand; Seeing you will see, and will in no way perceive:
+In them the prophecy of Isaiah is fulfilled, which says, ‘By hearing you will hear, and will in no way understand; Seeing you will see, and will in no way perceive: for this people’s heart has grown callous, their ears are dull of hearing, they have closed their eyes; or else perhaps they might perceive with their eyes, hear with their ears, understand with their heart, and would turn again; and I would heal them.’
 
 ### 15
-for this people’s heart has grown callous, their ears are dull of hearing, they have closed their eyes; or else perhaps they might perceive with their eyes, hear with their ears, understand with their heart, and would turn again; and I would heal them.’
-
-### 16
 “But blessed are your eyes, for they see; and your ears, for they hear.
 
-### 17
+### 16
 For most certainly I tell you that many prophets and righteous men desired to see the things which you see, and didn’t see them; and to hear the things which you hear, and didn’t hear them.
 
-### 18
+### 17
 “Hear, then, the parable of the farmer.
 
-### 19
+### 18
 When anyone hears the word of the Kingdom, and doesn’t understand it, the evil one comes, and snatches away that which has been sown in his heart. This is what was sown by the roadside.
 
+### 19
+What was sown on the rocky places, this is he who hears the word, and immediately with joy receives it; yet he has no root in himself, but endures for a while. When oppression or persecution arises because of the word, immediately he stumbles.
+
 ### 20
-What was sown on the rocky places, this is he who hears the word, and immediately with joy receives it;
-
-### 21
-yet he has no root in himself, but endures for a while. When oppression or persecution arises because of the word, immediately he stumbles.
-
-### 22
 What was sown among the thorns, this is he who hears the word, but the cares of this age and the deceitfulness of riches choke the word, and he becomes unfruitful.
 
-### 23
+### 21
 What was sown on the good ground, this is he who hears the word, and understands it, who most certainly bears fruit, and produces, some one hundred times as much, some sixty, and some thirty.”
 
-### 24
-He set another parable before them, saying, “The Kingdom of Heaven is like a man who sowed good seed in his field,
+### 22
+He set another parable before them, saying, “The Kingdom of Heaven is like a man who sowed good seed in his field, but while people slept, his enemy came and sowed darnel weeds also among the wheat, and went away.
 
-### 25
-but while people slept, his enemy came and sowed darnel weeds also among the wheat, and went away.
-
-### 26
+### 23
 But when the blade sprang up and produced fruit, then the darnel weeds appeared also.
 
-### 27
+### 24
 The servants of the householder came and said to him, ‘Sir, didn’t you sow good seed in your field? Where did these darnel weeds come from?’
 
-### 28
+### 25
 “He said to them, ‘An enemy has done this.’ “The servants asked him, ‘Do you want us to go and gather them up?’
 
-### 29
+### 26
 “But he said, ‘No, lest perhaps while you gather up the darnel weeds, you root up the wheat with them.
 
-### 30
+### 27
 Let both grow together until the harvest, and in the harvest time I will tell the reapers, “First, gather up the darnel weeds, and bind them in bundles to burn them; but gather the wheat into my barn.”’”
 
-### 31
-He set another parable before them, saying, “The Kingdom of Heaven is like a grain of mustard seed, which a man took, and sowed in his field;
+### 28
+He set another parable before them, saying, “The Kingdom of Heaven is like a grain of mustard seed, which a man took, and sowed in his field; which indeed is smaller than all seeds. But when it is grown, it is greater than the herbs, and becomes a tree, so that the birds of the air come and lodge in its branches.”
 
-### 32
-which indeed is smaller than all seeds. But when it is grown, it is greater than the herbs, and becomes a tree, so that the birds of the air come and lodge in its branches.”
-
-### 33
+### 29
 He spoke another parable to them. “The Kingdom of Heaven is like yeast, which a woman took, and hid in three measures of meal, until it was all leavened.”
 
-### 34
-Jesus spoke all these things in parables to the multitudes; and without a parable, he didn’t speak to them,
+### 30
+Jesus spoke all these things in parables to the multitudes; and without a parable, he didn’t speak to them, that it might be fulfilled which was spoken through the prophet, saying, “I will open my mouth in parables; I will utter things hidden from the foundation of the world.”
 
-### 35
-that it might be fulfilled which was spoken through the prophet, saying, “I will open my mouth in parables; I will utter things hidden from the foundation of the world.”
-
-### 36
+### 31
 Then Jesus sent the multitudes away, and went into the house. His disciples came to him, saying, “Explain to us the parable of the darnel weeds of the field.”
 
-### 37
-He answered them, “He who sows the good seed is the Son of Man,
+### 32
+He answered them, “He who sows the good seed is the Son of Man, the field is the world; and the good seed, these are the children of the Kingdom; and the darnel weeds are the children of the evil one.
 
-### 38
-the field is the world; and the good seed, these are the children of the Kingdom; and the darnel weeds are the children of the evil one.
-
-### 39
+### 33
 The enemy who sowed them is the devil. The harvest is the end of the age, and the reapers are angels.
 
-### 40
+### 34
 As therefore the darnel weeds are gathered up and burned with fire; so will it be at the end of this age.
 
-### 41
-The Son of Man will send out his angels, and they will gather out of his Kingdom all things that cause stumbling, and those who do iniquity,
+### 35
+The Son of Man will send out his angels, and they will gather out of his Kingdom all things that cause stumbling, and those who do iniquity, and will cast them into the furnace of fire. There will be weeping and the gnashing of teeth.
 
-### 42
-and will cast them into the furnace of fire. There will be weeping and the gnashing of teeth.
-
-### 43
+### 36
 Then the righteous will shine like the sun in the Kingdom of their Father. He who has ears to hear, let him hear.
 
-### 44
+### 37
 “Again, the Kingdom of Heaven is like treasure hidden in the field, which a man found, and hid. In his joy, he goes and sells all that he has, and buys that field.
 
-### 45
-“Again, the Kingdom of Heaven is like a man who is a merchant seeking fine pearls,
+### 38
+“Again, the Kingdom of Heaven is like a man who is a merchant seeking fine pearls, who having found one pearl of great price, he went and sold all that he had, and bought it.
 
-### 46
-who having found one pearl of great price, he went and sold all that he had, and bought it.
+### 39
+“Again, the Kingdom of Heaven is like a dragnet, that was cast into the sea, and gathered some fish of every kind, which, when it was filled, they drew up on the beach. They sat down, and gathered the good into containers, but the bad they threw away.
 
-### 47
-“Again, the Kingdom of Heaven is like a dragnet, that was cast into the sea, and gathered some fish of every kind,
+### 40
+So will it be in the end of the world. The angels will come and separate the wicked from among the righteous, and will cast them into the furnace of fire. There will be the weeping and the gnashing of teeth.”
 
-### 48
-which, when it was filled, they drew up on the beach. They sat down, and gathered the good into containers, but the bad they threw away.
-
-### 49
-So will it be in the end of the world. The angels will come and separate the wicked from among the righteous,
-
-### 50
-and will cast them into the furnace of fire. There will be the weeping and the gnashing of teeth.”
-
-### 51
+### 41
 Jesus said to them, “Have you understood all these things?” They answered him, “Yes, Lord.”
 
-### 52
+### 42
 He said to them, “Therefore every scribe who has been made a disciple in the Kingdom of Heaven is like a man who is a householder, who brings out of his treasure new and old things.”
 
-### 53
+### 43
 When Jesus had finished these parables, he departed from there.
 
-### 54
+### 44
 Coming into his own country, he taught them in their synagogue, so that they were astonished, and said, “Where did this man get this wisdom, and these mighty works?
 
-### 55
+### 45
 Isn’t this the carpenter’s son? Isn’t his mother called Mary, and his brothers, James, Joses, Simon, and Judas?
 
-### 56
+### 46
 Aren’t all of his sisters with us? Where then did this man get all of these things?”
 
-### 57
+### 47
 They were offended by him. But Jesus said to them, “A prophet is not without honor, except in his own country, and in his own house.”
 
-### 58
+### 48
 He didn’t do many mighty works there because of their unbelief.

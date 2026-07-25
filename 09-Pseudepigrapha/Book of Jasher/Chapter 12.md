@@ -218,34 +218,19 @@ And Terah hearkened to the voice of his son Abram, and Terah did all that Abram 
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_12&oldid=11445873"
 
 ### 70
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:43.
 
 ### 71
-This page was last edited on 30 June 2021, at 01:43.
-
-### 72
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 72
+Privacy policy Disclaimers
+
 ### 73
-Privacy policy
+Code of Conduct Developers
 
 ### 74
-Disclaimers
+Statistics Cookie statement
 
 ### 75
-Code of Conduct
-
-### 76
-Developers
-
-### 77
-Statistics
-
-### 78
-Cookie statement
-
-### 79
-Mobile view
-
-### 80
-Add topic
+Mobile view Add topic

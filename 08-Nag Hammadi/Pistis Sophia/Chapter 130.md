@@ -12,21 +12,13 @@ translation: G.R.S. Mead
 **Chapter 130**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 129**
 
 ### 2
-Next
-
-**CHAPTER 129**
-
-### 3
 It came to pass then, when the Saviour had finished speaking these words unto his disciples, that Mary answered and said unto Jesus: "My Lord, I have heard thee say: 'He who shall receive of the mysteries of the Ineffable or who shall receive of the mysteries of the First Mystery,--they become flames of light-beams and light-streams and penetrate all the regions until they reach the region of their inheritance.'"
 
-### 4
+### 3
 Of the light beams and light-streams.The Saviour answered and said unto Mary: "If they receive the mystery when still in life, and if they come out of the body, they become light-beams and light-streams and penetrate all the regions until they reach the region of their inheritance.
 
-### 5
-"But if they are sinners and are come out of the body and have not repented, and if ye perform for them the mystery of the Ineffable, in order that they may be removed out of all the chastisements and be cast into a righteous body, which is good and inheriteth the Light-kingdom or is
-
-### 6
-brought into the last order of the Light, then they will not be able to penetrate the regions, because they do not perform the mystery [themselves]. But the receivers of Melchisedec follow them and lead them before the Virgin of Light. And the servitors of the judges of the rulers make frequent haste to take those souls and hand them over from one to the other until they lead them before the Virgin of Light."
+### 4
+"But if they are sinners and are come out of the body and have not repented, and if ye perform for them the mystery of the Ineffable, in order that they may be removed out of all the chastisements and be cast into a righteous body, which is good and inheriteth the Light-kingdom or is brought into the last order of the Light, then they will not be able to penetrate the regions, because they do not perform the mystery [themselves]. But the receivers of Melchisedec follow them and lead them before the Virgin of Light. And the servitors of the judges of the rulers make frequent haste to take those souls and hand them over from one to the other until they lead them before the Virgin of Light."

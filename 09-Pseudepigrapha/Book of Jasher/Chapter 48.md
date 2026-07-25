@@ -164,79 +164,61 @@ And Joseph answered Pharaoh, saying, Let Pharaoh relate his dreams that he dream
 And Joseph was then clothed with the spirit of God before the king, and he knew all the things that would befall the king from that day forward, and he knew the proper interpretation of the king's dream, and he spoke before the king.
 
 ### 52
-And Joseph found favor in the sight of the king, and the king inclined his ears and his heart, and he heard all the words of Joseph. And Joseph said unto the king, Do not imagine that they are two dreams, for it is only one dream, for that which God has chosen to do throughout the land he has shown to the king in his dream, and this is the proper interpretation of thy dream:
+And Joseph found favor in the sight of the king, and the king inclined his ears and his heart, and he heard all the words of Joseph. And Joseph said unto the king, Do not imagine that they are two dreams, for it is only one dream, for that which God has chosen to do throughout the land he has shown to the king in his dream, and this is the proper interpretation of thy dream: The seven good kine and ears of corn are seven years, and the seven bad kine and ears of corn are also seven years; it is one dream.
 
 ### 53
-The seven good kine and ears of corn are seven years, and the seven bad kine and ears of corn are also seven years; it is one dream.
-
-### 54
 Behold the seven years that are coming there will be a great plenty throughout the land, and after that the seven years of famine will follow them, a very grievous famine; and all the plenty will be forgotten from the land, and the famine will consume the inhabitants of the land.
 
-### 55
+### 54
 The king dreamed one dream, and the dream was therefore repeated unto Pharaoh because the thing is established by God, and God will shortly bring it to pass.
 
-### 56
+### 55
 Now therefore I will give thee counsel and deliver thy soul and the souls of the inhabitants of the land from the evil of the famine, that thou seek throughout thy kingdom for a man very discreet and wise, who knoweth all the affairs of government, and appoint him to superintend over the land of Egypt.
 
-### 57
+### 56
 And let the man whom thou placest over Egypt appoint officers under him, that they gather in all the food of the good years that are coming, and let them lay up corn and deposit it in thy appointed stores.
 
-### 58
+### 57
 And let them keep that food for the seven years of famine, that it may be found for thee and thy people and thy whole land, and that thou and thy land be not cut off by the famine.
 
-### 59
+### 58
 Let all the inhabitants of the land be also ordered that they gather in, every man the produce of his field, of all sorts of food, during the seven good years, and that they place it in their stores, that it may be found for them in the days of the famine and that they may live upon it.
 
-### 60
+### 59
 This is the proper interpretation of thy dream, and this is the counsel given to save thy soul and the souls of all thy subjects.
 
-### 61
+### 60
 And the king answered and said unto Joseph, Who sayeth and who knoweth that thy words are correct? And he said unto the king, This shall be a sign for thee respecting all my words, that they are true and that my advice is good for thee.
 
-### 62
+### 61
 Behold thy wife sitteth this day upon the stool of delivery, and she will bear thee a son and thou wilt rejoice with him; when thy child shall have gone forth from his mother's womb, thy first born son that has been born these two years back shall die, and thou wilt be comforted in the child that will be born unto thee this day.
 
-### 63
+### 62
 And Joseph finished speaking these words to the king, and he bowed down to the king and he went out, and when Joseph had gone out from the king's presence, those signs which Joseph had spoken unto the king came to pass on that day.
 
-### 64
+### 63
 And the queen bare a son on that day and the king heard the glad tidings about his son, and he rejoiced, and when the reporter had gone forth from the king's presence, the king's servants found the first born son of the king fallen dead upon the ground.
 
-### 65
+### 64
 And there was great lamentation and noise in the king's house, and the king heard it, and he said, What is the noise and lamentation that I have heard in the house? and they told the king that his first born son had died; then the king knew that all Joseph's words that he had spoken were correct, and the king was consoled for his son by the child that was born to him on that day as Joseph had spoken.
 
-### 66
+### 65
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_48&oldid=11445964"
 
+### 66
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:00.
+
 ### 67
-Hidden categories: SubpagesHeaders applying DefaultSort key
-
-### 68
-This page was last edited on 30 June 2021, at 02:00.
-
-### 69
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 68
+Privacy policy Disclaimers
+
+### 69
+Code of Conduct Developers
+
 ### 70
-Privacy policy
+Statistics Cookie statement
 
 ### 71
-Disclaimers
-
-### 72
-Code of Conduct
-
-### 73
-Developers
-
-### 74
-Statistics
-
-### 75
-Cookie statement
-
-### 76
-Mobile view
-
-### 77
-Add topic
+Mobile view Add topic

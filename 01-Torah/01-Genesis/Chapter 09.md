@@ -27,67 +27,58 @@ Whoever sheds man’s blood, his blood will be shed by man, for God made man in 
 Be fruitful and multiply. Increase abundantly in the earth, and multiply in it.”
 
 ### 8
-God spoke to Noah and to his sons with him, saying,
+God spoke to Noah and to his sons with him, saying, “As for me, behold, I establish my covenant with you, and with your offspring after you,
 
 ### 9
-“As for me, behold, I establish my covenant with you, and with your offspring after you,
-
-### 10
 and with every living creature that is with you: the birds, the livestock, and every animal of the earth with you, of all that go out of the ship, even every animal of the earth.
 
-### 11
+### 10
 I will establish my covenant with you: All flesh will not be cut off any more by the waters of the flood. There will never again be a flood to destroy the earth.”
 
+### 11
+God said, “This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations: I set my rainbow in the cloud, and it will be a sign of a covenant between me and the earth.
+
 ### 12
-God said, “This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:
+When I bring a cloud over the earth, that the rainbow will be seen in the cloud, I will remember my covenant, which is between me and you and every living creature of all flesh, and the waters will no more become a flood to destroy all flesh.
 
 ### 13
-I set my rainbow in the cloud, and it will be a sign of a covenant between me and the earth.
-
-### 14
-When I bring a cloud over the earth, that the rainbow will be seen in the cloud,
-
-### 15
-I will remember my covenant, which is between me and you and every living creature of all flesh, and the waters will no more become a flood to destroy all flesh.
-
-### 16
 The rainbow will be in the cloud. I will look at it, that I may remember the everlasting covenant between God and every living creature of all flesh that is on the earth.”
 
-### 17
+### 14
 God said to Noah, “This is the token of the covenant which I have established between me and all flesh that is on the earth.”
 
-### 18
+### 15
 The sons of Noah who went out from the ship were Shem, Ham, and Japheth. Ham is the father of Canaan.
 
-### 19
+### 16
 These three were the sons of Noah, and from these, the whole earth was populated.
 
-### 20
+### 17
 Noah began to be a farmer, and planted a vineyard.
 
-### 21
+### 18
 He drank of the wine and got drunk. He was uncovered within his tent.
 
-### 22
+### 19
 Ham, the father of Canaan, saw the nakedness of his father, and told his two brothers outside.
 
-### 23
+### 20
 Shem and Japheth took a garment, and laid it on both their shoulders, went in backwards, and covered the nakedness of their father. Their faces were backwards, and they didn’t see their father’s nakedness.
 
-### 24
+### 21
 Noah awoke from his wine, and knew what his youngest son had done to him.
 
-### 25
+### 22
 He said, “Canaan is cursed. He will be a servant of servants to his brothers.”
 
-### 26
+### 23
 He said, “Blessed be Yahweh, the God of Shem. Let Canaan be his servant.
 
-### 27
+### 24
 May God enlarge Japheth. Let him dwell in the tents of Shem. Let Canaan be his servant.”
 
-### 28
+### 25
 Noah lived three hundred fifty years after the flood.
 
-### 29
+### 26
 All the days of Noah were nine hundred fifty years, and then he died.

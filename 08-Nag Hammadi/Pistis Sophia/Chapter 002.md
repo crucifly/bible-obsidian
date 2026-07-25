@@ -12,90 +12,46 @@ translation: G.R.S. Mead
 **Chapter 2**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 2**
 
 ### 2
-Next
-
-**CHAPTER 2**
+Jesus and his disciples are seated on the Mount of Olives.It came to pass then, when the
 
 ### 3
-Jesus and his disciples
+disciples were sitting together on the Mount of Olives, speaking of these words and rejoicing in great joy, and exulting exceedingly and saying one to another:
 
 ### 4
-are seated on the Mount of Olives.It came to pass then, when the
+"Blessed are we before all men who are on the earth, because the Saviour hath revealed this unto us, and we have received the Fulness and the total completion,"--they
 
 ### 5
-disciples were sitting together on the Mount of Olives, speaking of these words
-
-### 6
-and rejoicing in great joy, and exulting exceedingly and saying one to another:
-
-### 7
-"Blessed are we before all men who are on the earth, because the Saviour hath
-
-### 8
-revealed this unto us, and we have received the Fulness and the total completion,"--they
-
-### 9
 said this to one another, while Jesus sat a little removed from them.
 
+### 6
+A great light-power descendeth on Jesus.And it came to pass then, on the fifteenth day of the
+
+### 7
+moon in the month Tybi, which is the day on which the moon is full, on that day then, when the sun had come forth in his going, that there came forth behind
+
+### 8
+him a great light-power shining most exceedingly, and there was no measure to the light conjoined with it. For it came out of the Light of lights, and it
+
+### 9
+came out of the last mystery, which is the four-and-twentieth mystery,
+
 ### 10
-A great light-power descendeth
+from within without,--those which are in the orders of the second space of the First Mystery. And that light-power came down over Jesus and surrounded him
 
 ### 11
-on Jesus.And it came to pass then, on the fifteenth day of the
+entirely, while he was seated removed from his disciples, and he had shone most exceedingly, and there was no measure for the light which was on him.
 
 ### 12
-moon in the month Tybi, which is the day on which the moon is full, on that
+It surroundeth him entirely.And the disciples had not seen Jesus because of the great light in which he was,
 
 ### 13
-day then, when the sun had come forth in his going, that there came forth behind
+or which was about him; for their eyes were darkened because of the great light in which he was. But they saw only the light, which shot forth many light-rays.
 
 ### 14
-him a great light-power shining most exceedingly, and there was no measure to
+And the light-rays were not like one another, but the light was of divers kind, and it was of divers type, from below upwards, one [ray] more excellent than
 
 ### 15
-the light conjoined with it. For it came out of the Light of lights, and it
-
-### 16
-came out of the
-
-### 17
-last mystery, which is the four-and-twentieth mystery,
-
-### 18
-from within without,--those which are in the orders of the second space of the
-
-### 19
-First Mystery. And that light-power came down over Jesus and surrounded him
-
-### 20
-entirely, while he was seated removed from his disciples, and he had shone most
-
-### 21
-exceedingly, and there was no measure for the light which was on him.
-
-### 22
-It surroundeth him entirely.And
-
-### 23
-the disciples had not seen Jesus because of the great light in which he was,
-
-### 24
-or which was about him; for their eyes were darkened because of the great light
-
-### 25
-in which he was. But they saw only the light, which shot forth many light-rays.
-
-### 26
-And the light-rays were not like one another, but the light was of divers kind,
-
-### 27
-and it was of divers type, from below upwards, one [ray] more excellent than
-
-### 28
-the other, . . ., in one great immeasurable glory of light; it stretched from
-
-### 29
-under the earth right up to heaven.--And when the disciples saw that light,
+the other, . . ., in one great immeasurable glory of light; it stretched from under the earth right up to heaven.--And when the disciples saw that light,

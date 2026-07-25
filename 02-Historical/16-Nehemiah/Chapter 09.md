@@ -24,97 +24,79 @@ Then the Levites, Jeshua, and Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, She
 You are Yahweh, even you alone. You have made heaven, the heaven of heavens, with all their army, the earth and all things that are on it, the seas and all that is in them, and you preserve them all. The army of heaven worships you.
 
 ### 7
-You are Yahweh, the God who chose Abram, brought him out of Ur of the Chaldees, gave him the name of Abraham,
+You are Yahweh, the God who chose Abram, brought him out of Ur of the Chaldees, gave him the name of Abraham, found his heart faithful before you, and made a covenant with him to give the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite, to give it to his offspring, and have performed your words; for you are righteous.
 
 ### 8
-found his heart faithful before you, and made a covenant with him to give the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite, to give it to his offspring, and have performed your words; for you are righteous.
+“You saw the affliction of our fathers in Egypt, and heard their cry by the Red Sea, and showed signs and wonders against Pharaoh, and against all his servants, and against all the people of his land; for you knew that they dealt proudly against them, and made a name for yourself, as it is today.
 
 ### 9
-“You saw the affliction of our fathers in Egypt, and heard their cry by the Red Sea,
-
-### 10
-and showed signs and wonders against Pharaoh, and against all his servants, and against all the people of his land; for you knew that they dealt proudly against them, and made a name for yourself, as it is today.
-
-### 11
 You divided the sea before them, so that they went through the middle of the sea on the dry land; and you cast their pursuers into the depths, as a stone into the mighty waters.
 
-### 12
+### 10
 Moreover, in a pillar of cloud you led them by day; and in a pillar of fire by night, to give them light in the way in which they should go.
 
-### 13
-“You also came down on Mount Sinai, and spoke with them from heaven, and gave them right ordinances and true laws, good statutes and commandments,
+### 11
+“You also came down on Mount Sinai, and spoke with them from heaven, and gave them right ordinances and true laws, good statutes and commandments, and made known to them your holy Sabbath, and commanded them commandments, statutes, and a law, by Moses your servant,
 
-### 14
-and made known to them your holy Sabbath, and commanded them commandments, statutes, and a law, by Moses your servant,
-
-### 15
+### 12
 and gave them bread from the sky for their hunger, and brought water out of the rock for them for their thirst, and commanded them that they should go in to possess the land which you had sworn to give them.
 
-### 16
-“But they and our fathers behaved proudly, hardened their neck, didn’t listen to your commandments,
+### 13
+“But they and our fathers behaved proudly, hardened their neck, didn’t listen to your commandments, and refused to obey. They weren’t mindful of your wonders that you did among them, but hardened their neck, and in their rebellion appointed a captain to return to their bondage. But you are a God ready to pardon, gracious and merciful, slow to anger, and abundant in loving kindness, and didn’t forsake them.
 
-### 17
-and refused to obey. They weren’t mindful of your wonders that you did among them, but hardened their neck, and in their rebellion appointed a captain to return to their bondage. But you are a God ready to pardon, gracious and merciful, slow to anger, and abundant in loving kindness, and didn’t forsake them.
+### 14
+Yes, when they had made themselves a molten calf, and said, ‘This is your God who brought you up out of Egypt,’ and had committed awful blasphemies; yet you in your manifold mercies didn’t forsake them in the wilderness. The pillar of cloud didn’t depart from over them by day, to lead them in the way; neither did the pillar of fire by night, to show them light, and the way in which they should go.
 
-### 18
-Yes, when they had made themselves a molten calf, and said, ‘This is your God who brought you up out of Egypt,’ and had committed awful blasphemies;
-
-### 19
-yet you in your manifold mercies didn’t forsake them in the wilderness. The pillar of cloud didn’t depart from over them by day, to lead them in the way; neither did the pillar of fire by night, to show them light, and the way in which they should go.
-
-### 20
+### 15
 You gave also your good Spirit to instruct them, and didn’t withhold your manna from their mouth, and gave them water for their thirst.
 
-### 21
+### 16
 “Yes, forty years you sustained them in the wilderness. They lacked nothing. Their clothes didn’t grow old, and their feet didn’t swell.
 
-### 22
+### 17
 Moreover you gave them kingdoms and peoples, which you allotted according to their portions. So they possessed the land of Sihon, even the land of the king of Heshbon, and the land of Og king of Bashan.
 
-### 23
+### 18
 You also multiplied their children as the stars of the sky, and brought them into the land concerning which you said to their fathers, that they should go in to possess it.
 
-### 24
+### 19
 “So the children went in and possessed the land, and you subdued before them the inhabitants of the land, the Canaanites, and gave them into their hands, with their kings and the peoples of the land, that they might do with them as they pleased.
 
-### 25
+### 20
 They took fortified cities and a rich land, and possessed houses full of all good things, cisterns dug out, vineyards, and olive groves, and fruit trees in abundance. So they ate, were filled, became fat, and delighted themselves in your great goodness.
 
-### 26
+### 21
 “Nevertheless they were disobedient, and rebelled against you, cast your law behind their back, killed your prophets that testified against them to turn them again to you, and they committed awful blasphemies.
 
-### 27
+### 22
 Therefore you delivered them into the hand of their adversaries, who distressed them. In the time of their trouble, when they cried to you, you heard from heaven; and according to your manifold mercies you gave them saviors who saved them out of the hands of their adversaries.
 
-### 28
-But after they had rest, they did evil again before you; therefore left you them in the hands of their enemies, so that they had the dominion over them; yet when they returned, and cried to you, you heard from heaven; and many times you delivered them according to your mercies,
+### 23
+But after they had rest, they did evil again before you; therefore left you them in the hands of their enemies, so that they had the dominion over them; yet when they returned, and cried to you, you heard from heaven; and many times you delivered them according to your mercies, and testified against them, that you might bring them again to your law. Yet they were arrogant, and didn’t listen to your commandments, but sinned against your ordinances (which if a man does, he shall live in them), turned their backs, stiffened their neck, and would not hear.
 
-### 29
-and testified against them, that you might bring them again to your law. Yet they were arrogant, and didn’t listen to your commandments, but sinned against your ordinances (which if a man does, he shall live in them), turned their backs, stiffened their neck, and would not hear.
-
-### 30
+### 24
 Yet many years you put up with them, and testified against them by your Spirit through your prophets. Yet would they not give ear. Therefore you gave them into the hand of the peoples of the lands.
 
-### 31
+### 25
 “Nevertheless in your manifold mercies you did not make a full end of them, nor forsake them; for you are a gracious and merciful God.
 
-### 32
+### 26
 Now therefore, our God, the great, the mighty, and the awesome God, who keeps covenant and loving kindness, don’t let all the travail seem little before you, that has come on us, on our kings, on our princes, on our priests, on our prophets, on our fathers, and on all your people, since the time of the kings of Assyria to this day.
 
-### 33
+### 27
 However you are just in all that has come on us; for you have dealt truly, but we have done wickedly.
 
-### 34
+### 28
 Also our kings, our princes, our priests, and our fathers have not kept your law, nor listened to your commandments and your testimonies with which you testified against them.
 
-### 35
+### 29
 For they have not served you in their kingdom, and in your great goodness that you gave them, and in the large and rich land which you gave before them. They did not turn from their wicked works.
 
-### 36
+### 30
 “Behold, we are servants today, and as for the land that you gave to our fathers to eat its fruit and its good, behold, we are servants in it.
 
-### 37
+### 31
 It yields much increase to the kings whom you have set over us because of our sins. Also they have power over our bodies and over our livestock, at their pleasure, and we are in great distress.
 
-### 38
+### 32
 Yet for all this, we make a sure covenant, and write it; and our princes, our Levites, and our priests, seal it.”

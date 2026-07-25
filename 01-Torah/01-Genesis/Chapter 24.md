@@ -69,139 +69,130 @@ She hurried, and emptied her pitcher into the trough, and ran again to the well 
 The man looked steadfastly at her, remaining silent, to know whether Yahweh had made his journey prosperous or not.
 
 ### 22
-As the camels had done drinking, the man took a golden ring of half a shekel weight, and two bracelets for her hands of ten shekels weight of gold,
+As the camels had done drinking, the man took a golden ring of half a shekel weight, and two bracelets for her hands of ten shekels weight of gold, and said, “Whose daughter are you? Please tell me. Is there room in your father’s house for us to stay?”
 
 ### 23
-and said, “Whose daughter are you? Please tell me. Is there room in your father’s house for us to stay?”
-
-### 24
 She said to him, “I am the daughter of Bethuel the son of Milcah, whom she bore to Nahor.”
 
-### 25
+### 24
 She said moreover to him, “We have both straw and feed enough, and room to lodge in.”
 
-### 26
+### 25
 The man bowed his head, and worshiped Yahweh.
 
-### 27
+### 26
 He said, “Blessed be Yahweh, the God of my master Abraham, who has not forsaken his loving kindness and his truth toward my master. As for me, Yahweh has led me on the way to the house of my master’s relatives.”
 
-### 28
+### 27
 The young lady ran, and told her mother’s house about these words.
 
-### 29
+### 28
 Rebekah had a brother, and his name was Laban. Laban ran out to the man, to the spring.
 
-### 30
+### 29
 When he saw the ring, and the bracelets on his sister’s hands, and when he heard the words of Rebekah his sister, saying, “This is what the man said to me,” he came to the man. Behold, he was standing by the camels at the spring.
 
-### 31
+### 30
 He said, “Come in, you blessed of Yahweh. Why do you stand outside? For I have prepared the house, and room for the camels.”
 
-### 32
+### 31
 The man came into the house, and he unloaded the camels. He gave straw and feed for the camels, and water to wash his feet and the feet of the men who were with him.
 
-### 33
+### 32
 Food was set before him to eat, but he said, “I will not eat until I have told my message.” He said, “Speak on.”
 
-### 34
+### 33
 He said, “I am Abraham’s servant.
 
-### 35
+### 34
 Yahweh has blessed my master greatly. He has become great. He has given him flocks and herds, silver and gold, male servants and female servants, and camels and donkeys.
 
-### 36
+### 35
 Sarah, my master’s wife, bore a son to my master when she was old. He has given all that he has to him.
 
+### 36
+My master made me swear, saying, ‘You shall not take a wife for my son from the daughters of the Canaanites, in whose land I live, but you shall go to my father’s house, and to my relatives, and take a wife for my son.’
+
 ### 37
-My master made me swear, saying, ‘You shall not take a wife for my son from the daughters of the Canaanites, in whose land I live,
-
-### 38
-but you shall go to my father’s house, and to my relatives, and take a wife for my son.’
-
-### 39
 I asked my master, ‘What if the woman will not follow me?’
 
-### 40
+### 38
 He said to me, ‘Yahweh, before whom I walk, will send his angel with you, and prosper your way. You shall take a wife for my son from my relatives, and of my father’s house.
 
-### 41
+### 39
 Then will you be clear from my oath, when you come to my relatives. If they don’t give her to you, you shall be clear from my oath.’
 
-### 42
-I came today to the spring, and said, ‘Yahweh, the God of my master Abraham, if now you do prosper my way which I go—
+### 40
+I came today to the spring, and said, ‘Yahweh, the God of my master Abraham, if now you do prosper my way which I go— behold, I am standing by this spring of water. Let it happen, that the maiden who comes out to draw, to whom I will say, “Please give me a little water from your pitcher to drink,”
 
-### 43
-behold, I am standing by this spring of water. Let it happen, that the maiden who comes out to draw, to whom I will say, “Please give me a little water from your pitcher to drink,”
-
-### 44
+### 41
 and she will tell me, “Drink, and I will also draw for your camels,”—let her be the woman whom Yahweh has appointed for my master’s son.’
 
-### 45
+### 42
 Before I had finished speaking in my heart, behold, Rebekah came out with her pitcher on her shoulder. She went down to the spring, and drew. I said to her, ‘Please let me drink.’
 
-### 46
+### 43
 She hurried and let down her pitcher from her shoulder, and said, ‘Drink, and I will also give your camels a drink.’ So I drank, and she also gave the camels a drink.
 
-### 47
+### 44
 I asked her, and said, ‘Whose daughter are you?’ She said, ‘The daughter of Bethuel, Nahor’s son, whom Milcah bore to him.’ I put the ring on her nose, and the bracelets on her hands.
 
-### 48
+### 45
 I bowed my head, and worshiped Yahweh, and blessed Yahweh, the God of my master Abraham, who had led me in the right way to take my master’s brother’s daughter for his son.
 
-### 49
+### 46
 Now if you will deal kindly and truly with my master, tell me. If not, tell me, that I may turn to the right hand, or to the left.”
 
-### 50
+### 47
 Then Laban and Bethuel answered, “The thing proceeds from Yahweh. We can’t speak to you bad or good.
 
-### 51
+### 48
 Behold, Rebekah is before you. Take her, and go, and let her be your master’s son’s wife, as Yahweh has spoken.”
 
-### 52
+### 49
 When Abraham’s servant heard their words, he bowed himself down to the earth to Yahweh.
 
-### 53
+### 50
 The servant brought out jewels of silver, and jewels of gold, and clothing, and gave them to Rebekah. He also gave precious things to her brother and her mother.
 
-### 54
+### 51
 They ate and drank, he and the men who were with him, and stayed all night. They rose up in the morning, and he said, “Send me away to my master.”
 
-### 55
+### 52
 Her brother and her mother said, “Let the young lady stay with us a few days, at least ten. After that she will go.”
 
-### 56
+### 53
 He said to them, “Don’t hinder me, since Yahweh has prospered my way. Send me away that I may go to my master.”
 
-### 57
+### 54
 They said, “We will call the young lady, and ask her.”
 
-### 58
+### 55
 They called Rebekah, and said to her, “Will you go with this man?” She said, “I will go.”
 
-### 59
+### 56
 They sent away Rebekah, their sister, with her nurse, Abraham’s servant, and his men.
 
-### 60
+### 57
 They blessed Rebekah, and said to her, “Our sister, may you be the mother of thousands of ten thousands, and let your offspring possess the gate of those who hate them.”
 
-### 61
+### 58
 Rebekah arose with her ladies. They rode on the camels, and followed the man. The servant took Rebekah, and went his way.
 
-### 62
+### 59
 Isaac came from the way of Beer Lahai Roi, for he lived in the land of the South.
 
-### 63
+### 60
 Isaac went out to meditate in the field at the evening. He lifted up his eyes and looked. Behold, there were camels coming.
 
-### 64
+### 61
 Rebekah lifted up her eyes, and when she saw Isaac, she got off the camel.
 
-### 65
+### 62
 She said to the servant, “Who is the man who is walking in the field to meet us?” The servant said, “It is my master.” She took her veil, and covered herself.
 
-### 66
+### 63
 The servant told Isaac all the things that he had done.
 
-### 67
+### 64
 Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife. He loved her. Isaac was comforted after his mother’s death.

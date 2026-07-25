@@ -57,10 +57,7 @@ The people went out and plundered the camp of the Syrians. So a seah of fine flo
 The king appointed the captain on whose hand he leaned to be in charge of the gate; and the people trampled over him in the gate, and he died as the man of God had said, who spoke when the king came down to him.
 
 ### 18
-It happened as the man of God had spoken to the king, saying, “Two seahs of barley for a shekel, and a seah of fine flour for a shekel, shall be tomorrow about this time in the gate of Samaria”;
+It happened as the man of God had spoken to the king, saying, “Two seahs of barley for a shekel, and a seah of fine flour for a shekel, shall be tomorrow about this time in the gate of Samaria”; and that captain answered the man of God, and said, “Now, behold, if Yahweh made windows in heaven, might such a thing be?” and he said, “Behold, you will see it with your eyes, but will not eat of it.”
 
 ### 19
-and that captain answered the man of God, and said, “Now, behold, if Yahweh made windows in heaven, might such a thing be?” and he said, “Behold, you will see it with your eyes, but will not eat of it.”
-
-### 20
 It happened like that to him; for the people trampled over him in the gate, and he died.

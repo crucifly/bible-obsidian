@@ -82,34 +82,19 @@ And Noah found grace in the sight of the Lord, and the Lord chose him and his ch
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_4&oldid=11453544"
 
 ### 24
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 3 July 2021, at 01:34.
 
 ### 25
-This page was last edited on 3 July 2021, at 01:34.
-
-### 26
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 26
+Privacy policy Disclaimers
+
 ### 27
-Privacy policy
+Code of Conduct Developers
 
 ### 28
-Disclaimers
+Statistics Cookie statement
 
 ### 29
-Code of Conduct
-
-### 30
-Developers
-
-### 31
-Statistics
-
-### 32
-Cookie statement
-
-### 33
-Mobile view
-
-### 34
-Add topic
+Mobile view Add topic

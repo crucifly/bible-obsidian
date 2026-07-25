@@ -6,79 +6,40 @@ canon: "Deuterocanonical"
 # Judith 11
 
 ### 1
-Then said Holofernes unto her, Woman, be of good comfort, fear not
+Then said Holofernes unto her, Woman, be of good comfort, fear not Now therefore, if thy people that dwelleth in the mountains had
 
 ### 2
-Now therefore, if thy people that dwelleth in the mountains had
+But now tell me wherefore thou art fled from them, and art come For none shall hurt thee, but entreat thee well, as they do the
 
 ### 3
-But now tell me wherefore thou art fled from them, and art come
+Then Judith said unto him, Receive the words of thy servant, and And if thou wilt follow the words of thine handmaid, God will
 
 ### 4
-For none shall hurt thee, but entreat thee well, as they do the
+As Nabuchodonosor king of all the earth liveth, and as his power For we have heard of thy wisdom and thy policies, and it is
 
 ### 5
-Then Judith said unto him, Receive the words of thy servant, and
+Now as concerning the matter, which Achior did speak in thy Therefore, O lord and governor, respect not his word; but lay it
 
 ### 6
-And if thou wilt follow the words of thine handmaid, God will
+And now, that my lord be not defeated and frustrate of his For their victuals fail them, and all their water is scant, and
 
 ### 7
-As Nabuchodonosor king of all the earth liveth, and as his power
+And are resolved to spend the firstfruits of the corn, and the For they have sent some to Jerusalem, because they also that
 
 ### 8
-For we have heard of thy wisdom and thy policies, and it is
+Now when they shall bring them word, they will forthwith do it, Wherefore I thine handmaid, knowing all this, am fled from their
 
 ### 9
-Now as concerning the matter, which Achior did speak in thy
+For thy servant is religious, and serveth the God of heaven day And I will come and shew it unto thee: then thou shalt go forth
 
 ### 10
-Therefore, O lord and governor, respect not his word; but lay it
+And I will lead thee through the midst of Judea, until thou come Then her words pleased Holofernes and all his servants; and they
 
 ### 11
-And now, that my lord be not defeated and frustrate of his
+There is not such a woman from one end of the earth to the other, Likewise Holofernes said unto her. God hath done well to send
 
 ### 12
-For their victuals fail them, and all their water is scant, and
+And now thou art both beautiful in thy countenance, and witty in For thou lovest all the things that are, and abhorrest nothing
 
 ### 13
-And are resolved to spend the firstfruits of the corn, and the
-
-### 14
-For they have sent some to Jerusalem, because they also that
-
-### 15
-Now when they shall bring them word, they will forthwith do it,
-
-### 16
-Wherefore I thine handmaid, knowing all this, am fled from their
-
-### 17
-For thy servant is religious, and serveth the God of heaven day
-
-### 18
-And I will come and shew it unto thee: then thou shalt go forth
-
-### 19
-And I will lead thee through the midst of Judea, until thou come
-
-### 20
-Then her words pleased Holofernes and all his servants; and they
-
-### 21
-There is not such a woman from one end of the earth to the other,
-
-### 22
-Likewise Holofernes said unto her. God hath done well to send
-
-### 23
-And now thou art both beautiful in thy countenance, and witty in
-
-### 24
-For thou lovest all the things that are, and abhorrest nothing
-
-### 25
-And how could any thing have endured, if it had not been thy
-
-### 26
-But thou sparest all: for they are thine, O Lord, thou lover of
+And how could any thing have endured, if it had not been thy But thou sparest all: for they are thine, O Lord, thou lover of

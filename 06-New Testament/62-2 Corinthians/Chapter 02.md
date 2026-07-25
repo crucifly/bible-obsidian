@@ -21,37 +21,25 @@ For out of much affliction and anguish of heart I wrote to you with many tears, 
 But if any has caused sorrow, he has caused sorrow, not to me, but in part (that I not press too heavily) to you all.
 
 ### 6
-This punishment which was inflicted by the many is sufficient for such a one;
+This punishment which was inflicted by the many is sufficient for such a one; so that on the contrary you should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow.
 
 ### 7
-so that on the contrary you should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow.
-
-### 8
 Therefore I beg you to confirm your love toward him.
 
-### 9
+### 8
 For to this end I also wrote, that I might know the proof of you, whether you are obedient in all things.
 
+### 9
+Now I also forgive whomever you forgive anything. For if indeed I have forgiven anything, I have forgiven that one for your sakes in the presence of Christ, that no advantage may be gained over us by Satan; for we are not ignorant of his schemes.
+
 ### 10
-Now I also forgive whomever you forgive anything. For if indeed I have forgiven anything, I have forgiven that one for your sakes in the presence of Christ,
+Now when I came to Troas for the Good News of Christ, and when a door was opened to me in the Lord, I had no relief for my spirit, because I didn’t find Titus, my brother, but taking my leave of them, I went out into Macedonia.
 
 ### 11
-that no advantage may be gained over us by Satan; for we are not ignorant of his schemes.
-
-### 12
-Now when I came to Troas for the Good News of Christ, and when a door was opened to me in the Lord,
-
-### 13
-I had no relief for my spirit, because I didn’t find Titus, my brother, but taking my leave of them, I went out into Macedonia.
-
-### 14
 Now thanks be to God, who always leads us in triumph in Christ, and reveals through us the sweet aroma of his knowledge in every place.
 
-### 15
-For we are a sweet aroma of Christ to God, in those who are saved, and in those who perish;
+### 12
+For we are a sweet aroma of Christ to God, in those who are saved, and in those who perish; to the one a stench from death to death; to the other a sweet aroma from life to life. Who is sufficient for these things?
 
-### 16
-to the one a stench from death to death; to the other a sweet aroma from life to life. Who is sufficient for these things?
-
-### 17
+### 13
 For we are not as so many, peddling the word of God. But as of sincerity, but as of God, in the sight of God, we speak in Christ.

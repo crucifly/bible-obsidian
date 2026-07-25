@@ -6,61 +6,46 @@ canon: "Poetic"
 # Psalms 49
 
 ### 1
-Hear this, all you peoples. Listen, all you inhabitants of the world,
+Hear this, all you peoples. Listen, all you inhabitants of the world, both low and high, rich and poor together.
 
 ### 2
-both low and high, rich and poor together.
-
-### 3
 My mouth will speak words of wisdom. My heart shall utter understanding.
 
-### 4
+### 3
 I will incline my ear to a proverb. I will open my riddle on the harp.
 
-### 5
+### 4
 Why should I fear in the days of evil, when iniquity at my heels surrounds me?
 
+### 5
+Those who trust in their wealth, and boast in the multitude of their riches— none of them can by any means redeem his brother, nor give God a ransom for him.
+
 ### 6
-Those who trust in their wealth, and boast in the multitude of their riches—
+For the redemption of their life is costly, no payment is ever enough, that he should live on forever, that he should not see corruption.
 
 ### 7
-none of them can by any means redeem his brother, nor give God a ransom for him.
-
-### 8
-For the redemption of their life is costly, no payment is ever enough,
-
-### 9
-that he should live on forever, that he should not see corruption.
-
-### 10
 For he sees that wise men die; likewise the fool and the senseless perish, and leave their wealth to others.
 
-### 11
+### 8
 Their inward thought is that their houses will endure forever, and their dwelling places to all generations. They name their lands after themselves.
 
-### 12
+### 9
 But man, despite his riches, doesn’t endure. He is like the animals that perish.
 
-### 13
+### 10
 This is the destiny of those who are foolish, and of those who approve their sayings..
 
-### 14
+### 11
 They are appointed as a flock for Sheol. Death shall be their shepherd. The upright shall have dominion over them in the morning. Their beauty shall decay in Sheol, far from their mansion.
 
-### 15
+### 12
 But God will redeem my soul from the power of Sheol, for he will receive me..
 
-### 16
-Don’t be afraid when a man is made rich, when the glory of his house is increased;
+### 13
+Don’t be afraid when a man is made rich, when the glory of his house is increased; for when he dies he will carry nothing away. His glory won’t descend after him.
 
-### 17
-for when he dies he will carry nothing away. His glory won’t descend after him.
+### 14
+Though while he lived he blessed his soul— and men praise you when you do well for yourself— he shall go to the generation of his fathers. They shall never see the light.
 
-### 18
-Though while he lived he blessed his soul— and men praise you when you do well for yourself—
-
-### 19
-he shall go to the generation of his fathers. They shall never see the light.
-
-### 20
+### 15
 A man who has riches without understanding, is like the animals that perish.

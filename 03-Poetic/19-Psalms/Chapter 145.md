@@ -36,34 +36,31 @@ Yahweh is good to all. His tender mercies are over all his works.
 All your works will give thanks to you, Yahweh. Your saints will extol you.
 
 ### 11
-They will speak of the glory of your kingdom, and talk about your power;
+They will speak of the glory of your kingdom, and talk about your power; to make known to the sons of men his mighty acts, the glory of the majesty of his kingdom.
 
 ### 12
-to make known to the sons of men his mighty acts, the glory of the majesty of his kingdom.
-
-### 13
 Your kingdom is an everlasting kingdom. Your dominion endures throughout all generations. Yahweh is faithful in all his words, and loving in all his deeds.
 
-### 14
+### 13
 Yahweh upholds all who fall, and raises up all those who are bowed down.
 
-### 15
+### 14
 The eyes of all wait for you. You give them their food in due season.
 
-### 16
+### 15
 You open your hand, and satisfy the desire of every living thing.
 
-### 17
+### 16
 Yahweh is righteous in all his ways, and gracious in all his works.
 
-### 18
+### 17
 Yahweh is near to all those who call on him, to all who call on him in truth.
 
-### 19
+### 18
 He will fulfill the desire of those who fear him. He also will hear their cry, and will save them.
 
-### 20
+### 19
 Yahweh preserves all those who love him, but all the wicked he will destroy.
 
-### 21
+### 20
 My mouth will speak the praise of Yahweh. Let all flesh bless his holy name forever and ever.

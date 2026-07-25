@@ -81,7 +81,4 @@ So his servants took him out of the chariot, and put him in the second chariot t
 Jeremiah lamented for Josiah, and all the singing men and singing women spoke of Josiah in their lamentations to this day; and they made them an ordinance in Israel. Behold, they are written in the lamentations.
 
 ### 26
-Now the rest of the acts of Josiah, and his good deeds, according to that which is written in Yahweh’s law,
-
-### 27
-and his acts, first and last, behold, they are written in the book of the kings of Israel and Judah.
+Now the rest of the acts of Josiah, and his good deeds, according to that which is written in Yahweh’s law, and his acts, first and last, behold, they are written in the book of the kings of Israel and Judah.

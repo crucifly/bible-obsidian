@@ -51,49 +51,46 @@ If you will ask anything in my name, I will do it.
 If you love me, keep my commandments.
 
 ### 16
-I will pray to the Father, and he will give you another Counselor, that he may be with you forever,—
+I will pray to the Father, and he will give you another Counselor, that he may be with you forever,— the Spirit of truth, whom the world can’t receive; for it doesn’t see him, neither knows him. You know him, for he lives with you, and will be in you.
 
 ### 17
-the Spirit of truth, whom the world can’t receive; for it doesn’t see him, neither knows him. You know him, for he lives with you, and will be in you.
-
-### 18
 I will not leave you orphans. I will come to you.
 
-### 19
+### 18
 Yet a little while, and the world will see me no more; but you will see me. Because I live, you will live also.
 
-### 20
+### 19
 In that day you will know that I am in my Father, and you in me, and I in you.
 
-### 21
+### 20
 One who has my commandments, and keeps them, that person is one who loves me. One who loves me will be loved by my Father, and I will love him, and will reveal myself to him.”
 
-### 22
+### 21
 Judas (not Iscariot) said to him, “Lord, what has happened that you are about to reveal yourself to us, and not to the world?”
 
-### 23
+### 22
 Jesus answered him, “If a man loves me, he will keep my word. My Father will love him, and we will come to him, and make our home with him.
 
-### 24
+### 23
 He who doesn’t love me doesn’t keep my words. The word which you hear isn’t mine, but the Father’s who sent me.
 
-### 25
+### 24
 I have said these things to you, while still living with you.
 
-### 26
+### 25
 But the Counselor, the Holy Spirit, whom the Father will send in my name, he will teach you all things, and will remind you of all that I said to you.
 
-### 27
+### 26
 Peace I leave with you. My peace I give to you; not as the world gives, give I to you. Don’t let your heart be troubled, neither let it be fearful.
 
-### 28
+### 27
 You heard how I told you, ‘I go away, and I come to you.’ If you loved me, you would have rejoiced, because I said ‘I am going to my Father;’ for the Father is greater than I.
 
-### 29
+### 28
 Now I have told you before it happens so that, when it happens, you may believe.
 
-### 30
+### 29
 I will no more speak much with you, for the prince of the world comes, and he has nothing in me.
 
-### 31
+### 30
 But that the world may know that I love the Father, and as the Father commanded me, even so I do. Arise, let us go from here.

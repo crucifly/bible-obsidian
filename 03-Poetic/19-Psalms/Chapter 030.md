@@ -27,16 +27,10 @@ As for me, I said in my prosperity, “I shall never be moved.”
 You, Yahweh, when you favored me, made my mountain stand strong; but when you hid your face, I was troubled.
 
 ### 8
-I cried to you, Yahweh. I made supplication to the Lord:
+I cried to you, Yahweh. I made supplication to the Lord: “What profit is there in my destruction, if I go down to the pit? Shall the dust praise you? Shall it declare your truth?
 
 ### 9
-“What profit is there in my destruction, if I go down to the pit? Shall the dust praise you? Shall it declare your truth?
-
-### 10
 Hear, Yahweh, and have mercy on me. Yahweh, be my helper.”
 
-### 11
-You have turned my mourning into dancing for me. You have removed my sackcloth, and clothed me with gladness,
-
-### 12
-To the end that my heart may sing praise to you, and not be silent. Yahweh my God, I will give thanks to you forever!
+### 10
+You have turned my mourning into dancing for me. You have removed my sackcloth, and clothed me with gladness, To the end that my heart may sing praise to you, and not be silent. Yahweh my God, I will give thanks to you forever!

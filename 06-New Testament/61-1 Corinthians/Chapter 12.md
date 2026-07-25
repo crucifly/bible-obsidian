@@ -27,73 +27,67 @@ There are various kinds of workings, but the same God, who works all things in a
 But to each one is given the manifestation of the Spirit for the profit of all.
 
 ### 8
-For to one is given through the Spirit the word of wisdom, and to another the word of knowledge, according to the same Spirit;
+For to one is given through the Spirit the word of wisdom, and to another the word of knowledge, according to the same Spirit; to another faith, by the same Spirit; and to another gifts of healings, by the same Spirit;
 
 ### 9
-to another faith, by the same Spirit; and to another gifts of healings, by the same Spirit;
-
-### 10
 and to another workings of miracles; and to another prophecy; and to another discerning of spirits; to another different kinds of languages; and to another the interpretation of languages.
 
-### 11
+### 10
 But the one and the same Spirit produces all of these, distributing to each one separately as he desires.
 
-### 12
+### 11
 For as the body is one, and has many members, and all the members of the body, being many, are one body; so also is Christ.
 
-### 13
+### 12
 For in one Spirit we were all baptized into one body, whether Jews or Greeks, whether bond or free; and were all given to drink into one Spirit.
 
-### 14
+### 13
 For the body is not one member, but many.
 
-### 15
+### 14
 If the foot would say, “Because I’m not the hand, I’m not part of the body,” it is not therefore not part of the body.
 
-### 16
+### 15
 If the ear would say, “Because I’m not the eye, I’m not part of the body,” it’s not therefore not part of the body.
 
-### 17
+### 16
 If the whole body were an eye, where would the hearing be? If the whole were hearing, where would the smelling be?
 
-### 18
+### 17
 But now God has set the members, each one of them, in the body, just as he desired.
 
-### 19
+### 18
 If they were all one member, where would the body be?
 
-### 20
+### 19
 But now they are many members, but one body.
 
-### 21
+### 20
 The eye can’t tell the hand, “I have no need for you,” or again the head to the feet, “I have no need for you.”
 
-### 22
+### 21
 No, much rather, those members of the body which seem to be weaker are necessary.
 
+### 22
+Those parts of the body which we think to be less honorable, on those we bestow more abundant honor; and our unpresentable parts have more abundant propriety; whereas our presentable parts have no such need. But God composed the body together, giving more abundant honor to the inferior part,
+
 ### 23
-Those parts of the body which we think to be less honorable, on those we bestow more abundant honor; and our unpresentable parts have more abundant propriety;
-
-### 24
-whereas our presentable parts have no such need. But God composed the body together, giving more abundant honor to the inferior part,
-
-### 25
 that there should be no division in the body, but that the members should have the same care for one another.
 
-### 26
+### 24
 When one member suffers, all the members suffer with it. Or when one member is honored, all the members rejoice with it.
 
-### 27
+### 25
 Now you are the body of Christ, and members individually.
 
-### 28
+### 26
 God has set some in the assembly: first apostles, second prophets, third teachers, then miracle workers, then gifts of healings, helps, governments, and various kinds of languages.
 
-### 29
+### 27
 Are all apostles? Are all prophets? Are all teachers? Are all miracle workers?
 
-### 30
+### 28
 Do all have gifts of healings? Do all speak with various languages? Do all interpret?
 
-### 31
+### 29
 But earnestly desire the best gifts. Moreover, I show a most excellent way to you.

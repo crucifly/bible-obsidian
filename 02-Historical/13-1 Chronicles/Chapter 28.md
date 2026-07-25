@@ -36,34 +36,22 @@ You, Solomon my son, know the God of your father, and serve him with a perfect h
 Take heed now; for Yahweh has chosen you to build a house for the sanctuary. Be strong, and do it.”
 
 ### 11
-Then David gave to Solomon his son the plans for the porch of the temple, for its houses, for its treasuries, for its upper rooms, for its inner rooms, for the place of the mercy seat;
+Then David gave to Solomon his son the plans for the porch of the temple, for its houses, for its treasuries, for its upper rooms, for its inner rooms, for the place of the mercy seat; and the plans of all that he had by the Spirit, for the courts of Yahweh’s house, for all the surrounding rooms, for the treasuries of God’s house, and for the treasuries of the dedicated things;
 
 ### 12
-and the plans of all that he had by the Spirit, for the courts of Yahweh’s house, for all the surrounding rooms, for the treasuries of God’s house, and for the treasuries of the dedicated things;
+also for the divisions of the priests and the Levites, for all the work of the service of Yahweh’s house, and for all the vessels of service in Yahweh’s house; of gold by weight for the gold, for all vessels of every kind of service; for all the vessels of silver by weight, for all vessels of every kind of service;
 
 ### 13
-also for the divisions of the priests and the Levites, for all the work of the service of Yahweh’s house, and for all the vessels of service in Yahweh’s house;
+by weight also for the lamp stands of gold, and for its lamps, of gold, by weight for every lamp stand and for its lamps; and for the lamp stands of silver, by weight for every lamp stand and for its lamps, according to the use of every lamp stand; and the gold by weight for the tables of show bread, for every table; and silver for the tables of silver;
 
 ### 14
-of gold by weight for the gold, for all vessels of every kind of service; for all the vessels of silver by weight, for all vessels of every kind of service;
+and the forks, the basins, and the cups, of pure gold; and for the golden bowls by weight for every bowl; and for the silver bowls by weight for every bowl; and for the altar of incense refined gold by weight; and gold for the plans for the chariot, and the cherubim that spread out and cover the ark of Yahweh’s covenant.
 
 ### 15
-by weight also for the lamp stands of gold, and for its lamps, of gold, by weight for every lamp stand and for its lamps; and for the lamp stands of silver, by weight for every lamp stand and for its lamps, according to the use of every lamp stand;
-
-### 16
-and the gold by weight for the tables of show bread, for every table; and silver for the tables of silver;
-
-### 17
-and the forks, the basins, and the cups, of pure gold; and for the golden bowls by weight for every bowl; and for the silver bowls by weight for every bowl;
-
-### 18
-and for the altar of incense refined gold by weight; and gold for the plans for the chariot, and the cherubim that spread out and cover the ark of Yahweh’s covenant.
-
-### 19
 “All this”, said David, “I have been made to understand in writing from Yahweh’s hand, even all the works of this pattern.”
 
-### 20
+### 16
 David said to Solomon his son, “Be strong and courageous, and do it. Don’t be afraid, nor be dismayed; for Yahweh God, even my God, is with you. He will not fail you, nor forsake you, until all the work for the service of Yahweh’s house is finished.
 
-### 21
+### 17
 Behold, there are the divisions of the priests and the Levites, for all the service of God’s house. Every willing man who has skill, for any kind of service, shall be with you in all kinds of work. Also the captains and all the people will be entirely at your command.”

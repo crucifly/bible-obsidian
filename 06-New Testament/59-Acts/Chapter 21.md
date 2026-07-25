@@ -84,43 +84,37 @@ But concerning the Gentiles who believe, we have written our decision that they 
 Then Paul took the men, and the next day, purified himself and went with them into the temple, declaring the fulfillment of the days of purification, until the offering was offered for every one of them.
 
 ### 27
-When the seven days were almost completed, the Jews from Asia, when they saw him in the temple, stirred up all the multitude and laid hands on him,
+When the seven days were almost completed, the Jews from Asia, when they saw him in the temple, stirred up all the multitude and laid hands on him, crying out, “Men of Israel, help! This is the man who teaches all men everywhere against the people, and the law, and this place. Moreover, he also brought Greeks into the temple, and has defiled this holy place!”
 
 ### 28
-crying out, “Men of Israel, help! This is the man who teaches all men everywhere against the people, and the law, and this place. Moreover, he also brought Greeks into the temple, and has defiled this holy place!”
-
-### 29
 For they had seen Trophimus, the Ephesian, with him in the city, and they supposed that Paul had brought him into the temple.
 
-### 30
+### 29
 All the city was moved, and the people ran together. They seized Paul and dragged him out of the temple. Immediately the doors were shut.
 
-### 31
+### 30
 As they were trying to kill him, news came up to the commanding officer of the regiment that all Jerusalem was in an uproar.
 
-### 32
+### 31
 Immediately he took soldiers and centurions, and ran down to them. They, when they saw the chief captain and the soldiers, stopped beating Paul.
 
-### 33
+### 32
 Then the commanding officer came near, arrested him, commanded him to be bound with two chains, and inquired who he was and what he had done.
 
-### 34
+### 33
 Some shouted one thing, and some another, among the crowd. When he couldn’t find out the truth because of the noise, he commanded him to be brought into the barracks.
 
+### 34
+When he came to the stairs, he was carried by the soldiers because of the violence of the crowd; for the multitude of the people followed after, crying out, “Away with him!”
+
 ### 35
-When he came to the stairs, he was carried by the soldiers because of the violence of the crowd;
-
-### 36
-for the multitude of the people followed after, crying out, “Away with him!”
-
-### 37
 As Paul was about to be brought into the barracks, he asked the commanding officer, “May I speak to you?” He said, “Do you know Greek?
 
-### 38
+### 36
 Aren’t you then the Egyptian, who before these days stirred up to sedition and led out into the wilderness the four thousand men of the Assassins?”
 
-### 39
+### 37
 But Paul said, “I am a Jew, from Tarsus in Cilicia, a citizen of no insignificant city. I beg you, allow me to speak to the people.”
 
-### 40
+### 38
 When he had given him permission, Paul, standing on the stairs, beckoned with his hand to the people. When there was a great silence, he spoke to them in the Hebrew language, saying,

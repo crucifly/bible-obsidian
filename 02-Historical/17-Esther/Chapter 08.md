@@ -36,22 +36,19 @@ Then the king’s scribes were called at that time, in the third month, which is
 He wrote in the name of King Ahasuerus, and sealed it with the king’s ring, and sent letters by courier on horseback, riding on royal horses that were bred from swift steeds.
 
 ### 11
-In those letters, the king granted the Jews who were in every city to gather themselves together, and to defend their life, to destroy, to kill, and to cause to perish, all the power of the people and province that would assault them, their little ones and women, and to plunder their possessions,
+In those letters, the king granted the Jews who were in every city to gather themselves together, and to defend their life, to destroy, to kill, and to cause to perish, all the power of the people and province that would assault them, their little ones and women, and to plunder their possessions, on one day in all the provinces of King Ahasuerus, on the thirteenth day of the twelfth month, which is the month Adar.
 
 ### 12
-on one day in all the provinces of King Ahasuerus, on the thirteenth day of the twelfth month, which is the month Adar.
-
-### 13
 A copy of the letter, that the decree should be given out in every province, was published to all the peoples, that the Jews should be ready for that day to avenge themselves on their enemies.
 
-### 14
+### 13
 So the couriers who rode on royal horses went out, hastened and pressed on by the king’s commandment. The decree was given out in the citadel of Susa.
 
-### 15
+### 14
 Mordecai went out of the presence of the king in royal clothing of blue and white, and with a great crown of gold, and with a robe of fine linen and purple; and the city of Susa shouted and was glad.
 
-### 16
+### 15
 The Jews had light, gladness, joy, and honor.
 
-### 17
+### 16
 In every province, and in every city, wherever the king’s commandment and his decree came, the Jews had gladness, joy, a feast, and a good day. Many from among the peoples of the land became Jews; for the fear of the Jews was fallen on them.

@@ -69,31 +69,28 @@ Moses took his wife and his sons, and set them on a donkey, and he returned to t
 Yahweh said to Moses, “When you go back into Egypt, see that you do before Pharaoh all the wonders which I have put in your hand, but I will harden his heart and he will not let the people go.
 
 ### 22
-You shall tell Pharaoh, ‘Yahweh says, Israel is my son, my firstborn,
+You shall tell Pharaoh, ‘Yahweh says, Israel is my son, my firstborn, and I have said to you, “Let my son go, that he may serve me”; and you have refused to let him go. Behold, I will kill your son, your firstborn.’”
 
 ### 23
-and I have said to you, “Let my son go, that he may serve me”; and you have refused to let him go. Behold, I will kill your son, your firstborn.’”
-
-### 24
 On the way at a lodging place, Yahweh met Moses and wanted to kill him.
 
-### 25
+### 24
 Then Zipporah took a flint, and cut off the foreskin of her son, and cast it at his feet; and she said, “Surely you are a bridegroom of blood to me.”
 
-### 26
+### 25
 So he let him alone. Then she said, “You are a bridegroom of blood,” because of the circumcision.
 
-### 27
+### 26
 Yahweh said to Aaron, “Go into the wilderness to meet Moses.” He went, and met him on God’s mountain, and kissed him.
 
-### 28
+### 27
 Moses told Aaron all Yahweh’s words with which he had sent him, and all the signs with which he had instructed him.
 
-### 29
+### 28
 Moses and Aaron went and gathered together all the elders of the children of Israel.
 
-### 30
+### 29
 Aaron spoke all the words which Yahweh had spoken to Moses, and did the signs in the sight of the people.
 
-### 31
+### 30
 The people believed, and when they heard that Yahweh had visited the children of Israel, and that he had seen their affliction, then they bowed their heads and worshiped.

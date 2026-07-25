@@ -329,46 +329,28 @@ And his sons told him all that had befallen them, and Jacob said, I will go down
 And Jacob rose up and put on the garments which Joseph had sent him, and after he had washed, and shaved his hair, he put upon his head the turban which Joseph had sent him.
 
 ### 107
-And all the people of Jacob's house and their wives put on the garments which Joseph had sent to them, and they greatly rejoiced at Joseph that he was still living and that he was ruling in Egypt,
+And all the people of Jacob's house and their wives put on the garments which Joseph had sent to them, and they greatly rejoiced at Joseph that he was still living and that he was ruling in Egypt, And all the inhabitants of Canaan heard of this thing, and they came and rejoiced much with Jacob that he was still living.
 
 ### 108
-And all the inhabitants of Canaan heard of this thing, and they came and rejoiced much with Jacob that he was still living.
-
-### 109
 And Jacob made a feast for them for three days, and all the kings of Canaan and nobles of the land ate and drank and rejoiced in the house of Jacob.
 
-### 110
+### 109
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_54&oldid=11445990"
 
+### 110
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:02.
+
 ### 111
-Hidden categories: SubpagesHeaders applying DefaultSort key
-
-### 112
-This page was last edited on 30 June 2021, at 02:02.
-
-### 113
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 112
+Privacy policy Disclaimers
+
+### 113
+Code of Conduct Developers
+
 ### 114
-Privacy policy
+Statistics Cookie statement
 
 ### 115
-Disclaimers
-
-### 116
-Code of Conduct
-
-### 117
-Developers
-
-### 118
-Statistics
-
-### 119
-Cookie statement
-
-### 120
-Mobile view
-
-### 121
-Add topic
+Mobile view Add topic

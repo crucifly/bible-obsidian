@@ -48,49 +48,37 @@ Therefore my people go into captivity for lack of knowledge. Their honorable men
 Therefore Sheol has enlarged its desire, and opened its mouth without measure; and their glory, their multitude, their pomp, and he who rejoices among them, descend into it.
 
 ### 15
-So man is brought low, mankind is humbled, and the eyes of the arrogant ones are humbled;
+So man is brought low, mankind is humbled, and the eyes of the arrogant ones are humbled; but Yahweh of Armies is exalted in justice, and God the Holy One is sanctified in righteousness.
 
 ### 16
-but Yahweh of Armies is exalted in justice, and God the Holy One is sanctified in righteousness.
-
-### 17
 Then the lambs will graze as in their pasture, and strangers will eat the ruins of the rich.
 
+### 17
+Woe to those who draw iniquity with cords of falsehood, and wickedness as with cart rope; Who say, “Let him make speed, let him hasten his work, that we may see it; and let the counsel of the Holy One of Israel draw near and come, that we may know it!”
+
 ### 18
-Woe to those who draw iniquity with cords of falsehood, and wickedness as with cart rope;
-
-### 19
-Who say, “Let him make speed, let him hasten his work, that we may see it; and let the counsel of the Holy One of Israel draw near and come, that we may know it!”
-
-### 20
 Woe to those who call evil good, and good evil; who put darkness for light, and light for darkness; who put bitter for sweet, and sweet for bitter!
 
-### 21
+### 19
 Woe to those who are wise in their own eyes, and prudent in their own sight!
 
-### 22
-Woe to those who are mighty to drink wine, and champions at mixing strong drink;
+### 20
+Woe to those who are mighty to drink wine, and champions at mixing strong drink; who acquit the guilty for a bribe, but deny justice for the innocent!
 
-### 23
-who acquit the guilty for a bribe, but deny justice for the innocent!
-
-### 24
+### 21
 Therefore as the tongue of fire devours the stubble, and as the dry grass sinks down in the flame, so their root shall be as rottenness, and their blossom shall go up as dust; because they have rejected the law of Yahweh of Armies, and despised the word of the Holy One of Israel.
 
-### 25
+### 22
 Therefore Yahweh’s anger burns against his people, and he has stretched out his hand against them, and has struck them. The mountains tremble, and their dead bodies are as refuse in the middle of the streets. For all this, his anger is not turned away, but his hand is still stretched out.
 
-### 26
+### 23
 He will lift up a banner to the nations from far, and he will whistle for them from the end of the earth. Behold, they will come speedily and swiftly.
 
-### 27
-No one shall be weary nor stumble among them; no one shall slumber nor sleep; neither shall the belt of their waist be untied, nor the strap of their sandals be broken:
+### 24
+No one shall be weary nor stumble among them; no one shall slumber nor sleep; neither shall the belt of their waist be untied, nor the strap of their sandals be broken: whose arrows are sharp, and all their bows bent. Their horses’ hoofs will be like flint, and their wheels like a whirlwind.
 
-### 28
-whose arrows are sharp, and all their bows bent. Their horses’ hoofs will be like flint, and their wheels like a whirlwind.
-
-### 29
+### 25
 Their roaring will be like a lioness. They will roar like young lions. Yes, they shall roar, and seize their prey and carry it off, and there will be no one to deliver.
 
-### 30
+### 26
 They will roar against them in that day like the roaring of the sea. If one looks to the land behold, darkness and distress. The light is darkened in its clouds.

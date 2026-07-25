@@ -95,94 +95,70 @@ But she was beating her children in the tent, and she was cursing them, and she 
 And Abraham called to the woman to come out to him from the tent, and the woman came and stood opposite to Abraham, for Abraham was still mounted upon the camel.
 
 ### 29
-And Abraham said to Ishmael's wife, When thy husband Ishmael returneth home say these words to him,
+And Abraham said to Ishmael's wife, When thy husband Ishmael returneth home say these words to him, A very old man from the land of the Philistines came hither to seek thee, and thus was his appearance and figure; I did not ask him who he was, and seeing thou wast not here he spoke unto me and said, When Ishmael thy husband returneth tell him thus did this man say, When thou comest home put away this nail of the tent which thou hast placed here, and place another nail in its stead.
 
 ### 30
-A very old man from the land of the Philistines came hither to seek thee, and thus was his appearance and figure; I did not ask him who he was, and seeing thou wast not here he spoke unto me and said, When Ishmael thy husband returneth tell him thus did this man say, When thou comest home put away this nail of the tent which thou hast placed here, and place another nail in its stead.
-
-### 31
 And Abraham finished his instructions to the woman, and he turned and went off on the camel homeward.
 
+### 31
+And after that Ishmael came from the chase he and his mother, and returned to the tent, and his wife spoke these words to him, A very old man from the land of the Philistines came to seek thee, and thus was his appearance and figure; I did not ask him who he was, and seeing thou wast not at home he said to me, When thy husband cometh home tell him, thus saith the old man, Put away the nail of the tent which thou hast placed here and place another nail in its stead.
+
 ### 32
-And after that Ishmael came from the chase he and his mother, and returned to the tent, and his wife spoke these words to him,
-
-### 33
-A very old man from the land of the Philistines came to seek thee, and thus was his appearance and figure; I did not ask him who he was, and seeing thou wast not at home he said to me, When thy husband cometh home tell him, thus saith the old man, Put away the nail of the tent which thou hast placed here and place another nail in its stead.
-
-### 34
 And Ishmael heard the words of his wife, and he knew that it was his father, and that his wife did not honor him.
 
-### 35
+### 33
 And Ishmael understood his father's words that he had spoken to his wife, and Ishmael hearkened to the voice of his father, and Ishmael cast off that woman and she went away.
 
-### 36
+### 34
 And Ishmael afterward went to the land of Canaan, and he took another wife and he brought her to his tent to the place where he then dwelt.
 
-### 37
+### 35
 And at the end of three years Abraham said, I will go again and see Ishmael my son, for I have not seen him for a long time.
 
-### 38
+### 36
 And he rode upon his camel and went to the wilderness, and he reached the tent of Ishmael about noon.
 
-### 39
+### 37
 And he asked after Ishmael, and his wife came out of the tent and she said, He is not here my lord, for he has gone to hunt in the fields, and to feed the camels, and the woman said to Abraham, Turn in my lord into the tent, and eat a morsel of bread, for thy soul must be wearied on account of the journey.
 
-### 40
+### 38
 And Abraham said to her, I will not stop for I am in haste to continue my journey, but give me a little water to drink, for I have thirst; and the woman hastened and ran into the tent and she brought out water and bread to Abraham, which she placed before him and she urged him to eat, and he ate and drank and his heart was comforted and he blessed his son Ishmael.
 
-### 41
-And he finished his meal and he blessed the Lord, and he said to Ishmael's wife, When Ishmael cometh home say these words to him,
+### 39
+And he finished his meal and he blessed the Lord, and he said to Ishmael's wife, When Ishmael cometh home say these words to him, A very old man from the land of the Philistines came hither and asked after thee, and thou wast not here; and I brought him out bread and water and he ate and drank and his heart was comforted.
 
-### 42
-A very old man from the land of the Philistines came hither and asked after thee, and thou wast not here; and I brought him out bread and water and he ate and drank and his heart was comforted.
-
-### 43
+### 40
 And he spoke these words to me: When Ishmael thy husband cometh home, say unto him, The nail of the tent which thou hast is very good, do not put it away from the tent.
 
-### 44
+### 41
 And Abraham finished commanding the woman, and he rode off to his home to the land of the Philistines; and when Ishmael came to his tent his wife went forth to meet him with joy and a cheerful heart..
 
-### 45
+### 42
 And she said to him, An old man came here from the land of the Philistines and thus was his appearance, and he asked after thee and thou wast not here, so I brought out bread and water, and he ate and drank and his heart was comforted.
 
-### 46
+### 43
 And he spoke these words to me, When Ishmael thy husband cometh home say to him, The nail of the tent which thou hast is very good, do not put it away from the tent..
 
-### 47
+### 44
 And Ishmael knew that it was his father, and that his wife had honored him, and the Lord blessed Ishmael.
 
-### 48
+### 45
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_21&oldid=11445900"
 
-### 49
-Hidden categories: SubpagesHeaders applying DefaultSort key
+### 46
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:54.
 
-### 50
-This page was last edited on 30 June 2021, at 01:54.
-
-### 51
+### 47
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
-### 52
-Privacy policy
+### 48
+Privacy policy Disclaimers
 
-### 53
-Disclaimers
+### 49
+Code of Conduct Developers
 
-### 54
-Code of Conduct
+### 50
+Statistics Cookie statement
 
-### 55
-Developers
-
-### 56
-Statistics
-
-### 57
-Cookie statement
-
-### 58
-Mobile view
-
-### 59
-Add topic
+### 51
+Mobile view Add topic

@@ -57,16 +57,10 @@ Naomi took the child, and laid him in her bosom, and became nurse to it.
 The women, her neighbors, gave him a name, saying, “A son is born to Naomi”. They named him Obed. He is the father of Jesse, the father of David.
 
 ### 18
-Now this is the history of the generations of Perez: Perez became the father of Hezron,
+Now this is the history of the generations of Perez: Perez became the father of Hezron, and Hezron became the father of Ram, and Ram became the father of Amminadab,
 
 ### 19
-and Hezron became the father of Ram, and Ram became the father of Amminadab,
+and Amminadab became the father of Nahshon, and Nahshon became the father of Salmon, and Salmon became the father of Boaz, and Boaz became the father of Obed,
 
 ### 20
-and Amminadab became the father of Nahshon, and Nahshon became the father of Salmon,
-
-### 21
-and Salmon became the father of Boaz, and Boaz became the father of Obed,
-
-### 22
 and Obed became the father of Jesse, and Jesse became the father of David.

@@ -39,34 +39,31 @@ They said to her, “No, but we will return with you to your people.”
 Naomi said, “Go back, my daughters. Why do you want to go with me? Do I still have sons in my womb, that they may be your husbands?
 
 ### 12
-Go back, my daughters, go your way; for I am too old to have a husband. If I should say, ‘I have hope,’ if I should even have a husband tonight, and should also bear sons;
+Go back, my daughters, go your way; for I am too old to have a husband. If I should say, ‘I have hope,’ if I should even have a husband tonight, and should also bear sons; would you then wait until they were grown? Would you then refrain from having husbands? No, my daughters, for it grieves me seriously for your sakes, for Yahweh’s hand has gone out against me.”
 
 ### 13
-would you then wait until they were grown? Would you then refrain from having husbands? No, my daughters, for it grieves me seriously for your sakes, for Yahweh’s hand has gone out against me.”
-
-### 14
 They lifted up their voices, and wept again; then Orpah kissed her mother-in-law, but Ruth joined with her.
 
-### 15
+### 14
 She said, “Behold, your sister-in-law has gone back to her people, and to her god. Follow your sister-in-law.”
 
-### 16
+### 15
 Ruth said, “Don’t urge me to leave you, and to return from following you, for where you go, I will go; and where you stay, I will stay. Your people will be my people, and your God my God.
 
-### 17
+### 16
 Where you die, I will die, and there I will be buried. May Yahweh do so to me, and more also, if anything but death parts you and me.”
 
-### 18
+### 17
 When she saw that she was determined to go with her, she stopped urging her.
 
-### 19
+### 18
 So they both went until they came to Bethlehem. When they had come to Bethlehem, all the city was excited about them, and they asked, “Is this Naomi?”
 
-### 20
+### 19
 She said to them, “Don’t call me Naomi. Call me Mara; for the Almighty has dealt very bitterly with me.
 
-### 21
+### 20
 I went out full, and Yahweh has brought me home again empty. Why do you call me Naomi, since Yahweh has testified against me, and the Almighty has afflicted me?”
 
-### 22
+### 21
 So Naomi returned, and Ruth the Moabitess, her daughter-in-law, with her, who returned out of the country of Moab. They came to Bethlehem in the beginning of barley harvest.

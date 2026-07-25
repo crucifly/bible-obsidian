@@ -63,64 +63,34 @@ And then Esau answered and said unto him, 'Neither the children of men nor the b
 And thou dost hate me and my children for ever. And there is no observing the tie of brotherhood with thee.
 
 ### 20
-Hear these words which I declare unto thee,
+Hear these words which I declare unto thee, If the boar can change its skin and make its bristles as soft as wool,
 
 ### 21
-If the boar can change its skin and make its bristles as soft as wool,
+Or if it can cause horns to sprout forth on its head like the horns of a stag or of a sheep, Then will I observe the tie of brotherhood with thee
 
 ### 22
-Or if it can cause horns to sprout forth on its head like the horns of a stag or of a sheep,
-
-### 23
-Then will I observe the tie of brotherhood with thee
-
-### 24
 And if the breasts separated themselves from their mother, for thou hast not been a brother to me.
 
+### 23
+And if the wolves make peace with the lambs so as not to devour or do them violence, And if their hearts are towards them for good,
+
+### 24
+Then there shall be peace in my heart towards thee And if the lion becomes the friend of the ox and makes peace with him
+
 ### 25
-And if the wolves make peace with the lambs so as not to devour or do them violence,
+And if he is bound under one yoke with him and ploughs with him, Then will I make peace with thee.
 
 ### 26
-And if their hearts are towards them for good,
+And when the raven becomes white as the raza, Then know that I have loved thee
 
 ### 27
-Then there shall be peace in my heart towards thee
+And shall make peace with thee Thou shalt be rooted out,
 
 ### 28
-And if the lion becomes the friend of the ox and makes peace with him
+And thy sons shall be rooted out, And there shall be no peace for thee'
 
 ### 29
-And if he is bound under one yoke with him and ploughs with him,
+And when Jacob saw that he was (so) evilly disposed towards him with his heart, and with all his soul as to slay him, and that he had come springing like the wild boar which comes upon the spear that pierces and kills it, and recoils not from it; then he spake to his own and to his servants that they should attack him and all his companions.
 
 ### 30
-Then will I make peace with thee.
-
-### 31
-And when the raven becomes white as the raza,
-
-### 32
-Then know that I have loved thee
-
-### 33
-And shall make peace with thee
-
-### 34
-Thou shalt be rooted out,
-
-### 35
-And thy sons shall be rooted out,
-
-### 36
-And there shall be no peace for thee'
-
-### 37
-And when Jacob saw that he was (so) evilly disposed towards him with his heart, and with all his soul as to slay him, and that he had come springing like the wild boar which comes upon the spear that pierces and kills it, and recoils not from it;
-
-### 38
-then he spake to his own and to his servants that they should attack him and all his companions.
-
-### 39
-The Book of Jubilees
-
-### 40
-War between Jacob and Esau. Death of Esau and overthrow of his forces, 1-10. Edom reduced to servitude 'till this day', 11-14. Kings of Edom, 15-24. (Cf. Gen. xxxvi.31-9.)
+The Book of Jubilees War between Jacob and Esau. Death of Esau and overthrow of his forces, 1-10. Edom reduced to servitude 'till this day', 11-14. Kings of Edom, 15-24. (Cf. Gen. xxxvi.31-9.)

@@ -139,34 +139,19 @@ And many of the sons of men died in that tower, a people without number.
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_9&oldid=11506492"
 
 ### 43
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 15 July 2021, at 02:12.
 
 ### 44
-This page was last edited on 15 July 2021, at 02:12.
-
-### 45
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 45
+Privacy policy Disclaimers
+
 ### 46
-Privacy policy
+Code of Conduct Developers
 
 ### 47
-Disclaimers
+Statistics Cookie statement
 
 ### 48
-Code of Conduct
-
-### 49
-Developers
-
-### 50
-Statistics
-
-### 51
-Cookie statement
-
-### 52
-Mobile view
-
-### 53
-Add topic
+Mobile view Add topic

@@ -51,10 +51,7 @@ He deceives my own people who dwell on the earth because of the signs he was gra
 It was given to him to give breath to it, to the image of the beast, that the image of the beast should both speak, and cause as many as wouldn’t worship the image of the beast to be killed.
 
 ### 16
-He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads;
+He causes all, the small and the great, the rich and the poor, and the free and the slave, to be given marks on their right hands, or on their foreheads; and that no one would be able to buy or to sell, unless he has that mark, the name of the beast or the number of his name.
 
 ### 17
-and that no one would be able to buy or to sell, unless he has that mark, the name of the beast or the number of his name.
-
-### 18
 Here is wisdom. He who has understanding, let him calculate the number of the beast, for it is the number of a man. His number is six hundred sixty-six.

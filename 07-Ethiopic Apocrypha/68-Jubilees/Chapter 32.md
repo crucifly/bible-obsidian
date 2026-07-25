@@ -108,7 +108,4 @@ And Rachel bare a son in the night, and called his name 'Son of my sorrow '; for
 And Rachel died there and she was buried in the land of Ephrath, the same is Bethlehem, and Jacob built a pillar on the grave of Rachel, on the road above her grave.
 
 ### 35
-The Book of Jubilees
-
-### 36
-Reuben sins with Bilhah, 1-9 (cf. Gen. xxxv.21, 22). Laws regarding incest, 10-20. Jacob's children, 22. (Cf. Gen. xxxv.23-7.)
+The Book of Jubilees Reuben sins with Bilhah, 1-9 (cf. Gen. xxxv.21, 22). Laws regarding incest, 10-20. Jacob's children, 22. (Cf. Gen. xxxv.23-7.)

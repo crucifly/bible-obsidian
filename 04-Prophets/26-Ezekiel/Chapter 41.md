@@ -42,43 +42,34 @@ The doors of the side rooms were toward an open area that was left, one door tow
 The building that was before the separate place at the side toward the west was seventy cubits wide; and the wall of the building was five cubits thick all around, and its length ninety cubits.
 
 ### 13
-So he measured the house, one hundred cubits long; and the separate place, and the building, with its walls, one hundred cubits long;
+So he measured the house, one hundred cubits long; and the separate place, and the building, with its walls, one hundred cubits long; also the width of the face of the house, and of the separate place toward the east, one hundred cubits.
 
 ### 14
-also the width of the face of the house, and of the separate place toward the east, one hundred cubits.
+He measured the length of the building before the separate place which was at its back, and its galleries on the one side and on the other side, one hundred cubits from the inner temple, and the porches of the court the thresholds, and the closed windows, and the galleries around on their three stories, over against the threshold, with wood ceilings all around, and from the ground up to the windows, (now the windows were covered),
 
 ### 15
-He measured the length of the building before the separate place which was at its back, and its galleries on the one side and on the other side, one hundred cubits from the inner temple, and the porches of the court
-
-### 16
-the thresholds, and the closed windows, and the galleries around on their three stories, over against the threshold, with wood ceilings all around, and from the ground up to the windows, (now the windows were covered),
-
-### 17
 to the space above the door, even to the inner house, and outside, and by all the wall all around inside and outside, by measure.
 
-### 18
-It was made with cherubim and palm trees. A palm tree was between cherub and cherub, and every cherub had two faces;
+### 16
+It was made with cherubim and palm trees. A palm tree was between cherub and cherub, and every cherub had two faces; so that there was the face of a man toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side. It was made like this through all the house all around.
 
-### 19
-so that there was the face of a man toward the palm tree on the one side, and the face of a young lion toward the palm tree on the other side. It was made like this through all the house all around.
-
-### 20
+### 17
 Cherubim and palm trees were made from the ground to above the door. The wall of the temple was like this.
 
-### 21
+### 18
 As for the temple, the door posts were squared. As for the face of the sanctuary, its appearance was as the appearance of the temple.
 
-### 22
+### 19
 The altar was of wood, three cubits high, and its length two cubits. Its corners, its length, and its walls were of wood. He said to me, “This is the table that is before Yahweh.”
 
-### 23
+### 20
 The temple and the sanctuary had two doors.
 
-### 24
+### 21
 The doors had two leaves each, two turning leaves: two for the one door, and two leaves for the other.
 
-### 25
+### 22
 There were made on them, on the doors of the temple, cherubim and palm trees, like those made on the walls. There was a threshold of wood on the face of the porch outside.
 
-### 26
+### 23
 There were closed windows and palm trees on the one side and on the other side, on the sides of the porch. This is how the side rooms of the house and the thresholds were arranged.

@@ -113,34 +113,19 @@ And all his brethren heard his cries and weeping in the pit, and his brethren we
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_41&oldid=11445943"
 
 ### 35
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:59.
 
 ### 36
-This page was last edited on 30 June 2021, at 01:59.
-
-### 37
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 37
+Privacy policy Disclaimers
+
 ### 38
-Privacy policy
+Code of Conduct Developers
 
 ### 39
-Disclaimers
+Statistics Cookie statement
 
 ### 40
-Code of Conduct
-
-### 41
-Developers
-
-### 42
-Statistics
-
-### 43
-Cookie statement
-
-### 44
-Mobile view
-
-### 45
-Add topic
+Mobile view Add topic

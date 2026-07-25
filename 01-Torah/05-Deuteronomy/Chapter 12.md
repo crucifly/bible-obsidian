@@ -27,76 +27,61 @@ There you shall bring your burnt offerings, your sacrifices, your tithes, the wa
 There you shall eat before Yahweh your God, and you shall rejoice in all that you put your hand to, you and your households, in which Yahweh your God has blessed you.
 
 ### 8
-You shall not do all the things that we do here today, every man whatever is right in his own eyes;
+You shall not do all the things that we do here today, every man whatever is right in his own eyes; for you haven’t yet come to the rest and to the inheritance, which Yahweh your God gives you.
 
 ### 9
-for you haven’t yet come to the rest and to the inheritance, which Yahweh your God gives you.
+But when you go over the Jordan, and dwell in the land which Yahweh your God causes you to inherit, and he gives you rest from all your enemies around you, so that you dwell in safety; then it shall happen that to the place which Yahweh your God shall choose, to cause his name to dwell there, there you shall bring all that I command you: your burnt offerings, your sacrifices, your tithes, the wave offering of your hand, and all your choice vows which you vow to Yahweh.
 
 ### 10
-But when you go over the Jordan, and dwell in the land which Yahweh your God causes you to inherit, and he gives you rest from all your enemies around you, so that you dwell in safety;
-
-### 11
-then it shall happen that to the place which Yahweh your God shall choose, to cause his name to dwell there, there you shall bring all that I command you: your burnt offerings, your sacrifices, your tithes, the wave offering of your hand, and all your choice vows which you vow to Yahweh.
-
-### 12
 You shall rejoice before Yahweh your God: you, and your sons, your daughters, your male servants, your female servants, and the Levite who is within your gates, because he has no portion nor inheritance with you.
 
-### 13
-Be careful that you don’t offer your burnt offerings in every place that you see;
+### 11
+Be careful that you don’t offer your burnt offerings in every place that you see; but in the place which Yahweh chooses in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I command you.
 
-### 14
-but in the place which Yahweh chooses in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I command you.
-
-### 15
+### 12
 Notwithstanding, you may kill and eat meat within all your gates, after all the desire of your soul, according to Yahweh your God’s blessing which he has given you. The unclean and the clean may eat of it, as of the gazelle, and as of the deer.
 
-### 16
+### 13
 Only you shall not eat the blood. You shall pour it out on the earth like water.
 
-### 17
-You may not eat within your gates the tithe of your grain, or of your new wine, or of your oil, or the firstborn of your herd or of your flock, nor any of your vows which you vow, nor your freewill offerings, nor the wave offering of your hand;
+### 14
+You may not eat within your gates the tithe of your grain, or of your new wine, or of your oil, or the firstborn of your herd or of your flock, nor any of your vows which you vow, nor your freewill offerings, nor the wave offering of your hand; but you shall eat them before Yahweh your God in the place which Yahweh your God shall choose: you, your son, your daughter, your male servant, your female servant, and the Levite who is within your gates. You shall rejoice before Yahweh your God in all that you put your hand to.
 
-### 18
-but you shall eat them before Yahweh your God in the place which Yahweh your God shall choose: you, your son, your daughter, your male servant, your female servant, and the Levite who is within your gates. You shall rejoice before Yahweh your God in all that you put your hand to.
-
-### 19
+### 15
 Be careful that you don’t forsake the Levite as long as you live in your land.
 
-### 20
+### 16
 When Yahweh your God enlarges your border, as he has promised you, and you say, “I want to eat meat,” because your soul desires to eat meat; you may eat meat, after all the desire of your soul.
 
-### 21
+### 17
 If the place which Yahweh your God shall choose, to put his name there, is too far from you, then you shall kill of your herd and of your flock, which Yahweh has given you, as I have commanded you; and you may eat within your gates, after all the desire of your soul.
 
-### 22
+### 18
 Even as the gazelle and as the deer is eaten, so you shall eat of it. The unclean and the clean may eat of it alike.
 
-### 23
+### 19
 Only be sure that you don’t eat the blood; for the blood is the life. You shall not eat the life with the meat.
 
-### 24
+### 20
 You shall not eat it. You shall pour it out on the earth like water.
 
-### 25
+### 21
 You shall not eat it; that it may go well with you, and with your children after you, when you shall do that which is right in Yahweh’s eyes.
 
-### 26
+### 22
 Only your holy things which you have, and your vows, you shall take, and go to the place which Yahweh shall choose.
 
-### 27
+### 23
 You shall offer your burnt offerings, the meat and the blood, on Yahweh your God’s altar; and the blood of your sacrifices shall be poured out on Yahweh your God’s altar; and you shall eat the meat.
 
-### 28
+### 24
 Observe and hear all these words which I command you, that it may go well with you, and with your children after you forever, when you do that which is good and right in Yahweh your God’s eyes.
 
-### 29
-When Yahweh your God cuts off the nations from before you, where you go in to dispossess them, and you dispossess them, and dwell in their land;
+### 25
+When Yahweh your God cuts off the nations from before you, where you go in to dispossess them, and you dispossess them, and dwell in their land; be careful that you are not ensnared to follow them, after that they are destroyed from before you; and that you not inquire after their gods, saying, “How do these nations serve their gods? I will do likewise.”
 
-### 30
-be careful that you are not ensnared to follow them, after that they are destroyed from before you; and that you not inquire after their gods, saying, “How do these nations serve their gods? I will do likewise.”
-
-### 31
+### 26
 You shall not do so to Yahweh your God; for every abomination to Yahweh, which he hates, they have done to their gods; for they even burn their sons and their daughters in the fire to their gods.
 
-### 32
+### 27
 Whatever thing I command you, that you shall observe to do. You shall not add to it, nor take away from it.

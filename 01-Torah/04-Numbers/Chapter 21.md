@@ -45,67 +45,52 @@ From there they traveled, and encamped in the valley of Zered.
 From there they traveled, and encamped on the other side of the Arnon, which is in the wilderness, that comes out of the border of the Amorites: for the Arnon is the border of Moab, between Moab and the Amorites.
 
 ### 14
-Therefore it is said in the book of the Wars of Yahweh, “Vaheb in Suphah, the valleys of the Arnon,
+Therefore it is said in the book of the Wars of Yahweh, “Vaheb in Suphah, the valleys of the Arnon, the slope of the valleys that incline toward the dwelling of Ar, leans on the border of Moab.”
 
 ### 15
-the slope of the valleys that incline toward the dwelling of Ar, leans on the border of Moab.”
-
-### 16
 From there they traveled to Beer; that is the well of which Yahweh said to Moses, “Gather the people together, and I will give them water.”
 
+### 16
+Then Israel sang this song: “Spring up, well! Sing to it, the well, which the princes dug, which the nobles of the people dug, with the scepter, and with their poles.” From the wilderness they traveled to Mattanah;
+
 ### 17
-Then Israel sang this song: “Spring up, well! Sing to it,
+and from Mattanah to Nahaliel; and from Nahaliel to Bamoth; and from Bamoth to the valley that is in the field of Moab, to the top of Pisgah, which looks down on the desert.
 
 ### 18
-the well, which the princes dug, which the nobles of the people dug, with the scepter, and with their poles.” From the wilderness they traveled to Mattanah;
+Israel sent messengers to Sihon king of the Amorites, saying, “Let me pass through your land. We will not turn away into field or vineyard. We will not drink of the water of the wells. We will go by the king’s highway, until we have passed your border.”
 
 ### 19
-and from Mattanah to Nahaliel; and from Nahaliel to Bamoth;
-
-### 20
-and from Bamoth to the valley that is in the field of Moab, to the top of Pisgah, which looks down on the desert.
-
-### 21
-Israel sent messengers to Sihon king of the Amorites, saying,
-
-### 22
-“Let me pass through your land. We will not turn away into field or vineyard. We will not drink of the water of the wells. We will go by the king’s highway, until we have passed your border.”
-
-### 23
 Sihon would not allow Israel to pass through his border, but Sihon gathered all his people together, and went out against Israel into the wilderness, and came to Jahaz. He fought against Israel.
 
-### 24
+### 20
 Israel struck him with the edge of the sword, and possessed his land from the Arnon to the Jabbok, even to the children of Ammon; for the border of the children of Ammon was strong.
 
-### 25
+### 21
 Israel took all these cities. Israel lived in all the cities of the Amorites, in Heshbon, and in all its villages.
 
-### 26
+### 22
 For Heshbon was the city of Sihon the king of the Amorites, who had fought against the former king of Moab, and taken all his land out of his hand, even to the Arnon.
 
-### 27
-Therefore those who speak in proverbs say, “Come to Heshbon. Let the city of Sihon be built and established;
+### 23
+Therefore those who speak in proverbs say, “Come to Heshbon. Let the city of Sihon be built and established; for a fire has gone out of Heshbon, a flame from the city of Sihon. It has devoured Ar of Moab, The lords of the high places of the Arnon.
 
-### 28
-for a fire has gone out of Heshbon, a flame from the city of Sihon. It has devoured Ar of Moab, The lords of the high places of the Arnon.
-
-### 29
+### 24
 Woe to you, Moab! You are undone, people of Chemosh! He has given his sons as fugitives, and his daughters into captivity, to Sihon king of the Amorites.
 
-### 30
+### 25
 We have shot at them. Heshbon has perished even to Dibon. We have laid waste even to Nophah, Which reaches to Medeba.”
 
-### 31
+### 26
 Thus Israel lived in the land of the Amorites.
 
-### 32
+### 27
 Moses sent to spy out Jazer. They took its villages, and drove out the Amorites who were there.
 
-### 33
+### 28
 They turned and went up by the way of Bashan. Og the king of Bashan went out against them, he and all his people, to battle at Edrei.
 
-### 34
+### 29
 Yahweh said to Moses, “Don’t fear him, for I have delivered him into your hand, with all his people, and his land. You shall do to him as you did to Sihon king of the Amorites, who lived at Heshbon.”
 
-### 35
+### 30
 So they struck him, with his sons and all his people, until there were no survivors; and they possessed his land.

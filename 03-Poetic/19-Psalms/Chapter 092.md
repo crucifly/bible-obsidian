@@ -6,46 +6,37 @@ canon: "Poetic"
 # Psalms 92
 
 ### 1
-It is a good thing to give thanks to Yahweh, to sing praises to your name, Most High;
+It is a good thing to give thanks to Yahweh, to sing praises to your name, Most High; to proclaim your loving kindness in the morning, and your faithfulness every night,
 
 ### 2
-to proclaim your loving kindness in the morning, and your faithfulness every night,
-
-### 3
 with the ten-stringed lute, with the harp, and with the melody of the lyre.
 
-### 4
+### 3
 For you, Yahweh, have made me glad through your work. I will triumph in the works of your hands.
 
-### 5
+### 4
 How great are your works, Yahweh! Your thoughts are very deep.
 
+### 5
+A senseless man doesn’t know, neither does a fool understand this: though the wicked spring up as the grass, and all the evildoers flourish, they will be destroyed forever.
+
 ### 6
-A senseless man doesn’t know, neither does a fool understand this:
-
-### 7
-though the wicked spring up as the grass, and all the evildoers flourish, they will be destroyed forever.
-
-### 8
 But you, Yahweh, are on high forever more.
 
-### 9
+### 7
 For, behold, your enemies, Yahweh, for, behold, your enemies shall perish. All the evildoers will be scattered.
 
-### 10
+### 8
 But you have exalted my horn like that of the wild ox. I am anointed with fresh oil.
 
-### 11
+### 9
 My eye has also seen my enemies. My ears have heard of the wicked enemies who rise up against me.
 
-### 12
+### 10
 The righteous shall flourish like the palm tree. He will grow like a cedar in Lebanon.
 
-### 13
+### 11
 They are planted in Yahweh’s house. They will flourish in our God’s courts.
 
-### 14
-They will still produce fruit in old age. They will be full of sap and green,
-
-### 15
-to show that Yahweh is upright. He is my rock, and there is no unrighteousness in him.
+### 12
+They will still produce fruit in old age. They will be full of sap and green, to show that Yahweh is upright. He is my rock, and there is no unrighteousness in him.

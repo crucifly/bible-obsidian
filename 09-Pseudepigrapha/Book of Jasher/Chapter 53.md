@@ -107,34 +107,19 @@ And Joseph rose up and caught hold of Benjamin and took him from his brethren wi
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_53&oldid=11445988"
 
 ### 33
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:02.
 
 ### 34
-This page was last edited on 30 June 2021, at 02:02.
-
-### 35
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 35
+Privacy policy Disclaimers
+
 ### 36
-Privacy policy
+Code of Conduct Developers
 
 ### 37
-Disclaimers
+Statistics Cookie statement
 
 ### 38
-Code of Conduct
-
-### 39
-Developers
-
-### 40
-Statistics
-
-### 41
-Cookie statement
-
-### 42
-Mobile view
-
-### 43
-Add topic
+Mobile view Add topic

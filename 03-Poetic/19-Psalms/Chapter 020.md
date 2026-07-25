@@ -6,28 +6,25 @@ canon: "Poetic"
 # Psalms 20
 
 ### 1
-May Yahweh answer you in the day of trouble. May the name of the God of Jacob set you up on high,
+May Yahweh answer you in the day of trouble. May the name of the God of Jacob set you up on high, send you help from the sanctuary, grant you support from Zion,
 
 ### 2
-send you help from the sanctuary, grant you support from Zion,
-
-### 3
 remember all your offerings, and accept your burned sacrifice..
 
-### 4
+### 3
 May He grant you your heart’s desire, and fulfill all your counsel.
 
-### 5
+### 4
 We will triumph in your salvation. In the name of our God, we will set up our banners. May Yahweh grant all your requests.
 
-### 6
+### 5
 Now I know that Yahweh saves his anointed. He will answer him from his holy heaven, with the saving strength of his right hand.
 
-### 7
+### 6
 Some trust in chariots, and some in horses, but we trust the name of Yahweh our God.
 
-### 8
+### 7
 They are bowed down and fallen, but we rise up, and stand upright.
 
-### 9
+### 8
 Save, Yahweh! Let the King answer us when we call!

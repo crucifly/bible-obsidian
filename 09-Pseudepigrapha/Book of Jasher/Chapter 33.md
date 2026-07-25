@@ -146,55 +146,37 @@ And if you will not hearken unto us, to have every male circumcised as we are ci
 And Shechem and his father Hamor heard the words of the sons of Jacob, and the thing pleased them exceedingly, and Shechem and his father Hamor hastened to do the wishes of the sons of Jacob, for Shechem was very fond of Dinah, and his soul was riveted to her.
 
 ### 46
-And Shechem and his father Hamor hastened to the gate of the city, and they assembled all the men of their city and spoke unto them the words of the sons of Jacob, saying,
+And Shechem and his father Hamor hastened to the gate of the city, and they assembled all the men of their city and spoke unto them the words of the sons of Jacob, saying, We came to these men, the sons of Jacob, and we spoke unto them concerning their daughter, and these men will consent to do according to our wishes, and behold our land is of great extent for them, and they will dwell in it, and trade in it, and we shall be one people; we will take their daughters, and our daughters we will give unto them for wives.
 
 ### 47
-We came to these men, the sons of Jacob, and we spoke unto them concerning their daughter, and these men will consent to do according to our wishes, and behold our land is of great extent for them, and they will dwell in it, and trade in it, and we shall be one people; we will take their daughters, and our daughters we will give unto them for wives.
-
-### 48
 But only on this condition will these men consent to do this thing, that every male amongst us be circumcised as they are circumcised, as their God commanded them, and when we shall have done according to their instructions to be circumcised, then will they dwell amongst us, together with their cattle and possessions, and we shall be as one people with them.
 
-### 49
+### 48
 And when all the men of the city heard the words of Shechem and his father Hamor, then all the men of their city were agreeable to this proposal, and they obeyed to be circumcised, for Shechem and his father Hamor were greatly esteemed by them, being the princes of the land.
 
-### 50
+### 49
 And on the next day, Shechem and Hamor his father rose up early in the morning, and they assembled all the men of their city into the middle of the city, and they called for the sons of Jacob, who circumcised every male belonging to them on that day and the next.
 
-### 51
+### 50
 And they circumcised Shechem and Hamor his father, and the five brothers of Shechem, and then every one rose up and went home, for this thing was from the Lord against the city of Shechem, and from the Lord was Simeon's counsel in this matter, in order that the Lord might deliver the city of Shechem into the hands of Jacob's two sons.
 
-### 52
+### 51
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_33&oldid=11445926"
 
+### 52
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:56.
+
 ### 53
-Hidden categories: SubpagesHeaders applying DefaultSort key
-
-### 54
-This page was last edited on 30 June 2021, at 01:56.
-
-### 55
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 54
+Privacy policy Disclaimers
+
+### 55
+Code of Conduct Developers
+
 ### 56
-Privacy policy
+Statistics Cookie statement
 
 ### 57
-Disclaimers
-
-### 58
-Code of Conduct
-
-### 59
-Developers
-
-### 60
-Statistics
-
-### 61
-Cookie statement
-
-### 62
-Mobile view
-
-### 63
-Add topic
+Mobile view Add topic

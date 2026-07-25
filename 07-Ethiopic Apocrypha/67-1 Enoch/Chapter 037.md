@@ -18,7 +18,4 @@ It were better to declare (them only) to the men of old time, but even from thos
 Till the present day such wisdom has never been given by the Lord of Spirits as I have received according to my insight, according to the good pleasure of the Lord of Spirits by whom the lot of eternal life has been given to me.
 
 ### 5
-Now three parables were imparted to me, and I lifted up my voice and recounted them to those that dwell on the earth. The First Parable
-
-### 6
-And thenceforward none shall seek for themselves mercy from the Lord of Spirits For their life is at an end.
+Now three parables were imparted to me, and I lifted up my voice and recounted them to those that dwell on the earth. The First Parable And thenceforward none shall seek for themselves mercy from the Lord of Spirits For their life is at an end.

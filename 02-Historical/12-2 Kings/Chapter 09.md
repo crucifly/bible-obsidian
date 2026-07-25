@@ -45,73 +45,64 @@ They said, “That is a lie. Tell us now.” He said, “He said to me, ‘Yahwe
 Then they hurried, and each man took his cloak, and put it under him on the top of the stairs, and blew the trumpet, saying, “Jehu is king.”
 
 ### 14
-So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram was keeping Ramoth Gilead, he and all Israel, because of Hazael king of Syria;
+So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram was keeping Ramoth Gilead, he and all Israel, because of Hazael king of Syria; but king Joram had returned to be healed in Jezreel of the wounds which the Syrians had given him, when he fought with Hazael king of Syria.) Jehu said, “If this is your thinking, then let no one escape and go out of the city, to go to tell it in Jezreel.”
 
 ### 15
-but king Joram had returned to be healed in Jezreel of the wounds which the Syrians had given him, when he fought with Hazael king of Syria.) Jehu said, “If this is your thinking, then let no one escape and go out of the city, to go to tell it in Jezreel.”
-
-### 16
 So Jehu rode in a chariot and went to Jezreel, for Joram lay there. Ahaziah king of Judah had come down to see Joram.
 
-### 17
+### 16
 Now the watchman was standing on the tower in Jezreel, and he spied the company of Jehu as he came, and said, “I see a company.” Joram said, “Take a horseman, and send to meet them, and let him say, ‘Is it peace?’”
 
-### 18
+### 17
 So one went on horseback to meet him, and said, “Thus says the king, ‘Is it peace?’” Jehu said, “What do you have to do with peace? Fall in behind me!” The watchman said, “The messenger came to them, but he isn’t coming back.”
 
-### 19
+### 18
 Then he sent out a second on horseback, who came to them, and said, “Thus says the king, ‘Is it peace?’” Jehu answered, “What do you have to do with peace? Fall in behind me!”
 
-### 20
+### 19
 The watchman said, “He came to them, and isn’t coming back. The driving is like the driving of Jehu the son of Nimshi, for he drives furiously.”
 
-### 21
+### 20
 Joram said, “Get ready!” They got his chariot ready. Then Joram king of Israel and Ahaziah king of Judah went out, each in his chariot, and they went out to meet Jehu, and found him on Naboth the Jezreelite’s land.
 
-### 22
+### 21
 When Joram saw Jehu, he said, “Is it peace, Jehu?” He answered, “What peace, so long as the prostitution of your mother Jezebel and her witchcraft abound?”
 
-### 23
+### 22
 Joram turned his hands, and fled, and said to Ahaziah, “This is treason, Ahaziah!”
 
-### 24
+### 23
 Jehu drew his bow with his full strength, and struck Joram between his arms; and the arrow went out at his heart, and he sunk down in his chariot.
 
+### 24
+Then Jehu said to Bidkar his captain, “Pick him up, and throw him in the plot of the field of Naboth the Jezreelite; for remember how, when you and I rode together after Ahab his father, Yahweh laid this burden on him: ‘Surely I have seen yesterday the blood of Naboth, and the blood of his sons,’ says Yahweh; ‘and I will repay you in this plot of ground,’ says Yahweh. Now therefore take and cast him onto the plot of ground, according to Yahweh’s word.”
+
 ### 25
-Then Jehu said to Bidkar his captain, “Pick him up, and throw him in the plot of the field of Naboth the Jezreelite; for remember how, when you and I rode together after Ahab his father, Yahweh laid this burden on him:
-
-### 26
-‘Surely I have seen yesterday the blood of Naboth, and the blood of his sons,’ says Yahweh; ‘and I will repay you in this plot of ground,’ says Yahweh. Now therefore take and cast him onto the plot of ground, according to Yahweh’s word.”
-
-### 27
 But when Ahaziah the king of Judah saw this, he fled by the way of the garden house. Jehu followed after him, and said, “Strike him also in the chariot!” They struck him at the ascent of Gur, which is by Ibleam. He fled to Megiddo, and died there.
 
-### 28
+### 26
 His servants carried him in a chariot to Jerusalem, and buried him in his tomb with his fathers in David’s city.
 
-### 29
+### 27
 In the eleventh year of Joram the son of Ahab, Ahaziah began to reign over Judah.
 
-### 30
+### 28
 When Jehu had come to Jezreel, Jezebel heard of it; and she painted her eyes, and adorned her head, and looked out at the window.
 
-### 31
+### 29
 As Jehu entered in at the gate, she said, “Do you come in peace, Zimri, you murderer of your master?”
 
-### 32
+### 30
 He lifted up his face to the window, and said, “Who is on my side? Who?” Two or three eunuchs looked out at him.
 
-### 33
+### 31
 He said, “Throw her down!” So they threw her down; and some of her blood was sprinkled on the wall, and on the horses. Then he trampled her under foot.
 
-### 34
+### 32
 When he had come in, he ate and drank. Then he said, “See now to this cursed woman, and bury her; for she is a king’s daughter.”
 
-### 35
+### 33
 They went to bury her, but they found no more of her than the skull, the feet, and the palms of her hands.
 
-### 36
-Therefore they came back, and told him. He said, “This is Yahweh’s word, which he spoke by his servant Elijah the Tishbite, saying, ‘The dogs will eat the flesh of Jezebel on the plot of Jezreel,
-
-### 37
-and the body of Jezebel will be as dung on the face of the field on Jezreel’s land, so that they won’t say, “This is Jezebel.”’”
+### 34
+Therefore they came back, and told him. He said, “This is Yahweh’s word, which he spoke by his servant Elijah the Tishbite, saying, ‘The dogs will eat the flesh of Jezebel on the plot of Jezreel, and the body of Jezebel will be as dung on the face of the field on Jezreel’s land, so that they won’t say, “This is Jezebel.”’”

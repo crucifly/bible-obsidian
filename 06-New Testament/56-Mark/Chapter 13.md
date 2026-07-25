@@ -12,106 +12,91 @@ As he went out of the temple, one of his disciples said to him, “Teacher, see 
 Jesus said to him, “Do you see these great buildings? There will not be left here one stone on another, which will not be thrown down.”
 
 ### 3
-As he sat on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked him privately,
+As he sat on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked him privately, “Tell us, when will these things be? What is the sign that these things are all about to be fulfilled?”
 
 ### 4
-“Tell us, when will these things be? What is the sign that these things are all about to be fulfilled?”
-
-### 5
 Jesus, answering, began to tell them, “Be careful that no one leads you astray.
 
-### 6
+### 5
 For many will come in my name, saying, ‘I am he!’ and will lead many astray.
 
-### 7
+### 6
 “When you hear of wars and rumors of wars, don’t be troubled. For those must happen, but the end is not yet.
 
-### 8
+### 7
 For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places. There will be famines and troubles. These things are the beginning of birth pains.
 
-### 9
+### 8
 But watch yourselves, for they will deliver you up to councils. You will be beaten in synagogues. You will stand before rulers and kings for my sake, for a testimony to them.
 
-### 10
+### 9
 The Good News must first be preached to all the nations.
 
-### 11
+### 10
 When they lead you away and deliver you up, don’t be anxious beforehand, or premeditate what you will say, but say whatever will be given you in that hour. For it is not you who speak, but the Holy Spirit.
 
-### 12
+### 11
 “Brother will deliver up brother to death, and the father his child. Children will rise up against parents, and cause them to be put to death.
 
-### 13
+### 12
 You will be hated by all men for my name’s sake, but he who endures to the end, the same will be saved.
 
+### 13
+But when you see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not (let the reader understand), then let those who are in Judea flee to the mountains, and let him who is on the housetop not go down, nor enter in, to take anything out of his house.
+
 ### 14
-But when you see the abomination of desolation, spoken of by Daniel the prophet, standing where it ought not (let the reader understand), then let those who are in Judea flee to the mountains,
-
-### 15
-and let him who is on the housetop not go down, nor enter in, to take anything out of his house.
-
-### 16
 Let him who is in the field not return back to take his cloak.
 
-### 17
+### 15
 But woe to those who are with child and to those who nurse babies in those days!
 
-### 18
+### 16
 Pray that your flight won’t be in the winter.
 
-### 19
+### 17
 For in those days there will be oppression, such as there has not been the like from the beginning of the creation which God created until now, and never will be.
 
-### 20
+### 18
 Unless the Lord had shortened the days, no flesh would have been saved; but for the sake of the chosen ones, whom he picked out, he shortened the days.
 
-### 21
+### 19
 Then if anyone tells you, ‘Look, here is the Christ!’ or, ‘Look, there!’ don’t believe it.
 
-### 22
+### 20
 For there will arise false christs and false prophets, and will show signs and wonders, that they may lead astray, if possible, even the chosen ones.
 
-### 23
+### 21
 But you watch. “Behold, I have told you all things beforehand.
 
-### 24
-But in those days, after that oppression, the sun will be darkened, the moon will not give its light,
+### 22
+But in those days, after that oppression, the sun will be darkened, the moon will not give its light, the stars will be falling from the sky, and the powers that are in the heavens will be shaken.
 
-### 25
-the stars will be falling from the sky, and the powers that are in the heavens will be shaken.
-
-### 26
+### 23
 Then they will see the Son of Man coming in clouds with great power and glory.
 
-### 27
+### 24
 Then he will send out his angels, and will gather together his chosen ones from the four winds, from the ends of the earth to the ends of the sky.
 
-### 28
-“Now from the fig tree, learn this parable. When the branch has now become tender, and produces its leaves, you know that the summer is near;
+### 25
+“Now from the fig tree, learn this parable. When the branch has now become tender, and produces its leaves, you know that the summer is near; even so you also, when you see these things coming to pass, know that it is near, at the doors.
 
-### 29
-even so you also, when you see these things coming to pass, know that it is near, at the doors.
-
-### 30
+### 26
 Most certainly I say to you, this generation will not pass away until all these things happen.
 
-### 31
+### 27
 Heaven and earth will pass away, but my words will not pass away.
 
-### 32
+### 28
 But of that day or that hour no one knows, not even the angels in heaven, nor the Son, but only the Father.
 
-### 33
+### 29
 Watch, keep alert, and pray; for you don’t know when the time is.
 
-### 34
+### 30
 “It is like a man, traveling to another country, having left his house, and given authority to his servants, and to each one his work, and also commanded the doorkeeper to keep watch.
 
-### 35
-Watch therefore, for you don’t know when the lord of the house is coming, whether at evening, or at midnight, or when the rooster crows, or in the morning;
+### 31
+Watch therefore, for you don’t know when the lord of the house is coming, whether at evening, or at midnight, or when the rooster crows, or in the morning; lest coming suddenly he might find you sleeping.
 
-### 36
-lest coming suddenly he might find you sleeping.
-
-### 37
+### 32
 What I tell you, I tell all: Watch.”

@@ -96,19 +96,13 @@ Ephraim didn’t drive out the Canaanites who lived in Gezer, but the Canaanites
 Zebulun didn’t drive out the inhabitants of Kitron, nor the inhabitants of Nahalol; but the Canaanites lived among them, and became subject to forced labor.
 
 ### 31
-Asher didn’t drive out the inhabitants of Acco, nor the inhabitants of Sidon, nor of Ahlab, nor of Achzib, nor of Helbah, nor of Aphik, nor of Rehob;
+Asher didn’t drive out the inhabitants of Acco, nor the inhabitants of Sidon, nor of Ahlab, nor of Achzib, nor of Helbah, nor of Aphik, nor of Rehob; but the Asherites lived among the Canaanites, the inhabitants of the land; for they did not drive them out.
 
 ### 32
-but the Asherites lived among the Canaanites, the inhabitants of the land; for they did not drive them out.
-
-### 33
 Naphtali didn’t drive out the inhabitants of Beth Shemesh, nor the inhabitants of Beth Anath; but he lived among the Canaanites, the inhabitants of the land. Nevertheless the inhabitants of Beth Shemesh and of Beth Anath became subject to forced labor.
 
+### 33
+The Amorites forced the children of Dan into the hill country, for they would not allow them to come down to the valley; but the Amorites would dwell in Mount Heres, in Aijalon, and in Shaalbim. Yet the hand of the house of Joseph prevailed, so that they became subject to forced labor.
+
 ### 34
-The Amorites forced the children of Dan into the hill country, for they would not allow them to come down to the valley;
-
-### 35
-but the Amorites would dwell in Mount Heres, in Aijalon, and in Shaalbim. Yet the hand of the house of Joseph prevailed, so that they became subject to forced labor.
-
-### 36
 The border of the Amorites was from the ascent of Akrabbim, from the rock, and upward.

@@ -42,34 +42,31 @@ And for this reason he called his name Terah because the ravens and the birds re
 And the years began to be barren, owing to the birds, and they devoured all the fruit of the trees from the trees: it was only with great effort that they could save a little of all the fruit of the earth in their days.
 
 ### 13
-And in this thirty-ninth jubilee, in the second week in the first year, [1870 A.M.] Terah took to himself a wife, and her name was 'Edna, the daughter of 'Abram, the daughter of his father's sister. And in the seventh year of this week [1876 A.M.] she bare him a son, and he called his name Abram, by the name of the father of his mother;
+And in this thirty-ninth jubilee, in the second week in the first year, [1870 A.M.] Terah took to himself a wife, and her name was 'Edna, the daughter of 'Abram, the daughter of his father's sister. And in the seventh year of this week [1876 A.M.] she bare him a son, and he called his name Abram, by the name of the father of his mother; for he had died before his daughter had conceived a son.
 
 ### 14
-for he had died before his daughter had conceived a son.
-
-### 15
 And the child began to understand the errors of the earth that all went astray after graven images and after uncleanness, and his father taught him writing, and he was two weeks of years old, [1890 A.M.] and he separated himself from his father, that he might not worship idols with him.
 
-### 16
+### 15
 And he began to pray to the Creator of all things that He might save him from the errors of the children of men, and that his portion should not fall into error after uncleanness and vileness.
 
-### 17
+### 16
 And the seed time came for the sowing of seed upon the land, and they all went forth together to protect their seed against the ravens, and Abram went forth with those that went, and the child was a lad of fourteen years.
 
-### 18
+### 17
 And a cloud of ravens came to devour the seed, and Abram ran to meet them before they settled on the ground, and cried to them before they settled on the ground to devour the seed, and said, ' Descend not: return to the place whence ye came,' and they proceeded to turn back.
 
-### 19
+### 18
 And he caused the clouds of ravens to turn back that day seventy times, and of all the ravens throughout all the land where Abram was there settled there not so much as one.
 
-### 20
+### 19
 And all who were with him throughout all the land saw him cry out, and all the ravens turn back, and his name became great in all the land of the Chaldees.
 
-### 21
+### 20
 And there came to him this year all those that wished to sow, and he went with them until the time of sowing ceased: and they sowed their land, and that year they brought enough grain home and eat and were satisfied.
 
-### 22
+### 21
 And in the first year of the fifth week [1891 A.M.] Abram taught those who made implements for oxen, the artificers in wood, and they made a vessel above the ground, facing the frame of the plough, in order to put the seed thereon, and the seed fell down therefrom upon the share of the plough, and was hidden in the earth, and they no longer feared the ravens.
 
-### 23
+### 22
 And after this manner they made (vessels) above the ground on all the frames of the ploughs, and they sowed and tilled all the land, according as Abram commanded them, and they no longer feared the birds.

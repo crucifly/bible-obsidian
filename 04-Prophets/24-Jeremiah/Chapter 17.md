@@ -63,25 +63,19 @@ Let them be disappointed who persecute me, but let not me be disappointed. Let t
 Yahweh said this to me: “Go, and stand in the gate of the children of the people, through which the kings of Judah come in and by which they go out, and in all the gates of Jerusalem.
 
 ### 20
-Tell them, ‘Hear Yahweh’s word, you kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates:
+Tell them, ‘Hear Yahweh’s word, you kings of Judah, and all Judah, and all the inhabitants of Jerusalem, that enter in by these gates: Yahweh says, “Be careful, and bear no burden on the Sabbath day, nor bring it in by the gates of Jerusalem.
 
 ### 21
-Yahweh says, “Be careful, and bear no burden on the Sabbath day, nor bring it in by the gates of Jerusalem.
-
-### 22
 Don’t carry a burden out of your houses on the Sabbath day. Don’t do any work, but make the Sabbath day holy, as I commanded your fathers.
 
-### 23
+### 22
 But they didn’t listen. They didn’t turn their ear, but made their neck stiff, that they might not hear, and might not receive instruction.
 
+### 23
+It will happen, if you diligently listen to me,” says Yahweh, “to bring in no burden through the gates of this city on the Sabbath day, but to make the Sabbath day holy, to do no work therein; then there will enter in by the gates of this city kings and princes sitting on David’s throne, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem; and this city will remain forever.
+
 ### 24
-It will happen, if you diligently listen to me,” says Yahweh, “to bring in no burden through the gates of this city on the Sabbath day, but to make the Sabbath day holy, to do no work therein;
-
-### 25
-then there will enter in by the gates of this city kings and princes sitting on David’s throne, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem; and this city will remain forever.
-
-### 26
 They will come from the cities of Judah, and from the places around Jerusalem, from the land of Benjamin, from the lowland, from the hill country, and from the South, bringing burnt offerings, sacrifices, meal offerings, and frankincense, and bringing sacrifices of thanksgiving, to Yahweh’s house.
 
-### 27
+### 25
 But if you will not listen to me to make the Sabbath day holy, and not to bear a burden and enter in at the gates of Jerusalem on the Sabbath day, then I will kindle a fire in its gates, and it will devour the palaces of Jerusalem. It will not be quenched.”’”

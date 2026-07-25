@@ -48,79 +48,64 @@ After they were silent, James answered, “Brothers, listen to me.
 Simeon has reported how God first visited the nations, to take out of them a people for his name.
 
 ### 15
-This agrees with the words of the prophets. As it is written,
+This agrees with the words of the prophets. As it is written, ‘After these things I will return. I will again build the tabernacle of David, which has fallen. I will again build its ruins. I will set it up,
 
 ### 16
-‘After these things I will return. I will again build the tabernacle of David, which has fallen. I will again build its ruins. I will set it up,
-
-### 17
 That the rest of men may seek after the Lord; all the Gentiles who are called by my name, says the Lord, who does all these things.
 
-### 18
+### 17
 All of God’s works are known to him from eternity.’
 
+### 18
+“Therefore my judgment is that we don’t trouble those from among the Gentiles who turn to God, but that we write to them that they abstain from the pollution of idols, from sexual immorality, from what is strangled, and from blood.
+
 ### 19
-“Therefore my judgment is that we don’t trouble those from among the Gentiles who turn to God,
-
-### 20
-but that we write to them that they abstain from the pollution of idols, from sexual immorality, from what is strangled, and from blood.
-
-### 21
 For Moses from generations of old has in every city those who preach him, being read in the synagogues every Sabbath.”
 
-### 22
+### 20
 Then it seemed good to the apostles and the elders, with the whole assembly, to choose men out of their company, and send them to Antioch with Paul and Barnabas: Judas called Barsabbas, and Silas, chief men among the brothers.
 
-### 23
+### 21
 They wrote these things by their hand: “The apostles, the elders, and the brothers, to the brothers who are of the Gentiles in Antioch, Syria, and Cilicia: greetings.
 
-### 24
-Because we have heard that some who went out from us have troubled you with words, unsettling your souls, saying, ‘You must be circumcised and keep the law,’ to whom we gave no commandment;
+### 22
+Because we have heard that some who went out from us have troubled you with words, unsettling your souls, saying, ‘You must be circumcised and keep the law,’ to whom we gave no commandment; it seemed good to us, having come to one accord, to choose out men and send them to you with our beloved Barnabas and Paul,
 
-### 25
-it seemed good to us, having come to one accord, to choose out men and send them to you with our beloved Barnabas and Paul,
-
-### 26
+### 23
 men who have risked their lives for the name of our Lord Jesus Christ.
 
-### 27
+### 24
 We have sent therefore Judas and Silas, who themselves will also tell you the same things by word of mouth.
 
-### 28
-For it seemed good to the Holy Spirit, and to us, to lay no greater burden on you than these necessary things:
+### 25
+For it seemed good to the Holy Spirit, and to us, to lay no greater burden on you than these necessary things: that you abstain from things sacrificed to idols, from blood, from things strangled, and from sexual immorality, from which if you keep yourselves, it will be well with you. Farewell.”
 
-### 29
-that you abstain from things sacrificed to idols, from blood, from things strangled, and from sexual immorality, from which if you keep yourselves, it will be well with you. Farewell.”
-
-### 30
+### 26
 So, when they were sent off, they came to Antioch. Having gathered the multitude together, they delivered the letter.
 
-### 31
+### 27
 When they had read it, they rejoiced over the encouragement.
 
-### 32
+### 28
 Judas and Silas, also being prophets themselves, encouraged the brothers with many words, and strengthened them.
 
-### 33
+### 29
 After they had spent some time there, they were sent back with greetings from the brothers to the apostles.
 
-### 34
+### 30
 But Paul and Barnabas stayed in Antioch, teaching and preaching the word of the Lord, with many others also.
 
-### 35
+### 31
 After some days Paul said to Barnabas, “Let’s return now and visit our brothers in every city in which we proclaimed the word of the Lord, to see how they are doing.”
 
-### 36
+### 32
 Barnabas planned to take John, who was called Mark, with them also.
 
-### 37
+### 33
 But Paul didn’t think that it was a good idea to take with them someone who had withdrawn from them in Pamphylia, and didn’t go with them to do the work.
 
-### 38
-Then the contention grew so sharp that they separated from each other. Barnabas took Mark with him, and sailed away to Cyprus,
+### 34
+Then the contention grew so sharp that they separated from each other. Barnabas took Mark with him, and sailed away to Cyprus, but Paul chose Silas, and went out, being commended by the brothers to the grace of God.
 
-### 39
-but Paul chose Silas, and went out, being commended by the brothers to the grace of God.
-
-### 40
+### 35
 He went through Syria and Cilicia, strengthening the assemblies.

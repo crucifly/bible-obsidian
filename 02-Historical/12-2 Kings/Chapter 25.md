@@ -57,40 +57,31 @@ The two pillars, the one sea, and the bases, which Solomon had made for Yahweh�
 The height of the one pillar was eighteen cubits, and a capital of brass was on it. The height of the capital was three cubits, with network and pomegranates on the capital around it, all of brass; and the second pillar with its network was like these.
 
 ### 18
-The captain of the guard took Seraiah the chief priest, Zephaniah the second priest, and the three keepers of the threshold;
+The captain of the guard took Seraiah the chief priest, Zephaniah the second priest, and the three keepers of the threshold; and out of the city he took an officer who was set over the men of war; and five men of those who saw the king’s face, who were found in the city; and the scribe, the captain of the army, who mustered the people of the land; and sixty men of the people of the land, who were found in the city.
 
 ### 19
-and out of the city he took an officer who was set over the men of war; and five men of those who saw the king’s face, who were found in the city; and the scribe, the captain of the army, who mustered the people of the land; and sixty men of the people of the land, who were found in the city.
-
-### 20
 Nebuzaradan the captain of the guard took them, and brought them to the king of Babylon to Riblah.
 
-### 21
+### 20
 The king of Babylon attacked them, and put them to death at Riblah in the land of Hamath. So Judah was carried away captive out of his land.
 
-### 22
+### 21
 As for the people who were left in the land of Judah, whom Nebuchadnezzar king of Babylon had left, even over them he made Gedaliah the son of Ahikam, the son of Shaphan, governor.
 
-### 23
+### 22
 Now when all the captains of the forces, they and their men, heard that the king of Babylon had made Gedaliah governor, they came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Kareah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of the Maacathite, they and their men.
 
-### 24
+### 23
 Gedaliah swore to them and to their men, and said to them, “Don’t be afraid because of the servants of the Chaldeans. Dwell in the land, and serve the king of Babylon, and it will be well with you.”
 
-### 25
+### 24
 But in the seventh month, Ishmael the son of Nethaniah, the son of Elishama, of the royal offspring came, and ten men with him, and struck Gedaliah, so that he died, with the Jews and the Chaldeans that were with him at Mizpah.
 
-### 26
+### 25
 All the people, both small and great, and the captains of the forces, arose, and came to Egypt; for they were afraid of the Chaldeans.
 
+### 26
+In the thirty-seventh year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the twenty-seventh day of the month, Evilmerodach king of Babylon, in the year that he began to reign, lifted up the head of Jehoiachin king of Judah out of prison; and he spoke kindly to him, and set his throne above the throne of the kings who were with him in Babylon,
+
 ### 27
-In the thirty-seventh year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the twenty-seventh day of the month, Evilmerodach king of Babylon, in the year that he began to reign, lifted up the head of Jehoiachin king of Judah out of prison;
-
-### 28
-and he spoke kindly to him, and set his throne above the throne of the kings who were with him in Babylon,
-
-### 29
-and changed his prison garments. Jehoiachin ate bread before him continually all the days of his life;
-
-### 30
-and for his allowance, there was a continual allowance given him from the king, every day a portion, all the days of his life.
+and changed his prison garments. Jehoiachin ate bread before him continually all the days of his life; and for his allowance, there was a continual allowance given him from the king, every day a portion, all the days of his life.

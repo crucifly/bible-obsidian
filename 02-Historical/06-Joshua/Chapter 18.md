@@ -66,25 +66,13 @@ The border passed along to the side of Beth Hoglah northward; and the border end
 The Jordan was its border on the east quarter. This was the inheritance of the children of Benjamin, by the borders around it, according to their families.
 
 ### 21
-Now the cities of the tribe of the children of Benjamin according to their families were Jericho, Beth Hoglah, Emek Keziz,
+Now the cities of the tribe of the children of Benjamin according to their families were Jericho, Beth Hoglah, Emek Keziz, Beth Arabah, Zemaraim, Bethel,
 
 ### 22
-Beth Arabah, Zemaraim, Bethel,
+Avvim, Parah, Ophrah, Chephar Ammoni, Ophni, and Geba; twelve cities with their villages.
 
 ### 23
-Avvim, Parah, Ophrah,
+Gibeon, Ramah, Beeroth, Mizpeh, Chephirah, Mozah,
 
 ### 24
-Chephar Ammoni, Ophni, and Geba; twelve cities with their villages.
-
-### 25
-Gibeon, Ramah, Beeroth,
-
-### 26
-Mizpeh, Chephirah, Mozah,
-
-### 27
-Rekem, Irpeel, Taralah,
-
-### 28
-Zelah, Eleph, the Jebusite (also called Jerusalem), Gibeath, and Kiriath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families.
+Rekem, Irpeel, Taralah, Zelah, Eleph, the Jebusite (also called Jerusalem), Gibeath, and Kiriath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families.

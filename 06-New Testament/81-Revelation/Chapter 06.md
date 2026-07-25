@@ -51,7 +51,4 @@ The sky was removed like a scroll when it is rolled up. Every mountain and islan
 The kings of the earth, the princes, the commanding officers, the rich, the strong, and every slave and free person, hid themselves in the caves and in the rocks of the mountains.
 
 ### 16
-They told the mountains and the rocks, “Fall on us, and hide us from the face of him who sits on the throne, and from the wrath of the Lamb,
-
-### 17
-for the great day of his wrath has come; and who is able to stand?”
+They told the mountains and the rocks, “Fall on us, and hide us from the face of him who sits on the throne, and from the wrath of the Lamb, for the great day of his wrath has come; and who is able to stand?”

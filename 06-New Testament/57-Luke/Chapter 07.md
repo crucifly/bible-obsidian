@@ -15,142 +15,139 @@ A certain centurion’s servant, who was dear to him, was sick and at the point 
 When he heard about Jesus, he sent to him elders of the Jews, asking him to come and save his servant.
 
 ### 4
-When they came to Jesus, they begged him earnestly, saying, “He is worthy for you to do this for him,
+When they came to Jesus, they begged him earnestly, saying, “He is worthy for you to do this for him, for he loves our nation, and he built our synagogue for us.”
 
 ### 5
-for he loves our nation, and he built our synagogue for us.”
-
-### 6
 Jesus went with them. When he was now not far from the house, the centurion sent friends to him, saying to him, “Lord, don’t trouble yourself, for I am not worthy for you to come under my roof.
 
-### 7
+### 6
 Therefore I didn’t even think myself worthy to come to you; but say the word, and my servant will be healed.
 
-### 8
+### 7
 For I also am a man placed under authority, having under myself soldiers. I tell this one, ‘Go!’ and he goes; and to another, ‘Come!’ and he comes; and to my servant, ‘Do this,’ and he does it.”
 
-### 9
+### 8
 When Jesus heard these things, he marveled at him, and turned and said to the multitude who followed him, “I tell you, I have not found such great faith, no, not in Israel.”
 
-### 10
+### 9
 Those who were sent, returning to the house, found that the servant who had been sick was well.
 
-### 11
+### 10
 Soon afterwards, he went to a city called Nain. Many of his disciples, along with a great multitude, went with him.
 
-### 12
+### 11
 Now when he came near to the gate of the city, behold, one who was dead was carried out, the only son of his mother, and she was a widow. Many people of the city were with her.
 
-### 13
+### 12
 When the Lord saw her, he had compassion on her, and said to her, “Don’t cry.”
 
-### 14
+### 13
 He came near and touched the coffin, and the bearers stood still. He said, “Young man, I tell you, arise!”
 
-### 15
+### 14
 He who was dead sat up, and began to speak. And he gave him to his mother.
 
-### 16
+### 15
 Fear took hold of all, and they glorified God, saying, “A great prophet has arisen among us!” and, “God has visited his people!”
 
-### 17
+### 16
 This report went out concerning him in the whole of Judea, and in all the surrounding region.
 
-### 18
+### 17
 The disciples of John told him about all these things.
 
-### 19
+### 18
 John, calling to himself two of his disciples, sent them to Jesus, saying, “Are you the one who is coming, or should we look for another?”
 
-### 20
+### 19
 When the men had come to him, they said, “John the Baptizer has sent us to you, saying, ‘Are you he who comes, or should we look for another?’”
 
-### 21
+### 20
 In that hour he cured many of diseases and plagues and evil spirits; and to many who were blind he gave sight.
 
-### 22
+### 21
 Jesus answered them, “Go and tell John the things which you have seen and heard: that the blind receive their sight, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised up, and the poor have good news preached to them.
 
-### 23
+### 22
 Blessed is he who finds no occasion for stumbling in me.”
 
-### 24
+### 23
 When John’s messengers had departed, he began to tell the multitudes about John, “What did you go out into the wilderness to see? A reed shaken by the wind?
 
-### 25
+### 24
 But what did you go out to see? A man clothed in soft clothing? Behold, those who are gorgeously dressed, and live delicately, are in kings’ courts.
 
-### 26
+### 25
 But what did you go out to see? A prophet? Yes, I tell you, and much more than a prophet.
 
-### 27
+### 26
 This is he of whom it is written, ‘Behold, I send my messenger before your face, who will prepare your way before you.’
 
-### 28
+### 27
 “For I tell you, among those who are born of women there is not a greater prophet than John the Baptizer, yet he who is least in God’s Kingdom is greater than he.”
 
-### 29
+### 28
 When all the people and the tax collectors heard this, they declared God to be just, having been baptized with John’s baptism.
 
-### 30
+### 29
 But the Pharisees and the lawyers rejected the counsel of God, not being baptized by him themselves.
 
-### 31
+### 30
 “To what then will I liken the people of this generation? What are they like?
 
-### 32
+### 31
 They are like children who sit in the marketplace, and call to one another, saying, ‘We piped to you, and you didn’t dance. We mourned, and you didn’t weep.’
 
-### 33
+### 32
 For John the Baptizer came neither eating bread nor drinking wine, and you say, ‘He has a demon.’
 
-### 34
+### 33
 The Son of Man has come eating and drinking, and you say, ‘Behold, a gluttonous man, and a drunkard; a friend of tax collectors and sinners!’
 
-### 35
+### 34
 Wisdom is justified by all her children.”
 
-### 36
+### 35
 One of the Pharisees invited him to eat with him. He entered into the Pharisee’s house, and sat at the table.
 
-### 37
+### 36
 Behold, a woman in the city who was a sinner, when she knew that he was reclining in the Pharisee’s house, brought an alabaster jar of ointment.
 
-### 38
+### 37
 Standing behind at his feet weeping, she began to wet his feet with her tears, and she wiped them with the hair of her head, kissed his feet, and anointed them with the ointment.
 
-### 39
+### 38
 Now when the Pharisee who had invited him saw it, he said to himself, “This man, if he were a prophet, would have perceived who and what kind of woman this is who touches him, that she is a sinner.”
 
-### 40
+### 39
 Jesus answered him, “Simon, I have something to tell you.” He said, “Teacher, say on.”
 
-### 41
+### 40
 “A certain lender had two debtors. The one owed five hundred denarii, and the other fifty.
 
-### 42
+### 41
 When they couldn’t pay, he forgave them both. Which of them therefore will love him most?”
 
-### 43
+### 42
 Simon answered, “He, I suppose, to whom he forgave the most.” He said to him, “You have judged correctly.”
 
-### 44
+### 43
 Turning to the woman, he said to Simon, “Do you see this woman? I entered into your house, and you gave me no water for my feet, but she has wet my feet with her tears, and wiped them with the hair of her head.
 
-### 45
+### 44
 You gave me no kiss, but she, since the time I came in, has not ceased to kiss my feet.
 
-### 46
+### 45
 You didn’t anoint my head with oil, but she has anointed my feet with ointment.
 
-### 47
+### 46
 Therefore I tell you, her sins, which are many, are forgiven, for she loved much. But to whom little is forgiven, the same loves little.”
 
-### 48
+### 47
 He said to her, “Your sins are forgiven.”
 
-### 49
+### 48
 Those who sat at the table with him began to say to themselves, “Who is this who even forgives sins?”
 
-### 50
+### 49
 He said to the woman, “Your faith has saved you. Go in peace.”

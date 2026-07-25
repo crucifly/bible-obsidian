@@ -36,10 +36,7 @@ They cut off his head, stripped off his armor, and sent into the land of the Phi
 They put his armor in the house of the Ashtaroth, and they fastened his body to the wall of Beth Shan.
 
 ### 11
-When the inhabitants of Jabesh Gilead heard what the Philistines had done to Saul,
+When the inhabitants of Jabesh Gilead heard what the Philistines had done to Saul, all the valiant men arose, went all night, and took the body of Saul and the bodies of his sons from the wall of Beth Shan; and they came to Jabesh, and burned them there.
 
 ### 12
-all the valiant men arose, went all night, and took the body of Saul and the bodies of his sons from the wall of Beth Shan; and they came to Jabesh, and burned them there.
-
-### 13
 They took their bones and buried them under the tamarisk tree in Jabesh, and fasted seven days.

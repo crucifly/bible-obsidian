@@ -27,76 +27,73 @@ Now may Yahweh show loving kindness and truth to you. I also will reward you for
 Now therefore let your hands be strong, and be valiant; for Saul your lord is dead, and also the house of Judah have anointed me king over them.”
 
 ### 8
-Now Abner the son of Ner, captain of Saul’s army, had taken Ishbosheth the son of Saul, and brought him over to Mahanaim;
+Now Abner the son of Ner, captain of Saul’s army, had taken Ishbosheth the son of Saul, and brought him over to Mahanaim; and he made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel.
 
 ### 9
-and he made him king over Gilead, and over the Ashurites, and over Jezreel, and over Ephraim, and over Benjamin, and over all Israel.
-
-### 10
 Ishbosheth, Saul’s son, was forty years old when he began to reign over Israel, and he reigned two years. But the house of Judah followed David.
 
-### 11
+### 10
 The time that David was king in Hebron over the house of Judah was seven years and six months.
 
-### 12
+### 11
 Abner the son of Ner, and the servants of Ishbosheth the son of Saul, went out from Mahanaim to Gibeon.
 
-### 13
+### 12
 Joab the son of Zeruiah and David’s servants went out, and met them by the pool of Gibeon; and they sat down, the one on the one side of the pool, and the other on the other side of the pool.
 
-### 14
+### 13
 Abner said to Joab, “Please let the young men arise and play before us!” Joab said, “Let them arise!”
 
-### 15
+### 14
 Then they arose and went over by number: twelve for Benjamin and for Ishbosheth the son of Saul, and twelve of David’s servants.
 
-### 16
+### 15
 They each caught his opponent by the head, and thrust his sword in his fellow’s side; so they fell down together: therefore that place in Gibeon was called Helkath Hazzurim.
 
-### 17
+### 16
 The battle was very severe that day; and Abner was beaten, and the men of Israel, before David’s servants.
 
-### 18
+### 17
 The three sons of Zeruiah were there, Joab, and Abishai, and Asahel: and Asahel was as light of foot as a wild gazelle.
 
-### 19
+### 18
 Asahel pursued Abner; and in going he didn’t turn to the right hand or to the left from following Abner.
 
-### 20
+### 19
 Then Abner looked behind him, and said, “Is that you, Asahel?” He answered, “It is.”
 
-### 21
+### 20
 Abner said to him, “Turn away to your right hand or to your left, and grab one of the young men, and take his armor.” But Asahel would not turn away from following him.
 
-### 22
+### 21
 Abner said again to Asahel, “Turn away from following me. Why should I strike you to the ground? How then could I look Joab your brother in the face?”
 
-### 23
+### 22
 However he refused to turn away. Therefore Abner with the back end of the spear struck him in the body, so that the spear came out behind him; and he fell down there, and died in the same place. As many as came to the place where Asahel fell down and died stood still.
 
-### 24
+### 23
 But Joab and Abishai pursued Abner. The sun went down when they had come to the hill of Ammah, that lies before Giah by the way of the wilderness of Gibeon.
 
-### 25
+### 24
 The children of Benjamin gathered themselves together after Abner, and became one band, and stood on the top of a hill.
 
-### 26
+### 25
 Then Abner called to Joab, and said, “Shall the sword devour forever? Don’t you know that it will be bitterness in the latter end? How long will it be then, before you ask the people to return from following their brothers?”
 
-### 27
+### 26
 Joab said, “As God lives, if you had not spoken, surely then in the morning the people would have gone away, and not each followed his brother.”
 
-### 28
+### 27
 So Joab blew the trumpet; and all the people stood still, and pursued Israel no more, and they fought no more.
 
-### 29
+### 28
 Abner and his men went all that night through the Arabah; and they passed over the Jordan, and went through all Bithron, and came to Mahanaim.
 
-### 30
+### 29
 Joab returned from following Abner; and when he had gathered all the people together, nineteen men of David’s and Asahel were missing.
 
-### 31
+### 30
 But David’s servants had struck Benjamin and of Abner’s men so that three hundred sixty men died.
 
-### 32
+### 31
 They took up Asahel, and buried him in the tomb of his father, which was in Bethlehem. Joab and his men went all night, and the day broke on them at Hebron.

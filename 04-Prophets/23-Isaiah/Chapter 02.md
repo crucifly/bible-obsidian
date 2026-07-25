@@ -39,34 +39,25 @@ Enter into the rock, and hide in the dust, from before the terror of Yahweh, and
 The lofty looks of man will be brought low, the haughtiness of men will be bowed down, and Yahweh alone will be exalted in that day.
 
 ### 12
-For there will be a day of Yahweh of Armies for all that is proud and haughty, and for all that is lifted up; and it shall be brought low:
+For there will be a day of Yahweh of Armies for all that is proud and haughty, and for all that is lifted up; and it shall be brought low: For all the cedars of Lebanon, that are high and lifted up, for all the oaks of Bashan,
 
 ### 13
-For all the cedars of Lebanon, that are high and lifted up, for all the oaks of Bashan,
+For all the high mountains, for all the hills that are lifted up, For every lofty tower, for every fortified wall,
 
 ### 14
-For all the high mountains, for all the hills that are lifted up,
-
-### 15
-For every lofty tower, for every fortified wall,
-
-### 16
 For all the ships of Tarshish, and for all pleasant imagery.
 
-### 17
+### 15
 The loftiness of man shall be bowed down, and the haughtiness of men shall be brought low; and Yahweh alone shall be exalted in that day.
 
-### 18
+### 16
 The idols shall utterly pass away.
 
-### 19
+### 17
 Men shall go into the caves of the rocks, and into the holes of the earth, from before the terror of Yahweh, and from the glory of his majesty, when he arises to shake the earth mightily.
 
-### 20
-In that day, men shall cast away their idols of silver, and their idols of gold, which have been made for themselves to worship, to the moles and to the bats;
+### 18
+In that day, men shall cast away their idols of silver, and their idols of gold, which have been made for themselves to worship, to the moles and to the bats; To go into the caverns of the rocks, and into the clefts of the ragged rocks, from before the terror of Yahweh, and from the glory of his majesty, when he arises to shake the earth mightily.
 
-### 21
-To go into the caverns of the rocks, and into the clefts of the ragged rocks, from before the terror of Yahweh, and from the glory of his majesty, when he arises to shake the earth mightily.
-
-### 22
+### 19
 Stop trusting in man, whose breath is in his nostrils; for of what account is he?

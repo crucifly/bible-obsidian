@@ -42,43 +42,37 @@ I will weep and wail for the mountains, and lament for the pastures of the wilde
 Who is wise enough to understand this? Who is he to whom the mouth of Yahweh has spoken, that he may declare it? Why has the land perished and burned up like a wilderness, so that no one passes through?
 
 ### 13
-Yahweh says, “Because they have forsaken my law which I set before them, and have not obeyed my voice, neither walked therein,
+Yahweh says, “Because they have forsaken my law which I set before them, and have not obeyed my voice, neither walked therein, but have walked after the stubbornness of their own heart, and after the Baals, which their fathers taught them.”
 
 ### 14
-but have walked after the stubbornness of their own heart, and after the Baals, which their fathers taught them.”
-
-### 15
 Therefore Yahweh of Armies, the God of Israel, says, “Behold, I will feed them, even this people, with wormwood, and give them water of gall to drink.
 
-### 16
+### 15
 I will scatter them also among the nations, whom neither they nor their fathers have known; and I will send the sword after them, until I have consumed them.”
 
-### 17
+### 16
 Yahweh of Armies says, “Consider, and call for the mourning women, that they may come; and send for the skillful women, that they may come.
 
-### 18
+### 17
 Let them make haste, and take up a wailing for us, that our eyes may run down with tears, and our eyelids gush out with waters.
 
-### 19
+### 18
 For a voice of wailing is heard out of Zion, ‘How we are ruined! We are greatly confounded, because we have forsaken the land, because they have cast down our dwellings.’”
 
-### 20
+### 19
 Yet hear Yahweh’s word, you women. Let your ear receive the word of his mouth. Teach your daughters wailing, and everyone her neighbor lamentation.
 
-### 21
+### 20
 For death has come up into our windows. It has entered into our palaces to cut off the children from outside, and the young men from the streets.
 
-### 22
+### 21
 Speak, “Yahweh says, “‘The dead bodies of men will fall as dung on the open field, and as the handful after the harvester; and no one will gather them.’”
 
-### 23
+### 22
 Yahweh says, “Don’t let the wise man glory in his wisdom. Don’t let the mighty man glory in his might. Don’t let the rich man glory in his riches.
 
-### 24
+### 23
 But let him who glories glory in this, that he has understanding, and knows me, that I am Yahweh who exercises loving kindness, justice, and righteousness, in the earth; for I delight in these things,” says Yahweh.
 
-### 25
-“Behold, the days come,” says Yahweh, “that I will punish all those who are circumcised only in their flesh:
-
-### 26
-Egypt, Judah, Edom, the children of Ammon, Moab, and all who have the corners of their hair cut off, who dwell in the wilderness; for all the nations are uncircumcised, and all the house of Israel are uncircumcised in heart.”
+### 24
+“Behold, the days come,” says Yahweh, “that I will punish all those who are circumcised only in their flesh: Egypt, Judah, Edom, the children of Ammon, Moab, and all who have the corners of their hair cut off, who dwell in the wilderness; for all the nations are uncircumcised, and all the house of Israel are uncircumcised in heart.”

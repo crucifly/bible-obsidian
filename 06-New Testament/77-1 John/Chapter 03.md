@@ -36,43 +36,34 @@ Whoever is born of God doesn’t commit sin, because his seed remains in him; an
 In this the children of God are revealed, and the children of the devil. Whoever doesn’t do righteousness is not of God, neither is he who doesn’t love his brother.
 
 ### 11
-For this is the message which you heard from the beginning, that we should love one another;
+For this is the message which you heard from the beginning, that we should love one another; unlike Cain, who was of the evil one, and killed his brother. Why did he kill him? Because his deeds were evil, and his brother’s righteous.
 
 ### 12
-unlike Cain, who was of the evil one, and killed his brother. Why did he kill him? Because his deeds were evil, and his brother’s righteous.
-
-### 13
 Don’t be surprised, my brothers, if the world hates you.
 
-### 14
+### 13
 We know that we have passed out of death into life, because we love the brothers. He who doesn’t love his brother remains in death.
 
-### 15
+### 14
 Whoever hates his brother is a murderer, and you know that no murderer has eternal life remaining in him.
 
-### 16
+### 15
 By this we know love, because he laid down his life for us. And we ought to lay down our lives for the brothers.
 
-### 17
+### 16
 But whoever has the world’s goods, and sees his brother in need, and closes his heart of compassion against him, how does God’s love remain in him?
 
-### 18
+### 17
 My little children, let’s not love in word only, or with the tongue only, but in deed and truth.
 
+### 18
+And by this we know that we are of the truth, and persuade our hearts before him, because if our heart condemns us, God is greater than our heart, and knows all things.
+
 ### 19
-And by this we know that we are of the truth, and persuade our hearts before him,
+Beloved, if our hearts don’t condemn us, we have boldness toward God; and whatever we ask, we receive from him, because we keep his commandments and do the things that are pleasing in his sight.
 
 ### 20
-because if our heart condemns us, God is greater than our heart, and knows all things.
-
-### 21
-Beloved, if our hearts don’t condemn us, we have boldness toward God;
-
-### 22
-and whatever we ask, we receive from him, because we keep his commandments and do the things that are pleasing in his sight.
-
-### 23
 This is his commandment, that we should believe in the name of his Son, Jesus Christ, and love one another, even as he commanded.
 
-### 24
+### 21
 He who keeps his commandments remains in him, and he in him. By this we know that he remains in us, by the Spirit which he gave us.

@@ -66,28 +66,22 @@ Wisdom is a strength to the wise man more than ten rulers who are in a city.
 Surely there is not a righteous man on earth, who does good and doesn’t sin.
 
 ### 21
-Also don’t take heed to all words that are spoken, lest you hear your servant curse you;
+Also don’t take heed to all words that are spoken, lest you hear your servant curse you; for often your own heart knows that you yourself have likewise cursed others.
 
 ### 22
-for often your own heart knows that you yourself have likewise cursed others.
-
-### 23
 All this I have proved in wisdom. I said, “I will be wise”; but it was far from me.
 
-### 24
+### 23
 That which is, is far off and exceedingly deep. Who can find it out?
 
-### 25
+### 24
 I turned around, and my heart sought to know and to search out, and to seek wisdom and the scheme of things, and to know that wickedness is stupidity, and that foolishness is madness.
 
-### 26
+### 25
 I find more bitter than death the woman whose heart is snares and traps, whose hands are chains. Whoever pleases God shall escape from her; but the sinner will be ensnared by her.
 
+### 26
+“Behold, I have found this,” says the Preacher, “to one another, to find out the scheme; which my soul still seeks; but I have not found. I have found one man among a thousand; but I have not found a woman among all those.
+
 ### 27
-“Behold, I have found this,” says the Preacher, “to one another, to find out the scheme;
-
-### 28
-which my soul still seeks; but I have not found. I have found one man among a thousand; but I have not found a woman among all those.
-
-### 29
 Behold, I have only found this: that God made man upright; but they search for many schemes.”

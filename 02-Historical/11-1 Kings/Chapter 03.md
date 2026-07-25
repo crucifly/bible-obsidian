@@ -36,55 +36,52 @@ Give your servant therefore an understanding heart to judge your people, that I 
 This request pleased the Lord, that Solomon had asked this thing.
 
 ### 11
-God said to him, “Because you have asked this thing, and have not asked for yourself long life, nor have you asked for riches for yourself, nor have you asked for the life of your enemies, but have asked for yourself understanding to discern justice;
+God said to him, “Because you have asked this thing, and have not asked for yourself long life, nor have you asked for riches for yourself, nor have you asked for the life of your enemies, but have asked for yourself understanding to discern justice; behold, I have done according to your word. Behold, I have given you a wise and understanding heart; so that there has been no one like you before you, and after you none will arise like you.
 
 ### 12
-behold, I have done according to your word. Behold, I have given you a wise and understanding heart; so that there has been no one like you before you, and after you none will arise like you.
-
-### 13
 I have also given you that which you have not asked, both riches and honor, so that there will not be any among the kings like you for all your days.
 
-### 14
+### 13
 If you will walk in my ways, to keep my statutes and my commandments, as your father David walked, then I will lengthen your days.”
 
-### 15
+### 14
 Solomon awoke; and behold, it was a dream. Then he came to Jerusalem, and stood before the ark of Yahweh’s covenant, and offered up burnt offerings, offered peace offerings, and made a feast for all his servants.
 
-### 16
+### 15
 Then two women who were prostitutes came to the king, and stood before him.
 
-### 17
+### 16
 The one woman said, “Oh, my lord, I and this woman dwell in one house. I delivered a child with her in the house.
 
-### 18
+### 17
 The third day after I delivered, this woman delivered also. We were together. There was no stranger with us in the house, just us two in the house.
 
-### 19
+### 18
 This woman’s child died in the night, because she lay on it.
 
-### 20
+### 19
 She arose at midnight, and took my son from beside me, while your servant slept, and laid it in her bosom, and laid her dead child in my bosom.
 
-### 21
+### 20
 When I rose in the morning to nurse my child, behold, it was dead; but when I had looked at it in the morning, behold, it was not my son, whom I bore.”
 
-### 22
+### 21
 The other woman said, “No; but the living one is my son, and the dead one is your son.” The first one said, “No; but the dead one is your son, and the living one is my son.” Thus they spoke before the king.
 
-### 23
+### 22
 Then the king said, “One says, ‘This is my son who lives, and your son is the dead;’ and the other says, ‘No; but your son is the dead one, and my son is the living one.’”
 
-### 24
+### 23
 The king said, “Get me a sword.” So they brought a sword before the king.
 
-### 25
+### 24
 The king said, “Divide the living child in two, and give half to the one, and half to the other.”
 
-### 26
+### 25
 Then the woman whose the living child was spoke to the king, for her heart yearned over her son, and she said, “Oh, my lord, give her the living child, and in no way kill him!” But the other said, “He shall be neither mine nor yours. Divide him.”
 
-### 27
+### 26
 Then the king answered, “Give her the living child, and definitely do not kill him. She is his mother.”
 
-### 28
+### 27
 All Israel heard of the judgment which the king had judged; and they feared the king; for they saw that the wisdom of God was in him, to do justice.

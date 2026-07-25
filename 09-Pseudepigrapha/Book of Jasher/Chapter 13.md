@@ -71,58 +71,40 @@ At that time Abram returned and went to Haran to see his father and mother, and 
 And many of the people of Haran, about seventy-two men, followed Abram and Abram taught them the instruction of the Lord and his ways, and he taught them to know the Lord.
 
 ### 21
-In those days the Lord appeared to Abram in Haran, and he said to him, Behold, I spoke unto thee these twenty years back saying,
+In those days the Lord appeared to Abram in Haran, and he said to him, Behold, I spoke unto thee these twenty years back saying, Go forth from thy land, from thy birth-place and from thy father's house, to the land which I have shown thee to give it to thee and to thy children, for there in that land will I bless thee, and make thee a great nation, and make thy name great, and in thee shall the families of the earth be blessed.
 
 ### 22
-Go forth from thy land, from thy birth-place and from thy father's house, to the land which I have shown thee to give it to thee and to thy children, for there in that land will I bless thee, and make thee a great nation, and make thy name great, and in thee shall the families of the earth be blessed.
-
-### 23
 Now therefore arise, go forth from this place, thou, thy wife, and all belonging to thee, also every one born in thy house and all the souls thou hast made in Haran, and bring them out with thee from here, and rise to return to the land of Canaan.
 
-### 24
+### 23
 And Abram arose and took his wife Sarai and all belonging to him and all that were born to him in his house and the souls which they had made in Haran, and they came out to go to the land of Canaan.
 
-### 25
+### 24
 And Abram went and returned to the land of Canaan, according to the word of the Lord. And Lot the son of his brother Haran went with him, and Abram was seventy-five years old when he went forth from Haran to return to the land of Canaan.
 
-### 26
+### 25
 And he came to the land of Canaan according to the word of the Lord to Abram, and he pitched his tent and he dwelt in the plain of Mamre, and with him was Lot his brother's son, and all belonging to him.
 
-### 27
+### 26
 And the Lord again appeared to Abram and said, To thy seed will I give this land; and he there built an altar to the Lord who appeared to him, which is still to this day in the plains of Mamre.
 
-### 28
+### 27
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_13&oldid=11445875"
 
+### 28
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:43.
+
 ### 29
-Hidden categories: SubpagesHeaders applying DefaultSort key
-
-### 30
-This page was last edited on 30 June 2021, at 01:43.
-
-### 31
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 30
+Privacy policy Disclaimers
+
+### 31
+Code of Conduct Developers
+
 ### 32
-Privacy policy
+Statistics Cookie statement
 
 ### 33
-Disclaimers
-
-### 34
-Code of Conduct
-
-### 35
-Developers
-
-### 36
-Statistics
-
-### 37
-Cookie statement
-
-### 38
-Mobile view
-
-### 39
-Add topic
+Mobile view Add topic

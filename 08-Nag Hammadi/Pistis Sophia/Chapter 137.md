@@ -12,67 +12,58 @@ translation: G.R.S. Mead
 **Chapter 137**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next
 
 ### 2
-Next
-
-### 3
 A FIFTH BOOK CHAPTER 136.
 
-### 4
+### 3
 The disciples gather round Jesus.IT came to pass then, when Jesus our Lord had been crucified and had risen from the dead on the third day, that his disciples gathered round him, adored him and said: "Our Lord, have mercy upon us, for we have abandoned father and mother and the whole world and have followed thee."
 
-### 5
+### 4
 The invocation of Jesus.At that time Jesus stood with his disciples on the water of the Ocean and made invocation with this prayer, saying: "Hear me, my Father, father of all fatherhood, boundless Light: aeēiouō iaō aōi ōia psinōther thernōps nōpsither zagourē pagourē nethmomaōth nepsiomaōth marachachtha thōbarrabau tharnachachan zorokothora ieou [= Yew] sabaōth."
 
-### 6
+### 5
 The grouping of the disciples.And while Jesus said this, Thomas, Andrew, James and Simon the Cananite were in the west with their faces turned towards the east, and Philip and Bartholomew were in the south turned towards the north, and the rest of the disciples and the women-disciples stood back of Jesus. But Jesus stood at the altar.
 
+### 6
+The interpretation of iaō.And Jesus made invocation, turning himself towards the four corners of the world with his disciples, who were all clad in linen garments, and saying: "iaō iaō iaō." This is its interpretation: iōta, because the universe hath gone forth; alpha, because it will turn itself back again; ōmega, because the completion of all the completeness will take place.
+
 ### 7
-The interpretation of iaō.And Jesus made invocation, turning himself towards the four corners of the world with his disciples, who were all clad in linen garments, and saying: "iaō iaō iaō." This is its interpretation: iōta, because the universe hath gone
-
-### 8
-forth; alpha, because it will turn itself back again; ōmega, because the completion of all the completeness will take place.
-
-### 9
 He continueth to make invocation.And when Jesus had said this, he said: "iaphtha iaphtha mounaēr mounaēr ermanouēr ermanouēr." That is: "O father of all fatherhood of the boundless [spaces], hear me for the sake of my disciples whom I have led before thee, that they may have faith in all the words of thy truth, and grant all for which I shall invoke thee; for I know the name of the father of the Treasury of the Light."
 
-### 10
+### 8
 The apocalypse of the heavens.Again did Jesus,--that is Aberamenthō,--make invocation, speaking the name of the father of the Treasury of the Light, and said: "Let all the mysteries of the rulers and the authorities and the angels and the archangels and all powers and all things of the invisible god Agrammachamarei and Barbēlō draw near the Leech [Bdella] on one side and withdraw to the right."
 
-### 11
+### 9
 And in that hour all the heavens went to the west, and all the æons and the sphere and their rulers and all their powers flew together to the west to the left of the disk of the sun and the disk of the moon.
 
-### 12
+### 10
 The figures of the disk of the sun and of the moon.And the disk of the sun was a great dragon whose tail was in his mouth and who reached to seven powers of the Left and whom four powers in the form of white horses drew.
 
-### 13
+### 11
 And the base of the moon had the type of a ship which a male and a female dragon steered and two white bulls drew. The figure of a babe was on the stern of the moon who guided the dragons who robbed the light from the rulers. And on its prow was a cat's face.
 
-### 14
+### 12
 And the whole world and the mountains and the seas fled together to the west to the left.
 
-### 15
+### 13
 Jesus and the disciples are transported to the ways of the midst.And Jesus and his disciples remained in the midst in an aëry region on the ways of the way of the midst, which lieth below the sphere. And they came to the first order of the way of the midst. And Jesus stood in the air of its region with his disciples.
 
-### 16
+### 14
 The disciples of Jesus said unto him: "What is this region in which we are?
 
-### 17
+### 15
 Of the repentant and unrepentant rulers.Jesus said: "These are the regions of the way of the midst. For it came to pass, when the rulers of Adamas mutinied and persistently practised congress, procreating rulers, archangels, angels, servitors and decans, that Yew, the father of my father, came forth from the Right and bound them to a Fate-sphere.
 
-### 18
+### 16
 "For there are twelve æons; over six Sabaōth, the Adamas, ruleth, and his brother Yabraōth ruleth over the other six. At that time then Yabraōth with his rulers had faith in the mysteries of the Light and was active in the mysteries of the Light and abandoned the mystery of congress. But Sabaōth, the Adamas, and his rulers have persisted in the practice of congress.
 
-### 19
+### 17
 "And when Yew, the father of my father, saw that Yabraōth had faith, he carried him and all the rulers who had had faith with him, took him unto himself out of the sphere and led him into a purified air in face of the light of the sun between the regions of those of the midst and between [?] the regions of the invisible god. He posted him there with the rulers who had had faith in him.
 
-### 20
-"But he carried Sabaōth, the Adamas, and his
+### 18
+"But he carried Sabaōth, the Adamas, and his rulers who had not been active in the mysteries of the Light, but have been persistently active in the mysteries of congress, and inbound them into the sphere.
 
-### 21
-rulers who had not been active in the mysteries of the Light, but have been persistently active in the mysteries of congress, and inbound them into the sphere.
-
-### 22
+### 19
 Of the hierarchies of the un-repentant rulers and the names of their five regents."He bound eighteen-hundred rulers in every æon, and set three-hundred-and-sixty over them, and he set five other great rulers as lords over the three-hundred-and-sixty and over all the bound rulers, who in the whole world of mankind are called with these names: the first is called Kronos, the second Arēs, the third Hermēs, the fourth Aphroditē, the fifth Zeus."

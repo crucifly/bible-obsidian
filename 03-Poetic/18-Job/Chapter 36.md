@@ -6,100 +6,91 @@ canon: "Poetic"
 # Job 36
 
 ### 1
-Elihu also continued, and said,
+Elihu also continued, and said, “Bear with me a little, and I will show you; for I still have something to say on God’s behalf.
 
 ### 2
-“Bear with me a little, and I will show you; for I still have something to say on God’s behalf.
-
-### 3
 I will get my knowledge from afar, and will ascribe righteousness to my Maker.
 
-### 4
+### 3
 For truly my words are not false. One who is perfect in knowledge is with you.
 
-### 5
+### 4
 “Behold, God is mighty, and doesn’t despise anyone. He is mighty in strength of understanding.
 
-### 6
+### 5
 He doesn’t preserve the life of the wicked, but gives to the afflicted their right.
 
-### 7
+### 6
 He doesn’t withdraw his eyes from the righteous, but with kings on the throne, he sets them forever, and they are exalted.
 
+### 7
+If they are bound in fetters, and are taken in the cords of afflictions, then he shows them their work, and their transgressions, that they have behaved themselves proudly.
+
 ### 8
-If they are bound in fetters, and are taken in the cords of afflictions,
-
-### 9
-then he shows them their work, and their transgressions, that they have behaved themselves proudly.
-
-### 10
 He also opens their ears to instruction, and commands that they return from iniquity.
 
-### 11
+### 9
 If they listen and serve him, they shall spend their days in prosperity, and their years in pleasures.
 
-### 12
+### 10
 But if they don’t listen, they shall perish by the sword; they shall die without knowledge.
 
-### 13
+### 11
 “But those who are godless in heart lay up anger. They don’t cry for help when he binds them.
 
-### 14
+### 12
 They die in youth. Their life perishes among the unclean.
 
-### 15
+### 13
 He delivers the afflicted by their affliction, and opens their ear in oppression.
 
-### 16
+### 14
 Yes, he would have allured you out of distress, into a wide place, where there is no restriction. That which is set on your table would be full of fatness.
 
-### 17
+### 15
 “But you are full of the judgment of the wicked. Judgment and justice take hold of you.
 
-### 18
+### 16
 Don’t let riches entice you to wrath, neither let the great size of a bribe turn you aside.
 
-### 19
+### 17
 Would your wealth sustain you in distress, or all the might of your strength?
 
-### 20
+### 18
 Don’t desire the night, when people are cut off in their place.
 
-### 21
+### 19
 Take heed, don’t regard iniquity; for you have chosen this rather than affliction.
 
-### 22
+### 20
 Behold, God is exalted in his power. Who is a teacher like him?
 
-### 23
+### 21
 Who has prescribed his way for him? Or who can say, ‘You have committed unrighteousness?’
 
-### 24
+### 22
 “Remember that you magnify his work, whereof men have sung.
 
-### 25
+### 23
 All men have looked on it. Man sees it afar off.
 
-### 26
+### 24
 Behold, God is great, and we don’t know him. The number of his years is unsearchable.
 
-### 27
-For he draws up the drops of water, which distill in rain from his vapor,
+### 25
+For he draws up the drops of water, which distill in rain from his vapor, Which the skies pour down and which drop on man abundantly.
 
-### 28
-Which the skies pour down and which drop on man abundantly.
-
-### 29
+### 26
 Yes, can any understand the spreading of the clouds, and the thunderings of his pavilion?
 
-### 30
+### 27
 Behold, he spreads his light around him. He covers the bottom of the sea.
 
-### 31
+### 28
 For by these he judges the people. He gives food in abundance.
 
-### 32
+### 29
 He covers his hands with the lightning, and commands it to strike the mark.
 
-### 33
+### 30
 Its noise tells about him, and the livestock also concerning the storm that comes up.

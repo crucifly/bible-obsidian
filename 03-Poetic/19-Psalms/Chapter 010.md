@@ -54,7 +54,4 @@ Break the arm of the wicked. As for the evil man, seek out his wickedness until 
 Yahweh is King forever and ever! The nations will perish out of his land.
 
 ### 17
-Yahweh, you have heard the desire of the humble. You will prepare their heart. You will cause your ear to hear,
-
-### 18
-to judge the fatherless and the oppressed, that man who is of the earth may terrify no more.
+Yahweh, you have heard the desire of the humble. You will prepare their heart. You will cause your ear to hear, to judge the fatherless and the oppressed, that man who is of the earth may terrify no more.

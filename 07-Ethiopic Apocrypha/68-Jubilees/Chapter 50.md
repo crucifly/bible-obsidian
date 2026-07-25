@@ -39,10 +39,7 @@ For great is the honour which the Lord has given to Israel that they should eat 
 This work alone shall be done on the Sabbath-days in the sanctuary of the Lord your God; that they may atone for Israel with sacrifice continually from day to day for a memorial well-pleasing before the Lord, and that He may receive them always from day to day according as thou hast been commanded.
 
 ### 12
-And every man who does any work thereon, or goes a journey, or tills (his) farm, whether in his house or any other place, and whoever lights a fire, or rides on any beast, or travels by ship on the sea, and whoever strikes or kills anything, or slaughters a beast or a bird, or whoever catches an animal or a bird or a fish, or whoever fasts or makes war on the Sabbaths:
+And every man who does any work thereon, or goes a journey, or tills (his) farm, whether in his house or any other place, and whoever lights a fire, or rides on any beast, or travels by ship on the sea, and whoever strikes or kills anything, or slaughters a beast or a bird, or whoever catches an animal or a bird or a fish, or whoever fasts or makes war on the Sabbaths: The man who does any of these things on the Sabbath shall die, so that the children of Israel shall observe the Sabbaths according to the commandments regarding the Sabbaths of the land, as it is written in the tablets, which He gave into my hands that I should write out for thee the laws of the seasons, and the seasons according to the division of their days.
 
 ### 13
-The man who does any of these things on the Sabbath shall die, so that the children of Israel shall observe the Sabbaths according to the commandments regarding the Sabbaths of the land, as it is written in the tablets, which He gave into my hands that I should write out for thee the laws of the seasons, and the seasons according to the division of their days.
-
-### 14
 Herewith is completed the account of the division of the days.

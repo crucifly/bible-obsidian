@@ -30,25 +30,19 @@ I saw the mountains of the darkness of winter and the place whence all the water
 I saw the mouths of all the rivers of the earth and the mouth of the deep.
 
 ### 9
-And I saw a flaming fire. And beyond these mountains
+And I saw a flaming fire. And beyond these mountains is a region the end of the great earth: there the heavens were completed.
 
 ### 10
-is a region the end of the great earth: there the heavens were completed.
-
-### 11
 And I saw a deep abyss, with columns ⌈⌈of heavenly fire, and among them I saw columns⌉⌉ of fire fall, which were beyond measure alike towards the height and towards the depth.
 
-### 12
+### 11
 And beyond that abyss I saw a place which had no firmament of the heaven above, and no firmly founded earth beneath it: there was no water upon it, and no birds, but it was a waste and horrible place.
 
+### 12
+I saw there seven stars like great burning mountains, and to me, when I inquired regarding them, The angel said: ‘This place is the end of heaven and earth: this has become a prison for the stars and the host of heaven.
+
 ### 13
-I saw there seven stars like great burning mountains, and to me, when I inquired regarding them,
-
-### 14
-The angel said: ‘This place is the end of heaven and earth: this has become a prison for the stars and the host of heaven.
-
-### 15
 And the stars which roll over the fire are they which have transgressed the commandment of the Lord in the beginning of their rising, because they did not come forth at their appointed times.
 
-### 16
+### 14
 And He was wroth with them, and bound them till the time when their guilt should be consummated (even) ⌈for ten thousand years⌉.’

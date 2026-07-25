@@ -24,25 +24,16 @@ Let them praise Yahweh’s name, For he commanded, and they were created.
 He has also established them forever and ever. He has made a decree which will not pass away.
 
 ### 7
-Praise Yahweh from the earth, you great sea creatures, and all depths;
+Praise Yahweh from the earth, you great sea creatures, and all depths; lightning and hail, snow and clouds; stormy wind, fulfilling his word;
 
 ### 8
-lightning and hail, snow and clouds; stormy wind, fulfilling his word;
+mountains and all hills; fruit trees and all cedars; wild animals and all livestock; small creatures and flying birds;
 
 ### 9
-mountains and all hills; fruit trees and all cedars;
+kings of the earth and all peoples; princes and all judges of the earth; both young men and maidens; old men and children:
 
 ### 10
-wild animals and all livestock; small creatures and flying birds;
-
-### 11
-kings of the earth and all peoples; princes and all judges of the earth;
-
-### 12
-both young men and maidens; old men and children:
-
-### 13
 let them praise Yahweh’s name, for his name alone is exalted. His glory is above the earth and the heavens.
 
-### 14
+### 11
 He has lifted up the horn of his people, the praise of all his saints; even of the children of Israel, a people near to him. Praise Yah!

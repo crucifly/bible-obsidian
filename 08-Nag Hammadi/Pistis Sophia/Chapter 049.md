@@ -12,72 +12,61 @@ translation: G.R.S. Mead
 **Chapter 49**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 49**
 
 ### 2
-Next
-
-**CHAPTER 49**
+And when Jesus had spoken this, Matthew came forward and said: "My Lord, thy spirit hath stirred me and thy light hath made me sober to proclaim this eighth repentance of Pistis Sophia. For thy power hath prophesied thereof aforetime through David in the thirtieth Psalm, saying: Matthew interpreteth the eighth repentance from Psalm xxx."'1. On thee, O Lord, have I hoped. Let
 
 ### 3
-And when Jesus had spoken this, Matthew came forward and said: "My Lord, thy spirit hath stirred me and thy light hath made me sober to proclaim this eighth repentance of Pistis Sophia. For thy power hath prophesied thereof aforetime through David in the thirtieth Psalm, saying:
-
-### 4
-Matthew interpreteth the eighth repentance from Psalm xxx."'1. On thee, O Lord, have I hoped. Let
-
-### 5
 me never be put to shame; save me according to thy righteousness.
 
-### 6
+### 4
 "'2. Incline thine ear unto me, save me quickly. Be thou unto me a protecting God and a house of refuge to save me.
 
-### 7
+### 5
 "'3. For thou art my support and my refuge; for thy name's sake thou wilt guide me and feed me.
 
-### 8
+### 6
 "'4. And thou wilt draw me out of this snare, which they have laid privily for me; for thou art my protection.
 
-### 9
+### 7
 "'5. Into thy hands I will render my spirit; thou hast redeemed me, O Lord, God of Truth.
 
-### 10
+### 8
 "'6. Thou hast hated them who hold to vain emptiness; but I have trusted.
 
-### 11
+### 9
 "'7. And I shall rejoice because of my Lord and make merry over thy grace. For thou hast looked down upon my humbleness and saved my soul out of my necessities.
 
-### 12
+### 10
 "'8. And thou hast not shut me up in the hands of my foes; thou hast set my feet on a broad space.
 
-### 13
+### 11
 "'9. Be gracious unto me, O Lord, for I am afflicted; my eye is distracted in the wrath and my soul and my body.
 
-### 14
+### 12
 "'10. For my years have wasted away in sadness and my life is wasted in sighing. My power is enfeebled in misery and my bones are distracted.
 
-### 15
+### 13
 "'11. I am become a mockery for all my foes and my neighbours. I am become a fright for my acquaintances, and they who saw me, are fled away from me.
 
-### 16
+### 14
 "'12. I am forgotten in their heart as a corpse, and I have become as a ruined vessel.
 
-### 17
-"'13. For I have heard the scorn of many who
+### 15
+"'13. For I have heard the scorn of many who encompass me round about. Massing themselves together against me, they took counsel to take away my soul from me.
 
-### 18
-encompass me round about. Massing themselves together against me, they took counsel to take away my soul from me.
-
-### 19
+### 16
 "'14. But I have trusted in thee, O Lord. I said: Thou art my God.
 
-### 20
+### 17
 "'15. My lots are in thy hands. Save me from the hand of my foes and free me from my persecutors.
 
-### 21
+### 18
 "'16. Reveal thy face over thy slave, and free me according to thy grace, O Lord.
 
-### 22
+### 19
 "'17. Let me not be put to shame, for I have cried unto, thee. Let the impious be put to shame and turn towards hell.
 
-### 23
+### 20
 "'18. Let the crafty lips be struck dumb, which allege iniquity against the righteous in pride and scorn.'"

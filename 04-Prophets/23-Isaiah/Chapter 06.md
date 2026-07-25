@@ -36,10 +36,7 @@ He said, “Go, and tell this people, ‘You hear indeed, but don’t understand
 Make the heart of this people fat. Make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and turn again, and be healed.”
 
 ### 11
-Then I said, “Lord, how long?” He answered, “Until cities are waste without inhabitant, and houses without man, and the land becomes utterly waste,
+Then I said, “Lord, how long?” He answered, “Until cities are waste without inhabitant, and houses without man, and the land becomes utterly waste, And Yahweh has removed men far away, and the forsaken places are many within the land.
 
 ### 12
-And Yahweh has removed men far away, and the forsaken places are many within the land.
-
-### 13
 If there is a tenth left in it, that also will in turn be consumed: as a terebinth, and as an oak, whose stock remains when they are felled; so the holy seed is its stock.”

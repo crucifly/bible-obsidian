@@ -18,55 +18,52 @@ You shall eat no leavened bread with it. You shall eat unleavened bread with it 
 No yeast shall be seen with you in all your borders seven days; neither shall any of the meat, which you sacrifice the first day at evening, remain all night until the morning.
 
 ### 5
-You may not sacrifice the Passover within any of your gates, which Yahweh your God gives you;
+You may not sacrifice the Passover within any of your gates, which Yahweh your God gives you; but at the place which Yahweh your God shall choose, to cause his name to dwell in, there you shall sacrifice the Passover at evening, at the going down of the sun, at the season that you came out of Egypt.
 
 ### 6
-but at the place which Yahweh your God shall choose, to cause his name to dwell in, there you shall sacrifice the Passover at evening, at the going down of the sun, at the season that you came out of Egypt.
-
-### 7
 You shall roast and eat it in the place which Yahweh your God chooses. In the morning you shall return to your tents.
 
-### 8
+### 7
 Six days you shall eat unleavened bread. On the seventh day shall be a solemn assembly to Yahweh your God. You shall do no work.
 
-### 9
+### 8
 You shall count for yourselves seven weeks. From the time you begin to put the sickle to the standing grain you shall begin to count seven weeks.
 
-### 10
+### 9
 You shall keep the feast of weeks to Yahweh your God with a tribute of a freewill offering of your hand, which you shall give, according as Yahweh your God blesses you.
 
-### 11
+### 10
 You shall rejoice before Yahweh your God: you, your son, your daughter, your male servant, your female servant, the Levite who is within your gates, the foreigner, the fatherless, and the widow, who are among you, in the place which Yahweh your God shall choose to cause his name to dwell there.
 
-### 12
+### 11
 You shall remember that you were a slave in Egypt. You shall observe and do these statutes.
 
-### 13
+### 12
 You shall keep the feast of tents seven days, after you have gathered in from your threshing floor and from your wine press.
 
-### 14
+### 13
 You shall rejoice in your feast, you, your son, your daughter, your male servant, your female servant, the Levite, the foreigner, the fatherless, and the widow, who are within your gates.
 
-### 15
+### 14
 You shall keep a feast to Yahweh your God seven days in the place which Yahweh chooses; because Yahweh your God will bless you in all your increase, and in all the work of your hands, and you shall be altogether joyful.
 
-### 16
+### 15
 Three times in a year all of your males shall appear before Yahweh your God in the place which he chooses: in the feast of unleavened bread, in the feast of weeks, and in the feast of tents. They shall not appear before Yahweh empty.
 
-### 17
+### 16
 Every man shall give as he is able, according to Yahweh your God’s blessing which he has given you.
 
-### 18
+### 17
 You shall make judges and officers in all your gates, which Yahweh your God gives you, according to your tribes; and they shall judge the people with righteous judgment.
 
-### 19
+### 18
 You shall not pervert justice. You shall not show partiality. You shall not take a bribe, for a bribe blinds the eyes of the wise, and perverts the words of the righteous.
 
-### 20
+### 19
 You shall follow that which is altogether just, that you may live, and inherit the land which Yahweh your God gives you.
 
-### 21
+### 20
 You shall not plant for yourselves an Asherah of any kind of tree beside Yahweh your God’s altar, which you shall make for yourselves.
 
-### 22
+### 21
 Neither shall you set yourself up a sacred stone which Yahweh your God hates.

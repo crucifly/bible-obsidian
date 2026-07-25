@@ -21,22 +21,16 @@ I have not sat with deceitful men, neither will I go in with hypocrites.
 I hate the assembly of evildoers, and will not sit with the wicked.
 
 ### 6
-I will wash my hands in innocence, so I will go about your altar, Yahweh;
+I will wash my hands in innocence, so I will go about your altar, Yahweh; that I may make the voice of thanksgiving to be heard, and tell of all your wondrous deeds.
 
 ### 7
-that I may make the voice of thanksgiving to be heard, and tell of all your wondrous deeds.
-
-### 8
 Yahweh, I love the habitation of your house, the place where your glory dwells.
 
+### 8
+Don’t gather my soul with sinners, nor my life with bloodthirsty men; in whose hands is wickedness, their right hand is full of bribes.
+
 ### 9
-Don’t gather my soul with sinners, nor my life with bloodthirsty men;
-
-### 10
-in whose hands is wickedness, their right hand is full of bribes.
-
-### 11
 But as for me, I will walk in my integrity. Redeem me, and be merciful to me.
 
-### 12
+### 10
 My foot stands in an even place. In the congregations I will bless Yahweh.

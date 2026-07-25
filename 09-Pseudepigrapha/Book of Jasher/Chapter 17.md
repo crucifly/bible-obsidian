@@ -71,34 +71,19 @@ For I will bless you both, and I will multiply your seed after you that you shal
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_17&oldid=11445885"
 
 ### 21
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:44.
 
 ### 22
-This page was last edited on 30 June 2021, at 01:44.
-
-### 23
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 23
+Privacy policy Disclaimers
+
 ### 24
-Privacy policy
+Code of Conduct Developers
 
 ### 25
-Disclaimers
+Statistics Cookie statement
 
 ### 26
-Code of Conduct
-
-### 27
-Developers
-
-### 28
-Statistics
-
-### 29
-Cookie statement
-
-### 30
-Mobile view
-
-### 31
-Add topic
+Mobile view Add topic

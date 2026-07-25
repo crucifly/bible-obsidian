@@ -86,34 +86,19 @@ And their king Zepho went at their head and they made war with Tubal and the isl
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_61&oldid=11446011"
 
 ### 26
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:04.
 
 ### 27
-This page was last edited on 30 June 2021, at 02:04.
-
-### 28
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 28
+Privacy policy Disclaimers
+
 ### 29
-Privacy policy
+Code of Conduct Developers
 
 ### 30
-Disclaimers
+Statistics Cookie statement
 
 ### 31
-Code of Conduct
-
-### 32
-Developers
-
-### 33
-Statistics
-
-### 34
-Cookie statement
-
-### 35
-Mobile view
-
-### 36
-Add topic
+Mobile view Add topic

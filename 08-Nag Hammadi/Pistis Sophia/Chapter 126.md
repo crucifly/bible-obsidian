@@ -12,48 +12,37 @@ translation: G.R.S. Mead
 **Chapter 126**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 125**
 
 ### 2
-Next
-
-**CHAPTER 125**
-
-### 3
 Mary continued again and said unto the Saviour: "My Lord, if the faith and the mysteries shall have revealed themselves,--now, therefore, if souls come into the world in many circuits and are neglectful of receiving mysteries, hoping that, if they come into the world at any other circuit, they will receive them, will they not then be in danger of not succeeding in receiving the mysteries?"
 
-### 4
+### 3
 Of those who procrastinate, saying they have many births before them.The Saviour answered and said unto his disciples: "Herald unto the whole world and say unto men: Strive thereafter that ye may receive the mysteries of the Light in this time of affliction and enter into the Light-kingdom. Join not one day to another, or one circuit to another, hoping that ye may succeed in receiving the mysteries if ye come into the world in another circuit.
 
+### 4
+"And these know not when the number of the perfect souls will be at hand; for if the number of the perfect souls shall be at hand, I will now shut the gates of the Light, and no one from this hour onwards will enter in, nor will any one hereafter go forth, for the number of the perfect souls is completed and the mystery of the First Mystery is completed, for the sake of which the universe hath arisen,--that is: I am that Mystery.
+
 ### 5
-"And these know not when the number of the perfect souls will be at hand; for if the number of the perfect souls shall be at hand, I will now shut the gates of the Light, and no one from this hour onwards will enter in, nor will
-
-### 6
-any one hereafter go forth, for the number of the perfect souls is completed and the mystery of the First Mystery is completed, for the sake of which the universe hath arisen,--that is: I am that Mystery.
-
-### 7
 Of the time of the completion."And from this hour onwards no one will be able to enter into the Light and no one be able to go forth. For at the completion of the time of the number of the perfect souls, before I have set fire to the world, in order that it may purify the æons and the veils and the firmaments and the whole earth and also all the matters which are on it, mankind will be still existing.
 
-### 8
+### 6
 Those who procrastinate are excluded from the Light."At that time then the faith will reveal itself still more and the mysteries in those days. And many souls will come by means of the circuits of the changes of the body, and coming back into the world are some of those in this present time who have hearkened unto me, how I taught, who at the completion of the number of the perfect souls will find the mysteries of the Light and receive them and come to the gates of the Light and find that the number of the perfect souls is complete, which is the completion of the First Mystery and the gnosis of the universe. And they will find that I have shut the gates of the Light and that it is impossible that any one should enter in or that any one should go forth from this hour.
 
-### 9
-Their entreaties at the gates of Light."Those souls then will knock at the gates of the Light, saying: Lord, open unto us! And I will answer unto them: I know you not, whence ye are. And they will say unto me: We have received of thy mysteries and fulfilled thy whole teaching and thou hast taught us on the high
+### 7
+Their entreaties at the gates of Light."Those souls then will knock at the gates of the Light, saying: Lord, open unto us! And I will answer unto them: I know you not, whence ye are. And they will say unto me: We have received of thy mysteries and fulfilled thy whole teaching and thou hast taught us on the high ways. And I will answer and say unto them: I know you not, who ye are, ye who are doers of iniquity and of evil even unto now. Wherefor go into the outer darkness. And from that hour they will go into the outer darkness, there where is howling and grinding of teeth.
 
-### 10
-ways. And I will answer and say unto them: I know you not, who ye are, ye who are doers of iniquity and of evil even unto now. Wherefor go into the outer darkness. And from that hour they will go into the outer darkness, there where is howling and grinding of teeth.
-
-### 11
+### 8
 "For this cause then, herald unto the whole world and say unto them: 'Strive thereafter, to renounce the whole world and the whole matter therein, that ye may receive the mysteries of the Light before the number of the perfect souls is completed, in order that they may not make you stop before the gates of the Light and. lead you away into the outer darkness.'
 
-### 12
+### 9
 "Now, therefore, who hath ears to hear, let him hear."
 
-### 13
+### 10
 Mary interpreteth the same.When then the Saviour had said this, Mary started forward again and said: "My Lord, not only hath my light-man ears, but my soul hath heard and understood all the words which thou sayest. Now, therefore, my Lord, concerning the words which thou hast spoken: 'Herald unto the men of the world and say unto them: Strive thereafter, to receive the mysteries of the Light, in this time of affliction, that ye may inherit the Light-kingdom. . . .
 
-### 14
+### 11
 . . . . . . [A CONSIDERABLE LACUNA HERE OCCURS IN THE TEXT.]
 
-### 15
+### 12
 . . . . . .

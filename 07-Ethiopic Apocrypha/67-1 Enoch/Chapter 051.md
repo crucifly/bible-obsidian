@@ -18,7 +18,4 @@ And the Elect One shall in those days sit on My throne, And his mouth shall pour
 And in those days shall the mountains leap like rams, And the hills also shall skip like lambs satisfied with milk, And the faces of ⌈all⌉ the angels in heaven shall be lighted up with joy.
 
 ### 5
-For in those days the Elect One shall arise,
-
-### 6
-And the earth shall rejoice, c. And the righteous shall dwell upon it, d. And the elect shall walk thereon.
+For in those days the Elect One shall arise, And the earth shall rejoice, c. And the righteous shall dwell upon it, d. And the elect shall walk thereon.

@@ -186,13 +186,10 @@ The word which Jeremiah the prophet commanded Seraiah the son of Neriah, the son
 Jeremiah wrote in a book all the evil that should come on Babylon, even all these words that are written concerning Babylon.
 
 ### 61
-Jeremiah said to Seraiah, “When you come to Babylon, then see that you read all these words,
+Jeremiah said to Seraiah, “When you come to Babylon, then see that you read all these words, and say, ‘Yahweh, you have spoken concerning this place, to cut it off, that no one will dwell in it, neither man nor animal, but that it will be desolate forever.’
 
 ### 62
-and say, ‘Yahweh, you have spoken concerning this place, to cut it off, that no one will dwell in it, neither man nor animal, but that it will be desolate forever.’
-
-### 63
 It will be, when you have finished reading this book, that you shall bind a stone to it, and cast it into the middle of the Euphrates.
 
-### 64
+### 63
 Then you shall say, ‘Thus will Babylon sink, and will not rise again because of the evil that I will bring on her; and they will be weary.’” Thus far are the words of Jeremiah.

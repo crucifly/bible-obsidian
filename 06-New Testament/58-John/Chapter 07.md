@@ -153,13 +153,10 @@ Have any of the rulers believed in him, or of the Pharisees?
 But this multitude that doesn’t know the law is accursed.”
 
 ### 50
-Nicodemus (he who came to him by night, being one of them) said to them,
+Nicodemus (he who came to him by night, being one of them) said to them, “Does our law judge a man, unless it first hears from him personally and knows what he does?”
 
 ### 51
-“Does our law judge a man, unless it first hears from him personally and knows what he does?”
-
-### 52
 They answered him, “Are you also from Galilee? Search, and see that no prophet has arisen out of Galilee.”
 
-### 53
+### 52
 Everyone went to his own house,

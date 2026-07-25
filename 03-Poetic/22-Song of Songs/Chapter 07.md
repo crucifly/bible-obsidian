@@ -27,19 +27,16 @@ How beautiful and how pleasant you are, love, for delights!
 This, your stature, is like a palm tree, your breasts like its fruit.
 
 ### 8
-I said, “I will climb up into the palm tree. I will take hold of its fruit.” Let your breasts be like clusters of the vine, the smell of your breath like apples,
+I said, “I will climb up into the palm tree. I will take hold of its fruit.” Let your breasts be like clusters of the vine, the smell of your breath like apples, Your mouth like the best wine, that goes down smoothly for my beloved, gliding through the lips of those who are asleep.
 
 ### 9
-Your mouth like the best wine, that goes down smoothly for my beloved, gliding through the lips of those who are asleep.
-
-### 10
 I am my beloved’s. His desire is toward me.
 
-### 11
+### 10
 Come, my beloved, let us go out into the field. Let us lodge in the villages.
 
-### 12
+### 11
 Let’s go early up to the vineyards. Let’s see whether the vine has budded, its blossom is open, and the pomegranates are in flower. There I will give you my love.
 
-### 13
+### 12
 The mandrakes produce fragrance. At our doors are all kinds of precious fruits, new and old, which I have stored up for you, my beloved.

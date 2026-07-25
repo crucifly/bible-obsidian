@@ -93,46 +93,43 @@ Please forgive the trespass of your servant. For Yahweh will certainly make my l
 Though men may rise up to pursue you, and to seek your soul, yet the soul of my lord will be bound in the bundle of life with Yahweh your God. He will sling out the souls of your enemies, as from the hollow of a sling.
 
 ### 30
-It will come to pass, when Yahweh has done to my lord according to all the good that he has spoken concerning you, and has appointed you prince over Israel,
+It will come to pass, when Yahweh has done to my lord according to all the good that he has spoken concerning you, and has appointed you prince over Israel, that this shall be no grief to you, nor offense of heart to my lord, either that you have shed blood without cause, or that my lord has avenged himself. When Yahweh has dealt well with my lord, then remember your servant.”
 
 ### 31
-that this shall be no grief to you, nor offense of heart to my lord, either that you have shed blood without cause, or that my lord has avenged himself. When Yahweh has dealt well with my lord, then remember your servant.”
-
-### 32
 David said to Abigail, “Blessed is Yahweh, the God of Israel, who sent you today to meet me!
 
-### 33
+### 32
 Blessed is your discretion, and blessed are you, who have kept me today from blood guiltiness, and from avenging myself with my own hand.
 
-### 34
+### 33
 For indeed, as Yahweh, the God of Israel, lives, who has withheld me from harming you, unless you had hurried and come to meet me, surely there wouldn’t have been left to Nabal by the morning light so much as one who urinates on a wall.”
 
-### 35
+### 34
 So David received from her hand that which she had brought him. Then he said to her, “Go up in peace to your house. Behold, I have listened to your voice, and have granted your request.”
 
-### 36
+### 35
 Abigail came to Nabal; and behold, he held a feast in his house, like the feast of a king. Nabal’s heart was merry within him, for he was very drunk. Therefore she told him nothing, until the morning light.
 
-### 37
+### 36
 In the morning, when the wine had gone out of Nabal, his wife told him these things, and his heart died within him, and he became as a stone.
 
-### 38
+### 37
 About ten days later, Yahweh struck Nabal, so that he died.
 
-### 39
+### 38
 When David heard that Nabal was dead, he said, “Blessed is Yahweh, who has pleaded the cause of my reproach from the hand of Nabal, and has kept back his servant from evil. Yahweh has returned the evildoing of Nabal on his own head.” David sent and spoke concerning Abigail, to take her to himself as wife.
 
-### 40
+### 39
 When David’s servants had come to Abigail to Carmel, they spoke to her, saying, “David has sent us to you, to take you to him as wife.”
 
-### 41
+### 40
 She arose, and bowed herself with her face to the earth, and said, “Behold, your servant is a servant to wash the feet of the servants of my lord.”
 
-### 42
+### 41
 Abigail hurried, and arose, and rode on a donkey, with five ladies of hers who followed her; and she went after the messengers of David, and became his wife.
 
-### 43
+### 42
 David also took Ahinoam of Jezreel; and they both became his wives.
 
-### 44
+### 43
 Now Saul had given Michal his daughter, David’s wife, to Palti the son of Laish, who was of Gallim.

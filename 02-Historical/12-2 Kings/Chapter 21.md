@@ -24,61 +24,49 @@ He built altars for all the army of the sky in the two courts of Yahweh’s hous
 He made his son to pass through the fire, practiced sorcery, used enchantments, and dealt with those who had familiar spirits, and with wizards. He did much evil in Yahweh’s sight, to provoke him to anger.
 
 ### 7
-He set the engraved image of Asherah that he had made in the house of which Yahweh said to David and to Solomon his son, “In this house, and in Jerusalem, which I have chosen out of all the tribes of Israel, will I put my name forever;
+He set the engraved image of Asherah that he had made in the house of which Yahweh said to David and to Solomon his son, “In this house, and in Jerusalem, which I have chosen out of all the tribes of Israel, will I put my name forever; I will not cause the feet of Israel to wander any more out of the land which I gave their fathers, if only they will observe to do according to all that I have commanded them, and according to all the law that my servant Moses commanded them.”
 
 ### 8
-I will not cause the feet of Israel to wander any more out of the land which I gave their fathers, if only they will observe to do according to all that I have commanded them, and according to all the law that my servant Moses commanded them.”
-
-### 9
 But they didn’t listen, and Manasseh seduced them to do that which is evil more than the nations did whom Yahweh destroyed before the children of Israel.
 
+### 9
+Yahweh spoke by his servants the prophets, saying, “Because Manasseh king of Judah has done these abominations, and has done wickedly above all that the Amorites did, who were before him, and has also made Judah to sin with his idols;
+
 ### 10
-Yahweh spoke by his servants the prophets, saying,
-
-### 11
-“Because Manasseh king of Judah has done these abominations, and has done wickedly above all that the Amorites did, who were before him, and has also made Judah to sin with his idols;
-
-### 12
 therefore Yahweh the God of Israel says, ‘Behold, I bring such evil on Jerusalem and Judah that whoever hears of it, both his ears will tingle.
 
-### 13
+### 11
 I will stretch over Jerusalem the line of Samaria, and the plummet of Ahab’s house; and I will wipe Jerusalem as a man wipes a dish, wiping it and turning it upside down.
 
-### 14
-I will cast off the remnant of my inheritance, and deliver them into the hands of their enemies. They will become a prey and a plunder to all their enemies,
+### 12
+I will cast off the remnant of my inheritance, and deliver them into the hands of their enemies. They will become a prey and a plunder to all their enemies, because they have done that which is evil in my sight, and have provoked me to anger, since the day their fathers came out of Egypt, even to this day.’”
 
-### 15
-because they have done that which is evil in my sight, and have provoked me to anger, since the day their fathers came out of Egypt, even to this day.’”
-
-### 16
+### 13
 Moreover Manasseh shed innocent blood very much, until he had filled Jerusalem from one end to another; besides his sin with which he made Judah to sin, in doing that which was evil in Yahweh’s sight.
 
-### 17
+### 14
 Now the rest of the acts of Manasseh, and all that he did, and his sin that he sinned, aren’t they written in the book of the chronicles of the kings of Judah?
 
-### 18
+### 15
 Manasseh slept with his fathers, and was buried in the garden of his own house, in the garden of Uzza; and Amon his son reigned in his place.
 
-### 19
+### 16
 Amon was twenty-two years old when he began to reign; and he reigned two years in Jerusalem. His mother’s name was Meshullemeth the daughter of Haruz of Jotbah.
 
-### 20
+### 17
 He did that which was evil in Yahweh’s sight, as Manasseh his father did.
 
-### 21
-He walked in all the ways that his father walked in, and served the idols that his father served, and worshiped them;
+### 18
+He walked in all the ways that his father walked in, and served the idols that his father served, and worshiped them; and he abandoned Yahweh, the God of his fathers, and didn’t walk in the way of Yahweh.
 
-### 22
-and he abandoned Yahweh, the God of his fathers, and didn’t walk in the way of Yahweh.
-
-### 23
+### 19
 The servants of Amon conspired against him, and put the king to death in his own house.
 
-### 24
+### 20
 But the people of the land killed all those who had conspired against king Amon; and the people of the land made Josiah his son king in his place.
 
-### 25
+### 21
 Now the rest of the acts of Amon which he did, aren’t they written in the book of the chronicles of the kings of Judah?
 
-### 26
+### 22
 He was buried in his tomb in the garden of Uzza, and Josiah his son reigned in his place.

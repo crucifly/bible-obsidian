@@ -27,37 +27,28 @@ It shall be that the firstborn whom she bears shall succeed in the name of his b
 If the man doesn’t want to take his brother’s wife, then his brother’s wife shall go up to the gate to the elders, and say, “My husband’s brother refuses to raise up to his brother a name in Israel. He will not perform the duty of a husband’s brother to me.”
 
 ### 8
-Then the elders of his city shall call him, and speak to him: and if he stands and says, “I don’t want to take her”;
+Then the elders of his city shall call him, and speak to him: and if he stands and says, “I don’t want to take her”; then his brother’s wife shall come to him in the presence of the elders, and loose his shoe from off his foot, and spit in his face. She shall answer and say, “So shall it be done to the man who does not build up his brother’s house.”
 
 ### 9
-then his brother’s wife shall come to him in the presence of the elders, and loose his shoe from off his foot, and spit in his face. She shall answer and say, “So shall it be done to the man who does not build up his brother’s house.”
-
-### 10
 His name shall be called in Israel, “The house of him who had his shoe removed.”
 
+### 10
+When men strive against each other, and the wife of one draws near to deliver her husband out of the hand of him who strikes him, and puts out her hand, and takes him by his private parts, then you shall cut off her hand. Your eye shall have no pity.
+
 ### 11
-When men strive against each other, and the wife of one draws near to deliver her husband out of the hand of him who strikes him, and puts out her hand, and takes him by his private parts,
-
-### 12
-then you shall cut off her hand. Your eye shall have no pity.
-
-### 13
 You shall not have in your bag diverse weights, one heavy and one light.
 
-### 14
+### 12
 You shall not have in your house diverse measures, one large and one small.
 
-### 15
+### 13
 You shall have a perfect and just weight. You shall have a perfect and just measure, that your days may be long in the land which Yahweh your God gives you.
 
-### 16
+### 14
 For all who do such things, all who do unrighteously, are an abomination to Yahweh your God.
 
-### 17
-Remember what Amalek did to you by the way as you came out of Egypt;
+### 15
+Remember what Amalek did to you by the way as you came out of Egypt; how he met you by the way, and struck the rearmost of you, all who were feeble behind you, when you were faint and weary; and he didn’t fear God.
 
-### 18
-how he met you by the way, and struck the rearmost of you, all who were feeble behind you, when you were faint and weary; and he didn’t fear God.
-
-### 19
+### 16
 Therefore it shall be, when Yahweh your God has given you rest from all your enemies all around, in the land which Yahweh your God gives you for an inheritance to possess it, that you shall blot out the memory of Amalek from under the sky. You shall not forget.

@@ -12,13 +12,10 @@ How long, Yahweh? Will you forget me forever? How long will you hide your face f
 How long shall I take counsel in my soul, having sorrow in my heart every day? How long shall my enemy triumph over me?
 
 ### 3
-Behold, and answer me, Yahweh, my God. Give light to my eyes, lest I sleep in death;
+Behold, and answer me, Yahweh, my God. Give light to my eyes, lest I sleep in death; Lest my enemy say, “I have prevailed against him”; Lest my adversaries rejoice when I fall.
 
 ### 4
-Lest my enemy say, “I have prevailed against him”; Lest my adversaries rejoice when I fall.
-
-### 5
 But I trust in your loving kindness. My heart rejoices in your salvation.
 
-### 6
+### 5
 I will sing to Yahweh, because he has been good to me.

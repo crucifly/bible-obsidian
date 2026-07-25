@@ -27,52 +27,46 @@ But with you it may be that I will stay, or even winter, that you may send me on
 For I do not wish to see you now in passing, but I hope to stay a while with you, if the Lord permits.
 
 ### 8
-But I will stay at Ephesus until Pentecost,
+But I will stay at Ephesus until Pentecost, for a great and effective door has opened to me, and there are many adversaries.
 
 ### 9
-for a great and effective door has opened to me, and there are many adversaries.
-
-### 10
 Now if Timothy comes, see that he is with you without fear, for he does the work of the Lord, as I also do.
 
-### 11
+### 10
 Therefore let no one despise him. But set him forward on his journey in peace, that he may come to me; for I expect him with the brothers.
 
-### 12
+### 11
 Now concerning Apollos, the brother, I strongly urged him to come to you with the brothers; and it was not at all his desire to come now; but he will come when he has an opportunity.
 
-### 13
+### 12
 Watch! Stand firm in the faith! Be courageous! Be strong!
 
-### 14
+### 13
 Let all that you do be done in love.
 
+### 14
+Now I beg you, brothers (you know the house of Stephanas, that it is the first fruits of Achaia, and that they have set themselves to serve the saints), that you also be in subjection to such, and to everyone who helps in the work and labors.
+
 ### 15
-Now I beg you, brothers (you know the house of Stephanas, that it is the first fruits of Achaia, and that they have set themselves to serve the saints),
-
-### 16
-that you also be in subjection to such, and to everyone who helps in the work and labors.
-
-### 17
 I rejoice at the coming of Stephanas, Fortunatus, and Achaicus; for that which was lacking on your part, they supplied.
 
-### 18
+### 16
 For they refreshed my spirit and yours. Therefore acknowledge those who are like that.
 
-### 19
+### 17
 The assemblies of Asia greet you. Aquila and Priscilla greet you much in the Lord, together with the assembly that is in their house.
 
-### 20
+### 18
 All the brothers greet you. Greet one another with a holy kiss.
 
-### 21
+### 19
 This greeting is by me, Paul, with my own hand.
 
-### 22
+### 20
 If any man doesn’t love the Lord Jesus Christ, let him be accursed. Come, Lord!
 
-### 23
+### 21
 The grace of the Lord Jesus Christ be with you.
 
-### 24
+### 22
 My love to all of you in Christ Jesus. Amen.

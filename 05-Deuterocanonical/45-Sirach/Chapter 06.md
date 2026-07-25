@@ -6,112 +6,61 @@ canon: "Deuterocanonical"
 # Sirach 6
 
 ### 1
-Instead of a friend become not an enemy; for [thereby] thou shalt
+Instead of a friend become not an enemy; for [thereby] thou shalt Extol not thyself in the counsel of thine own heart; that thy soul
 
 ### 2
-Extol not thyself in the counsel of thine own heart; that thy soul
+Thou shalt eat up thy leaves, and lose thy fruit, and leave thyself A wicked soul shall destroy him that hath it, and shall make him to
 
 ### 3
-Thou shalt eat up thy leaves, and lose thy fruit, and leave thyself
+Sweet language will multiply friends: and a fairspeaking tongue Be in peace with many: nevertheless have but one counsellor of a
 
 ### 4
-A wicked soul shall destroy him that hath it, and shall make him to
+If thou wouldest get a friend, prove him first and be not hasty to For some man is a friend for his own occasion, and will not abide
 
 ### 5
-Sweet language will multiply friends: and a fairspeaking tongue
+And there is a friend, who being turned to enmity, and strife will Again, some friend is a companion at the table, and will not
 
 ### 6
-Be in peace with many: nevertheless have but one counsellor of a
+But in thy prosperity he will be as thyself, and will be bold over If thou be brought low, he will be against thee, and will hide
 
 ### 7
-If thou wouldest get a friend, prove him first and be not hasty to
-
-### 8
-For some man is a friend for his own occasion, and will not abide
-
-### 9
-And there is a friend, who being turned to enmity, and strife will
-
-### 10
-Again, some friend is a companion at the table, and will not
-
-### 11
-But in thy prosperity he will be as thyself, and will be bold over
-
-### 12
-If thou be brought low, he will be against thee, and will hide
-
-### 13
 Separate thyself from thine enemies, and take heed of thy friends.
 
-### 14
-A faithfull friend is a strong defence: and he that hath found
+### 8
+A faithfull friend is a strong defence: and he that hath found Nothing doth countervail a faithful friend, and his excellency is
 
-### 15
-Nothing doth countervail a faithful friend, and his excellency is
+### 9
+A faithful friend is the medicine of life; and they that fear the Whoso feareth the Lord shall direct his friendship aright: for as
 
-### 16
-A faithful friend is the medicine of life; and they that fear the
+### 10
+My son, gather instruction from thy youth up: so shalt thou find Come unto her as one that ploweth and soweth, and wait for her
 
-### 17
-Whoso feareth the Lord shall direct his friendship aright: for as
+### 11
+She is very unpleasant to the unlearned: he that is without She will lie upon him as a mighty stone of trial; and he will cast
 
-### 18
-My son, gather instruction from thy youth up: so shalt thou find
+### 12
+For wisdom is according to her name, and she is not manifest unto Give ear, my son, receive my advice, and refuse not my counsel,
 
-### 19
-Come unto her as one that ploweth and soweth, and wait for her
-
-### 20
-She is very unpleasant to the unlearned: he that is without
-
-### 21
-She will lie upon him as a mighty stone of trial; and he will cast
-
-### 22
-For wisdom is according to her name, and she is not manifest unto
-
-### 23
-Give ear, my son, receive my advice, and refuse not my counsel,
-
-### 24
+### 13
 And put thy feet into her fetters, and thy neck into her chain.
 
-### 25
-Bow down thy shoulder, and bear her, and be not grieved with her
+### 14
+Bow down thy shoulder, and bear her, and be not grieved with her Come unto her with thy whole heart, and keep her ways with all thy
 
-### 26
-Come unto her with thy whole heart, and keep her ways with all thy
+### 15
+Search, and seek, and she shall be made known unto thee: and when For at the last thou shalt find her rest, and that shall be turned
 
-### 27
-Search, and seek, and she shall be made known unto thee: and when
+### 16
+Then shall her fetters be a strong defence for thee, and her For there is a golden ornament upon her, and her bands are purple
 
-### 28
-For at the last thou shalt find her rest, and that shall be turned
+### 17
+Thou shalt put her on as a robe of honour, and shalt put her about My son, if thou wilt, thou shalt be taught: and if thou wilt apply
 
-### 29
-Then shall her fetters be a strong defence for thee, and her
+### 18
+If thou love to hear, thou shalt receive understanding: and if Stand in the multitude of the elders; and cleave unto him that is
 
-### 30
-For there is a golden ornament upon her, and her bands are purple
+### 19
+Be willing to hear every godly discourse; and let not the parables And if thou seest a man of understanding, get thee betimes unto
 
-### 31
-Thou shalt put her on as a robe of honour, and shalt put her about
-
-### 32
-My son, if thou wilt, thou shalt be taught: and if thou wilt apply
-
-### 33
-If thou love to hear, thou shalt receive understanding: and if
-
-### 34
-Stand in the multitude of the elders; and cleave unto him that is
-
-### 35
-Be willing to hear every godly discourse; and let not the parables
-
-### 36
-And if thou seest a man of understanding, get thee betimes unto
-
-### 37
+### 20
 Let thy mind be upon the ordinances of the Lord and meditate

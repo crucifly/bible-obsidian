@@ -36,25 +36,16 @@ Then Nebuzaradan the captain of the guard carried away captive into Babylon the 
 But Nebuzaradan the captain of the guard left of the poor of the people, who had nothing, in the land of Judah, and gave them vineyards and fields at the same time.
 
 ### 11
-Now Nebuchadnezzar king of Babylon commanded Nebuzaradan the captain of the guard concerning Jeremiah, saying,
+Now Nebuchadnezzar king of Babylon commanded Nebuzaradan the captain of the guard concerning Jeremiah, saying, “Take him, and take care of him. Do him no harm; but do to him even as he tells you.”
 
 ### 12
-“Take him, and take care of him. Do him no harm; but do to him even as he tells you.”
+So Nebuzaradan the captain of the guard sent, with Nebushazban, Rabsaris, and Nergal Sharezer, Rabmag, and all the chief officers of the king of Babylon; they sent, and took Jeremiah out of the court of the guard, and committed him to Gedaliah the son of Ahikam, the son of Shaphan, that he should carry him home. So he lived among the people.
 
 ### 13
-So Nebuzaradan the captain of the guard sent, with Nebushazban, Rabsaris, and Nergal Sharezer, Rabmag, and all the chief officers of the king of Babylon;
+Now Yahweh’s word came to Jeremiah, while he was shut up in the court of the guard, saying, “Go, and speak to Ebedmelech the Ethiopian, saying, ‘Yahweh of Armies, the God of Israel, says: “Behold, I will bring my words on this city for evil, and not for good; and they will be accomplished before you in that day.
 
 ### 14
-they sent, and took Jeremiah out of the court of the guard, and committed him to Gedaliah the son of Ahikam, the son of Shaphan, that he should carry him home. So he lived among the people.
-
-### 15
-Now Yahweh’s word came to Jeremiah, while he was shut up in the court of the guard, saying,
-
-### 16
-“Go, and speak to Ebedmelech the Ethiopian, saying, ‘Yahweh of Armies, the God of Israel, says: “Behold, I will bring my words on this city for evil, and not for good; and they will be accomplished before you in that day.
-
-### 17
 But I will deliver you in that day,” says Yahweh; “and you will not be given into the hand of the men of whom you are afraid.
 
-### 18
+### 15
 For I will surely save you, and you won’t fall by the sword, but you will escape with your life; because you have put your trust in me,” says Yahweh.’”

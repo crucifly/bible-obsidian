@@ -15,43 +15,37 @@ David perceived that Yahweh had established him king over Israel; for his kingdo
 David took more wives at Jerusalem, and David became the father of more sons and daughters.
 
 ### 4
-These are the names of the children whom he had in Jerusalem: Shammua, Shobab, Nathan, Solomon,
+These are the names of the children whom he had in Jerusalem: Shammua, Shobab, Nathan, Solomon, Ibhar, Elishua, Elpelet,
 
 ### 5
-Ibhar, Elishua, Elpelet,
+Nogah, Nepheg, Japhia, Elishama, Beeliada, and Eliphelet.
 
 ### 6
-Nogah, Nepheg, Japhia,
-
-### 7
-Elishama, Beeliada, and Eliphelet.
-
-### 8
 When the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David; and David heard of it, and went out against them.
 
-### 9
+### 7
 Now the Philistines had come and made a raid in the valley of Rephaim.
 
-### 10
+### 8
 David inquired of God, saying, “Shall I go up against the Philistines? Will you deliver them into my hand?” Yahweh said to him, “Go up; for I will deliver them into your hand.”
 
-### 11
+### 9
 So they came up to Baal Perazim, and David defeated them there. David said, God has broken my enemies by my hand, like waters breaking out. Therefore they called the name of that place Baal Perazim.
 
-### 12
+### 10
 They left their gods there; and David gave a command, and they were burned with fire.
 
-### 13
+### 11
 The Philistines made a another raid in the valley.
 
-### 14
+### 12
 David inquired again of God; and God said to him, “You shall not go up after them. Turn away from them, and come on them opposite the mulberry trees.
 
-### 15
+### 13
 When you hear the sound of marching in the tops of the mulberry trees, then go out to battle; for God has gone out before you to strike the army of the Philistines.”
 
-### 16
+### 14
 David did as God commanded him; and they attacked the army of the Philistines from Gibeon even to Gezer.
 
-### 17
+### 15
 The fame of David went out into all lands; and Yahweh brought the fear of him on all nations.

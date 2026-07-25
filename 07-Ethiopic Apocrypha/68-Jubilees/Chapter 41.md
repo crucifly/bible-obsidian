@@ -90,7 +90,4 @@ And unto Judah we said that his two sons had not lain with her, and for this rea
 For in singleness of eye he had gone and sought for punishment, namely, according to the judgment of Abraham, which he had commanded his sons, Judah had sought to burn her with fire.
 
 ### 29
-The Book of Jubilees
-
-### 30
-Owing to the famine Jacob sends his sons to Egypt for corn, 1-4. Joseph recognizes them and retains Simeon, and requires them to bring Benjamin when they returned, 5-12. Notwithstanding Jacob's reluctance his sons take Benjamin with them on their second journey and are entertained by Joseph, 13-25. (Cf. Gen. xli.54, 56; xlii.7-9, 13, 17, 20, 24-5, 29-30, 34-8; xliii.1-2, 4-5, 8-9, 11, 15, 23, 26, 29, 34; xliv. 1-2.)
+The Book of Jubilees Owing to the famine Jacob sends his sons to Egypt for corn, 1-4. Joseph recognizes them and retains Simeon, and requires them to bring Benjamin when they returned, 5-12. Notwithstanding Jacob's reluctance his sons take Benjamin with them on their second journey and are entertained by Joseph, 13-25. (Cf. Gen. xli.54, 56; xlii.7-9, 13, 17, 20, 24-5, 29-30, 34-8; xliii.1-2, 4-5, 8-9, 11, 15, 23, 26, 29, 34; xliv. 1-2.)

@@ -51,58 +51,40 @@ The eleventh captain for the eleventh month was Benaiah the Pirathonite, of the 
 The twelfth captain for the twelfth month was Heldai the Netophathite, of Othniel: and in his division were twenty-four thousand.
 
 ### 16
-Furthermore over the tribes of Israel: of the Reubenites was Eliezer the son of Zichri the ruler; of the Simeonites, Shephatiah the son of Maacah;
+Furthermore over the tribes of Israel: of the Reubenites was Eliezer the son of Zichri the ruler; of the Simeonites, Shephatiah the son of Maacah; of Levi, Hashabiah the son of Kemuel; of Aaron, Zadok;
 
 ### 17
-of Levi, Hashabiah the son of Kemuel; of Aaron, Zadok;
+of Judah, Elihu, one of the brothers of David; of Issachar, Omri the son of Michael; of Zebulun, Ishmaiah the son of Obadiah; of Naphtali, Jeremoth the son of Azriel;
 
 ### 18
-of Judah, Elihu, one of the brothers of David; of Issachar, Omri the son of Michael;
+of the children of Ephraim, Hoshea the son of Azaziah; of the half-tribe of Manasseh, Joel the son of Pedaiah; of the half-tribe of Manasseh in Gilead, Iddo the son of Zechariah; of Benjamin, Jaasiel the son of Abner;
 
 ### 19
-of Zebulun, Ishmaiah the son of Obadiah; of Naphtali, Jeremoth the son of Azriel;
-
-### 20
-of the children of Ephraim, Hoshea the son of Azaziah; of the half-tribe of Manasseh, Joel the son of Pedaiah;
-
-### 21
-of the half-tribe of Manasseh in Gilead, Iddo the son of Zechariah; of Benjamin, Jaasiel the son of Abner;
-
-### 22
 of Dan, Azarel the son of Jeroham. These were the captains of the tribes of Israel.
 
-### 23
+### 20
 But David didn’t take the number of them from twenty years old and under, because Yahweh had said he would increase Israel like the stars of the sky.
 
-### 24
+### 21
 Joab the son of Zeruiah began to take a census, but didn’t finish; and wrath came on Israel for this. The number wasn’t put into the account in the chronicles of king David.
 
+### 22
+Over the king’s treasures was Azmaveth the son of Adiel: and over the treasures in the fields, in the cities, and in the villages, and in the towers, was Jonathan the son of Uzziah; Over those who did the work of the field for tillage of the ground was Ezri the son of Chelub;
+
+### 23
+and over the vineyards was Shimei the Ramathite; and over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite; and over the olive trees and the sycamore trees that were in the lowland was Baal Hanan the Gederite; and over the cellars of oil was Joash;
+
+### 24
+and over the herds that fed in Sharon was Shitrai the Sharonite; and over the herds that were in the valleys was Shaphat the son of Adlai; and over the camels was Obil the Ishmaelite; and over the donkeys was Jehdeiah the Meronothite; and over the flocks was Jaziz the Hagrite.
+
 ### 25
-Over the king’s treasures was Azmaveth the son of Adiel: and over the treasures in the fields, in the cities, and in the villages, and in the towers, was Jonathan the son of Uzziah;
-
-### 26
-Over those who did the work of the field for tillage of the ground was Ezri the son of Chelub;
-
-### 27
-and over the vineyards was Shimei the Ramathite; and over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite;
-
-### 28
-and over the olive trees and the sycamore trees that were in the lowland was Baal Hanan the Gederite; and over the cellars of oil was Joash;
-
-### 29
-and over the herds that fed in Sharon was Shitrai the Sharonite; and over the herds that were in the valleys was Shaphat the son of Adlai;
-
-### 30
-and over the camels was Obil the Ishmaelite; and over the donkeys was Jehdeiah the Meronothite; and over the flocks was Jaziz the Hagrite.
-
-### 31
 All these were the rulers of the property which was king David’s.
 
-### 32
+### 26
 Also Jonathan, David’s uncle, was a counselor, a man of understanding, and a scribe; and Jehiel the son of Hachmoni was with the king’s sons.
 
-### 33
+### 27
 Ahithophel was the king’s counselor: and Hushai the Archite was the king’s friend.
 
-### 34
+### 28
 After Ahithophel was Jehoiada the son of Benaiah, and Abiathar. Joab was the captain of the king’s army.

@@ -51,7 +51,4 @@ They brought water to him who was thirsty. The inhabitants of the land of Tema m
 For they fled away from the swords, from the drawn sword, from the bent bow, and from the heat of battle.
 
 ### 16
-For the Lord said to me, “Within a year, as a worker bound by contract would count it, all the glory of Kedar will fail,
-
-### 17
-and the residue of the number of the archers, the mighty men of the children of Kedar, will be few; for Yahweh, the God of Israel, has spoken it.”
+For the Lord said to me, “Within a year, as a worker bound by contract would count it, all the glory of Kedar will fail, and the residue of the number of the archers, the mighty men of the children of Kedar, will be few; for Yahweh, the God of Israel, has spoken it.”

@@ -30,40 +30,31 @@ Of the increase of his government and of peace there shall be no end, on David�
 The Lord sent a word into Jacob, and it falls on Israel.
 
 ### 9
-All the people will know, including Ephraim and the inhabitants of Samaria, who say in pride and in arrogance of heart,
+All the people will know, including Ephraim and the inhabitants of Samaria, who say in pride and in arrogance of heart, “The bricks have fallen, but we will build with cut stone. The sycamore fig trees have been cut down, but we will put cedars in their place.”
 
 ### 10
-“The bricks have fallen, but we will build with cut stone. The sycamore fig trees have been cut down, but we will put cedars in their place.”
+Therefore Yahweh will set up on high against him the adversaries of Rezin, and will stir up his enemies, The Syrians in front, and the Philistines behind; and they will devour Israel with open mouth. For all this, his anger is not turned away, but his hand is stretched out still.
 
 ### 11
-Therefore Yahweh will set up on high against him the adversaries of Rezin, and will stir up his enemies,
-
-### 12
-The Syrians in front, and the Philistines behind; and they will devour Israel with open mouth. For all this, his anger is not turned away, but his hand is stretched out still.
-
-### 13
 Yet the people have not turned to him who struck them, neither have they sought Yahweh of Armies.
 
-### 14
+### 12
 Therefore Yahweh will cut off from Israel head and tail, palm branch and reed, in one day.
 
-### 15
+### 13
 The elder and the honorable man is the head, and the prophet who teaches lies is the tail.
 
-### 16
+### 14
 For those who lead this people lead them astray; and those who are led by them are destroyed.
 
-### 17
+### 15
 Therefore the Lord will not rejoice over their young men, neither will he have compassion on their fatherless and widows; for everyone is profane and an evildoer, and every mouth speaks folly. For all this his anger is not turned away, but his hand is stretched out still.
 
-### 18
+### 16
 For wickedness burns like a fire. It devours the briers and thorns; yes, it kindles in the thickets of the forest, and they roll upward in a column of smoke.
 
-### 19
+### 17
 Through Yahweh of Armies’ wrath, the land is burned up; and the people are the fuel for the fire. No one spares his brother.
 
-### 20
-One will devour on the right hand, and be hungry; and he will eat on the left hand, and they will not be satisfied. Everyone will eat the flesh of his own arm:
-
-### 21
-Manasseh, Ephraim; and Ephraim, Manasseh; and they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still.
+### 18
+One will devour on the right hand, and be hungry; and he will eat on the left hand, and they will not be satisfied. Everyone will eat the flesh of his own arm: Manasseh, Ephraim; and Ephraim, Manasseh; and they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still.

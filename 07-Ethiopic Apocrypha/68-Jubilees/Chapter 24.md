@@ -93,61 +93,34 @@ And Isaac on that day cursed the Philistines and said: 'Cursed be the Philistine
 And whoever escapes the sword of the enemy and the Kittim, may the righteous nation root out in judgment from under heaven; for they shall be the enemies and foes of my children throughout their generations upon the earth.
 
 ### 30
-And no remnant shall be left to them,
+And no remnant shall be left to them, Nor one that shall be saved on the day of the wrath of judgment;
 
 ### 31
-Nor one that shall be saved on the day of the wrath of judgment;
+For destruction and rooting out and expulsion from the earth is the whole seed of the Philistines (reserved), And there shall no longer be left for these Caphtorim a name or a seed on the earth.
 
 ### 32
-For destruction and rooting out and expulsion from the earth is the whole seed of the Philistines (reserved),
+For though he ascend unto heaven, Thence shall he be brought down,
 
 ### 33
-And there shall no longer be left for these Caphtorim a name or a seed on the earth.
+And though he make himself strong on earth, Thence shall he be dragged forth,
 
 ### 34
-For though he ascend unto heaven,
+And though he hide himself amongst the nations, Even from thence shall he be rooted out;
 
 ### 35
-Thence shall he be brought down,
+And though he descend into Sheol, There also shall his condemnation be great,
 
 ### 36
-And though he make himself strong on earth,
-
-### 37
-Thence shall he be dragged forth,
-
-### 38
-And though he hide himself amongst the nations,
-
-### 39
-Even from thence shall he be rooted out;
-
-### 40
-And though he descend into Sheol,
-
-### 41
-There also shall his condemnation be great,
-
-### 42
 And there also he shall have no peace.
 
-### 43
-And if he go into captivity,
+### 37
+And if he go into captivity, By the hands of those that seek his life shall they slay him on the way,
 
-### 44
-By the hands of those that seek his life shall they slay him on the way,
+### 38
+And neither name nor seed shall be left to him on all the earth; For into eternal malediction shall he depart.'
 
-### 45
-And neither name nor seed shall be left to him on all the earth;
-
-### 46
-For into eternal malediction shall he depart.'
-
-### 47
+### 39
 And thus is it written and engraved concerning him on the heavenly tablets, to do unto him on the day of judgment, so that he may be rooted out of the earth.
 
-### 48
-The Book of Jubilees
-
-### 49
-Rebecca admonished Jacob not to marry a Canaanitish woman, 1-3. Jacob promises to marry a daughter of Laban despite the urgent requests of Esau that he should marry a Canaanitish woman, 4-10. Rebecca blessees Jacob, 11-23. (Cf. Gen. xxviii.1-4.)
+### 40
+The Book of Jubilees Rebecca admonished Jacob not to marry a Canaanitish woman, 1-3. Jacob promises to marry a daughter of Laban despite the urgent requests of Esau that he should marry a Canaanitish woman, 4-10. Rebecca blessees Jacob, 11-23. (Cf. Gen. xxviii.1-4.)

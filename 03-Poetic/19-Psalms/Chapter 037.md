@@ -18,109 +18,106 @@ Trust in Yahweh, and do good. Dwell in the land, and enjoy safe pasture.
 Also delight yourself in Yahweh, and he will give you the desires of your heart.
 
 ### 5
-Commit your way to Yahweh. Trust also in him, and he will do this:
+Commit your way to Yahweh. Trust also in him, and he will do this: he will make your righteousness go out as the light, and your justice as the noon day sun.
 
 ### 6
-he will make your righteousness go out as the light, and your justice as the noon day sun.
-
-### 7
 Rest in Yahweh, and wait patiently for him. Don’t fret because of him who prospers in his way, because of the man who makes wicked plots happen.
 
-### 8
+### 7
 Cease from anger, and forsake wrath. Don’t fret, it leads only to evildoing.
 
-### 9
+### 8
 For evildoers shall be cut off, but those who wait for Yahweh shall inherit the land.
 
-### 10
+### 9
 For yet a little while, and the wicked will be no more. Yes, though you look for his place, he isn’t there.
 
-### 11
+### 10
 But the humble shall inherit the land, and shall delight themselves in the abundance of peace.
 
-### 12
+### 11
 The wicked plots against the just, and gnashes at him with his teeth.
 
-### 13
+### 12
 The Lord will laugh at him, for he sees that his day is coming.
 
-### 14
+### 13
 The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, to kill those who are upright on the path.
 
-### 15
+### 14
 Their sword shall enter into their own heart. Their bows shall be broken.
 
-### 16
+### 15
 Better is a little that the righteous has, than the abundance of many wicked.
 
-### 17
+### 16
 For the arms of the wicked shall be broken, but Yahweh upholds the righteous.
 
-### 18
+### 17
 Yahweh knows the days of the perfect. Their inheritance shall be forever.
 
-### 19
+### 18
 They shall not be disappointed in the time of evil. In the days of famine they shall be satisfied.
 
-### 20
+### 19
 But the wicked shall perish. The enemies of Yahweh shall be like the beauty of the fields. They will vanish— vanish like smoke.
 
-### 21
+### 20
 The wicked borrow, and don’t pay back, but the righteous give generously.
 
-### 22
+### 21
 For such as are blessed by him shall inherit the land. Those who are cursed by him shall be cut off.
 
-### 23
+### 22
 A man’s goings are established by Yahweh. He delights in his way.
 
-### 24
+### 23
 Though he stumble, he shall not fall, for Yahweh holds him up with his hand.
 
-### 25
+### 24
 I have been young, and now am old, yet I have not seen the righteous forsaken, nor his children begging for bread.
 
-### 26
+### 25
 All day long he deals graciously, and lends. His offspring is blessed.
 
-### 27
+### 26
 Depart from evil, and do good. Live securely forever.
 
-### 28
+### 27
 For Yahweh loves justice, and doesn’t forsake his saints. They are preserved forever, but the children of the wicked shall be cut off.
 
-### 29
+### 28
 The righteous shall inherit the land, and live in it forever.
 
-### 30
+### 29
 The mouth of the righteous talks of wisdom. His tongue speaks justice.
 
-### 31
+### 30
 The law of his God is in his heart. None of his steps shall slide.
 
-### 32
+### 31
 The wicked watches the righteous, and seeks to kill him.
 
-### 33
+### 32
 Yahweh will not leave him in his hand, nor condemn him when he is judged.
 
-### 34
+### 33
 Wait for Yahweh, and keep his way, and he will exalt you to inherit the land. When the wicked are cut off, you shall see it.
 
-### 35
+### 34
 I have seen the wicked in great power, spreading himself like a green tree in its native soil.
 
-### 36
+### 35
 But he passed away, and behold, he was not. Yes, I sought him, but he could not be found.
 
-### 37
+### 36
 Mark the perfect man, and see the upright, for there is a future for the man of peace.
 
-### 38
+### 37
 As for transgressors, they shall be destroyed together. The future of the wicked shall be cut off.
 
-### 39
+### 38
 But the salvation of the righteous is from Yahweh. He is their stronghold in the time of trouble.
 
-### 40
+### 39
 Yahweh helps them, and rescues them. He rescues them from the wicked, and saves them, Because they have taken refuge in him.

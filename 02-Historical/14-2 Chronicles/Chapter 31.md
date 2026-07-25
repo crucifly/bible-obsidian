@@ -48,22 +48,16 @@ Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismachiah, Mahath, an
 Kore the son of Imnah the Levite, the gatekeeper at the east gate, was over the freewill offerings of God, to distribute Yahweh’s offerings and the most holy things.
 
 ### 15
-Under him were Eden, Miniamin, Jeshua, Shemaiah, Amariah, and Shecaniah, in the cities of the priests, in their office of trust, to give to their brothers by divisions, to the great as well as to the small;
+Under him were Eden, Miniamin, Jeshua, Shemaiah, Amariah, and Shecaniah, in the cities of the priests, in their office of trust, to give to their brothers by divisions, to the great as well as to the small; besides those who were listed by genealogy of males, from three years old and upward, even everyone who entered into Yahweh’s house, as the duty of every day required, for their service in their offices according to their divisions;
 
 ### 16
-besides those who were listed by genealogy of males, from three years old and upward, even everyone who entered into Yahweh’s house, as the duty of every day required, for their service in their offices according to their divisions;
+and those who were listed by genealogy of the priests by their fathers’ houses, and the Levites from twenty years old and upward, in their offices by their divisions; and those who were listed by genealogy of all their little ones, their wives, their sons, and their daughters, through all the congregation; for in their office of trust they sanctified themselves in holiness.
 
 ### 17
-and those who were listed by genealogy of the priests by their fathers’ houses, and the Levites from twenty years old and upward, in their offices by their divisions;
-
-### 18
-and those who were listed by genealogy of all their little ones, their wives, their sons, and their daughters, through all the congregation; for in their office of trust they sanctified themselves in holiness.
-
-### 19
 Also for the sons of Aaron the priests, who were in the fields of the suburbs of their cities, in every city, there were men who were mentioned by name, to give portions to all the males among the priests, and to all who were listed by genealogy among the Levites.
 
-### 20
+### 18
 Hezekiah did so throughout all Judah; and he did that which was good, right, and faithful before Yahweh his God.
 
-### 21
+### 19
 In every work that he began in the service of God’s house, in the law, and in the commandments, to seek his God, he did it with all his heart, and prospered.

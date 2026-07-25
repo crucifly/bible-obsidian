@@ -51,7 +51,4 @@ For the moon alone the days amount in 3 years to 1062 days, and in 5 years she f
 And in 5 years there are 1770 days, so that for the moon the days in 8 years amount to 2832 days.
 
 ### 16
-[For in 8 years she falls behind to the amount of 80 days], all the days she falls behind in 8 years are
-
-### 17
-17. And the year is accurately completed in conformity with their world-stations and the stations of the sun, which rise from the portals through which it (the sun) rises and sets 30 days.
+[For in 8 years she falls behind to the amount of 80 days], all the days she falls behind in 8 years are 17. And the year is accurately completed in conformity with their world-stations and the stations of the sun, which rise from the portals through which it (the sun) rises and sets 30 days.

@@ -42,181 +42,169 @@ They, when they heard it, were glad, and promised to give him money. He sought h
 On the first day of unleavened bread, when they sacrificed the Passover, his disciples asked him, “Where do you want us to go and prepare that you may eat the Passover?”
 
 ### 13
-He sent two of his disciples, and said to them, “Go into the city, and there you will meet a man carrying a pitcher of water. Follow him,
+He sent two of his disciples, and said to them, “Go into the city, and there you will meet a man carrying a pitcher of water. Follow him, and wherever he enters in, tell the master of the house, ‘The Teacher says, “Where is the guest room, where I may eat the Passover with my disciples?”’
 
 ### 14
-and wherever he enters in, tell the master of the house, ‘The Teacher says, “Where is the guest room, where I may eat the Passover with my disciples?”’
-
-### 15
 He will himself show you a large upper room furnished and ready. Get ready for us there.”
 
-### 16
+### 15
 His disciples went out, and came into the city, and found things as he had said to them, and they prepared the Passover.
 
-### 17
+### 16
 When it was evening he came with the twelve.
 
-### 18
+### 17
 As they sat and were eating, Jesus said, “Most certainly I tell you, one of you will betray me—he who eats with me.”
 
-### 19
+### 18
 They began to be sorrowful, and to ask him one by one, “Surely not I?” And another said, “Surely not I?”
 
-### 20
+### 19
 He answered them, “It is one of the twelve, he who dips with me in the dish.
 
-### 21
+### 20
 For the Son of Man goes, even as it is written about him, but woe to that man by whom the Son of Man is betrayed! It would be better for that man if he had not been born.”
 
-### 22
+### 21
 As they were eating, Jesus took bread, and when he had blessed, he broke it, and gave to them, and said, “Take, eat. This is my body.”
 
-### 23
+### 22
 He took the cup, and when he had given thanks, he gave to them. They all drank of it.
 
-### 24
+### 23
 He said to them, “This is my blood of the new covenant, which is poured out for many.
 
-### 25
+### 24
 Most certainly I tell you, I will no more drink of the fruit of the vine, until that day when I drink it anew in God’s Kingdom.”
 
-### 26
+### 25
 When they had sung a hymn, they went out to the Mount of Olives.
 
-### 27
+### 26
 Jesus said to them, “All of you will be made to stumble because of me tonight, for it is written, ‘I will strike the shepherd, and the sheep will be scattered.’
 
-### 28
+### 27
 However, after I am raised up, I will go before you into Galilee.”
 
-### 29
+### 28
 But Peter said to him, “Although all will be offended, yet I will not.”
 
-### 30
+### 29
 Jesus said to him, “Most certainly I tell you, that you today, even this night, before the rooster crows twice, you will deny me three times.”
 
-### 31
+### 30
 But he spoke all the more, “If I must die with you, I will not deny you.” They all said the same thing.
 
-### 32
+### 31
 They came to a place which was named Gethsemane. He said to his disciples, “Sit here, while I pray.”
 
-### 33
+### 32
 He took with him Peter, James, and John, and began to be greatly troubled and distressed.
 
-### 34
+### 33
 He said to them, “My soul is exceedingly sorrowful, even to death. Stay here, and watch.”
 
-### 35
+### 34
 He went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass away from him.
 
-### 36
+### 35
 He said, “Abba, Father, all things are possible to you. Please remove this cup from me. However, not what I desire, but what you desire.”
 
-### 37
+### 36
 He came and found them sleeping, and said to Peter, “Simon, are you sleeping? Couldn’t you watch one hour?
 
-### 38
+### 37
 Watch and pray, that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak.”
 
-### 39
+### 38
 Again he went away, and prayed, saying the same words.
 
-### 40
+### 39
 Again he returned, and found them sleeping, for their eyes were very heavy, and they didn’t know what to answer him.
 
-### 41
+### 40
 He came the third time, and said to them, “Sleep on now, and take your rest. It is enough. The hour has come. Behold, the Son of Man is betrayed into the hands of sinners.
 
-### 42
+### 41
 Arise, let us be going. Behold, he who betrays me is at hand.”
 
-### 43
+### 42
 Immediately, while he was still speaking, Judas, one of the twelve, came—and with him a multitude with swords and clubs, from the chief priests, the scribes, and the elders.
 
-### 44
+### 43
 Now he who betrayed him had given them a sign, saying, “Whomever I will kiss, that is he. Seize him, and lead him away safely.”
 
-### 45
+### 44
 When he had come, immediately he came to him, and said, “Rabbi! Rabbi!” and kissed him.
 
-### 46
+### 45
 They laid their hands on him, and seized him.
 
-### 47
+### 46
 But a certain one of those who stood by drew his sword, and struck the servant of the high priest, and cut off his ear.
 
-### 48
+### 47
 Jesus answered them, “Have you come out, as against a robber, with swords and clubs to seize me?
 
-### 49
+### 48
 I was daily with you in the temple teaching, and you didn’t arrest me. But this is so that the Scriptures might be fulfilled.”
 
-### 50
+### 49
 They all left him, and fled.
 
+### 50
+A certain young man followed him, having a linen cloth thrown around himself over his naked body. The young men grabbed him, but he left the linen cloth, and fled from them naked.
+
 ### 51
-A certain young man followed him, having a linen cloth thrown around himself over his naked body. The young men grabbed him,
-
-### 52
-but he left the linen cloth, and fled from them naked.
-
-### 53
 They led Jesus away to the high priest. All the chief priests, the elders, and the scribes came together with him.
 
-### 54
+### 52
 Peter had followed him from a distance, until he came into the court of the high priest. He was sitting with the officers, and warming himself in the light of the fire.
 
-### 55
+### 53
 Now the chief priests and the whole council sought witnesses against Jesus to put him to death, and found none.
 
-### 56
+### 54
 For many gave false testimony against him, and their testimony didn’t agree with each other.
 
-### 57
-Some stood up, and gave false testimony against him, saying,
+### 55
+Some stood up, and gave false testimony against him, saying, “We heard him say, ‘I will destroy this temple that is made with hands, and in three days I will build another made without hands.’”
 
-### 58
-“We heard him say, ‘I will destroy this temple that is made with hands, and in three days I will build another made without hands.’”
-
-### 59
+### 56
 Even so, their testimony did not agree.
 
-### 60
+### 57
 The high priest stood up in the middle, and asked Jesus, “Have you no answer? What is it which these testify against you?”
 
-### 61
+### 58
 But he stayed quiet, and answered nothing. Again the high priest asked him, “Are you the Christ, the Son of the Blessed?”
 
-### 62
+### 59
 Jesus said, “I am. You will see the Son of Man sitting at the right hand of Power, and coming with the clouds of the sky.”
 
-### 63
+### 60
 The high priest tore his clothes, and said, “What further need have we of witnesses?
 
-### 64
+### 61
 You have heard the blasphemy! What do you think?” They all condemned him to be worthy of death.
 
-### 65
+### 62
 Some began to spit on him, and to cover his face, and to beat him with fists, and to tell him, “Prophesy!” The officers struck him with the palms of their hands.
 
-### 66
-As Peter was in the courtyard below, one of the maids of the high priest came,
+### 63
+As Peter was in the courtyard below, one of the maids of the high priest came, and seeing Peter warming himself, she looked at him, and said, “You were also with the Nazarene, Jesus!”
 
-### 67
-and seeing Peter warming himself, she looked at him, and said, “You were also with the Nazarene, Jesus!”
-
-### 68
+### 64
 But he denied it, saying, “I neither know, nor understand what you are saying.” He went out on the porch, and the rooster crowed.
 
-### 69
+### 65
 The maid saw him, and began again to tell those who stood by, “This is one of them.”
 
-### 70
+### 66
 But he again denied it. After a little while again those who stood by said to Peter, “You truly are one of them, for you are a Galilean, and your speech shows it.”
 
-### 71
+### 67
 But he began to curse, and to swear, “I don’t know this man of whom you speak!”
 
-### 72
+### 68
 The rooster crowed the second time. Peter remembered the word, how that Jesus said to him, “Before the rooster crows twice, you will deny me three times.” When he thought about that, he wept.

@@ -48,40 +48,37 @@ As soon as you have come into the city, you will immediately find him, before he
 They went up to the city. As they came within the city, behold, Samuel came out toward them, to go up to the high place.
 
 ### 15
-Now Yahweh had revealed to Samuel a day before Saul came, saying,
+Now Yahweh had revealed to Samuel a day before Saul came, saying, “Tomorrow about this time I will send you a man out of the land of Benjamin, and you shall anoint him to be prince over my people Israel. He will save my people out of the hand of the Philistines; for I have looked upon my people, because their cry has come to me.”
 
 ### 16
-“Tomorrow about this time I will send you a man out of the land of Benjamin, and you shall anoint him to be prince over my people Israel. He will save my people out of the hand of the Philistines; for I have looked upon my people, because their cry has come to me.”
-
-### 17
 When Samuel saw Saul, Yahweh said to him, “Behold, the man of whom I spoke to you! He will have authority over my people.”
 
-### 18
+### 17
 Then Saul approached Samuel in the gateway, and said, “Please tell me where the seer’s house is.”
 
-### 19
+### 18
 Samuel answered Saul, and said, “I am the seer. Go up before me to the high place, for you are to eat with me today. In the morning I will let you go, and will tell you all that is in your heart.
 
-### 20
+### 19
 As for your donkeys who were lost three days ago, don’t set your mind on them; for they have been found. For whom is all that is desirable in Israel? Is it not for you, and for all your father’s house?”
 
-### 21
+### 20
 Saul answered, “Am I not a Benjamite, of the smallest of the tribes of Israel? And my family the least of all the families of the tribe of Benjamin? Why then do you speak to me like this?”
 
-### 22
+### 21
 Samuel took Saul and his servant, and brought them into the guest room, and made them sit in the best place among those who were invited, who were about thirty persons.
 
-### 23
+### 22
 Samuel said to the cook, “Bring the portion which I gave you, of which I said to you, ‘Set it aside.’”
 
-### 24
+### 23
 The cook took up the thigh, and that which was on it, and set it before Saul. Samuel said, “Behold, that which has been reserved! Set it before yourself and eat; because for the appointed time has it been kept for you, for I said, ‘I have invited the people.’” So Saul ate with Samuel that day.
 
-### 25
+### 24
 When they had come down from the high place into the city, he talked with Saul on the housetop.
 
-### 26
+### 25
 They arose early; and about daybreak, Samuel called to Saul on the housetop, saying, “Get up, that I may send you away.” Saul arose, and they both went outside, he and Samuel, together.
 
-### 27
+### 26
 As they were going down at the end of the city, Samuel said to Saul, “Tell the servant to go on ahead of us.” He went ahead, then Samuel said, “But stand still first, that I may cause you to hear God’s message.”

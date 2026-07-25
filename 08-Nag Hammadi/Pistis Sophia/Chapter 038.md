@@ -12,39 +12,31 @@ translation: G.R.S. Mead
 **Chapter 38**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 38**
 
 ### 2
-Next
-
-**CHAPTER 38**
-
-### 3
 And it came to pass, when Jesus had finished speaking these words unto his disciples, saying: "This is the third repentance of Pistis Sophia," that he said unto them: "Let him in whom a sensitive spirit hath arisen, come forward and speak the thought of the repentance which Pistis Sophia hath uttered."
 
-### 4
+### 3
 Martha asketh and receiveth permission to speak.It came to pass then, before Jesus had finished speaking, that Martha came forward, fell down at his feet, kissed them, cried aloud and wept with lamentation and in humbleness, saying: "My Lord, have mercy upon me and have compassion with me, and let me speak the solution of the repentance which Pistis Sophia hath uttered."
 
-### 5
+### 4
 And Jesus gave his hand unto Martha and said unto her: "Blessed is every one who humbleth himself, for on him they shall have mercy. Now, therefore, Martha, art thou blessed. But proclaim then the solution of the thought of the repentance of Pistis Sophia."
 
+### 5
+Martha interpreteth the third repentance from Psalm lxix.And Martha answered and said unto Jesus in the midst of the disciples: "Concerning the repentance which Pistis Sophia hath uttered, O my Lord Jesus, of it thy light-power in David prophesied aforetime in the sixty-ninth Psalm, saying: "'1. O Lord God, give heed to my help.
+
 ### 6
-Martha interpreteth the third repentance from Psalm lxix.And Martha answered and said unto Jesus in the midst of the disciples: "Concerning the repentance which Pistis Sophia hath uttered, O my Lord Jesus, of it thy light-power in David prophesied aforetime in the sixty-ninth Psalm, saying:
-
-### 7
-"'1. O Lord God, give heed to my help.
-
-### 8
 "'2. Let them be put to shame and con-founded who seek after my soul.
 
-### 9
+### 7
 "'3. May they turn straightway and be put to shame, who say unto me: Ha, ha.
 
-### 10
+### 8
 "'4. May all who seek thee, be joyful and exult because of thee, and they who love thy salvation, say ever: May God be exalted.
 
-### 11
+### 9
 "'5. But I am wretched, I am poor; O Lord, help me. Thou art my helper and defence; O Lord, delay not.'
 
-### 12
+### 10
 "This then is the solution of the third repentance which Pistis Sophia hath uttered, singing praises to the height."

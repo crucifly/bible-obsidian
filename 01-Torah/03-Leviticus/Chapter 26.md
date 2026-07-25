@@ -12,133 +12,115 @@ canon: "Torah"
 “‘You shall keep my Sabbaths, and have reverence for my sanctuary. I am Yahweh.
 
 ### 3
-“‘If you walk in my statutes, and keep my commandments, and do them;
+“‘If you walk in my statutes, and keep my commandments, and do them; then I will give you your rains in their season, and the land shall yield its increase, and the trees of the field shall yield their fruit.
 
 ### 4
-then I will give you your rains in their season, and the land shall yield its increase, and the trees of the field shall yield their fruit.
-
-### 5
 Your threshing shall reach to the vintage, and the vintage shall reach to the sowing time. You shall eat your bread to the full, and dwell in your land safely.
 
-### 6
+### 5
 “‘I will give peace in the land, and you shall lie down, and no one will make you afraid. I will remove evil animals out of the land, neither shall the sword go through your land.
 
-### 7
+### 6
 You shall chase your enemies, and they shall fall before you by the sword.
 
-### 8
+### 7
 Five of you shall chase a hundred, and a hundred of you shall chase ten thousand; and your enemies shall fall before you by the sword.
 
-### 9
+### 8
 “‘I will have respect for you, and make you fruitful, and multiply you, and will establish my covenant with you.
 
-### 10
+### 9
 You shall eat old store long kept, and you shall move out the old because of the new.
 
-### 11
+### 10
 I will set my tent among you, and my soul won’t abhor you.
 
-### 12
+### 11
 I will walk among you, and will be your God, and you will be my people.
 
-### 13
+### 12
 I am Yahweh your God, who brought you out of the land of Egypt, that you should not be their slaves. I have broken the bars of your yoke, and made you go upright.
 
+### 13
+“‘But if you will not listen to me, and will not do all these commandments; and if you shall reject my statutes, and if your soul abhors my ordinances, so that you will not do all my commandments, but break my covenant;
+
 ### 14
-“‘But if you will not listen to me, and will not do all these commandments;
-
-### 15
-and if you shall reject my statutes, and if your soul abhors my ordinances, so that you will not do all my commandments, but break my covenant;
-
-### 16
 I also will do this to you: I will appoint terror over you, even consumption and fever, that shall consume the eyes, and make the soul to pine away. You will sow your seed in vain, for your enemies will eat it.
 
-### 17
+### 15
 I will set my face against you, and you will be struck before your enemies. Those who hate you will rule over you; and you will flee when no one pursues you.
 
-### 18
+### 16
 “‘If you in spite of these things will not listen to me, then I will chastise you seven times more for your sins.
 
-### 19
+### 17
 I will break the pride of your power, and I will make your sky like iron, and your soil like brass.
 
-### 20
+### 18
 Your strength will be spent in vain; for your land won’t yield its increase, neither will the trees of the land yield their fruit.
 
-### 21
+### 19
 “‘If you walk contrary to me, and won’t listen to me, then I will bring seven times more plagues on you according to your sins.
 
-### 22
+### 20
 I will send the wild animals among you, which will rob you of your children, destroy your livestock, and make you few in number. Your roads will become desolate.
 
-### 23
-“‘If by these things you won’t be reformed to me, but will walk contrary to me;
+### 21
+“‘If by these things you won’t be reformed to me, but will walk contrary to me; then I will also walk contrary to you; and I will strike you, even I, seven times for your sins.
 
-### 24
-then I will also walk contrary to you; and I will strike you, even I, seven times for your sins.
-
-### 25
+### 22
 I will bring a sword upon you that will execute the vengeance of the covenant. You will be gathered together within your cities, and I will send the pestilence among you. You will be delivered into the hand of the enemy.
 
-### 26
+### 23
 When I break your staff of bread, ten women shall bake your bread in one oven, and they shall deliver your bread again by weight. You shall eat, and not be satisfied.
 
-### 27
-“‘If you in spite of this won’t listen to me, but walk contrary to me;
+### 24
+“‘If you in spite of this won’t listen to me, but walk contrary to me; then I will walk contrary to you in wrath. I will also chastise you seven times for your sins.
 
-### 28
-then I will walk contrary to you in wrath. I will also chastise you seven times for your sins.
-
-### 29
+### 25
 You will eat the flesh of your sons, and you will eat the flesh of your daughters.
 
-### 30
+### 26
 I will destroy your high places, and cut down your incense altars, and cast your dead bodies upon the bodies of your idols; and my soul will abhor you.
 
-### 31
+### 27
 I will lay your cities waste, and will bring your sanctuaries to desolation. I will not take delight in the sweet fragrance of your offerings.
 
-### 32
+### 28
 I will bring the land into desolation; and your enemies that dwell therein will be astonished at it.
 
-### 33
+### 29
 I will scatter you among the nations, and I will draw out the sword after you. Your land will be a desolation, and your cities shall be a waste.
 
-### 34
+### 30
 Then the land will enjoy its Sabbaths as long as it lies desolate and you are in your enemies’ land. Even then the land will rest and enjoy its Sabbaths.
 
-### 35
+### 31
 As long as it lies desolate it shall have rest, even the rest which it didn’t have in your Sabbaths, when you lived on it.
 
-### 36
+### 32
 “‘As for those of you who are left, I will send a faintness into their hearts in the lands of their enemies. The sound of a driven leaf will put them to flight; and they shall flee, as one flees from the sword. They will fall when no one pursues.
 
-### 37
+### 33
 They will stumble over one another, as it were before the sword, when no one pursues. You will have no power to stand before your enemies.
 
-### 38
+### 34
 You will perish among the nations. The land of your enemies will eat you up.
 
-### 39
+### 35
 Those of you who are left will pine away in their iniquity in your enemies’ lands; and also in the iniquities of their fathers they shall pine away with them.
 
-### 40
-“‘If they confess their iniquity, and the iniquity of their fathers, in their trespass which they trespassed against me, and also that, because they walked contrary to me,
+### 36
+“‘If they confess their iniquity, and the iniquity of their fathers, in their trespass which they trespassed against me, and also that, because they walked contrary to me, I also walked contrary to them, and brought them into the land of their enemies; if then their uncircumcised heart is humbled, and they then accept the punishment of their iniquity;
 
-### 41
-I also walked contrary to them, and brought them into the land of their enemies; if then their uncircumcised heart is humbled, and they then accept the punishment of their iniquity;
-
-### 42
+### 37
 then I will remember my covenant with Jacob; and also my covenant with Isaac, and also my covenant with Abraham; and I will remember the land.
 
-### 43
+### 38
 The land also will be left by them, and will enjoy its Sabbaths while it lies desolate without them: and they will accept the punishment of their iniquity; because, even because they rejected my ordinances, and their soul abhorred my statutes.
 
-### 44
-Yet for all that, when they are in the land of their enemies, I will not reject them, neither will I abhor them, to destroy them utterly, and to break my covenant with them; for I am Yahweh their God;
+### 39
+Yet for all that, when they are in the land of their enemies, I will not reject them, neither will I abhor them, to destroy them utterly, and to break my covenant with them; for I am Yahweh their God; but I will for their sake remember the covenant of their ancestors, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God. I am Yahweh.’”
 
-### 45
-but I will for their sake remember the covenant of their ancestors, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God. I am Yahweh.’”
-
-### 46
+### 40
 These are the statutes, ordinances and laws, which Yahweh made between him and the children of Israel in Mount Sinai by Moses.

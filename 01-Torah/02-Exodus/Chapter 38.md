@@ -30,70 +30,58 @@ He put the poles into the rings on the sides of the altar, with which to carry i
 He made the basin of brass, and its base of brass, out of the mirrors of the ministering women who ministered at the door of the Tent of Meeting.
 
 ### 9
-He made the court: for the south side southward the hangings of the court were of fine twined linen, one hundred cubits;
+He made the court: for the south side southward the hangings of the court were of fine twined linen, one hundred cubits; their pillars were twenty, and their sockets twenty, of brass; the hooks of the pillars and their fillets were of silver.
 
 ### 10
-their pillars were twenty, and their sockets twenty, of brass; the hooks of the pillars and their fillets were of silver.
-
-### 11
 For the north side one hundred cubits, their pillars twenty, and their sockets twenty, of brass; the hooks of the pillars, and their fillets, of silver.
 
-### 12
+### 11
 For the west side were hangings of fifty cubits, their pillars ten, and their sockets ten; the hooks of the pillars, and their fillets, of silver.
 
-### 13
+### 12
 For the east side eastward fifty cubits.
 
+### 13
+The hangings for the one side were fifteen cubits; their pillars three, and their sockets three; and so for the other side: on this hand and that hand by the gate of the court were hangings of fifteen cubits; their pillars three, and their sockets three.
+
 ### 14
-The hangings for the one side were fifteen cubits; their pillars three, and their sockets three;
-
-### 15
-and so for the other side: on this hand and that hand by the gate of the court were hangings of fifteen cubits; their pillars three, and their sockets three.
-
-### 16
 All the hangings around the court were of fine twined linen.
 
-### 17
+### 15
 The sockets for the pillars were of brass. The hooks of the pillars and their fillets were of silver; and the overlaying of their capitals, of silver; and all the pillars of the court were filleted with silver.
 
-### 18
+### 16
 The screen for the gate of the court was the work of the embroiderer, of blue, purple, scarlet, and fine twined linen. Twenty cubits was the length, and the height in the width was five cubits, like to the hangings of the court.
 
-### 19
+### 17
 Their pillars were four, and their sockets four, of brass; their hooks of silver, and the overlaying of their capitals, and their fillets, of silver.
 
-### 20
+### 18
 All the pins of the tabernacle, and around the court, were of brass.
 
-### 21
+### 19
 This is the amount of material used for the tabernacle, even the Tabernacle of the Testimony, as they were counted, according to the commandment of Moses, for the service of the Levites, by the hand of Ithamar, the son of Aaron the priest.
 
-### 22
+### 20
 Bezalel the son of Uri, the son of Hur, of the tribe of Judah, made all that Yahweh commanded Moses.
 
-### 23
+### 21
 With him was Oholiab, the son of Ahisamach, of the tribe of Dan, an engraver, and a skillful workman, and an embroiderer in blue, in purple, in scarlet, and in fine linen.
 
-### 24
+### 22
 All the gold that was used for the work in all the work of the sanctuary, even the gold of the offering, was twenty-nine talents, and seven hundred thirty shekels, after the shekel of the sanctuary.
 
-### 25
-The silver of those who were counted of the congregation was one hundred talents, and one thousand seven hundred seventy-five shekels, after the shekel of the sanctuary:
+### 23
+The silver of those who were counted of the congregation was one hundred talents, and one thousand seven hundred seventy-five shekels, after the shekel of the sanctuary: a beka a head, that is, half a shekel, after the shekel of the sanctuary, for everyone who passed over to those who were counted, from twenty years old and upward, for six hundred three thousand five hundred fifty men.
 
-### 26
-a beka a head, that is, half a shekel, after the shekel of the sanctuary, for everyone who passed over to those who were counted, from twenty years old and upward, for six hundred three thousand five hundred fifty men.
-
-### 27
+### 24
 The one hundred talents of silver were for casting the sockets of the sanctuary, and the sockets of the veil; one hundred sockets for the one hundred talents, a talent for a socket.
 
-### 28
+### 25
 Of the one thousand seven hundred seventy-five shekels he made hooks for the pillars, overlaid their capitals, and made fillets for them.
 
-### 29
+### 26
 The brass of the offering was seventy talents, and two thousand four hundred shekels.
 
-### 30
-With this he made the sockets to the door of the Tent of Meeting, the bronze altar, the bronze grating for it, all the vessels of the altar,
-
-### 31
-the sockets around the court, the sockets of the gate of the court, all the pins of the tabernacle, and all the pins around the court.
+### 27
+With this he made the sockets to the door of the Tent of Meeting, the bronze altar, the bronze grating for it, all the vessels of the altar, the sockets around the court, the sockets of the gate of the court, all the pins of the tabernacle, and all the pins around the court.

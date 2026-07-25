@@ -9,26 +9,16 @@ canon: "Unknown"
 # The Divine Source of Truth (MANIFESTO)
 
 ### 1
-**Primary Objective:** Maintain a sterile, canonical representation of the Ethiopian 81-book canon and authorized translations.
-
-### Logical Constraints:
+**Primary Objective:** Maintain a sterile, canonical representation of the Ethiopian 81-book canon and authorized translations. ### Logical Constraints: - **No Interpretation:** Files must contain zero commentary, sermon notes, or personal opinions.
 
 ### 2
-- **No Interpretation:** Files must contain zero commentary, sermon notes, or personal opinions.
-
-### 3
 - **Schema Adherence:** Every file must pass the `00_Schema.md` validation.
 
+### 3
+- **Reference Integrity:** All cross-references must point only to other files within this directory. ### Current Roadmap: Initializing 1 Enoch (Small-batch validation).
+
 ### 4
-- **Reference Integrity:** All cross-references must point only to other files within this directory.
-
-### Current Roadmap:
-
-### 5
-Initializing 1 Enoch (Small-batch validation).
-
-### 6
 Developing TypeScript JSONL Forge script.
 
-### 7
+### 5
 Fine-tuning Gemma 4 E4B.

@@ -140,34 +140,19 @@ And whilst he was going along he wept at what had happened to him in the corrupt
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_18&oldid=11445887"
 
 ### 44
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:45.
 
 ### 45
-This page was last edited on 30 June 2021, at 01:45.
-
-### 46
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 46
+Privacy policy Disclaimers
+
 ### 47
-Privacy policy
+Code of Conduct Developers
 
 ### 48
-Disclaimers
+Statistics Cookie statement
 
 ### 49
-Code of Conduct
-
-### 50
-Developers
-
-### 51
-Statistics
-
-### 52
-Cookie statement
-
-### 53
-Mobile view
-
-### 54
-Add topic
+Mobile view Add topic

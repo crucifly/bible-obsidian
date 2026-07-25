@@ -27,19 +27,16 @@ And all who dwell above in the heaven received a command and power and one voice
 And that One (with) their first words they blessed, And extolled and lauded with wisdom, And they were wise in utterance and in the spirit of life.
 
 ### 8
-And the Lord of Spirits placed the Elect one on the throne of glory. And he shall judge all the works of the holy above in the heaven, And in the balance shall their deeds be weighed
+And the Lord of Spirits placed the Elect one on the throne of glory. And he shall judge all the works of the holy above in the heaven, And in the balance shall their deeds be weighed And when he shall lift up his countenance To judge their secret ways according to the word of the name of the Lord of Spirits, And their path according to the way of the righteous judgement of the Lord of Spirits, Then shall they all with one voice speak and bless, And glorify and extol and sanctify the name of the Lord of Spirits.
 
 ### 9
-And when he shall lift up his countenance To judge their secret ways according to the word of the name of the Lord of Spirits, And their path according to the way of the righteous judgement of the Lord of Spirits, Then shall they all with one voice speak and bless, And glorify and extol and sanctify the name of the Lord of Spirits.
-
-### 10
 And He will summon all the host of the heavens, and all the holy ones above, and the host of God, the Cherubic, Seraphin and Ophannin, and all the angels of power, and all the angels of principalities, and the Elect One, and the other powers on the earth (and) over the water.
 
-### 11
+### 10
 On that day shall raise one voice, and bless and glorify and exalt in the spirit of faith, and in the spirit of wisdom, and in the spirit of patience, and in the spirit of mercy, and in the spirit of judgement and of peace, and in the spirit of goodness, and shall all say with one voice: “Blessed is He, and may the name of the Lord of Spirits be blessed for ever and ever.”
 
-### 12
+### 11
 All who sleep not above in heaven shall bless Him: All the holy ones who are in heaven shall bless Him, And all the elect who dwell in the garden of life: And every spirit of light who is able to bless, and glorify, and extol, and hallow Thy blessed name, And all flesh shall beyond measure glorify and bless Thy name for ever and ever.
 
-### 13
+### 12
 For great is the mercy of the Lord of Spirits, and He is long-suffering, And all His works and all that He has created He has revealed to the righteous and elect In the name of the Lord of Spirits.

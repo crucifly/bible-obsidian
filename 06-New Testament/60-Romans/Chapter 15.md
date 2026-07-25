@@ -18,88 +18,70 @@ For even Christ didn’t please himself. But, as it is written, “The reproache
 For whatever things were written before were written for our learning, that through perseverance and through encouragement of the Scriptures we might have hope.
 
 ### 5
-Now the God of perseverance and of encouragement grant you to be of the same mind one with another according to Christ Jesus,
+Now the God of perseverance and of encouragement grant you to be of the same mind one with another according to Christ Jesus, that with one accord you may with one mouth glorify the God and Father of our Lord Jesus Christ.
 
 ### 6
-that with one accord you may with one mouth glorify the God and Father of our Lord Jesus Christ.
-
-### 7
 Therefore accept one another, even as Christ also accepted you, to the glory of God.
 
+### 7
+Now I say that Christ has been made a servant of the circumcision for the truth of God, that he might confirm the promises given to the fathers, and that the Gentiles might glorify God for his mercy. As it is written, “Therefore will I give praise to you among the Gentiles, and sing to your name.”
+
 ### 8
-Now I say that Christ has been made a servant of the circumcision for the truth of God, that he might confirm the promises given to the fathers,
-
-### 9
-and that the Gentiles might glorify God for his mercy. As it is written, “Therefore will I give praise to you among the Gentiles, and sing to your name.”
-
-### 10
 Again he says, “Rejoice, you Gentiles, with his people.”
 
-### 11
+### 9
 Again, “Praise the Lord, all you Gentiles! Let all the peoples praise him.”
 
-### 12
+### 10
 Again, Isaiah says, “There will be the root of Jesse, he who arises to rule over the Gentiles; in him the Gentiles will hope.”
 
-### 13
+### 11
 Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope, in the power of the Holy Spirit.
 
-### 14
+### 12
 I myself am also persuaded about you, my brothers, that you yourselves are full of goodness, filled with all knowledge, able also to admonish others.
 
-### 15
-But I write the more boldly to you in part, as reminding you, because of the grace that was given to me by God,
+### 13
+But I write the more boldly to you in part, as reminding you, because of the grace that was given to me by God, that I should be a servant of Christ Jesus to the Gentiles, serving as a priest of the Good News of God, that the offering up of the Gentiles might be made acceptable, sanctified by the Holy Spirit.
 
-### 16
-that I should be a servant of Christ Jesus to the Gentiles, serving as a priest of the Good News of God, that the offering up of the Gentiles might be made acceptable, sanctified by the Holy Spirit.
-
-### 17
+### 14
 I have therefore my boasting in Christ Jesus in things pertaining to God.
 
-### 18
-For I will not dare to speak of any things except those which Christ worked through me, for the obedience of the Gentiles, by word and deed,
+### 15
+For I will not dare to speak of any things except those which Christ worked through me, for the obedience of the Gentiles, by word and deed, in the power of signs and wonders, in the power of God’s Spirit; so that from Jerusalem, and around as far as to Illyricum, I have fully preached the Good News of Christ;
 
-### 19
-in the power of signs and wonders, in the power of God’s Spirit; so that from Jerusalem, and around as far as to Illyricum, I have fully preached the Good News of Christ;
-
-### 20
+### 16
 yes, making it my aim to preach the Good News, not where Christ was already named, that I might not build on another’s foundation.
 
-### 21
+### 17
 But, as it is written, “They will see, to whom no news of him came. They who haven’t heard will understand.”
 
-### 22
-Therefore also I was hindered these many times from coming to you,
+### 18
+Therefore also I was hindered these many times from coming to you, but now, no longer having any place in these regions, and having these many years a longing to come to you,
 
-### 23
-but now, no longer having any place in these regions, and having these many years a longing to come to you,
-
-### 24
+### 19
 whenever I travel to Spain, I will come to you. For I hope to see you on my journey, and to be helped on my way there by you, if first I may enjoy your company for a while.
 
-### 25
+### 20
 But now, I say, I am going to Jerusalem, serving the saints.
 
-### 26
+### 21
 For it has been the good pleasure of Macedonia and Achaia to make a certain contribution for the poor among the saints who are at Jerusalem.
 
-### 27
+### 22
 Yes, it has been their good pleasure, and they are their debtors. For if the Gentiles have been made partakers of their spiritual things, they owe it to them also to serve them in fleshly things.
 
-### 28
+### 23
 When therefore I have accomplished this, and have sealed to them this fruit, I will go on by way of you to Spain.
 
-### 29
+### 24
 I know that, when I come to you, I will come in the fullness of the blessing of the Good News of Christ.
 
-### 30
-Now I beg you, brothers, by our Lord Jesus Christ, and by the love of the Spirit, that you strive together with me in your prayers to God for me,
+### 25
+Now I beg you, brothers, by our Lord Jesus Christ, and by the love of the Spirit, that you strive together with me in your prayers to God for me, that I may be delivered from those who are disobedient in Judea, and that my service which I have for Jerusalem may be acceptable to the saints;
 
-### 31
-that I may be delivered from those who are disobedient in Judea, and that my service which I have for Jerusalem may be acceptable to the saints;
-
-### 32
+### 26
 that I may come to you in joy through the will of God, and together with you, find rest.
 
-### 33
+### 27
 Now the God of peace be with you all. Amen.

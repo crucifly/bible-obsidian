@@ -39,28 +39,19 @@ So Edom revolted from under the hand of Judah to this day. Then Libnah revolted 
 Moreover he made high places in the mountains of Judah, and made the inhabitants of Jerusalem play the prostitute, and led Judah astray.
 
 ### 12
-A letter came to him from Elijah the prophet, saying, “Yahweh, the God of David your father, says, ‘Because you have not walked in the ways of Jehoshaphat your father, nor in the ways of Asa king of Judah,
+A letter came to him from Elijah the prophet, saying, “Yahweh, the God of David your father, says, ‘Because you have not walked in the ways of Jehoshaphat your father, nor in the ways of Asa king of Judah, but have walked in the way of the kings of Israel, and have made Judah and the inhabitants of Jerusalem to play the prostitute like Ahab’s house did, and also have slain your brothers of your father’s house, who were better than yourself,
 
 ### 13
-but have walked in the way of the kings of Israel, and have made Judah and the inhabitants of Jerusalem to play the prostitute like Ahab’s house did, and also have slain your brothers of your father’s house, who were better than yourself,
+behold, Yahweh will strike your people with a great plague, including your children, your wives, and all your posessions; and you will have great sickness with a disease of your bowels, until your bowels fall out by reason of the sickness, day by day.’”
 
 ### 14
-behold, Yahweh will strike your people with a great plague, including your children, your wives, and all your posessions;
+Yahweh stirred up against Jehoram the spirit of the Philistines, and of the Arabians who are beside the Ethiopians; and they came up against Judah, broke into it, and carried away all the posessions that were found in the king’s house, including his sons and his wives; so that there was no son left him, except Jehoahaz, the youngest of his sons.
 
 ### 15
-and you will have great sickness with a disease of your bowels, until your bowels fall out by reason of the sickness, day by day.’”
-
-### 16
-Yahweh stirred up against Jehoram the spirit of the Philistines, and of the Arabians who are beside the Ethiopians;
-
-### 17
-and they came up against Judah, broke into it, and carried away all the posessions that were found in the king’s house, including his sons and his wives; so that there was no son left him, except Jehoahaz, the youngest of his sons.
-
-### 18
 After all this Yahweh struck him in his bowels with an incurable disease.
 
-### 19
+### 16
 In process of time, at the end of two years, his bowels fell out by reason of his sickness, and he died of severe diseases. His people made no burning for him, like the burning of his fathers.
 
-### 20
+### 17
 He was thirty-two years old when he began to reign, and he reigned in Jerusalem eight years. He departed without being missed; and they buried him in David’s city, but not in the tombs of the kings.

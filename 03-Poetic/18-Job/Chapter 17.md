@@ -42,13 +42,10 @@ My days are past, my plans are broken off, as are the thoughts of my heart.
 They change the night into day, saying ‘The light is near’ in the presence of darkness.
 
 ### 13
-If I look for Sheol as my house, if I have spread my couch in the darkness,
+If I look for Sheol as my house, if I have spread my couch in the darkness, If I have said to corruption, ‘You are my father;’ to the worm, ‘My mother,’ and ‘my sister;’
 
 ### 14
-If I have said to corruption, ‘You are my father;’ to the worm, ‘My mother,’ and ‘my sister;’
-
-### 15
 where then is my hope? as for my hope, who shall see it?
 
-### 16
+### 15
 Shall it go down with me to the gates of Sheol, or descend together into the dust?”

@@ -27,79 +27,64 @@ Behold, I am toward God even as you are. I am also formed out of the clay.
 Behold, my terror shall not make you afraid, neither shall my pressure be heavy on you.
 
 ### 8
-“Surely you have spoken in my hearing, I have heard the voice of your words, saying,
+“Surely you have spoken in my hearing, I have heard the voice of your words, saying, ‘I am clean, without disobedience. I am innocent, neither is there iniquity in me.
 
 ### 9
-‘I am clean, without disobedience. I am innocent, neither is there iniquity in me.
-
-### 10
 Behold, he finds occasions against me. He counts me for his enemy.
 
-### 11
+### 10
 He puts my feet in the stocks. He marks all my paths.’
 
-### 12
+### 11
 “Behold, I will answer you. In this you are not just, for God is greater than man.
 
-### 13
+### 12
 Why do you strive against him, because he doesn’t give account of any of his matters?
 
-### 14
+### 13
 For God speaks once, yes twice, though man pays no attention.
 
+### 14
+In a dream, in a vision of the night, when deep sleep falls on men, in slumbering on the bed; Then he opens the ears of men, and seals their instruction,
+
 ### 15
-In a dream, in a vision of the night, when deep sleep falls on men, in slumbering on the bed;
-
-### 16
-Then he opens the ears of men, and seals their instruction,
-
-### 17
 That he may withdraw man from his purpose, and hide pride from man.
 
-### 18
+### 16
 He keeps back his soul from the pit, and his life from perishing by the sword.
 
-### 19
-He is chastened also with pain on his bed, with continual strife in his bones;
+### 17
+He is chastened also with pain on his bed, with continual strife in his bones; So that his life abhors bread, and his soul dainty food.
 
-### 20
-So that his life abhors bread, and his soul dainty food.
-
-### 21
+### 18
 His flesh is so consumed away, that it can’t be seen. His bones that were not seen stick out.
 
-### 22
+### 19
 Yes, his soul draws near to the pit, and his life to the destroyers.
 
-### 23
-“If there is beside him an angel, an interpreter, one among a thousand, to show to man what is right for him;
+### 20
+“If there is beside him an angel, an interpreter, one among a thousand, to show to man what is right for him; then God is gracious to him, and says, ‘Deliver him from going down to the pit, I have found a ransom.’
 
-### 24
-then God is gracious to him, and says, ‘Deliver him from going down to the pit, I have found a ransom.’
-
-### 25
+### 21
 His flesh shall be fresher than a child’s. He returns to the days of his youth.
 
-### 26
+### 22
 He prays to God, and he is favorable to him, so that he sees his face with joy. He restores to man his righteousness.
 
-### 27
+### 23
 He sings before men, and says, ‘I have sinned, and perverted that which was right, and it didn’t profit me.
 
-### 28
+### 24
 He has redeemed my soul from going into the pit. My life shall see the light.’
 
-### 29
-“Behold, God does all these things, twice, yes three times, with a man,
+### 25
+“Behold, God does all these things, twice, yes three times, with a man, to bring back his soul from the pit, that he may be enlightened with the light of the living.
 
-### 30
-to bring back his soul from the pit, that he may be enlightened with the light of the living.
-
-### 31
+### 26
 Mark well, Job, and listen to me. Hold your peace, and I will speak.
 
-### 32
+### 27
 If you have anything to say, answer me. Speak, for I desire to justify you.
 
-### 33
+### 28
 If not, listen to me. Hold your peace, and I will teach you wisdom.”

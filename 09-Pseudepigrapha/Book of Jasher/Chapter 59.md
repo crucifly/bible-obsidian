@@ -95,34 +95,19 @@ And it came to pass after the death of Joseph, all the Egyptians began in those 
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_59&oldid=11446002"
 
 ### 29
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:03.
 
 ### 30
-This page was last edited on 30 June 2021, at 02:03.
-
-### 31
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 31
+Privacy policy Disclaimers
+
 ### 32
-Privacy policy
+Code of Conduct Developers
 
 ### 33
-Disclaimers
+Statistics Cookie statement
 
 ### 34
-Code of Conduct
-
-### 35
-Developers
-
-### 36
-Statistics
-
-### 37
-Cookie statement
-
-### 38
-Mobile view
-
-### 39
-Add topic
+Mobile view Add topic

@@ -27,82 +27,79 @@ For if a woman is not covered, let her hair also be cut off. But if it is shamef
 For a man indeed ought not to have his head covered, because he is the image and glory of God, but the woman is the glory of the man.
 
 ### 8
-For man is not from woman, but woman from man;
+For man is not from woman, but woman from man; for man wasn’t created for the woman, but woman for the man.
 
 ### 9
-for man wasn’t created for the woman, but woman for the man.
-
-### 10
 For this cause the woman ought to have authority over her own head, because of the angels.
 
-### 11
+### 10
 Nevertheless, neither is the woman independent of the man, nor the man independent of the woman, in the Lord.
 
-### 12
+### 11
 For as woman came from man, so a man also comes through a woman; but all things are from God.
 
-### 13
+### 12
 Judge for yourselves. Is it appropriate that a woman pray to God unveiled?
 
-### 14
+### 13
 Doesn’t even nature itself teach you that if a man has long hair, it is a dishonor to him?
 
-### 15
+### 14
 But if a woman has long hair, it is a glory to her, for her hair is given to her for a covering.
 
-### 16
+### 15
 But if any man seems to be contentious, we have no such custom, neither do God’s assemblies.
 
-### 17
+### 16
 But in giving you this command, I don’t praise you, that you come together not for the better but for the worse.
 
-### 18
+### 17
 For first of all, when you come together in the assembly, I hear that divisions exist among you, and I partly believe it.
 
-### 19
+### 18
 For there also must be factions among you, that those who are approved may be revealed among you.
 
-### 20
+### 19
 When therefore you assemble yourselves together, it is not the Lord’s supper that you eat.
 
-### 21
+### 20
 For in your eating each one takes his own supper first. One is hungry, and another is drunken.
 
-### 22
+### 21
 What, don’t you have houses to eat and to drink in? Or do you despise God’s assembly, and put them to shame who don’t have enough? What shall I tell you? Shall I praise you? In this I don’t praise you.
 
-### 23
+### 22
 For I received from the Lord that which also I delivered to you, that the Lord Jesus on the night in which he was betrayed took bread.
 
-### 24
+### 23
 When he had given thanks, he broke it, and said, “Take, eat. This is my body, which is broken for you. Do this in memory of me.”
 
-### 25
+### 24
 In the same way he also took the cup, after supper, saying, “This cup is the new covenant in my blood. Do this, as often as you drink, in memory of me.”
 
-### 26
+### 25
 For as often as you eat this bread and drink this cup, you proclaim the Lord’s death until he comes.
 
-### 27
+### 26
 Therefore whoever eats this bread or drinks the Lord’s cup in a way unworthy of the Lord will be guilty of the body and the blood of the Lord.
 
-### 28
+### 27
 But let a man examine himself, and so let him eat of the bread, and drink of the cup.
 
-### 29
+### 28
 For he who eats and drinks in an unworthy way eats and drinks judgment to himself, if he doesn’t discern the Lord’s body.
 
-### 30
+### 29
 For this cause many among you are weak and sickly, and not a few sleep.
 
-### 31
+### 30
 For if we discerned ourselves, we wouldn’t be judged.
 
-### 32
+### 31
 But when we are judged, we are punished by the Lord, that we may not be condemned with the world.
 
-### 33
+### 32
 Therefore, my brothers, when you come together to eat, wait for one another.
 
-### 34
+### 33
 But if anyone is hungry, let him eat at home, lest your coming together be for judgment. The rest I will set in order whenever I come.

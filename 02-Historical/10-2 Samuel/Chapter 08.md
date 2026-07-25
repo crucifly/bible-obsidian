@@ -30,31 +30,22 @@ David took the shields of gold that were on the servants of Hadadezer, and broug
 From Betah and from Berothai, cities of Hadadezer, king David took a great quantity of brass.
 
 ### 9
-When Toi king of Hamath heard that David had struck all the army of Hadadezer,
+When Toi king of Hamath heard that David had struck all the army of Hadadezer, then Toi sent Joram his son to king David, to greet him, and to bless him, because he had fought against Hadadezer and struck him; for Hadadezer had wars with Toi. Joram brought with him vessels of silver, vessels of gold, and vessels of brass:
 
 ### 10
-then Toi sent Joram his son to king David, to greet him, and to bless him, because he had fought against Hadadezer and struck him; for Hadadezer had wars with Toi. Joram brought with him vessels of silver, vessels of gold, and vessels of brass:
+King David also dedicated these to Yahweh, with the silver and gold that he dedicated of all the nations which he subdued; of Syria, of Moab, of the children of Ammon, of the Philistines, of Amalek, and of the plunder of Hadadezer, son of Rehob, king of Zobah.
 
 ### 11
-King David also dedicated these to Yahweh, with the silver and gold that he dedicated of all the nations which he subdued;
-
-### 12
-of Syria, of Moab, of the children of Ammon, of the Philistines, of Amalek, and of the plunder of Hadadezer, son of Rehob, king of Zobah.
-
-### 13
 David earned a reputation when he returned from striking down eighteen thousand men of the Syrians in the Valley of Salt.
 
-### 14
+### 12
 He put garrisons in Edom. Throughout all Edom put he garrisons, and all the Edomites became servants to David. Yahweh gave victory to David wherever he went.
 
-### 15
+### 13
 David reigned over all Israel; and David executed justice and righteousness for all his people.
 
-### 16
-Joab the son of Zeruiah was over the army, Jehoshaphat the son of Ahilud was recorder,
+### 14
+Joab the son of Zeruiah was over the army, Jehoshaphat the son of Ahilud was recorder, Zadok the son of Ahitub and Ahimelech the son of Abiathar were priests, Seraiah was scribe,
 
-### 17
-Zadok the son of Ahitub and Ahimelech the son of Abiathar were priests, Seraiah was scribe,
-
-### 18
+### 15
 Benaiah the son of Jehoiada was over the Cherethites and the Pelethites, David’s sons were chief ministers.

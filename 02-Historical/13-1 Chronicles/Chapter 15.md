@@ -15,79 +15,61 @@ Then David said, “No one ought to carry God’s ark but the Levites. For Yahwe
 David assembled all Israel at Jerusalem, to bring up Yahweh’s ark to its place, which he had prepared for it.
 
 ### 4
-David gathered together the sons of Aaron and the Levites:
+David gathered together the sons of Aaron and the Levites: of the sons of Kohath, Uriel the chief, and his brothers one hundred twenty;
 
 ### 5
-of the sons of Kohath, Uriel the chief, and his brothers one hundred twenty;
+of the sons of Merari, Asaiah the chief, and his brothers two hundred twenty; of the sons of Gershom, Joel the chief, and his brothers one hundred thirty;
 
 ### 6
-of the sons of Merari, Asaiah the chief, and his brothers two hundred twenty;
+of the sons of Elizaphan, Shemaiah the chief, and his brothers two hundred; of the sons of Hebron, Eliel the chief, and his brothers eighty;
 
 ### 7
-of the sons of Gershom, Joel the chief, and his brothers one hundred thirty;
-
-### 8
-of the sons of Elizaphan, Shemaiah the chief, and his brothers two hundred;
-
-### 9
-of the sons of Hebron, Eliel the chief, and his brothers eighty;
-
-### 10
 of the sons of Uzziel, Amminadab the chief, and his brothers one hundred twelve.
 
-### 11
-David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab,
+### 8
+David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab, and said to them, “You are the heads of the fathers’ households of the Levites. Sanctify yourselves, both you and your brothers, that you may bring the ark of Yahweh, the God of Israel, up to the place that I have prepared for it.
 
-### 12
-and said to them, “You are the heads of the fathers’ households of the Levites. Sanctify yourselves, both you and your brothers, that you may bring the ark of Yahweh, the God of Israel, up to the place that I have prepared for it.
-
-### 13
+### 9
 For because you didn’t carry it at first, Yahweh our God broke out in anger against us, because we didn’t seek him according to the ordinance.”
 
-### 14
+### 10
 So the priests and the Levites sanctified themselves to bring up the ark of Yahweh, the God of Israel.
 
-### 15
+### 11
 The children of the Levites bore God’s ark on their shoulders with its poles, as Moses commanded according to Yahweh’s word.
 
-### 16
+### 12
 David spoke to the chief of the Levites to appoint their brothers as singers with instruments of music, stringed instruments, harps, and cymbals, sounding aloud and lifting up their voices with joy.
 
-### 17
-So the Levites appointed Heman the son of Joel; and of his brothers, Asaph the son of Berechiah; and of the sons of Merari their brothers, Ethan the son of Kushaiah;
+### 13
+So the Levites appointed Heman the son of Joel; and of his brothers, Asaph the son of Berechiah; and of the sons of Merari their brothers, Ethan the son of Kushaiah; and with them their brothers of the second rank, Zechariah, Ben, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, and Jeiel, the doorkeepers.
 
-### 18
-and with them their brothers of the second rank, Zechariah, Ben, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, and Jeiel, the doorkeepers.
+### 14
+So the singers, Heman, Asaph, and Ethan, were given cymbals of brass to sound aloud; and Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah, with stringed instruments set to Alamoth;
 
-### 19
-So the singers, Heman, Asaph, and Ethan, were given cymbals of brass to sound aloud;
-
-### 20
-and Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah, with stringed instruments set to Alamoth;
-
-### 21
+### 15
 and Mattithiah, Eliphelehu, Mikneiah, Obed-Edom, Jeiel, and Azaziah, with harps tuned to the eight-stringed lyre, to lead.
 
-### 22
+### 16
 Chenaniah, chief of the Levites, was over the singing. He taught the singers, because he was skillful.
 
-### 23
+### 17
 Berechiah and Elkanah were doorkeepers for the ark.
 
-### 24
+### 18
 Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer, the priests, blew the trumpets before God’s ark; and Obed-Edom and Jehiah were doorkeepers for the ark.
 
-### 25
+### 19
 So David, the elders of Israel, and the captains over thousands, went to bring the ark of Yahweh’s covenant up out of the house of Obed-Edom with joy.
 
-### 26
+### 20
 When God helped the Levites who bore the ark of Yahweh’s covenant, they sacrificed seven bulls and seven rams.
 
-### 27
+### 21
 David was clothed with a robe of fine linen, as were all the Levites who bore the ark, the singers, and Chenaniah the choir master with the singers; and David had an ephod of linen on him.
 
-### 28
+### 22
 Thus all Israel brought the ark of Yahweh’s covenant up with shouting, with sound of the cornet, with trumpets, and with cymbals, sounding aloud with stringed instruments and harps.
 
-### 29
+### 23
 As the ark of Yahweh’s covenant came to David’s city, Michal the daughter of Saul looked out at the window, and saw king David dancing and playing; and she despised him in her heart.

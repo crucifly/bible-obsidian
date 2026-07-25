@@ -30,37 +30,34 @@ He said with a loud voice, “Fear the Lord, and give him glory; for the hour of
 Another, a second angel, followed, saying, “Babylon the great has fallen, which has made all the nations to drink of the wine of the wrath of her sexual immorality.”
 
 ### 9
-Another angel, a third, followed them, saying with a great voice, “If anyone worships the beast and his image, and receives a mark on his forehead, or on his hand,
+Another angel, a third, followed them, saying with a great voice, “If anyone worships the beast and his image, and receives a mark on his forehead, or on his hand, he also will drink of the wine of the wrath of God, which is prepared unmixed in the cup of his anger. He will be tormented with fire and sulfur in the presence of the holy angels, and in the presence of the Lamb.
 
 ### 10
-he also will drink of the wine of the wrath of God, which is prepared unmixed in the cup of his anger. He will be tormented with fire and sulfur in the presence of the holy angels, and in the presence of the Lamb.
-
-### 11
 The smoke of their torment goes up forever and ever. They have no rest day and night, those who worship the beast and his image, and whoever receives the mark of his name.
 
-### 12
+### 11
 Here is the perseverance of the saints, those who keep the commandments of God, and the faith of Jesus.”
 
-### 13
+### 12
 I heard a voice from heaven saying, “Write, ‘Blessed are the dead who die in the Lord from now on.’” “Yes,” says the Spirit, “that they may rest from their labors; for their works follow with them.”
 
-### 14
+### 13
 I looked, and behold, a white cloud; and on the cloud one sitting like a son of man, having on his head a golden crown, and in his hand a sharp sickle.
 
-### 15
+### 14
 Another angel came out of the temple, crying with a loud voice to him who sat on the cloud, “Send your sickle, and reap; for the hour to reap has come; for the harvest of the earth is ripe!”
 
-### 16
+### 15
 He who sat on the cloud thrust his sickle on the earth, and the earth was reaped.
 
-### 17
+### 16
 Another angel came out of the temple which is in heaven. He also had a sharp sickle.
 
-### 18
+### 17
 Another angel came out from the altar, he who has power over fire, and he called with a great voice to him who had the sharp sickle, saying, “Send your sharp sickle, and gather the clusters of the vine of the earth, for the earth’s grapes are fully ripe!”
 
-### 19
+### 18
 The angel thrust his sickle into the earth, and gathered the vintage of the earth, and threw it into the great wine press of the wrath of God.
 
-### 20
+### 19
 The wine press was trodden outside of the city, and blood came out of the wine press, even to the bridles of the horses, as far as one thousand six hundred stadia.

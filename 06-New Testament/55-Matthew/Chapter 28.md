@@ -39,28 +39,22 @@ Then Jesus said to them, “Don’t be afraid. Go tell my brothers that they sho
 Now while they were going, behold, some of the guards came into the city, and told the chief priests all the things that had happened.
 
 ### 12
-When they were assembled with the elders, and had taken counsel, they gave a large amount of silver to the soldiers,
+When they were assembled with the elders, and had taken counsel, they gave a large amount of silver to the soldiers, saying, “Say that his disciples came by night, and stole him away while we slept.
 
 ### 13
-saying, “Say that his disciples came by night, and stole him away while we slept.
-
-### 14
 If this comes to the governor’s ears, we will persuade him and make you free of worry.”
 
-### 15
+### 14
 So they took the money and did as they were told. This saying was spread abroad among the Jews, and continues until today.
 
-### 16
+### 15
 But the eleven disciples went into Galilee, to the mountain where Jesus had sent them.
 
-### 17
+### 16
 When they saw him, they bowed down to him, but some doubted.
 
-### 18
+### 17
 Jesus came to them and spoke to them, saying, “All authority has been given to me in heaven and on earth.
 
-### 19
-Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit,
-
-### 20
-teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.” Amen.
+### 18
+Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.” Amen.

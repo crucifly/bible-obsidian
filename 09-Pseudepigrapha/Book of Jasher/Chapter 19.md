@@ -191,34 +191,19 @@ And after this Lot and his two daughters went away from there, and he dwelt on t
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_19&oldid=11445889"
 
 ### 61
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:45.
 
 ### 62
-This page was last edited on 30 June 2021, at 01:45.
-
-### 63
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 63
+Privacy policy Disclaimers
+
 ### 64
-Privacy policy
+Code of Conduct Developers
 
 ### 65
-Disclaimers
+Statistics Cookie statement
 
 ### 66
-Code of Conduct
-
-### 67
-Developers
-
-### 68
-Statistics
-
-### 69
-Cookie statement
-
-### 70
-Mobile view
-
-### 71
-Add topic
+Mobile view Add topic

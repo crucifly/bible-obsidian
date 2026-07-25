@@ -30,46 +30,40 @@ He asked Pharaoh’s officers who were with him in custody in his master’s hou
 They said to him, “We have dreamed a dream, and there is no one who can interpret it.” Joseph said to them, “Don’t interpretations belong to God? Please tell it to me.”
 
 ### 9
-The chief cup bearer told his dream to Joseph, and said to him, “In my dream, behold, a vine was in front of me,
+The chief cup bearer told his dream to Joseph, and said to him, “In my dream, behold, a vine was in front of me, and in the vine were three branches. It was as though it budded, it blossomed, and its clusters produced ripe grapes.
 
 ### 10
-and in the vine were three branches. It was as though it budded, it blossomed, and its clusters produced ripe grapes.
-
-### 11
 Pharaoh’s cup was in my hand; and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand.”
 
-### 12
+### 11
 Joseph said to him, “This is its interpretation: the three branches are three days.
 
-### 13
+### 12
 Within three more days, Pharaoh will lift up your head, and restore you to your office. You will give Pharaoh’s cup into his hand, the way you did when you were his cup bearer.
 
-### 14
+### 13
 But remember me when it will be well with you, and please show kindness to me, and make mention of me to Pharaoh, and bring me out of this house.
 
-### 15
+### 14
 For indeed, I was stolen away out of the land of the Hebrews, and here also I have done nothing that they should put me into the dungeon.”
 
-### 16
+### 15
 When the chief baker saw that the interpretation was good, he said to Joseph, “I also was in my dream, and behold, three baskets of white bread were on my head.
 
-### 17
+### 16
 In the uppermost basket there were all kinds of baked food for Pharaoh, and the birds ate them out of the basket on my head.”
 
-### 18
+### 17
 Joseph answered, “This is its interpretation. The three baskets are three days.
 
-### 19
+### 18
 Within three more days, Pharaoh will lift up your head from off you, and will hang you on a tree; and the birds will eat your flesh from off you.”
 
-### 20
+### 19
 On the third day, which was Pharaoh’s birthday, he made a feast for all his servants, and he lifted up the head of the chief cup bearer and the head of the chief baker among his servants.
 
+### 20
+He restored the chief cup bearer to his position again, and he gave the cup into Pharaoh’s hand; but he hanged the chief baker, as Joseph had interpreted to them.
+
 ### 21
-He restored the chief cup bearer to his position again, and he gave the cup into Pharaoh’s hand;
-
-### 22
-but he hanged the chief baker, as Joseph had interpreted to them.
-
-### 23
 Yet the chief cup bearer didn’t remember Joseph, but forgot him.

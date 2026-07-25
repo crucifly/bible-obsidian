@@ -178,25 +178,13 @@ This page was last edited on 5 July 2021, at 21:53.
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
 ### 56
-Privacy policy
+Privacy policy Disclaimers
 
 ### 57
-Disclaimers
+Code of Conduct Developers
 
 ### 58
-Code of Conduct
+Statistics Cookie statement
 
 ### 59
-Developers
-
-### 60
-Statistics
-
-### 61
-Cookie statement
-
-### 62
-Mobile view
-
-### 63
-Add topic
+Mobile view Add topic

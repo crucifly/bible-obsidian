@@ -41,52 +41,34 @@ And the angel of the Lord took the sword from the hand of the captain of the gua
 And the angel of the Lord took hold of the right hand of Moses, and brought him forth from Egypt, and placed him from without the borders of Egypt, a distance of forty days' journey.
 
 ### 11
-And Aaron his brother alone remained in the land of Egypt, and he prophesied to the children of Israel, saying,
+And Aaron his brother alone remained in the land of Egypt, and he prophesied to the children of Israel, saying, Thus says the Lord God of your ancestors, Throw away, each man, the abominations of his eyes, and do not defile yourselves with the idols of Egypt.
 
 ### 12
-Thus says the Lord God of your ancestors, Throw away, each man, the abominations of his eyes, and do not defile yourselves with the idols of Egypt.
-
-### 13
 And the children of Israel rebelled and would not hearken to Aaron at that time.
 
-### 14
+### 13
 And the Lord thought to destroy them, were it not that the Lord remembered the covenant which he had made with Abraham, Isaac and Jacob.
 
-### 15
+### 14
 In those days the hand of Pharaoh continued to be severe against the children of Israel, and he crushed and oppressed them until the time when God sent forth his word and took notice of them.
 
-### 16
+### 15
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_71&oldid=11446092"
 
+### 16
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:16.
+
 ### 17
-Hidden categories: SubpagesHeaders applying DefaultSort key
-
-### 18
-This page was last edited on 30 June 2021, at 02:16.
-
-### 19
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 18
+Privacy policy Disclaimers
+
+### 19
+Code of Conduct Developers
+
 ### 20
-Privacy policy
+Statistics Cookie statement
 
 ### 21
-Disclaimers
-
-### 22
-Code of Conduct
-
-### 23
-Developers
-
-### 24
-Statistics
-
-### 25
-Cookie statement
-
-### 26
-Mobile view
-
-### 27
-Add topic
+Mobile view Add topic

@@ -24,76 +24,58 @@ Thus were they divided impartially by drawing lots; for there were princes of th
 Shemaiah the son of Nethanel the scribe, who was of the Levites, wrote them in the presence of the king, the princes, Zadok the priest, Ahimelech the son of Abiathar, and the heads of the fathers’ households of the priests and of the Levites; one fathers’ house being taken for Eleazar, and one taken for Ithamar.
 
 ### 7
-Now the first lot came out to Jehoiarib, the second to Jedaiah,
+Now the first lot came out to Jehoiarib, the second to Jedaiah, the third to Harim, the fourth to Seorim,
 
 ### 8
-the third to Harim, the fourth to Seorim,
+the fifth to Malchijah, the sixth to Mijamin, the seventh to Hakkoz, the eighth to Abijah,
 
 ### 9
-the fifth to Malchijah, the sixth to Mijamin,
+the ninth to Jeshua, the tenth to Shecaniah, the eleventh to Eliashib, the twelfth to Jakim,
 
 ### 10
-the seventh to Hakkoz, the eighth to Abijah,
+the thirteenth to Huppah, the fourteenth to Jeshebeab, the fifteenth to Bilgah, the sixteenth to Immer,
 
 ### 11
-the ninth to Jeshua, the tenth to Shecaniah,
+the seventeenth to Hezir, the eighteenth to Happizzez, the nineteenth to Pethahiah, the twentieth to Jehezkel,
 
 ### 12
-the eleventh to Eliashib, the twelfth to Jakim,
+the twenty-first to Jachin, the twenty-second to Gamul, the twenty-third to Delaiah, and the twenty-fourth to Maaziah.
 
 ### 13
-the thirteenth to Huppah, the fourteenth to Jeshebeab,
-
-### 14
-the fifteenth to Bilgah, the sixteenth to Immer,
-
-### 15
-the seventeenth to Hezir, the eighteenth to Happizzez,
-
-### 16
-the nineteenth to Pethahiah, the twentieth to Jehezkel,
-
-### 17
-the twenty-first to Jachin, the twenty-second to Gamul,
-
-### 18
-the twenty-third to Delaiah, and the twenty-fourth to Maaziah.
-
-### 19
 This was their ordering in their service, to come into Yahweh’s house according to the ordinance given to them by Aaron their father, as Yahweh, the God of Israel, had commanded him.
 
-### 20
+### 14
 Of the rest of the sons of Levi: of the sons of Amram, Shubael; of the sons of Shubael, Jehdeiah.
 
-### 21
+### 15
 Of Rehabiah: of the sons of Rehabiah, Isshiah the chief.
 
-### 22
+### 16
 Of the Izharites, Shelomoth; of the sons of Shelomoth, Jahath.
 
-### 23
+### 17
 The sons of Hebron: Jeriah, Amariah the second, Jahaziel the third, and Jekameam the fourth.
 
-### 24
+### 18
 The sons of Uzziel: Micah; of the sons of Micah, Shamir.
 
-### 25
+### 19
 The brother of Micah: Isshiah; of the sons of Isshiah, Zechariah.
 
-### 26
+### 20
 The sons of Merari: Mahli and Mushi. The son of Jaaziah: Beno.
 
-### 27
+### 21
 The sons of Merari: of Jaaziah, Beno, Shoham, Zaccur, and Ibri.
 
-### 28
+### 22
 Of Mahli: Eleazar, who had no sons.
 
-### 29
+### 23
 Of Kish, the son of Kish: Jerahmeel.
 
-### 30
+### 24
 The sons of Mushi: Mahli, Eder, and Jerimoth. These were the sons of the Levites after their fathers’ houses.
 
-### 31
+### 25
 These likewise cast lots even as their brothers the sons of Aaron in the presence of David the king, Zadok, Ahimelech, and the heads of the fathers’ households of the priests and of the Levites; the fathers’ households of the chief even as those of his younger brother.

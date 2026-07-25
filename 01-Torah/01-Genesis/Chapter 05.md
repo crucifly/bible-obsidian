@@ -42,61 +42,58 @@ All of the days of Enosh were nine hundred five years, then he died.
 Kenan lived seventy years, then became the father of Mahalalel.
 
 ### 13
-Kenan lived after he became the father of Mahalalel eight hundred forty years, and became the father of other sons and daughters
+Kenan lived after he became the father of Mahalalel eight hundred forty years, and became the father of other sons and daughters and all of the days of Kenan were nine hundred ten years, then he died.
 
 ### 14
-and all of the days of Kenan were nine hundred ten years, then he died.
-
-### 15
 Mahalalel lived sixty-five years, then became the father of Jared.
 
-### 16
+### 15
 Mahalalel lived after he became the father of Jared eight hundred thirty years, and became the father of other sons and daughters.
 
-### 17
+### 16
 All of the days of Mahalalel were eight hundred ninety-five years, then he died.
 
-### 18
+### 17
 Jared lived one hundred sixty-two years, then became the father of Enoch.
 
-### 19
+### 18
 Jared lived after he became the father of Enoch eight hundred years, and became the father of other sons and daughters.
 
-### 20
+### 19
 All of the days of Jared were nine hundred sixty-two years, then he died.
 
-### 21
+### 20
 Enoch lived sixty-five years, then became the father of Methuselah.
 
-### 22
+### 21
 After Methuselah’s birth, Enoch walked with God for three hundred years, and became the father of more sons and daughters.
 
-### 23
+### 22
 All the days of Enoch were three hundred sixty-five years.
 
-### 24
+### 23
 Enoch walked with God, and he was not found, for God took him.
 
-### 25
+### 24
 Methuselah lived one hundred eighty-seven years, then became the father of Lamech.
 
-### 26
+### 25
 Methuselah lived after he became the father of Lamech seven hundred eighty-two years, and became the father of other sons and daughters.
 
-### 27
+### 26
 All the days of Methuselah were nine hundred sixty-nine years, then he died.
 
-### 28
+### 27
 Lamech lived one hundred eighty-two years, then became the father of a son.
 
-### 29
+### 28
 He named him Noah, saying, “This one will comfort us in our work and in the toil of our hands, caused by the ground which Yahweh has cursed.”
 
-### 30
+### 29
 Lamech lived after he became the father of Noah five hundred ninety-five years, and became the father of other sons and daughters.
 
-### 31
+### 30
 All the days of Lamech were seven hundred seventy-seven years, then he died.
 
-### 32
+### 31
 Noah was five hundred years old, then Noah became the father of Shem, Ham, and Japheth.

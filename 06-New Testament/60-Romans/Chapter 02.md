@@ -18,76 +18,58 @@ Do you think this, O man who judges those who practice such things, and do the s
 Or do you despise the riches of his goodness, forbearance, and patience, not knowing that the goodness of God leads you to repentance?
 
 ### 5
-But according to your hardness and unrepentant heart you are treasuring up for yourself wrath in the day of wrath, revelation, and of the righteous judgment of God;
+But according to your hardness and unrepentant heart you are treasuring up for yourself wrath in the day of wrath, revelation, and of the righteous judgment of God; who “will pay back to everyone according to their works:”
 
 ### 6
-who “will pay back to everyone according to their works:”
+to those who by perseverance in well-doing seek for glory, honor, and incorruptibility, eternal life; but to those who are self-seeking, and don’t obey the truth, but obey unrighteousness, will be wrath and indignation,
 
 ### 7
-to those who by perseverance in well-doing seek for glory, honor, and incorruptibility, eternal life;
-
-### 8
-but to those who are self-seeking, and don’t obey the truth, but obey unrighteousness, will be wrath and indignation,
-
-### 9
 oppression and anguish, on every soul of man who does evil, to the Jew first, and also to the Greek.
 
-### 10
+### 8
 But glory, honor, and peace go to every man who does good, to the Jew first, and also to the Greek.
 
-### 11
+### 9
 For there is no partiality with God.
 
-### 12
+### 10
 For as many as have sinned without the law will also perish without the law. As many as have sinned under the law will be judged by the law.
 
-### 13
-For it isn’t the hearers of the law who are righteous before God, but the doers of the law will be justified
+### 11
+For it isn’t the hearers of the law who are righteous before God, but the doers of the law will be justified (for when Gentiles who don’t have the law do by nature the things of the law, these, not having the law, are a law to themselves,
 
-### 14
-(for when Gentiles who don’t have the law do by nature the things of the law, these, not having the law, are a law to themselves,
-
-### 15
+### 12
 in that they show the work of the law written in their hearts, their conscience testifying with them, and their thoughts among themselves accusing or else excusing them)
 
-### 16
+### 13
 in the day when God will judge the secrets of men, according to my Good News, by Jesus Christ.
 
-### 17
-Indeed you bear the name of a Jew, and rest on the law, and glory in God,
+### 14
+Indeed you bear the name of a Jew, and rest on the law, and glory in God, and know his will, and approve the things that are excellent, being instructed out of the law,
 
-### 18
-and know his will, and approve the things that are excellent, being instructed out of the law,
+### 15
+and are confident that you yourself are a guide of the blind, a light to those who are in darkness, a corrector of the foolish, a teacher of babies, having in the law the form of knowledge and of the truth.
 
-### 19
-and are confident that you yourself are a guide of the blind, a light to those who are in darkness,
-
-### 20
-a corrector of the foolish, a teacher of babies, having in the law the form of knowledge and of the truth.
-
-### 21
+### 16
 You therefore who teach another, don’t you teach yourself? You who preach that a man shouldn’t steal, do you steal?
 
-### 22
+### 17
 You who say a man shouldn’t commit adultery. Do you commit adultery? You who abhor idols, do you rob temples?
 
-### 23
+### 18
 You who glory in the law, do you dishonor God by disobeying the law?
 
-### 24
+### 19
 For “the name of God is blasphemed among the Gentiles because of you,” just as it is written.
 
-### 25
+### 20
 For circumcision indeed profits, if you are a doer of the law, but if you are a transgressor of the law, your circumcision has become uncircumcision.
 
-### 26
+### 21
 If therefore the uncircumcised keep the ordinances of the law, won’t his uncircumcision be accounted as circumcision?
 
-### 27
+### 22
 Won’t the uncircumcision which is by nature, if it fulfills the law, judge you, who with the letter and circumcision are a transgressor of the law?
 
-### 28
-For he is not a Jew who is one outwardly, neither is that circumcision which is outward in the flesh;
-
-### 29
-but he is a Jew who is one inwardly, and circumcision is that of the heart, in the spirit not in the letter; whose praise is not from men, but from God.
+### 23
+For he is not a Jew who is one outwardly, neither is that circumcision which is outward in the flesh; but he is a Jew who is one inwardly, and circumcision is that of the heart, in the spirit not in the letter; whose praise is not from men, but from God.

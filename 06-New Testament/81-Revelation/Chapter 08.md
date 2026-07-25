@@ -27,19 +27,16 @@ The seven angels who had the seven trumpets prepared themselves to sound.
 The first sounded, and there followed hail and fire, mixed with blood, and they were thrown to the earth. One third of the earth was burned up, and one third of the trees were burned up, and all green grass was burned up.
 
 ### 8
-The second angel sounded, and something like a great burning mountain was thrown into the sea. One third of the sea became blood,
+The second angel sounded, and something like a great burning mountain was thrown into the sea. One third of the sea became blood, and one third of the living creatures which were in the sea died. One third of the ships were destroyed.
 
 ### 9
-and one third of the living creatures which were in the sea died. One third of the ships were destroyed.
-
-### 10
 The third angel sounded, and a great star fell from the sky, burning like a torch, and it fell on one third of the rivers, and on the springs of the waters.
 
-### 11
+### 10
 The name of the star is called “Wormwood.” One third of the waters became wormwood. Many people died from the waters, because they were made bitter.
 
-### 12
+### 11
 The fourth angel sounded, and one third of the sun was struck, and one third of the moon, and one third of the stars; so that one third of them would be darkened, and the day wouldn’t shine for one third of it, and the night in the same way.
 
-### 13
+### 12
 I saw, and I heard an eagle, flying in mid heaven, saying with a loud voice, “Woe! Woe! Woe for those who dwell on the earth, because of the other voices of the trumpets of the three angels, who are yet to sound!”

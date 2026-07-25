@@ -45,40 +45,34 @@ When Peter saw it, he responded to the people, “You men of Israel, why do you 
 The God of Abraham, Isaac, and Jacob, the God of our fathers, has glorified his Servant Jesus, whom you delivered up, and denied in the presence of Pilate, when he had determined to release him.
 
 ### 14
-But you denied the Holy and Righteous One, and asked for a murderer to be granted to you,
+But you denied the Holy and Righteous One, and asked for a murderer to be granted to you, and killed the Prince of life, whom God raised from the dead, to which we are witnesses.
 
 ### 15
-and killed the Prince of life, whom God raised from the dead, to which we are witnesses.
-
-### 16
 By faith in his name, his name has made this man strong, whom you see and know. Yes, the faith which is through him has given him this perfect soundness in the presence of you all.
 
-### 17
+### 16
 “Now, brothers, I know that you did this in ignorance, as did also your rulers.
 
-### 18
+### 17
 But the things which God announced by the mouth of all his prophets, that Christ should suffer, he thus fulfilled.
 
+### 18
+“Repent therefore, and turn again, that your sins may be blotted out, so that there may come times of refreshing from the presence of the Lord, and that he may send Christ Jesus, who was ordained for you before,
+
 ### 19
-“Repent therefore, and turn again, that your sins may be blotted out, so that there may come times of refreshing from the presence of the Lord,
-
-### 20
-and that he may send Christ Jesus, who was ordained for you before,
-
-### 21
 whom heaven must receive until the times of restoration of all things, which God spoke long ago by the mouth of his holy prophets.
 
-### 22
+### 20
 For Moses indeed said to the fathers, ‘The Lord God will raise up a prophet for you from among your brothers, like me. You shall listen to him in all things whatever he says to you.
 
-### 23
+### 21
 It will be that every soul that will not listen to that prophet will be utterly destroyed from among the people.’
 
-### 24
+### 22
 Yes, and all the prophets from Samuel and those who followed after, as many as have spoken, they also told of these days.
 
-### 25
+### 23
 You are the children of the prophets, and of the covenant which God made with our fathers, saying to Abraham, ‘In your offspring will all the families of the earth be blessed.’
 
-### 26
+### 24
 God, having raised up his servant Jesus, sent him to you first to bless you, in turning away every one of you from your wickedness.”

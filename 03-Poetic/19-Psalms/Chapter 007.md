@@ -6,52 +6,46 @@ canon: "Poetic"
 # Psalms 7
 
 ### 1
-Yahweh, my God, I take refuge in you. Save me from all those who pursue me, and deliver me,
+Yahweh, my God, I take refuge in you. Save me from all those who pursue me, and deliver me, lest they tear apart my soul like a lion, ripping it in pieces, while there is no one to deliver.
 
 ### 2
-lest they tear apart my soul like a lion, ripping it in pieces, while there is no one to deliver.
+Yahweh, my God, if I have done this, if there is iniquity in my hands, if I have rewarded evil to him who was at peace with me (yes, I have delivered him who without cause was my adversary),
 
 ### 3
-Yahweh, my God, if I have done this, if there is iniquity in my hands,
-
-### 4
-if I have rewarded evil to him who was at peace with me (yes, I have delivered him who without cause was my adversary),
-
-### 5
 let the enemy pursue my soul, and overtake it; yes, let him tread my life down to the earth, and lay my glory in the dust..
 
-### 6
+### 4
 Arise, Yahweh, in your anger. Lift up yourself against the rage of my adversaries. Awake for me. You have commanded judgment.
 
-### 7
+### 5
 Let the congregation of the peoples surround you. Rule over them on high.
 
-### 8
+### 6
 Yahweh administers judgment to the peoples. Judge me, Yahweh, according to my righteousness, and to my integrity that is in me.
 
-### 9
+### 7
 Oh let the wickedness of the wicked come to an end, but establish the righteous; their minds and hearts are searched by the righteous God.
 
-### 10
+### 8
 My shield is with God, who saves the upright in heart.
 
-### 11
+### 9
 God is a righteous judge, yes, a God who has indignation every day.
 
-### 12
+### 10
 If a man doesn’t relent, he will sharpen his sword; he has bent and strung his bow.
 
-### 13
+### 11
 He has also prepared for himself the instruments of death. He makes ready his flaming arrows.
 
-### 14
+### 12
 Behold, he travails with iniquity. Yes, he has conceived mischief, and brought out falsehood.
 
-### 15
+### 13
 He has dug a hole, and has fallen into the pit which he made.
 
-### 16
+### 14
 The trouble he causes shall return to his own head. His violence shall come down on the crown of his own head.
 
-### 17
+### 15
 I will give thanks to Yahweh according to his righteousness, and will sing praise to the name of Yahweh Most High.

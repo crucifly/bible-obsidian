@@ -24,25 +24,22 @@ The king’s servants said to him, “Behold, Haman stands in the court.” The 
 So Haman came in. The king said to him, “What shall be done to the man whom the king delights to honor?” Now Haman said in his heart, “Who would the king delight to honor more than myself?”
 
 ### 7
-Haman said to the king, “For the man whom the king delights to honor,
+Haman said to the king, “For the man whom the king delights to honor, let royal clothing be brought which the king uses to wear, and the horse that the king rides on, and on the head of which a crown royal is set.
 
 ### 8
-let royal clothing be brought which the king uses to wear, and the horse that the king rides on, and on the head of which a crown royal is set.
-
-### 9
 Let the clothing and the horse be delivered to the hand of one of the king’s most noble princes, that they may array the man whom the king delights to honor with them, and have him ride on horseback through the city square, and proclaim before him, ‘Thus shall it be done to the man whom the king delights to honor!’”
 
-### 10
+### 9
 Then the king said to Haman, “Hurry and take the clothing and the horse, as you have said, and do this for Mordecai the Jew, who sits at the king’s gate. Let nothing fail of all that you have spoken.”
 
-### 11
+### 10
 Then Haman took the clothing and the horse, and arrayed Mordecai, and had him ride through the city square, and proclaimed before him, “Thus shall it be done to the man whom the king delights to honor!”
 
-### 12
+### 11
 Mordecai came back to the king’s gate, but Haman hurried to his house, mourning and having his head covered.
 
-### 13
+### 12
 Haman recounted to Zeresh his wife and all his friends everything that had happened to him. Then his wise men and Zeresh his wife said to him, “If Mordecai, before whom you have begun to fall, is of Jewish descent, you will not prevail against him, but you will surely fall before him.”
 
-### 14
+### 13
 While they were yet talking with him, the king’s eunuchs came, and hurried to bring Haman to the banquet that Esther had prepared.

@@ -30,61 +30,52 @@ I watch, and have become like a sparrow that is alone on the housetop.
 My enemies reproach me all day. Those who are mad at me use my name as a curse.
 
 ### 9
-For I have eaten ashes like bread, and mixed my drink with tears,
+For I have eaten ashes like bread, and mixed my drink with tears, Because of your indignation and your wrath, for you have taken me up, and thrown me away.
 
 ### 10
-Because of your indignation and your wrath, for you have taken me up, and thrown me away.
-
-### 11
 My days are like a long shadow. I have withered like grass.
 
-### 12
+### 11
 But you, Yahweh, will remain forever; your renown endures to all generations.
 
-### 13
+### 12
 You will arise and have mercy on Zion; for it is time to have pity on her. Yes, the set time has come.
 
-### 14
+### 13
 For your servants take pleasure in her stones, and have pity on her dust.
 
-### 15
+### 14
 So the nations will fear Yahweh’s name; all the kings of the earth your glory.
 
-### 16
+### 15
 For Yahweh has built up Zion. He has appeared in his glory.
 
-### 17
+### 16
 He has responded to the prayer of the destitute, and has not despised their prayer.
 
-### 18
+### 17
 This will be written for the generation to come. A people which will be created will praise Yah.
 
+### 18
+For he has looked down from the height of his sanctuary. From heaven, Yahweh saw the earth; to hear the groans of the prisoner; to free those who are condemned to death;
+
 ### 19
-For he has looked down from the height of his sanctuary. From heaven, Yahweh saw the earth;
+that men may declare Yahweh’s name in Zion, and his praise in Jerusalem; when the peoples are gathered together, the kingdoms, to serve Yahweh.
 
 ### 20
-to hear the groans of the prisoner; to free those who are condemned to death;
-
-### 21
-that men may declare Yahweh’s name in Zion, and his praise in Jerusalem;
-
-### 22
-when the peoples are gathered together, the kingdoms, to serve Yahweh.
-
-### 23
 He weakened my strength along the course. He shortened my days.
 
-### 24
+### 21
 I said, “My God, don’t take me away in the middle of my days. Your years are throughout all generations.
 
-### 25
+### 22
 Of old, you laid the foundation of the earth. The heavens are the work of your hands.
 
-### 26
+### 23
 They will perish, but you will endure. Yes, all of them will wear out like a garment. You will change them like a cloak, and they will be changed.
 
-### 27
+### 24
 But you are the same. Your years will have no end.
 
-### 28
+### 25
 The children of your servants will continue. Their offspring will be established before you.”

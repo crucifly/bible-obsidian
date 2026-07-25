@@ -42,34 +42,28 @@ About this time, he went into the house to do his work, and there were none of t
 She caught him by his garment, saying, “Lie with me!” He left his garment in her hand, and ran outside.
 
 ### 13
-When she saw that he had left his garment in her hand, and had run outside,
+When she saw that he had left his garment in her hand, and had run outside, she called to the men of her house, and spoke to them, saying, “Behold, he has brought a Hebrew in to us to mock us. He came in to me to lie with me, and I cried with a loud voice.
 
 ### 14
-she called to the men of her house, and spoke to them, saying, “Behold, he has brought a Hebrew in to us to mock us. He came in to me to lie with me, and I cried with a loud voice.
-
-### 15
 When he heard that I lifted up my voice and cried, he left his garment by me, and ran outside.”
 
-### 16
+### 15
 She laid up his garment by her, until his master came home.
 
+### 16
+She spoke to him according to these words, saying, “The Hebrew servant, whom you have brought to us, came in to me to mock me, and as I lifted up my voice and cried, he left his garment by me, and ran outside.”
+
 ### 17
-She spoke to him according to these words, saying, “The Hebrew servant, whom you have brought to us, came in to me to mock me,
-
-### 18
-and as I lifted up my voice and cried, he left his garment by me, and ran outside.”
-
-### 19
 When his master heard the words of his wife, which she spoke to him, saying, “This is what your servant did to me,” his wrath was kindled.
 
-### 20
+### 18
 Joseph’s master took him, and put him into the prison, the place where the king’s prisoners were bound, and he was there in custody.
 
-### 21
+### 19
 But Yahweh was with Joseph, and showed kindness to him, and gave him favor in the sight of the keeper of the prison.
 
-### 22
+### 20
 The keeper of the prison committed to Joseph’s hand all the prisoners who were in the prison. Whatever they did there, he was responsible for it.
 
-### 23
+### 21
 The keeper of the prison didn’t look after anything that was under his hand, because Yahweh was with him; and that which he did, Yahweh made it prosper.

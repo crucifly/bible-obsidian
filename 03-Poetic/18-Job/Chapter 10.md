@@ -18,55 +18,46 @@ Is it good to you that you should oppress, that you should despise the work of y
 Do you have eyes of flesh? Or do you see as man sees?
 
 ### 5
-Are your days as the days of mortals, or your years as man’s years,
+Are your days as the days of mortals, or your years as man’s years, that you inquire after my iniquity, and search after my sin?
 
 ### 6
-that you inquire after my iniquity, and search after my sin?
-
-### 7
 Although you know that I am not wicked, there is no one who can deliver out of your hand.
 
-### 8
+### 7
 “‘Your hands have framed me and fashioned me altogether, yet you destroy me.
 
-### 9
+### 8
 Remember, I beg you, that you have fashioned me as clay. Will you bring me into dust again?
 
-### 10
+### 9
 Haven’t you poured me out like milk, and curdled me like cheese?
 
-### 11
+### 10
 You have clothed me with skin and flesh, and knit me together with bones and sinews.
 
-### 12
+### 11
 You have granted me life and loving kindness. Your visitation has preserved my spirit.
 
+### 12
+Yet you hid these things in your heart. I know that this is with you: if I sin, then you mark me. You will not acquit me from my iniquity.
+
 ### 13
-Yet you hid these things in your heart. I know that this is with you:
-
-### 14
-if I sin, then you mark me. You will not acquit me from my iniquity.
-
-### 15
 If I am wicked, woe to me. If I am righteous, I still shall not lift up my head, being filled with disgrace, and conscious of my affliction.
 
-### 16
+### 14
 If my head is held high, you hunt me like a lion. Again you show yourself powerful to me.
 
-### 17
+### 15
 You renew your witnesses against me, and increase your indignation on me. Changes and warfare are with me.
 
-### 18
+### 16
 “‘Why, then, have you brought me out of the womb? I wish I had given up the spirit, and no eye had seen me.
 
-### 19
+### 17
 I should have been as though I had not been. I should have been carried from the womb to the grave.
 
-### 20
-Aren’t my days few? Cease then. Leave me alone, that I may find a little comfort,
+### 18
+Aren’t my days few? Cease then. Leave me alone, that I may find a little comfort, before I go where I shall not return from, to the land of darkness and of the shadow of death;
 
-### 21
-before I go where I shall not return from, to the land of darkness and of the shadow of death;
-
-### 22
+### 19
 the land dark as midnight, of the shadow of death, without any order, where the light is as midnight.’”

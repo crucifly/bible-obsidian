@@ -39,103 +39,73 @@ And in the fourth year thereof he took a wife for his son Isaac and her name was
 And Abraham took to himself a third wife, and her name was Keturah, from among the daughters of his household servants, for Hagar had died before Sarah. And she bare him six sons, Zimram, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah, in the two weeks of years.
 
 ### 12
-And in the sixth week, in the second year thereof, Rebecca bare to Isaac two sons, Jacob and Esau,
+And in the sixth week, in the second year thereof, Rebecca bare to Isaac two sons, Jacob and Esau, and [2046 A.M.] Jacob was a smooth and upright man, and Esau was fierce, a man of the field, and hairy, and Jacob dwelt in tents.
 
 ### 13
-and [2046 A.M.] Jacob was a smooth and upright man, and Esau was fierce, a man of the field, and hairy, and Jacob dwelt in tents.
-
-### 14
 And the youths grew, and Jacob learned to write; but Esau did not learn, for he was a man of the field and a hunter, and he learnt war, and all his deeds were fierce.
 
-### 15
+### 14
 And Abraham loved Jacob, but Isaac loved Esau.
 
-### 16
+### 15
 And Abraham saw the deeds of Esau, and he knew that in Jacob should his name and seed be called; and he called Rebecca and gave commandment regarding Jacob, for he knew that she (too) loved Jacob much more than Esau.
 
+### 16
+And he said unto her: My daughter, watch over my son Jacob,
+
 ### 17
-And he said unto her:
+For he shall be in my stead on the earth, And for a blessing in the midst of the children of men,
 
 ### 18
-My daughter, watch over my son Jacob,
-
-### 19
-For he shall be in my stead on the earth,
-
-### 20
-And for a blessing in the midst of the children of men,
-
-### 21
 And for the glory of the whole seed of Shem.
 
-### 22
+### 19
 For I know that the Lord will choose him to be a people for possession unto Himself, above all peoples that are upon the face of the earth.
 
-### 23
+### 20
 And behold, Isaac my son loves Esau more than Jacob, but I see that thou truly lovest Jacob.
 
-### 24
-Add still further to thy kindness to him,
+### 21
+Add still further to thy kindness to him, And let thine eyes be upon him in love;
 
-### 25
-And let thine eyes be upon him in love;
-
-### 26
+### 22
 For he shall be a blessing unto us on the earth from henceforth unto all generations of the earth.
 
-### 27
-Let thy hands be strong
+### 23
+Let thy hands be strong And let thy heart rejoice in thy son Jacob;
 
-### 28
-And let thy heart rejoice in thy son Jacob;
-
-### 29
+### 24
 For I have loved him far beyond all my sons.
 
-### 30
-He shall be blessed for ever,
+### 25
+He shall be blessed for ever, And his seed shall fill the whole earth.
 
-### 31
-And his seed shall fill the whole earth.
+### 26
+If a man can number the sand of the earth, His seed also shall be numbered.
 
-### 32
-If a man can number the sand of the earth,
-
-### 33
-His seed also shall be numbered.
-
-### 34
+### 27
 And all the blessings wherewith the Lord hath blessed me and my seed shall belong to Jacob and his seed alway.
 
-### 35
+### 28
 And in his seed shall my name be blessed, and the name of my fathers, Shem, and Noab, and Enoch, and Mahalalel, and Enos, and Seth, and Adam.
 
-### 36
-And these shall serve
+### 29
+And these shall serve To lay the foundations of the heaven,
 
-### 37
-To lay the foundations of the heaven,
+### 30
+And to strengthen the earth, And to renew all the luminaries which are in the firmament.
 
-### 38
-And to strengthen the earth,
+### 31
+And he called Jacob before the eyes of Rebecca his mother, and kissed him, and blessed him, and said: 'Jacob, my beloved son, whom my soul loveth, may God bless thee from above the firmament, and may He give thee all the blessings wherewith He blessed Adam, and Enoch, and Noah, and Shem; and all the things of which He told me, and all the things which He promised to give me, may he cause to cleave to thee and to thy seed for ever, according to the days of heaven above the earth.
 
-### 39
-And to renew all the luminaries which are in the firmament.
-
-### 40
-And he called Jacob before the eyes of Rebecca his mother, and kissed him, and blessed him, and said:
-
-### 41
-'Jacob, my beloved son, whom my soul loveth, may God bless thee from above the firmament, and may He give thee all the blessings wherewith He blessed Adam, and Enoch, and Noah, and Shem; and all the things of which He told me, and all the things which He promised to give me, may he cause to cleave to thee and to thy seed for ever, according to the days of heaven above the earth.
-
-### 42
+### 32
 And the Spirits of Mastêmâ shall not rule over thee or over thy seed to turn thee from the Lord, who is thy God from henceforth for ever.
 
-### 43
+### 33
 And may the Lord God be a father to thee and thou the first-born son, and to the people alway.
 
-### 44
+### 34
 Go in peace, my son.' And they both went forth together from Abraham.
 
-### 45
+### 35
 And Rebecca loved Jacob, with all her heart and with all her soul, very much more than Esau; but Isaac loved Esau much more than Jacob.

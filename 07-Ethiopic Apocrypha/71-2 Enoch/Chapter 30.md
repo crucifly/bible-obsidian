@@ -43,13 +43,10 @@ And I gave him seven natures: to the flesh hearing, the eyes for sight, to the s
 I created man from invisible (spiritual) and from visible (physical) nature, of both are his death and life and image, he knows speech like some created thing, small in greatness and again great in smallness, and I placed him on earth, a second angel, honourable, great and glorious, and I appointed him as ruler to rule on earth and to have my wisdom, and there was none like him of earth of all my existing creatures.
 
 ### 13
-And I appointed him a name, from the four component parts, from east, from west, from south, from north, and I appointed for him four special stars, and I called his name Adam, and showed him the two ways, the light and the darkness, and I told him:
+And I appointed him a name, from the four component parts, from east, from west, from south, from north, and I appointed for him four special stars, and I called his name Adam, and showed him the two ways, the light and the darkness, and I told him: This is good, and that bad, that I should learn whether he has love towards me, or hatred, that it be clear which in his race love me.
 
 ### 14
-This is good, and that bad, that I should learn whether he has love towards me, or hatred, that it be clear which in his race love me.
-
-### 15
 For I have seen his nature, but he has not seen his own nature, therefore (through) not seeing he will sin worse, and I said After sin (what is there) but death?
 
-### 16
+### 15
 And I put sleep into him and he fell asleep. And I took from him A rib, and created him a wife, that death should come to him by his wife, and I took his last word and called her name mother, that is to say, Eva (Eve)(http://scriptures.lds.org/bde/eve).

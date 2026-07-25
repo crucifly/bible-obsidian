@@ -42,133 +42,118 @@ Herod with his soldiers humiliated him and mocked him. Dressing him in luxurious
 Herod and Pilate became friends with each other that very day, for before that they were enemies with each other.
 
 ### 13
-Pilate called together the chief priests, the rulers, and the people,
+Pilate called together the chief priests, the rulers, and the people, and said to them, “You brought this man to me as one that perverts the people, and behold, having examined him before you, I found no basis for a charge against this man concerning those things of which you accuse him.
 
 ### 14
-and said to them, “You brought this man to me as one that perverts the people, and behold, having examined him before you, I found no basis for a charge against this man concerning those things of which you accuse him.
-
-### 15
 Neither has Herod, for I sent you to him, and see, nothing worthy of death has been done by him.
 
-### 16
+### 15
 I will therefore chastise him and release him.”
 
-### 17
+### 16
 Now he had to release one prisoner to them at the feast.
 
+### 17
+But they all cried out together, saying, “Away with this man! Release to us Barabbas!”— one who was thrown into prison for a certain revolt in the city, and for murder.
+
 ### 18
-But they all cried out together, saying, “Away with this man! Release to us Barabbas!”—
+Then Pilate spoke to them again, wanting to release Jesus, but they shouted, saying, “Crucify! Crucify him!”
 
 ### 19
-one who was thrown into prison for a certain revolt in the city, and for murder.
-
-### 20
-Then Pilate spoke to them again, wanting to release Jesus,
-
-### 21
-but they shouted, saying, “Crucify! Crucify him!”
-
-### 22
 He said to them the third time, “Why? What evil has this man done? I have found no capital crime in him. I will therefore chastise him and release him.”
 
-### 23
+### 20
 But they were urgent with loud voices, asking that he might be crucified. Their voices and the voices of the chief priests prevailed.
 
-### 24
+### 21
 Pilate decreed that what they asked for should be done.
 
-### 25
+### 22
 He released him who had been thrown into prison for insurrection and murder, for whom they asked, but he delivered Jesus up to their will.
 
-### 26
+### 23
 When they led him away, they grabbed one Simon of Cyrene, coming from the country, and laid on him the cross, to carry it after Jesus.
 
-### 27
+### 24
 A great multitude of the people followed him, including women who also mourned and lamented him.
 
-### 28
+### 25
 But Jesus, turning to them, said, “Daughters of Jerusalem, don’t weep for me, but weep for yourselves and for your children.
 
-### 29
+### 26
 For behold, the days are coming in which they will say, ‘Blessed are the barren, the wombs that never bore, and the breasts that never nursed.’
 
-### 30
+### 27
 Then they will begin to tell the mountains, ‘Fall on us!’ and tell the hills, ‘Cover us.’
 
-### 31
+### 28
 For if they do these things in the green tree, what will be done in the dry?”
 
-### 32
+### 29
 There were also others, two criminals, led with him to be put to death.
 
-### 33
+### 30
 When they came to the place that is called The Skull, they crucified him there with the criminals, one on the right and the other on the left.
 
-### 34
+### 31
 Jesus said, “Father, forgive them, for they don’t know what they are doing.” Dividing his garments among them, they cast lots.
 
-### 35
+### 32
 The people stood watching. The rulers with them also scoffed at him, saying, “He saved others. Let him save himself, if this is the Christ of God, his chosen one!”
 
-### 36
-The soldiers also mocked him, coming to him and offering him vinegar,
+### 33
+The soldiers also mocked him, coming to him and offering him vinegar, and saying, “If you are the King of the Jews, save yourself!”
 
-### 37
-and saying, “If you are the King of the Jews, save yourself!”
-
-### 38
+### 34
 An inscription was also written over him in letters of Greek, Latin, and Hebrew: “THIS IS THE KING OF THE JEWS.”
 
-### 39
+### 35
 One of the criminals who was hanged insulted him, saying, “If you are the Christ, save yourself and us!”
 
-### 40
+### 36
 But the other answered, and rebuking him said, “Don’t you even fear God, seeing you are under the same condemnation?
 
-### 41
+### 37
 And we indeed justly, for we receive the due reward for our deeds, but this man has done nothing wrong.”
 
-### 42
+### 38
 He said to Jesus, “Lord, remember me when you come into your Kingdom.”
 
-### 43
+### 39
 Jesus said to him, “Assuredly I tell you, today you will be with me in Paradise.”
 
-### 44
+### 40
 It was now about the sixth hour, and darkness came over the whole land until the ninth hour.
 
-### 45
+### 41
 The sun was darkened, and the veil of the temple was torn in two.
 
-### 46
+### 42
 Jesus, crying with a loud voice, said, “Father, into your hands I commit my spirit!” Having said this, he breathed his last.
 
-### 47
+### 43
 When the centurion saw what was done, he glorified God, saying, “Certainly this was a righteous man.”
 
-### 48
+### 44
 All the multitudes that came together to see this, when they saw the things that were done, returned home beating their breasts.
 
-### 49
+### 45
 All his acquaintances, and the women who followed with him from Galilee, stood at a distance, watching these things.
 
-### 50
-Behold, a man named Joseph, who was a member of the council, a good and righteous man
+### 46
+Behold, a man named Joseph, who was a member of the council, a good and righteous man (he had not consented to their counsel and deed), from Arimathaea, a city of the Jews, who was also waiting for God’s Kingdom:
 
-### 51
-(he had not consented to their counsel and deed), from Arimathaea, a city of the Jews, who was also waiting for God’s Kingdom:
-
-### 52
+### 47
 this man went to Pilate, and asked for Jesus’ body.
 
-### 53
+### 48
 He took it down, and wrapped it in a linen cloth, and laid him in a tomb that was cut in stone, where no one had ever been laid.
 
-### 54
+### 49
 It was the day of the Preparation, and the Sabbath was drawing near.
 
-### 55
+### 50
 The women, who had come with him out of Galilee, followed after, and saw the tomb, and how his body was laid.
 
-### 56
+### 51
 They returned, and prepared spices and ointments. On the Sabbath they rested according to the commandment.

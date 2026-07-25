@@ -33,67 +33,58 @@ If the thief isn’t found, then the master of the house shall come near to God,
 For every matter of trespass, whether it is for ox, for donkey, for sheep, for clothing, or for any kind of lost thing, about which one says, ‘This is mine,’ the cause of both parties shall come before God. He whom God condemns shall pay double to his neighbor.
 
 ### 10
-“If a man delivers to his neighbor a donkey, an ox, a sheep, or any animal to keep, and it dies or is injured, or driven away, no man seeing it;
+“If a man delivers to his neighbor a donkey, an ox, a sheep, or any animal to keep, and it dies or is injured, or driven away, no man seeing it; the oath of Yahweh shall be between them both, whether he hasn’t put his hand to his neighbor’s goods; and its owner shall accept it, and he shall not make restitution.
 
 ### 11
-the oath of Yahweh shall be between them both, whether he hasn’t put his hand to his neighbor’s goods; and its owner shall accept it, and he shall not make restitution.
-
-### 12
 But if it is stolen from him, he shall make restitution to its owner.
 
-### 13
+### 12
 If it is torn in pieces, let him bring it for evidence. He shall not make good that which was torn.
 
-### 14
+### 13
 “If a man borrows anything of his neighbor’s, and it is injured, or dies, its owner not being with it, he shall surely make restitution.
 
-### 15
+### 14
 If its owner is with it, he shall not make it good. If it is a leased thing, it came for its lease.
 
-### 16
+### 15
 “If a man entices a virgin who isn’t pledged to be married, and lies with her, he shall surely pay a dowry for her to be his wife.
 
-### 17
+### 16
 If her father utterly refuses to give her to him, he shall pay money according to the dowry of virgins.
 
-### 18
+### 17
 “You shall not allow a sorceress to live.
 
-### 19
+### 18
 “Whoever has sex with an animal shall surely be put to death.
 
-### 20
+### 19
 “He who sacrifices to any god, except to Yahweh only, shall be utterly destroyed.
 
-### 21
+### 20
 “You shall not wrong an alien or oppress him, for you were aliens in the land of Egypt.
 
-### 22
+### 21
 “You shall not take advantage of any widow or fatherless child.
 
+### 22
+If you take advantage of them at all, and they cry at all to me, I will surely hear their cry; and my wrath will grow hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.
+
 ### 23
-If you take advantage of them at all, and they cry at all to me, I will surely hear their cry;
-
-### 24
-and my wrath will grow hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.
-
-### 25
 “If you lend money to any of my people with you who is poor, you shall not be to him as a creditor. You shall not charge him interest.
 
-### 26
-If you take your neighbor’s garment as collateral, you shall restore it to him before the sun goes down,
+### 24
+If you take your neighbor’s garment as collateral, you shall restore it to him before the sun goes down, for that is his only covering, it is his garment for his skin. What would he sleep in? It will happen, when he cries to me, that I will hear, for I am gracious.
 
-### 27
-for that is his only covering, it is his garment for his skin. What would he sleep in? It will happen, when he cries to me, that I will hear, for I am gracious.
-
-### 28
+### 25
 “You shall not blaspheme God, nor curse a ruler of your people.
 
-### 29
+### 26
 “You shall not delay to offer from your harvest and from the outflow of your presses. “You shall give the firstborn of your sons to me.
 
-### 30
+### 27
 You shall do likewise with your cattle and with your sheep. Seven days it shall be with its mother, then on the eighth day you shall give it to me.
 
-### 31
+### 28
 “You shall be holy men to me, therefore you shall not eat any meat that is torn by animals in the field. You shall cast it to the dogs.

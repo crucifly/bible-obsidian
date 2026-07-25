@@ -45,37 +45,34 @@ David perceived that Yahweh had established him king over Israel, and that he ha
 David took more concubines and wives for himself out of Jerusalem, after he had come from Hebron; and more sons and daughters were born to David.
 
 ### 14
-These are the names of those who were born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,
+These are the names of those who were born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon, Ibhar, Elishua, Nepheg, Japhia,
 
 ### 15
-Ibhar, Elishua, Nepheg, Japhia,
-
-### 16
 Elishama, Eliada, and Eliphelet.
 
-### 17
+### 16
 When the Philistines heard that they had anointed David king over Israel, all the Philistines went up to seek David, but David heard about it and went down to the stronghold.
 
-### 18
+### 17
 Now the Philistines had come and spread themselves in the valley of Rephaim.
 
-### 19
+### 18
 David inquired of Yahweh, saying, “Shall I go up against the Philistines? Will you deliver them into my hand?” Yahweh said to David, “Go up; for I will certainly deliver the Philistines into your hand.”
 
-### 20
+### 19
 David came to Baal Perazim, and David struck them there. Then he said, “Yahweh has broken my enemies before me, like the breach of waters.” Therefore he called the name of that place Baal Perazim.
 
-### 21
+### 20
 They left their images there; and David and his men took them away.
 
-### 22
+### 21
 The Philistines came up yet again, and spread themselves in the valley of Rephaim.
 
-### 23
+### 22
 When David inquired of Yahweh, he said, “You shall not go up. Circle around behind them, and attack them in front of the mulberry trees.
 
-### 24
+### 23
 When you hear the sound of marching in the tops of the mulberry trees, then stir yourself up; for then Yahweh has gone out before you to strike the army of the Philistines.”
 
-### 25
+### 24
 David did so, as Yahweh commanded him, and struck the Philistines all the way from Geba to Gezer.

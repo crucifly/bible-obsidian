@@ -21,34 +21,31 @@ Great is my boldness of speech toward you. Great is my boasting on your behalf. 
 For even when we had come into Macedonia, our flesh had no relief, but we were afflicted on every side. Fightings were outside. Fear was inside.
 
 ### 6
-Nevertheless, he who comforts the lowly, God, comforted us by the coming of Titus;
+Nevertheless, he who comforts the lowly, God, comforted us by the coming of Titus; and not by his coming only, but also by the comfort with which he was comforted in you, while he told us of your longing, your mourning, and your zeal for me; so that I rejoiced still more.
 
 ### 7
-and not by his coming only, but also by the comfort with which he was comforted in you, while he told us of your longing, your mourning, and your zeal for me; so that I rejoiced still more.
-
-### 8
 For though I made you sorry with my letter, I do not regret it, though I did regret it. For I see that my letter made you sorry, though just for a while.
 
-### 9
+### 8
 I now rejoice, not that you were made sorry, but that you were made sorry to repentance. For you were made sorry in a godly way, that you might suffer loss by us in nothing.
 
-### 10
+### 9
 For godly sorrow produces repentance to salvation, which brings no regret. But the sorrow of the world produces death.
 
-### 11
+### 10
 For behold, this same thing, that you were made sorry in a godly way, what earnest care it worked in you. Yes, what defense, indignation, fear, longing, zeal, and vengeance! In everything you demonstrated yourselves to be pure in the matter.
 
-### 12
+### 11
 So although I wrote to you, I wrote not for his cause that did the wrong, nor for his cause that suffered the wrong, but that your earnest care for us might be revealed in you in the sight of God.
 
-### 13
+### 12
 Therefore we have been comforted. In our comfort we rejoiced the more exceedingly for the joy of Titus, because his spirit has been refreshed by you all.
 
-### 14
+### 13
 For if in anything I have boasted to him on your behalf, I was not disappointed. But as we spoke all things to you in truth, so our glorying also which I made before Titus was found to be truth.
 
-### 15
+### 14
 His affection is more abundantly toward you, while he remembers all of your obedience, how with fear and trembling you received him.
 
-### 16
+### 15
 I rejoice that in everything I am confident concerning you.

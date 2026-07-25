@@ -78,22 +78,19 @@ The lords of the Philistines gathered them together to offer a great sacrifice t
 When the people saw him, they praised their god; for they said, “Our god has delivered our enemy and the destroyer of our country, who has slain many of us, into our hand.”
 
 ### 25
-When their hearts were merry, they said, “Call for Samson, that he may entertain us.” They called for Samson out of the prison; and he performed before them. They set him between the pillars;
+When their hearts were merry, they said, “Call for Samson, that he may entertain us.” They called for Samson out of the prison; and he performed before them. They set him between the pillars; and Samson said to the boy who held him by the hand, “Allow me to feel the pillars whereupon the house rests, that I may lean on them.”
 
 ### 26
-and Samson said to the boy who held him by the hand, “Allow me to feel the pillars whereupon the house rests, that I may lean on them.”
-
-### 27
 Now the house was full of men and women; and all the lords of the Philistines were there; and there were on the roof about three thousand men and women, who saw while Samson performed.
 
-### 28
+### 27
 Samson called to Yahweh, and said, “Lord Yahweh, remember me, please, and strengthen me, please, only this once, God, that I may be at once avenged of the Philistines for my two eyes.”
 
-### 29
+### 28
 Samson took hold of the two middle pillars on which the house rested, and leaned on them, the one with his right hand, and the other with his left.
 
-### 30
+### 29
 Samson said, “Let me die with the Philistines!” He bowed himself with all his might; and the house fell on the lords, and on all the people who were therein. So the dead that he killed at his death were more than those who he killed in his life.
 
-### 31
+### 30
 Then his brothers and all the house of his father came down, and took him, and brought him up, and buried him between Zorah and Eshtaol in the burial site of Manoah his father. He judged Israel twenty years.

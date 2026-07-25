@@ -6,64 +6,61 @@ canon: "New Testament"
 # Revelation 22
 
 ### 1
-He showed me a river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb,
+He showed me a river of water of life, clear as crystal, proceeding out of the throne of God and of the Lamb, in the middle of its street. On this side of the river and on that was the tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations.
 
 ### 2
-in the middle of its street. On this side of the river and on that was the tree of life, bearing twelve kinds of fruits, yielding its fruit every month. The leaves of the tree were for the healing of the nations.
-
-### 3
 There will be no curse any more. The throne of God and of the Lamb will be in it, and his servants will serve him.
 
-### 4
+### 3
 They will see his face, and his name will be on their foreheads.
 
-### 5
+### 4
 There will be no night, and they need no lamp light; for the Lord God will illuminate them. They will reign forever and ever.
 
-### 6
+### 5
 He said to me, “These words are faithful and true. The Lord God of the spirits of the prophets sent his angel to show to his bondservants the things which must happen soon.”
 
-### 7
+### 6
 “Behold, I come quickly. Blessed is he who keeps the words of the prophecy of this book.”
 
-### 8
+### 7
 Now I, John, am the one who heard and saw these things. When I heard and saw, I fell down to worship before the feet of the angel who had shown me these things.
 
-### 9
+### 8
 He said to me, “See you don’t do it! I am a fellow bondservant with you and with your brothers, the prophets, and with those who keep the words of this book. Worship God.”
 
-### 10
+### 9
 He said to me, “Don’t seal up the words of the prophecy of this book, for the time is at hand.
 
-### 11
+### 10
 He who acts unjustly, let him act unjustly still. He who is filthy, let him be filthy still. He who is righteous, let him do righteousness still. He who is holy, let him be holy still.”
 
-### 12
+### 11
 “Behold, I come quickly. My reward is with me, to repay to each man according to his work.
 
-### 13
+### 12
 I am the Alpha and the Omega, the First and the Last, the Beginning and the End.
 
-### 14
+### 13
 Blessed are those who do his commandments, that they may have the right to the tree of life, and may enter in by the gates into the city.
 
-### 15
+### 14
 Outside are the dogs, the sorcerers, the sexually immoral, the murderers, the idolaters, and everyone who loves and practices falsehood.
 
-### 16
+### 15
 I, Jesus, have sent my angel to testify these things to you for the assemblies. I am the root and the offspring of David; the Bright and Morning Star.”
 
-### 17
+### 16
 The Spirit and the bride say, “Come!” He who hears, let him say, “Come!” He who is thirsty, let him come. He who desires, let him take the water of life freely.
 
-### 18
+### 17
 I testify to everyone who hears the words of the prophecy of this book, if anyone adds to them, may God add to him the plagues which are written in this book.
 
-### 19
+### 18
 If anyone takes away from the words of the book of this prophecy, may God take away his part from the tree of life, and out of the holy city, which are written in this book.
 
-### 20
+### 19
 He who testifies these things says, “Yes, I come quickly.” Amen! Yes, come, Lord Jesus.
 
-### 21
+### 20
 The grace of the Lord Jesus Christ be with all the saints. Amen.

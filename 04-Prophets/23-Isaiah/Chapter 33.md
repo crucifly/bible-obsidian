@@ -48,31 +48,28 @@ Hear, you who are far off, what I have done; and, you who are near, acknowledge 
 The sinners in Zion are afraid. Trembling has seized the godless ones. Who among us can live with the devouring fire? Who among us can live with everlasting burning?
 
 ### 15
-He who walks righteously, and speaks blamelessly; He who despises the gain of oppressions, who gestures with his hands, refusing to take a bribe, who stops his ears from hearing of blood, and shuts his eyes from looking at evil—
+He who walks righteously, and speaks blamelessly; He who despises the gain of oppressions, who gestures with his hands, refusing to take a bribe, who stops his ears from hearing of blood, and shuts his eyes from looking at evil— he will dwell on high. His place of defense will be the fortress of rocks. His bread will be supplied. His waters will be sure.
 
 ### 16
-he will dwell on high. His place of defense will be the fortress of rocks. His bread will be supplied. His waters will be sure.
-
-### 17
 Your eyes will see the king in his beauty. They will see a distant land.
 
-### 18
+### 17
 Your heart will meditate on the terror. Where is he who counted? Where is he who weighed? Where is he who counted the towers?
 
-### 19
+### 18
 You will no longer see the fierce people, a people of a deep speech that you can’t comprehend, with a strange language that you can’t understand.
 
-### 20
+### 19
 Look at Zion, the city of our appointed festivals. Your eyes will see Jerusalem, a quiet habitation, a tent that won’t be removed. Its stakes will never be plucked up, nor will any of its cords be broken.
 
-### 21
+### 20
 But there Yahweh will be with us in majesty, a place of wide rivers and streams, in which no galley with oars will go, neither will any gallant ship pass by there.
 
-### 22
+### 21
 For Yahweh is our judge. Yahweh is our lawgiver. Yahweh is our king. He will save us.
 
-### 23
+### 22
 Your rigging is untied. They couldn’t strengthen the foot of their mast. They couldn’t spread the sail. Then the prey of a great plunder was divided. The lame took the prey.
 
-### 24
+### 23
 The inhabitant won’t say, “I am sick.” The people who dwell therein will be forgiven their iniquity.

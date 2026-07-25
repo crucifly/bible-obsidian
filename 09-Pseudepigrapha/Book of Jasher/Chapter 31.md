@@ -173,103 +173,85 @@ And he hastened and sent off his son Beor, who was seventeen years old, with Abi
 And they hastened and went and passed on the road before Jacob, and they came by another road to the land of Seir.
 
 ### 55
-And they came unto Esau and said unto him, Thus saith thy brother and relative, thy mother's brother Laban, the son of Bethuel, saying,
+And they came unto Esau and said unto him, Thus saith thy brother and relative, thy mother's brother Laban, the son of Bethuel, saying, Hast thou heard what Jacob thy brother has done unto me, who first came to me naked and bare, and I went to meet him, and brought him to my house with honor, and I made him great, and I gave him my two daughters for wives and also two of my maids.
 
 ### 56
-Hast thou heard what Jacob thy brother has done unto me, who first came to me naked and bare, and I went to meet him, and brought him to my house with honor, and I made him great, and I gave him my two daughters for wives and also two of my maids.
-
-### 57
 And God blessed him on my account, and he increased abundantly, and had sons, daughters and maid servants.
 
-### 58
+### 57
 He has also an immense stock of flocks and herds, camels and asses, also silver and gold in abundance; and when he saw that his wealth increased, he left me whilst I went to shear my sheep, and he rose up and fled in secrecy.
 
-### 59
+### 58
 And he lifted his wives and children upon camels, and he led away all his cattle and property which he acquired in my land, and he lifted up his countenance to go to his father Isaac, to the land of Canaan.
 
-### 60
+### 59
 And he did not suffer me to kiss my daughters and their children, and he led my daughters as captives taken by the sword, and he also stole my gods and he fled.
 
-### 61
+### 60
 And now I have left him in the mountain of the brook of Jabuk, him and all belonging to him; he lacketh nothing.
 
-### 62
+### 61
 If it be thy wish to go to him, go then and there wilt thou find him, and thou canst do unto him as thy soul desireth; and Laban's messengers came and told Esau all these things.
 
-### 63
+### 62
 And Esau heard all the words of Laban's messengers, and his anger was greatly kindled against Jacob, and he remembered his hatred, and his anger burned within him.
 
-### 64
+### 63
 And Esau hastened and took his children and servants and the souls of his household, being sixty men, and he went and assembled all the children of Seir the Horite and their people, being three hundred and forty men, and took all this number of four hundred men with drawn swords, and he went unto Jacob to smite him.
 
-### 65
+### 64
 And Esau divided this number into several parts, and he took the sixty men of his children and servants and the souls of his household as one head, and gave them in care of Eliphaz his eldest son.
 
-### 66
+### 65
 And the remaining heads he gave to the care of the six sons of Seir the Horite, and he placed every man over his generations and children.
 
-### 67
+### 66
 And the whole of this camp went as it was, and Esau went amongst them toward Jacob, and he conducted them with speed.
 
-### 68
+### 67
 And Laban's messengers departed from Esau and went to the land of Canaan, and they came to the house of Rebecca the mother of Jacob and Esau.
 
-### 69
+### 68
 And they told her saying, Behold thy son Esau has gone against his brother Jacob with four hundred men, for he heard that he was coming, and he is gone to make war with him, and to smite him and to take all that he has.
 
-### 70
+### 69
 And Rebecca hastened and sent seventy two men from the servants of Isaac to meet Jacob on the road; for she said, Peradventure, Esau may make war in the road when he meets him.
 
-### 71
+### 70
 And these messengers went on the road to meet Jacob, and they met him in the road of the brook on the opposite side of the brook Jabuk, and Jacob said when he saw them, This camp is destined to me from God, and Jacob called the name of that place Machnayim.
 
-### 72
+### 71
 And Jacob knew all his father's people, and he kissed them and embraced them and came with them, and Jacob asked them concerning his father and mother, and they said, They were well.
 
-### 73
+### 72
 And these messengers said unto Jacob, Rebecca thy mother has sent us to thee, saying, I have heard, my son, that thy brother Esau has gone forth against thee on the road with men from the children of Seir the Horite.
 
-### 74
+### 73
 And therefore, my son, hearken to my voice and see with thy counsel what thou wilt do, and when he cometh up to thee, supplicate him, and do not speak rashly to him, and give him a present from what thou possessest, and from what God has favored thee with.
 
-### 75
+### 74
 And when he asketh thee concerning thy affairs, conceal nothing from him, perhaps he may turn from his anger against thee and thou wilt thereby save thy soul, thou and all belonging to thee, for it is thy duty to honor him, for he is thy elder brother.
 
-### 76
+### 75
 And when Jacob heard the words of his mother which the messengers had spoken to him, Jacob lifted up his voice and wept bitterly, and did as his mother then commanded him.
 
-### 77
+### 76
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_31&oldid=11445922"
 
+### 77
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:56.
+
 ### 78
-Hidden categories: SubpagesHeaders applying DefaultSort key
-
-### 79
-This page was last edited on 30 June 2021, at 01:56.
-
-### 80
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 79
+Privacy policy Disclaimers
+
+### 80
+Code of Conduct Developers
+
 ### 81
-Privacy policy
+Statistics Cookie statement
 
 ### 82
-Disclaimers
-
-### 83
-Code of Conduct
-
-### 84
-Developers
-
-### 85
-Statistics
-
-### 86
-Cookie statement
-
-### 87
-Mobile view
-
-### 88
-Add topic
+Mobile view Add topic

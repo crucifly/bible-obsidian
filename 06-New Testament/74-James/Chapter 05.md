@@ -45,22 +45,16 @@ But above all things, my brothers, don’t swear— not by heaven, or by the ear
 Is any among you suffering? Let him pray. Is any cheerful? Let him sing praises.
 
 ### 14
-Is any among you sick? Let him call for the elders of the assembly, and let them pray over him, anointing him with oil in the name of the Lord,
+Is any among you sick? Let him call for the elders of the assembly, and let them pray over him, anointing him with oil in the name of the Lord, and the prayer of faith will heal him who is sick, and the Lord will raise him up. If he has committed sins, he will be forgiven.
 
 ### 15
-and the prayer of faith will heal him who is sick, and the Lord will raise him up. If he has committed sins, he will be forgiven.
-
-### 16
 Confess your offenses to one another, and pray for one another, that you may be healed. The insistent prayer of a righteous person is powerfully effective.
 
-### 17
+### 16
 Elijah was a man with a nature like ours, and he prayed earnestly that it might not rain, and it didn’t rain on the earth for three years and six months.
 
-### 18
+### 17
 He prayed again, and the sky gave rain, and the earth produced its fruit.
 
-### 19
-Brothers, if any among you wanders from the truth and someone turns him back,
-
-### 20
-let him know that he who turns a sinner from the error of his way will save a soul from death and will cover a multitude of sins.
+### 18
+Brothers, if any among you wanders from the truth and someone turns him back, let him know that he who turns a sinner from the error of his way will save a soul from death and will cover a multitude of sins.

@@ -45,28 +45,22 @@ Blessed is the nation whose God is Yahweh, the people whom he has chosen for his
 Yahweh looks from heaven. He sees all the sons of men.
 
 ### 14
-From the place of his habitation he looks out on all the inhabitants of the earth,
+From the place of his habitation he looks out on all the inhabitants of the earth, he who fashions all of their hearts; and he considers all of their works.
 
 ### 15
-he who fashions all of their hearts; and he considers all of their works.
-
-### 16
 There is no king saved by the multitude of an army. A mighty man is not delivered by great strength.
 
-### 17
+### 16
 A horse is a vain thing for safety, neither does he deliver any by his great power.
 
+### 17
+Behold, Yahweh’s eye is on those who fear him, on those who hope in his loving kindness; to deliver their soul from death, to keep them alive in famine.
+
 ### 18
-Behold, Yahweh’s eye is on those who fear him, on those who hope in his loving kindness;
-
-### 19
-to deliver their soul from death, to keep them alive in famine.
-
-### 20
 Our soul has waited for Yahweh. He is our help and our shield.
 
-### 21
+### 19
 For our heart rejoices in him, because we have trusted in his holy name.
 
-### 22
+### 20
 Let your loving kindness be on us, Yahweh, since we have hoped in you.

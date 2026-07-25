@@ -96,61 +96,55 @@ For by you, I advance through a troop. By my God, I leap over a wall.
 As for God, his way is perfect. Yahweh’s word is tried. He is a shield to all those who take refuge in him.
 
 ### 31
-For who is God, except Yahweh? Who is a rock, besides our God,
+For who is God, except Yahweh? Who is a rock, besides our God, the God who arms me with strength, and makes my way perfect?
 
 ### 32
-the God who arms me with strength, and makes my way perfect?
-
-### 33
 He makes my feet like deer’s feet, and sets me on my high places.
 
-### 34
+### 33
 He teaches my hands to war, so that my arms bend a bow of bronze.
 
-### 35
+### 34
 You have also given me the shield of your salvation. Your right hand sustains me. Your gentleness has made me great.
 
-### 36
+### 35
 You have enlarged my steps under me, My feet have not slipped.
 
-### 37
+### 36
 I will pursue my enemies, and overtake them. Neither will I turn again until they are consumed.
 
-### 38
+### 37
 I will strike them through, so that they will not be able to rise. They shall fall under my feet.
 
-### 39
+### 38
 For you have armed me with strength to the battle. You have subdued under me those who rose up against me.
 
-### 40
+### 39
 You have also made my enemies turn their backs to me, that I might cut off those who hate me.
 
-### 41
+### 40
 They cried, but there was no one to save; even to Yahweh, but he didn’t answer them.
 
-### 42
+### 41
 Then I beat them small as the dust before the wind. I cast them out as the mire of the streets.
 
-### 43
+### 42
 You have delivered me from the strivings of the people. You have made me the head of the nations. A people whom I have not known shall serve me.
 
-### 44
+### 43
 As soon as they hear of me they shall obey me. The foreigners shall submit themselves to me.
 
-### 45
+### 44
 The foreigners shall fade away, and shall come trembling out of their close places.
 
+### 45
+Yahweh lives; and blessed be my rock. Exalted be the God of my salvation, even the God who executes vengeance for me, and subdues peoples under me.
+
 ### 46
-Yahweh lives; and blessed be my rock. Exalted be the God of my salvation,
-
-### 47
-even the God who executes vengeance for me, and subdues peoples under me.
-
-### 48
 He rescues me from my enemies. Yes, you lift me up above those who rise up against me. You deliver me from the violent man.
 
-### 49
+### 47
 Therefore I will give thanks to you, Yahweh, among the nations, and will sing praises to your name.
 
-### 50
+### 48
 He gives great deliverance to his king, and shows loving kindness to his anointed, to David and to his offspring, forever more.

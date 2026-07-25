@@ -12,126 +12,97 @@ translation: G.R.S. Mead
 **Chapter 68**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 67**
 
 ### 2
-Next
-
-**CHAPTER 67**
-
-### 3
 And when the First Mystery said this unto his disciples, he answered and said: "Understand ye in what manner I discourse with you?"
 
+### 3
+James came forward and said: "My Lord, concerning then the solution of the words which thou hast said, thus hath thy light-power prophesied thereon aforetime through David in the ninetieth Psalm: James interpreteth the narrative from Psalm xc."'1. Whoso then dwelleth under the help of the Most High, will abide under the shadow of the God of heaven.
+
 ### 4
-James came forward and said: "My Lord, concerning then the solution of the words which thou hast said, thus hath thy light-power prophesied thereon aforetime through David in the ninetieth Psalm:
-
-### 5
-James interpreteth the narrative from Psalm xc."'1. Whoso then dwelleth under the help of the Most High, will abide under the shadow of the God of heaven.
-
-### 6
 "'2. He will say unto the Lord: Thou art my succour and my place of refuge, my God, in whom I trust.
 
-### 7
+### 5
 "'3. For he will save me out of the snare of the hunters and from mighty word.
 
-### 8
+### 6
 "'4. He will shade thee with his breast, and thou shalt have trust beneath his wings; his truth shall surround thee as a shield.
 
-### 9
-"'5. Thou wilt not be afraid of terror by night nor of an arrow which flieth by day,
+### 7
+"'5. Thou wilt not be afraid of terror by night nor of an arrow which flieth by day, "'6. Of a thing which slinketh in the darkness, of a mischance and a demon at mid-day.
 
-### 10
-"'6. Of a thing which slinketh in the darkness, of a mischance and a demon at mid-day.
-
-### 11
+### 8
 "'7. A thousand will fall on thy left, and ten thousand at thy right hand; but they shall not come nigh thee.
 
-### 12
+### 9
 "'8. Nay rather with thine eyes wilt thou behold, thou wilt see the requital of the sinners.
 
-### 13
+### 10
 "'9. For thou, O Lord, art my hope. Thou hast established the Most High for thyself as refuge.
 
-### 14
+### 11
 "'10. Harm will not come nigh unto thee; scourge will not come nigh thy dwelling.
 
-### 15
-"'11. For he will give commandment to his angels on thy behalf that they guard thee on all thy ways,
+### 12
+"'11. For he will give commandment to his angels on thy behalf that they guard thee on all thy ways, "'12. And bear thee on their hands, that thou mayest never strike with thy foot against a stone.
 
-### 16
-"'12. And bear thee on their hands, that thou mayest never strike with thy foot against a stone.
-
-### 17
+### 13
 "'13. Thou wilt stride over the serpent and basilisk and tread on lion and dragon.
 
-### 18
+### 14
 "'14. Because he hath trusted in me, I will save him; I will overshadow him, because he hath known my name.
 
-### 19
-"'15. He will cry unto me and I shall hearken unto him; I am at his side in his tribulation and will save him and honour him,
+### 15
+"'15. He will cry unto me and I shall hearken unto him; I am at his side in his tribulation and will save him and honour him, "'16. And increase him with many days and show him my salvation.'
 
-### 20
-"'16. And increase him with many days and show him my salvation.'
-
-### 21
+### 16
 "This, my Lord, is the solution of the words which thou hast said. Hearken therefore, that I may say it in openness.
 
-### 22
-"The word then which thy power hath spoken through David: 'Whoso then dwelleth under
+### 17
+"The word then which thy power hath spoken through David: 'Whoso then dwelleth under the help of the Most High, will abide under the shadow of the God of heaven,'--that is: When Sophia had trusted in the Light, she abode under the light of the light-stream, which through thee came out of the Height.
 
-### 23
-the help of the Most High, will abide under the shadow of the God of heaven,'--that is: When Sophia had trusted in the Light, she abode under the light of the light-stream, which through thee came out of the Height.
-
-### 24
+### 18
 "And the word which thy power hath spoken through David: 'I will say unto the Lord: Thou art my succour and my refuge, my God, in whom I trust,'--it is the word with which Pistis Sophia hath sung praises: 'Thou art my succour, and I come unto thee.'
 
-### 25
+### 19
 "And again the word which thy power hath spoken: 'My God, in whom I trust, thou wilt save me out of the snare of the hunters and from mighty word,'--it is what Pistis Sophia hath said: 'O Light, I have faith in thee, for thou wilt save me from the emanations of Self-willed and from those of Adamas, the Tyrant, and thou wilt save me also from all their mighty threats.'
 
-### 26
+### 20
 "And again the word which thy power hath spoken through David: 'He will shade thee with his breast, and thou wilt have trust beneath his wings,'--that is: Pistis Sophia hath been in the light of the light-stream, which hath come from thee, and hath continued in firm trust in the light, that on her left and that on her right, which are the wings of the light-stream.
 
-### 27
+### 21
 "And the word which thy light-power hath prophesied through David: 'Truth will surround thee as a shield,'--it is the light of the light-stream which hath surrounded Pistis Sophia on all her sides as a shield.
 
-### 28
-"And the word which thy power hath spoken: 'He will not be afraid of terror by night,'--that is: Pistis Sophia hath not been afraid of the
+### 22
+"And the word which thy power hath spoken: 'He will not be afraid of terror by night,'--that is: Pistis Sophia hath not been afraid of the terrors and alarms into which she had been planted in the chaos, which is the 'night.'
 
-### 29
-terrors and alarms into which she had been planted in the chaos, which is the 'night.'
-
-### 30
+### 23
 "And the word which thy power hath spoken: He will not be afraid of an arrow which flieth by day,'--that is: Pistis Sophia hath not been afraid of the power which Self-willed hath sent last of all out of the height, and which hath come into the chaos as it were a flying arrow. Thy light-power therefore hath said: 'Thou wilt not be afraid of an arrow which flieth by day,' for that power hath come out of the thirteenth æon, it being that which is lord over the twelve æons, and which giveth light unto all the æons; wherefor hath he [David] said 'day.'
 
-### 31
+### 24
 "And again the word which thy power hath spoken: 'He will not be afraid of a thing which slinketh in the darkness,'--that is: Sophia hath not been afraid of the lion-faced emanation, which caused fear for Pistis Sophia in the chaos, which is the 'darkness.'
 
-### 32
+### 25
 "And the word which thy power hath spoken: 'He will not be afraid of a mischance and of a demon at mid-day,'--that is: Pistis Sophia hath not been afraid of the demon emanation of Tyrant Adamas, which hath cast Pistis Sophia to the ground in a great mischance, and which hath come forth out of Adamas out of the twelfth æon; wherefor then hath thy power said: 'He will not be afraid of the demon mischance at mid-day,'--'mid-day,' because it hath come out of the twelve æons, which is 'mid-day'; and again ['night,' because] it hath come out of the chaos, which is the 'night,' and because it hath come out of the twelfth æon which is in the midst between both; therefore hath thy light-power said 'mid-day,'
 
-### 33
+### 26
 because the twelve æons lie in the midst between the thirteenth æon and the chaos.
 
-### 34
+### 27
 "And again the word which thy light-power hath spoken through David: 'A thousand will fall on his left, and ten thousand at his right hand, but they shall not come nigh him,'--that is: When the emanations of Self-willed, which are exceedingly numerous, could not bear the great light of the light-stream, many of them fell on the left hand of Pistis Sophia and many at her right, and they could not come nigh her, to do her [harm].
 
-### 35
-"And the word which thy light-power hath spoken through David: 'Nay rather with thine eyes wilt thou behold, and wilt see the requital of the sinners, for thou, O Lord, art my hope,'--that is the word: Pistis Sophia hath with her eyes beheld her foes, that is the emanations of Self-willed, who all have fallen one on another; not only hath she with her eyes beheld this, but thou also thyself, my Lord, the First Mystery, hast taken the light-power which is in the lion-faced power, and hast moreover taken the power of all the emanations of Self-willed and moreover thou hast imprisoned them in that chaos, [so that] from henceforth they have not gone forth to their own region. Therefore then hath Pistis Sophia with her eyes beheld her foes, that is the emanations of Self-willed, in all which David hath prophesied concerning Pistis Sophia, saying: 'Nay rather with thine eyes wilt thou behold, and thou wilt see the requital of the sinners.' Not only hath she with her eyes beheld, how they fall one on another in the chaos, but she hath also seen the requital with which it was requited them. Just as the emanations of Self-willed have thought
+### 28
+"And the word which thy light-power hath spoken through David: 'Nay rather with thine eyes wilt thou behold, and wilt see the requital of the sinners, for thou, O Lord, art my hope,'--that is the word: Pistis Sophia hath with her eyes beheld her foes, that is the emanations of Self-willed, who all have fallen one on another; not only hath she with her eyes beheld this, but thou also thyself, my Lord, the First Mystery, hast taken the light-power which is in the lion-faced power, and hast moreover taken the power of all the emanations of Self-willed and moreover thou hast imprisoned them in that chaos, [so that] from henceforth they have not gone forth to their own region. Therefore then hath Pistis Sophia with her eyes beheld her foes, that is the emanations of Self-willed, in all which David hath prophesied concerning Pistis Sophia, saying: 'Nay rather with thine eyes wilt thou behold, and thou wilt see the requital of the sinners.' Not only hath she with her eyes beheld, how they fall one on another in the chaos, but she hath also seen the requital with which it was requited them. Just as the emanations of Self-willed have thought to take away the light of Sophia from her, so hast thou requited them and repaid them in full, and hast taken the light-power in them instead of the lights of Sophia, who hath had faith in the Light of the Height.
 
-### 36
-to take away the light of Sophia from her, so hast thou requited them and repaid them in full, and hast taken the light-power in them instead of the lights of Sophia, who hath had faith in the Light of the Height.
-
-### 37
+### 29
 "And as thy light-power hath spoken through David: 'Thou hast established the Most High for thyself as refuge; harm will not come nigh unto thee, scourge will not come nigh thy dwelling,'--that is: When Pistis Sophia had had faith in the Light and was afflicted, she sang praises unto it, and the emanations of Self-willed could not inflict on her any harm, nor could they [injure] her, nor could they at all come nigh her.
 
-### 38
+### 30
 "And the word which thy light-power hath spoken through David: 'He will give commandment to his angels on thy behalf, that they guard thee on all thy ways and bear thee on their hands, that thou mayest never strike with thy foot against a stone,'--it is again thy word: Thou hast given commandment to Gabriēl and Michaēl, that they guide Pistis Sophia in all the regions of the chaos, until they lead her forth and that they uplift her on their hands, so that her feet do not touch the darkness beneath, and [that] on the other hand they of the lower darkness do not seize hold of her.
 
-### 39
-"And the word which thy light-power hath spoken through David: 'Thou wilt tread on serpent and basilisk and tread on lion and dragon; because he hath trusted in me, I will save him and I will overshadow him, because he hath known my name,'--that is the word: When Pistis Sophia was on the point of coming forth out of the chaos, she trod on the emanations of Self-willed, and she
+### 31
+"And the word which thy light-power hath spoken through David: 'Thou wilt tread on serpent and basilisk and tread on lion and dragon; because he hath trusted in me, I will save him and I will overshadow him, because he hath known my name,'--that is the word: When Pistis Sophia was on the point of coming forth out of the chaos, she trod on the emanations of Self-willed, and she trod on the serpent-faced ones and on the basilisk-faced ones, which have seven heads; and she trod on the lion-faced power and on the dragon-faced one. Because she had had faith in the Light, is she saved from all of them.
 
-### 40
-trod on the serpent-faced ones and on the basilisk-faced ones, which have seven heads; and she trod on the lion-faced power and on the dragon-faced one. Because she had had faith in the Light, is she saved from all of them.
-
-### 41
+### 32
 "This, my Lord, is the solution of the words which thou hast spoken."

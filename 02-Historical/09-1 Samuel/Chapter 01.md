@@ -15,76 +15,73 @@ He had two wives. The name of one was Hannah, and the name of other Peninnah. Pe
 This man went up out of his city from year to year to worship and to sacrifice to Yahweh of Armies in Shiloh. The two sons of Eli, Hophni and Phinehas, priests to Yahweh, were there.
 
 ### 4
-When the day came that Elkanah sacrificed, he gave to Peninnah his wife, and to all her sons and her daughters, portions;
+When the day came that Elkanah sacrificed, he gave to Peninnah his wife, and to all her sons and her daughters, portions; but to Hannah he gave a double portion, for he loved Hannah, but Yahweh had shut up her womb.
 
 ### 5
-but to Hannah he gave a double portion, for he loved Hannah, but Yahweh had shut up her womb.
-
-### 6
 Her rival provoked her severely, to irritate her, because Yahweh had shut up her womb.
 
-### 7
+### 6
 As he did so year by year, when she went up to Yahweh’s house. Her rival provoked her; therefore she wept, and didn’t eat.
 
-### 8
+### 7
 Elkanah her husband said to her, “Hannah, why do you weep? Why don’t you eat? Why is your heart grieved? Am I not better to you than ten sons?”
 
-### 9
+### 8
 So Hannah rose up after they had finished eating and drinking in Shiloh. Now Eli the priest was sitting on his seat by the doorpost of Yahweh’s temple.
 
-### 10
+### 9
 She was in bitterness of soul, and prayed to Yahweh, weeping bitterly.
 
-### 11
+### 10
 She vowed a vow, and said, “Yahweh of Armies, if you will indeed look at the affliction of your servant, and remember me, and not forget your servant, but will give to your servant a boy, then I will give him to Yahweh all the days of his life, and no razor shall come on his head.”
 
-### 12
+### 11
 As she continued praying before Yahweh, Eli saw her mouth.
 
-### 13
+### 12
 Now Hannah spoke in her heart. Only her lips moved, but her voice was not heard. Therefore Eli thought she was drunk.
 
-### 14
+### 13
 Eli said to her, “How long will you be drunk? Get rid of your wine!”
 
-### 15
+### 14
 Hannah answered, “No, my lord, I am a woman of a sorrowful spirit. I have not been drinking wine or strong drink, but I poured out my soul before Yahweh.
 
-### 16
+### 15
 Don’t consider your servant a wicked woman; for I have been speaking out of the abundance of my complaint and my provocation.”
 
-### 17
+### 16
 Then Eli answered, “Go in peace; and may the God of Israel grant your petition that you have asked of him.”
 
-### 18
+### 17
 She said, “Let your servant find favor in your sight.” So the woman went her way, and ate; and her facial expression wasn’t sad any more.
 
-### 19
+### 18
 They rose up in the morning early, and worshiped before Yahweh, and returned, and came to their house to Ramah. Then Elkanah knew Hannah his wife; and Yahweh remembered her.
 
-### 20
+### 19
 When the time had come, Hannah conceived, and bore a son; and she named him Samuel, saying, “Because I have asked him of Yahweh.”
 
-### 21
+### 20
 The man Elkanah, and all his house, went up to offer to Yahweh the yearly sacrifice, and his vow.
 
-### 22
+### 21
 But Hannah didn’t go up; for she said to her husband, “Not until the child is weaned; then I will bring him, that he may appear before Yahweh, and stay there forever.”
 
-### 23
+### 22
 Elkanah her husband said to her, “Do what seems good to you. Wait until you have weaned him; only may Yahweh establish his word.” So the woman waited and nursed her son, until she weaned him.
 
-### 24
+### 23
 When she had weaned him, she took him up with her, with three bulls, and one ephah of meal, and a bottle of wine, and brought him to Yahweh’s house in Shiloh. The child was young.
 
-### 25
+### 24
 They killed the bull, and brought the child to Eli.
 
-### 26
+### 25
 She said, “Oh, my lord, as your soul lives, my lord, I am the woman who stood by you here, praying to Yahweh.
 
-### 27
+### 26
 I prayed for this child; and Yahweh has given me my petition which I asked of him.
 
-### 28
+### 27
 Therefore I have also given him to Yahweh. As long as he lives he is given to Yahweh.” He worshiped Yahweh there.

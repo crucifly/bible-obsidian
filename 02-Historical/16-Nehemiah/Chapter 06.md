@@ -18,46 +18,43 @@ I sent messengers to them, saying, “I am doing a great work, so that I can’t
 They sent to me four times like this; and I answered them the same way.
 
 ### 5
-Then Sanballat sent his servant to me the same way the fifth time with an open letter in his hand,
+Then Sanballat sent his servant to me the same way the fifth time with an open letter in his hand, in which was written, “It is reported among the nations, and Gashmu says it, that you and the Jews intend to rebel. Because of that, you are building the wall. You would be their king, according to these words.
 
 ### 6
-in which was written, “It is reported among the nations, and Gashmu says it, that you and the Jews intend to rebel. Because of that, you are building the wall. You would be their king, according to these words.
-
-### 7
 You have also appointed prophets to proclaim of you at Jerusalem, saying, ‘There is a king in Judah!’ Now it will be reported to the king according to these words. Come now therefore, and let us take counsel together.”
 
-### 8
+### 7
 Then I sent to him, saying, “There are no such things done as you say, but you imagine them out of your own heart.”
 
-### 9
+### 8
 For they all would have made us afraid, saying, “Their hands will be weakened from the work, that it not be done.” But now, strengthen my hands.
 
-### 10
+### 9
 I went to the house of Shemaiah the son of Delaiah the son of Mehetabel, who was shut in at his home; and he said, “Let us meet together in God’s house, within the temple, and let us shut the doors of the temple; for they will come to kill you. Yes, in the night will they come to kill you.”
 
-### 11
+### 10
 I said, “Should a man like me flee? Who is there that, being such as I, would go into the temple to save his life? I will not go in.”
 
-### 12
+### 11
 I discerned, and behold, God had not sent him; but he pronounced this prophecy against me. Tobiah and Sanballat had hired him.
 
-### 13
+### 12
 He hired so that I would be afraid, do so, and sin, and that they might have material for an evil report, that they might reproach me.
 
-### 14
+### 13
 “Remember, my God, Tobiah and Sanballat according to these their works, and also the prophetess Noadiah, and the rest of the prophets, that would have put me in fear.”
 
-### 15
+### 14
 So the wall was finished in the twenty-fifth day of Elul, in fifty-two days.
 
-### 16
+### 15
 When all our enemies heard of it, all the nations that were around us were afraid, and they lost their confidence; for they perceived that this work was done by our God.
 
-### 17
+### 16
 Moreover in those days the nobles of Judah sent many letters to Tobiah, and Tobiah’s letters came to them.
 
-### 18
+### 17
 For there were many in Judah sworn to him, because he was the son-in-law of Shecaniah the son of Arah; and his son Jehohanan had taken the daughter of Meshullam the son of Berechiah as wife.
 
-### 19
+### 18
 Also they spoke of his good deeds before me, and reported my words to him. Tobiah sent letters to put me in fear.

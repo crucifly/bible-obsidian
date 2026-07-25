@@ -45,67 +45,61 @@ The birds of the sky nest by them. They sing among the branches.
 He waters the mountains from his rooms. The earth is filled with the fruit of your works.
 
 ### 14
-He causes the grass to grow for the livestock, and plants for man to cultivate, that he may produce food out of the earth:
+He causes the grass to grow for the livestock, and plants for man to cultivate, that he may produce food out of the earth: wine that makes glad the heart of man, oil to make his face to shine, and bread that strengthens man’s heart.
 
 ### 15
-wine that makes glad the heart of man, oil to make his face to shine, and bread that strengthens man’s heart.
+Yahweh’s trees are well watered, the cedars of Lebanon, which he has planted; where the birds make their nests. The stork makes its home in the cypress trees.
 
 ### 16
-Yahweh’s trees are well watered, the cedars of Lebanon, which he has planted;
-
-### 17
-where the birds make their nests. The stork makes its home in the cypress trees.
-
-### 18
 The high mountains are for the wild goats. The rocks are a refuge for the rock badgers.
 
-### 19
+### 17
 He appointed the moon for seasons. The sun knows when to set.
 
-### 20
+### 18
 You make darkness, and it is night, in which all the animals of the forest prowl.
 
-### 21
+### 19
 The young lions roar after their prey, and seek their food from God.
 
-### 22
+### 20
 The sun rises, and they steal away, and lay down in their dens.
 
-### 23
+### 21
 Man goes out to his work, to his labor until the evening.
 
-### 24
+### 22
 Yahweh, how many are your works! In wisdom have you made them all. The earth is full of your riches.
 
-### 25
+### 23
 There is the sea, great and wide, in which are innumerable living things, both small and large animals.
 
-### 26
+### 24
 There the ships go, and leviathan, whom you formed to play there.
 
-### 27
+### 25
 These all wait for you, that you may give them their food in due season.
 
-### 28
+### 26
 You give to them; they gather. You open your hand; they are satisfied with good.
 
-### 29
+### 27
 You hide your face: they are troubled; you take away their breath: they die, and return to the dust.
 
-### 30
+### 28
 You send out your Spirit and they are created. You renew the face of the ground.
 
-### 31
+### 29
 Let Yahweh’s glory endure forever. Let Yahweh rejoice in his works.
 
-### 32
+### 30
 He looks at the earth, and it trembles. He touches the mountains, and they smoke.
 
-### 33
+### 31
 I will sing to Yahweh as long as I live. I will sing praise to my God while I have any being.
 
-### 34
+### 32
 Let my meditation be sweet to him. I will rejoice in Yahweh.
 
-### 35
+### 33
 Let sinners be consumed out of the earth. Let the wicked be no more. Bless Yahweh, my soul. Praise Yah!

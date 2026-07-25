@@ -63,31 +63,22 @@ For it is a pleasant thing if you keep them within you, if all of them are ready
 I teach you today, even you, So that your trust may be in Yahweh.
 
 ### 20
-Haven’t I written to you thirty excellent things of counsel and knowledge,
+Haven’t I written to you thirty excellent things of counsel and knowledge, To teach you truth, reliable words, to give sound answers to the ones who sent you?
 
 ### 21
-To teach you truth, reliable words, to give sound answers to the ones who sent you?
+Don’t exploit the poor, because he is poor; and don’t crush the needy in court; for Yahweh will plead their case, and plunder the life of those who plunder them.
 
 ### 22
-Don’t exploit the poor, because he is poor; and don’t crush the needy in court;
+Don’t befriend a hot-tempered man, and don’t associate with one who harbors anger: lest you learn his ways, and ensnare your soul.
 
 ### 23
-for Yahweh will plead their case, and plunder the life of those who plunder them.
-
-### 24
-Don’t befriend a hot-tempered man, and don’t associate with one who harbors anger:
-
-### 25
-lest you learn his ways, and ensnare your soul.
-
-### 26
 Don’t you be one of those who strike hands, of those who are collateral for debts.
 
-### 27
+### 24
 If you don’t have means to pay, why should he take away your bed from under you?
 
-### 28
+### 25
 Don’t move the ancient boundary stone, which your fathers have set up.
 
-### 29
+### 26
 Do you see a man skilled in his work? He will serve kings. He won’t serve obscure men.

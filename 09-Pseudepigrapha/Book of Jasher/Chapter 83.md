@@ -11,178 +11,154 @@ title: "Book of Jasher - Chapter 83"
 **Chapter 83**
 
 ### 1
-(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"}); Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 83
 
 ### 2
-Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 83
-
-### 3
 < Sefer Ha-yashar, or, the Book of Jasher (1840)(Redirected from Book of Jasher/Chapter 83)
 
-### 4
+### 3
 .mw-parser-output .wst-verse{color:#2E8B57}.mw-parser-output .wst-verse-left{position:absolute;left:1em}.mw-parser-output .wst-verse-float{float:left;text-align:right;margin-left:-4em;width:4em}@media screen{html.skin-theme-clientpref-night .mw-parser-output .wst-verse{color:#97efbe}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .wst-verse{color:#97efbe}}1And in the twelfth month, in the twenty-third day of the month, Moses took Aaron and his sons, and he dressed them in their garments, and anointed them and did unto them as the Lord had commanded him, and Moses brought up all the offerings which the Lord had on that day commanded him.
 
-### 5
+### 4
 2Moses afterward took Aaron and his sons and said to them, For seven days shall you remain at the door of the tabernacle, for thus am I commanded.
 
-### 6
+### 5
 3And Aaron and his sons did all that the Lord had commanded them through Moses, and they remained for seven days at the door of the tabernacle.
 
-### 7
+### 6
 4And on the eighth day, being the first day of the first month, in the second year from the Israelites' departure from Egypt, Moses erected the sanctuary, and Moses put up all the furniture of the tabernacle and all the furniture of the sanctuary, and he did all that the Lord had commanded him.
 
-### 8
+### 7
 5And Moses called to Aaron and his sons, and they brought the burnt offering and the sin offering for themselves and the children of Israel, as the Lord had commanded Moses.
 
-### 9
+### 8
 6On that day the two sons of Aaron, Nadab and Abihu, took strange fire and brought it before the Lord who had not commanded them, and a fire went forth from before the Lord, and consumed them, and they died before the Lord on that day.
 
-### 10
+### 9
 7Then on the day when Moses had completed to erect the sanctuary, the princes of the children of Israel began to bring their offerings before the Lord for the dedication of the altar.
 
-### 11
+### 10
 8And they brought up their offerings each prince for one day, a prince each day for twelve days.
 
-### 12
+### 11
 9And all the offerings which they brought, each man in his day, one silver charger weighing one hundred and thirty shekels, one silver bowl of seventy shekels after the shekel of the sanctuary, both of them full of fine flour, mingled with oil for a meat offering.
 
-### 13
+### 12
 10One spoon, weighing ten shekels of gold, full of incense.
 
-### 14
+### 13
 11One young bullock, one ram, one lamb of the first year for a burnt offering.
 
-### 15
+### 14
 12And one kid of the goats for a sin offering.
 
-### 16
+### 15
 13And for a sacrifice of peace offering, two oxen, five rams, five he-goats, five lambs of a year old.
 
-### 17
+### 16
 14Thus did the twelve princes of Israel day by day, each man in his day.
 
-### 18
+### 17
 15And it was after this, in the thirteenth day of the month, that Moses commanded the children of Israel to observe the Passover.
 
-### 19
+### 18
 16And the children of Israel kept the Passover in its season in the fourteenth day of the month, as the Lord had commanded Moses, so did the children of Israel.
 
+### 19
+17And in the second month, on the first day thereof, the Lord spoke unto Moses, saying, 18Number the heads of all the males of the children of Israel from twenty years old and upward, thou and thy brother Aaron and the twelve princes of Israel.
+
 ### 20
-17And in the second month, on the first day thereof, the Lord spoke unto Moses, saying,
-
-### 21
-18Number the heads of all the males of the children of Israel from twenty years old and upward, thou and thy brother Aaron and the twelve princes of Israel.
-
-### 22
 19And Moses did so, and Aaron came with the twelve princes of Israel, and they numbered the children of Israel in the wilderness of Sinai.
 
-### 23
+### 21
 20And the numbers of the children of Israel by the houses of their fathers, from twenty years old and upward, were six hundred and three thousand, five hundred and fifty.
 
-### 24
+### 22
 21But the children of Levi were not numbered amongst their brethren the children of Israel.
 
-### 25
+### 23
 22And the number of all the males of the children of Israel from one month old and upward, was twenty-two thousand, two hundred and seventy-three.
 
-### 26
+### 24
 23And the number of the children of Levi from one month old and above, was twenty-two thousand.
 
-### 27
+### 25
 24And Moses placed the priests and the Levites each man to his service and to his burden to serve the sanctuary of the tabernacle, as the Lord had commanded Moses.
 
-### 28
+### 26
 25And on the twentieth day of the month, the cloud was taken away from the tabernacle of testimony.
 
-### 29
+### 27
 26At that time the children of Israel continued their journey from the wilderness of Sinai, and they took a journey of three days, and the cloud rested upon the wilderness of Paran; there the anger of the Lord was kindled against Israel, for they had provoked the Lord in asking him for meat, that they might eat.
 
-### 30
+### 28
 27And the Lord hearkened to their voice, and gave them meat which they ate for one month.
 
-### 31
+### 29
 28But after this the anger of the Lord was kindled against them, and he smote them with a great slaughter, and they were buried there in that place.
 
-### 32
+### 30
 29And the children of Israel called that place Kebroth Hattaavah, because there they buried the people that lusted flesh.
 
-### 33
+### 31
 30And they departed from Kebroth Hattaavah and pitched in Hazeroth, which is in the wilderness of Paran.
 
-### 34
+### 32
 31And whilst the children of Israel were in Hazeroth, the anger of the Lord was kindled against Miriam on account of Moses, and she became leprous, white as snow.
 
-### 35
+### 33
 32And she was confined without the camp for seven days, until she had been received again after her leprosy.
 
-### 36
+### 34
 33The children of Israel afterward departed from Hazeroth, and pitched in the end of the wilderness of Paran.
 
-### 37
+### 35
 34At that time, the Lord spoke to Moses to send twelve men from the children of Israel, one man to a tribe, to go and explore the land of Canaan.
 
-### 38
+### 36
 35And Moses sent the twelve men, and they came to the land of Canaan to search and examine it, and they explored the whole land from the wilderness of Sin to Rechob as thou comest to Chamoth.
 
-### 39
+### 37
 36And at the end of forty days they came to Moses and Aaron, and they brought him word as it was in their hearts, and ten of the men brought up an evil report to the children of Israel, of the land which they had explored, saying, It is better for us to return to Egypt than to go to this land, a land that consumes its inhabitants.
 
-### 40
+### 38
 37But Joshua the son of Nun, and Caleb the son of Jephuneh, who were of those that explored the land, said, The land is exceedingly good.
 
-### 41
+### 39
 38If the Lord delight in us, then he will bring us to this land and give it to us, for it is a land flowing with milk and honey.
 
-### 42
+### 40
 39But the children of Israel would not hearken to them, and they hearkened to the words of the ten men who had brought up an evil report of the land.
 
-### 43
-40And the Lord heard the murmurings of the children of Israel and he was angry and swore, saying,
+### 41
+40And the Lord heard the murmurings of the children of Israel and he was angry and swore, saying, 41Surely not one man of this wicked generation shall see the land from twenty years old and upward excepting Caleb the son of Jephuneh and Joshua the son of Nun.
 
-### 44
-41Surely not one man of this wicked generation shall see the land from twenty years old and upward excepting Caleb the son of Jephuneh and Joshua the son of Nun.
-
-### 45
+### 42
 42But surely this wicked generation shall perish in this wilderness, and their children shall come to the land and they shall possess it; so the anger of the Lord was kindled against Israel, and he made them wander in the wilderness for forty years until the end of that wicked generation, because they did not follow the Lord.
 
-### 46
+### 43
 43And the people dwelt in the wilderness of Paran a long time, and they afterward proceeded to the wilderness by the way of the Red Sea.
 
-### 47
+### 44
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_83&oldid=11446132"
 
-### 48
-Hidden categories: SubpagesHeaders applying DefaultSort key
+### 45
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:18.
 
-### 49
-This page was last edited on 30 June 2021, at 02:18.
-
-### 50
+### 46
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 47
+Privacy policy Disclaimers
+
+### 48
+Code of Conduct Developers
+
+### 49
+Statistics Cookie statement
+
+### 50
+Mobile view Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 83
+
 ### 51
-Privacy policy
-
-### 52
-Disclaimers
-
-### 53
-Code of Conduct
-
-### 54
-Developers
-
-### 55
-Statistics
-
-### 56
-Cookie statement
-
-### 57
-Mobile view
-
-### 58
-Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 83
-
-### 59
 Add topic

@@ -54,34 +54,28 @@ But when Israel saw that the famine was very sore in the land, and that there wa
 And they said: 'We shall not go; unless our youngest brother go with us, we shall not go.'
 
 ### 17
-And Israel saw that if he did not send him with them, they should all perish by reason of the famine
+And Israel saw that if he did not send him with them, they should all perish by reason of the famine And Reuben said: 'Give him into my hand, and if I do not bring him back to thee, slay my two sons instead of his soul.'
 
 ### 18
-And Reuben said: 'Give him into my hand, and if I do not bring him back to thee, slay my two sons instead of his soul.'
-
-### 19
 And he said unto him: 'He shall not go with thee.' And Judah came near and said: 'Send him with me, and if I do not bring him back to thee, let me bear the blame before thee all the days of my life.'
 
-### 20
+### 19
 And he sent him with them in the second year of this week on the [2172 A.m.] first day of the month, and they came to the land of Egypt with all those who went, and (they had) presents in their hands, stacte and almonds and terebinth nuts and pure honey.
 
-### 21
+### 20
 And they went and stood before Joseph, and he saw Benjamin his brother, and he knew him, and said unto them: Is this your youngest brother?' And they said unto him: 'It is he.' And he said The Lord be gracious to thee, my son!'
 
-### 22
+### 21
 And he sent him into his house and he brought forth Simeon unto them and he made a feast for them, and they presented to him the gift which they had brought in their hands.
 
-### 23
+### 22
 And they eat before him and he gave them all a portion, but the portion of Benjamin was seven times larger than that of any of theirs.
 
-### 24
+### 23
 And they eat and drank and arose and remained with their asses.
 
-### 25
+### 24
 And Joseph devised a plan whereby he might learn their thoughts as to whether thoughts of peace prevailed amongst them, and he said to the steward who was over his house: 'Fill all their sacks with food, and return their money unto them into their vessels, and my cup, the silver cup out of which I drink, put it in the sack of the youngest, and send them away.'
 
-### 26
-The Book of Jubilees
-
-### 27
-Joseph's plan to stay his brethren, 1-10. Judah's supplication, 11-13. Joseph makes himself known to his brethren and sends them back for his father, 14-24. (Cf. Gen. xliv.3-10, 12-18, 27-8, 30-2; xlv.1-2, 5-9, 12, 18, 20-1, 23, 25-8.)
+### 25
+The Book of Jubilees Joseph's plan to stay his brethren, 1-10. Judah's supplication, 11-13. Joseph makes himself known to his brethren and sends them back for his father, 14-24. (Cf. Gen. xliv.3-10, 12-18, 27-8, 30-2; xlv.1-2, 5-9, 12, 18, 20-1, 23, 25-8.)

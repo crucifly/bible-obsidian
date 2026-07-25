@@ -69,13 +69,7 @@ But when he thought about these things, behold, an angel of the Lord appeared to
 She shall give birth to a son. You shall call his name Jesus, for it is he who shall save his people from their sins.”
 
 ### 22
-Now all this has happened, that it might be fulfilled which was spoken by the Lord through the prophet, saying,
+Now all this has happened, that it might be fulfilled which was spoken by the Lord through the prophet, saying, “Behold, the virgin shall be with child, and shall give birth to a son. They shall call his name Immanuel”; which is, being interpreted, “God with us.”
 
 ### 23
-“Behold, the virgin shall be with child, and shall give birth to a son. They shall call his name Immanuel”; which is, being interpreted, “God with us.”
-
-### 24
-Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself;
-
-### 25
-and didn’t know her sexually until she had given birth to her firstborn son. He named him Jesus.
+Joseph arose from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself; and didn’t know her sexually until she had given birth to her firstborn son. He named him Jesus.

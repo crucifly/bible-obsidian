@@ -57,31 +57,28 @@ When Joab kept watch on the city, he assigned Uriah to the place where he knew t
 The men of the city went out, and fought with Joab. Some of the people fell, even of David’s servants; and Uriah the Hittite died also.
 
 ### 18
-Then Joab sent and told David all the things concerning the war;
+Then Joab sent and told David all the things concerning the war; and he commanded the messenger, saying, “When you have finished telling all the things concerning the war to the king,
 
 ### 19
-and he commanded the messenger, saying, “When you have finished telling all the things concerning the war to the king,
-
-### 20
 it shall be that, if the king’s wrath arise, and he asks you, ‘Why did you go so near to the city to fight? Didn’t you know that they would shoot from the wall?
 
-### 21
+### 20
 Who struck Abimelech the son of Jerubbesheth? Didn’t a woman cast an upper millstone on him from the wall, so that he died at Thebez? Why did you go so near the wall?’ then you shall say, ‘Your servant Uriah the Hittite is also dead.’”
 
-### 22
+### 21
 So the messenger went, and came and showed David all that Joab had sent him for.
 
-### 23
+### 22
 The messenger said to David, “The men prevailed against us, and came out to us into the field, and we were on them even to the entrance of the gate.
 
-### 24
+### 23
 The shooters shot at your servants from off the wall; and some of the king’s servants are dead, and your servant Uriah the Hittite is also dead.”
 
-### 25
+### 24
 Then David said to the messenger, “Tell Joab, ‘Don’t let this thing displease you, for the sword devours one as well as another. Make your battle stronger against the city, and overthrow it.’ Encourage him.”
 
-### 26
+### 25
 When Uriah’s wife heard that Uriah her husband was dead, she mourned for her husband.
 
-### 27
+### 26
 When the mourning was past, David sent and took her home to his house, and she became his wife, and bore him a son. But the thing that David had done displeased Yahweh.

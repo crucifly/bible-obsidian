@@ -37,10 +37,7 @@ Murmuring, and impatience in affliction, remove far from me, When, if I sin, Tho
 But with goodwill and cheerfulness support my soul; When Thou strengthenest my soul, what is given (to me) will be sufficient for me.
 
 ### 11
-For if Thou givest not strength, Who can endure chastisement with poverty
+For if Thou givest not strength, Who can endure chastisement with poverty When a man is rebuked by means of his corruption, Thy testing (of him) is in his flesh and in the affliction of poverty.
 
 ### 12
-When a man is rebuked by means of his corruption, Thy testing (of him) is in his flesh and in the affliction of poverty.
-
-### 13
 If the righteous endureth in all these (trials), he shall receive mercy from the Lord.

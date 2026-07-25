@@ -60,46 +60,43 @@ Then your servant said, ‘Please let the word of my lord the king bring rest; f
 Then the king answered the woman, “Please don’t hide anything from me that I ask you.” The woman said, “Let my lord the king now speak.”
 
 ### 19
-The king said, “Is the hand of Joab with you in all this?” The woman answered, “As your soul lives, my lord the king, no one can turn to the right hand or to the left from anything that my lord the king has spoken; for your servant Joab urged me, and he put all these words in the mouth of your servant;
+The king said, “Is the hand of Joab with you in all this?” The woman answered, “As your soul lives, my lord the king, no one can turn to the right hand or to the left from anything that my lord the king has spoken; for your servant Joab urged me, and he put all these words in the mouth of your servant; to change the face of the matter has your servant Joab done this thing. My lord is wise, according to the wisdom of an angel of God, to know all things that are in the earth.”
 
 ### 20
-to change the face of the matter has your servant Joab done this thing. My lord is wise, according to the wisdom of an angel of God, to know all things that are in the earth.”
-
-### 21
 The king said to Joab, “Behold now, I have done this thing. Go therefore, and bring the young man Absalom back.”
 
-### 22
+### 21
 Joab fell to the ground on his face, showed respect, and blessed the king. Joab said, “Today your servant knows that I have found favor in your sight, my lord, king, in that the king has performed the request of his servant.”
 
-### 23
+### 22
 So Joab arose and went to Geshur, and brought Absalom to Jerusalem.
 
-### 24
+### 23
 The king said, “Let him return to his own house, but let him not see my face.” So Absalom returned to his own house, and didn’t see the king’s face.
 
-### 25
+### 24
 Now in all Israel there was no one to be so much praised as Absalom for his beauty. From the sole of his foot even to the crown of his head there was no defect in him.
 
-### 26
+### 25
 When he cut the hair of his head (now it was at every year’s end that he cut it; because it was heavy on him, therefore he cut it); he weighed the hair of his head at two hundred shekels, after the king’s weight.
 
-### 27
+### 26
 Three sons were born to Absalom, and one daughter, whose name was Tamar. She was a woman with a beautiful face.
 
-### 28
+### 27
 Absalom lived two full years in Jerusalem, and he didn’t see the king’s face.
 
-### 29
+### 28
 Then Absalom sent for Joab, to send him to the king, but he would not come to him. Then he sent again a second time, but he would not come.
 
-### 30
+### 29
 Therefore he said to his servants, “Behold, Joab’s field is near mine, and he has barley there. Go and set it on fire.” So Absalom’s servants set the field on fire.
 
-### 31
+### 30
 Then Joab arose, and came to Absalom to his house, and said to him, “Why have your servants set my field on fire?”
 
-### 32
+### 31
 Absalom answered Joab, “Behold, I sent to you, saying, ‘Come here, that I may send you to the king, to say, “Why have I come from Geshur? It would be better for me to be there still. Now therefore let me see the king’s face, and if there is iniquity in me, let him kill me.”’”
 
-### 33
+### 32
 So Joab came to the king, and told him; and when he had called for Absalom, he came to the king, and bowed himself on his face to the ground before the king; and the king kissed Absalom.

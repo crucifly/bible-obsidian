@@ -45,19 +45,16 @@ Why have you broken down its walls, so that all those who pass by the way pluck 
 The boar out of the wood ravages it. The wild animals of the field feed on it.
 
 ### 14
-Turn again, we beg you, God of Armies. Look down from heaven, and see, and visit this vine,
+Turn again, we beg you, God of Armies. Look down from heaven, and see, and visit this vine, the stock which your right hand planted, the branch that you made strong for yourself.
 
 ### 15
-the stock which your right hand planted, the branch that you made strong for yourself.
-
-### 16
 It’s burned with fire. It’s cut down. They perish at your rebuke.
 
-### 17
+### 16
 Let your hand be on the man of your right hand, on the son of man whom you made strong for yourself.
 
-### 18
+### 17
 So we will not turn away from you. Revive us, and we will call on your name.
 
-### 19
+### 18
 Turn us again, Yahweh God of Armies. Cause your face to shine, and we will be saved.

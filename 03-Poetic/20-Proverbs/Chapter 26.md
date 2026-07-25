@@ -57,34 +57,31 @@ The sluggard is wiser in his own eyes than seven men who answer with discretion.
 Like one who grabs a dog’s ears is one who passes by and meddles in a quarrel not his own.
 
 ### 18
-Like a madman who shoots torches, arrows, and death,
+Like a madman who shoots torches, arrows, and death, is the man who deceives his neighbor and says, “Am I not joking?”
 
 ### 19
-is the man who deceives his neighbor and says, “Am I not joking?”
-
-### 20
 For lack of wood a fire goes out. Without gossip, a quarrel dies down.
 
-### 21
+### 20
 As coals are to hot embers, and wood to fire, so is a contentious man to kindling strife.
 
-### 22
+### 21
 The words of a whisperer are as dainty morsels, they go down into the innermost parts.
 
-### 23
+### 22
 Like silver dross on an earthen vessel are the lips of a fervent one with an evil heart.
 
-### 24
+### 23
 A malicious man disguises himself with his lips, but he harbors evil in his heart.
 
-### 25
+### 24
 When his speech is charming, don’t believe him; for there are seven abominations in his heart.
 
-### 26
+### 25
 His malice may be concealed by deception, but his wickedness will be exposed in the assembly.
 
-### 27
+### 26
 Whoever digs a pit shall fall into it. Whoever rolls a stone, it will come back on him.
 
-### 28
+### 27
 A lying tongue hates those it hurts; and a flattering mouth works ruin.

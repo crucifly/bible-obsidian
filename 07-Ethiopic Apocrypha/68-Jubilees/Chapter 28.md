@@ -96,7 +96,4 @@ And Jacob's possessions multiplied exceedingly, and he possessed oxen and sheep 
 And Laban and his sons envied Jacob, and Laban took back his sheep from him, and he observed him with evil intent.
 
 ### 31
-The Book of Jubilees
-
-### 32
-Jacob, departs secretly, 1-4. Laban pursues after him, 5-6. Covenant of Jacob and Laban, 7-8. Abodes of the Amorites (anciently of the Rephaim) destroyed in the time of the writer, 9-11. Laban departs, 12. Jacob is reconciled to Esau, 13. Jacob sends supplies of food to his parents four times a year to Hebron, 14-17, 19-20. Esau marries again, 18. (Cf. Gen. xxxi.3, 4, 10, 13, 19, 21, 23, 24, 46, 47; xxxii.22; xxxiii.10, 16.)
+The Book of Jubilees Jacob, departs secretly, 1-4. Laban pursues after him, 5-6. Covenant of Jacob and Laban, 7-8. Abodes of the Amorites (anciently of the Rephaim) destroyed in the time of the writer, 9-11. Laban departs, 12. Jacob is reconciled to Esau, 13. Jacob sends supplies of food to his parents four times a year to Hebron, 14-17, 19-20. Esau marries again, 18. (Cf. Gen. xxxi.3, 4, 10, 13, 19, 21, 23, 24, 46, 47; xxxii.22; xxxiii.10, 16.)

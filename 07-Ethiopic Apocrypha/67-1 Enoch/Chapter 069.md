@@ -66,19 +66,16 @@ And through that oath the stars complete their course, And He calls them by thei
 And there are preserved the voices of the thunder and the light of the lightnings: and there are preserved the chambers of the hail and the chambers of the hoarfrost, and the chambers of the mist, and the chambers of the rain and the dew.
 
 ### 21
-And all these believe and give thanks before the Lord of Spirits, and glorify (Him) with all their power, and their food is in every act of thanksgiving: they thank and glorify and extol the name of the Lord of Spirits for ever and ever.⌉
+And all these believe and give thanks before the Lord of Spirits, and glorify (Him) with all their power, and their food is in every act of thanksgiving: they thank and glorify and extol the name of the Lord of Spirits for ever and ever.⌉ And this oath is mighty over them And through it ⌈they are preserved and⌉ their paths are preserved, And their course is not destroyed. Close of the Third Parable.
 
 ### 22
-And this oath is mighty over them And through it ⌈they are preserved and⌉ their paths are preserved, And their course is not destroyed. Close of the Third Parable.
-
-### 23
 And there was great joy amongst them, And they blessed and glorified and extolled Because the name of that Son of Man had been revealed unto them.
 
-### 24
+### 23
 And he sat on the throne of his glory, And the sum of judgement was given unto the Son of Man, And he caused the sinners to pass away and be destroyed from off the face of the earth, And those who have led the world astray.
 
-### 25
+### 24
 With chains shall they be bound, And in their assemblage-place of destruction shall they be imprisoned, And all their works vanish from the face of the earth.
 
-### 26
+### 25
 And from henceforth there shall be nothing corruptible; For that Son of Man has appeared, And has seated himself on the throne of his glory, And all evil shall pass away before his face, And the word of that Son of Man shall go forth And be strong before the Lord of Spirits.

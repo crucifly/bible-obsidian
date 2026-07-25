@@ -101,34 +101,19 @@ And Abraham prayed on account of Abimelech and his subjects, and the Lord heard 
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_20&oldid=11445898"
 
 ### 31
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:53.
 
 ### 32
-This page was last edited on 30 June 2021, at 01:53.
-
-### 33
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 33
+Privacy policy Disclaimers
+
 ### 34
-Privacy policy
+Code of Conduct Developers
 
 ### 35
-Disclaimers
+Statistics Cookie statement
 
 ### 36
-Code of Conduct
-
-### 37
-Developers
-
-### 38
-Statistics
-
-### 39
-Cookie statement
-
-### 40
-Mobile view
-
-### 41
-Add topic
+Mobile view Add topic

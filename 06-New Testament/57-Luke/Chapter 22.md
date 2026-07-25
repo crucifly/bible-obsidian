@@ -48,172 +48,151 @@ They went, found things as Jesus had told them, and they prepared the Passover.
 When the hour had come, he sat down with the twelve apostles.
 
 ### 15
-He said to them, “I have earnestly desired to eat this Passover with you before I suffer,
+He said to them, “I have earnestly desired to eat this Passover with you before I suffer, for I tell you, I will no longer by any means eat of it until it is fulfilled in God’s Kingdom.”
 
 ### 16
-for I tell you, I will no longer by any means eat of it until it is fulfilled in God’s Kingdom.”
+He received a cup, and when he had given thanks, he said, “Take this, and share it among yourselves, for I tell you, I will not drink at all again from the fruit of the vine, until God’s Kingdom comes.”
 
 ### 17
-He received a cup, and when he had given thanks, he said, “Take this, and share it among yourselves,
-
-### 18
-for I tell you, I will not drink at all again from the fruit of the vine, until God’s Kingdom comes.”
-
-### 19
 He took bread, and when he had given thanks, he broke, and gave it to them, saying, “This is my body which is given for you. Do this in memory of me.”
 
-### 20
+### 18
 Likewise, he took the cup after supper, saying, “This cup is the new covenant in my blood, which is poured out for you.
 
-### 21
+### 19
 But behold, the hand of him who betrays me is with me on the table.
 
-### 22
+### 20
 The Son of Man indeed goes, as it has been determined, but woe to that man through whom he is betrayed!”
 
-### 23
+### 21
 They began to question among themselves, which of them it was who would do this thing.
 
-### 24
+### 22
 There arose also a contention among them, which of them was considered to be greatest.
 
-### 25
+### 23
 He said to them, “The kings of the nations lord it over them, and those who have authority over them are called ‘benefactors.’
 
-### 26
+### 24
 But not so with you. But one who is the greater among you, let him become as the younger, and one who is governing, as one who serves.
 
-### 27
+### 25
 For who is greater, one who sits at the table, or one who serves? Isn’t it he who sits at the table? But I am among you as one who serves.
 
-### 28
+### 26
 But you are those who have continued with me in my trials.
 
+### 27
+I confer on you a kingdom, even as my Father conferred on me, that you may eat and drink at my table in my Kingdom. You will sit on thrones, judging the twelve tribes of Israel.”
+
+### 28
+The Lord said, “Simon, Simon, behold, Satan asked to have all of you, that he might sift you as wheat, but I prayed for you, that your faith wouldn’t fail. You, when once you have turned again, establish your brothers.”
+
 ### 29
-I confer on you a kingdom, even as my Father conferred on me,
-
-### 30
-that you may eat and drink at my table in my Kingdom. You will sit on thrones, judging the twelve tribes of Israel.”
-
-### 31
-The Lord said, “Simon, Simon, behold, Satan asked to have all of you, that he might sift you as wheat,
-
-### 32
-but I prayed for you, that your faith wouldn’t fail. You, when once you have turned again, establish your brothers.”
-
-### 33
 He said to him, “Lord, I am ready to go with you both to prison and to death!”
 
-### 34
+### 30
 He said, “I tell you, Peter, the rooster will by no means crow today until you deny that you know me three times.”
 
-### 35
+### 31
 He said to them, “When I sent you out without purse, and wallet, and shoes, did you lack anything?” They said, “Nothing.”
 
-### 36
+### 32
 Then he said to them, “But now, whoever has a purse, let him take it, and likewise a wallet. Whoever has none, let him sell his cloak, and buy a sword.
 
-### 37
+### 33
 For I tell you that this which is written must still be fulfilled in me: ‘He was counted with transgressors.’ For that which concerns me has an end.”
 
-### 38
+### 34
 They said, “Lord, behold, here are two swords.” He said to them, “That is enough.”
 
-### 39
+### 35
 He came out, and went, as his custom was, to the Mount of Olives. His disciples also followed him.
 
-### 40
+### 36
 When he was at the place, he said to them, “Pray that you don’t enter into temptation.”
 
-### 41
-He was withdrawn from them about a stone’s throw, and he knelt down and prayed,
+### 37
+He was withdrawn from them about a stone’s throw, and he knelt down and prayed, saying, “Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”
 
-### 42
-saying, “Father, if you are willing, remove this cup from me. Nevertheless, not my will, but yours, be done.”
-
-### 43
+### 38
 An angel from heaven appeared to him, strengthening him.
 
-### 44
+### 39
 Being in agony he prayed more earnestly. His sweat became like great drops of blood falling down on the ground.
 
-### 45
-When he rose up from his prayer, he came to the disciples, and found them sleeping because of grief,
+### 40
+When he rose up from his prayer, he came to the disciples, and found them sleeping because of grief, and said to them, “Why do you sleep? Rise and pray that you may not enter into temptation.”
 
-### 46
-and said to them, “Why do you sleep? Rise and pray that you may not enter into temptation.”
-
-### 47
+### 41
 While he was still speaking, behold, a multitude, and he who was called Judas, one of the twelve, was leading them. He came near to Jesus to kiss him.
 
-### 48
+### 42
 But Jesus said to him, “Judas, do you betray the Son of Man with a kiss?”
 
-### 49
+### 43
 When those who were around him saw what was about to happen, they said to him, “Lord, shall we strike with the sword?”
 
-### 50
+### 44
 A certain one of them struck the servant of the high priest, and cut off his right ear.
 
-### 51
+### 45
 But Jesus answered, “Let me at least do this”—and he touched his ear, and healed him.
 
-### 52
+### 46
 Jesus said to the chief priests, captains of the temple, and elders, who had come against him, “Have you come out as against a robber, with swords and clubs?
 
-### 53
+### 47
 When I was with you in the temple daily, you didn’t stretch out your hands against me. But this is your hour, and the power of darkness.”
 
-### 54
+### 48
 They seized him, and led him away, and brought him into the high priest’s house. But Peter followed from a distance.
 
-### 55
+### 49
 When they had kindled a fire in the middle of the courtyard, and had sat down together, Peter sat among them.
 
-### 56
+### 50
 A certain servant girl saw him as he sat in the light, and looking intently at him, said, “This man also was with him.”
 
-### 57
+### 51
 He denied Jesus, saying, “Woman, I don’t know him.”
 
-### 58
+### 52
 After a little while someone else saw him, and said, “You also are one of them!” But Peter answered, “Man, I am not!”
 
-### 59
+### 53
 After about one hour passed, another confidently affirmed, saying, “Truly this man also was with him, for he is a Galilean!”
 
-### 60
+### 54
 But Peter said, “Man, I don’t know what you are talking about!” Immediately, while he was still speaking, a rooster crowed.
 
-### 61
+### 55
 The Lord turned, and looked at Peter. Then Peter remembered the Lord’s word, how he said to him, “Before the rooster crows you will deny me three times.”
 
-### 62
+### 56
 He went out, and wept bitterly.
 
-### 63
+### 57
 The men who held Jesus mocked him and beat him.
 
-### 64
+### 58
 Having blindfolded him, they struck him on the face and asked him, “Prophesy! Who is the one who struck you?”
 
-### 65
+### 59
 They spoke many other things against him, insulting him.
 
-### 66
-As soon as it was day, the assembly of the elders of the people were gathered together, both chief priests and scribes, and they led him away into their council, saying,
+### 60
+As soon as it was day, the assembly of the elders of the people were gathered together, both chief priests and scribes, and they led him away into their council, saying, “If you are the Christ, tell us.” But he said to them, “If I tell you, you won’t believe,
 
-### 67
-“If you are the Christ, tell us.” But he said to them, “If I tell you, you won’t believe,
-
-### 68
+### 61
 and if I ask, you will in no way answer me or let me go.
 
-### 69
+### 62
 From now on, the Son of Man will be seated at the right hand of the power of God.”
 
-### 70
+### 63
 They all said, “Are you then the Son of God?” He said to them, “You say it, because I am.”
 
-### 71
+### 64
 They said, “Why do we need any more witness? For we ourselves have heard from his own mouth!”

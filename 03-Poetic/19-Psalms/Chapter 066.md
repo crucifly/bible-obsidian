@@ -27,40 +27,34 @@ He turned the sea into dry land. They went through the river on foot. There, we 
 He rules by his might forever. His eyes watch the nations. Don’t let the rebellious rise up against him..
 
 ### 8
-Praise our God, you peoples! Make the sound of his praise heard,
+Praise our God, you peoples! Make the sound of his praise heard, who preserves our life among the living, and doesn’t allow our feet to be moved.
 
 ### 9
-who preserves our life among the living, and doesn’t allow our feet to be moved.
-
-### 10
 For you, God, have tested us. You have refined us, as silver is refined.
 
-### 11
+### 10
 You brought us into prison. You laid a burden on our backs.
 
-### 12
+### 11
 You allowed men to ride over our heads. We went through fire and through water, but you brought us to the place of abundance.
 
+### 12
+I will come into your temple with burnt offerings. I will pay my vows to you, which my lips promised, and my mouth spoke, when I was in distress.
+
 ### 13
-I will come into your temple with burnt offerings. I will pay my vows to you,
-
-### 14
-which my lips promised, and my mouth spoke, when I was in distress.
-
-### 15
 I will offer to you burnt offerings of fat animals, with the offering of rams, I will offer bulls with goats..
 
-### 16
+### 14
 Come, and hear, all you who fear God. I will declare what he has done for my soul.
 
-### 17
+### 15
 I cried to him with my mouth. He was extolled with my tongue.
 
-### 18
+### 16
 If I cherished sin in my heart, the Lord wouldn’t have listened.
 
-### 19
+### 17
 But most certainly, God has listened. He has heard the voice of my prayer.
 
-### 20
+### 18
 Blessed be God, who has not turned away my prayer, nor his loving kindness from me.

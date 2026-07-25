@@ -81,25 +81,22 @@ Five times from the Jews I received forty stripes minus one.
 Three times I was beaten with rods. Once I was stoned. Three times I suffered shipwreck. I have been a night and a day in the deep.
 
 ### 26
-I have been in travels often, perils of rivers, perils of robbers, perils from my countrymen, perils from the Gentiles, perils in the city, perils in the wilderness, perils in the sea, perils among false brothers;
+I have been in travels often, perils of rivers, perils of robbers, perils from my countrymen, perils from the Gentiles, perils in the city, perils in the wilderness, perils in the sea, perils among false brothers; in labor and travail, in watchings often, in hunger and thirst, in fastings often, and in cold and nakedness.
 
 ### 27
-in labor and travail, in watchings often, in hunger and thirst, in fastings often, and in cold and nakedness.
-
-### 28
 Besides those things that are outside, there is that which presses on me daily: anxiety for all the assemblies.
 
-### 29
+### 28
 Who is weak, and I am not weak? Who is caused to stumble, and I don’t burn with indignation?
 
-### 30
+### 29
 If I must boast, I will boast of the things that concern my weakness.
 
-### 31
+### 30
 The God and Father of the Lord Jesus Christ, he who is blessed forever more, knows that I don’t lie.
 
-### 32
+### 31
 In Damascus the governor under King Aretas guarded the Damascenes’ city, desiring to arrest me.
 
-### 33
+### 32
 Through a window I was let down in a basket by the wall, and escaped his hands.

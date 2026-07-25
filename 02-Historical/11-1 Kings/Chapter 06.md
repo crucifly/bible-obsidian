@@ -36,85 +36,79 @@ So he built the house, and finished it; and he covered the house with beams and 
 He built the floors all along the house, each five cubits high; and they rested on the house with timber of cedar.
 
 ### 11
-Yahweh’s word came to Solomon, saying,
+Yahweh’s word came to Solomon, saying, “Concerning this house which you are building, if you will walk in my statutes, and execute my ordinances, and keep all my commandments to walk in them; then I will establish my word with you, which I spoke to David your father.
 
 ### 12
-“Concerning this house which you are building, if you will walk in my statutes, and execute my ordinances, and keep all my commandments to walk in them; then I will establish my word with you, which I spoke to David your father.
-
-### 13
 I will dwell among the children of Israel, and will not forsake my people Israel.”
 
-### 14
+### 13
 So Solomon built the house, and finished it.
 
-### 15
+### 14
 He built the walls of the house within with boards of cedar: from the floor of the house to the walls of the ceiling, he covered them on the inside with wood; and he covered the floor of the house with cypress boards.
 
-### 16
+### 15
 He built twenty cubits on the back part of the house with boards of cedar from the floor to the ceiling. He built them for it within, for an inner sanctuary, even for the most holy place.
 
-### 17
+### 16
 In front of the temple sanctuary was forty cubits.
 
-### 18
+### 17
 There was cedar on the house within, carved with buds and open flowers. All was cedar. No stone was visible.
 
-### 19
+### 18
 He prepared an inner sanctuary in the middle of the house within, to set the ark of Yahweh’s covenant there.
 
-### 20
+### 19
 Within the inner sanctuary was twenty cubits in length, and twenty cubits in width, and twenty cubits in its height; and he overlaid it with pure gold; and he covered the altar with cedar.
 
-### 21
+### 20
 So Solomon overlaid the house within with pure gold. He drew chains of gold across before the inner sanctuary, and he overlaid it with gold.
 
-### 22
+### 21
 He overlaid the whole house with gold, until all the house was finished. He also overlaid the whole altar that belonged to the inner sanctuary with gold.
 
-### 23
+### 22
 In the inner sanctuary he made two cherubim of olive wood, each ten cubits high.
 
-### 24
+### 23
 Five cubits was the one wing of the cherub, and five cubits the other wing of the cherub. From the tip of one wing to the tip of the other was ten cubits.
 
-### 25
+### 24
 The other cherub was ten cubits. Both the cherubim were of one measure and one form.
 
-### 26
+### 25
 One cherub was ten cubits high, and so was the other cherub.
 
-### 27
+### 26
 He set the cherubim within the inner house. The wings of the cherubim were stretched out, so that the wing of the one touched the one wall, and the wing of the other cherub touched the other wall; and their wings touched one another in the middle of the house.
 
-### 28
+### 27
 He overlaid the cherubim with gold.
 
-### 29
+### 28
 He carved all the walls of the house around with carved figures of cherubim, palm trees, and open flowers, inside and outside.
 
-### 30
+### 29
 He overlaid the floor of the house with gold, inside and outside.
 
-### 31
+### 30
 For the entrance of the inner sanctuary, he made doors of olive wood. The lintel and door posts were a fifth part of the wall.
 
-### 32
+### 31
 So he made two doors of olive wood; and he carved on them carvings of cherubim, palm trees, and open flowers, and overlaid them with gold. He spread the gold on the cherubim and on the palm trees.
 
+### 32
+He also did so for the entrance of the temple door posts of olive wood, out of a fourth part of the wall; and two doors of cypress wood. The two leaves of the one door were folding, and the two leaves of the other door were folding.
+
 ### 33
-He also did so for the entrance of the temple door posts of olive wood, out of a fourth part of the wall;
-
-### 34
-and two doors of cypress wood. The two leaves of the one door were folding, and the two leaves of the other door were folding.
-
-### 35
 He carved cherubim, palm trees, and open flowers; and he overlaid them with gold fitted on the engraved work.
 
-### 36
+### 34
 He built the inner court with three courses of cut stone and a course of cedar beams.
 
-### 37
+### 35
 The foundation of Yahweh’s house was laid in the fourth year, in the month Ziv.
 
-### 38
+### 36
 In the eleventh year, in the month Bul, which is the eighth month, the house was finished throughout all its parts, and according to all its specifications. So he spent seven years building it.

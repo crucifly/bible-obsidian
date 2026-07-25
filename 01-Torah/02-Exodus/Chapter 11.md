@@ -15,22 +15,19 @@ Speak now in the ears of the people, and let every man ask of his neighbor, and 
 Yahweh gave the people favor in the sight of the Egyptians. Moreover the man Moses was very great in the land of Egypt, in the sight of Pharaoh’s servants, and in the sight of the people.
 
 ### 4
-Moses said, “This is what Yahweh says: ‘About midnight I will go out into the middle of Egypt,
+Moses said, “This is what Yahweh says: ‘About midnight I will go out into the middle of Egypt, and all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the female servant who is behind the mill; and all the firstborn of livestock.
 
 ### 5
-and all the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the female servant who is behind the mill; and all the firstborn of livestock.
-
-### 6
 There shall be a great cry throughout all the land of Egypt, such as there has not been, nor shall be any more.
 
-### 7
+### 6
 But against any of the children of Israel a dog won’t even bark or move its tongue, against man or animal; that you may know that Yahweh makes a distinction between the Egyptians and Israel.
 
-### 8
+### 7
 All these servants of yours will come down to me, and bow down themselves to me, saying, “Get out, with all the people who follow you”; and after that I will go out.’” He went out from Pharaoh in hot anger.
 
-### 9
+### 8
 Yahweh said to Moses, “Pharaoh won’t listen to you, that my wonders may be multiplied in the land of Egypt.”
 
-### 10
+### 9
 Moses and Aaron did all these wonders before Pharaoh, and Yahweh hardened Pharaoh’s heart, and he didn’t let the children of Israel go out of his land.

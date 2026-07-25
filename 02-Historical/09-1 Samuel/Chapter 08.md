@@ -60,13 +60,10 @@ He will take one tenth of your flocks; and you will be his servants.
 You will cry out in that day because of your king whom you will have chosen for yourselves; and Yahweh will not answer you in that day.”
 
 ### 19
-But the people refused to listen to the voice of Samuel; and they said, “No; but we will have a king over us,
+But the people refused to listen to the voice of Samuel; and they said, “No; but we will have a king over us, that we also may be like all the nations, and that our king may judge us, and go out before us, and fight our battles.”
 
 ### 20
-that we also may be like all the nations, and that our king may judge us, and go out before us, and fight our battles.”
-
-### 21
 Samuel heard all the words of the people, and he rehearsed them in the ears of Yahweh.
 
-### 22
+### 21
 Yahweh said to Samuel, “Listen to their voice, and make them a king.” Samuel said to the men of Israel, “Everyone go to your own city.”

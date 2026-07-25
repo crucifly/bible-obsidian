@@ -63,52 +63,43 @@ Were there none found who returned to give glory to God, except this stranger?�
 Then he said to him, “Get up, and go your way. Your faith has healed you.”
 
 ### 20
-Being asked by the Pharisees when God’s Kingdom would come, he answered them, “God’s Kingdom doesn’t come with observation;
+Being asked by the Pharisees when God’s Kingdom would come, he answered them, “God’s Kingdom doesn’t come with observation; neither will they say, ‘Look, here!’ or, ‘Look, there!’ for behold, God’s Kingdom is within you.”
 
 ### 21
-neither will they say, ‘Look, here!’ or, ‘Look, there!’ for behold, God’s Kingdom is within you.”
-
-### 22
 He said to the disciples, “The days will come, when you will desire to see one of the days of the Son of Man, and you will not see it.
 
+### 22
+They will tell you, ‘Look, here!’ or ‘Look, there!’ Don’t go away, nor follow after them, for as the lightning, when it flashes out of the one part under the sky, shines to the other part under the sky; so will the Son of Man be in his day.
+
 ### 23
-They will tell you, ‘Look, here!’ or ‘Look, there!’ Don’t go away, nor follow after them,
-
-### 24
-for as the lightning, when it flashes out of the one part under the sky, shines to the other part under the sky; so will the Son of Man be in his day.
-
-### 25
 But first, he must suffer many things and be rejected by this generation.
 
-### 26
+### 24
 As it was in the days of Noah, even so will it be also in the days of the Son of Man.
 
-### 27
+### 25
 They ate, they drank, they married, they were given in marriage, until the day that Noah entered into the ship, and the flood came, and destroyed them all.
 
-### 28
-Likewise, even as it was in the days of Lot: they ate, they drank, they bought, they sold, they planted, they built;
+### 26
+Likewise, even as it was in the days of Lot: they ate, they drank, they bought, they sold, they planted, they built; but in the day that Lot went out from Sodom, it rained fire and sulfur from the sky, and destroyed them all.
 
-### 29
-but in the day that Lot went out from Sodom, it rained fire and sulfur from the sky, and destroyed them all.
-
-### 30
+### 27
 It will be the same way in the day that the Son of Man is revealed.
 
-### 31
+### 28
 In that day, he who will be on the housetop, and his goods in the house, let him not go down to take them away. Let him who is in the field likewise not turn back.
 
-### 32
+### 29
 Remember Lot’s wife!
 
-### 33
+### 30
 Whoever seeks to save his life loses it, but whoever loses his life preserves it.
 
-### 34
+### 31
 I tell you, in that night there will be two people in one bed. The one will be taken, and the other will be left.
 
-### 35
+### 32
 There will be two grinding grain together. One will be taken, and the other will be left.”
 
-### 36
+### 33
 They, answering, asked him, “Where, Lord?” He said to them, “Where the body is, there will the vultures also be gathered together.”

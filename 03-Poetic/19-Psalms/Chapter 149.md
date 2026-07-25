@@ -21,13 +21,7 @@ For Yahweh takes pleasure in his people. He crowns the humble with salvation.
 Let the saints rejoice in honor. Let them sing for joy on their beds.
 
 ### 6
-May the high praises of God be in their mouths, and a two-edged sword in their hand;
+May the high praises of God be in their mouths, and a two-edged sword in their hand; To execute vengeance on the nations, and punishments on the peoples;
 
 ### 7
-To execute vengeance on the nations, and punishments on the peoples;
-
-### 8
-To bind their kings with chains, and their nobles with fetters of iron;
-
-### 9
-to execute on them the written judgment. All his saints have this honor. Praise Yah!
+To bind their kings with chains, and their nobles with fetters of iron; to execute on them the written judgment. All his saints have this honor. Praise Yah!

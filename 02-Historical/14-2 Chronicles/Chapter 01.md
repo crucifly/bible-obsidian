@@ -36,22 +36,19 @@ Now, Yahweh God, let your promise to David my father be established; for you hav
 Now give me wisdom and knowledge, that I may go out and come in before this people; for who can judge this great people of yours?”
 
 ### 11
-God said to Solomon, “Because this was in your heart, and you have not asked riches, wealth, honor, or the life of those who hate you, nor yet have you asked for long life; but have asked for wisdom and knowledge for yourself, that you may judge my people, over whom I have made you king,
+God said to Solomon, “Because this was in your heart, and you have not asked riches, wealth, honor, or the life of those who hate you, nor yet have you asked for long life; but have asked for wisdom and knowledge for yourself, that you may judge my people, over whom I have made you king, therefore wisdom and knowledge is granted to you. I will give you riches, wealth, and honor, such as none of the kings have had who have been before you had, and none after you will have.”
 
 ### 12
-therefore wisdom and knowledge is granted to you. I will give you riches, wealth, and honor, such as none of the kings have had who have been before you had, and none after you will have.”
-
-### 13
 So Solomon came from the high place that was at Gibeon, from before the Tent of Meeting, to Jerusalem; and he reigned over Israel.
 
-### 14
+### 13
 Solomon gathered chariots and horsemen. He had one thousand four hundred chariots and twelve thousand horsemen that he placed in the chariot cities, and with the king at Jerusalem.
 
-### 15
+### 14
 The king made silver and gold to be as common as stones in Jerusalem, and he made cedars to be as common as the sycamore trees that are in the lowland.
 
-### 16
+### 15
 The horses which Solomon had were brought out of Egypt and from Kue. The king’s merchants purchased them from Kue.
 
-### 17
+### 16
 They brought up and brought out of Egypt a chariot for six hundred pieces of silver, and a horse for one hundred fifty. They also exported them to the Hittite kings and the Syrian kings.

@@ -6,91 +6,79 @@ canon: "Poetic"
 # Job 22
 
 ### 1
-Then Eliphaz the Temanite answered,
+Then Eliphaz the Temanite answered, “Can a man be profitable to God? Surely he who is wise is profitable to himself.
 
 ### 2
-“Can a man be profitable to God? Surely he who is wise is profitable to himself.
-
-### 3
 Is it any pleasure to the Almighty, that you are righteous? Or does it benefit him, that you make your ways perfect?
 
-### 4
+### 3
 Is it for your piety that he reproves you, that he enters with you into judgment?
 
-### 5
+### 4
 Isn’t your wickedness great? Neither is there any end to your iniquities.
 
-### 6
+### 5
 For you have taken pledges from your brother for nothing, and stripped the naked of their clothing.
 
-### 7
+### 6
 You haven’t given water to the weary to drink, and you have withheld bread from the hungry.
 
-### 8
+### 7
 But as for the mighty man, he had the earth. The honorable man, he lived in it.
 
-### 9
+### 8
 You have sent widows away empty, and the arms of the fatherless have been broken.
 
+### 9
+Therefore snares are around you. Sudden fear troubles you, or darkness, so that you can not see, and floods of waters cover you.
+
 ### 10
-Therefore snares are around you. Sudden fear troubles you,
-
-### 11
-or darkness, so that you can not see, and floods of waters cover you.
-
-### 12
 “Isn’t God in the heights of heaven? See the height of the stars, how high they are!
 
-### 13
+### 11
 You say, ‘What does God know? Can he judge through the thick darkness?
 
-### 14
+### 12
 Thick clouds are a covering to him, so that he doesn’t see. He walks on the vault of the sky.’
 
-### 15
-Will you keep the old way, which wicked men have trodden,
+### 13
+Will you keep the old way, which wicked men have trodden, who were snatched away before their time, whose foundation was poured out as a stream,
 
-### 16
-who were snatched away before their time, whose foundation was poured out as a stream,
-
-### 17
+### 14
 who said to God, ‘Depart from us;’ and, ‘What can the Almighty do for us?’
 
-### 18
+### 15
 Yet he filled their houses with good things, but the counsel of the wicked is far from me.
 
-### 19
-The righteous see it, and are glad. The innocent ridicule them,
+### 16
+The righteous see it, and are glad. The innocent ridicule them, saying, ‘Surely those who rose up against us are cut off. The fire has consumed their remnant.’
 
-### 20
-saying, ‘Surely those who rose up against us are cut off. The fire has consumed their remnant.’
-
-### 21
+### 17
 “Acquaint yourself with him, now, and be at peace. Thereby good shall come to you.
 
-### 22
+### 18
 Please receive instruction from his mouth, and lay up his words in your heart.
 
-### 23
+### 19
 If you return to the Almighty, you shall be built up, if you put away unrighteousness far from your tents.
 
-### 24
+### 20
 Lay your treasure in the dust, the gold of Ophir among the stones of the brooks.
 
-### 25
+### 21
 The Almighty will be your treasure, and precious silver to you.
 
-### 26
+### 22
 For then you will delight yourself in the Almighty, and shall lift up your face to God.
 
-### 27
+### 23
 You shall make your prayer to him, and he will hear you. You shall pay your vows.
 
-### 28
+### 24
 You shall also decree a thing, and it shall be established to you. Light shall shine on your ways.
 
-### 29
+### 25
 When they cast down, you shall say, ‘be lifted up.’ He will save the humble person.
 
-### 30
+### 26
 He will even deliver him who is not innocent. Yes, he shall be delivered through the cleanness of your hands.”

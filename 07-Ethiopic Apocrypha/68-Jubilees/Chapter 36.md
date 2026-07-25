@@ -66,19 +66,13 @@ And Esau went to the land of Edom, to the mountains of Seir, and dwelt there.
 And Jacob dwelt in the mountains of Hebron, in the tower of the land of the sojournings of his father Abraham, and he worshipped the Lord with all his heart and according to the visible commands according as He had divided the days of his generations.
 
 ### 21
-And Leah his wife died in the fourth year of the second week of the forty-fifth jubilee, [2167 A.M.] and he buried her in the double cave near Rebecca his mother to the left of the grave of Sarah, his father's mother
+And Leah his wife died in the fourth year of the second week of the forty-fifth jubilee, [2167 A.M.] and he buried her in the double cave near Rebecca his mother to the left of the grave of Sarah, his father's mother and all her sons and his sons came to mourn over Leah his wife with him and to comfort him regarding her, for he was lamenting her for he loved her exceedingly after Rachel her sister died;
 
 ### 22
-and all her sons and his sons came to mourn over Leah his wife with him and to comfort him regarding her, for he was lamenting her for he loved her exceedingly after Rachel her sister died;
-
-### 23
 for she was perfect and upright in all her ways and honoured Jacob,and all the days that she lived with him he did not hear from her mouth a harsh word, for she was gentle and peaceable and upright and honourable.
 
-### 24
+### 23
 And he remembered all her deeds which she had done during her life and he lamented her exceedingly; for he loved her with all his heart and with all his soul.
 
-### 25
-The Book of Jubilees
-
-### 26
-Esau's sons reproach him for his subordination to Jacob, and constrain him to war with the assistance of 4,000 mercenaries against Jacob, 1-15. Jacob reproves Esau, 16-17. Esau's reply, 18-25.
+### 24
+The Book of Jubilees Esau's sons reproach him for his subordination to Jacob, and constrain him to war with the assistance of 4,000 mercenaries against Jacob, 1-15. Jacob reproves Esau, 16-17. Esau's reply, 18-25.

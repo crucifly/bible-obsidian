@@ -45,7 +45,4 @@ And in that year Isaac died. And it came to pass as Joseph had said in the inter
 And Joseph gathered food into every city until they were full of corn until they could no longer count and measure it for its multitude.
 
 ### 14
-The Book of Jubilees
-
-### 15
-Judah's sons and Tamar, 1-7. Judah's incest with Tamar, 8-18. Tamar bears twins, 21-2. Judah forgiven, because he sinned ignorantly and repented when convicted, and because Tamar's marriage with his sons had not been consummated, 23-8. (Cf. Gen. xxxviii.6-18, 20-6, 29-30; xli.13.)
+The Book of Jubilees Judah's sons and Tamar, 1-7. Judah's incest with Tamar, 8-18. Tamar bears twins, 21-2. Judah forgiven, because he sinned ignorantly and repented when convicted, and because Tamar's marriage with his sons had not been consummated, 23-8. (Cf. Gen. xxxviii.6-18, 20-6, 29-30; xli.13.)

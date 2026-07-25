@@ -78,25 +78,22 @@ But the Levites shall do the service of the Tent of Meeting, and they shall bear
 For the tithe of the children of Israel, which they offer as a wave offering to Yahweh, I have given to the Levites for an inheritance. Therefore I have said to them, ‘Among the children of Israel they shall have no inheritance.’”
 
 ### 25
-Yahweh spoke to Moses, saying,
+Yahweh spoke to Moses, saying, “Moreover you shall speak to the Levites, and tell them, ‘When you take of the children of Israel the tithe which I have given you from them for your inheritance, then you shall offer up a wave offering of it for Yahweh, a tithe of the tithe.
 
 ### 26
-“Moreover you shall speak to the Levites, and tell them, ‘When you take of the children of Israel the tithe which I have given you from them for your inheritance, then you shall offer up a wave offering of it for Yahweh, a tithe of the tithe.
-
-### 27
 Your wave offering shall be credited to you, as though it were the grain of the threshing floor, and as the fullness of the wine press.
 
-### 28
+### 27
 Thus you also shall offer a wave offering to Yahweh of all your tithes, which you receive of the children of Israel; and of it you shall give Yahweh’s wave offering to Aaron the priest.
 
-### 29
+### 28
 Out of all your gifts, you shall offer every wave offering of Yahweh, of all its best parts, even the holy part of it.’
 
-### 30
+### 29
 “Therefore you shall tell them, ‘When you heave its best from it, then it shall be credited to the Levites as the increase of the threshing floor, and as the increase of the wine press.
 
-### 31
+### 30
 You may eat it anywhere, you and your households, for it is your reward in return for your service in the Tent of Meeting.
 
-### 32
+### 31
 You shall bear no sin by reason of it, when you have heaved from it its best. You shall not profane the holy things of the children of Israel, that you not die.’”

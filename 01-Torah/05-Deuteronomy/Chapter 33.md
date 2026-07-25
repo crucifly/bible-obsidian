@@ -42,52 +42,46 @@ Yahweh, bless his skills. Accept the work of his hands. Strike through the hips 
 About Benjamin he said, “The beloved of Yahweh will dwell in safety by him. He covers him all day long. He dwells between his shoulders.”
 
 ### 13
-About Joseph he said, “His land is blessed by Yahweh, for the precious things of the heavens, for the dew, for the deep that couches beneath,
+About Joseph he said, “His land is blessed by Yahweh, for the precious things of the heavens, for the dew, for the deep that couches beneath, for the precious things of the fruits of the sun, for the precious things that the moon can yield,
 
 ### 14
-for the precious things of the fruits of the sun, for the precious things that the moon can yield,
+for the best things of the ancient mountains, for the precious things of the everlasting hills, for the precious things of the earth and its fullness, the good will of him who lived in the bush. Let this come on the head of Joseph, on the crown of the head of him who was separated from his brothers.
 
 ### 15
-for the best things of the ancient mountains, for the precious things of the everlasting hills,
-
-### 16
-for the precious things of the earth and its fullness, the good will of him who lived in the bush. Let this come on the head of Joseph, on the crown of the head of him who was separated from his brothers.
-
-### 17
 The firstborn of his herd, majesty is his. His horns are the horns of the wild ox. With them he will push all the peoples, to the ends of the earth. They are the ten thousands of Ephraim. They are the thousands of Manasseh.”
 
-### 18
+### 16
 About Zebulun he said, “Rejoice, Zebulun, in your going out; and Issachar, in your tents.
 
-### 19
+### 17
 They will call the peoples to the mountain. There they will offer sacrifices of righteousness, for they will draw out the abundance of the seas, the hidden treasures of the sand.”
 
-### 20
+### 18
 About Gad he said, “He who enlarges Gad is blessed. He dwells as a lioness, and tears the arm, yes, the crown of the head.
 
-### 21
+### 19
 He provided the first part for himself, for the lawgiver’s portion reserved was reserved for him. He came with the heads of the people. He executed the righteousness of Yahweh, His ordinances with Israel.”
 
-### 22
+### 20
 About Dan he said, “Dan is a lion’s cub that leaps out of Bashan.”
 
-### 23
+### 21
 About Naphtali he said, “Naphtali, satisfied with favor, full of Yahweh’s blessing, Possess the west and the south.”
 
-### 24
+### 22
 About Asher he said, “Asher is blessed with children. Let him be acceptable to his brothers. Let him dip his foot in oil.
 
-### 25
+### 23
 Your bars will be iron and brass. As your days, so your strength will be.
 
-### 26
+### 24
 “There is no one like God, Jeshurun, who rides on the heavens for your help, in his excellency on the skies.
 
-### 27
+### 25
 The eternal God is your dwelling place. Underneath are the everlasting arms. He thrust out the enemy from before you, and said, ‘Destroy!’
 
-### 28
+### 26
 Israel dwells in safety; the fountain of Jacob alone, In a land of grain and new wine. Yes, his heavens drop down dew.
 
-### 29
+### 27
 You are happy, Israel! Who is like you, a people saved by Yahweh, the shield of your help, the sword of your excellency? Your enemies will submit themselves to you. You will tread on their high places.”

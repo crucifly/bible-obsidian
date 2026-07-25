@@ -136,25 +136,13 @@ This page was last edited on 15 July 2021, at 02:35.
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
 ### 42
-Privacy policy
+Privacy policy Disclaimers
 
 ### 43
-Disclaimers
+Code of Conduct Developers
 
 ### 44
-Code of Conduct
+Statistics Cookie statement
 
 ### 45
-Developers
-
-### 46
-Statistics
-
-### 47
-Cookie statement
-
-### 48
-Mobile view
-
-### 49
-Add topic
+Mobile view Add topic

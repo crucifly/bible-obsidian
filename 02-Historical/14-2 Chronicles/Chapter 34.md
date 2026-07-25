@@ -63,43 +63,34 @@ Shaphan the scribe told the king, saying, “Hilkiah the priest has delivered me
 When the king had heard the words of the law, he tore his clothes.
 
 ### 20
-The king commanded Hilkiah, Ahikam the son of Shaphan, Abdon the son of Micah, Shaphan the scribe, and Asaiah the king’s servant, saying,
+The king commanded Hilkiah, Ahikam the son of Shaphan, Abdon the son of Micah, Shaphan the scribe, and Asaiah the king’s servant, saying, “Go inquire of Yahweh for me, and for those who are left in Israel and in Judah, concerning the words of the book that is found; for great is Yahweh’s wrath that is poured out on us, because our fathers have not kept Yahweh’s word, to do according to all that is written in this book.”
 
 ### 21
-“Go inquire of Yahweh for me, and for those who are left in Israel and in Judah, concerning the words of the book that is found; for great is Yahweh’s wrath that is poured out on us, because our fathers have not kept Yahweh’s word, to do according to all that is written in this book.”
-
-### 22
 So Hilkiah, and they whom the king had commanded, went to Huldah the prophetess, the wife of Shallum the son of Tokhath, the son of Hasrah, keeper of the wardrobe (now she lived in Jerusalem in the second quarter), and they spoke to her to that effect.
 
+### 22
+She said to them, “Yahweh, the God of Israel says: ‘Tell the man who sent you to me, “Yahweh says, ‘Behold, I will bring evil on this place, and on its inhabitants, even all the curses that are written in the book which they have read before the king of Judah.
+
 ### 23
-She said to them, “Yahweh, the God of Israel says: ‘Tell the man who sent you to me,
-
-### 24
-“Yahweh says, ‘Behold, I will bring evil on this place, and on its inhabitants, even all the curses that are written in the book which they have read before the king of Judah.
-
-### 25
 Because they have forsaken me, and have burned incense to other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath is poured out on this place, and it will not be quenched.’”’
 
-### 26
-But to the king of Judah, who sent you to inquire of Yahweh, you shall tell him this, ‘Yahweh, the God of Israel says: “About the words which you have heard,
+### 24
+But to the king of Judah, who sent you to inquire of Yahweh, you shall tell him this, ‘Yahweh, the God of Israel says: “About the words which you have heard, because your heart was tender, and you humbled yourself before God, when you heard his words against this place, and against its inhabitants, and have humbled yourself before me, and have torn your clothes, and wept before me, I also have heard you,” says Yahweh.
 
-### 27
-because your heart was tender, and you humbled yourself before God, when you heard his words against this place, and against its inhabitants, and have humbled yourself before me, and have torn your clothes, and wept before me, I also have heard you,” says Yahweh.
-
-### 28
+### 25
 “Behold, I will gather you to your fathers, and you will be gathered to your grave in peace. Your eyes won’t see all the evil that I will bring on this place and on its inhabitants.”’” They brought back word to the king.
 
-### 29
+### 26
 Then the king sent and gathered together all the elders of Judah and Jerusalem.
 
-### 30
+### 27
 The king went up to Yahweh’s house, with all the men of Judah and the inhabitants of Jerusalem, the priests, the Levites, and all the people, both great and small; and he read in their hearing all the words of the book of the covenant that was found in Yahweh’s house.
 
-### 31
+### 28
 The king stood in his place, and made a covenant before Yahweh, to walk after Yahweh, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and with all his soul, to perform the words of the covenant that were written in this book.
 
-### 32
+### 29
 He caused all who were found in Jerusalem and Benjamin to stand. The inhabitants of Jerusalem did according to the covenant of God, the God of their fathers.
 
-### 33
+### 30
 Josiah took away all the abominations out of all the countries that belonged to the children of Israel, and made all who were found in Israel to serve, even to serve Yahweh their God. All his days they didn’t depart from following Yahweh, the God of their fathers.

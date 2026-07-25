@@ -63,37 +63,34 @@ They will eat up your harvest and your bread, which your sons and your daughters
 It will happen, when you say, ‘Why has Yahweh our God done all these things to us?’ Then you shall say to them, ‘Just as you have forsaken me, and served foreign gods in your land, so you will serve strangers in a land that is not yours.’
 
 ### 20
-“Declare this in the house of Jacob, and publish it in Judah, saying,
+“Declare this in the house of Jacob, and publish it in Judah, saying, ‘Hear this now, foolish people without understanding; who have eyes, and don’t see; who have ears, and don’t hear:
 
 ### 21
-‘Hear this now, foolish people without understanding; who have eyes, and don’t see; who have ears, and don’t hear:
-
-### 22
 Don’t you fear me?’ says Yahweh ‘Won’t you tremble at my presence, who have placed the sand for the bound of the sea, by a perpetual decree, that it can’t pass it? Though its waves toss themselves, yet they can’t prevail. Though they roar, they still can’t pass over it.’
 
-### 23
+### 22
 “But this people has a revolting and a rebellious heart. They have revolted and gone.
 
-### 24
+### 23
 They don’t say in their heart, ‘Let us now fear Yahweh our God, who gives rain, both the former and the latter, in its season; who preserves to us the appointed weeks of the harvest.’
 
-### 25
+### 24
 “Your iniquities have turned away these things, and your sins have withheld good from you.
 
-### 26
+### 25
 For among my people are found wicked men. They watch, as fowlers lie in wait. They set a trap. They catch men.
 
-### 27
+### 26
 As a cage is full of birds, so are their houses full of deceit. Therefore they have become great, and grew rich.
 
-### 28
+### 27
 They have grown fat. They shine; yes, they excel in deeds of wickedness. They don’t plead the cause, the cause of the fatherless, that they may prosper; and they don’t judge the right of the needy.
 
-### 29
+### 28
 “Shouldn’t I punish for these things?” says Yahweh. “Shouldn’t my soul be avenged on such a nation as this?
 
-### 30
+### 29
 “An astonishing and horrible thing has happened in the land.
 
-### 31
+### 30
 The prophets prophesy falsely, and the priests rule by their own authority; and my people love to have it so. What will you do in the end of it?

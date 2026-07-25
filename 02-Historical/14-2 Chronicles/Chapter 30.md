@@ -57,31 +57,28 @@ They stood in their place after their order, according to the law of Moses the m
 For there were many in the assembly who had not sanctified themselves: therefore the Levites were in charge of killing the Passovers for everyone who was not clean, to sanctify them to Yahweh.
 
 ### 18
-For a multitude of the people, even many of Ephraim, Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet they ate the Passover other than the way it is written. For Hezekiah had prayed for them, saying, “May the good Yahweh pardon everyone
+For a multitude of the people, even many of Ephraim, Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet they ate the Passover other than the way it is written. For Hezekiah had prayed for them, saying, “May the good Yahweh pardon everyone who sets his heart to seek God, Yahweh, the God of his fathers, even if they aren’t clean according to the purification of the sanctuary.”
 
 ### 19
-who sets his heart to seek God, Yahweh, the God of his fathers, even if they aren’t clean according to the purification of the sanctuary.”
-
-### 20
 Yahweh listened to Hezekiah, and healed the people.
 
-### 21
+### 20
 The children of Israel who were present at Jerusalem kept the feast of unleavened bread seven days with great gladness. The Levites and the priests praised Yahweh day by day, singing with loud instruments to Yahweh.
 
-### 22
+### 21
 Hezekiah spoke encouragingly to all the Levites who had good understanding in the service of Yahweh. So they ate throughout the feast for the seven days, offering sacrifices of peace offerings, and making confession to Yahweh, the God of their fathers.
 
-### 23
+### 22
 The whole assembly took counsel to keep another seven days, and they kept another seven days with gladness.
 
-### 24
+### 23
 For Hezekiah king of Judah gave to the assembly for offerings one thousand bulls and seven thousand sheep; and the princes gave to the assembly a thousand bulls and ten thousand sheep: and a great number of priests sanctified themselves.
 
-### 25
+### 24
 All the assembly of Judah, with the priests and the Levites, and all the assembly who came out of Israel, and the foreigners who came out of the land of Israel, and who lived in Judah, rejoiced.
 
-### 26
+### 25
 So there was great joy in Jerusalem; for since the time of Solomon the son of David king of Israel there was nothing like this in Jerusalem.
 
-### 27
+### 26
 Then the priests the Levites arose and blessed the people. Their voice was heard, and their prayer came up to his holy habitation, even to heaven.

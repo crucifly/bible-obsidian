@@ -9,19 +9,16 @@ canon: "Poetic"
 May God be merciful to us, bless us, and cause his face to shine on us..
 
 ### 2
-That your way may be known on earth, and your salvation among all nations,
+That your way may be known on earth, and your salvation among all nations, let the peoples praise you, God. Let all the peoples praise you.
 
 ### 3
-let the peoples praise you, God. Let all the peoples praise you.
-
-### 4
 Oh let the nations be glad and sing for joy, for you will judge the peoples with equity, and govern the nations on earth..
 
-### 5
+### 4
 Let the peoples praise you, God. Let all the peoples praise you.
 
-### 6
+### 5
 The earth has yielded its increase. God, even our own God, will bless us.
 
-### 7
+### 6
 God will bless us. All the ends of the earth shall fear him.

@@ -6,121 +6,106 @@ canon: "Torah"
 # Exodus 25
 
 ### 1
-Yahweh spoke to Moses, saying,
+Yahweh spoke to Moses, saying, “Speak to the children of Israel, that they take an offering for me. From everyone whose heart makes him willing you shall take my offering.
 
 ### 2
-“Speak to the children of Israel, that they take an offering for me. From everyone whose heart makes him willing you shall take my offering.
+This is the offering which you shall take from them: gold, silver, brass, blue, purple, scarlet, fine linen, goats’ hair,
 
 ### 3
-This is the offering which you shall take from them: gold, silver, brass,
+rams’ skins dyed red, sea cow hides, acacia wood, oil for the light, spices for the anointing oil and for the sweet incense,
 
 ### 4
-blue, purple, scarlet, fine linen, goats’ hair,
-
-### 5
-rams’ skins dyed red, sea cow hides, acacia wood,
-
-### 6
-oil for the light, spices for the anointing oil and for the sweet incense,
-
-### 7
 onyx stones, and stones to be set for the ephod and for the breastplate.
 
-### 8
+### 5
 Let them make me a sanctuary, that I may dwell among them.
 
-### 9
+### 6
 According to all that I show you, the pattern of the tabernacle, and the pattern of all of its furniture, even so you shall make it.
 
-### 10
+### 7
 “They shall make an ark of acacia wood. Its length shall be two and a half cubits, its width a cubit and a half, and a cubit and a half its height.
 
-### 11
+### 8
 You shall overlay it with pure gold. You shall overlay it inside and outside, and you shall make a gold molding around it.
 
-### 12
+### 9
 You shall cast four rings of gold for it, and put them in its four feet. Two rings shall be on the one side of it, and two rings on the other side of it.
 
-### 13
+### 10
 You shall make poles of acacia wood, and overlay them with gold.
 
-### 14
+### 11
 You shall put the poles into the rings on the sides of the ark to carry the ark.
 
-### 15
+### 12
 The poles shall be in the rings of the ark. They shall not be taken from it.
 
-### 16
+### 13
 You shall put the testimony which I shall give you into the ark.
 
-### 17
+### 14
 You shall make a mercy seat of pure gold. Two and a half cubits shall be its length, and a cubit and a half its width.
 
-### 18
+### 15
 You shall make two cherubim of hammered gold. You shall make them at the two ends of the mercy seat.
 
-### 19
+### 16
 Make one cherub at the one end, and one cherub at the other end. You shall make the cherubim on its two ends of one piece with the mercy seat.
 
-### 20
+### 17
 The cherubim shall spread out their wings upward, covering the mercy seat with their wings, with their faces toward one another. The faces of the cherubim shall be toward the mercy seat.
 
-### 21
+### 18
 You shall put the mercy seat on top of the ark, and in the ark you shall put the testimony that I will give you.
 
-### 22
+### 19
 There I will meet with you, and I will tell you from above the mercy seat, from between the two cherubim which are on the ark of the testimony, all that I command you for the children of Israel.
 
-### 23
+### 20
 “You shall make a table of acacia wood. Two cubits shall be its length, and a cubit its width, and one and a half cubits its height.
 
-### 24
+### 21
 You shall overlay it with pure gold, and make a gold molding around it.
 
-### 25
+### 22
 You shall make a rim of a hand width around it. You shall make a golden molding on its rim around it.
 
-### 26
+### 23
 You shall make four rings of gold for it, and put the rings in the four corners that are on its four feet.
 
-### 27
+### 24
 the rings shall be close to the rim, for places for the poles to carry the table.
 
-### 28
+### 25
 You shall make the poles of acacia wood, and overlay them with gold, that the table may be carried with them.
 
-### 29
+### 26
 You shall make its dishes, its spoons, its ladles, and its bowls to pour out offerings with. You shall make them of pure gold.
 
-### 30
+### 27
 You shall set bread of the presence on the table before me always.
 
-### 31
+### 28
 “You shall make a lamp stand of pure gold. Of hammered work shall the lamp stand be made, even its base, its shaft, its cups, its buds, and its flowers, shall be of one piece with it.
 
-### 32
-There shall be six branches going out of its sides: three branches of the lamp stand out of its one side, and three branches of the lamp stand out of its other side;
+### 29
+There shall be six branches going out of its sides: three branches of the lamp stand out of its one side, and three branches of the lamp stand out of its other side; three cups made like almond blossoms in one branch, a bud and a flower; and three cups made like almond blossoms in the other branch, a bud and a flower, so for the six branches going out of the lamp stand;
 
-### 33
-three cups made like almond blossoms in one branch, a bud and a flower; and three cups made like almond blossoms in the other branch, a bud and a flower, so for the six branches going out of the lamp stand;
+### 30
+and in the lamp stand four cups made like almond blossoms, its buds and its flowers; and a bud under two branches of one piece with it, and a bud under two branches of one piece with it, and a bud under two branches of one piece with it, for the six branches going out of the lamp stand.
 
-### 34
-and in the lamp stand four cups made like almond blossoms, its buds and its flowers;
-
-### 35
-and a bud under two branches of one piece with it, and a bud under two branches of one piece with it, and a bud under two branches of one piece with it, for the six branches going out of the lamp stand.
-
-### 36
+### 31
 Their buds and their branches shall be of one piece with it, all of it one beaten work of pure gold.
 
-### 37
+### 32
 You shall make its lamps seven, and they shall light its lamps to give light to the space in front of it.
 
-### 38
+### 33
 Its snuffers and its snuff dishes shall be of pure gold.
 
-### 39
+### 34
 It shall be made of a talent of pure gold, with all these accessories.
 
-### 40
+### 35
 See that you make them after their pattern, which has been shown to you on the mountain.

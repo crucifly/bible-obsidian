@@ -48,145 +48,97 @@ And he turned to Levi first, and began to bless him first, and said unto him: Ma
 And may the Lord give to thee and to thy seed greatness and great glory, and cause thee and thy seed, from among all flesh, to approach Him to serve in His sanctuary as the angels of the presence and as the holy ones. (Even) as they, shall the seed of thy sons be for glory and greatness and holiness, and may He make them great unto all the ages.
 
 ### 15
-And they shall be judges and princes, and chiefs of all the seed of the sons of Jacob;
+And they shall be judges and princes, and chiefs of all the seed of the sons of Jacob; They shall speak the word of the Lord in righteousness,
 
 ### 16
-They shall speak the word of the Lord in righteousness,
-
-### 17
 And they shall judge all His judgments in righteousness.
 
+### 17
+And they shall declare My ways to Jacob And My paths to Israel.
+
 ### 18
-And they shall declare My ways to Jacob
+The blessing of the Lord shall be given in their mouths To bless all the seed of the beloved.
 
 ### 19
-And My paths to Israel.
+Thy mother has called thy name Levi, And justly has she called thy name;
 
 ### 20
-The blessing of the Lord shall be given in their mouths
+Thou shalt be joined to the Lord And be the companion of all the sons of Jacob;
 
 ### 21
-To bless all the seed of the beloved.
+Let His table be thine, And do thou and thy sons eat thereof;
 
 ### 22
-Thy mother has called thy name Levi,
+And may thy table be full unto all generations, And thy food fail not unto all the ages.
 
 ### 23
-And justly has she called thy name;
+And let all who hate thee fall down before thee, And let all thy adversaries be rooted out and perish;
 
 ### 24
-Thou shalt be joined to the Lord
+And blessed be he that blesses thee, And cursed be every nation that curses thee.'
 
 ### 25
-And be the companion of all the sons of Jacob;
+And to Judah he said: 'May the Lord give thee strength and power
 
 ### 26
-Let His table be thine,
+To tread down all that hate thee; A prince shalt thou be, thou and one of thy sons, over the sons of Jacob;
 
 ### 27
-And do thou and thy sons eat thereof;
-
-### 28
-And may thy table be full unto all generations,
-
-### 29
-And thy food fail not unto all the ages.
-
-### 30
-And let all who hate thee fall down before thee,
-
-### 31
-And let all thy adversaries be rooted out and perish;
-
-### 32
-And blessed be he that blesses thee,
-
-### 33
-And cursed be every nation that curses thee.'
-
-### 34
-And to Judah he said:
-
-### 35
-'May the Lord give thee strength and power
-
-### 36
-To tread down all that hate thee;
-
-### 37
-A prince shalt thou be, thou and one of thy sons, over the sons of Jacob;
-
-### 38
 May thy name and the name of thy sons go forth and traverse every land and region.
 
-### 39
-Then shall the Gentiles fear before thy face,
+### 28
+Then shall the Gentiles fear before thy face, And all the nations shall quake
 
-### 40
-And all the nations shall quake
-
-### 41
+### 29
 [And all the peoples shall quake].
 
-### 42
-In thee shall be the help of Jacob,
+### 30
+In thee shall be the help of Jacob, And in thee be found the salvation of Israel.
 
-### 43
-And in thee be found the salvation of Israel.
+### 31
+And when thou sittest on the throne of honour of thy righteousness There shall be great peace for all the seed of the sons of the beloved;
 
-### 44
-And when thou sittest on the throne of honour of thy righteousness
+### 32
+Blessed be he that blesseth thee, And all that hate thee and afflict thee and curse thee
 
-### 45
-There shall be great peace for all the seed of the sons of the beloved;
-
-### 46
-Blessed be he that blesseth thee,
-
-### 47
-And all that hate thee and afflict thee and curse thee
-
-### 48
+### 33
 Shall be rooted out and destroyed from the earth and be accursed.'
 
-### 49
+### 34
 And turning he kissed him again and embraced him, and rejoiced greatly; for he had seen the sons of Jacob his son in very truth.
 
-### 50
+### 35
 And he went forth from between his feet and fell down and bowed down to him, and he blessed them and rested there with Isaac his father that night, and they eat and drank with joy.
 
-### 51
+### 36
 And he made the two sons of Jacob sleep, the one on his right hand and the other on his left, and it was counted to him for righteousness.
 
-### 52
+### 37
 And Jacob told his father everything during the night, how the Lord had shown him great mercy, and how he had prospered (him in) all his ways, and protected him from all evil.
 
-### 53
+### 38
 And Isaac blessed the God of his father Abraham, who had not withdrawn his mercy and his righteousness from the sons of his servant Isaac.
 
-### 54
+### 39
 And in the morning Jacob told his father Isaac the vow which he had vowed to the Lord, and the vision which he had seen, and that he had built an altar, and that everything was ready for the sacrifice to be made before the Lord as he had vowed, and that he had come to set him on an ass.
 
-### 55
+### 40
 And Isaac said unto Jacob his son: 'I am not able to go with thee; for I am old and not able to bear the way: go, my son, in peace; for I am one hundred and sixty-five years this day; I am no longer able to journey; set thy mother (on an ass) and let her go with thee.
 
-### 56
+### 41
 And I know, my son, that thou hast come on my account, and may this day be blessed on which thou hast seen me alive, and I also have seen thee, my son.
 
-### 57
+### 42
 Mayest thou prosper and fulfil the vow which thou hast vowed; and put not off thy vow; for thou shalt be called to account as touching the vow; now therefore make haste to perform it, and may He be pleased who has made all things, to whom thou hast vowed the vow.'
 
-### 58
+### 43
 And he said to Rebecca: 'Go with Jacob thy son'; and Rebecca went with Jacob her son, and Deborah with her, and they came to Bethel.
 
-### 59
+### 44
 And Jacob remembered the prayer with which his father had blessed him and his two sons, Levi and Judah, and he rejoiced and blessed the God of his fathers, Abraham and Isaac.
 
-### 60
+### 45
 And he said: 'Now I know that I have an eternal hope, and my sons also, before the God of all'; and thus is it ordained concerning the two; and they record it as an eternal testimony unto them on the heavenly tablets how Isaac blessed them.
 
-### 61
-The Book of Jubilees
-
-### 62
-Levi's dream at Bethel, 1. Levi chosen to the priesthood, as the tenth son, 2-3. Jacob celebrates the feast of tabernacles and offers tithes through Levi: also the second tithe, 4-9. Law of tithes ordained, 10-15. Jacob's visions in which Jacob reads on the heavenly tablets his own future and that of his descendants, 16-26. Celebrates the eighty day of feast of tabernacles, 27-9. Death of Deborah, 30. Birth of Benjamin and death of Rachel, 33-4. (Cf. Gen. xxxv.8,10, 11, 13, 16-20.)
+### 46
+The Book of Jubilees Levi's dream at Bethel, 1. Levi chosen to the priesthood, as the tenth son, 2-3. Jacob celebrates the feast of tabernacles and offers tithes through Levi: also the second tithe, 4-9. Law of tithes ordained, 10-15. Jacob's visions in which Jacob reads on the heavenly tablets his own future and that of his descendants, 16-26. Celebrates the eighty day of feast of tabernacles, 27-9. Death of Deborah, 30. Birth of Benjamin and death of Rachel, 33-4. (Cf. Gen. xxxv.8,10, 11, 13, 16-20.)

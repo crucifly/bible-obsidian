@@ -39,40 +39,37 @@ By the breath of God, ice is given, and the width of the waters is frozen.
 Yes, he loads the thick cloud with moisture. He spreads abroad the cloud of his lightning.
 
 ### 12
-It is turned around by his guidance, that they may do whatever he commands them on the surface of the habitable world,
+It is turned around by his guidance, that they may do whatever he commands them on the surface of the habitable world, Whether it is for correction, or for his land, or for loving kindness, that he causes it to come.
 
 ### 13
-Whether it is for correction, or for his land, or for loving kindness, that he causes it to come.
-
-### 14
 “Listen to this, Job. Stand still, and consider the wondrous works of God.
 
-### 15
+### 14
 Do you know how God controls them, and causes the lightning of his cloud to shine?
 
-### 16
+### 15
 Do you know the workings of the clouds, the wondrous works of him who is perfect in knowledge?
 
-### 17
+### 16
 You whose clothing is warm, when the earth is still by reason of the south wind?
 
-### 18
+### 17
 Can you, with him, spread out the sky, which is strong as a cast metal mirror?
 
-### 19
+### 18
 Teach us what we shall tell him, for we can’t make our case by reason of darkness.
 
-### 20
+### 19
 Will it be told him that I would speak? Or should a man wish that he were swallowed up?
 
-### 21
+### 20
 Now men don’t see the light which is bright in the skies, but the wind passes, and clears them.
 
-### 22
+### 21
 Out of the north comes golden splendor. With God is awesome majesty.
 
-### 23
+### 22
 We can’t reach the Almighty. He is exalted in power. In justice and great righteousness, he will not oppress.
 
-### 24
+### 23
 Therefore men revere him. He doesn’t regard any who are wise of heart.”

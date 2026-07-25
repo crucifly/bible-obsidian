@@ -18,46 +18,40 @@ canon: "Torah"
 “‘Or if anyone swears rashly with his lips to do evil, or to do good, whatever it is that a man might utter rashly with an oath, and it is hidden from him; when he knows of it, then he shall be guilty of one of these.
 
 ### 5
-It shall be, when he is guilty of one of these, he shall confess that in which he has sinned:
+It shall be, when he is guilty of one of these, he shall confess that in which he has sinned: and he shall bring his trespass offering to Yahweh for his sin which he has sinned, a female from the flock, a lamb or a goat, for a sin offering; and the priest shall make atonement for him concerning his sin.
 
 ### 6
-and he shall bring his trespass offering to Yahweh for his sin which he has sinned, a female from the flock, a lamb or a goat, for a sin offering; and the priest shall make atonement for him concerning his sin.
-
-### 7
 “‘If he can’t afford a lamb, then he shall bring his trespass offering for that in which he has sinned, two turtledoves, or two young pigeons, to Yahweh; one for a sin offering, and the other for a burnt offering.
 
-### 8
+### 7
 He shall bring them to the priest, who shall first offer the one which is for the sin offering, and wring off its head from its neck, but shall not sever it completely.
 
-### 9
+### 8
 He shall sprinkle some of the blood of the sin offering on the side of the altar; and the rest of the blood shall be drained out at the base of the altar. It is a sin offering.
 
-### 10
+### 9
 He shall offer the second for a burnt offering, according to the ordinance; and the priest shall make atonement for him concerning his sin which he has sinned, and he shall be forgiven.
 
-### 11
+### 10
 “‘But if he can’t afford two turtledoves, or two young pigeons, then he shall bring his offering for that in which he has sinned, one tenth of an ephah of fine flour for a sin offering. He shall put no oil on it, and he shall not put any frankincense on it, for it is a sin offering.
 
-### 12
+### 11
 He shall bring it to the priest, and the priest shall take his handful of it as the memorial portion, and burn it on the altar, on the offerings of Yahweh made by fire. It is a sin offering.
 
-### 13
+### 12
 The priest shall make atonement for him concerning his sin that he has sinned in any of these things, and he will be forgiven; and the rest shall be the priest’s, as the meal offering.’”
 
+### 13
+Yahweh spoke to Moses, saying, “If anyone commits a trespass, and sins unwittingly, in the holy things of Yahweh; then he shall bring his trespass offering to Yahweh, a ram without defect from the flock, according to your estimation in silver by shekels, after the shekel of the sanctuary, for a trespass offering.
+
 ### 14
-Yahweh spoke to Moses, saying,
-
-### 15
-“If anyone commits a trespass, and sins unwittingly, in the holy things of Yahweh; then he shall bring his trespass offering to Yahweh, a ram without defect from the flock, according to your estimation in silver by shekels, after the shekel of the sanctuary, for a trespass offering.
-
-### 16
 He shall make restitution for that which he has done wrong in the holy thing, and shall add a fifth part to it, and give it to the priest; and the priest shall make atonement for him with the ram of the trespass offering, and he will be forgiven.
 
-### 17
+### 15
 “If anyone sins, and does any of the things which Yahweh has commanded not to be done; though he didn’t know it, yet he is guilty, and shall bear his iniquity.
 
-### 18
+### 16
 He shall bring a ram without defect from of the flock, according to your estimation, for a trespass offering, to the priest; and the priest shall make atonement for him concerning the thing in which he sinned and didn’t know it, and he will be forgiven.
 
-### 19
+### 17
 It is a trespass offering. He is certainly guilty before Yahweh.”

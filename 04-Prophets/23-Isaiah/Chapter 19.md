@@ -75,7 +75,4 @@ Yahweh will strike Egypt, striking and healing. They will return to Yahweh, and 
 In that day there will be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria; and the Egyptians will worship with the Assyrians.
 
 ### 24
-In that day, Israel will be the third with Egypt and with Assyria, a blessing within the earth;
-
-### 25
-because Yahweh of Armies has blessed them, saying, “Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance.”
+In that day, Israel will be the third with Egypt and with Assyria, a blessing within the earth; because Yahweh of Armies has blessed them, saying, “Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance.”

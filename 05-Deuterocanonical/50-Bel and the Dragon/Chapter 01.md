@@ -36,97 +36,88 @@ But if ye can certify me that Bel devoureth them, then Daniel shall die: for he 
 Now the priests of Bel were threescore and ten, beside their wives and children. And the king went with Daniel into the house of Bel.
 
 ### 11
-So Bel’s priests said, Lo, we go out: but thou, O king, set on the meat, and make ready the wine, and shut the door fast and seal it with thine own signet;
+So Bel’s priests said, Lo, we go out: but thou, O king, set on the meat, and make ready the wine, and shut the door fast and seal it with thine own signet; And to morrow when thou comest in, if thou findest not that Bel hath eaten up all, we will suffer death: or else Daniel, that speaketh falsely against us.
 
 ### 12
-And to morrow when thou comest in, if thou findest not that Bel hath eaten up all, we will suffer death: or else Daniel, that speaketh falsely against us.
-
-### 13
 And they little regarded it: for under the table they had made a privy entrance, whereby they entered in continually, and consumed those things.
 
-### 14
+### 13
 So when they were gone forth, the king set meats before Bel. Now Daniel had commanded his servants to bring ashes, and they strewed all the temple throughout in the presence of the king alone: then went they out, and shut the door, and sealed it with the king’s signet, and so departed.
 
-### 15
+### 14
 Now in the night came the priests with their wives and children, as they were wont to do, and did eat and drink up all.
 
-### 16
+### 15
 In the morning betime the king arose, and Daniel with him.
 
-### 17
+### 16
 And the king said, Daniel, are the seals whole? And he said, Yea, O king, they be whole.
 
-### 18
+### 17
 And as soon as he had opened the door, the king looked upon the table, and cried with a loud voice, Great art thou, O Bel, and with thee is no deceit at all.
 
-### 19
+### 18
 Then laughed Daniel, and held the king that he should not go in, and said, Behold now the pavement, and mark well whose footsteps are these.
 
+### 19
+And the king said, I see the footsteps of men, women, and children. And then the king was angry, And took the priests with their wives and children, who shewed him the privy doors, where they came in, and consumed such things as were upon the table.
+
 ### 20
-And the king said, I see the footsteps of men, women, and children. And then the king was angry,
-
-### 21
-And took the priests with their wives and children, who shewed him the privy doors, where they came in, and consumed such things as were upon the table.
-
-### 22
 Therefore the king slew them, and delivered Bel into Daniel’s power, who destroyed him and his temple.
 
-### 23
+### 21
 And in that same place there was a great dragon, which they of Babylon worshipped.
 
-### 24
+### 22
 And the king said unto Daniel, Wilt thou also say that this is of brass? lo, he liveth, he eateth and drinketh; thou canst not say that he is no living god: therefore worship him.
 
-### 25
+### 23
 Then said Daniel unto the king, I will worship the Lord my God: for he is the living God.
 
-### 26
+### 24
 But give me leave, O king, and I shall slay this dragon without sword or staff. The king said, I give thee leave.
 
-### 27
+### 25
 Then Daniel took pitch, and fat, and hair, and did seethe them together, and made lumps thereof: this he put in the dragon’s mouth, and so the dragon burst in sunder: and Daniel said, Lo, these are the gods ye worship.
 
-### 28
+### 26
 When they of Babylon heard that, they took great indignation, and conspired against the king, saying, The king is become a Jew, and he hath destroyed Bel, he hath slain the dragon, and put the priests to death.
 
-### 29
+### 27
 So they came to the king, and said, Deliver us Daniel, or else we will destroy thee and thine house.
 
-### 30
-Now when the king saw that they pressed him sore, being constrained, he delivered Daniel unto them:
+### 28
+Now when the king saw that they pressed him sore, being constrained, he delivered Daniel unto them: Who cast him into the lions’ den: where he was six days.
 
-### 31
-Who cast him into the lions’ den: where he was six days.
-
-### 32
+### 29
 And in the den there were seven lions, and they had given them every day two carcases, and two sheep: which then were not given to them, to the intent they might devour Daniel.
 
-### 33
+### 30
 Now there was in Jewry a prophet, called Habbacuc, who had made pottage, and had broken bread in a bowl, and was going into the field, for to bring it to the reapers.
 
-### 34
+### 31
 But the angel of the Lord said unto Habbacuc, Go, carry the dinner that thou hast into Babylon unto Daniel, who is in the lions’ den.
 
-### 35
+### 32
 And Habbacuc said, Lord, I never saw Babylon; neither do I know where the den is.
 
-### 36
+### 33
 Then the angel of the Lord took him by the crown, and bare him by the hair of his head, and through the vehemence of his spirit set him in Babylon over the den.
 
-### 37
+### 34
 And Habbacuc cried, saying, O Daniel, Daniel, take the dinner which God hath sent thee.
 
-### 38
+### 35
 And Daniel said, Thou hast remembered me, O God: neither hast thou forsaken them that seek thee and love thee.
 
-### 39
+### 36
 So Daniel arose, and did eat: and the angel of the Lord set Habbacuc in his own place again immediately.
 
-### 40
+### 37
 Upon the seventh day the king went to bewail Daniel: and when he came to the den, he looked in, and behold, Daniel was sitting.
 
-### 41
+### 38
 Then cried the king with a loud voice, saying, Great art thou, O Lord God of Daniel, and there is none other beside thee.
 
-### 42
+### 39
 And he cast him into the den: and they were devoured in a moment before his face.

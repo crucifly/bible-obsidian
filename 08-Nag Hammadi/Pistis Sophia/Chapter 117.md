@@ -12,30 +12,19 @@ translation: G.R.S. Mead
 **Chapter 117**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 116**
 
 ### 2
-Next
-
-**CHAPTER 116**
-
-### 3
 When then the Saviour had said this, he said unto his disciples: "Understand ye in what manner I discourse with you?"
 
+### 3
+Mary interpreteth the same from a former saying.Then Mary started forward and said: "Yea, my Lord, in truth I enquire closely into all the words which thou sayest. Concerning the word then of the forgiveness of sins thou hast spoken unto us in similitude aforetime, saying: 'I am come to cast fire on the earth,' and again: 'What will I that it burn?' And again thou hast distinguished it clearly, saying: 'I have a baptism, to baptize in it; and how shall I endure until it is accomplished? Think ye I am come to cast peace on the earth? Nay, but I am come to cast division. For from now on five will be in one house; three will be divided against two, and two against three.' This, my Lord, is the word which thou hast spoken clearly.
+
 ### 4
-Mary interpreteth the same from a former saying.Then Mary started forward and said: "Yea, my Lord, in truth I enquire closely into all the words which thou sayest. Concerning the word then of the forgiveness of sins thou hast spoken unto us in similitude aforetime, saying: 'I am come to cast fire on the earth,' and again: 'What will I that it burn?' And again thou hast distinguished
-
-### 5
-it clearly, saying: 'I have a baptism, to baptize in it; and how shall I endure until it is accomplished? Think ye I am come to cast peace on the earth? Nay, but I am come to cast division. For from now on five will be in one house; three will be divided against two, and two against three.' This, my Lord, is the word which thou hast spoken clearly.
-
-### 6
 "The word indeed which thou hast spoken: 'I am come to cast fire on the earth, and what will I that it burn?'--that is, my Lord: Thou hast brought the mysteries of the baptisms into the world, and thy pleasure is that they should consume all the sins of the soul and purify them. And thereafter again thou hast distinguished it clearly, saying: 'I have a baptism, to baptize in it; and how shall I endure until it is accomplished?'--that is: Thou wilt not remain in the world until the baptisms are accomplished and purify the perfect souls.
 
-### 7
+### 5
 "And moreover the word which thou hast spoken unto us aforetime: 'Think ye I am come to cast peace on the earth? Nay, but I am come to cast division. For from now on five will be in one house; three will be divided against two, and two against three,'--that is: Thou hast brought the mystery of the baptisms into the world, and it hath effected a division in the bodies of the world, because it hath separated the counterfeiting spirit and the body and the destiny into one portion; the soul and the power on the other hand it hath separated into another portion;--that is: Three will be against two, and two against three."
 
-### 8
-And when Mary had said this, the Saviour
-
-### 9
-said: "Well said, thou spiritual and light-pure Mary. This is the solution of the word."
+### 6
+And when Mary had said this, the Saviour said: "Well said, thou spiritual and light-pure Mary. This is the solution of the word."

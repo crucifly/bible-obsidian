@@ -53,97 +53,76 @@ And Angeas sent to Lucus his brother, saying, Come to me with all thy men and he
 And Zepho and the children of Chittim heard this thing, and they were greatly afraid and a great terror fell upon their hearts.
 
 ### 15
-And Zepho also sent a letter to the land of Edom to Hadad the son of Bedad king of Edom and to all the children of Esau, saying,
+And Zepho also sent a letter to the land of Edom to Hadad the son of Bedad king of Edom and to all the children of Esau, saying, I have heard that Angeas king of Africa is coming to us with his brother for battle against us, and we are greatly afraid of him, for his army is very great, particularly as he comes against us with his brother and his army likewise.
 
 ### 16
-I have heard that Angeas king of Africa is coming to us with his brother for battle against us, and we are greatly afraid of him, for his army is very great, particularly as he comes against us with his brother and his army likewise.
-
-### 17
 Now therefore come you also up with me and help me, and we will fight together against Angeas and his brother Lucus, and you will save us out of their hands, but if not, know ye that we shall all die.
 
-### 18
+### 17
 And the children of Esau sent a letter to the children of Chittim and to Zepho their king, saying, We cannot fight against Angeas and his people for a covenant of peace has been between us these many years, from the days of Bela the first king, and from the days of Joseph the son of Jacob king of Egypt, with whom we fought on the other side of Jordan when he buried his father.
 
-### 19
+### 18
 And when Zepho heard the words of his brethren the children of Esau he refrained from them, and Zepho was greatly afraid of Angeas.
 
-### 20
+### 19
 And Angeas and Lucus his brother arrayed all their forces, about eight hundred thousand men, against the children of Chittim.
 
-### 21
+### 20
 And all the children of Chittim said unto Zepho, Pray for us to the God of thy ancestors, peradventure he may deliver us from the hand of Angeas and his army, for we have heard that he is a great God and that he delivers all who trust in him.
 
+### 21
+And Zepho heard their words, and Zepho sought the Lord and he said, O Lord God of Abraham and Isaac my ancestors, this day I know that thou art a true God, and all the gods of the nations are vain and useless.
+
 ### 22
-And Zepho heard their words, and Zepho sought the Lord and he said,
-
-### 23
-O Lord God of Abraham and Isaac my ancestors, this day I know that thou art a true God, and all the gods of the nations are vain and useless.
-
-### 24
 Remember now this day unto me thy covenant with Abraham our father, which our ancestors related unto us, and do graciously with me this day for the sake of Abraham and Isaac our fathers, and save me and the children of Chittim from the hand of the king of Africa who comes against us for battle.
 
-### 25
+### 23
 And the Lord hearkened to the voice of Zepho, and he had regard for him on account of Abraham and Isaac, and the Lord delivered Zepho and the children of Chittim from the hand of Angeas and his people.
 
-### 26
+### 24
 And Zepho fought Angeas king of Africa and all his people on that day, and the Lord gave all the people of Angeas into the hands of the children of Chittim.
 
-### 27
+### 25
 And the battle was severe upon Angeas, and Zepho smote all the men of Angeas and Lucus his brother, with the edge of the sword, and there fell from them unto the evening of that day about four hundred thousand men.
 
-### 28
+### 26
 And when Angeas saw that all his men perished, he sent a letter to all the inhabitants of Africa to come to him, to assist him in the battle, and he wrote in the letter, saying, All who are found in Africa let them come unto me from ten years old and upward; let them all come unto me, and behold if he comes not he shall die, and all that he has, with his whole household, the king will take.
 
-### 29
+### 27
 And all the rest of the inhabitants of Africa were terrified at the words of Angeas, and there went out of the city about three hundred thousand men and boys, from ten years upward, and they came to Angeas.
 
-### 30
+### 28
 And at the end of ten days Angeas renewed the battle against Zepho and the children of Chittim, and the battle was very great and strong between them.
 
-### 31
+### 29
 And from the army of Angeas and Lucus, Zepho sent many of the wounded unto his hand, about two thousand men, and Sosiphtar the captain of the host of Angeas fell in that battle.
 
-### 32
+### 30
 And when Sosiphtar had fallen, the African troops turned their backs to flee, and they fled, and Angeas and Lucus his brother were with them.
 
-### 33
+### 31
 And Zepho and the children of Chittim pursued them, and they smote them still heavily on the road, about two hundred men, and they pursued Azdrubal the son of Angeas who had fled with his father, and they smote twenty of his men in the road, and Azdrubal escaped from the children of Chittim, and they did not slay him.
 
-### 34
+### 32
 And Angeas and Lucus his brother fled with the rest of their men, and they escaped and came into Africa with terror and consternation, and Angeas feared all the days lest Zepho the son of Eliphaz should go to war with him.
 
-### 35
+### 33
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_63&oldid=11446020"
 
-### 36
-Hidden categories: SubpagesHeaders applying DefaultSort key
+### 34
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:04.
 
-### 37
-This page was last edited on 30 June 2021, at 02:04.
-
-### 38
+### 35
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 36
+Privacy policy Disclaimers
+
+### 37
+Code of Conduct Developers
+
+### 38
+Statistics Cookie statement
+
 ### 39
-Privacy policy
-
-### 40
-Disclaimers
-
-### 41
-Code of Conduct
-
-### 42
-Developers
-
-### 43
-Statistics
-
-### 44
-Cookie statement
-
-### 45
-Mobile view
-
-### 46
-Add topic
+Mobile view Add topic

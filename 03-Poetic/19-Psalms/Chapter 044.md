@@ -48,37 +48,28 @@ You make us a reproach to our neighbors, a scoffing and a derision to those who 
 You make us a byword among the nations, a shaking of the head among the peoples.
 
 ### 15
-All day long my dishonor is before me, and shame covers my face,
+All day long my dishonor is before me, and shame covers my face, At the taunt of one who reproaches and verbally abuses, because of the enemy and the avenger.
 
 ### 16
-At the taunt of one who reproaches and verbally abuses, because of the enemy and the avenger.
-
-### 17
 All this has come on us, yet have we not forgotten you, Neither have we been false to your covenant.
 
+### 17
+Our heart has not turned back, neither have our steps strayed from your path, Though you have crushed us in the haunt of jackals, and covered us with the shadow of death.
+
 ### 18
-Our heart has not turned back, neither have our steps strayed from your path,
+If we have forgotten the name of our God, or spread out our hands to a strange god; won’t God search this out? For he knows the secrets of the heart.
 
 ### 19
-Though you have crushed us in the haunt of jackals, and covered us with the shadow of death.
-
-### 20
-If we have forgotten the name of our God, or spread out our hands to a strange god;
-
-### 21
-won’t God search this out? For he knows the secrets of the heart.
-
-### 22
 Yes, for your sake we are killed all day long. We are regarded as sheep for the slaughter.
 
-### 23
+### 20
 Wake up! Why do you sleep, Lord? Arise! Don’t reject us forever.
 
-### 24
+### 21
 Why do you hide your face, and forget our affliction and our oppression?
 
-### 25
+### 22
 For our soul is bowed down to the dust. Our body clings to the earth.
 
-### 26
+### 23
 Rise up to help us. Redeem us for your loving kindness’ sake.

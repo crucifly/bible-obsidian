@@ -12,46 +12,40 @@ Who is like the wise man? And who knows the interpretation of a thing? A man’s
 I say, “Keep the king’s command!” because of the oath to God.
 
 ### 3
-Don’t be hasty to go out of his presence. Don’t persist in an evil thing, for he does whatever pleases him,
+Don’t be hasty to go out of his presence. Don’t persist in an evil thing, for he does whatever pleases him, for the king’s word is supreme. Who can say to him, “What are you doing?”
 
 ### 4
-for the king’s word is supreme. Who can say to him, “What are you doing?”
-
-### 5
 Whoever keeps the commandment shall not come to harm, and his wise heart will know the time and procedure.
 
-### 6
+### 5
 For there is a time and procedure for every purpose, although the misery of man is heavy on him.
 
-### 7
+### 6
 For he doesn’t know that which will be; for who can tell him how it will be?
 
-### 8
+### 7
 There is no man who has power over the spirit to contain the spirit; neither does he have power over the day of death. There is no discharge in war; neither shall wickedness deliver those who practice it.
 
-### 9
+### 8
 All this I have seen, and applied my mind to every work that is done under the sun. There is a time in which one man has power over another to his hurt.
 
-### 10
+### 9
 So I saw the wicked buried. Indeed they came also from holiness. They went and were forgotten in the city where they did this. This also is vanity.
 
-### 11
+### 10
 Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.
 
-### 12
+### 11
 Though a sinner commits crimes a hundred times, and lives long, yet surely I know that it will be better with those who fear God, who are reverent before him.
 
-### 13
+### 12
 But it shall not be well with the wicked, neither shall he lengthen days like a shadow; because he doesn’t fear God.
 
-### 14
+### 13
 There is a vanity which is done on the earth, that there are righteous men to whom it happens according to the work of the wicked. Again, there are wicked men to whom it happens according to the work of the righteous. I said that this also is vanity.
 
-### 15
+### 14
 Then I commended mirth, because a man has no better thing under the sun, than to eat, and to drink, and to be joyful: for that will accompany him in his labor all the days of his life which God has given him under the sun.
 
-### 16
-When I applied my heart to know wisdom, and to see the business that is done on the earth (for also there is that neither day nor night sees sleep with his eyes),
-
-### 17
-then I saw all the work of God, that man can’t find out the work that is done under the sun, because however much a man labors to seek it out, yet he won’t find it. Yes even though a wise man thinks he can comprehend it, he won’t be able to find it.
+### 15
+When I applied my heart to know wisdom, and to see the business that is done on the earth (for also there is that neither day nor night sees sleep with his eyes), then I saw all the work of God, that man can’t find out the work that is done under the sun, because however much a man labors to seek it out, yet he won’t find it. Yes even though a wise man thinks he can comprehend it, he won’t be able to find it.

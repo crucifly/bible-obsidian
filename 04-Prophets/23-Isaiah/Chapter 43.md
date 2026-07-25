@@ -21,70 +21,61 @@ Since you have been precious and honored in my sight, and I have loved you; ther
 Don’t be afraid; for I am with you. I will bring your offspring from the east, and gather you from the west.
 
 ### 6
-I will tell the north, ‘Give them up!’ and tell the south, ‘Don’t hold them back! Bring my sons from far, and my daughters from the ends of the earth—
+I will tell the north, ‘Give them up!’ and tell the south, ‘Don’t hold them back! Bring my sons from far, and my daughters from the ends of the earth— everyone who is called by my name, and whom I have created for my glory, whom I have formed, yes, whom I have made.’”
 
 ### 7
-everyone who is called by my name, and whom I have created for my glory, whom I have formed, yes, whom I have made.’”
-
-### 8
 Bring out the blind people who have eyes, and the deaf who have ears.
 
-### 9
+### 8
 Let all the nations be gathered together, and let the peoples be assembled. Who among them can declare this, and show us former things? Let them bring their witnesses, that they may be justified; or let them hear, and say, “That is true.”
 
-### 10
+### 9
 “You are my witnesses,” says Yahweh, “With my servant whom I have chosen; that you may know and believe me, and understand that I am he. Before me there was no God formed, neither will there be after me.
 
-### 11
+### 10
 I myself am Yahweh; and besides me there is no savior.
 
-### 12
+### 11
 I have declared, I have saved, and I have shown; and there was no strange god among you. Therefore you are my witnesses”, says Yahweh, “and I am God.
 
-### 13
+### 12
 Yes, since the day was, I am he; and there is no one who can deliver out of my hand. I will work, and who can hinder it?”
 
-### 14
+### 13
 Yahweh, your Redeemer, the Holy One of Israel says: “For your sake, I have sent to Babylon, and I will bring all of them down as fugitives, even the Chaldeans, in the ships of their rejoicing.
 
-### 15
+### 14
 I am Yahweh, your Holy One, the Creator of Israel, your King.”
 
+### 15
+Yahweh, who makes a way in the sea, and a path in the mighty waters says: who brings out the chariot and horse, the army and the mighty man (they lie down together, they shall not rise; they are extinct, they are quenched like a wick):
+
 ### 16
-Yahweh, who makes a way in the sea, and a path in the mighty waters says:
-
-### 17
-who brings out the chariot and horse, the army and the mighty man (they lie down together, they shall not rise; they are extinct, they are quenched like a wick):
-
-### 18
 “Don’t remember the former things, and don’t consider the things of old.
 
-### 19
+### 17
 Behold, I will do a new thing. It springs out now. Don’t you know it? I will even make a way in the wilderness, and rivers in the desert.
 
-### 20
-The animals of the field shall honor me, the jackals and the ostriches; because I give water in the wilderness and rivers in the desert, to give drink to my people, my chosen,
+### 18
+The animals of the field shall honor me, the jackals and the ostriches; because I give water in the wilderness and rivers in the desert, to give drink to my people, my chosen, the people which I formed for myself, that they might declare my praise.
 
-### 21
-the people which I formed for myself, that they might declare my praise.
-
-### 22
+### 19
 Yet you have not called on me, Jacob; but you have been weary of me, Israel.
 
-### 23
+### 20
 You have not brought me of your sheep for burnt offerings; neither have you honored me with your sacrifices. I have not burdened you with offerings, nor wearied you with frankincense.
 
-### 24
+### 21
 You have bought me no sweet cane with money, nor have you filled me with the fat of your sacrifices; but you have burdened me with your sins. You have wearied me with your iniquities.
 
-### 25
+### 22
 I, even I, am he who blots out your transgressions for my own sake; and I will not remember your sins.
 
-### 26
+### 23
 Put me in remembrance. Let us plead together. Declare your case, that you may be justified.
 
-### 27
+### 24
 Your first father sinned, and your teachers have transgressed against me.
 
-### 28
+### 25
 Therefore I will profane the princes of the sanctuary; and I will make Jacob a curse, and Israel an insult.”

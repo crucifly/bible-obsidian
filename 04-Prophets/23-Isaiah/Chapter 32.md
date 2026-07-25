@@ -45,22 +45,19 @@ Beat your breasts for the pleasant fields, for the fruitful vine.
 Thorns and briers will come up on my people’s land; yes, on all the houses of joy in the joyous city.
 
 ### 14
-For the palace will be forsaken. The populous city will be deserted. The hill and the watchtower will be for dens forever, a delight for wild donkeys, a pasture of flocks;
+For the palace will be forsaken. The populous city will be deserted. The hill and the watchtower will be for dens forever, a delight for wild donkeys, a pasture of flocks; Until the Spirit is poured on us from on high, and the wilderness becomes a fruitful field, and the fruitful field is considered a forest.
 
 ### 15
-Until the Spirit is poured on us from on high, and the wilderness becomes a fruitful field, and the fruitful field is considered a forest.
-
-### 16
 Then justice will dwell in the wilderness; and righteousness will remain in the fruitful field.
 
-### 17
+### 16
 The work of righteousness will be peace; and the effect of righteousness, quietness and confidence forever.
 
-### 18
+### 17
 My people will live in a peaceful habitation, in safe dwellings, and in quiet resting places.
 
-### 19
+### 18
 Though hail flattens the forest, and the city is leveled completely.
 
-### 20
+### 19
 Blessed are you who sow beside all waters, who send out the feet of the ox and the donkey.

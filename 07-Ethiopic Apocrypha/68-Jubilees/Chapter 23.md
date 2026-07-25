@@ -39,139 +39,100 @@ For Abraham was perfect in all his deeds with the Lord, and well-pleasing in rig
 And all the generations which shall arise from this time until the day of the great judgment shall grow old quickly, before they complete two jubilees, and their knowledge shall forsake them by reason of their old age Land all their know- ledge shall vanish away].
 
 ### 12
-And in those days, if a man live a jubilee and a-half of years, they shall say regarding him: 'He has lived long, and the greater part of his days are pain and sorrow and tribulation, and there is no peace:
+And in those days, if a man live a jubilee and a-half of years, they shall say regarding him: 'He has lived long, and the greater part of his days are pain and sorrow and tribulation, and there is no peace: For calamity follows on calamity, and wound on wound, and tribulation on tribulation, and evil tidings on evil tidings, and illness on illness, and all evil judgments such as these, one with another, illness and overthrow, and snow and frost and ice, and fever, and chills, and torpor, and famine, and death, and sword, and captivity, and all kinds of calamities and pains.'
 
 ### 13
-For calamity follows on calamity, and wound on wound, and tribulation on tribulation, and evil tidings on evil tidings, and illness on illness, and all evil judgments such as these, one with another, illness and overthrow, and snow and frost and ice, and fever, and chills, and torpor, and famine, and death, and sword, and captivity, and all kinds of calamities and pains.'
-
-### 14
 And all these shall come on an evil generation, which transgresses on the earth: their works are uncleanness and fornication, and pollution and abominations.
 
-### 15
+### 14
 Then they shall say: 'The days of the forefathers were many (even), unto a thousand years, and were good; but behold, the days of our life, if a man has lived many, are three score years and ten, and, if he is strong, four score years, and those evil, and there is no peace in the days of this evil generation.'
 
-### 16
+### 15
 And in that generation the sons shall convict their fathers and their elders of sin and unrighteousness, and of the words of their mouth and the great wickednesses which they perpetrate, and concerning their forsaking the covenant which the Lord made between them and Him, that they should observe and do all His commandments and His ordinances and all His laws, without departing either to the right hand or the left.
 
-### 17
+### 16
 For all have done evil, and every mouth speaks iniquity and all their works are an uncleanness and an abomination, and all their ways are pollution, uncleanness and destruction.
 
-### 18
+### 17
 Behold the earth shall be destroyed on account of all their works, and there shall be no seed of the vine, and no oil; for their works are altogether faithless, and they shall all perish together, beasts and cattle and birds, and all the fish of the sea, on account of the children of men.
 
-### 19
+### 18
 And they shall strive one with another, the young with the old, and the old with the young, the poor with the rich, the lowly with the great, and the beggar with the prince, on account of the law and the covenant; for they have forgotten commandment, and covenant, and feasts, and months, and Sabbaths, and jubilees, and all judgments.
 
-### 20
+### 19
 And they shall stand <with bows and> swords and war to turn them back into the way; but they shall not return until much blood has been shed on the earth, one by another.
 
-### 21
+### 20
 And those who have escaped shall not return from their wickedness to the way of righteousness, but they shall all exalt themselves to deceit and wealth, that they may each take all that is his neighbour's, and they shall name the great name, but not in truth and not in righteousness, and they shall defile the holy of holies with their uncleanness and the corruption of their pollution.
 
-### 22
+### 21
 And a great punishment shall befall the deeds of this generation from the Lord, and He will give them over to the sword and to judgment and to captivity, and to be plundered and devoured.
 
-### 23
+### 22
 And He will wake up against them the sinners of the Gentiles, who have neither mercy nor compassion, and who shall respect the person of none, neither old nor young, nor any one, for they are more wicked and strong to do evil than all the children of men.
 
+### 23
+And they shall use violence against Israel and transgression against Jacob, And much blood shall be shed upon the earth,
+
 ### 24
-And they shall use violence against Israel and transgression against Jacob,
-
-### 25
-And much blood shall be shed upon the earth,
-
-### 26
 And there shall be none to gather and none to bury.
 
-### 27
-In those days they shall cry aloud,
+### 25
+In those days they shall cry aloud, And call and pray that they may be saved from the hand of the sinners, the Gentiles;
 
-### 28
-And call and pray that they may be saved from the hand of the sinners, the Gentiles;
-
-### 29
+### 26
 But none shall be saved.
 
-### 30
-And the heads of the children shall be white with grey hair,
+### 27
+And the heads of the children shall be white with grey hair, And a child of three weeks shall appear old like a man of one hundred years,
 
-### 31
-And a child of three weeks shall appear old like a man of one hundred years,
-
-### 32
+### 28
 & And their stature shall be destroyed by tribulation and oppression.
 
-### 33
-And in those days the children shall begin to study the laws,
+### 29
+And in those days the children shall begin to study the laws, And to seek the commandments,
 
-### 34
-And to seek the commandments,
-
-### 35
+### 30
 And to return to the path of righteousness.
 
-### 36
-And the days shall begin to grow many and increase amongst those children of men
+### 31
+And the days shall begin to grow many and increase amongst those children of men Till their days draw nigh to one thousand years.
 
-### 37
-Till their days draw nigh to one thousand years.
-
-### 38
+### 32
 And to a greater number of years than (before) was the number of the days.
 
-### 39
-And there shall be no old man
+### 33
+And there shall be no old man Nor one who is <not> satisfied with his days,
 
-### 40
-Nor one who is <not> satisfied with his days,
-
-### 41
+### 34
 For all shall be (as) children and youths.
 
-### 42
-And all their days they shall complete and live in peace and in joy,
+### 35
+And all their days they shall complete and live in peace and in joy, And there shall be no Satan nor any evil destroyer;
 
-### 43
-And there shall be no Satan nor any evil destroyer;
-
-### 44
+### 36
 For all their days shall be days of blessing and healing.
 
-### 45
-And at that time the Lord will heal His servants,
+### 37
+And at that time the Lord will heal His servants, And they shall rise up and see great peace,
 
-### 46
-And they shall rise up and see great peace,
-
-### 47
+### 38
 And drive out their adversaries.
 
-### 48
-And the righteous shall see and be thankful,
+### 39
+And the righteous shall see and be thankful, And rejoice with joy for ever and ever,
 
-### 49
-And rejoice with joy for ever and ever,
-
-### 50
+### 40
 And shall see all their judgments and all their curses on their enemies.
 
-### 51
-And their bones shall rest in the earth,
+### 41
+And their bones shall rest in the earth, And their spirits shall have much joy,
 
-### 52
-And their spirits shall have much joy,
+### 42
+And they shall know that it is the Lord who executes judgment, And shows mercy to hundreds and thousands and to all that love Him
 
-### 53
-And they shall know that it is the Lord who executes judgment,
-
-### 54
-And shows mercy to hundreds and thousands and to all that love Him
-
-### 55
+### 43
 And do thou, Moses, write down these words; for thus are they written, and they record (them) on the heavenly tablets for a testimony for the generations for ever.
 
-### 56
-The Book of Jubilees
-
-### 57
-Isaac at the Well of Vision, 1 (cf. Gen. xxi. 11). Esau sells his birthright, 2-7 (cf. Gen. xxv.29-34).
+### 44
+The Book of Jubilees Isaac at the Well of Vision, 1 (cf. Gen. xxi. 11). Esau sells his birthright, 2-7 (cf. Gen. xxv.29-34).

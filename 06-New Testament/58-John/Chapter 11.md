@@ -102,76 +102,67 @@ Then the Jews who were with her in the house, and were consoling her, when they 
 Therefore when Mary came to where Jesus was, and saw him, she fell down at his feet, saying to him, “Lord, if you would have been here, my brother wouldn’t have died.”
 
 ### 33
-When Jesus therefore saw her weeping, and the Jews weeping who came with her, he groaned in the spirit, and was troubled,
+When Jesus therefore saw her weeping, and the Jews weeping who came with her, he groaned in the spirit, and was troubled, and said, “Where have you laid him?” They told him, “Lord, come and see.”
 
 ### 34
-and said, “Where have you laid him?” They told him, “Lord, come and see.”
-
-### 35
 Jesus wept.
 
-### 36
+### 35
 The Jews therefore said, “See how much affection he had for him!”
 
-### 37
+### 36
 Some of them said, “Couldn’t this man, who opened the eyes of him who was blind, have also kept this man from dying?”
 
-### 38
+### 37
 Jesus therefore, again groaning in himself, came to the tomb. Now it was a cave, and a stone lay against it.
 
-### 39
+### 38
 Jesus said, “Take away the stone.” Martha, the sister of him who was dead, said to him, “Lord, by this time there is a stench, for he has been dead four days.”
 
-### 40
+### 39
 Jesus said to her, “Didn’t I tell you that if you believed, you would see God’s glory?”
 
-### 41
+### 40
 So they took away the stone from the place where the dead man was lying. Jesus lifted up his eyes, and said, “Father, I thank you that you listened to me.
 
-### 42
+### 41
 I know that you always listen to me, but because of the multitude standing around I said this, that they may believe that you sent me.”
 
-### 43
+### 42
 When he had said this, he cried with a loud voice, “Lazarus, come out!”
 
-### 44
+### 43
 He who was dead came out, bound hand and foot with wrappings, and his face was wrapped around with a cloth. Jesus said to them, “Free him, and let him go.”
 
-### 45
+### 44
 Therefore many of the Jews, who came to Mary and saw what Jesus did, believed in him.
 
-### 46
+### 45
 But some of them went away to the Pharisees, and told them the things which Jesus had done.
 
-### 47
+### 46
 The chief priests therefore and the Pharisees gathered a council, and said, “What are we doing? For this man does many signs.
 
-### 48
+### 47
 If we leave him alone like this, everyone will believe in him, and the Romans will come and take away both our place and our nation.”
 
+### 48
+But a certain one of them, Caiaphas, being high priest that year, said to them, “You know nothing at all, nor do you consider that it is advantageous for us that one man should die for the people, and that the whole nation not perish.”
+
 ### 49
-But a certain one of them, Caiaphas, being high priest that year, said to them, “You know nothing at all,
+Now he didn’t say this of himself, but being high priest that year, he prophesied that Jesus would die for the nation, and not for the nation only, but that he might also gather together into one the children of God who are scattered abroad.
 
 ### 50
-nor do you consider that it is advantageous for us that one man should die for the people, and that the whole nation not perish.”
-
-### 51
-Now he didn’t say this of himself, but being high priest that year, he prophesied that Jesus would die for the nation,
-
-### 52
-and not for the nation only, but that he might also gather together into one the children of God who are scattered abroad.
-
-### 53
 So from that day forward they took counsel that they might put him to death.
 
-### 54
+### 51
 Jesus therefore walked no more openly among the Jews, but departed from there into the country near the wilderness, to a city called Ephraim. He stayed there with his disciples.
 
-### 55
+### 52
 Now the Passover of the Jews was at hand. Many went up from the country to Jerusalem before the Passover, to purify themselves.
 
-### 56
+### 53
 Then they sought for Jesus and spoke one with another, as they stood in the temple, “What do you think—that he isn’t coming to the feast at all?”
 
-### 57
+### 54
 Now the chief priests and the Pharisees had commanded that if anyone knew where he was, he should report it, that they might seize him.

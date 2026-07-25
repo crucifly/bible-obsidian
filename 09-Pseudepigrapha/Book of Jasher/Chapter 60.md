@@ -104,34 +104,19 @@ And it was after this that Angeas turned with his army and they came to the city
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_60&oldid=11446007"
 
 ### 32
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:04.
 
 ### 33
-This page was last edited on 30 June 2021, at 02:04.
-
-### 34
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 34
+Privacy policy Disclaimers
+
 ### 35
-Privacy policy
+Code of Conduct Developers
 
 ### 36
-Disclaimers
+Statistics Cookie statement
 
 ### 37
-Code of Conduct
-
-### 38
-Developers
-
-### 39
-Statistics
-
-### 40
-Cookie statement
-
-### 41
-Mobile view
-
-### 42
-Add topic
+Mobile view Add topic

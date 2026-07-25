@@ -39,7 +39,4 @@ Say among the nations, “Yahweh reigns.” The world is also established. It ca
 Let the heavens be glad, and let the earth rejoice. Let the sea roar, and its fullness!
 
 ### 12
-Let the field and all that is in it exult! Then all the trees of the woods shall sing for joy
-
-### 13
-before Yahweh; for he comes, for he comes to judge the earth. He will judge the world with righteousness, the peoples with his truth.
+Let the field and all that is in it exult! Then all the trees of the woods shall sing for joy before Yahweh; for he comes, for he comes to judge the earth. He will judge the world with righteousness, the peoples with his truth.

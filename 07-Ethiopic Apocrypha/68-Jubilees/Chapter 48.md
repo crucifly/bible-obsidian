@@ -30,40 +30,34 @@ And everything took place according to thy words; ten great and terrible judgmen
 And the Lord did everything for Israel's sake, and according to His covenant, which he had ordained with Abraham that He would take vengeance on them as they had brought them by force into bondage.
 
 ### 9
-And the prince Mastêmâ stood up against thee, and sought to cast thee into the hands of Pharaoh, and he helped the Egyptian sorcerers,
+And the prince Mastêmâ stood up against thee, and sought to cast thee into the hands of Pharaoh, and he helped the Egyptian sorcerers, and they stood up and wrought before thee the evils indeed we permitted them to work, but the remedies we did not allow to be wrought by their hands.
 
 ### 10
-and they stood up and wrought before thee the evils indeed we permitted them to work, but the remedies we did not allow to be wrought by their hands.
-
-### 11
 And the Lord smote them with malignant ulcers, and they were not able to stand, for we destroyed them so that they could not perform a single sign.
 
-### 12
+### 11
 And notwithstanding all (these) signs and wonders the prince Mastêmâ was not put to shame because he took courage and cried to the Egyptians to pursue after thee with all the powers of the Egyptians, with their chariots, and with their horses, and with all the hosts of the peoples of Egypt.
 
-### 13
+### 12
 And I stood between the Egyptians and Israel, and we delivered Israel out of his hand, and out of the hand of his people, and the Lord brought them through the midst of the sea as if it were dry land.
 
-### 14
+### 13
 And all the peoples whom he brought to pursue after Israel, the Lord our God cast them into the midst of the sea, into the depths of the abyss beneath the children of Israel, even as the people of Egypt had cast their children into the river He took vengeance on 1,000,000 of them, and one thousand strong and energetic men were destroyed on account of one suckling of the children of thy people which they had thrown into the river.
 
-### 15
+### 14
 And on the fourteenth day and on the fifteenth and on the sixteenth and on the seventeenth and on the eighteenth the prince Mastêmâ was bound and imprisoned behind the children of Israel that he might not accuse them.
 
-### 16
+### 15
 And on the nineteenth we let them loose that they might help the Egyptians and pursue the children of Israel.
 
-### 17
+### 16
 And he hardened their hearts and made them stubborn, and the device was devised by the Lord our God that He might smite the Egyptians and cast them into the sea.
 
-### 18
+### 17
 And on the fourteenth we bound him that he might not accuse the children of Israel on the day when they asked the Egyptians for vessels and garments, vessels of silver, and vessels of gold, and vessels of bronze, in order to despoil the Egyptians in return for the bondage in which they had forced them to serve.
 
-### 19
+### 18
 And we did not lead forth the children of Israel from Egypt empty handed.
 
-### 20
-The Book of Jubilees
-
-### 21
-The Passover: regulations regarding its celebration. (Cf. Exod. xii.6, 9, 11, 13, 22-3, 30, 46; xv.22.)
+### 19
+The Book of Jubilees The Passover: regulations regarding its celebration. (Cf. Exod. xii.6, 9, 11, 13, 22-3, 30, 46; xv.22.)

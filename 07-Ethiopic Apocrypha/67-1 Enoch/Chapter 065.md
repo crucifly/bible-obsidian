@@ -21,22 +21,19 @@ And thereupon there was a great commotion, on the earth, and a voice was heard f
 And Enoch my grandfather came and stood by me, and said unto me: ‘Why hast thou cried unto me with a bitter cry and weeping?
 
 ### 6
-And a command has gone forth from the presence of the Lord concerning those who dwell on the earth that their ruin is accomplished because they have learnt all the secrets of the angels, and all the violence of the Satans, and all their powers--the most secret ones--and all the power of those who practice sorcery, and the power of witchcraft, and the power of those who make molten images for the whole earth:
+And a command has gone forth from the presence of the Lord concerning those who dwell on the earth that their ruin is accomplished because they have learnt all the secrets of the angels, and all the violence of the Satans, and all their powers--the most secret ones--and all the power of those who practice sorcery, and the power of witchcraft, and the power of those who make molten images for the whole earth: And how silver is produced from the dust of the earth, and how soft metal originates in the earth.
 
 ### 7
-And how silver is produced from the dust of the earth, and how soft metal originates in the earth.
-
-### 8
 For lead and tin are not produced from the earth like the first: it is a fountain that produces them, and an angel stands therein, and that angel is pre-eminent.’
 
-### 9
+### 8
 And after that my grandfather Enoch took hold of me by my hand and raised me up, and said unto me: ‘Go, for I have asked the Lord of Spirits as touching this commotion on the earth.
 
-### 10
+### 9
 And He said unto me: “Because of their unrighteousness their judgement has been determined upon and shall not be withheld by Me for ever. Because of the sorceries which they have searched out and learnt, the earth and those who dwell upon it shall be destroyed.”
 
-### 11
+### 10
 And these--they have no place of repentance for ever, because they have shown them what was hidden, and they are the damned: but as for thee, my son, the Lord of Spirits knows that thou art pure, and guiltless of this reproach concerning the secrets.
 
-### 12
+### 11
 And He has destined thy name to be among the holy, And will preserve thee amongst those who dwell on the earth, And has destined thy righteous seed both for kingship and for great honours, And from thy seed shall proceed a fountain of the righteous and holy without number for ever.

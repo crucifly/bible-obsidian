@@ -12,81 +12,67 @@ translation: G.R.S. Mead
 **Chapter 58**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 58**
 
 ### 2
-Next
-
-**CHAPTER 58**
+Jesus sendeth forth a light-power to help Sophia.And Jesus continued again in the discourse and said unto his disciples: "It came to pass then, when Pistis Sophia had said these words, that the time was fulfilled that she should be led out of the chaos. And of myself, without the First Mystery, I despatched out of myself a light-power, and I sent it down to the chaos, so that it might lead Pistis Sophia forth from the deep regions of the chaos, and lead [her] to the higher regions of the chaos, until the command should come from the First Mystery that she should be led entirely forth out of the chaos. And my light-power led Pistis Sophia up to the higher regions of the chaos. It came to pass then, when the emanations of Self-willed had noticed that Pistis Sophia was led forth into the higher regions of the chaos, that they also sped after her upwards, desiring to bring her again into the lower regions of the chaos. And my light-power, which I had sent to lead up Sophia out of the chaos, shone exceedingly. It came to pass then, when the emanations of Self-willed pursued Sophia, when she had been led into the higher regions of the chaos, that she again sang praises and cried out unto me, saying:
 
 ### 3
-Jesus sendeth forth a light-power to help Sophia.And Jesus continued again in the discourse and said unto his disciples: "It came to pass then, when Pistis Sophia had said these words, that the time was fulfilled that she should be led out of the chaos. And of myself, without the First Mystery, I despatched out of myself a light-power, and I sent it down to the chaos, so that it might lead Pistis Sophia forth from the deep regions of the chaos, and lead [her] to the higher regions of the chaos, until the command should come from the First Mystery that she should be led entirely forth out of the chaos. And my light-power led Pistis Sophia up to the higher regions
-
-### 4
-of the chaos. It came to pass then, when the emanations of Self-willed had noticed that Pistis Sophia was led forth into the higher regions of the chaos, that they also sped after her upwards, desiring to bring her again into the lower regions of the chaos. And my light-power, which I had sent to lead up Sophia out of the chaos, shone exceedingly. It came to pass then, when the emanations of Self-willed pursued Sophia, when she had been led into the higher regions of the chaos, that she again sang praises and cried out unto me, saying:
-
-### 5
 Sophia uttereth a song of praise."'1. I will sing praises unto thee, O Light, for I desired to come unto thee. I will sing thee praises, O Light, for thou art my deliverer.
 
-### 6
+### 4
 "'2. Leave me not in the chaos. Save me, O Light of the Height, for it is thou that I have praised.
 
-### 7
+### 5
 "'3. Thou has sent me thy light through thyself and hast saved me. Thou hast led me to the higher regions of the chaos.
 
-### 8
+### 6
 "'4. May the emanations of Self-willed which pursue me, sink down into the lower regions of the chaos, and let them not come to the higher regions to see me.
 
-### 9
+### 7
 "'5. And may great darkness cover them and darker gloom come over them. And let them not see me in the light of thy power, which thou hast sent unto me to save me, so that they may not again get dominion over me.
 
-### 10
+### 8
 "'6. And let not their resolution which they have formed, to take away my power, take effect for them. And as they have spoken against me, to take from me my light, take rather from them theirs instead of mine.
 
-### 11
+### 9
 "'7. And they have proposed to take away my whole light and have not been able to take it, for thy light-power was with me.
 
-### 12
+### 10
 "'8. Because they have taken counsel without thy commandment, O Light, therefore have they not been able to take away my light.
 
-### 13
+### 11
 "'9. Because I have had faith in the Light, I shall not be afraid; and the Light is my deliverer and I shall not fear.'
 
-### 14
+### 12
 "Now, therefore, let him whose power is exalted, speak the solution of the words which Pistis Sophia hath uttered."
 
-### 15
-And it came to pass, when Jesus had finished speaking these words unto his disciples, that Salome came forward and said: "My Lord, my power constraineth me to speak the solution of the words which Pistis Sophia hath uttered. Thy power hath prophesied aforetime through Solomon, saying:
+### 13
+And it came to pass, when Jesus had finished speaking these words unto his disciples, that Salome came forward and said: "My Lord, my power constraineth me to speak the solution of the words which Pistis Sophia hath uttered. Thy power hath prophesied aforetime through Solomon, saying: Salome interpreteth the song of Sophia from the Odes of Solomon."'1. I will give thanks unto thee, O Lord, for thou art my God.
 
-### 16
-Salome interpreteth the song of Sophia from the Odes of Solomon."'1. I will give thanks unto thee, O Lord, for thou art my God.
-
-### 17
+### 14
 "'2. Abandon me not, O Lord, for thou art! my hope.
 
-### 18
+### 15
 "'3. Thou hast given me thy vindication for naught, and I am saved through thee.
 
-### 19
+### 16
 "'4. Let them who pursue me, fall down and let them not see me.
 
-### 20
+### 17
 "'5. May a smoke-cloud cover their eyes and an air-mist darken them, and let them not see the day, so that they may not seize me.
 
-### 21
+### 18
 "'6. May their resolution be impotent, and may what they concoct come upon them.
 
-### 22
+### 19
 "'7. They have devised a resolution, and it hath not taken effect for them.
 
-### 23
-"'8. And they are vanquished, although they
+### 20
+"'8. And they are vanquished, although they be mighty, and what they have wickedly prepared is fallen upon them.
 
-### 24
-be mighty, and what they have wickedly prepared is fallen upon them.
-
-### 25
+### 21
 "'9. My hope is in the Lord, and I shall not be afraid, for thou art my God, my Saviour.'"
 
-### 26
+### 22
 It came to pass then, when Salome had finished saying these words, that Jesus said unto her: "Well said, Salome; and finely. This is the solution of the words which Pistis Sophia hath uttered."

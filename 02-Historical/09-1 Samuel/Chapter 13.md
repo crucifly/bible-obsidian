@@ -36,40 +36,31 @@ Saul said, “Bring the burnt offering to me here, and the peace offerings.” H
 It came to pass that as soon as he had finished offering the burnt offering, behold, Samuel came; and Saul went out to meet him, that he might greet him.
 
 ### 11
-Samuel said, “What have you done?” Saul said, “Because I saw that the people were scattered from me, and that you didn’t come within the days appointed, and that the Philistines assembled themselves together at Michmash;
+Samuel said, “What have you done?” Saul said, “Because I saw that the people were scattered from me, and that you didn’t come within the days appointed, and that the Philistines assembled themselves together at Michmash; therefore I said, ‘Now the Philistines will come down on me to Gilgal, and I haven’t entreated the favor of Yahweh.’ I forced myself therefore, and offered the burnt offering.”
 
 ### 12
-therefore I said, ‘Now the Philistines will come down on me to Gilgal, and I haven’t entreated the favor of Yahweh.’ I forced myself therefore, and offered the burnt offering.”
-
-### 13
 Samuel said to Saul, “You have done foolishly. You have not kept the commandment of Yahweh your God, which he commanded you; for now Yahweh would have established your kingdom on Israel forever.
 
-### 14
+### 13
 But now your kingdom will not continue. Yahweh has sought for himself a man after his own heart, and Yahweh has appointed him to be prince over his people, because you have not kept that which Yahweh commanded you.”
 
-### 15
+### 14
 Samuel arose, and went from Gilgal to Gibeah of Benjamin. Saul counted the people who were present with him, about six hundred men.
 
-### 16
+### 15
 Saul, and Jonathan his son, and the people who were present with them, stayed in Geba of Benjamin; but the Philistines encamped in Michmash.
 
+### 16
+The raiders came out of the camp of the Philistines in three companies: one company turned to the way that leads to Ophrah, to the land of Shual; another company turned the way to Beth Horon; and another company turned the way of the border that looks down on the valley of Zeboim toward the wilderness.
+
 ### 17
-The raiders came out of the camp of the Philistines in three companies: one company turned to the way that leads to Ophrah, to the land of Shual;
+Now there was no blacksmith found throughout all the land of Israel; for the Philistines said, “Lest the Hebrews make themselves swords or spears”; but all the Israelites went down to the Philistines, each man to sharpen his own plowshare, mattock, ax, and sickle.
 
 ### 18
-another company turned the way to Beth Horon; and another company turned the way of the border that looks down on the valley of Zeboim toward the wilderness.
-
-### 19
-Now there was no blacksmith found throughout all the land of Israel; for the Philistines said, “Lest the Hebrews make themselves swords or spears”;
-
-### 20
-but all the Israelites went down to the Philistines, each man to sharpen his own plowshare, mattock, ax, and sickle.
-
-### 21
 The price was one payim each to sharpen mattocks, plowshares, pitchforks, axes, and goads.
 
-### 22
+### 19
 So it came to pass in the day of battle, that neither sword nor spear was found in the hand of any of the people who were with Saul and Jonathan; but Saul and Jonathan his son had them.
 
-### 23
+### 20
 The garrison of the Philistines went out to the pass of Michmash.

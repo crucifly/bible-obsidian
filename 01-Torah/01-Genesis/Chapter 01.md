@@ -45,55 +45,49 @@ The earth yielded grass, herbs yielding seed after their kind, and trees bearing
 There was evening and there was morning, a third day.
 
 ### 14
-God said, “Let there be lights in the expanse of the sky to divide the day from the night; and let them be for signs to mark seasons, days, and years;
+God said, “Let there be lights in the expanse of the sky to divide the day from the night; and let them be for signs to mark seasons, days, and years; and let them be for lights in the expanse of the sky to give light on the earth”; and it was so.
 
 ### 15
-and let them be for lights in the expanse of the sky to give light on the earth”; and it was so.
-
-### 16
 God made the two great lights: the greater light to rule the day, and the lesser light to rule the night. He also made the stars.
 
+### 16
+God set them in the expanse of the sky to give light to the earth, and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good.
+
 ### 17
-God set them in the expanse of the sky to give light to the earth,
-
-### 18
-and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good.
-
-### 19
 There was evening and there was morning, a fourth day.
 
-### 20
+### 18
 God said, “Let the waters abound with living creatures, and let birds fly above the earth in the open expanse of the sky.”
 
-### 21
+### 19
 God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good.
 
-### 22
+### 20
 God blessed them, saying, “Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.”
 
-### 23
+### 21
 There was evening and there was morning, a fifth day.
 
-### 24
+### 22
 God said, “Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind”; and it was so.
 
-### 25
+### 23
 God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good.
 
-### 26
+### 24
 God said, “Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.”
 
-### 27
+### 25
 God created man in his own image. In God’s image he created him; male and female he created them.
 
-### 28
+### 26
 God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.”
 
-### 29
+### 27
 God said, “Behold, I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food.
 
-### 30
+### 28
 To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;” and it was so.
 
-### 31
+### 29
 God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day.

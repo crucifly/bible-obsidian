@@ -21,19 +21,13 @@ In his hand are the deep places of the earth. The heights of the mountains are a
 The sea is his, and he made it. His hands formed the dry land.
 
 ### 6
-Oh come, let’s worship and bow down. Let’s kneel before Yahweh, our Maker,
+Oh come, let’s worship and bow down. Let’s kneel before Yahweh, our Maker, for he is our God. We are the people of his pasture, and the sheep in his care. Today, oh that you would hear his voice!
 
 ### 7
-for he is our God. We are the people of his pasture, and the sheep in his care. Today, oh that you would hear his voice!
+Don’t harden your heart, as at Meribah, as in the day of Massah in the wilderness, when your fathers tempted me, tested me, and saw my work.
 
 ### 8
-Don’t harden your heart, as at Meribah, as in the day of Massah in the wilderness,
-
-### 9
-when your fathers tempted me, tested me, and saw my work.
-
-### 10
 Forty long years I was grieved with that generation, and said, “It is a people that errs in their heart. They have not known my ways.”
 
-### 11
+### 9
 Therefore I swore in my wrath, “They won’t enter into my rest.”

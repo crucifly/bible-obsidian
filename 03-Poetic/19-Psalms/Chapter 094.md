@@ -39,37 +39,34 @@ He who disciplines the nations, won’t he punish? He who teaches man knows.
 Yahweh knows the thoughts of man, that they are futile.
 
 ### 12
-Blessed is the man whom you discipline, Yah, and teach out of your law;
+Blessed is the man whom you discipline, Yah, and teach out of your law; that you may give him rest from the days of adversity, until the pit is dug for the wicked.
 
 ### 13
-that you may give him rest from the days of adversity, until the pit is dug for the wicked.
-
-### 14
 For Yahweh won’t reject his people, neither will he forsake his inheritance.
 
-### 15
+### 14
 For judgment will return to righteousness. All the upright in heart shall follow it.
 
-### 16
+### 15
 Who will rise up for me against the wicked? Who will stand up for me against the evildoers?
 
-### 17
+### 16
 Unless Yahweh had been my help, my soul would have soon lived in silence.
 
-### 18
+### 17
 When I said, “My foot is slipping!” Your loving kindness, Yahweh, held me up.
 
-### 19
+### 18
 In the multitude of my thoughts within me, your comforts delight my soul.
 
-### 20
+### 19
 Shall the throne of wickedness have fellowship with you, which brings about mischief by statute?
 
-### 21
+### 20
 They gather themselves together against the soul of the righteous, and condemn the innocent blood.
 
-### 22
+### 21
 But Yahweh has been my high tower, my God, the rock of my refuge.
 
-### 23
+### 22
 He has brought on them their own iniquity, and will cut them off in their own wickedness. Yahweh, our God, will cut them off.

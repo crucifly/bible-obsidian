@@ -101,61 +101,43 @@ And all the inhabitants of the land of Canaan and the Philistines, and those bey
 And Joseph opened the stores of corn and placed officers over them, and they daily stood and sold to all that came.
 
 ### 31
-And Joseph knew that his brethren also would come to Egypt to buy corn, for the famine prevailed throughout the earth. And Joseph commanded all his people that they should cause it to be proclaimed throughout the land of Egypt, saying,
+And Joseph knew that his brethren also would come to Egypt to buy corn, for the famine prevailed throughout the earth. And Joseph commanded all his people that they should cause it to be proclaimed throughout the land of Egypt, saying, It is the pleasure of the king, of his second and of their great men, that any person who wishes to buy corn in Egypt shall not send his servants to Egypt to purchase, but his sons, and also any Egyptian or Canaanite, who shall come from any of the stores from buying corn in Egypt, and shall go and sell it throughout the land, he shall die, for no one shall buy but for the support of his household.
 
 ### 32
-It is the pleasure of the king, of his second and of their great men, that any person who wishes to buy corn in Egypt shall not send his servants to Egypt to purchase, but his sons, and also any Egyptian or Canaanite, who shall come from any of the stores from buying corn in Egypt, and shall go and sell it throughout the land, he shall die, for no one shall buy but for the support of his household.
-
-### 33
 And any man leading two or three beasts shall die, for a man shall only lead his own beast.
 
-### 34
+### 33
 And Joseph placed sentinels at the gates of Egypt, and commanded them, saying, Any person who may come to buy corn, suffer him not to enter until his name, and the name of his father, and the name of his father's father be written down, and whatever is written by day, send their names unto me in the evening that I may know their names.
 
-### 35
+### 34
 And Joseph placed officers throughout the land of Egypt, and he commanded them to do all these things.
 
-### 36
+### 35
 And Joseph did all these things, and made these statutes, in order that he might know when his brethren should come to Egypt to buy corn; and Joseph's people caused it daily to be proclaimed in Egypt according to these words and statutes which Joseph had commanded.
 
-### 37
+### 36
 And all the inhabitants of the east and west country, and of all the earth, heard of the statutes and regulations which Joseph had enacted in Egypt, and the inhabitants of the extreme parts of the earth came and they bought corn in Egypt day after day, and then went away.
 
-### 38
+### 37
 And all the officers of Egypt did as Joseph had commanded, and all that came to Egypt to buy corn, the gate keepers would write their names, and their fathers' names, and daily bring them in the evening before Joseph.
 
-### 39
+### 38
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_50&oldid=11445980"
 
+### 39
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:02.
+
 ### 40
-Hidden categories: SubpagesHeaders applying DefaultSort key
-
-### 41
-This page was last edited on 30 June 2021, at 02:02.
-
-### 42
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 41
+Privacy policy Disclaimers
+
+### 42
+Code of Conduct Developers
+
 ### 43
-Privacy policy
+Statistics Cookie statement
 
 ### 44
-Disclaimers
-
-### 45
-Code of Conduct
-
-### 46
-Developers
-
-### 47
-Statistics
-
-### 48
-Cookie statement
-
-### 49
-Mobile view
-
-### 50
-Add topic
+Mobile view Add topic

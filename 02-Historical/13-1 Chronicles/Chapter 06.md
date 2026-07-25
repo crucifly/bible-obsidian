@@ -15,235 +15,163 @@ The sons of Kohath: Amram, Izhar, and Hebron, and Uzziel.
 The children of Amram: Aaron, Moses, and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar.
 
 ### 4
-Eleazar became the father of Phinehas, Phinehas became the father of Abishua,
+Eleazar became the father of Phinehas, Phinehas became the father of Abishua, Abishua became the father of Bukki. Bukki became the father of Uzzi.
 
 ### 5
-Abishua became the father of Bukki. Bukki became the father of Uzzi.
-
-### 6
 Uzzi became the father of Zerahiah. Zerahiah became the father of Meraioth.
 
-### 7
+### 6
 Meraioth became the father of Amariah. Amariah became the father of Ahitub.
 
-### 8
+### 7
 Ahitub became the father of Zadok. Zadok became the father of Ahimaaz.
 
-### 9
+### 8
 Ahimaaz became the father of Azariah. Azariah became the father of Johanan.
 
-### 10
+### 9
 Johanan became the father of Azariah, who executed the priest’s office in the house that Solomon built in Jerusalem.
 
-### 11
+### 10
 Azariah became the father of Amariah. Amariah became the father of Ahitub.
 
-### 12
+### 11
 Ahitub became the father of Zadok. Zadok became the father of Shallum.
 
-### 13
+### 12
 Shallum became the father of Hilkiah. Hilkiah became the father of Azariah.
 
-### 14
+### 13
 Azariah became the father of Seraiah. Seraiah became the father of Jehozadak.
 
-### 15
+### 14
 Jehozadak went into captivity, when Yahweh carried Judah and Jerusalem away by the hand of Nebuchadnezzar.
 
-### 16
+### 15
 The sons of Levi: Gershom, Kohath, and Merari.
 
-### 17
+### 16
 These are the names of the sons of Gershom: Libni and Shimei.
 
-### 18
+### 17
 The sons of Kohath were Amram, Izhar, Hebron, and Uzziel.
 
-### 19
+### 18
 The sons of Merari: Mahli and Mushi. These are the families of the Levites according to their fathers’ households.
 
+### 19
+Of Gershom: Libni his son, Jahath his son, Zimmah his son, Joah his son, Iddo his son, Zerah his son, and Jeatherai his son.
+
 ### 20
-Of Gershom: Libni his son, Jahath his son, Zimmah his son,
+The sons of Kohath: Amminadab his son, Korah his son, Assir his son, Elkanah his son, and Ebiasaph his son, Assir his son,
 
 ### 21
-Joah his son, Iddo his son, Zerah his son, and Jeatherai his son.
-
-### 22
-The sons of Kohath: Amminadab his son, Korah his son, Assir his son,
-
-### 23
-Elkanah his son, and Ebiasaph his son, Assir his son,
-
-### 24
 Tahath his son, Uriel his son, Uzziah his son, and Shaul his son.
 
-### 25
+### 22
 The sons of Elkanah: Amasai and Ahimoth.
 
-### 26
-As for Elkanah, the sons of Elkanah: Zophai his son, Nahath his son,
+### 23
+As for Elkanah, the sons of Elkanah: Zophai his son, Nahath his son, Eliab his son, Jeroham his son, and Elkanah his son.
 
-### 27
-Eliab his son, Jeroham his son, and Elkanah his son.
-
-### 28
+### 24
 The sons of Samuel: the firstborn, Joel, and the second, Abijah.
 
-### 29
-The sons of Merari: Mahli, Libni his son, Shimei his son, Uzzah his son,
+### 25
+The sons of Merari: Mahli, Libni his son, Shimei his son, Uzzah his son, Shimea his son, Haggiah his son, Asaiah his son.
 
-### 30
-Shimea his son, Haggiah his son, Asaiah his son.
-
-### 31
+### 26
 These are they whom David set over the service of song in Yahweh’s house, after the ark came to rest there.
 
-### 32
+### 27
 They ministered with song before the tabernacle of the Tent of Meeting, until Solomon had built Yahweh’s house in Jerusalem. They performed the duties of their office according to their order.
 
+### 28
+These are those who served, and their sons. Of the sons of the Kohathites: Heman the singer, the son of Joel, the son of Samuel, the son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,
+
+### 29
+the son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai, the son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,
+
+### 30
+the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah, the son of Izhar, the son of Kohath, the son of Levi, the son of Israel.
+
+### 31
+His brother Asaph, who stood on his right hand, even Asaph the son of Berechiah, the son of Shimea, the son of Michael, the son of Baaseiah, the son of Malchijah,
+
+### 32
+the son of Ethni, the son of Zerah, the son of Adaiah, the son of Ethan, the son of Zimmah, the son of Shimei,
+
 ### 33
-These are those who served, and their sons. Of the sons of the Kohathites: Heman the singer, the son of Joel, the son of Samuel,
-
-### 34
-the son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,
-
-### 35
-the son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,
-
-### 36
-the son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,
-
-### 37
-the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,
-
-### 38
-the son of Izhar, the son of Kohath, the son of Levi, the son of Israel.
-
-### 39
-His brother Asaph, who stood on his right hand, even Asaph the son of Berechiah, the son of Shimea,
-
-### 40
-the son of Michael, the son of Baaseiah, the son of Malchijah,
-
-### 41
-the son of Ethni, the son of Zerah, the son of Adaiah,
-
-### 42
-the son of Ethan, the son of Zimmah, the son of Shimei,
-
-### 43
 the son of Jahath, the son of Gershom, the son of Levi.
 
-### 44
-On the left hand their brothers the sons of Merari: Ethan the son of Kishi, the son of Abdi, the son of Malluch,
+### 34
+On the left hand their brothers the sons of Merari: Ethan the son of Kishi, the son of Abdi, the son of Malluch, the son of Hashabiah, the son of Amaziah, the son of Hilkiah,
 
-### 45
-the son of Hashabiah, the son of Amaziah, the son of Hilkiah,
+### 35
+the son of Amzi, the son of Bani, the son of Shemer, the son of Mahli, the son of Mushi, the son of Merari, the son of Levi.
 
-### 46
-the son of Amzi, the son of Bani, the son of Shemer,
-
-### 47
-the son of Mahli, the son of Mushi, the son of Merari, the son of Levi.
-
-### 48
+### 36
 Their brothers the Levites were appointed for all the service of the tabernacle of God’s house.
 
-### 49
+### 37
 But Aaron and his sons offered on the altar of burnt offering, and on the altar of incense, for all the work of the most holy place, and to make atonement for Israel, according to all that Moses the servant of God had commanded.
 
-### 50
-These are the sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son,
+### 38
+These are the sons of Aaron: Eleazar his son, Phinehas his son, Abishua his son, Bukki his son, Uzzi his son, Zerahiah his son,
 
-### 51
-Bukki his son, Uzzi his son, Zerahiah his son,
+### 39
+Meraioth his son, Amariah his son, Ahitub his son, Zadok his son, and Ahimaaz his son.
 
-### 52
-Meraioth his son, Amariah his son, Ahitub his son,
+### 40
+Now these are their dwelling places according to their encampments in their borders: to the sons of Aaron, of the families of the Kohathites (for theirs was the first lot), to them they gave Hebron in the land of Judah, and its suburbs around it;
 
-### 53
-Zadok his son, and Ahimaaz his son.
-
-### 54
-Now these are their dwelling places according to their encampments in their borders: to the sons of Aaron, of the families of the Kohathites (for theirs was the first lot),
-
-### 55
-to them they gave Hebron in the land of Judah, and its suburbs around it;
-
-### 56
+### 41
 but the fields of the city, and its villages, they gave to Caleb the son of Jephunneh.
 
-### 57
-To the sons of Aaron they gave the cities of refuge, Hebron; Libnah also with its suburbs, Jattir, Eshtemoa with its suburbs,
+### 42
+To the sons of Aaron they gave the cities of refuge, Hebron; Libnah also with its suburbs, Jattir, Eshtemoa with its suburbs, Hilen with its suburbs, Debir with its suburbs,
 
-### 58
-Hilen with its suburbs, Debir with its suburbs,
+### 43
+Ashan with its suburbs, and Beth Shemesh with its suburbs; and out of the tribe of Benjamin, Geba with its suburbs, Allemeth with its suburbs, and Anathoth with its suburbs. All their cities throughout their families were thirteen cities.
 
-### 59
-Ashan with its suburbs, and Beth Shemesh with its suburbs;
-
-### 60
-and out of the tribe of Benjamin, Geba with its suburbs, Allemeth with its suburbs, and Anathoth with its suburbs. All their cities throughout their families were thirteen cities.
-
-### 61
+### 44
 To the rest of the sons of Kohath were given by lot, out of the family of the tribe, out of the half-tribe, the half of Manasseh, ten cities.
 
-### 62
+### 45
 To the sons of Gershom, according to their families, out of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the tribe of Manasseh in Bashan, thirteen cities.
 
-### 63
+### 46
 To the sons of Merari were given by lot, according to their families, out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.
 
-### 64
+### 47
 The children of Israel gave to the Levites the cities with their suburbs.
 
-### 65
+### 48
 They gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities which are mentioned by name.
 
-### 66
+### 49
 Some of the families of the sons of Kohath had cities of their borders out of the tribe of Ephraim.
 
-### 67
-They gave to them the cities of refuge, Shechem in the hill country of Ephraim with its suburbs; Gezer also with its suburbs,
+### 50
+They gave to them the cities of refuge, Shechem in the hill country of Ephraim with its suburbs; Gezer also with its suburbs, Jokmeam with its suburbs, Beth Horon with its suburbs,
 
-### 68
-Jokmeam with its suburbs, Beth Horon with its suburbs,
+### 51
+Aijalon with its suburbs, Gath Rimmon with its suburbs; and out of the half-tribe of Manasseh, Aner with its suburbs, and Bileam with its suburbs, for the rest of the family of the sons of Kohath.
 
-### 69
-Aijalon with its suburbs, Gath Rimmon with its suburbs;
+### 52
+To the sons of Gershom were given, out of the family of the half-tribe of Manasseh, Golan in Bashan with its suburbs, and Ashtaroth with its suburbs; and out of the tribe of Issachar, Kedesh with its suburbs, Daberath with its suburbs,
 
-### 70
-and out of the half-tribe of Manasseh, Aner with its suburbs, and Bileam with its suburbs, for the rest of the family of the sons of Kohath.
+### 53
+Ramoth with its suburbs, and Anem with its suburbs; and out of the tribe of Asher, Mashal with its suburbs, Abdon with its suburbs,
 
-### 71
-To the sons of Gershom were given, out of the family of the half-tribe of Manasseh, Golan in Bashan with its suburbs, and Ashtaroth with its suburbs;
+### 54
+Hukok with its suburbs, and Rehob with its suburbs; and out of the tribe of Naphtali, Kedesh in Galilee with its suburbs, Hammon with its suburbs, and Kiriathaim with its suburbs.
 
-### 72
-and out of the tribe of Issachar, Kedesh with its suburbs, Daberath with its suburbs,
+### 55
+To the rest of the Levites, the sons of Merari, were given, out of the tribe of Zebulun, Rimmono with its suburbs, Tabor with its suburbs; and beyond the Jordan at Jericho, on the east side of the Jordan, were given them, out of the tribe of Reuben, Bezer in the wilderness with its suburbs, and Jahzah with its suburbs,
 
-### 73
-Ramoth with its suburbs, and Anem with its suburbs;
+### 56
+Kedemoth with its suburbs, and Mephaath with its suburbs; and out of the tribe of Gad, Ramoth in Gilead with its suburbs, Mahanaim with its suburbs,
 
-### 74
-and out of the tribe of Asher, Mashal with its suburbs, Abdon with its suburbs,
-
-### 75
-Hukok with its suburbs, and Rehob with its suburbs;
-
-### 76
-and out of the tribe of Naphtali, Kedesh in Galilee with its suburbs, Hammon with its suburbs, and Kiriathaim with its suburbs.
-
-### 77
-To the rest of the Levites, the sons of Merari, were given, out of the tribe of Zebulun, Rimmono with its suburbs, Tabor with its suburbs;
-
-### 78
-and beyond the Jordan at Jericho, on the east side of the Jordan, were given them, out of the tribe of Reuben, Bezer in the wilderness with its suburbs, and Jahzah with its suburbs,
-
-### 79
-Kedemoth with its suburbs, and Mephaath with its suburbs;
-
-### 80
-and out of the tribe of Gad, Ramoth in Gilead with its suburbs, Mahanaim with its suburbs,
-
-### 81
+### 57
 Heshbon with its suburbs, and Jazer with its suburbs.

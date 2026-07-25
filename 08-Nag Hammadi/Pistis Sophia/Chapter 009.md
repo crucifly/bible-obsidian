@@ -12,9 +12,4 @@ translation: G.R.S. Mead
 **Chapter 9**
 
 ### 1
-Pistis Sophia
-
-### 2
-Next
-
-**CHAPTER 9**
+Pistis Sophia Next **CHAPTER 9**

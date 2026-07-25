@@ -27,157 +27,145 @@ But I will warn you whom you should fear. Fear him, who after he has killed, has
 But the very hairs of your head are all counted. Therefore don’t be afraid. You are of more value than many sparrows.
 
 ### 8
-“I tell you, everyone who confesses me before men, him will the Son of Man also confess before the angels of God;
+“I tell you, everyone who confesses me before men, him will the Son of Man also confess before the angels of God; but he who denies me in the presence of men will be denied in the presence of the angels of God.
 
 ### 9
-but he who denies me in the presence of men will be denied in the presence of the angels of God.
-
-### 10
 Everyone who speaks a word against the Son of Man will be forgiven, but those who blaspheme against the Holy Spirit will not be forgiven.
 
+### 10
+When they bring you before the synagogues, the rulers, and the authorities, don’t be anxious how or what you will answer, or what you will say; for the Holy Spirit will teach you in that same hour what you must say.”
+
 ### 11
-When they bring you before the synagogues, the rulers, and the authorities, don’t be anxious how or what you will answer, or what you will say;
-
-### 12
-for the Holy Spirit will teach you in that same hour what you must say.”
-
-### 13
 One of the multitude said to him, “Teacher, tell my brother to divide the inheritance with me.”
 
-### 14
+### 12
 But he said to him, “Man, who made me a judge or an arbitrator over you?”
 
-### 15
+### 13
 He said to them, “Beware! Keep yourselves from covetousness, for a man’s life doesn’t consist of the abundance of the things which he possesses.”
 
-### 16
+### 14
 He spoke a parable to them, saying, “The ground of a certain rich man produced abundantly.
 
-### 17
+### 15
 He reasoned within himself, saying, ‘What will I do, because I don’t have room to store my crops?’
 
-### 18
+### 16
 He said, ‘This is what I will do. I will pull down my barns, and build bigger ones, and there I will store all my grain and my goods.
 
-### 19
+### 17
 I will tell my soul, “Soul, you have many goods laid up for many years. Take your ease, eat, drink, be merry.”’
 
-### 20
+### 18
 “But God said to him, ‘You foolish one, tonight your soul is required of you. The things which you have prepared—whose will they be?’
 
-### 21
+### 19
 So is he who lays up treasure for himself, and is not rich toward God.”
 
-### 22
+### 20
 He said to his disciples, “Therefore I tell you, don’t be anxious for your life, what you will eat, nor yet for your body, what you will wear.
 
-### 23
+### 21
 Life is more than food, and the body is more than clothing.
 
-### 24
+### 22
 Consider the ravens: they don’t sow, they don’t reap, they have no warehouse or barn, and God feeds them. How much more valuable are you than birds!
 
-### 25
+### 23
 Which of you by being anxious can add a cubit to his height?
 
-### 26
+### 24
 If then you aren’t able to do even the least things, why are you anxious about the rest?
 
-### 27
+### 25
 Consider the lilies, how they grow. They don’t toil, neither do they spin; yet I tell you, even Solomon in all his glory was not arrayed like one of these.
 
-### 28
+### 26
 But if this is how God clothes the grass in the field, which today exists, and tomorrow is cast into the oven, how much more will he clothe you, O you of little faith?
 
-### 29
+### 27
 Don’t seek what you will eat or what you will drink; neither be anxious.
 
-### 30
+### 28
 For the nations of the world seek after all of these things, but your Father knows that you need these things.
 
-### 31
+### 29
 But seek God’s Kingdom, and all these things will be added to you.
 
-### 32
+### 30
 Don’t be afraid, little flock, for it is your Father’s good pleasure to give you the Kingdom.
 
-### 33
+### 31
 Sell that which you have, and give gifts to the needy. Make for yourselves purses which don’t grow old, a treasure in the heavens that doesn’t fail, where no thief approaches, neither moth destroys.
 
-### 34
+### 32
 For where your treasure is, there will your heart be also.
 
-### 35
+### 33
 “Let your waist be dressed and your lamps burning.
 
-### 36
+### 34
 Be like men watching for their lord, when he returns from the marriage feast; that, when he comes and knocks, they may immediately open to him.
 
-### 37
+### 35
 Blessed are those servants, whom the lord will find watching when he comes. Most certainly I tell you, that he will dress himself, and make them recline, and will come and serve them.
 
-### 38
+### 36
 They will be blessed if he comes in the second or third watch, and finds them so.
 
-### 39
+### 37
 But know this, that if the master of the house had known in what hour the thief was coming, he would have watched, and not allowed his house to be broken into.
 
-### 40
+### 38
 Therefore be ready also, for the Son of Man is coming in an hour that you don’t expect him.”
 
-### 41
+### 39
 Peter said to him, “Lord, are you telling this parable to us, or to everybody?”
 
-### 42
+### 40
 The Lord said, “Who then is the faithful and wise steward, whom his lord will set over his household, to give them their portion of food at the right times?
 
-### 43
+### 41
 Blessed is that servant whom his lord will find doing so when he comes.
 
-### 44
+### 42
 Truly I tell you, that he will set him over all that he has.
 
+### 43
+But if that servant says in his heart, ‘My lord delays his coming,’ and begins to beat the menservants and the maidservants, and to eat and drink, and to be drunken, then the lord of that servant will come in a day when he isn’t expecting him, and in an hour that he doesn’t know, and will cut him in two, and place his portion with the unfaithful.
+
+### 44
+That servant, who knew his lord’s will, and didn’t prepare, nor do what he wanted, will be beaten with many stripes, but he who didn’t know, and did things worthy of stripes, will be beaten with few stripes. To whomever much is given, of him will much be required; and to whom much was entrusted, of him more will be asked.
+
 ### 45
-But if that servant says in his heart, ‘My lord delays his coming,’ and begins to beat the menservants and the maidservants, and to eat and drink, and to be drunken,
-
-### 46
-then the lord of that servant will come in a day when he isn’t expecting him, and in an hour that he doesn’t know, and will cut him in two, and place his portion with the unfaithful.
-
-### 47
-That servant, who knew his lord’s will, and didn’t prepare, nor do what he wanted, will be beaten with many stripes,
-
-### 48
-but he who didn’t know, and did things worthy of stripes, will be beaten with few stripes. To whomever much is given, of him will much be required; and to whom much was entrusted, of him more will be asked.
-
-### 49
 “I came to throw fire on the earth. I wish it were already kindled.
 
-### 50
+### 46
 But I have a baptism to be baptized with, and how distressed I am until it is accomplished!
 
-### 51
+### 47
 Do you think that I have come to give peace in the earth? I tell you, no, but rather division.
 
-### 52
+### 48
 For from now on, there will be five in one house divided, three against two, and two against three.
 
-### 53
+### 49
 They will be divided, father against son, and son against father; mother against daughter, and daughter against her mother; mother-in-law against her daughter-in-law, and daughter-in-law against her mother-in-law.”
 
-### 54
+### 50
 He said to the multitudes also, “When you see a cloud rising from the west, immediately you say, ‘A shower is coming,’ and so it happens.
 
-### 55
+### 51
 When a south wind blows, you say, ‘There will be a scorching heat,’ and it happens.
 
-### 56
+### 52
 You hypocrites! You know how to interpret the appearance of the earth and the sky, but how is it that you don’t interpret this time?
 
-### 57
+### 53
 Why don’t you judge for yourselves what is right?
 
-### 58
+### 54
 For when you are going with your adversary before the magistrate, try diligently on the way to be released from him, lest perhaps he drag you to the judge, and the judge deliver you to the officer, and the officer throw you into prison.
 
-### 59
+### 55
 I tell you, you will by no means get out of there, until you have paid the very last penny.”

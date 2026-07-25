@@ -60,40 +60,34 @@ Learn to do well. Seek justice. Relieve the oppressed. Judge the fatherless. Ple
 “Come now, and let us reason together,” says Yahweh: “Though your sins be as scarlet, they shall be as white as snow. Though they be red like crimson, they shall be as wool.
 
 ### 19
-If you are willing and obedient, you shall eat the good of the land;
+If you are willing and obedient, you shall eat the good of the land; but if you refuse and rebel, you shall be devoured with the sword; for the mouth of Yahweh has spoken it.”
 
 ### 20
-but if you refuse and rebel, you shall be devoured with the sword; for the mouth of Yahweh has spoken it.”
-
-### 21
 How the faithful city has become a prostitute! She was full of justice; righteousness lodged in her, but now murderers.
 
-### 22
+### 21
 Your silver has become dross, your wine mixed with water.
 
-### 23
+### 22
 Your princes are rebellious, and companions of thieves. Everyone loves bribes, and follows after rewards. They don’t judge the fatherless, neither does the cause of the widow come to them.
 
+### 23
+Therefore the Lord, Yahweh of Armies, the Mighty One of Israel, says: “Ah, I will get relief from my adversaries, and avenge myself on my enemies; and I will turn my hand on you, thoroughly purge away your dross, and will take away all your tin.
+
 ### 24
-Therefore the Lord, Yahweh of Armies, the Mighty One of Israel, says: “Ah, I will get relief from my adversaries, and avenge myself on my enemies;
-
-### 25
-and I will turn my hand on you, thoroughly purge away your dross, and will take away all your tin.
-
-### 26
 I will restore your judges as at the first, and your counselors as at the beginning. Afterward you shall be called ‘The city of righteousness, a faithful town.’
 
-### 27
+### 25
 Zion shall be redeemed with justice, and her converts with righteousness.
 
-### 28
+### 26
 But the destruction of transgressors and sinners shall be together, and those who forsake Yahweh shall be consumed.
 
-### 29
+### 27
 For they shall be ashamed of the oaks which you have desired, and you shall be confounded for the gardens that you have chosen.
 
-### 30
+### 28
 For you shall be as an oak whose leaf fades, and as a garden that has no water.
 
-### 31
+### 29
 The strong will be like tinder, and his work like a spark. They will both burn together, and no one will quench them.”

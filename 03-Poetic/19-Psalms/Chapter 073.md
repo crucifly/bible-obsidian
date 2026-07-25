@@ -42,49 +42,43 @@ They say, “How does God know? Is there knowledge in the Most High?”
 Behold, these are the wicked. Being always at ease, they increase in riches.
 
 ### 13
-Surely I have cleansed my heart in vain, and washed my hands in innocence,
+Surely I have cleansed my heart in vain, and washed my hands in innocence, For all day long I have been plagued, and punished every morning.
 
 ### 14
-For all day long I have been plagued, and punished every morning.
-
-### 15
 If I had said, “I will speak thus”; behold, I would have betrayed the generation of your children.
 
+### 15
+When I tried to understand this, it was too painful for me; Until I entered God’s sanctuary, and considered their latter end.
+
 ### 16
-When I tried to understand this, it was too painful for me;
-
-### 17
-Until I entered God’s sanctuary, and considered their latter end.
-
-### 18
 Surely you set them in slippery places. You throw them down to destruction.
 
-### 19
+### 17
 How they are suddenly destroyed! They are completely swept away with terrors.
 
-### 20
+### 18
 As a dream when one wakes up, so, Lord, when you awake, you will despise their fantasies.
 
-### 21
+### 19
 For my soul was grieved. I was embittered in my heart.
 
-### 22
+### 20
 I was so senseless and ignorant. I was a brute beast before you.
 
-### 23
+### 21
 Nevertheless, I am continually with you. You have held my right hand.
 
-### 24
+### 22
 You will guide me with your counsel, and afterward receive me to glory.
 
-### 25
+### 23
 Whom do I have in heaven? There is no one on earth whom I desire besides you.
 
-### 26
+### 24
 My flesh and my heart fails, but God is the strength of my heart and my portion forever.
 
-### 27
+### 25
 For, behold, those who are far from you shall perish. You have destroyed all those who are unfaithful to you.
 
-### 28
+### 26
 But it is good for me to come close to God. I have made the Lord Yahweh my refuge, that I may tell of all your works.

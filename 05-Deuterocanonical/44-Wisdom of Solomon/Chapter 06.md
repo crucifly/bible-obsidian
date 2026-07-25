@@ -6,76 +6,40 @@ canon: "Deuterocanonical"
 # Wisdom of Solomon 6
 
 ### 1
-Hear therefore, O ye kings, and understand; learn, ye that be
+Hear therefore, O ye kings, and understand; learn, ye that be Give ear, ye that rule the people, and glory in the multitude of
 
 ### 2
-Give ear, ye that rule the people, and glory in the multitude of
+For power is given you of the Lord, and sovereignty from the Because, being ministers of his kingdom, ye have not judged aright,
 
 ### 3
-For power is given you of the Lord, and sovereignty from the
+Horribly and speedily shall he come upon you: for a sharp judgment For mercy will soon pardon the meanest: but mighty men shall be
 
 ### 4
-Because, being ministers of his kingdom, ye have not judged aright,
+For he which is Lord over all shall fear no man’s person, neither But a sore trial shall come upon the mighty.
 
 ### 5
-Horribly and speedily shall he come upon you: for a sharp judgment
+Unto you therefore, O kings, do I speak, that ye may learn wisdom, For they that keep holiness holily shall be judged holy: and they
 
 ### 6
-For mercy will soon pardon the meanest: but mighty men shall be
+Wherefore set your affection upon my words; desire them, and ye Wisdom is glorious, and never fadeth away: yea, she is easily seen
 
 ### 7
-For he which is Lord over all shall fear no man’s person, neither
+She preventeth them that desire her, in making herself first known Whoso seeketh her early shall have no great travail: for he shall
 
 ### 8
-But a sore trial shall come upon the mighty.
+To think therefore upon her is perfection of wisdom: and whoso For she goeth about seeking such as are worthy of her, sheweth
 
 ### 9
-Unto you therefore, O kings, do I speak, that ye may learn wisdom,
+For the very true beginning of her is the desire of discipline; And love is the keeping of her laws; and the giving heed unto her
 
 ### 10
-For they that keep holiness holily shall be judged holy: and they
+And incorruption maketh us near unto God: Therefore the desire of wisdom bringeth to a kingdom.
 
 ### 11
-Wherefore set your affection upon my words; desire them, and ye
+If your delight be then in thrones and sceptres, O ye kings of the As for wisdom, what she is, and how she came up, I will tell you,
 
 ### 12
-Wisdom is glorious, and never fadeth away: yea, she is easily seen
+Neither will I go with consuming envy; for such a man shall have But the multitude of the wise is the welfare of the world: and a
 
 ### 13
-She preventeth them that desire her, in making herself first known
-
-### 14
-Whoso seeketh her early shall have no great travail: for he shall
-
-### 15
-To think therefore upon her is perfection of wisdom: and whoso
-
-### 16
-For she goeth about seeking such as are worthy of her, sheweth
-
-### 17
-For the very true beginning of her is the desire of discipline;
-
-### 18
-And love is the keeping of her laws; and the giving heed unto her
-
-### 19
-And incorruption maketh us near unto God:
-
-### 20
-Therefore the desire of wisdom bringeth to a kingdom.
-
-### 21
-If your delight be then in thrones and sceptres, O ye kings of the
-
-### 22
-As for wisdom, what she is, and how she came up, I will tell you,
-
-### 23
-Neither will I go with consuming envy; for such a man shall have
-
-### 24
-But the multitude of the wise is the welfare of the world: and a
-
-### 25
 Receive therefore instruction through my words, and it shall do

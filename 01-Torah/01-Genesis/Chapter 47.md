@@ -90,10 +90,7 @@ Israel lived in the land of Egypt, in the land of Goshen; and they got themselve
 Jacob lived in the land of Egypt seventeen years. So the days of Jacob, the years of his life, were one hundred forty-seven years.
 
 ### 29
-The time came near that Israel must die, and he called his son Joseph, and said to him, “If now I have found favor in your sight, please put your hand under my thigh, and deal kindly and truly with me. Please don’t bury me in Egypt,
+The time came near that Israel must die, and he called his son Joseph, and said to him, “If now I have found favor in your sight, please put your hand under my thigh, and deal kindly and truly with me. Please don’t bury me in Egypt, but when I sleep with my fathers, you shall carry me out of Egypt, and bury me in their burying place.” He said, “I will do as you have said.”
 
 ### 30
-but when I sleep with my fathers, you shall carry me out of Egypt, and bury me in their burying place.” He said, “I will do as you have said.”
-
-### 31
 He said, “Swear to me,” and he swore to him. Israel bowed himself on the bed’s head.

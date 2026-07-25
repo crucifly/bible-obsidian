@@ -96,31 +96,25 @@ It will happen that, like as I have watched over them to pluck up and to break d
 But everyone will die for his own iniquity. Every man who eats the sour grapes, his teeth will be set on edge.
 
 ### 31
-“Behold, the days come,” says Yahweh, “that I will make a new covenant with the house of Israel, and with the house of Judah:
+“Behold, the days come,” says Yahweh, “that I will make a new covenant with the house of Israel, and with the house of Judah: not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which covenant of mine they broke, although I was a husband to them,” says Yahweh.
 
 ### 32
-not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which covenant of mine they broke, although I was a husband to them,” says Yahweh.
-
-### 33
 “But this is the covenant that I will make with the house of Israel after those days,” says Yahweh: I will put my law in their inward parts, and I will write it in their heart. I will be their God, and they shall be my people.
 
-### 34
+### 33
 They will no longer each teach his neighbor, and every man teach his brother, saying, ‘Know Yahweh;’ for they will all know me, from their least to their greatest,” says Yahweh: “for I will forgive their iniquity, and I will remember their sin no more.”
 
+### 34
+Yahweh, who gives the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, who stirs up the sea, so that its waves roar; Yahweh of Armies is his name, says: “If these ordinances depart from before me,” says Yahweh, “then the offspring of Israel also will cease from being a nation before me forever.”
+
 ### 35
-Yahweh, who gives the sun for a light by day, and the ordinances of the moon and of the stars for a light by night, who stirs up the sea, so that its waves roar; Yahweh of Armies is his name, says:
-
-### 36
-“If these ordinances depart from before me,” says Yahweh, “then the offspring of Israel also will cease from being a nation before me forever.”
-
-### 37
 Yahweh says: “If heaven above can be measured, and the foundations of the earth searched out beneath, then I will also cast off all the offspring of Israel for all that they have done,” says Yahweh.
 
-### 38
+### 36
 “Behold, the days come,” says Yahweh, “that the city will be built to Yahweh from the tower of Hananel to the gate of the corner.
 
-### 39
+### 37
 The measuring line will go out further straight onward to the hill Gareb, and will turn toward Goah.
 
-### 40
+### 38
 The whole valley of the dead bodies and of the ashes, and all the fields to the brook Kidron, to the corner of the horse gate toward the east, will be holy to Yahweh. It will not be plucked up or thrown down any more forever.”

@@ -18,37 +18,31 @@ For he will deliver you from the snare of the fowler, and from the deadly pestil
 He will cover you with his feathers. Under his wings you will take refuge. His faithfulness is your shield and rampart.
 
 ### 5
-You shall not be afraid of the terror by night, nor of the arrow that flies by day;
+You shall not be afraid of the terror by night, nor of the arrow that flies by day; nor of the pestilence that walks in darkness, nor of the destruction that wastes at noonday.
 
 ### 6
-nor of the pestilence that walks in darkness, nor of the destruction that wastes at noonday.
-
-### 7
 A thousand may fall at your side, and ten thousand at your right hand; but it will not come near you.
 
-### 8
+### 7
 You will only look with your eyes, and see the recompense of the wicked.
 
+### 8
+Because you have made Yahweh your refuge, and the Most High your dwelling place, no evil shall happen to you, neither shall any plague come near your dwelling.
+
 ### 9
-Because you have made Yahweh your refuge, and the Most High your dwelling place,
-
-### 10
-no evil shall happen to you, neither shall any plague come near your dwelling.
-
-### 11
 For he will put his angels in charge of you, to guard you in all your ways.
 
-### 12
+### 10
 They will bear you up in their hands, so that you won’t dash your foot against a stone.
 
-### 13
+### 11
 You will tread on the lion and cobra. You will trample the young lion and the serpent underfoot.
 
-### 14
+### 12
 “Because he has set his love on me, therefore I will deliver him. I will set him on high, because he has known my name.
 
-### 15
+### 13
 He will call on me, and I will answer him. I will be with him in trouble. I will deliver him, and honor him.
 
-### 16
+### 14
 I will satisfy him with long life, and show him my salvation.”

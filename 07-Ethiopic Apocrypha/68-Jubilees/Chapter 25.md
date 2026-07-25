@@ -45,100 +45,55 @@ And she said: 'Blessed be the Lord God, and may His holy name be blessed for eve
 Bless him, O Lord, and place in my mouth the blessing of righteousness, that I may bless him.'
 
 ### 14
-And at that hour, when the spirit of righteousness descended into her mouth, she placed both her hands on the head of Jacob, and said:
+And at that hour, when the spirit of righteousness descended into her mouth, she placed both her hands on the head of Jacob, and said: Blessed art thou, Lord of righteousness and God of the ages
 
 ### 15
-Blessed art thou, Lord of righteousness and God of the ages
-
-### 16
 And may He bless thee beyond all the generations of men.
 
+### 16
+May He give thee, my Son, the path of righteousness, And reveal righteousness to thy seed.
+
 ### 17
-May He give thee, my Son, the path of righteousness,
+And may He make thy sons many during thy life, And may they arise according to the number of the months of the year.
 
 ### 18
-And reveal righteousness to thy seed.
+And may their sons become many and great beyond the stars of heaven, And their numbers be more than the sand of the sea.
 
 ### 19
-And may He make thy sons many during thy life,
+And may He give them this goodly land -as He said He would give it to Abraham and to his seed after him alway- And may they hold it as a possession for ever.
 
 ### 20
-And may they arise according to the number of the months of the year.
+And may I see (born) unto thee, my son, blessed children during my life, And a blessed and holy seed may all thy seed be.
 
 ### 21
-And may their sons become many and great beyond the stars of heaven,
+And as thou hast refreshed thy mother's spirit during her life, The womb of her that bare thee blesses thee thus,
 
 ### 22
-And their numbers be more than the sand of the sea.
+[My affection] and my breasts bless thee And my mouth and my tongue praise thee greatly.
 
 ### 23
-And may He give them this goodly land -as He said He would give it to Abraham and to his seed after him alway-
+Increase and spread over the earth, And may thy seed be perfect in the joy of heaven and earth for ever;
 
 ### 24
-And may they hold it as a possession for ever.
+And may thy seed rejoice, And on the great day of peace may it have peace.
 
 ### 25
-And may I see (born) unto thee, my son, blessed children during my life,
+And may thy name and thy seed endure to all the ages, And may the Most High God be their God,
 
 ### 26
-And a blessed and holy seed may all thy seed be.
+And may the God of righteousness dwell with them, And by them may His sanctuary be built unto all the ages.
 
 ### 27
-And as thou hast refreshed thy mother's spirit during her life,
+Blessed be he that blesseth thee, And all flesh that curseth thee falsely, may it be cursed.'
 
 ### 28
-The womb of her that bare thee blesses thee thus,
+And she kissed him, and said to him; 'May the Lord of the world love thee
 
 ### 29
-[My affection] and my breasts bless thee
-
-### 30
-And my mouth and my tongue praise thee greatly.
-
-### 31
-Increase and spread over the earth,
-
-### 32
-And may thy seed be perfect in the joy of heaven and earth for ever;
-
-### 33
-And may thy seed rejoice,
-
-### 34
-And on the great day of peace may it have peace.
-
-### 35
-And may thy name and thy seed endure to all the ages,
-
-### 36
-And may the Most High God be their God,
-
-### 37
-And may the God of righteousness dwell with them,
-
-### 38
-And by them may His sanctuary be built unto all the ages.
-
-### 39
-Blessed be he that blesseth thee,
-
-### 40
-And all flesh that curseth thee falsely, may it be cursed.'
-
-### 41
-And she kissed him, and said to him;
-
-### 42
-'May the Lord of the world love thee
-
-### 43
 As the heart of thy mother and her affection rejoice in thee and bless thee.'
 
-### 44
+### 30
 And she ceased from blessing.
 
-### 45
-The Book of Jubilees
-
-### 46
-Isaac scuds Esau for venison, 1-4. Rebecca instructs Jacob to obtain the blessing, 5-9. Jacob under the person of Esau obtains it, 10-24. Esau brings in his venison and by his importunity obtains a blessing, 25-34. Threatens Jacob, 35. (Cf. Gen.xxvii.)
+### 31
+The Book of Jubilees Isaac scuds Esau for venison, 1-4. Rebecca instructs Jacob to obtain the blessing, 5-9. Jacob under the person of Esau obtains it, 10-24. Esau brings in his venison and by his importunity obtains a blessing, 25-34. Threatens Jacob, 35. (Cf. Gen.xxvii.)

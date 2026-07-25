@@ -30,19 +30,13 @@ Isn’t it to distribute your bread to the hungry, and that you bring the poor w
 Then your light will break out as the morning, and your healing will appear quickly; then your righteousness shall go before you; and Yahweh’s glory will be your rear guard.
 
 ### 9
-Then you will call, and Yahweh will answer; you will cry for help, and he will say, ‘Here I am.’ “If you take away from among you the yoke, finger pointing, and speaking wickedly;
+Then you will call, and Yahweh will answer; you will cry for help, and he will say, ‘Here I am.’ “If you take away from among you the yoke, finger pointing, and speaking wickedly; and if you pour out your soul to the hungry, and satisfy the afflicted soul: then your light will rise in darkness, and your obscurity will be as the noonday;
 
 ### 10
-and if you pour out your soul to the hungry, and satisfy the afflicted soul: then your light will rise in darkness, and your obscurity will be as the noonday;
-
-### 11
 and Yahweh will guide you continually, and satisfy your soul in dry places, and make your bones strong; and you shall be like a watered garden, and like a spring of water, whose waters don’t fail.
 
-### 12
+### 11
 Those who shall be of you shall build the old waste places; you shall raise up the foundations of many generations; and you shall be called Repairer of the Breach, Restorer of Paths with Dwellings.
 
-### 13
-“If you turn away your foot from the Sabbath, from doing your pleasure on my holy day; and call the Sabbath a delight, and the holy of Yahweh honorable; and shall honor it, not doing your own ways, nor finding your own pleasure, nor speaking your own words:
-
-### 14
-then you shall delight yourself in Yahweh; and I will make you to ride on the high places of the earth; and I will feed you with the heritage of Jacob your father:” for Yahweh’s mouth has spoken it.
+### 12
+“If you turn away your foot from the Sabbath, from doing your pleasure on my holy day; and call the Sabbath a delight, and the holy of Yahweh honorable; and shall honor it, not doing your own ways, nor finding your own pleasure, nor speaking your own words: then you shall delight yourself in Yahweh; and I will make you to ride on the high places of the earth; and I will feed you with the heritage of Jacob your father:” for Yahweh’s mouth has spoken it.

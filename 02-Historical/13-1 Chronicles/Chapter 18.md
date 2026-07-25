@@ -30,28 +30,22 @@ David took the shields of gold that were on the servants of Hadadezer, and broug
 From Tibhath and from Cun, cities of Hadadezer, David took very much brass, with which Solomon made the bronze sea, the pillars, and the vessels of brass.
 
 ### 9
-When Tou king of Hamath heard that David had struck all the army of Hadadezer king of Zobah,
+When Tou king of Hamath heard that David had struck all the army of Hadadezer king of Zobah, he sent Hadoram his son to king David, to Greet him, and to bless him, because he had fought against Hadadezer and struck him (for Hadadezer had wars with Tou); and he had with him all kinds of vessels of gold and silver and brass.
 
 ### 10
-he sent Hadoram his son to king David, to Greet him, and to bless him, because he had fought against Hadadezer and struck him (for Hadadezer had wars with Tou); and he had with him all kinds of vessels of gold and silver and brass.
-
-### 11
 King David also dedicated these to Yahweh, with the silver and the gold that he carried away from all the nations; from Edom, from Moab, from the children of Ammon, from the Philistines, and from Amalek.
 
-### 12
+### 11
 Moreover Abishai the son of Zeruiah struck eighteen thousand of the Edomites in the Valley of Salt.
 
-### 13
+### 12
 He put garrisons in Edom; and all the Edomites became servants to David. Yahweh gave victory to David wherever he went.
 
-### 14
+### 13
 David reigned over all Israel; and he executed justice and righteousness for all his people.
 
+### 14
+Joab the son of Zeruiah was over the army; Jehoshaphat the son of Ahilud was recorder; Zadok the son of Ahitub, and Abimelech the son of Abiathar, were priests; Shavsha was scribe;
+
 ### 15
-Joab the son of Zeruiah was over the army; Jehoshaphat the son of Ahilud was recorder;
-
-### 16
-Zadok the son of Ahitub, and Abimelech the son of Abiathar, were priests; Shavsha was scribe;
-
-### 17
 and Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief officials serving the king.

@@ -30,94 +30,85 @@ For unclean spirits came out of many of those who had them. They came out, cryin
 There was great joy in that city.
 
 ### 9
-But there was a certain man, Simon by name, who used to practice sorcery in the city, and amazed the people of Samaria, making himself out to be some great one,
+But there was a certain man, Simon by name, who used to practice sorcery in the city, and amazed the people of Samaria, making himself out to be some great one, to whom they all listened, from the least to the greatest, saying, “This man is that great power of God.”
 
 ### 10
-to whom they all listened, from the least to the greatest, saying, “This man is that great power of God.”
-
-### 11
 They listened to him, because for a long time he had amazed them with his sorceries.
 
-### 12
+### 11
 But when they believed Philip preaching good news concerning God’s Kingdom and the name of Jesus Christ, they were baptized, both men and women.
 
-### 13
+### 12
 Simon himself also believed. Being baptized, he continued with Philip. Seeing signs and great miracles occurring, he was amazed.
 
+### 13
+Now when the apostles who were at Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them, who, when they had come down, prayed for them, that they might receive the Holy Spirit;
+
 ### 14
-Now when the apostles who were at Jerusalem heard that Samaria had received the word of God, they sent Peter and John to them,
-
-### 15
-who, when they had come down, prayed for them, that they might receive the Holy Spirit;
-
-### 16
 for as yet he had fallen on none of them. They had only been baptized in the name of Christ Jesus.
 
-### 17
+### 15
 Then they laid their hands on them, and they received the Holy Spirit.
 
-### 18
-Now when Simon saw that the Holy Spirit was given through the laying on of the apostles’ hands, he offered them money,
+### 16
+Now when Simon saw that the Holy Spirit was given through the laying on of the apostles’ hands, he offered them money, saying, “Give me also this power, that whomever I lay my hands on may receive the Holy Spirit.”
 
-### 19
-saying, “Give me also this power, that whomever I lay my hands on may receive the Holy Spirit.”
-
-### 20
+### 17
 But Peter said to him, “May your silver perish with you, because you thought you could obtain the gift of God with money!
 
-### 21
+### 18
 You have neither part nor lot in this matter, for your heart isn’t right before God.
 
-### 22
+### 19
 Repent therefore of this, your wickedness, and ask God if perhaps the thought of your heart may be forgiven you.
 
-### 23
+### 20
 For I see that you are in the poison of bitterness and in the bondage of iniquity.”
 
-### 24
+### 21
 Simon answered, “Pray for me to the Lord, that none of the things which you have spoken happen to me.”
 
-### 25
+### 22
 They therefore, when they had testified and spoken the word of the Lord, returned to Jerusalem, and preached the Good News to many villages of the Samaritans.
 
-### 26
+### 23
 But an angel of the Lord spoke to Philip, saying, “Arise, and go toward the south to the way that goes down from Jerusalem to Gaza. This is a desert.”
 
-### 27
+### 24
 He arose and went; and behold, there was a man of Ethiopia, a eunuch of great authority under Candace, queen of the Ethiopians, who was over all her treasure, who had come to Jerusalem to worship.
 
-### 28
+### 25
 He was returning and sitting in his chariot, and was reading the prophet Isaiah.
 
-### 29
+### 26
 The Spirit said to Philip, “Go near, and join yourself to this chariot.”
 
-### 30
+### 27
 Philip ran to him, and heard him reading Isaiah the prophet, and said, “Do you understand what you are reading?”
 
-### 31
+### 28
 He said, “How can I, unless someone explains it to me?” He begged Philip to come up and sit with him.
 
-### 32
+### 29
 Now the passage of the Scripture which he was reading was this, “He was led as a sheep to the slaughter. As a lamb before his shearer is silent, so he doesn’t open his mouth.
 
-### 33
+### 30
 In his humiliation, his judgment was taken away. Who will declare His generation? For his life is taken from the earth.”
 
-### 34
+### 31
 The eunuch answered Philip, “Who is the prophet talking about? About himself, or about someone else?”
 
-### 35
+### 32
 Philip opened his mouth, and beginning from this Scripture, preached to him about Jesus.
 
-### 36
+### 33
 As they went on the way, they came to some water, and the eunuch said, “Behold, here is water. What is keeping me from being baptized?”
 
-### 37
+### 34
 He commanded the chariot to stand still, and they both went down into the water, both Philip and the eunuch, and he baptized him.
 
-### 38
+### 35
 When they came up out of the water, the Spirit of the Lord caught Philip away, and the eunuch didn’t see him any more, for he went on his way rejoicing.
 
-### 39
+### 36
 But Philip was found at Azotus. Passing through, he preached the Good News to all the cities, until he came to Caesarea.

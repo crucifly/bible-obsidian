@@ -57,82 +57,64 @@ They brought it. He said to them, “Whose is this image and inscription?” The
 Jesus answered them, “Render to Caesar the things that are Caesar’s, and to God the things that are God’s.” They marveled greatly at him.
 
 ### 18
-There came to him Sadducees, who say that there is no resurrection. They asked him, saying,
+There came to him Sadducees, who say that there is no resurrection. They asked him, saying, “Teacher, Moses wrote to us, ‘If a man’s brother dies, and leaves a wife behind him, and leaves no children, that his brother should take his wife, and raise up offspring for his brother.’
 
 ### 19
-“Teacher, Moses wrote to us, ‘If a man’s brother dies, and leaves a wife behind him, and leaves no children, that his brother should take his wife, and raise up offspring for his brother.’
-
-### 20
 There were seven brothers. The first took a wife, and dying left no offspring.
 
+### 20
+The second took her, and died, leaving no children behind him. The third likewise; and the seven took her and left no children. Last of all the woman also died.
+
 ### 21
-The second took her, and died, leaving no children behind him. The third likewise;
-
-### 22
-and the seven took her and left no children. Last of all the woman also died.
-
-### 23
 In the resurrection, when they rise, whose wife will she be of them? For the seven had her as a wife.”
 
-### 24
+### 22
 Jesus answered them, “Isn’t this because you are mistaken, not knowing the Scriptures, nor the power of God?
 
-### 25
+### 23
 For when they will rise from the dead, they neither marry, nor are given in marriage, but are like angels in heaven.
 
-### 26
+### 24
 But about the dead, that they are raised; haven’t you read in the book of Moses, about the Bush, how God spoke to him, saying, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?
 
-### 27
+### 25
 He is not the God of the dead, but of the living. You are therefore badly mistaken.”
 
-### 28
+### 26
 One of the scribes came, and heard them questioning together. Knowing that he had answered them well, asked him, “Which commandment is the greatest of all?”
 
-### 29
-Jesus answered, “The greatest is, ‘Hear, Israel, the Lord our God, the Lord is one:
+### 27
+Jesus answered, “The greatest is, ‘Hear, Israel, the Lord our God, the Lord is one: you shall love the Lord your God with all your heart, and with all your soul, and with all your mind, and with all your strength.’ This is the first commandment.
 
-### 30
-you shall love the Lord your God with all your heart, and with all your soul, and with all your mind, and with all your strength.’ This is the first commandment.
-
-### 31
+### 28
 The second is like this, ‘You shall love your neighbor as yourself.’ There is no other commandment greater than these.”
 
-### 32
-The scribe said to him, “Truly, teacher, you have said well that he is one, and there is none other but he,
+### 29
+The scribe said to him, “Truly, teacher, you have said well that he is one, and there is none other but he, and to love him with all the heart, and with all the understanding, with all the soul, and with all the strength, and to love his neighbor as himself, is more important than all whole burnt offerings and sacrifices.”
 
-### 33
-and to love him with all the heart, and with all the understanding, with all the soul, and with all the strength, and to love his neighbor as himself, is more important than all whole burnt offerings and sacrifices.”
-
-### 34
+### 30
 When Jesus saw that he answered wisely, he said to him, “You are not far from God’s Kingdom.” No one dared ask him any question after that.
 
-### 35
+### 31
 Jesus responded, as he taught in the temple, “How is it that the scribes say that the Christ is the son of David?
 
-### 36
+### 32
 For David himself said in the Holy Spirit, ‘The Lord said to my Lord, “Sit at my right hand, until I make your enemies the footstool of your feet.”’
 
-### 37
+### 33
 Therefore David himself calls him Lord, so how can he be his son?” The common people heard him gladly.
 
-### 38
-In his teaching he said to them, “Beware of the scribes, who like to walk in long robes, and to get greetings in the marketplaces,
+### 34
+In his teaching he said to them, “Beware of the scribes, who like to walk in long robes, and to get greetings in the marketplaces, and the best seats in the synagogues, and the best places at feasts:
 
-### 39
-and the best seats in the synagogues, and the best places at feasts:
-
-### 40
+### 35
 those who devour widows’ houses, and for a pretense make long prayers. These will receive greater condemnation.”
 
-### 41
+### 36
 Jesus sat down opposite the treasury, and saw how the multitude cast money into the treasury. Many who were rich cast in much.
 
-### 42
+### 37
 A poor widow came, and she cast in two small brass coins, which equal a quadrans coin.
 
-### 43
-He called his disciples to himself, and said to them, “Most certainly I tell you, this poor widow gave more than all those who are giving into the treasury,
-
-### 44
-for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on.”
+### 38
+He called his disciples to himself, and said to them, “Most certainly I tell you, this poor widow gave more than all those who are giving into the treasury, for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on.”

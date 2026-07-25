@@ -87,7 +87,4 @@ And he said: 'I shall do thy pleasure; believe me that no evil will proceed from
 And they eat and drank, she and her sons that night, and she died, three jubilees and one week and one year old, on that night, and her two sons, Esau and Jacob, buried her in the double cave near Sarah, their father's mother.
 
 ### 28
-The Book of Jubilees
-
-### 29
-Isaac gives directions to his sons as to his burial: exhorts them to love one another and makes them imprecate destruction on him who injures his brother, 1-11. Divides his possessions, giving the larger portion to Jacob, and dies, 12-18. Leah dies: Jacob's sons come to comfort him, 21-4.
+The Book of Jubilees Isaac gives directions to his sons as to his burial: exhorts them to love one another and makes them imprecate destruction on him who injures his brother, 1-11. Divides his possessions, giving the larger portion to Jacob, and dies, 12-18. Leah dies: Jacob's sons come to comfort him, 21-4.

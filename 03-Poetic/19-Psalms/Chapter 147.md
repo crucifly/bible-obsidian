@@ -24,43 +24,40 @@ Great is our Lord, and mighty in power. His understanding is infinite.
 Yahweh upholds the humble. He brings the wicked down to the ground.
 
 ### 7
-Sing to Yahweh with thanksgiving. Sing praises on the harp to our God,
+Sing to Yahweh with thanksgiving. Sing praises on the harp to our God, who covers the sky with clouds, who prepares rain for the earth, who makes grass grow on the mountains.
 
 ### 8
-who covers the sky with clouds, who prepares rain for the earth, who makes grass grow on the mountains.
-
-### 9
 He provides food for the livestock, and for the young ravens when they call.
 
-### 10
+### 9
 He doesn’t delight in the strength of the horse. He takes no pleasure in the legs of a man.
 
-### 11
+### 10
 Yahweh takes pleasure in those who fear him, in those who hope in his loving kindness.
 
-### 12
+### 11
 Praise Yahweh, Jerusalem! Praise your God, Zion!
 
-### 13
+### 12
 For he has strengthened the bars of your gates. He has blessed your children within you.
 
-### 14
+### 13
 He makes peace in your borders. He fills you with the finest of the wheat.
 
-### 15
+### 14
 He sends out his commandment to the earth. His word runs very swiftly.
 
-### 16
+### 15
 He gives snow like wool, and scatters frost like ashes.
 
-### 17
+### 16
 He hurls down his hail like pebbles. Who can stand before his cold?
 
-### 18
+### 17
 He sends out his word, and melts them. He causes his wind to blow, and the waters flow.
 
-### 19
+### 18
 He shows his word to Jacob; his statutes and his ordinances to Israel.
 
-### 20
+### 19
 He has not done this for just any nation. They don’t know his ordinances. Praise Yah!

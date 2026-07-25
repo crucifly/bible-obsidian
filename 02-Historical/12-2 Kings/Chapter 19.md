@@ -30,88 +30,82 @@ Behold, I will put a spirit in him, and he will hear news, and will return to hi
 So Rabshakeh returned and found the king of Assyria warring against Libnah; for he had heard that he had departed from Lachish.
 
 ### 9
-When he heard it said of Tirhakah king of Ethiopia, “Behold, he has come out to fight against you, he sent messengers again to Hezekiah, saying,
+When he heard it said of Tirhakah king of Ethiopia, “Behold, he has come out to fight against you, he sent messengers again to Hezekiah, saying, ‘Tell Hezekiah king of Judah this: “Don’t let your God in whom you trust deceive you, saying, Jerusalem will not be given into the hand of the king of Assyria.
 
 ### 10
-‘Tell Hezekiah king of Judah this: “Don’t let your God in whom you trust deceive you, saying, Jerusalem will not be given into the hand of the king of Assyria.
-
-### 11
 Behold, you have heard what the kings of Assyria have done to all lands, by destroying them utterly. Will you be delivered?
 
-### 12
+### 11
 Have the gods of the nations delivered them, which my fathers have destroyed, Gozan, Haran, Rezeph, and the children of Eden who were in Telassar?
 
-### 13
+### 12
 Where is the king of Hamath, the king of Arpad, and the king of the city of Sepharvaim, of Hena, and Ivvah?”’”
 
-### 14
+### 13
 Hezekiah received the letter from the hand of the messengers and read it. Then Hezekiah went up to Yahweh’s house, and spread it before Yahweh.
 
-### 15
+### 14
 Hezekiah prayed before Yahweh, and said, “Yahweh, the God of Israel, who sit above the cherubim, you are the God, even you alone, of all the kingdoms of the earth. You have made heaven and earth.
 
-### 16
+### 15
 Incline your ear, Yahweh, and hear. Open your eyes, Yahweh, and see. Hear the words of Sennacherib, which he has sent to defy the living God.
 
+### 16
+Truly, Yahweh, the kings of Assyria have laid waste the nations and their lands, and have cast their gods into the fire; for they were no gods, but the work of men’s hands, wood and stone. Therefore they have destroyed them.
+
 ### 17
-Truly, Yahweh, the kings of Assyria have laid waste the nations and their lands,
-
-### 18
-and have cast their gods into the fire; for they were no gods, but the work of men’s hands, wood and stone. Therefore they have destroyed them.
-
-### 19
 Now therefore, Yahweh our God, save us, I beg you, out of his hand, that all the kingdoms of the earth may know that you, Yahweh, are God alone.”
 
-### 20
+### 18
 Then Isaiah the son of Amoz sent to Hezekiah, saying, “Yahweh, the God of Israel, says ‘You have prayed to me against Sennacherib king of Assyria, and I have heard you.
 
-### 21
+### 19
 This is the word that Yahweh has spoken concerning him: ‘The virgin daughter of Zion has despised you and ridiculed you. The daughter of Jerusalem has shaken her head at you.
 
-### 22
+### 20
 Whom have you defied and blasphemed? Against whom have you exalted your voice and lifted up your eyes on high? Against the Holy One of Israel!
 
-### 23
+### 21
 By your messengers, you have defied the Lord, and have said, “With the multitude of my chariots, I have come up to the height of the mountains, to the innermost parts of Lebanon, and I will cut down its tall cedars and its choice cypress trees; and I will enter into his farthest lodging place, the forest of his fruitful field.
 
-### 24
+### 22
 I have dug and drunk strange waters, and with the sole of my feet will I dry up all the rivers of Egypt.”
 
-### 25
+### 23
 Haven’t you heard how I have done it long ago, and formed it of ancient times? Now I have brought it to pass, that it should be yours to lay waste fortified cities into ruinous heaps.
 
-### 26
+### 24
 Therefore their inhabitants had little power. They were dismayed and confounded. They were like the grass of the field, and like the green herb, like the grass on the housetops, and like grain blasted before it has grown up.
 
-### 27
+### 25
 But I know your sitting down, your going out, your coming in, and your raging against me.
 
-### 28
+### 26
 Because of your raging against me, and because your arrogance has come up into my ears, therefore I will put my hook in your nose, and my bridle in your lips, and I will turn you back by the way by which you came.’
 
-### 29
+### 27
 “This will be the sign to you: This year, you will eat that which grows of itself, and in the second year that which springs of the same; and in the third year sow, and reap, and plant vineyards, and eat its fruit.
 
-### 30
+### 28
 The remnant that has escaped of the house of Judah will again take root downward, and bear fruit upward.
 
-### 31
+### 29
 For out of Jerusalem a remnant will go out, and out of Mount Zion those who shall escape. Yahweh’s zeal will perform this.
 
-### 32
+### 30
 “Therefore Yahweh says concerning the king of Assyria, ‘He will not come to this city, nor shoot an arrow there. He will not come before it with shield, nor cast up a mound against it.
 
-### 33
+### 31
 By the way that he came, by the same he will return, and he will not come to this city,’ says Yahweh.
 
-### 34
+### 32
 ‘For I will defend this city to save it, for my own sake, and for my servant David’s sake.’”
 
-### 35
+### 33
 That night, Yahweh’s angel went out, and struck one hundred eighty-five thousand in the camp of the Assyrians. When men arose early in the morning, behold, these were all dead bodies.
 
-### 36
+### 34
 So Sennacherib king of Assyria departed, and went and returned, and lived at Nineveh.
 
-### 37
+### 35
 As he was worshiping in the house of Nisroch his god, Adrammelech and Sharezer struck him with the sword; and they escaped into the land of Ararat. Esar Haddon his son reigned in his place.

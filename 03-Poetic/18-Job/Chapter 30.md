@@ -18,82 +18,79 @@ They are gaunt from lack and famine. They gnaw the dry ground, in the gloom of w
 They pluck salt herbs by the bushes. The roots of the broom are their food.
 
 ### 5
-They are driven out from among men. They cry after them as after a thief;
+They are driven out from among men. They cry after them as after a thief; So that they dwell in frightful valleys, and in holes of the earth and of the rocks.
 
 ### 6
-So that they dwell in frightful valleys, and in holes of the earth and of the rocks.
-
-### 7
 Among the bushes they bray; and under the nettles they are gathered together.
 
-### 8
+### 7
 They are children of fools, yes, children of wicked men. They were flogged out of the land.
 
-### 9
+### 8
 “Now I have become their song. Yes, I am a byword to them.
 
-### 10
+### 9
 They abhor me, they stand aloof from me, and don’t hesitate to spit in my face.
 
-### 11
+### 10
 For he has untied his cord, and afflicted me; and they have thrown off restraint before me.
 
-### 12
+### 11
 On my right hand rise the rabble. They thrust aside my feet, They cast up against me their ways of destruction.
 
-### 13
+### 12
 They mar my path, They set forward my calamity, without anyone’s help.
 
-### 14
+### 13
 As through a wide breach they come, in the middle of the ruin they roll themselves in.
 
-### 15
+### 14
 Terrors have turned on me. They chase my honor as the wind. My welfare has passed away as a cloud.
 
-### 16
+### 15
 “Now my soul is poured out within me. Days of affliction have taken hold on me.
 
-### 17
+### 16
 In the night season my bones are pierced in me, and the pains that gnaw me take no rest.
 
-### 18
+### 17
 By great force is my garment disfigured. It binds me about as the collar of my coat.
 
-### 19
+### 18
 He has cast me into the mire. I have become like dust and ashes.
 
-### 20
+### 19
 I cry to you, and you do not answer me. I stand up, and you gaze at me.
 
-### 21
+### 20
 You have turned to be cruel to me. With the might of your hand you persecute me.
 
-### 22
+### 21
 You lift me up to the wind, and drive me with it. You dissolve me in the storm.
 
-### 23
+### 22
 For I know that you will bring me to death, To the house appointed for all living.
 
-### 24
+### 23
 “However doesn’t one stretch out a hand in his fall? Or in his calamity therefore cry for help?
 
-### 25
+### 24
 Didn’t I weep for him who was in trouble? Wasn’t my soul grieved for the needy?
 
-### 26
+### 25
 When I looked for good, then evil came; When I waited for light, there came darkness.
 
-### 27
+### 26
 My heart is troubled, and doesn’t rest. Days of affliction have come on me.
 
-### 28
+### 27
 I go mourning without the sun. I stand up in the assembly, and cry for help.
 
-### 29
+### 28
 I am a brother to jackals, and a companion to ostriches.
 
-### 30
+### 29
 My skin grows black and peels from me. My bones are burned with heat.
 
-### 31
+### 30
 Therefore my harp has turned to mourning, and my pipe into the voice of those who weep.

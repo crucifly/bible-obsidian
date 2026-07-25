@@ -12,21 +12,13 @@ translation: G.R.S. Mead
 **Chapter 86**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 85**
 
 ### 2
-Next
-
-**CHAPTER 85**
-
-### 3
 It came to pass then, when Jesus had finished speaking these words unto his disciples, that Mary Magdalene started forward and said: "My Lord, be not wroth with me if I question thee, because we question thee concerning all with precision."
 
+### 3
+And Jesus answered and said unto Mary: "Question concerning what thou desirest to question, and I will reveal it unto thee in openness without similitude, and all concerning which thou questionest, I will say unto thee with precision and certainty. I will perfect you in all power and all fulnesses, from the interior of the interiors to the exterior of the exteriors, from that Ineffable to the darkness of darknesses, so that ye shall be called 'the fulnesses perfected in all gnoses.' Now, therefore, Mary, question concerning what thou mayest question, and I will reveal it to thee with great joy and great exultation."
+
 ### 4
-And Jesus answered and said unto Mary: "Question concerning what thou desirest to question, and I will reveal it unto thee in openness without similitude, and all concerning which thou questionest, I will say unto thee with precision and certainty. I will perfect you in all power and all fulnesses, from the interior of the interiors to the exterior of the exteriors, from that Ineffable to the darkness of darknesses, so that ye shall be called 'the fulnesses perfected
-
-### 5
-in all gnoses.' Now, therefore, Mary, question concerning what thou mayest question, and I will reveal it to thee with great joy and great exultation."
-
-### 6
 Mary again questioneth Jesus.It came to pass then, when Mary had heard the Saviour say these words, that she rejoiced in exceedingly great joy and exulted, and said: "My Lord, will then the men of the world who have received the mysteries of the Light, be superior to the emanations of the Treasury in thy kingdom? For I have heard thee say: If I lead you into the region of those who have received the mysteries of the Light, then will the region of the [emanations of the] Light-land count for you as a speck of dust because of the great distance in which it is distant from it, and because of the great light in which it is,'--that is the Light-land is the Treasury, the region of the emanations,--will therefore then, my Lord, the men who have received the mysteries, be superior to the Light-land and superior to those [emanations] in the kingdom of the Light?"

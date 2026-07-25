@@ -27,34 +27,25 @@ But who is able to build him a house, since heaven and the heaven of heavens can
 “Now therefore send me a man skillful to work in gold, in silver, in brass, in iron, and in purple, crimson, and blue, and who knows how to engrave engravings, to be with the skillful men who are with me in Judah and in Jerusalem, whom David my father provided.
 
 ### 8
-“Send me also cedar trees, cypress trees, and algum trees out of Lebanon; for I know that your servants know how to cut timber in Lebanon. Behold, my servants will be with your servants,
+“Send me also cedar trees, cypress trees, and algum trees out of Lebanon; for I know that your servants know how to cut timber in Lebanon. Behold, my servants will be with your servants, even to prepare me timber in abundance; for the house which I am about to build will be great and wonderful.
 
 ### 9
-even to prepare me timber in abundance; for the house which I am about to build will be great and wonderful.
-
-### 10
 Behold, I will give to your servants, the cutters who cut timber, twenty thousand cors of beaten wheat, twenty thousand baths of barley, twenty thousand baths of wine, and twenty thousand baths of oil.”
 
-### 11
+### 10
 Then Huram the king of Tyre answered in writing, which he sent to Solomon, “Because Yahweh loves his people, he has made you king over them.”
 
-### 12
+### 11
 Huram continued, “Blessed be Yahweh, the God of Israel, who made heaven and earth, who has given to David the king a wise son, endowed with discretion and understanding, who would build a house for Yahweh, and a house for his kingdom.
 
+### 12
+Now I have sent a skillful man, endowed with understanding, of Huram my father’s, the son of a woman of the daughters of Dan; and his father was a man of Tyre, skillful to work in gold, in silver, in brass, in iron, in stone, in timber, and in purple, in blue, in fine linen, and in crimson, also to engrave any kind of engraving and to devise any device; that there may be a place appointed to him with your skillful men, and with the skillful men of my lord David your father.
+
 ### 13
-Now I have sent a skillful man, endowed with understanding, of Huram my father’s,
+“Now therefore the wheat the barley, the oil and the wine, which my lord has spoken of, let him send to his servants; and we will cut wood out of Lebanon, as much as you need. We will bring it to you in floats by sea to Joppa; and you shall carry it up to Jerusalem.”
 
 ### 14
-the son of a woman of the daughters of Dan; and his father was a man of Tyre, skillful to work in gold, in silver, in brass, in iron, in stone, in timber, and in purple, in blue, in fine linen, and in crimson, also to engrave any kind of engraving and to devise any device; that there may be a place appointed to him with your skillful men, and with the skillful men of my lord David your father.
-
-### 15
-“Now therefore the wheat the barley, the oil and the wine, which my lord has spoken of, let him send to his servants;
-
-### 16
-and we will cut wood out of Lebanon, as much as you need. We will bring it to you in floats by sea to Joppa; and you shall carry it up to Jerusalem.”
-
-### 17
 Solomon counted all the foreigners who were in the land of Israel, after the census with which David his father had counted them; and they found one hundred fifty-three thousand six hundred.
 
-### 18
+### 15
 He set seventy thousand of them to bear burdens, eighty thousand who were stone cutters in the mountains, and three thousand six hundred overseers to assign the people their work.

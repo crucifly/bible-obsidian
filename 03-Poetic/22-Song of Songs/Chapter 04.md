@@ -42,13 +42,10 @@ Your lips, my bride, drip like the honeycomb. Honey and milk are under your tong
 A locked up garden is my sister, my bride; a locked up spring, a sealed fountain.
 
 ### 13
-Your shoots are an orchard of pomegranates, with precious fruits: henna with spikenard plants,
+Your shoots are an orchard of pomegranates, with precious fruits: henna with spikenard plants, spikenard and saffron, calamus and cinnamon, with every kind of incense tree; myrrh and aloes, with all the best spices,
 
 ### 14
-spikenard and saffron, calamus and cinnamon, with every kind of incense tree; myrrh and aloes, with all the best spices,
-
-### 15
 a fountain of gardens, a well of living waters, flowing streams from Lebanon.
 
-### 16
+### 15
 Awake, north wind; and come, you south! Blow on my garden, that its spices may flow out. Let my beloved come into his garden, and taste his precious fruits.

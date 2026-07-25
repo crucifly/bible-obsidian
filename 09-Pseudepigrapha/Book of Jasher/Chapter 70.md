@@ -77,121 +77,100 @@ And the king said to the wise men, Surely you have heard what this Hebrew boy wh
 Now judge you also and see what is due to the boy for the act he has committed.
 
 ### 23
-And the angel, who seemed like one of the wise men of Pharaoh, answered and said as follows, before all the wise men of Egypt and before the king and the princes:
+And the angel, who seemed like one of the wise men of Pharaoh, answered and said as follows, before all the wise men of Egypt and before the king and the princes: If it please the king let the king send for men who shall bring before him an onyx stone and a coal of fire, and place them before the child, and if the child shall stretch forth his hand and take the onyx stone, then shall we know that with wisdom has the youth done all that he has done, and we must slay him.
 
 ### 24
-If it please the king let the king send for men who shall bring before him an onyx stone and a coal of fire, and place them before the child, and if the child shall stretch forth his hand and take the onyx stone, then shall we know that with wisdom has the youth done all that he has done, and we must slay him.
-
-### 25
 But if he stretch forth his hand upon the coal, then shall we know that it was not with knowledge that he did this thing, and he shall live.
 
-### 26
+### 25
 And the thing seemed good in the eyes of the king and the princes, so the king did according to the word of the angel of the Lord.
 
-### 27
+### 26
 And the king ordered the onyx stone and coal to be brought and placed before Moses.
 
-### 28
+### 27
 And they placed the boy before them, and the lad endeavored to stretch forth his hand to the onyx stone, but the angel of the Lord took his hand and placed it upon the coal, and the coal became extinguished in his hand, and he lifted it up and put it into his mouth, and burned part of his lips and part of his tongue, and he became heavy in mouth and tongue.
 
-### 29
+### 28
 And when the king and princes saw this, they knew that Moses had not acted with wisdom in taking off the crown from the king's head.
 
-### 30
+### 29
 So the king and princes refrained from slaying the child, so Moses remained in Pharaoh's house, growing up, and the Lord was with him.
 
-### 31
+### 30
 And whilst the boy was in the king's house, he was robed in purple and he grew amongst the children of the king.
 
-### 32
+### 31
 And when Moses grew up in the king's house, Bathia the daughter of Pharaoh considered him as a son, and all the household of Pharaoh honored him, and all the men of Egypt were afraid of him.
 
-### 33
+### 32
 And he daily went forth and came into the land of Goshen, where his brethren the children of Israel were, and Moses saw them daily in shortness of breath and hard labor.
 
-### 34
+### 33
 And Moses asked them, saying, Wherefore is this labor meted out unto you day by day?
 
-### 35
+### 34
 And they told him all that had befallen them, and all the injunctions which Pharaoh had put upon them before his birth.
 
-### 36
+### 35
 And they told him all the counsels which Balaam the son of Beor had counselled against them, and what he had also counselled against him in order to slay him when he had taken the king's crown from off his head.
 
-### 37
+### 36
 And when Moses heard these things his anger was kindled against Balaam, and he sought to kill him, and he was in ambush for him day by day.
 
-### 38
+### 37
 And Balaam was afraid of Moses, and he and his two sons rose up and went forth from Egypt, and they fled and delivered their souls and betook themselves to the land of Cush to Kikianus, king of Cush.
 
-### 39
+### 38
 And Moses was in the king's house going out and coming in, the Lord gave him favor in the eyes of Pharaoh, and in the eyes of all his servants, and in the eyes of all the people of Egypt, and they loved Moses exceedingly.
 
-### 40
+### 39
 And the day arrived when Moses went to Goshen to see his brethren, that he saw the children of Israel in their burdens and hard labor, and Moses was grieved on their account.
 
-### 41
+### 40
 And Moses returned to Egypt and came to the house of Pharaoh, and came before the king, and Moses bowed down before the king.
 
-### 42
+### 41
 And Moses said unto Pharaoh, I pray thee my lord, I have come to seek a small request from thee, turn not away my face empty; and Pharaoh said unto him, Speak.
 
-### 43
+### 42
 And Moses said unto Pharaoh, Let there be given unto thy servants the children of Israel who are in Goshen, one day to rest therein from their labor.
 
-### 44
+### 43
 And the king answered Moses and said, Behold I have lifted up thy face in this thing to grant thy request.
 
+### 44
+And Pharaoh ordered a proclamation to be issued throughout Egypt and Goshen, saying, To you, all the children of Israel, thus says the king, for six days you shall do your work and labor, but on the seventh day you shall rest, and shall not preform any work, thus shall you do all the days, as the king and Moses the son of Bathia have commanded.
+
 ### 45
-And Pharaoh ordered a proclamation to be issued throughout Egypt and Goshen, saying,
-
-### 46
-To you, all the children of Israel, thus says the king, for six days you shall do your work and labor, but on the seventh day you shall rest, and shall not preform any work, thus shall you do all the days, as the king and Moses the son of Bathia have commanded.
-
-### 47
 And Moses rejoiced at this thing which the king had granted to him, and all the children of Israel did as Moses ordered them.
 
-### 48
+### 46
 For this thing was from the Lord to the children of Israel, for the Lord had begun to remember the children of Israel to save them for the sake of their fathers.
 
-### 49
+### 47
 And the Lord was with Moses and his fame went throughout Egypt.
 
-### 50
+### 48
 And Moses became great in the eyes of all the Egyptians, and in the eyes of all the children of Israel, seeking good for his people Israel and speaking words of peace regarding them to the king.
 
-### 51
+### 49
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_70&oldid=11446090"
 
-### 52
-Hidden categories: SubpagesHeaders applying DefaultSort key
+### 50
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 02:15.
 
-### 53
-This page was last edited on 30 June 2021, at 02:15.
-
-### 54
+### 51
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 52
+Privacy policy Disclaimers
+
+### 53
+Code of Conduct Developers
+
+### 54
+Statistics Cookie statement
+
 ### 55
-Privacy policy
-
-### 56
-Disclaimers
-
-### 57
-Code of Conduct
-
-### 58
-Developers
-
-### 59
-Statistics
-
-### 60
-Cookie statement
-
-### 61
-Mobile view
-
-### 62
-Add topic
+Mobile view Add topic

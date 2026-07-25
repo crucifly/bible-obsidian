@@ -21,52 +21,46 @@ The first fruits of your grain, of your new wine, and of your oil, and the first
 For Yahweh your God has chosen him out of all your tribes, to stand to minister in Yahweh’s name, him and his sons for ever.
 
 ### 6
-If a Levite comes from any of your gates out of all Israel, where he lives as a foreigner, and comes with all the desire of his soul to the place which Yahweh shall choose;
+If a Levite comes from any of your gates out of all Israel, where he lives as a foreigner, and comes with all the desire of his soul to the place which Yahweh shall choose; then he shall minister in the name of Yahweh his God, as all his brothers the Levites do, who stand there before Yahweh.
 
 ### 7
-then he shall minister in the name of Yahweh his God, as all his brothers the Levites do, who stand there before Yahweh.
-
-### 8
 They shall have like portions to eat, in addition to that which comes from the sale of his family possessions.
 
-### 9
+### 8
 When you have come into the land which Yahweh your God gives you, you shall not learn to imitate the abominations of those nations.
 
+### 9
+There shall not be found with you anyone who makes his son or his daughter to pass through the fire, one who uses divination, one who practices sorcery, or an enchanter, or a sorcerer, or a charmer, or a consulter with a familiar spirit, or a wizard, or a necromancer.
+
 ### 10
-There shall not be found with you anyone who makes his son or his daughter to pass through the fire, one who uses divination, one who practices sorcery, or an enchanter, or a sorcerer,
-
-### 11
-or a charmer, or a consulter with a familiar spirit, or a wizard, or a necromancer.
-
-### 12
 For whoever does these things is an abomination to Yahweh. Because of these abominations, Yahweh your God drives them out from before you.
 
-### 13
+### 11
 You shall be perfect with Yahweh your God.
 
-### 14
+### 12
 For these nations that you shall dispossess listen to those who practice sorcery and to diviners; but as for you, Yahweh your God has not allowed you so to do.
 
-### 15
+### 13
 Yahweh your God will raise up to you a prophet from among you, of your brothers, like me. You shall listen to him.
 
-### 16
+### 14
 This is according to all that you desired of Yahweh your God in Horeb in the day of the assembly, saying, “Let me not hear again Yahweh my God’s voice, neither let me see this great fire any more, that I not die.”
 
-### 17
+### 15
 Yahweh said to me, “They have well said that which they have spoken.
 
-### 18
+### 16
 I will raise them up a prophet from among their brothers, like you. I will put my words in his mouth, and he shall speak to them all that I shall command him.
 
-### 19
+### 17
 It shall happen, that whoever will not listen to my words which he shall speak in my name, I will require it of him.
 
-### 20
+### 18
 But the prophet who speaks a word presumptuously in my name, which I have not commanded him to speak, or who speaks in the name of other gods, that same prophet shall die.”
 
-### 21
+### 19
 You may say in your heart, “How shall we know the word which Yahweh has not spoken?”
 
-### 22
+### 20
 When a prophet speaks in Yahweh’s name, if the thing doesn’t follow, nor happen, that is the thing which Yahweh has not spoken. The prophet has spoken it presumptuously. You shall not be afraid of him.

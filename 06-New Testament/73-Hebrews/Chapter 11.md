@@ -54,73 +54,58 @@ If indeed they had been thinking of that country from which they went out, they 
 But now they desire a better country, that is, a heavenly one. Therefore God is not ashamed of them, to be called their God, for he has prepared a city for them.
 
 ### 17
-By faith, Abraham, being tested, offered up Isaac. Yes, he who had gladly received the promises was offering up his one and only son,
+By faith, Abraham, being tested, offered up Isaac. Yes, he who had gladly received the promises was offering up his one and only son, to whom it was said, “your offspring will be accounted as from Isaac”;
 
 ### 18
-to whom it was said, “your offspring will be accounted as from Isaac”;
-
-### 19
 concluding that God is able to raise up even from the dead. Figuratively speaking, he also did receive him back from the dead.
 
-### 20
+### 19
 By faith, Isaac blessed Jacob and Esau, even concerning things to come.
 
-### 21
+### 20
 By faith, Jacob, when he was dying, blessed each of the sons of Joseph, and worshiped, leaning on the top of his staff.
 
-### 22
+### 21
 By faith, Joseph, when his end was near, made mention of the departure of the children of Israel; and gave instructions concerning his bones.
 
-### 23
+### 22
 By faith, Moses, when he was born, was hidden for three months by his parents, because they saw that he was a beautiful child, and they were not afraid of the king’s commandment.
 
+### 23
+By faith, Moses, when he had grown up, refused to be called the son of Pharaoh’s daughter, choosing rather to share ill treatment with God’s people, than to enjoy the pleasures of sin for a time;
+
 ### 24
-By faith, Moses, when he had grown up, refused to be called the son of Pharaoh’s daughter,
-
-### 25
-choosing rather to share ill treatment with God’s people, than to enjoy the pleasures of sin for a time;
-
-### 26
 accounting the reproach of Christ greater riches than the treasures of Egypt; for he looked to the reward.
 
-### 27
+### 25
 By faith, he left Egypt, not fearing the wrath of the king; for he endured, as seeing him who is invisible.
 
-### 28
+### 26
 By faith, he kept the Passover, and the sprinkling of the blood, that the destroyer of the firstborn should not touch them.
 
-### 29
+### 27
 By faith, they passed through the Red Sea as on dry land. When the Egyptians tried to do so, they were swallowed up.
 
-### 30
+### 28
 By faith, the walls of Jericho fell down, after they had been encircled for seven days.
 
-### 31
+### 29
 By faith, Rahab the prostitute, didn’t perish with those who were disobedient, having received the spies in peace.
 
-### 32
-What more shall I say? For the time would fail me if I told of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets;
+### 30
+What more shall I say? For the time would fail me if I told of Gideon, Barak, Samson, Jephthah, David, Samuel, and the prophets; who, through faith subdued kingdoms, worked out righteousness, obtained promises, stopped the mouths of lions,
 
-### 33
-who, through faith subdued kingdoms, worked out righteousness, obtained promises, stopped the mouths of lions,
-
-### 34
+### 31
 quenched the power of fire, escaped the edge of the sword, from weakness were made strong, grew mighty in war, and caused foreign armies to flee.
 
-### 35
+### 32
 Women received their dead by resurrection. Others were tortured, not accepting their deliverance, that they might obtain a better resurrection.
 
-### 36
+### 33
 Others were tried by mocking and scourging, yes, moreover by bonds and imprisonment.
 
-### 37
-They were stoned. They were sawn apart. They were tempted. They were slain with the sword. They went around in sheep skins and in goat skins; being destitute, afflicted, ill-treated
+### 34
+They were stoned. They were sawn apart. They were tempted. They were slain with the sword. They went around in sheep skins and in goat skins; being destitute, afflicted, ill-treated (of whom the world was not worthy), wandering in deserts, mountains, caves, and the holes of the earth.
 
-### 38
-(of whom the world was not worthy), wandering in deserts, mountains, caves, and the holes of the earth.
-
-### 39
-These all, having had testimony given to them through their faith, didn’t receive the promise,
-
-### 40
-God having provided some better thing concerning us, so that apart from us they should not be made perfect.
+### 35
+These all, having had testimony given to them through their faith, didn’t receive the promise, God having provided some better thing concerning us, so that apart from us they should not be made perfect.

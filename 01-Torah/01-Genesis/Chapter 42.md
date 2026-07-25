@@ -90,31 +90,28 @@ As one of them opened his sack to give his donkey food in the lodging place, he 
 He said to his brothers, “My money is restored! Behold, it is in my sack!” Their hearts failed them, and they turned trembling to one another, saying, “What is this that God has done to us?”
 
 ### 29
-They came to Jacob their father, to the land of Canaan, and told him all that had happened to them, saying,
+They came to Jacob their father, to the land of Canaan, and told him all that had happened to them, saying, “The man, the lord of the land, spoke roughly with us, and took us for spies of the country.
 
 ### 30
-“The man, the lord of the land, spoke roughly with us, and took us for spies of the country.
-
-### 31
 We said to him, ‘We are honest men. We are no spies.
 
-### 32
+### 31
 We are twelve brothers, sons of our father; one is no more, and the youngest is today with our father in the land of Canaan.’
 
-### 33
+### 32
 The man, the lord of the land, said to us, ‘By this I will know that you are honest men: leave one of your brothers with me, and take grain for the famine of your houses, and go your way.
 
-### 34
+### 33
 Bring your youngest brother to me. Then I will know that you are not spies, but that you are honest men. So I will deliver your brother to you, and you shall trade in the land.’”
 
-### 35
+### 34
 As they emptied their sacks, behold, each man’s bundle of money was in his sack. When they and their father saw their bundles of money, they were afraid.
 
-### 36
+### 35
 Jacob, their father, said to them, “You have bereaved me of my children! Joseph is no more, Simeon is no more, and you want to take Benjamin away. All these things are against me.”
 
-### 37
+### 36
 Reuben spoke to his father, saying, “Kill my two sons, if I don’t bring him to you. Entrust him to my care, and I will bring him to you again.”
 
-### 38
+### 37
 He said, “My son shall not go down with you; for his brother is dead, and he only is left. If harm happens to him along the way in which you go, then you will bring down my gray hairs with sorrow to Sheol.”

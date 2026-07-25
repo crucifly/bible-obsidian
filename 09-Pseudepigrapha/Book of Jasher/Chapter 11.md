@@ -194,34 +194,19 @@ And when Abram had ceased speaking before the king and princes, Abram lifted up 
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_11&oldid=11445871"
 
 ### 62
-Hidden categories: SubpagesHeaders applying DefaultSort key
+Hidden categories: SubpagesHeaders applying DefaultSort key This page was last edited on 30 June 2021, at 01:43.
 
 ### 63
-This page was last edited on 30 June 2021, at 01:43.
-
-### 64
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
+### 64
+Privacy policy Disclaimers
+
 ### 65
-Privacy policy
+Code of Conduct Developers
 
 ### 66
-Disclaimers
+Statistics Cookie statement
 
 ### 67
-Code of Conduct
-
-### 68
-Developers
-
-### 69
-Statistics
-
-### 70
-Cookie statement
-
-### 71
-Mobile view
-
-### 72
-Add topic
+Mobile view Add topic

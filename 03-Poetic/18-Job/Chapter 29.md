@@ -6,76 +6,64 @@ canon: "Poetic"
 # Job 29
 
 ### 1
-Job again took up his parable, and said,
+Job again took up his parable, and said, “Oh that I were as in the months of old, as in the days when God watched over me;
 
 ### 2
-“Oh that I were as in the months of old, as in the days when God watched over me;
+when his lamp shone on my head, and by his light I walked through darkness, as I was in the ripeness of my days, when the friendship of God was in my tent,
 
 ### 3
-when his lamp shone on my head, and by his light I walked through darkness,
+when the Almighty was yet with me, and my children were around me, when my steps were washed with butter, and the rock poured out streams of oil for me,
 
 ### 4
-as I was in the ripeness of my days, when the friendship of God was in my tent,
-
-### 5
-when the Almighty was yet with me, and my children were around me,
-
-### 6
-when my steps were washed with butter, and the rock poured out streams of oil for me,
-
-### 7
 when I went out to the city gate, when I prepared my seat in the street.
 
-### 8
+### 5
 The young men saw me and hid themselves. The aged rose up and stood.
 
-### 9
+### 6
 The princes refrained from talking, and laid their hand on their mouth.
 
-### 10
+### 7
 The voice of the nobles was hushed, and their tongue stuck to the roof of their mouth.
 
-### 11
-For when the ear heard me, then it blessed me; and when the eye saw me, it commended me:
+### 8
+For when the ear heard me, then it blessed me; and when the eye saw me, it commended me: Because I delivered the poor who cried, and the fatherless also, who had no one to help him,
 
-### 12
-Because I delivered the poor who cried, and the fatherless also, who had no one to help him,
-
-### 13
+### 9
 the blessing of him who was ready to perish came on me, and I caused the widow’s heart to sing for joy.
 
-### 14
+### 10
 I put on righteousness, and it clothed me. My justice was as a robe and a diadem.
 
-### 15
+### 11
 I was eyes to the blind, and feet to the lame.
 
-### 16
+### 12
 I was a father to the needy. The cause of him who I didn’t know, I searched out.
 
-### 17
+### 13
 I broke the jaws of the unrighteous, and plucked the prey out of his teeth.
 
-### 18
+### 14
 Then I said, ‘I shall die in my own house, I shall count my days as the sand.
 
-### 19
+### 15
 My root is spread out to the waters. The dew lies all night on my branch.
 
-### 20
+### 16
 My glory is fresh in me. My bow is renewed in my hand.’
 
-### 21
+### 17
 “Men listened to me, waited, and kept silence for my counsel.
 
-### 22
+### 18
 After my words they didn’t speak again. My speech fell on them.
 
-### 23
+### 19
 They waited for me as for the rain. Their mouths drank as with the spring rain.
 
-### 24
+### 20
 I smiled on them when they had no confidence. They didn’t reject the light of my face.
 
-### 25
+### 21
 I chose out their way, and sat as chief. I lived as a king in the army, as one who comforts the mourners.

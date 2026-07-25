@@ -108,7 +108,4 @@ And all the souls of Jacob which went into Egypt were seventy souls. These are h
 And in the land of Canaan two sons of Judah died, Er and Onan, and they had no children, and the children of Israel buried those who perished, and they were reckoned among the seventy Gentile nations.
 
 ### 35
-The Book of Jubilees
-
-### 36
-Joseph receives Jacob, and gives him Goshen, 1-7. Joseph acquires all the land and its inhabitants for Pharaoh, 8-12. Jacob dies and is buried in Hebron, 13-15. His books given to Levi, 16. (Cf. Gen. xlvi.28-30; xlvii.11-13, 19, 20, 23, 24, 28; l.13.)
+The Book of Jubilees Joseph receives Jacob, and gives him Goshen, 1-7. Joseph acquires all the land and its inhabitants for Pharaoh, 8-12. Jacob dies and is buried in Hebron, 13-15. His books given to Levi, 16. (Cf. Gen. xlvi.28-30; xlvii.11-13, 19, 20, 23, 24, 28; l.13.)

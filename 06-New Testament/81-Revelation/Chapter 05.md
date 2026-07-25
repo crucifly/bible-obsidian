@@ -30,19 +30,13 @@ Then he came, and he took it out of the right hand of him who sat on the throne.
 Now when he had taken the book, the four living creatures and the twenty-four elders fell down before the Lamb, each one having a harp, and golden bowls full of incense, which are the prayers of the saints.
 
 ### 9
-They sang a new song, saying, “You are worthy to take the book, and to open its seals: for you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation,
+They sang a new song, saying, “You are worthy to take the book, and to open its seals: for you were killed, and bought us for God with your blood, out of every tribe, language, people, and nation, and made us kings and priests to our God, and we will reign on the earth.”
 
 ### 10
-and made us kings and priests to our God, and we will reign on the earth.”
+I saw, and I heard something like a voice of many angels around the throne, the living creatures, and the elders; and the number of them was ten thousands of ten thousands, and thousands of thousands; saying with a loud voice, “Worthy is the Lamb who has been killed to receive the power, wealth, wisdom, strength, honor, glory, and blessing!”
 
 ### 11
-I saw, and I heard something like a voice of many angels around the throne, the living creatures, and the elders; and the number of them was ten thousands of ten thousands, and thousands of thousands;
-
-### 12
-saying with a loud voice, “Worthy is the Lamb who has been killed to receive the power, wealth, wisdom, strength, honor, glory, and blessing!”
-
-### 13
 I heard every created thing which is in heaven, on the earth, under the earth, on the sea, and everything in them, saying, “To him who sits on the throne, and to the Lamb be the blessing, the honor, the glory, and the dominion, forever and ever! Amen!”
 
-### 14
+### 12
 The four living creatures said, “Amen!” Then the elders fell down and worshiped.

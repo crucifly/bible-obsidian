@@ -15,97 +15,67 @@ Moses assembled all the congregation of the children of Israel, and said to them
 You shall kindle no fire throughout your habitations on the Sabbath day.’”
 
 ### 4
-Moses spoke to all the congregation of the children of Israel, saying, “This is the thing which Yahweh commanded, saying,
+Moses spoke to all the congregation of the children of Israel, saying, “This is the thing which Yahweh commanded, saying, ‘Take from among you an offering to Yahweh. Whoever is of a willing heart, let him bring it, Yahweh’s offering: gold, silver, brass,
 
 ### 5
-‘Take from among you an offering to Yahweh. Whoever is of a willing heart, let him bring it, Yahweh’s offering: gold, silver, brass,
+blue, purple, scarlet, fine linen, goats’ hair, rams’ skins dyed red, sea cow hides, acacia wood,
 
 ### 6
-blue, purple, scarlet, fine linen, goats’ hair,
+oil for the light, spices for the anointing oil and for the sweet incense, onyx stones, and stones to be set for the ephod and for the breastplate.
 
 ### 7
-rams’ skins dyed red, sea cow hides, acacia wood,
+“‘Let every wise-hearted man among you come, and make all that Yahweh has commanded: the tabernacle, its outer covering, its roof, its clasps, its boards, its bars, its pillars, and its sockets;
 
 ### 8
-oil for the light, spices for the anointing oil and for the sweet incense,
+the ark, and its poles, the mercy seat, the veil of the screen; the table with its poles and all its vessels, and the show bread;
 
 ### 9
-onyx stones, and stones to be set for the ephod and for the breastplate.
+the lamp stand also for the light, with its vessels, its lamps, and the oil for the light; and the altar of incense with its poles, the anointing oil, the sweet incense, the screen for the door, at the door of the tabernacle;
 
 ### 10
-“‘Let every wise-hearted man among you come, and make all that Yahweh has commanded:
+the altar of burnt offering, with its grating of brass, it poles, and all its vessels, the basin and its base; the hangings of the court, its pillars, their sockets, and the screen for the gate of the court;
 
 ### 11
-the tabernacle, its outer covering, its roof, its clasps, its boards, its bars, its pillars, and its sockets;
+the pins of the tabernacle, the pins of the court, and their cords; the finely worked garments, for ministering in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office.’”
 
 ### 12
-the ark, and its poles, the mercy seat, the veil of the screen;
-
-### 13
-the table with its poles and all its vessels, and the show bread;
-
-### 14
-the lamp stand also for the light, with its vessels, its lamps, and the oil for the light;
-
-### 15
-and the altar of incense with its poles, the anointing oil, the sweet incense, the screen for the door, at the door of the tabernacle;
-
-### 16
-the altar of burnt offering, with its grating of brass, it poles, and all its vessels, the basin and its base;
-
-### 17
-the hangings of the court, its pillars, their sockets, and the screen for the gate of the court;
-
-### 18
-the pins of the tabernacle, the pins of the court, and their cords;
-
-### 19
-the finely worked garments, for ministering in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office.’”
-
-### 20
 All the congregation of the children of Israel departed from the presence of Moses.
 
-### 21
+### 13
 They came, everyone whose heart stirred him up, and everyone whom his spirit made willing, and brought Yahweh’s offering, for the work of the Tent of Meeting, and for all of its service, and for the holy garments.
 
-### 22
+### 14
 They came, both men and women, as many as were willing-hearted, and brought brooches, earrings, signet rings, and armlets, all jewels of gold; even every man who offered an offering of gold to Yahweh.
 
-### 23
+### 15
 Everyone, with whom was found blue, purple, scarlet, fine linen, goats’ hair, rams’ skins dyed red, and sea cow hides, brought them.
 
-### 24
+### 16
 Everyone who offered an offering of silver and brass brought Yahweh’s offering; and everyone, with whom was found acacia wood for any work of the service, brought it.
 
-### 25
+### 17
 All the women who were wise-hearted spun with their hands, and brought that which they had spun, the blue, the purple, the scarlet, and the fine linen.
 
-### 26
+### 18
 All the women whose heart stirred them up in wisdom spun the goats’ hair.
 
-### 27
-The rulers brought the onyx stones and the stones to be set for the ephod and for the breastplate;
+### 19
+The rulers brought the onyx stones and the stones to be set for the ephod and for the breastplate; with the spice and the oil for the light, for the anointing oil, and for the sweet incense.
 
-### 28
-with the spice and the oil for the light, for the anointing oil, and for the sweet incense.
-
-### 29
+### 20
 The children of Israel brought a freewill offering to Yahweh; every man and woman, whose heart made them willing to bring for all the work, which Yahweh had commanded to be made by Moses.
 
-### 30
+### 21
 Moses said to the children of Israel, “Behold, Yahweh has called by name Bezalel the son of Uri, the son of Hur, of the tribe of Judah.
 
-### 31
-He has filled him with the Spirit of God, in wisdom, in understanding, in knowledge, and in all kinds of workmanship;
+### 22
+He has filled him with the Spirit of God, in wisdom, in understanding, in knowledge, and in all kinds of workmanship; and to make skillful works, to work in gold, in silver, in brass,
 
-### 32
-and to make skillful works, to work in gold, in silver, in brass,
-
-### 33
+### 23
 in cutting of stones for setting, and in carving of wood, to work in all kinds of skillful workmanship.
 
-### 34
+### 24
 He has put in his heart that he may teach, both he, and Oholiab, the son of Ahisamach, of the tribe of Dan.
 
-### 35
+### 25
 He has filled them with wisdom of heart, to work all kinds of workmanship, of the engraver, of the skillful workman, and of the embroiderer, in blue, in purple, in scarlet, and in fine linen, and of the weaver, even of those who do any workmanship, and of those who make skillful works.

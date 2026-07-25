@@ -99,28 +99,22 @@ But if a revelation is made to another sitting by, let the first keep silent.
 For you all can prophesy one by one, that all may learn, and all may be exhorted.
 
 ### 32
-The spirits of the prophets are subject to the prophets,
+The spirits of the prophets are subject to the prophets, for God is not a God of confusion, but of peace, as in all the assemblies of the saints.
 
 ### 33
-for God is not a God of confusion, but of peace, as in all the assemblies of the saints.
+Let the wives be quiet in the assemblies, for it has not been permitted for them to be talking except in submission, as the law also says, if they desire to learn anything. “Let them ask their own husbands at home, for it is shameful for a wife to be talking in the assembly.”
 
 ### 34
-Let the wives be quiet in the assemblies, for it has not been permitted for them to be talking except in submission, as the law also says,
-
-### 35
-if they desire to learn anything. “Let them ask their own husbands at home, for it is shameful for a wife to be talking in the assembly.”
-
-### 36
 What!? Was it from you that the word of God went out? Or did it come to you alone?
 
-### 37
+### 35
 If any man thinks himself to be a prophet, or spiritual, let him recognize the things which I write to you, that they are the commandment of the Lord.
 
-### 38
+### 36
 But if anyone is ignorant, let him be ignorant.
 
-### 39
+### 37
 Therefore, brothers, desire earnestly to prophesy, and don’t forbid speaking with other languages.
 
-### 40
+### 38
 Let all things be done decently and in order.

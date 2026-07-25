@@ -54,7 +54,4 @@ Blessed are you by Yahweh, who made heaven and earth.
 The heavens are the heavens of Yahweh; but the earth has he given to the children of men.
 
 ### 17
-The dead don’t praise Yah, neither any who go down into silence;
-
-### 18
-But we will bless Yah, from this time forward and forever more. Praise Yah!
+The dead don’t praise Yah, neither any who go down into silence; But we will bless Yah, from this time forward and forever more. Praise Yah!

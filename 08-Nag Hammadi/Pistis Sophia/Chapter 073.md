@@ -12,45 +12,34 @@ translation: G.R.S. Mead
 **Chapter 73**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 72**
 
 ### 2
-Next
-
-**CHAPTER 72**
-
-### 3
 It came to pass then, when the First Mystery had heard Matthew speak these words, that he said: "Well said, Matthew, and finely, beloved. This is the solution of the song which Pistis Sophia hath uttered."
 
+### 3
+And the First Mystery continued again and said: Sophia continueth to sing."'1. I will declare: Thou art the higher Light, for that hast saved me and led me unto thee, and thou hast not let the emanations of Self-willed, which are hostile unto me, take my light.
+
 ### 4
-And the First Mystery continued again and said:
-
-### 5
-Sophia continueth to sing."'1. I will declare: Thou art the higher Light, for that hast saved me and led me unto thee, and thou hast not let the emanations of Self-willed, which are hostile unto me, take my light.
-
-### 6
 "'2. O Light of lights, I sing praises unto thee; thou hast saved me.
 
-### 7
+### 5
 "'3. O Light, thou hast led up my power out of the chaos; thou hast saved me from them which have gone down into the darkness.'
 
-### 8
+### 6
 "These words again hath Pistis Sophia uttered, Now, therefore, whose mind hath become understanding, comprehending the words which Pistis Sophia hath uttered, let him come forward and set forth their solution."
 
-### 9
+### 7
 Mary is afraid of Peter.It came to pass then, when the First Mystery had finished speaking these words unto the disciples, that Mary came forward and said: "My Lord, my mind is ever understanding, at every time to come forward and set forth the solution of the words which she hath uttered; but I am afraid of Peter, because he threatened me and hateth our sex."
 
-### 10
+### 8
 And when she had said this, the First Mystery said unto her: "Every one who shall be filled with the spirit of light to come forward and set forth the solution of what I say,--no one shall be able to prevent him. Now, therefore, O Mary, set forth then the solution of the words which Pistis Sophia hath uttered."
 
-### 11
-Then Mary answered and said unto the First Mystery in the midst of the disciples: "My Lord, concerning the solution of the words which Pistis Sophia hath uttered, thus hath thy light-power prophesied aforetime through David:
+### 9
+Then Mary answered and said unto the First Mystery in the midst of the disciples: "My Lord, concerning the solution of the words which Pistis Sophia hath uttered, thus hath thy light-power prophesied aforetime through David: Mary interpreteth the song of Sophia from Psalm xxix."'1. I will exalt thee, O Lord, for thou hast received me, and thou hast not made glad my foes over me.
 
-### 12
-Mary interpreteth the song of Sophia from Psalm xxix."'1. I will exalt thee, O Lord, for thou hast received me, and thou hast not made glad my foes over me.
-
-### 13
+### 10
 "'2. O Lord, my God, I cried up unto thee, and thou hast healed me.
 
-### 14
+### 11
 "'3. O Lord, thou hast led up my soul out of hell; thou hast saved me from them which have gone down into the pit.'"

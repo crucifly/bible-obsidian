@@ -69,31 +69,25 @@ He who is too impoverished for such an offering chooses a tree that will not rot
 Haven’t you known? Haven’t you heard? Haven’t you been told from the beginning? Haven’t you understood from the foundations of the earth?
 
 ### 22
-It is he who sits above the circle of the earth, and its inhabitants are like grasshoppers; who stretches out the heavens like a curtain, and spreads them out like a tent to dwell in;
+It is he who sits above the circle of the earth, and its inhabitants are like grasshoppers; who stretches out the heavens like a curtain, and spreads them out like a tent to dwell in; who brings princes to nothing; who makes the judges of the earth like meaningless.
 
 ### 23
-who brings princes to nothing; who makes the judges of the earth like meaningless.
-
-### 24
 They are planted scarcely. They are sown scarcely. Their stock has scarcely taken root in the ground. He merely blows on them, and they wither, and the whirlwind takes them away as stubble.
 
-### 25
+### 24
 “To whom then will you liken me? Who is my equal?” says the Holy One.
 
-### 26
+### 25
 Lift up your eyes on high, and see who has created these, who brings out their army by number. He calls them all by name. by the greatness of his might, and because he is strong in power, Not one is lacking.
 
-### 27
+### 26
 Why do you say, Jacob, and speak, Israel, “My way is hidden from Yahweh, and the justice due me is disregarded by my God?”
 
-### 28
+### 27
 Haven’t you known? Haven’t you heard? The everlasting God, Yahweh, The Creator of the ends of the earth, doesn’t faint. He isn’t weary. His understanding is unsearchable.
 
-### 29
+### 28
 He gives power to the weak. He increases the strength of him who has no might.
 
-### 30
-Even the youths faint and get weary, and the young men utterly fall;
-
-### 31
-But those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint.
+### 29
+Even the youths faint and get weary, and the young men utterly fall; But those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint.

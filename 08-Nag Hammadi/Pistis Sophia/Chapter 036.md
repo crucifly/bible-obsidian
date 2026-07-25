@@ -12,66 +12,52 @@ translation: G.R.S. Mead
 **Chapter 36**
 
 ### 1
-Pistis Sophia
+Pistis Sophia Next **CHAPTER 36**
 
 ### 2
-Next
-
-**CHAPTER 36**
-
-### 3
 It came to pass then, when Jesus had finished speaking these words unto his disciples, that he said unto them: "Do ye understand in what manner I discourse with you?"
 
+### 3
+And Peter started forward and said unto Jesus: [paragraph continues] Peter complaineth of Mary."My Lord, we will not endure this woman, for she taketh the opportunity from us and hath let none of us speak, but she discourseth many times."
+
 ### 4
-And Peter started forward and said unto Jesus:
-
-### 5
-[paragraph continues] Peter complaineth of Mary."My Lord, we will not endure this woman, for she taketh the opportunity from us and hath let none of us speak, but she discourseth many times."
-
-### 6
 And Jesus answered and said unto his disciples: "Let him in whom the power of his spirit shall seethe, so that he understandeth what I say, come forward and speak. But now, Peter, I see thy power in thee, that it understandeth the solution of the mystery of the repentance which Pistis Sophia hath uttered. Now, therefore, Peter, speak the thought of her repentance in the midst of thy brethren."
 
-### 7
-Peter interpreteth the second repentance from Psalm lxx.And Peter answered and said unto Jesus "O Lord, give ear that I may speak the thought of her repentance, of which aforetime thy power prophesied through the prophet David, uttering her repentance in the seventieth Psalm:
+### 5
+Peter interpreteth the second repentance from Psalm lxx.And Peter answered and said unto Jesus "O Lord, give ear that I may speak the thought of her repentance, of which aforetime thy power prophesied through the prophet David, uttering her repentance in the seventieth Psalm: "'1. O God, my God, I have trusted in thee, let me no more be put to shame for ever.
 
-### 8
-"'1. O God, my God, I have trusted in thee, let me no more be put to shame for ever.
-
-### 9
+### 6
 "'2. Save me in thy righteousness and set me free; incline thine ear unto me and save me.
 
-### 10
+### 7
 "'3. Be unto me a strong God and a firm place to save me; for thou art my strength and my refuge.
 
-### 11
+### 8
 "'4. My God, save me from the hand of the sinner and from the hand of the transgressor and from the impious [one].
 
-### 12
+### 9
 "'5. For thou art my endurance, O Lord, thou art my hope from my youth up.
 
-### 13
+### 10
 "'6. I have trusted myself to thee from my mother's womb; thou hast brought me out of my mother's womb. My remembrance is ever in thee.
 
-### 14
+### 11
 "'7. I have become as the crazy for many; thou art my help and my strength, thou art my deliverer, O Lord.
 
-### 15
+### 12
 "'8. My mouth was filled with glorifying, that I may praise the glory of thy splendour the whole day long.
 
-### 16
+### 13
 "'9. Cast me not away in the time of age; if my soul fades, forsake me not.
 
-### 17
-"'10. For mine enemies have spoken evil against me and they who lay in wait for my soul, have taken counsel against my soul,
+### 14
+"'10. For mine enemies have spoken evil against me and they who lay in wait for my soul, have taken counsel against my soul, "'11. Saying together: God hath forsaken him; pursue and seize him, for there is no saviour.
 
-### 18
-"'11. Saying together: God hath forsaken him; pursue and seize him, for there is no saviour.
-
-### 19
+### 15
 "'12. God, give heed to my help.
 
-### 20
+### 16
 "'13. Let them be ashamed and destroyed who calumniate my soul. Let them be enwrapped in shame and disgrace who seek evil against me.'
 
-### 21
+### 17
 "This then is the solution of the second repentance which Pistis Sophia hath uttered."

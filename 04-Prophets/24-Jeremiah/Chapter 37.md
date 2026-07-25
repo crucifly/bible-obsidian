@@ -21,49 +21,40 @@ Now Jeremiah came in and went out among the people; for they had not put him int
 Pharaoh’s army had come out of Egypt; and when the Chaldeans who were besieging Jerusalem heard news of them, they broke up from Jerusalem.
 
 ### 6
-Then Yahweh’s word came to the prophet Jeremiah, saying,
+Then Yahweh’s word came to the prophet Jeremiah, saying, “Yahweh, the God of Israel, says, ‘You shall tell the king of Judah, who sent you to me to inquire of me: “Behold, Pharaoh’s army, which has come out to help you, will return to Egypt into their own land.
 
 ### 7
-“Yahweh, the God of Israel, says, ‘You shall tell the king of Judah, who sent you to me to inquire of me: “Behold, Pharaoh’s army, which has come out to help you, will return to Egypt into their own land.
-
-### 8
 The Chaldeans will come again, and fight against this city. They will take it and burn it with fire.”’
 
-### 9
+### 8
 “Yahweh says, ‘Don’t deceive yourselves, saying, “The Chaldeans will surely depart from us;” for they will not depart.
 
-### 10
+### 9
 For though you had struck the whole army of the Chaldeans who fight against you, and there remained but wounded men among them, yes they would each rise up in his tent and burn this city with fire.’”
 
+### 10
+When the army of the Chaldeans had broken up from Jerusalem for fear of Pharaoh’s army, then Jeremiah went out of Jerusalem to go into the land of Benjamin, to receive his portion there, in the middle of the people.
+
 ### 11
-When the army of the Chaldeans had broken up from Jerusalem for fear of Pharaoh’s army,
-
-### 12
-then Jeremiah went out of Jerusalem to go into the land of Benjamin, to receive his portion there, in the middle of the people.
-
-### 13
 When he was in Benjamin’s gate, a captain of the guard was there, whose name was Irijah, the son of Shelemiah, the son of Hananiah; and he seized Jeremiah the prophet, saying, “You are defecting to the Chaldeans!”
 
-### 14
+### 12
 Then Jeremiah said, “That is false! I am not defecting to the Chaldeans.” But he didn’t listen to him; so Irijah siezed Jeremiah, and brought him to the princes.
 
-### 15
+### 13
 The princes were angry with Jeremiah, and struck him, and put him in prison in the house of Jonathan the scribe; for they had made that the prison.
 
-### 16
-When Jeremiah had come into the dungeon house, and into the cells, and Jeremiah had remained there many days,
+### 14
+When Jeremiah had come into the dungeon house, and into the cells, and Jeremiah had remained there many days, then Zedekiah the king sent, and had him brought out. The king asked him secretly in his house, “Is there any word from Yahweh?” Jeremiah said, “There is.” He also said, “You will be delivered into the hand of the king of Babylon.”
 
-### 17
-then Zedekiah the king sent, and had him brought out. The king asked him secretly in his house, “Is there any word from Yahweh?” Jeremiah said, “There is.” He also said, “You will be delivered into the hand of the king of Babylon.”
-
-### 18
+### 15
 Moreover Jeremiah said to king Zedekiah, “How have I sinned against you, against your servants, or against this people, that you have put me in prison?
 
-### 19
+### 16
 Now where are your prophets who prophesied to you, saying, ‘The king of Babylon will not come against you, nor against this land?’
 
-### 20
+### 17
 Now please hear, my lord the king: please let my supplication be presented before you, that you not cause me to return to the house of Jonathan the scribe, lest I die there.”
 
-### 21
+### 18
 Then Zedekiah the king commanded, and they committed Jeremiah into the court of the guard. They gave him daily a loaf of bread out of the bakers’ street, until all the bread in the city was gone. Thus Jeremiah remained in the court of the guard.
