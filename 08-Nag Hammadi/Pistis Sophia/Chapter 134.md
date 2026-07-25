@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 134
 
-> **Chapter 134**
+**Chapter 134**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 133**
+**CHAPTER 133**
 
 ### 3
 Mary answered and said: "To all men then who are in the world, will all which is appointed them through the Fate, whether good or bad or sin or death or life,--in a word, will all which is appointed them through the rulers of the Fate, have to come unto them?"

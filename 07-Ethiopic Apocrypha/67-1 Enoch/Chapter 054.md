@@ -5,7 +5,7 @@ canon: "Ethiopic Apocrypha"
 ---
 # 1 Enoch 54
 
-### 0
+### 1
 1 And I looked and turned to another part of the earth, and saw there a deep valley with burning fire.
 
 ### 2

@@ -5,7 +5,7 @@ canon: "Ethiopic Apocrypha"
 ---
 # 1 Enoch 52
 
-### 0
+### 1
 l. And after those days in that place where I had seen all the visions of that which is hidden-- for I had been carried off in a whirlwind and they had borne me towards the west--
 
 ### 2

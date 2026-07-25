@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 85
 
-> **Chapter 85**
+**Chapter 85**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 84**
+**CHAPTER 84**
 
 ### 3
 Of the glory of the four-and-twenty invisibles.And Jesus answered and said unto Mary: "What is there in this world which is like unto them, or rather what region is there in this world which is comparable to them? Now, therefore, to what am I to liken them, or rather what am I to say concerning them? For nothing existeth in this world to which I shall be able to liken them, and no form existeth in it which is able to be like them. Now, therefore, nothing existeth in this world which is of the quality of the heaven. [But] amēn, I say unto you: Every one of the invisibles is nine times greater than the heaven and the sphere above it and the twelve æons all together, as I have already said unto you at another time. And no light existeth in this world which is more excellent than the light of the sun. Amēn, amēn, I say unto you: The four-and-twenty invisibles shine ten-thousand times more than the light of the sun which is in this world, as I have alreadysaid unto you at another time. For the light

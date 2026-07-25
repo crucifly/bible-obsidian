@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 69
 
-> **Chapter 69**
+**Chapter 69**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 68**
+**CHAPTER 68**
 
 ### 3
 It came to pass then, when the First Mystery had heard these words, that he said: "Well said, James, beloved one."

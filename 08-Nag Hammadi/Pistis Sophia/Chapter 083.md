@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 83
 
-> **Chapter 83**
+**Chapter 83**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 82**
+**CHAPTER 82**
 
 ### 3
 It came to pass then, when Jesus had finished saying these words, that Philip came forward and said: "Jesus, my Lord, my thought is exalted, and I have understood the solution of the song which Pistis Sophia hath uttered. The prophet David hath prophesied concerning it aforetime in the one-hundred-and-sixth Psalm, saying:

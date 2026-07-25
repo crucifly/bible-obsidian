@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 107
 
-> **Chapter 107**
+**Chapter 107**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 106**
+**CHAPTER 106**
 
 ### 3
 John continueth his questioning.When then the Saviour had said this, John continued again and said to the Saviour: "My Lord, suppose an exceedingly sinful brother who hath renounced the whole world and the whole matter therein and all its sins and all its cares, and we shall prove him and know that he is not in deceit and play-acting but that in uprightness and in truth he longeth [after God], and we know that he hath become worthy of the mysteries of the second space or of the third,--desirest thou that we give him of the mysteries of the second space and of the third, before he hath at all received mysteries of the Inheritance of the Light or not? Desirest thou that we give or not?"

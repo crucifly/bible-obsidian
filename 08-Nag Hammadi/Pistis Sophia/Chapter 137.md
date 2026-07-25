@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 137
 
-> **Chapter 137**
+**Chapter 137**
 
 ### 1
 Pistis Sophia

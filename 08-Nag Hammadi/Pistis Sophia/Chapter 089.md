@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 89
 
-> **Chapter 89**
+**Chapter 89**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 88**
+**CHAPTER 88**
 
 ### 3
 It came to pass then again after all these words, that Jesus continued in the discourse and said unto his disciples: "Hearken, that I may discourse with you concerning the glory of those of the Height, how they are, according to the manner in which I discoursed with you unto this day.

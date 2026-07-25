@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 131
 
-> **Chapter 131**
+**Chapter 131**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 130**
+**CHAPTER 130**
 
 ### 3
 Mary pleadeth for those who have neglected the mysteries.And Mary continued and said unto the Saviour: "My Lord, if a man hath received the mysteries of the Light which [are] in the first space from without, and when the time of the mysteries up to which they reach, is completed, and if that man continueth anew to receive mysteries of the mysteries which [are] within the mysteries which he hath already received, and moreover that man hath become negligent, not having prayed in the prayer which taketh away the evil of the victuals which he eateth and drinketh, and through the evil of the victuals he is bound to the axle of the Fate of the rulers and through the necessity of the elements he hath sinned anew after the completion of the time up to which the mystery reacheth,--because he hath become negligent and hath not prayed in the prayer which taketh away the evil of the souls and purifieth them,--and that man is come out of the body before he hath repented anew and anew received the mysteries of the mysteries which [are] within the mysteries which he hath already received,--those which accept repentance from him and forgive his sins,--and when he I came forth out of the body and we knew with certainty that they have carried him into the midst of the

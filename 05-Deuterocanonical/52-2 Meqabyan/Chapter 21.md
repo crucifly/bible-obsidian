@@ -29,59 +29,59 @@ You lazy ones, think: you will perish, and your money will perish with you. Thou
 ### 8
 If you birth many children, they shall be for many graves; if you build many houses, they shall be demolished.
 
-### 10
+### 9
 Whether in a house or a forest, in the wilderness or a pasture, in the vineyard or the grain floor—it will not be found.
 
-### 11
+### 10
 Because you did not keep the Lord's Command, He will not save you or your household from tribulation. Sadness shall come upon you from all your enemies, and you will not find joy in the children born of your nature.
 
-### 12
+### 11
 But from His abundance, He will not trouble those who kept His Order and Law. He gives to all who ask Him, and He blesses their children and the fruit of their land.
 
-### 13
+### 12
 He makes them rulers over the peoples in their area so they might rule rather than be ruled; He gives them His plenty in their pasture.
 
-### 14
+### 13
 He blesses all they take in their hands—the field fruit and the livestock—and He makes them joyful in their children.
 
-### 15
+### 14
 He does not diminish their livestock; He saves them from all tribulation, weariness, illness, and destruction—from the enemies they do not know and those they do.
 
-### 16
+### 15
 He will advocate for them in the time of Judgment and save them from evil and tribulation. In the first era, if a priest lived who performed the work of the Tent, kept the Law, and lived in the Lord's Will, the people would give him the tithe and the firstborn of man and livestock; and the Lord would save them from all tribulation.
 
-### 17
+### 16
 As Moses commanded Joshua, son of Nun, there were cities of sanctuary in all their land, for those who killed by accident or intent, until judgment was decided...
 
-### 18
+### 17
 If a person killed a soul, he would be measured there so that he might be saved.
 
-### 19
+### 18
 He told them, "Examine if there was a previous quarrel. If it was by an axe, a stone, or wood that fell from his hand unknowingly—if he says, 'That person died by accident'—examine and save him. If it was unintentional, let him be saved.
 
-### 20
+### 19
 But if he did it knowingly, he will receive hardship for his sin, and no one will pardon him. If it was unintentional, examine and save him so he does not die."
 
-### 21
+### 20
 He worked for them so they might distance themselves from sin; Moses worked like this for the children of Israel so they would not depart from the Lord's Law.
 
-### 22
+### 21
 He commanded the children of Adam to live firmly in the Lord's Command: to abstain from worshipping idols, eating what is found dead, and eating what is strangled or cut by a sword. They were to distance themselves from all evil work so they might distance themselves from all that is improper.
 
-### 23
+### 22
 He commanded them not to depart from the Command He established in the pattern of the Tent in Heaven, so they might save their bodies and find a dwelling with their fathers.
 
-### 24
+### 23
 As they were born of Seth and Adam, who did the Will of the Lord, those who believe in the Lord’s Word and live in His Command will be called the children of the righteous.
 
-### 25
+### 24
 As we are Adam's children, and as He created us in His Image and Appearance to do good works that please the Lord, He will not reject us.
 
-### 26
+### 25
 He will not separate His friends. If we do good works, we shall inherit the Kingdom of Heaven, where welfare is found with those who do good.
 
-### 27
+### 26
 He loves those who ask Him with a clean heart; He hears them in their prayer and accepts the repentance of those who are disciplined. He gives strength and power to those who keep His Order, Law, and Command.
 
-### 28
+### 27
 Those who did His Will shall be joyful with Him in His Kingdom forever; whether they preceded us or come after, they will offer praise to Him from today until eternity.

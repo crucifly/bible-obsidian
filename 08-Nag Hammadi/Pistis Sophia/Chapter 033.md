@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 33
 
-> **Chapter 33**
+**Chapter 33**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 33**
+**CHAPTER 33**
 
 ### 3
 It came to pass then, when Jesus had spoken

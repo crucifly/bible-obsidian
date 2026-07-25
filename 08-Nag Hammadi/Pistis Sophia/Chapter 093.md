@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 93
 
-> **Chapter 93**
+**Chapter 93**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 92**
+**CHAPTER 92**
 
 ### 3
 It came to pass then, when Jesus had finished saying these words unto his disciples, that they rejoiced in great joy and exulted when they heard Jesus say these words.

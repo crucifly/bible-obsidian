@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 136
 
-> **Chapter 136**
+**Chapter 136**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 135**
+**CHAPTER 135**
 
 ### 3
 Mary answered and said unto the Saviour: "My Lord, before thou didst come to the region of the rulers and before thou didst come down into the world, hath no soul entered into the Light?"

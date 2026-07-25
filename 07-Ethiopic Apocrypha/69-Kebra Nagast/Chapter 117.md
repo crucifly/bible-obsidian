@@ -29,82 +29,17 @@ In the Arabic text it is said: “We have turned [this book] into Arabic from a 
 ### 8
 THE END
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 52
+### 9
 Global Grey ebooks
 
-### 53
+### 10
 A curated catalogue of public-domain classics.
 
-### 54
+### 11
 Browse
 
-
-
-
-
-
-
-
-
-
-
-### 65
+### 12
 Help
 
-
-
-
-
-
-
-
-
-
-
-
-
-### 78
+### 13
 © 2012- Global Grey ebooks. All rights reserved.

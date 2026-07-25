@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 75
 
-> **Chapter 75**
+**Chapter 75**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 74**
+**CHAPTER 74**
 
 ### 3
 It came to pass then, when the First Mystery had finished setting forth these words unto the disciples, that he said unto them: "Who hath understood the solution of these words, let him come forward and say it in openness."

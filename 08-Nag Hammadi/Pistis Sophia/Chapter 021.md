@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 21
 
-> **Chapter 21**
+**Chapter 21**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 21**
+**CHAPTER 21**
 
 ### 3
 And it came to pass, when Jesus had finished saying these words, that Mary continued again and said: "My Lord, will not then the horoscope-casters and consulters from now on declare unto men what will come to pass for them?"

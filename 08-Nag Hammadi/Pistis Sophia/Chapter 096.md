@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 96
 
-> **Chapter 96**
+**Chapter 96**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 95**
+**CHAPTER 95**
 
 ### 3
 It came to pass then, when Jesus had heard Mary say these words and knew that the disciples had heard and had begun to let go, that he encouraged them and said unto them: "Grieve

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 55
 
-> **Chapter 55**
+**Chapter 55**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 55**
+**CHAPTER 55**
 
 ### 3
 Self-willed aideth his emanations and they again oppress Sophia.And Jesus continued again in the discourse and said unto his disciples: "It came to pass then thereafter, that I drew near unto the chaos, shining very exceedingly, to take away the light from that lion-faced power. As I shone exceedingly, it was in fear and cried out to its self-willed god, that he should help it. And forthwith the self-willed god looked out of the thirteenth æon, and looked down into the chaos, exceedingly wrathful and desiring to help his lion-faced power. And forthwith the lion-faced power, it

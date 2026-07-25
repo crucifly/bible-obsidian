@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 127
 
-> **Chapter 127**
+**Chapter 127**
 
 ### 1
 Pistis Sophia

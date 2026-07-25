@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 142
 
-> **Chapter 142**
+**Chapter 142**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 141**
+**CHAPTER 141**
 
 ### 3
 The disciples beseech Jesus to have mercy upon sinners.And when the disciples had heard this, they fell down, adored him and said: "Help us now, Lord, and have mercy upon us, in order that we may be preserved from these wicked chastisements which are prepared for the sinners. Woe unto them, woe unto the children of men! For they grope as the blind in the darkness and see not. Have mercy upon us, O Lord, in this great blindness in which we are. And have mercy upon the whole race of men; for they have lain in wait for their souls, as lions for their prey, making it [sc. the prey] ready as food for their [sc. the rulers'] chastisements because of the forgetfulness and unknowing which is in them. Have mercy then upon us, our Lord, our Saviour, have mercy upon us and save us in this great stupefaction."

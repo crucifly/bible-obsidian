@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 139
 
-> **Chapter 139**
+**Chapter 139**
 
 ### 1
 Pistis Sophia
@@ -23,7 +23,7 @@ Buy
 ### 4
 this Book at Amazon.com
 
-> **CHAPTER 138**
+**CHAPTER 138**
 
 ### 5
 And when the disciples had heard this, they fell down, adored Jesus and said

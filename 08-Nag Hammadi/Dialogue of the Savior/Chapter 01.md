@@ -626,12 +626,3 @@ will of the Father. And as for you, strive to rid yourselves of anger and jealou
 
 ### 207
 ... he will live forever. And I say to you [...], so that you will not lead your spirits
-
-### 208
-The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.
-
-### 209
-E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.
-
-### 210
-For academic citation, please refer to published editions of this text.

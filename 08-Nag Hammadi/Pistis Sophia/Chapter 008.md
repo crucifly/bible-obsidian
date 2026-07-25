@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 8
 
-> **Chapter 8**
+**Chapter 8**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 8**
+**CHAPTER 8**
 
 ### 3
 Of his own incarnation through Mary.And Jesus continued again in the discourse and said: "It came to pass then thereafter, that at the command of the First Mystery I looked down on the world of mankind and found Mary, who is called 'my mother' according to the body of matter. I spake with her in the type of Gabriēl, and when she had turned herself to the height towards me, I cast thence into her the first power which I had received from Barbēlō--that is the body which I have borne in the height. And instead of the soul I cast into her the power which I have received from the great Sabaōth, the Good, who is in the region of the Right.

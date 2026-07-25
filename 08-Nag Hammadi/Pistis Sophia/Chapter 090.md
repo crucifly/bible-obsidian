@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 90
 
-> **Chapter 90**
+**Chapter 90**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 89**
+**CHAPTER 89**
 
 ### 3
 Mary further questioneth Jesus.It came to pass then, when Mary had heard the Saviour say these words, that she rejoiced with great joy and exulted exceedingly and said unto Jesus: "My Lord, by how much

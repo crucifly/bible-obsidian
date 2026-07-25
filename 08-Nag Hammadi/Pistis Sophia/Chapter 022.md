@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 22
 
-> **Chapter 22**
+**Chapter 22**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 22**
+**CHAPTER 22**
 
 ### 3
 Philip questioneth Jesus.It came to pass then, when Jesus had finished saying these words, while Philip sat and wrote all the words that Jesus spake,--thereafter then it came to pass that Philip came forward, fell down and adored the feet of Jesus, saying: "My Lord and Saviour, grant me authority to discourse before thee and to question thee on this word, before thou discoursest with us concerning the regions whither thou didst go because of thy ministry."

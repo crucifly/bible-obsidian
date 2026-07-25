@@ -44,20 +44,20 @@ And these heads over thousands are intercalated between leader and leader, each 
 ### 13
 And the names of those who lead them: Adnâr’êl, and Îjâsûsa’êl, and ‘Elômê’êl-- these three follow the leaders of the orders, and there is one that follows the three leaders of the orders which follow those leaders of stations that divide the four parts of the year.
 
-### 15
+### 14
 In the beginning of the year Melkejâl rises first and rules, who is named †Tam’âinî† and sun, and all the days of his dominion whilst he bears rule are ninety-one days.
 
-### 16
+### 15
 And these are the signs of the days which are to be seen on earth in the days of his dominion: sweat, and heat, and calms; and all the trees bear fruit, and leaves are produced on all the trees, and the harvest of wheat, and the rose-flowers, and all the flowers which come forth in the field, but the trees of the winter season become withered.
 
-### 17
+### 16
 And these are the names of the leaders which are under them: Berka’êl, Zêlebs’êl, and another who is added a head of a thousand, called Hîlûjâsĕph: and the days of the dominion of this (leader) are at an end.
 
-### 18
+### 17
 The next leader after him is Hêl’emmêlêk, whom one names the shining sun, and all the days of his light are ninety-one days.
 
-### 19
+### 18
 And these are the signs of (his) days on the earth: glowing heat and dryness, and the trees ripen their fruits and produce all their fruits ripe and ready, and the sheep pair and become pregnant, and all the fruits of the earth are gathered in, and everything that is in the fields, and the winepress: these things take place in the days of his dominion.
 
-### 20
+### 19
 These are the names, and the orders, and the leaders of those heads of thousands: Gîdâ’îjal, Kê’êl, and Hê’êl, and the name of the head of a thousand which is added to them, Asfâ’êl’: and the days of his dominion are at an end. The Dream-Visions

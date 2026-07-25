@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 115
 
-> **Chapter 115**
+**Chapter 115**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 115**
+**CHAPTER 115**
 
 ### 3
 And Mary answered and said: "My Lord, in what type then do the baptisms forgive sins? I heard thee say: 'The retributive servitors follow the soul, being witnesses to it for all the sins which it committeth, that they may convict it in the judgments.' Now, therefore, my Lord, do the mysteries of the baptisms wipe out the sins which are in the hands of the retributive servitors, so that they forget them? Now, therefore, my Lord, tell unto us the type, how they forgive sins; nay, we desire to know it with sureness."

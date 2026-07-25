@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 128
 
-> **Chapter 128**
+**Chapter 128**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 128**
+**CHAPTER 128**
 
 ### 3
 The disciples bewail the fate of sinners.And when the Saviour had said this unto Mary, she smote her breast, she cried out and wept, she and all the disciples together, and said: "Woe unto sinners, for their chastisements are exceedingly numerous!"

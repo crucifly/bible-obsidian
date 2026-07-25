@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 67
 
-> **Chapter 67**
+**Chapter 67**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 66**
+**CHAPTER 66**
 
 ### 3
 The emanations of Sell-willed cry aloud to him for help.And the First Mystery continued again in the discourse and said: "It came to pass then, before I had led forth Pistis Sophia out of the chaos, because it was not yet commanded me through my Father, the First Mystery which looketh within,--at that time then, after the emanations of Self-willed had perceived that my light-stream had taken from them the light-powers which they had taken from Pistis Sophia, and had poured them into Pistis Sophia, and when they again had seen Pistis Sophia, that she shone as she had done from the beginning, that they were enraged against Pistis Sophia and cried out again to their Self-willed, that he should come and help them, so that they might take away the powers in Pistis Sophia anew.

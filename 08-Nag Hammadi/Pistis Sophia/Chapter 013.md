@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 13
 
-> **Chapter 13**
+**Chapter 13**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 13**
+**CHAPTER 13**
 
 ### 3
 He entereth the second sphere."And I left that region behind me and came to the gate of the second sphere, which is the Fate. Then were all its gates thrown into agitation and opened of themselves. And I entered into the houses of the Fate, shining most exceedingly, and there was no measure for the light that was about me, for I shone in the Fate forty-and-nine times more than in the [first] sphere.

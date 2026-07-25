@@ -110,7 +110,5 @@ I tell you, in that night there will be two people in one bed. The one will be t
 ### 35
 There will be two grinding grain together. One will be taken, and the other will be left.”
 
-
-
-### 37
+### 36
 They, answering, asked him, “Where, Lord?” He said to them, “Where the body is, there will the vultures also be gathered together.”

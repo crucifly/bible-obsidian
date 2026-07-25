@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 118
 
-> **Chapter 118**
+**Chapter 118**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 117**
+**CHAPTER 117**
 
 ### 3
 Mary further questioneth Jesus.Mary answered again and said: "My Lord, I will still continue to question thee. Now, therefore, my Lord, bear with me questioning thee. Lo, in openness have we known the type in which the baptisms forgive sins. Now on the other hand the mystery of these three spaces and the mysteries of this First Mystery and the mysteries of the Ineffable, in what type do they forgive sins? Do they forgive in the type of the baptisms, or not?"

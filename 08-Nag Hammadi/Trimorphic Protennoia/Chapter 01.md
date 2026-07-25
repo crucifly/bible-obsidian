@@ -740,12 +740,3 @@ mine, I shall place into the holy Light within an incomprehensible Silence. Amen
 
 ### 245
 A Sacred Scripture written by the Father with perfect Knowledge
-
-### 246
-The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.
-
-### 247
-E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.
-
-### 248
-For academic citation, please refer to published editions of this text.

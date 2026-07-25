@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 111
 
-> **Chapter 111**
+**Chapter 111**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 110**
+**CHAPTER 110**
 
 ### 3
 Jesus answered and said unto Mary: "Question on what ye question, and I will reveal [it] unto you in openness without similitude."

@@ -6,15 +6,9 @@ canon: "Nag-Hammadi"
 
 # Song of the Pearl
 
-### 1
-![](../images/abraxgem.jpg)
-
-### 2
-[![Search the entire library index](../images/butsrch.gif)](../search_form.html)
-
 #####
 
-### 4
+### 1
 Gnostic and Related Material:
 
 ###### [Library Main Page](../library.html)
@@ -43,12 +37,11 @@ Gnostic and Related Material:
 
 #####
 
-### 18
+### 2
 Return to
 
-### 19
+### 3
 [Gnosis Archive](../welcome.html)
-
 
 ## Gnostic Scriptures and Fragments
 
@@ -56,2212 +49,1386 @@ Return to
 
 ######
 
+###
+
+### 4
+Archive Notes
+
+### 5
+Imbedded within the _Acts of Thomas_ we find a beautiful and complete statement of a classic Gnostic myth describing the exile and redemption of the soul.  The text is known both as the "Hymn of the Pearl" and occasionally as "Hymn of the Robe of Glory". What astounds most is that such a clear rendition of the Gnostic mythos survived within a text which residing for centuries on the shelves of orthodox archives.
+
+### 6
+The following beautifully rendered translation is by G.R.S. Mead (from  [The Hymn of the Robe of Glory](grs-mead/grsm_robeofglory.htm) -- this excellent book is available in the library, just click the link).  Mead's brief introduction to the text is also included below.
+
+### 7
+[A second translation](#wright) of the text by William Wright  _(Apocryphal Acts of the Apostles_, London, 1871, pp. 238-245) is provided here for reference and comparision. Wright's translation is in our opinion a much less satisfactory treatment of the text.
+
+### 8
+The library offers a lecture from the archive of The Gnostic Society giving a detailed examination and exegesis of this very important scripture: [The Hymn of the Pearl: A Classic Gnostic Myth from the Acts of Thomas](/audio/951213.mp3) (MP3 format, 75 minutes lecture).
+
+### Introduction **by G .R. S. Mead**
+
+### 9
+**(This introduction is from:  [The Hymn of the Robe of Glory](grs-mead/grsm_robeofglory.htm) by G .R. S. Mead)**
+
+### 10
+The original title of this beautiful Gnostic Poem has been lost, and it is now generally referred to as _The Hymn of the Soul._ Preuschen, however, calls it _The Song of Deliverance_ (_Das Lied von der Erlösung_); while in my Fragments (1900) I ventured to name it _The Hymn of the Robe of Glory._ I here, also, prefer to retain this title, as it seems the more appropriate.
+
+### 11
+The original text of the Poem is in Old Syriac, in lines of twelve syllables with a _cæsura,_ and so in couplets, for the most part of six syllables. A text of a Greek version has recently been discovered by Bonnet at Rome (C. Vallicellanus B. 35) and published in his text of _The Acts of Thomas_ (1903). It is partly literal, partly paraphrastic, with occasional doublets and omissions of whole lines. In addition there is a summary in Greek by a certain Nicetas, Archibishop of Thessalonica, who flourished prior to the XIth century (the date of the MS. in which his abridgment is found), but who is otherwise unknown. This seems to be based on another Greek version.
+
+### 12
+The copy of the original Syriac text is found in a single MS. only (Brit. Mus. Add. 14645), which contains a collection of Lives of Saints, and bears the precise date 936 A.D. Our Poem is found in the text of the Syriac translation from the Greek of _The Acts of Judas Thomas the Apostle;_ it has, however, evidently nothing to do with the original Greek text of these Acts, and its style and contents are quite foreign to the rest of the matter. It is manifestly an independent document incorporated by the Syrian redactor, who introduces it in the usual naïve fashion of such compilations.
+
+### 13
+Judas Thomas on his travels in India is cast into prison. There he offers up a prayer. On its conclusion we read:
+
+### 14
+"And when he had prayed and sat down, Judas began to chant this hymn: The Hymn of  Judas Thomas the Apostle in the Country of the Indians."
+
+### 15
+After the Poem comes the subscription:
+
+### 16
+"The Hymn of Judas Thomas the Apostle, which he spake in prison, is ended."
+
+### 17
+This literary phenomenon is precisely similar to that presented by _The Hymn of Jesus_ (Vol. V.), to the introduction of which the reader is referred for a brief consideration of the nature of the Gnostic Acts.
+
+### 18
+Our Hymn is indubitably Gnostic; but of what school or tradition? Learned opinion is preponderatingly in favour of attributing it to the Syrian Gnostic Bardaisan (_Bardaiṣān_, also Latinized as Bardesanes, 154-222 A.D.), or, less precisely, to some Bardesanist poet. (For Bardesanes, see _F._ pp. 392-414).
+
+### 19
+This is borne out by the text of the Poem itself, in which the mention of the Parthians (38_a_) as the ruling race is decidedly in favour of its having been written prior to the overthrow of the Parthian dynasty in 224 A.D.
+
+### 20
+There are also other indications pointing to Bardaisan as the poet; not only are some of the leading doctrines peculiarly those of this distinguished teacher, as has been pointed out by Bevan and Preuschen, but also, as I have ventured to suggest, there is a certain personal note in the Poem.
+
+### 21
+Bardais~n’s parents were rich and noble; and their young son not only received the best education in manners and learning procurable, but he was brought up at the court of Edessa with the crown prince, who afterwards succeeded to the throne as one of the Abgars. Not only so, but Bardaisan subsequently converted his friend and patron to Gnostic Christianity, and induced him to make it the state-religion; so that our Gnostic must have the credit indirectly of establishing the first Christian State.
+
+### 22
+The description of the trade-route from Parthia to Egypt and of the adventures of the hero in Egypt, moreover, has led me to ask whether a real piece of personal biography may not have been woven into the Poem. May there not be in it a lost page from the occult life of Bardaisan himself?
+
 ### 23
-[Archive](../welcome.html) | [Library](../library.html) | [Bookstore](../bookstore1.htm) | [Index](../search_form.html) | [Web Lectures](../lectures.html) | [Ecclesia Gnostica](../eghome.htm) | [Gnostic Society](../gnostsoc/gnostsoc.htm)
+Filled with longing to penetrate the mysteries of the Gnosis, he joins a caravan to Egypt, and arrives at Alexandria. There he meets with a fellow-countryman on the same quest as himself, who gives him some useful hints about the many corrupt and charlatanesque schools of pseudo-gnosis that thrived in that centre of intellectual curiosity and religious enthusiasm. He, however, in spite of these warnings, seems to have fallen into the hands of the unscrupulous, and so, for a time, forgets his true spiritual quest, in the by-ways, perchance, of lower psychism and magic. Only after this bitter experience does he obtain the instruction he longs for, by initiation into the spiritual Gnosis of the inner circles of, it may have been, the Valentinian tradition.
 
 ### 24
-> ###
+Of course this speculation is put forward with all hesitation; but it is neither impossible, nor improbable.
 
 ### 25
-> Archive Notes
+In any case, it is the least important element, and need not detain us except as being a possible source of the local colouring matter. The Hymn itself is a truly poetic inspiration, and deals with far higher mysteries and experiences. But before we can venture to suggest an interpretation, the reader must be made acquainted with the Poem itself in a version based on a minute comparison of all the existing translations.
+
+### The Hymn
+
+### (The Hymn of  Judas Thomas the Apostle
 
 ### 26
->
+in the Country of the Indians)
 
 ### 27
-> > Imbedded within the _Acts of Thomas_ we find a beautiful and complete statement of a classic Gnostic myth describing the exile and redemption of the soul.  The text is known both as the "Hymn of the Pearl" and occasionally as "Hymn of the Robe of Glory". What astounds most is that such a clear rendition of the Gnostic mythos survived within a text which residing for centuries on the shelves of orthodox archives.
+I.
 
 ### 28
-> >
+When, a quite little child, I was dwelling
 
 ### 29
-> > The following beautifully rendered translation is by G.R.S. Mead (from  [The Hymn of the Robe of Glory](grs-mead/grsm_robeofglory.htm) -- this excellent book is available in the library, just click the link).  Mead's brief introduction to the text is also included below.
+In the House of my Father’s Kingdom,
 
 ### 30
-> >
+And in the wealth and the glories
 
 ### 31
-> > [A second translation](#wright) of the text by William Wright  _(Apocryphal Acts of the Apostles_, London, 1871, pp. 238-245) is provided here for reference and comparision. Wright's translation is in our opinion a much less satisfactory treatment of the text.
+Of my Up-bringers I was delighting,
 
 ### 32
-> >
+From the East, our Home, my Parents
 
 ### 33
-> > The library offers a lecture from the archive of The Gnostic Society giving a detailed examination and exegesis of this very important scripture: [The Hymn of the Pearl: A Classic Gnostic Myth from the Acts of Thomas](/audio/951213.mp3) (MP3 format, 75 minutes lecture).
+Forth-sent me with journey-provision.
 
 ### 34
->
+Indeed from the wealth of our Treasure,
 
 ### 35
-> * * *
+They bound up for me a load.
 
 ### 36
->
+Large was it, yet was it so light
 
 ### 37
-> ### Introduction **by G .R. S. Mead**
+That all alone I could bear it.
 
 ### 38
->
+II.
 
 ### 39
-> > **(This introduction is from:  [The Hymn of the Robe of Glory](grs-mead/grsm_robeofglory.htm) by G .R. S. Mead)**
+Gold from the Land of Beth-Ellaya,
 
 ### 40
-> >
+Silver from Gazak the Great,
 
 ### 41
-> > The original title of this beautiful Gnostic Poem has been lost, and it is now generally referred to as _The Hymn of the Soul._ Preuschen, however, calls it _The Song of Deliverance_ (_Das Lied von der Erlösung_); while in my Fragments (1900) I ventured to name it _The Hymn of the Robe of Glory._ I here, also, prefer to retain this title, as it seems the more appropriate.
+Chalcedonies of India,
 
 ### 42
-> >
+Iris-hued \[Opals?\] from Kãshan.
 
 ### 43
-> > The original text of the Poem is in Old Syriac, in lines of twelve syllables with a _cæsura,_ and so in couplets, for the most part of six syllables. A text of a Greek version has recently been discovered by Bonnet at Rome (C. Vallicellanus B. 35) and published in his text of _The Acts of Thomas_ (1903). It is partly literal, partly paraphrastic, with occasional doublets and omissions of whole lines. In addition there is a summary in Greek by a certain Nicetas, Archibishop of Thessalonica, who flourished prior to the XIth century (the date of the MS. in which his abridgment is found), but who is otherwise unknown. This seems to be based on another Greek version.
+They girt me with Adamant \[also\]
 
 ### 44
-> >
+That hath power to cut even iron.
 
 ### 45
-> > The copy of the original Syriac text is found in a single MS. only (Brit. Mus. Add. 14645), which contains a collection of Lives of Saints, and bears the precise date 936 A.D. Our Poem is found in the text of the Syriac translation from the Greek of _The Acts of Judas Thomas the Apostle;_ it has, however, evidently nothing to do with the original Greek text of these Acts, and its style and contents are quite foreign to the rest of the matter. It is manifestly an independent document incorporated by the Syrian redactor, who introduces it in the usual naïve fashion of such compilations.
+My Glorious Robe they took off me
 
 ### 46
-> >
+Which in their love they had wrought me,
 
 ### 47
-> > Judas Thomas on his travels in India is cast into prison. There he offers up a prayer. On its conclusion we read:
+And my Purple Mantle \[also\]
 
 ### 48
-> >
+Which was woven to match with my stature.
 
 ### 49
-> > > "And when he had prayed and sat down, Judas began to chant this hymn: The Hymn of  Judas Thomas the Apostle in the Country of the Indians."
+III.
 
 ### 50
-> >
+And with me They \[then\] made a compact;
 
 ### 51
-> > After the Poem comes the subscription:
+In my heart wrote it, not to forget it:
 
 ### 52
-> >
+"If thou goest down into Egypt,
 
 ### 53
-> > > "The Hymn of Judas Thomas the Apostle, which he spake in prison, is ended."
+And thence thou bring’st the one Pearl –
 
 ### 54
-> >
+"\[The Pearl\] that lies in the Sea,
 
 ### 55
-> > This literary phenomenon is precisely similar to that presented by _The Hymn of Jesus_ (Vol. V.), to the introduction of which the reader is referred for a brief consideration of the nature of the Gnostic Acts.
+Hard by the loud-breathing Serpent –
 
 ### 56
-> >
+"\[Then\] shalt Thou put on thy Robe
 
 ### 57
-> > Our Hymn is indubitably Gnostic; but of what school or tradition? Learned opinion is preponderatingly in favour of attributing it to the Syrian Gnostic Bardaisan (_Bardaiṣān_, also Latinized as Bardesanes, 154-222 A.D.), or, less precisely, to some Bardesanist poet. (For Bardesanes, see _F._ pp. 392-414).
+And thy Mantle that goeth upon it,
 
 ### 58
-> >
+"And with thy Brother, Our Second,
 
 ### 59
-> > This is borne out by the text of the Poem itself, in which the mention of the Parthians (38_a_) as the ruling race is decidedly in favour of its having been written prior to the overthrow of the Parthian dynasty in 224 A.D.
+Shalt thou be Heir in our Kingdom."
 
 ### 60
->
+IV.
 
 ### 61
-> > There are also other indications pointing to Bardaisan as the poet; not only are some of the leading doctrines peculiarly those of this distinguished teacher, as has been pointed out by Bevan and Preuschen, but also, as I have ventured to suggest, there is a certain personal note in the Poem.
+I left the East and went down
 
 ### 62
-> >
+With two Couriers \[with me\];
 
 ### 63
-> > Bardais~n’s parents were rich and noble; and their young son not only received the best education in manners and learning procurable, but he was brought up at the court of Edessa with the crown prince, who afterwards succeeded to the throne as one of the Abgars. Not only so, but Bardaisan subsequently converted his friend and patron to Gnostic Christianity, and induced him to make it the state-religion; so that our Gnostic must have the credit indirectly of establishing the first Christian State.
+For the way was hard and dangerous,
 
 ### 64
-> >
+For I was young to tread it.
 
 ### 65
-> > The description of the trade-route from Parthia to Egypt and of the adventures of the hero in Egypt, moreover, has led me to ask whether a real piece of personal biography may not have been woven into the Poem. May there not be in it a lost page from the occult life of Bardaisan himself?
+I traversed the borders of Maish~ n,
 
 ### 66
-> >
+The mart of the Eastern merchants,
 
 ### 67
-> > Filled with longing to penetrate the mysteries of the Gnosis, he joins a caravan to Egypt, and arrives at Alexandria. There he meets with a fellow-countryman on the same quest as himself, who gives him some useful hints about the many corrupt and charlatanesque schools of pseudo-gnosis that thrived in that centre of intellectual curiosity and religious enthusiasm. He, however, in spite of these warnings, seems to have fallen into the hands of the unscrupulous, and so, for a time, forgets his true spiritual quest, in the by-ways, perchance, of lower psychism and magic. Only after this bitter experience does he obtain the instruction he longs for, by initiation into the spiritual Gnosis of the inner circles of, it may have been, the Valentinian tradition.
+And I reached the Land of Babel,
 
 ### 68
-> >
+And entered the walls of Sarbãg.
 
 ### 69
-> > Of course this speculation is put forward with all hesitation; but it is neither impossible, nor improbable.
+Down further I went into Egypt;
 
 ### 70
-> >
+And from me parted my escorts.
 
 ### 71
-> > In any case, it is the least important element, and need not detain us except as being a possible source of the local colouring matter. The Hymn itself is a truly poetic inspiration, and deals with far higher mysteries and experiences. But before we can venture to suggest an interpretation, the reader must be made acquainted with the Poem itself in a version based on a minute comparison of all the existing translations.
+V.
 
 ### 72
->
+Straightway I went to the Serpent;
 
 ### 73
-> * * *
+Near to his lodging I settled,
 
 ### 74
->
+To take away my Pearl
 
 ### 75
-> ### The Hymn
+While he should sleep and should slumber.
 
 ### 76
->
+Lone was I there, yea, all lonely;
 
 ### 77
-> ### (The Hymn of  Judas Thomas the Apostle
+To my fellow-lodgers a stranger.
 
 ### 78
-> in the Country of the Indians)
+However I saw there a noble,
 
 ### 79
->
+From out of the Dawn-land my kinsman,
 
 ### 80
-> Translated by G.R.S. Mead
+A young man fair and well favoured,
 
 ### 81
->
+Son of Grandees; he came and he joined me.
 
 ### 82
-> I.
+VI.
 
 ### 83
->
+I made him my chosen companion,
 
 ### 84
-> When, a quite little child, I was dwelling
+A comrade, for sharing my wares with.
 
 ### 85
-> In the House of my Father’s Kingdom,
+He warned me against the Egyptians,
 
 ### 86
->
+’Gainst mixing with the unclean ones.
 
 ### 87
-> And in the wealth and the glories
+For I had clothed me as they were,
 
 ### 88
-> Of my Up-bringers I was delighting,
+That they might not guess I had come
 
 ### 89
->
+From afar to take off the Pearl,
 
 ### 90
-> From the East, our Home, my Parents
+And so rouse the Serpent against me.
 
 ### 91
-> Forth-sent me with journey-provision.
+VII.
 
 ### 92
->
+But from some occasion or other
 
 ### 93
-> Indeed from the wealth of our Treasure,
+They learned I was not of their country.
 
 ### 94
-> They bound up for me a load.
+With their wiles they made my acquaintance;
 
 ### 95
->
+Yea, they gave me their victuals to eat.
 
 ### 96
-> Large was it, yet was it so light
+I forgot that I was a King’s son,
 
 ### 97
-> That all alone I could bear it.
+And became a slave to their king.
 
 ### 98
->
+I forgot all concerning the Pearl
 
 ### 99
-> II.
+For which my Parents had sent me;
 
 ### 100
->
+And from the weight of their victuals
 
 ### 101
-> Gold from the Land of Beth-Ellaya,
+I sank down into a deep sleep.
 
 ### 102
-> Silver from Gazak the Great,
+VIII.
 
 ### 103
->
+All this that now was befalling,
 
 ### 104
-> Chalcedonies of India,
+My Parents perceived and were anxious.
 
 ### 105
-> Iris-hued \[Opals?\] from Kãshan.
+It was then proclaimed in our Kingdom,
 
 ### 106
->
+That all should speed to our Gate –
 
 ### 107
-> They girt me with Adamant \[also\]
+Kings and Chieftains of Parthia,
 
 ### 108
-> That hath power to cut even iron.
+And of the East all the Princes.
 
 ### 109
->
+And this is the counsel they came to:
 
 ### 110
-> My Glorious Robe they took off me
+I should not be left down in Egypt.
 
 ### 111
-> Which in their love they had wrought me,
+And for me they wrote out a Letter;
 
 ### 112
->
+And to it each Noble his Name set:
 
 ### 113
-> And my Purple Mantle \[also\]
+IX.
 
 ### 114
-> Which was woven to match with my stature.
+"From Us – King of Kings, thy Father,
 
 ### 115
->
+And thy Mother, Queen of the Dawn-land,
 
 ### 116
-> III.
+"And from Our Second, thy Brother –
 
 ### 117
->
+To thee, Son, down in Egypt, Our Greeting!
 
 ### 118
-> And with me They \[then\] made a compact;
+"Up an arise from thy sleep,
 
 ### 119
-> In my heart wrote it, not to forget it:
+Give ear to the words of Our Letter!
 
 ### 120
->
+"Remember that thou art a King’s son;
 
 ### 121
-> "If thou goest down into Egypt,
+See whom thou hast served in thy slavedom.
 
 ### 122
-> And thence thou bring’st the one Pearl –
+Bethink thyself of the Pearl
 
 ### 123
->
+For which thou didst journey to Egypt.
 
 ### 124
-> "\[The Pearl\] that lies in the Sea,
+X.
 
 ### 125
-> Hard by the loud-breathing Serpent –
+"Remember thy Glorious Robe,
 
 ### 126
->
+Thy Splendid Mantle remember,
 
 ### 127
-> "\[Then\] shalt Thou put on thy Robe
+"To put on and wear as adornment,
 
 ### 128
-> And thy Mantle that goeth upon it,
+When thy Name may be read in the Book of the Heroes,
 
 ### 129
->
+"And with Our Successor, thy Brother,
 
 ### 130
-> "And with thy Brother, Our Second,
+Thou mayest be Heir in Our Kingdom."
 
 ### 131
-> Shalt thou be Heir in our Kingdom."
+My Letter was \[surely\] a Letter
 
 ### 132
->
+The King had sealed up with His Right Hand,
 
 ### 133
-> IV.
+’Gainst the Children of Babel, the wicked,
 
 ### 134
->
+The tyrannical Daimons of Sarbãg.
 
 ### 135
-> I left the East and went down
+XI.
 
 ### 136
-> With two Couriers \[with me\];
+It flew in the form of the Eagle,
 
 ### 137
->
+Of all the winged tribes the king-bird;
 
 ### 138
-> For the way was hard and dangerous,
+It flew and alighted beside me,
 
 ### 139
-> For I was young to tread it.
+And turned into speech altogether.
 
 ### 140
->
+At its voice and the sound of its winging,
 
 ### 141
-> I traversed the borders of Maish~ n,
+I waked and arose from my deep sleep.
 
 ### 142
-> The mart of the Eastern merchants,
+Unto me I took it and kissed it;
 
 ### 143
->
+I loosed its seal and I read it.
 
 ### 144
-> And I reached the Land of Babel,
+E’en as it stood in my heart writ,
 
 ### 145
-> And entered the walls of Sarbãg.
+The words of my Letter were written.
 
 ### 146
->
+XII.
 
 ### 147
-> Down further I went into Egypt;
+I remembered that I was a King’s son,
 
 ### 148
-> And from me parted my escorts.
+And my rank did long for its nature.
 
 ### 149
->
+I bethought me again of the Pearl,
 
 ### 150
-> V.
+For which I was sent down to Egypt.
 
 ### 151
->
+And I began \[then\] to charm him,
 
 ### 152
-> Straightway I went to the Serpent;
+The terrible loud-breathing Serpent.
 
 ### 153
-> Near to his lodging I settled,
+I lulled him to sleep and to slumber,
 
 ### 154
->
+Chanting o’er him the Name of my Father,
 
 ### 155
-> To take away my Pearl
+The Name of our Second, \[my Brother\],
 
 ### 156
-> While he should sleep and should slumber.
+And \[Name\] of my Mother, the East-Queen.
 
 ### 157
->
+XIII.
 
 ### 158
-> Lone was I there, yea, all lonely;
+And \[thereon\] I snatched up the Pearl,
 
 ### 159
-> To my fellow-lodgers a stranger.
+And turned to the House of my Father.
 
 ### 160
->
+Their filthy and unclean garments
 
 ### 161
-> However I saw there a noble,
+I stripped off and left in their country.
 
 ### 162
-> From out of the Dawn-land my kinsman,
+To the way that I came I betook me,
 
 ### 163
->
+To the Light of our Home, to the Dawn-land.
 
 ### 164
-> A young man fair and well favoured,
+On the road I found \[there\] before me,
 
 ### 165
-> Son of Grandees; he came and he joined me.
+My Letter that had aroused me –
 
 ### 166
->
+As with its voice it had roused me,
 
 ### 167
-> VI.
+So now with its light it did lead me –
 
 ### 168
->
+XIV.
 
 ### 169
-> I made him my chosen companion,
+On fabric of silk, in letter of red \[?\],
 
 ### 170
-> A comrade, for sharing my wares with.
+With shining appearance before me \[?\],
 
 ### 171
->
+Encouraging me with its guidance,
 
 ### 172
-> He warned me against the Egyptians,
+With its love it was drawing me onward.
 
 ### 173
-> ’Gainst mixing with the unclean ones.
+I went forth; through Sarbãg I passed;
 
 ### 174
->
+I left B~ bel-land on my left hand;
 
 ### 175
-> For I had clothed me as they were,
+And I reached unto Maishan the Great,
 
 ### 176
-> That they might not guess I had come
+The meeting-place of the merchants,
 
 ### 177
->
+That lieth hard by the Sea-shore.
 
 ### 178
-> From afar to take off the Pearl,
+XV.
 
 ### 179
-> And so rouse the Serpent against me.
+My Glorious Robe that I’d stripped off,
 
 ### 180
->
+And my Mantle with which it was covered,
 
 ### 181
-> VII.
+Down from the Heights of Hyrcania,
 
 ### 182
->
+Thither my Parents did send me,
 
 ### 183
-> But from some occasion or other
+By the hands of their Treasure-dispensers
 
 ### 184
-> They learned I was not of their country.
+Who trustworthy were with it trusted.
 
 ### 185
->
+Without my recalling its fashion, –
 
 ### 186
-> With their wiles they made my acquaintance;
+In the House of my Father my childhood had left it,--
 
 ### 187
-> Yea, they gave me their victuals to eat.
+At once, as soon as I saw it,
 
 ### 188
->
+The Glory looked like my own self.
 
 ### 189
-> I forgot that I was a King’s son,
+XVI.
 
 ### 190
-> And became a slave to their king.
+I saw it in all of me,
 
 ### 191
->
+And saw me all in \[all of\] it, –
 
 ### 192
-> I forgot all concerning the Pearl
+That we were twain in distinction,
 
 ### 193
-> For which my Parents had sent me;
+And yet again one in one likeness.
 
 ### 194
->
+I saw, too, the Treasurers also,
 
 ### 195
-> And from the weight of their victuals
+Who unto me had down-brought it,
 
 ### 196
-> I sank down into a deep sleep.
+Were twain \[and yet\] of one likeness;
 
 ### 197
->
+For one Sign of the King was upon them –
 
 ### 198
-> VIII.
+Who through them restored me the Glory,
 
 ### 199
->
+The Pledge of my Kingship \[?\].
 
 ### 200
-> All this that now was befalling,
+XVII.
 
 ### 201
-> My Parents perceived and were anxious.
+The Glorious Robe all-bespangled
 
 ### 202
->
+With sparkling splendour of colours:
 
 ### 203
-> It was then proclaimed in our Kingdom,
+With Gold and also with Beryls,
 
 ### 204
-> That all should speed to our Gate –
+Chalcedonies, iris-hued \[Opals?\],
 
 ### 205
->
+With Sards of varying colours.
 
 ### 206
-> Kings and Chieftains of Parthia,
+To match its grandeur \[?\], moreover, it had been completed:
 
 ### 207
-> And of the East all the Princes.
+With adamantine jewels
 
 ### 208
->
+All of its seams were off-fastened.
 
 ### 209
-> And this is the counsel they came to:
+\[Moreover\] the King of Kings’ Image
 
 ### 210
-> I should not be left down in Egypt.
+Was depicted entirely all o’er it;
 
 ### 211
->
+And as with Sapphires above
 
 ### 212
-> And for me they wrote out a Letter;
+Was it wrought in a motley of colour.
 
 ### 213
-> And to it each Noble his Name set:
+XVIII.
 
 ### 214
->
+I saw that moreover all o’er it
 
 ### 215
-> IX.
+The motions of Gnosis abounding;
 
 ### 216
->
+I saw it further was making
 
 ### 217
-> "From Us – King of Kings, thy Father,
+Ready as though for to speak.
 
 ### 218
-> And thy Mother, Queen of the Dawn-land,
+I heard the sound of its Music
 
 ### 219
->
+Which it whispered as it descended \[?\]:
 
 ### 220
-> "And from Our Second, thy Brother –
+"Behold him the active in deeds!
 
 ### 221
-> To thee, Son, down in Egypt, Our Greeting!
+For whom I was reared with my Father;
 
 ### 222
->
+"I too have felt in myself
 
 ### 223
-> "Up an arise from thy sleep,
+How that with his works waxed my stature."
 
 ### 224
-> Give ear to the words of Our Letter!
+XIX.
 
 ### 225
->
+And \[now\] with its Kingly motions
 
 ### 226
-> "Remember that thou art a King’s son;
+Was it pouring itself out towards me,
 
 ### 227
-> See whom thou hast served in thy slavedom.
+And made haste in the hands of its Givers,
 
 ### 228
->
+That I might \[take and\] receive it.
 
 ### 229
-> Bethink thyself of the Pearl
+And me, too, my love urged forward
 
 ### 230
-> For which thou didst journey to Egypt.
+To run for to meet it, to take it.
 
 ### 231
->
+And I stretched myself forth to receive it;
 
 ### 232
-> X.
+With its beauty of colour I decked me,
 
 ### 233
->
+And my Mantle of sparkling colours
 
 ### 234
-> "Remember thy Glorious Robe,
+I wrapped entirely all o’er me.
 
 ### 235
-> Thy Splendid Mantle remember,
+XX.
 
 ### 236
->
+I clothed me therewith, and ascended
 
 ### 237
-> "To put on and wear as adornment,
+To the Gate of Greeting and Homage.
 
 ### 238
-> When thy Name may be read in the Book of the Heroes,
+I bowed my head and did homage
 
 ### 239
->
+To the Glory of Him who had sent it,
 
 ### 240
-> "And with Our Successor, thy Brother,
+Whose commands I \[now\] had accomplished,
 
 ### 241
-> Thou mayest be Heir in Our Kingdom."
+And who had, too, done what He’d promised.
 
 ### 242
->
+\[And there\] at the Gate of His House-sons
 
 ### 243
-> My Letter was \[surely\] a Letter
+I mingled myself with His Princes;
 
 ### 244
-> The King had sealed up with His Right Hand,
+For He had received me with gladness,
 
 ### 245
->
+And I was with Him in His Kingdom;
 
 ### 246
-> ’Gainst the Children of Babel, the wicked,
+XXI.
 
 ### 247
-> The tyrannical Daimons of Sarbãg.
+To whom the whole of His Servants
 
 ### 248
->
+With sweet-sounding voices sing praises.
 
 ### 249
-> XI.
+\* \* \* \* \*
 
 ### 250
->
+He had promised that with him to the Court
 
 ### 251
-> It flew in the form of the Eagle,
+Of the King of Kings I should speed,
 
 ### 252
-> Of all the winged tribes the king-bird;
+And taking with me my Pearl
 
 ### 253
->
+Should with him be seen by our King.
 
 ### 254
-> It flew and alighted beside me,
+The Hymn of Judas Thomas the Apostle,
 
 ### 255
-> And turned into speech altogether.
+which he spake in prison, is ended.
 
 ### 256
->
+The following alternative translation  from the Syriac version of the text is by William Wright, _Apocryphal Acts of the Apostles_ (London, 1871), pp. 238-245. Illegible words are indicated by (...). The hymn has been arranged in couplets, following A. E. J. Klijn, _The Acts of Thomas_ (Leiden, 1962), pp. 120-125. Klijn uses Wright's translation except for a few variant readings.
+
+### The Hymn of Judas Thomas the Apostle
 
 ### 257
-> At its voice and the sound of its winging,
+When I was a little child,
 
 ### 258
-> I waked and arose from my deep sleep.
+and dwelling in my kingdom,
 
 ### 259
->
+in my father's house, and was content with the wealth and the
 
 ### 260
-> Unto me I took it and kissed it;
+luxuries of my nourishers,
 
 ### 261
-> I loosed its seal and I read it.
+from the East, our home,
 
 ### 262
->
+my parents equipped me (and) sent me forth;
 
 ### 263
-> E’en as it stood in my heart writ,
+and of the wealth of our treasury
 
 ### 264
-> The words of my Letter were written.
+they took abundantly, (and) tied up for me a load
 
 ### 265
->
+large and (yet) light, which I myself could carry,
 
 ### 266
-> XII.
+gold of Beth-Ellaya,
 
 ### 267
->
+and silver of Gazak the great,
 
 ### 268
-> I remembered that I was a King’s son,
+and rubies of India,
 
 ### 269
-> And my rank did long for its nature.
+and agates from Beth-Kashan,
 
 ### 270
->
+and they furnished me with the adamant,
 
 ### 271
-> I bethought me again of the Pearl,
+which can crush iron.
 
 ### 272
-> For which I was sent down to Egypt.
+And they took off from me the glittering robe,
 
 ### 273
->
+which in their affection they made for me,
 
 ### 274
-> And I began \[then\] to charm him,
+and the purple toga,
 
 ### 275
-> The terrible loud-breathing Serpent.
+which was measured (and) woven to my stature.
 
 ### 276
->
+And they made a compact with me,
 
 ### 277
-> I lulled him to sleep and to slumber,
+and wrote it in my heart, that it might not be forgotten:
 
 ### 278
-> Chanting o’er him the Name of my Father,
+"If thou goest down into Egypt,
 
 ### 279
->
+and bringest the one pearl,
 
 ### 280
-> The Name of our Second, \[my Brother\],
+which is in the midst of the sea
 
 ### 281
-> And \[Name\] of my Mother, the East-Queen.
+around the loud-breathing serpent,
 
 ### 282
->
+thou shalt put on thy glittering robe
 
 ### 283
-> XIII.
+and thy toga, with which (thou art) contented,
 
 ### 284
->
+and with thy brother, who is next to us in authority,
 
 ### 285
-> And \[thereon\] I snatched up the Pearl,
+thou shalt be heir in our kingdom."
 
 ### 286
-> And turned to the House of my Father.
+I quitted the East (and) went down,
 
 ### 287
->
+there being two guardians,
 
 ### 288
-> Their filthy and unclean garments
+for the way was dangerous and difficult,
 
 ### 289
-> I stripped off and left in their country.
+and I was very young to travel it.
 
 ### 290
->
+I passed through the borders of Maishan,
 
 ### 291
-> To the way that I came I betook me,
+the meeting-place of the merchants of the East,
 
 ### 292
-> To the Light of our Home, to the Dawn-land.
+and I reached the land of Babel,
 
 ### 293
->
+and I entered the walls of Sarbug.
 
 ### 294
-> On the road I found \[there\] before me,
+I went down into Egypt,
 
 ### 295
-> My Letter that had aroused me –
+and my companions parted from me.
 
 ### 296
->
+I went straight to the serpent,
 
 ### 297
-> As with its voice it had roused me,
+I dwelt in his abode,
 
 ### 298
-> So now with its light it did lead me –
+(waiting) till he should lumber and sleep,
 
 ### 299
->
+and I could take my pearl from him.
 
 ### 300
-> XIV.
+And when I was single and alone
 
 ### 301
->
+(and) became strange to my family,
 
 ### 302
-> On fabric of silk, in letter of red \[?\],
+one of my race, a free-born man,
 
 ### 303
-> With shining appearance before me \[?\],
+and Oriental, I saw there,
 
 ### 304
->
+a youth fair and loveable,
 
 ### 305
-> Encouraging me with its guidance,
+the son of oil-sellers;
 
 ### 306
-> With its love it was drawing me onward.
+and he came and attached himself to me,
 
 ### 307
->
+and I made him my intimate friend,
 
 ### 308
-> I went forth; through Sarbãg I passed;
+and associate with whom I shared my merchandise.
 
 ### 309
-> I left B~ bel-land on my left hand;
+I warned him against the Egyptians,
 
 ### 310
->
+and against consorting with the unclean;
 
 ### 311
-> And I reached unto Maishan the Great,
+And I dressed in their dress,
 
 ### 312
-> The meeting-place of the merchants,
+that they might not hold me in abhorrence,
 
 ### 313
->
+because I was come from abroad in order to take the pearl,
 
 ### 314
-> That lieth hard by the Sea-shore.
+and arouse the serpent against me.
 
 ### 315
->
+But in some way other or another
 
 ### 316
-> XV.
+they found out that I was not their countryman,
 
 ### 317
->
+and they dealt with me treacherously,
 
 ### 318
-> My Glorious Robe that I’d stripped off,
+and gave their food to eat.
 
 ### 319
-> And my Mantle with which it was covered,
+I forget that I was a son of kings,
 
 ### 320
->
+and I served their king;
 
 ### 321
-> Down from the Heights of Hyrcania,
+and I forgot the pearl,
 
 ### 322
-> Thither my Parents did send me,
+for which my parents had sent me,
 
 ### 323
->
+and because of the burden of their oppressions
 
 ### 324
-> By the hands of their Treasure-dispensers
+I lay in a deep sleep.
 
 ### 325
-> Who trustworthy were with it trusted.
+But all this things that befell me
 
 ### 326
->
+my parents perceived, and were grieved for me;
 
 ### 327
-> Without my recalling its fashion, –
+and proclamation was made in our kingdom,
 
 ### 328
-> In the House of my Father my childhood had left it,--
+that every one should come to our gate \[kingdom\],
 
 ### 329
->
+kings and princes of Parthia,
 
 ### 330
-> At once, as soon as I saw it,
+and all the nobles of the East.
 
 ### 331
-> The Glory looked like my own self.
+And they wove a plan on my behalf,
 
 ### 332
->
+that I might not be left in Egypt;
 
 ### 333
-> XVI.
+and they wrote to me a letter,
 
 ### 334
->
+and every noble signed his name to it:
 
 ### 335
-> I saw it in all of me,
+"From thy father, the king of kings,
 
 ### 336
-> And saw me all in \[all of\] it, –
+and thy mother, the mistress of the East,
 
 ### 337
->
+and from thy brother, our second (in authority),
 
 ### 338
-> That we were twain in distinction,
+to thee our son, who art in Egypt, greeting!
 
 ### 339
-> And yet again one in one likeness.
+Call to mind that thou art a son of kings!
 
 ### 340
->
+See the slavery,--whom thou servest!
 
 ### 341
-> I saw, too, the Treasurers also,
+Remember the pearl,
 
 ### 342
-> Who unto me had down-brought it,
+for which thou was sent to Egypt!
 
 ### 343
->
+Think of thy robe,
 
 ### 344
-> Were twain \[and yet\] of one likeness;
+and remember thy splendid toga,
 
 ### 345
-> For one Sign of the King was upon them –
+which thou shalt wear and (with which) thou shalt be adorned,
 
 ### 346
->
+when thy name hath been read out in the list of the valiant,
 
 ### 347
-> Who through them restored me the Glory,
+and thy brother, our viceroy,
 
 ### 348
-> The Pledge of my Kingship \[?\].
+thou shalt be in our kingdom."
 
 ### 349
->
+My letter is a letter,
 
 ### 350
-> XVII.
+which the king sealed with his own right hand,
 
 ### 351
->
+(to keep it) from the wicked ones, the children of Babel,
 
 ### 352
-> The Glorious Robe all-bespangled
+and from the savage demons of Sarbug.
 
 ### 353
-> With sparkling splendour of colours:
+It flew in the likeness of an eagle,
 
 ### 354
->
+the king of all birds;
 
 ### 355
-> With Gold and also with Beryls,
+it flew and alight beside me,
 
 ### 356
-> Chalcedonies, iris-hued \[Opals?\],
+and became all speech.
 
 ### 357
->
+At its voice and the sound of its rustling,
 
 ### 358
-> With Sards of varying colours.
+I started and arose from my sleep.
 
 ### 359
-> To match its grandeur \[?\], moreover, it had been completed:
+I took it up and kissed it,
 
 ### 360
->
+and I began (and) read it;
 
 ### 361
-> With adamantine jewels
+and according to what was traced on my heart
 
 ### 362
-> All of its seams were off-fastened.
+were the words of my letter.
 
 ### 363
->
+I remembered that I was a son of royal parents,
 
 ### 364
-> \[Moreover\] the King of Kings’ Image
+and my noble birth asserted itself.
 
 ### 365
-> Was depicted entirely all o’er it;
+I remembered the pearl,
 
 ### 366
->
+for which I had been sent to Egypt,
 
 ### 367
-> And as with Sapphires above
+and I began to charm him,
 
 ### 368
-> Was it wrought in a motley of colour.
+the terrible loud breathing serpent.
 
 ### 369
->
+I hushed him asleep and lulled him into slumber,
 
 ### 370
-> XVIII.
+for my father's name I named over him,
 
 ### 371
->
+and the name of our second (in power),
 
 ### 372
-> I saw that moreover all o’er it
+and the of my mother, the queen of the East.
 
 ### 373
-> The motions of Gnosis abounding;
+And I snatched away the pearl,
 
 ### 374
->
+and turned to go back to my father's house.
 
 ### 375
-> I saw it further was making
+And their filthy and unclean dress I stripped off,
 
 ### 376
-> Ready as though for to speak.
+and left it in their country;
 
 ### 377
->
+and I took my way straight to come
 
 ### 378
-> I heard the sound of its Music
+to the light of our home in the East.
 
 ### 379
-> Which it whispered as it descended \[?\]:
+And my letter, my awakener,
 
 ### 380
->
+I found before me on the road;
 
 ### 381
-> "Behold him the active in deeds!
+and as with its voice it had awakened me,
 
 ### 382
-> For whom I was reared with my Father;
+(so) too with its light it was leading me.
 
 ### 383
->
+It, that dwelt in the palace,
 
 ### 384
-> "I too have felt in myself
+gave light before me with its form,
 
 ### 385
-> How that with his works waxed my stature."
+and with its voice and its guidance
 
 ### 386
->
+it also encouraged me to speed,
 
 ### 387
-> XIX.
+and with its love it drew me on.
 
 ### 388
->
+I went forth (and) passed by Sarbug;
 
 ### 389
-> And \[now\] with its Kingly motions
+I left Babel on my left hand;
 
 ### 390
-> Was it pouring itself out towards me,
+and I came to the great Maisan,
 
 ### 391
->
+to the haven of merchants,
 
 ### 392
-> And made haste in the hands of its Givers,
+which sitteth on the shore of the sea.
 
 ### 393
-> That I might \[take and\] receive it.
+And my bright robe, which I had stripped off,
 
 ### 394
->
+and the toga that was wrapped with it,
 
 ### 395
-> And me, too, my love urged forward
+from Rantha and Reken(?)
 
 ### 396
-> To run for to meet it, to take it.
+my parents had sent thither
 
 ### 397
->
+by the hand of their treasures,
 
 ### 398
-> And I stretched myself forth to receive it;
+who in their truth could be trusted therewith.
 
 ### 399
-> With its beauty of colour I decked me,
+And because I remembered not its fashion,--
 
 ### 400
->
+for in my childhood I had left it in my father's house,--
 
 ### 401
-> And my Mantle of sparkling colours
+on a sudden, when I received it,
 
 ### 402
-> I wrapped entirely all o’er me.
+the garment seemed to me to become like a mirror of myself.
 
 ### 403
->
+I saw it all in all,
 
 ### 404
-> XX.
+and I to received all in it,
 
 ### 405
->
+for we were two in distinction
 
 ### 406
-> I clothed me therewith, and ascended
+and yet gain one in one likeness.
 
 ### 407
-> To the Gate of Greeting and Homage.
+And the treasurers too,
 
 ### 408
->
+who brought it to me, I saw in like manner
 
 ### 409
-> I bowed my head and did homage
+to be two (and yet) one likeness,
 
 ### 410
-> To the Glory of Him who had sent it,
+for one sign of the king was written on them (both),
 
 ### 411
->
+of the hands of him who restored to me through them
 
 ### 412
-> Whose commands I \[now\] had accomplished,
+my trust and my wealth,
 
 ### 413
-> And who had, too, done what He’d promised.
+my decorated robe, which
 
 ### 414
->
+was adorned with glorious colors,
 
 ### 415
-> \[And there\] at the Gate of His House-sons
+with gold and beryls
 
 ### 416
-> I mingled myself with His Princes;
+and rubies and agates
 
 ### 417
->
+and sardonyxes, varied in color.
 
 ### 418
-> For He had received me with gladness,
+And it was skillfully worked in its home on high,
 
 ### 419
-> And I was with Him in His Kingdom;
+and with diamond clasps
 
 ### 420
->
+were all its seams fastened;
 
 ### 421
-> XXI.
+and the image of the king of kings
 
 ### 422
->
+was embroidered and depicted in full all over it,
 
 ### 423
-> To whom the whole of His Servants
+and like the stone of the sapphire too
 
 ### 424
-> With sweet-sounding voices sing praises.
+its hues were varied.
 
 ### 425
->
+And I saw also that all over it
 
 ### 426
-> \* \* \* \* \*
+the instincts of knowledge were working,
 
 ### 427
->
+and I saw too that it was preparing to speak.
 
 ### 428
-> He had promised that with him to the Court
+I heard the sound of its tones,
 
 ### 429
-> Of the King of Kings I should speed,
+which it uttered with its....., (saying):
 
 ### 430
->
+"I am the active in deeds,
 
 ### 431
-> And taking with me my Pearl
+whom they reared for him before my father;
 
 ### 432
-> Should with him be seen by our King.
+and I perceived myself,
 
 ### 433
->
+that my stature grew according to his labors."
 
 ### 434
-> The Hymn of Judas Thomas the Apostle,
+And in its kingly movements
 
 ### 435
-> which he spake in prison, is ended.
+it poured itself entirely over me,
 
 ### 436
->
+and on the hand of its givers
 
 ### 437
->
+it hastened that I might take it.
 
 ### 438
->
+And love urged me too run
 
 ### 439
-> * * *
+to meet it and receive it;
 
 ### 440
->
+and I stretched forth and took it.
 
 ### 441
-> > The following alternative translation  from the Syriac version of the text is by William Wright, _Apocryphal Acts of the Apostles_ (London, 1871), pp. 238-245. Illegible words are indicated by (...). The hymn has been arranged in couplets, following A. E. J. Klijn, _The Acts of Thomas_ (Leiden, 1962), pp. 120-125. Klijn uses Wright's translation except for a few variant readings.
+With the beauty of its colors I adorned myself,
 
 ### 442
->
+and I wrapped myself wholly in my toga
 
 ### 443
-> * * *
+of brilliant hues.
 
 ### 444
->
+I clothed myself with it, and went up to the gate
 
 ### 445
-> ### The Hymn of Judas Thomas the Apostle
+of salutation and prostration;
 
 ### 446
->
+I bowed my head and worshipped the majesty
 
 ### 447
-> Translated by William Wright
+of my father who sent me,--
 
 ### 448
->
+for I had done his commandments,
 
 ### 449
-> When I was a little child,
+and he too had done what he promised,--
 
 ### 450
-> and dwelling in my kingdom,
+and the gate of his....,
 
 ### 451
->
+I mingled with his princes,
 
 ### 452
-> in my father's house, and was content with the wealth and the
+for he rejoiced in me and received me,
 
 ### 453
-> luxuries of my nourishers,
+and I was with him in his kingdom,
 
 ### 454
->
+and with the voice of....
 
 ### 455
-> from the East, our home,
+all his servants praised him.
 
 ### 456
-> my parents equipped me (and) sent me forth;
+And he promised that to the gate too
 
 ### 457
->
+of the king of kings with him I should go,
 
 ### 458
-> and of the wealth of our treasury
+and with my offering and my pearl
 
 ### 459
-> they took abundantly, (and) tied up for me a load
+with him should present myself to our king.
 
 ### 460
->
+The Hymn of Judas Thomas the Apostles,
 
 ### 461
-> large and (yet) light, which I myself could carry,
-
-### 462
->
-
-### 463
-> gold of Beth-Ellaya,
-
-### 464
-> and silver of Gazak the great,
-
-### 465
->
-
-### 466
-> and rubies of India,
-
-### 467
-> and agates from Beth-Kashan,
-
-### 468
->
-
-### 469
-> and they furnished me with the adamant,
-
-### 470
-> which can crush iron.
-
-### 471
->
-
-### 472
-> And they took off from me the glittering robe,
-
-### 473
-> which in their affection they made for me,
-
-### 474
->
-
-### 475
-> and the purple toga,
-
-### 476
-> which was measured (and) woven to my stature.
-
-### 477
->
-
-### 478
-> And they made a compact with me,
-
-### 479
-> and wrote it in my heart, that it might not be forgotten:
-
-### 480
->
-
-### 481
-> "If thou goest down into Egypt,
-
-### 482
-> and bringest the one pearl,
-
-### 483
->
-
-### 484
-> which is in the midst of the sea
-
-### 485
-> around the loud-breathing serpent,
-
-### 486
->
-
-### 487
-> thou shalt put on thy glittering robe
-
-### 488
-> and thy toga, with which (thou art) contented,
-
-### 489
->
-
-### 490
-> and with thy brother, who is next to us in authority,
-
-### 491
-> thou shalt be heir in our kingdom."
-
-### 492
->
-
-### 493
-> I quitted the East (and) went down,
-
-### 494
-> there being two guardians,
-
-### 495
->
-
-### 496
-> for the way was dangerous and difficult,
-
-### 497
-> and I was very young to travel it.
-
-### 498
->
-
-### 499
-> I passed through the borders of Maishan,
-
-### 500
-> the meeting-place of the merchants of the East,
-
-### 501
->
-
-### 502
-> and I reached the land of Babel,
-
-### 503
-> and I entered the walls of Sarbug.
-
-### 504
->
-
-### 505
-> I went down into Egypt,
-
-### 506
-> and my companions parted from me.
-
-### 507
->
-
-### 508
-> I went straight to the serpent,
-
-### 509
-> I dwelt in his abode,
-
-### 510
->
-
-### 511
-> (waiting) till he should lumber and sleep,
-
-### 512
-> and I could take my pearl from him.
-
-### 513
->
-
-### 514
-> And when I was single and alone
-
-### 515
-> (and) became strange to my family,
-
-### 516
->
-
-### 517
-> one of my race, a free-born man,
-
-### 518
-> and Oriental, I saw there,
-
-### 519
->
-
-### 520
-> a youth fair and loveable,
-
-### 521
-> the son of oil-sellers;
-
-### 522
->
-
-### 523
-> and he came and attached himself to me,
-
-### 524
-> and I made him my intimate friend,
-
-### 525
->
-
-### 526
-> and associate with whom I shared my merchandise.
-
-### 527
-> I warned him against the Egyptians,
-
-### 528
->
-
-### 529
-> and against consorting with the unclean;
-
-### 530
->
-
-### 531
-> And I dressed in their dress,
-
-### 532
-> that they might not hold me in abhorrence,
-
-### 533
->
-
-### 534
-> because I was come from abroad in order to take the pearl,
-
-### 535
-> and arouse the serpent against me.
-
-### 536
->
-
-### 537
-> But in some way other or another
-
-### 538
-> they found out that I was not their countryman,
-
-### 539
->
-
-### 540
-> and they dealt with me treacherously,
-
-### 541
-> and gave their food to eat.
-
-### 542
->
-
-### 543
-> I forget that I was a son of kings,
-
-### 544
-> and I served their king;
-
-### 545
->
-
-### 546
-> and I forgot the pearl,
-
-### 547
-> for which my parents had sent me,
-
-### 548
->
-
-### 549
-> and because of the burden of their oppressions
-
-### 550
-> I lay in a deep sleep.
-
-### 551
->
-
-### 552
-> But all this things that befell me
-
-### 553
-> my parents perceived, and were grieved for me;
-
-### 554
->
-
-### 555
-> and proclamation was made in our kingdom,
-
-### 556
-> that every one should come to our gate \[kingdom\],
-
-### 557
->
-
-### 558
-> kings and princes of Parthia,
-
-### 559
-> and all the nobles of the East.
-
-### 560
->
-
-### 561
-> And they wove a plan on my behalf,
-
-### 562
-> that I might not be left in Egypt;
-
-### 563
->
-
-### 564
-> and they wrote to me a letter,
-
-### 565
-> and every noble signed his name to it:
-
-### 566
->
-
-### 567
-> "From thy father, the king of kings,
-
-### 568
-> and thy mother, the mistress of the East,
-
-### 569
->
-
-### 570
-> and from thy brother, our second (in authority),
-
-### 571
-> to thee our son, who art in Egypt, greeting!
-
-### 572
->
-
-### 573
-> Call to mind that thou art a son of kings!
-
-### 574
-> See the slavery,--whom thou servest!
-
-### 575
->
-
-### 576
-> Remember the pearl,
-
-### 577
-> for which thou was sent to Egypt!
-
-### 578
->
-
-### 579
-> Think of thy robe,
-
-### 580
-> and remember thy splendid toga,
-
-### 581
->
-
-### 582
-> which thou shalt wear and (with which) thou shalt be adorned,
-
-### 583
-> when thy name hath been read out in the list of the valiant,
-
-### 584
->
-
-### 585
-> and thy brother, our viceroy,
-
-### 586
-> thou shalt be in our kingdom."
-
-### 587
->
-
-### 588
-> My letter is a letter,
-
-### 589
-> which the king sealed with his own right hand,
-
-### 590
->
-
-### 591
-> (to keep it) from the wicked ones, the children of Babel,
-
-### 592
-> and from the savage demons of Sarbug.
-
-### 593
->
-
-### 594
-> It flew in the likeness of an eagle,
-
-### 595
-> the king of all birds;
-
-### 596
->
-
-### 597
-> it flew and alight beside me,
-
-### 598
-> and became all speech.
-
-### 599
->
-
-### 600
-> At its voice and the sound of its rustling,
-
-### 601
-> I started and arose from my sleep.
-
-### 602
->
-
-### 603
-> I took it up and kissed it,
-
-### 604
-> and I began (and) read it;
-
-### 605
->
-
-### 606
-> and according to what was traced on my heart
-
-### 607
-> were the words of my letter.
-
-### 608
->
-
-### 609
-> I remembered that I was a son of royal parents,
-
-### 610
-> and my noble birth asserted itself.
-
-### 611
->
-
-### 612
-> I remembered the pearl,
-
-### 613
-> for which I had been sent to Egypt,
-
-### 614
->
-
-### 615
-> and I began to charm him,
-
-### 616
-> the terrible loud breathing serpent.
-
-### 617
->
-
-### 618
-> I hushed him asleep and lulled him into slumber,
-
-### 619
-> for my father's name I named over him,
-
-### 620
->
-
-### 621
-> and the name of our second (in power),
-
-### 622
-> and the of my mother, the queen of the East.
-
-### 623
->
-
-### 624
-> And I snatched away the pearl,
-
-### 625
->
-
-### 626
-> and turned to go back to my father's house.
-
-### 627
->
-
-### 628
-> And their filthy and unclean dress I stripped off,
-
-### 629
-> and left it in their country;
-
-### 630
->
-
-### 631
-> and I took my way straight to come
-
-### 632
-> to the light of our home in the East.
-
-### 633
->
-
-### 634
-> And my letter, my awakener,
-
-### 635
-> I found before me on the road;
-
-### 636
->
-
-### 637
-> and as with its voice it had awakened me,
-
-### 638
-> (so) too with its light it was leading me.
-
-### 639
->
-
-### 640
-> It, that dwelt in the palace,
-
-### 641
-> gave light before me with its form,
-
-### 642
->
-
-### 643
-> and with its voice and its guidance
-
-### 644
-> it also encouraged me to speed,
-
-### 645
->
-
-### 646
-> and with its love it drew me on.
-
-### 647
->
-
-### 648
-> I went forth (and) passed by Sarbug;
-
-### 649
-> I left Babel on my left hand;
-
-### 650
->
-
-### 651
-> and I came to the great Maisan,
-
-### 652
-> to the haven of merchants,
-
-### 653
->
-
-### 654
-> which sitteth on the shore of the sea.
-
-### 655
->
-
-### 656
-> And my bright robe, which I had stripped off,
-
-### 657
-> and the toga that was wrapped with it,
-
-### 658
->
-
-### 659
-> from Rantha and Reken(?)
-
-### 660
-> my parents had sent thither
-
-### 661
->
-
-### 662
-> by the hand of their treasures,
-
-### 663
-> who in their truth could be trusted therewith.
-
-### 664
->
-
-### 665
-> And because I remembered not its fashion,--
-
-### 666
-> for in my childhood I had left it in my father's house,--
-
-### 667
->
-
-### 668
-> on a sudden, when I received it,
-
-### 669
-> the garment seemed to me to become like a mirror of myself.
-
-### 670
->
-
-### 671
-> I saw it all in all,
-
-### 672
-> and I to received all in it,
-
-### 673
->
-
-### 674
-> for we were two in distinction
-
-### 675
-> and yet gain one in one likeness.
-
-### 676
->
-
-### 677
-> And the treasurers too,
-
-### 678
-> who brought it to me, I saw in like manner
-
-### 679
->
-
-### 680
-> to be two (and yet) one likeness,
-
-### 681
-> for one sign of the king was written on them (both),
-
-### 682
->
-
-### 683
-> of the hands of him who restored to me through them
-
-### 684
-> my trust and my wealth,
-
-### 685
->
-
-### 686
-> my decorated robe, which
-
-### 687
-> was adorned with glorious colors,
-
-### 688
->
-
-### 689
-> with gold and beryls
-
-### 690
-> and rubies and agates
-
-### 691
->
-
-### 692
-> and sardonyxes, varied in color.
-
-### 693
-> And it was skillfully worked in its home on high,
-
-### 694
->
-
-### 695
-> and with diamond clasps
-
-### 696
-> were all its seams fastened;
-
-### 697
->
-
-### 698
-> and the image of the king of kings
-
-### 699
-> was embroidered and depicted in full all over it,
-
-### 700
->
-
-### 701
-> and like the stone of the sapphire too
-
-### 702
-> its hues were varied.
-
-### 703
->
-
-### 704
-> And I saw also that all over it
-
-### 705
-> the instincts of knowledge were working,
-
-### 706
->
-
-### 707
-> and I saw too that it was preparing to speak.
-
-### 708
->
-
-### 709
-> I heard the sound of its tones,
-
-### 710
-> which it uttered with its....., (saying):
-
-### 711
->
-
-### 712
-> "I am the active in deeds,
-
-### 713
-> whom they reared for him before my father;
-
-### 714
->
-
-### 715
-> and I perceived myself,
-
-### 716
-> that my stature grew according to his labors."
-
-### 717
->
-
-### 718
-> And in its kingly movements
-
-### 719
-> it poured itself entirely over me,
-
-### 720
->
-
-### 721
-> and on the hand of its givers
-
-### 722
-> it hastened that I might take it.
-
-### 723
->
-
-### 724
-> And love urged me too run
-
-### 725
-> to meet it and receive it;
-
-### 726
->
-
-### 727
-> and I stretched forth and took it.
-
-### 728
-> With the beauty of its colors I adorned myself,
-
-### 729
->
-
-### 730
-> and I wrapped myself wholly in my toga
-
-### 731
-> of brilliant hues.
-
-### 732
->
-
-### 733
-> I clothed myself with it, and went up to the gate
-
-### 734
-> of salutation and prostration;
-
-### 735
->
-
-### 736
-> I bowed my head and worshipped the majesty
-
-### 737
-> of my father who sent me,--
-
-### 738
->
-
-### 739
-> for I had done his commandments,
-
-### 740
-> and he too had done what he promised,--
-
-### 741
->
-
-### 742
-> and the gate of his....,
-
-### 743
-> I mingled with his princes,
-
-### 744
->
-
-### 745
-> for he rejoiced in me and received me,
-
-### 746
-> and I was with him in his kingdom,
-
-### 747
->
-
-### 748
-> and with the voice of....
-
-### 749
-> all his servants praised him.
-
-### 750
->
-
-### 751
-> And he promised that to the gate too
-
-### 752
-> of the king of kings with him I should go,
-
-### 753
->
-
-### 754
-> and with my offering and my pearl
-
-### 755
-> with him should present myself to our king.
-
-### 756
->
-
-### 757
-> The Hymn of Judas Thomas the Apostles,
-
-### 758
-> which he spake in prison, is ended.
-
-###### [Archive](../welcome.html) | [Library](../library.html) | [Bookstore](../bookstore1.htm) | [Index](../search_form.html) | [Web Lectures](../lectures.html) | [Ecclesia Gnostica](../eghome.htm) | [Gnostic Society](../gnostsoc/gnostsoc.htm)
+which he spake in prison, is ended.

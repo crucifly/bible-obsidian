@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 101
 
-> **Chapter 101**
+**Chapter 101**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 100**
+**CHAPTER 100**
 
 ### 3
 When the Saviour had finished saying all this unto his disciples, Andrew came forward and said: "My Lord, be not wroth with me, but have

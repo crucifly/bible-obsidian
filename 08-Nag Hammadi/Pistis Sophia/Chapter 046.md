@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 46
 
-> **Chapter 46**
+**Chapter 46**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 46**
+**CHAPTER 46**
 
 ### 3
 The repentance of Sophia is not yet accepted. She is mocked by the æons.Jesus continued again in the discourse and said unto his disciples: "It came to pass, when Pistis Sophia had finished uttering the sixth repentance for the forgiveness of her transgression, that she turned again to the height, to see if her sins were forgiven her, and to see whether they would lead her up out of the chaos. But by commandment of the First Mystery not yet was she hearkened to, so that her sin should be forgiven and she should be led up out of the chaos. When then she had turned to the height to see whether her repentance were accepted from her, she saw all the rulers of the twelve æons mocking at her and rejoicing over her because her repentance was not accepted from her. When then she saw that they mocked at her, she grieved exceedingly and lifted up her voice to the height in her seventh repentance, saying:

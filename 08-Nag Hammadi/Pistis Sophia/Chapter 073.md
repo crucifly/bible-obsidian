@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 73
 
-> **Chapter 73**
+**Chapter 73**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 72**
+**CHAPTER 72**
 
 ### 3
 It came to pass then, when the First Mystery had heard Matthew speak these words, that he said: "Well said, Matthew, and finely, beloved. This is the solution of the song which Pistis Sophia hath uttered."

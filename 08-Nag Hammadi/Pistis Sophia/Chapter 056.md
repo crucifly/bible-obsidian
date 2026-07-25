@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 56
 
-> **Chapter 56**
+**Chapter 56**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 56**
+**CHAPTER 56**
 
 ### 3
 And Andrew came forward and said: "My Lord and Saviour, thy light-power hath prophesied aforetime through David concerning this repentance which Pistis Sophia hath uttered, and said in the one-hundred-and-eighth Psalm:

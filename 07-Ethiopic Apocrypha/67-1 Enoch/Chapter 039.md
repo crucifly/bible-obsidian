@@ -23,32 +23,32 @@ Here mine eyes saw their dwellings with His righteous angels, And their resting-
 ### 6
 And in that place mine eyes saw the Elect One of righteousness and of faith,
 
-### 6
+### 7
 And righteousness shall prevail in his days, And the righteous and elect shall be without number before Him for ever and ever.
 
-### 7
+### 8
 And I saw his dwelling-place under the wings of the Lord of Spirits.
 
-### 7
+### 9
 And all the righteous and elect before Him shall be †strong† as fiery lights, And their mouth shall be full of blessing, And their lips extol the name of the Lord of Spirits, And righteousness before Him shall never fail, [And uprightness shall never fail before Him.]
 
-### 8
+### 10
 There I wished to dwell, And my spirit longed for that dwelling-place: And there heretofore hath been my portion, For so has it been established concerning me before the Lord of Spirits.
 
-### 9
+### 11
 In those days I praised and extolled the name of the Lord of Spirits with blessings and praises, because He hath destined me for blessing and glory according to the good pleasure of the Lord of Spirits.
 
-### 10
+### 12
 For a long time my eyes regarded that place, and I blessed Him and praised Him, saying: ‘Blessed is He, and may He be blessed from the beginning and for evermore.
 
-### 11
+### 13
 And before Him there is no ceasing. He knows before the world was created what is for ever and what will be from generation unto generation.
 
-### 12
+### 14
 Those who sleep not bless Thee: they stand before Thy glory and bless, praise, and extol, saying: “Holy, holy, holy, is the Lord of Spirits: He filleth the earth with spirits.”‘
 
-### 13
+### 15
 And here my eyes saw all those who sleep not: they stand before Him and bless and say: ‘Blessed be Thou, and blessed be the name of the Lord for ever and ever.’
 
-### 14
+### 16
 And my face was changed; for I could no longer behold.

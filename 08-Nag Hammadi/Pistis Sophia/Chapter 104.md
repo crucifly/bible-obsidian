@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 104
 
-> **Chapter 104**
+**Chapter 104**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 103**
+**CHAPTER 103**
 
 ### 3
 Mary questioneth the Saviour.It came to pass then, when Jesus had finished saying these words unto his disciples, that Mary came forward and said to the Saviour: "My Lord, will then a righteous man who is perfected in all righteousness, and that man who hath no sin at all, will such an one be tormented in the chastisements and judgments or not? Or will rather that man be brought into the kingdom of heaven or not?"

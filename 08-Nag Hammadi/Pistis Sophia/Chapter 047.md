@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 47
 
-> **Chapter 47**
+**Chapter 47**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 47**
+**CHAPTER 47**
 
 ### 3
 Jesus leadeth Sophia to a less confined region, but without the commandment of the First Mystery.Jesus continued again in the discourse and said unto his disciples: "It came to pass then, when Pistis Sophia had uttered the seventh repentance in the chaos, that the commandment through the First Mystery had not come to me to save her and lead her up out of the chaos. Nevertheless of myself out of compassion without commandment I led her into a somewhat spacious region in the chaos. And when the material emanations of Self-willed had noticed that she had been led into a somewhat spacious region in the chaos, they ceased a little to oppress her, for they thought that she would be led up out of the chaos altogether. When this then took place, Pistis Sophia did not know that I was her helper; nor did she know me at all, but she continued and persisted withal singing praises to the Light of the Treasury, which she had seen aforetime and on which she had had faith, and she thought that it [sc. the Light] also was her helper and it was the same to which she had sung praises, thinking it was the Light in truth. But as indeed she had had faith in the Light which belongeth to the Treasury in truth, therefore will she be led up out

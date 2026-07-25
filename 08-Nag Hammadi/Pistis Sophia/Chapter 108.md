@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 108
 
-> **Chapter 108**
+**Chapter 108**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 107**
+**CHAPTER 107**
 
 ### 3
 John continueth his questioning.And when the Saviour had said this, John continued again and said: "My Lord, bear with me, if I question thee, and be not wroth with me, for I question concerning all things with surety and certainty for knowledge of the manner, how we are to herald it to the men of the world."

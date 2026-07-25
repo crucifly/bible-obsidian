@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 58
 
-> **Chapter 58**
+**Chapter 58**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 58**
+**CHAPTER 58**
 
 ### 3
 Jesus sendeth forth a light-power to help Sophia.And Jesus continued again in the discourse and said unto his disciples: "It came to pass then, when Pistis Sophia had said these words, that the time was fulfilled that she should be led out of the chaos. And of myself, without the First Mystery, I despatched out of myself a light-power, and I sent it down to the chaos, so that it might lead Pistis Sophia forth from the deep regions of the chaos, and lead [her] to the higher regions of the chaos, until the command should come from the First Mystery that she should be led entirely forth out of the chaos. And my light-power led Pistis Sophia up to the higher regions

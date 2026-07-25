@@ -449,12 +449,3 @@ These, then, were afraid. They arose, saying, "We have no part in this blood, fo
 
 ### 148
 just man will perish through injustice" James departed so that [...] look [...] for
-
-### 149
-The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Arts, and other Institutions
-
-### 150
-E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Projects.
-
-### 151
-For academic citation, please refer to published editions of this text.

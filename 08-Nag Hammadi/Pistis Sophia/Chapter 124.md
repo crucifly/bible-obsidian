@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 124
 
-> **Chapter 124**
+**Chapter 124**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 123**
+**CHAPTER 123**
 
 ### 3
 Mary continued again and said unto the Saviour: "My Lord, a man who hath received mysteries and hath not done what is worthy of

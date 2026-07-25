@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 30
 
-> **Chapter 30**
+**Chapter 30**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 30**
+**CHAPTER 30**
 
 ### 3
 Mary desireth to hear the story of Sophia.It came to pass then, when Jesus had said this unto his disciples, that Mary came forward and said: "My Lord, I have heard thee say aforetime: 'Pistis Sophia is herself one of the four-and-twenty emanations, how then is she not in their region? But thou hast said: 'I found her below the thirteenth æon.'" [THE STORY OF PISTIS SOPHIA]

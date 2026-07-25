@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 130
 
-> **Chapter 130**
+**Chapter 130**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 129**
+**CHAPTER 129**
 
 ### 3
 It came to pass then, when the Saviour had finished speaking these words unto his disciples, that Mary answered and said unto Jesus: "My Lord, I have heard thee say: 'He who shall receive of the mysteries of the Ineffable or who shall receive of the mysteries of the First Mystery,--they become flames of light-beams and light-streams and penetrate all the regions until they reach the region of their inheritance.'"

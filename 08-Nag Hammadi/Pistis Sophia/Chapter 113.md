@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 113
 
-> **Chapter 113**
+**Chapter 113**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 112**
+**CHAPTER 112**
 
 ### 3
 Of the ascension after death of the good soul that hath received the mysteries.Jesus continued again in the discourse and said: "If on the contrary it is a soul which hath not hearkened unto the counterfeiting spirit in all its works, but hath become good and hath received the mysteries of the Light which are in the second space or even those which are in the third space which is within, when the time [of the coming-forth] of that soul out of the body is completed, then the counterfeiting spirit followeth that soul, it and the destiny; and

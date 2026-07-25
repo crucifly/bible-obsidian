@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 71
 
-> **Chapter 71**
+**Chapter 71**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 70**
+**CHAPTER 70**
 
 ### 3
 It came to pass then when the First Mystery had heard Thomas say these words, that he said unto him: "Well said, finely, Thomas, blessed one. This is the solution of the song which Pistis Sophia hath uttered."

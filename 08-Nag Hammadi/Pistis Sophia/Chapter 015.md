@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 15
 
-> **Chapter 15**
+**Chapter 15**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 15**
+**CHAPTER 15**
 
 ### 3
 Adamas and the tyrants fight against the light."It came to pass then, when all those who are in the twelve æons saw the great light which was about me, that they were all thrown into agitation one over against the other, and ran hither and thither in the æons. And all æons and all heavens and their whole ordering were agitated one over against the other on account of the great fear which was on them, for they knew not the mystery which had taken place. And Adamas, the great Tyrant, and all the tyrants in all the æons began to fight in vain against the light, and they knew not against whom they fought, because they saw nothing but the overmastering light.

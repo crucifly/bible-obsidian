@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 60
 
-> **Chapter 60**
+**Chapter 60**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 60**
+**CHAPTER 60**
 
 ### 3
 The commandment of the First Mystery is fulfilled for taking Sophia entirely out of the chaos.And Jesus continued again in the discourse and said unto his disciples: "It came to pass when Pistis Sophia had uttered the thirteenth repentance,--in that hour was fulfilled the commandment of all the tribulations which were de-creed for Pistis Sophia for the fulfilment of the First Mystery, which was from the beginning, and the time had come to save her out of the chaos and lead her out from all the darknesses. For her repentance was accepted from her through the First Mystery; and that mystery sent me a great light-power out of the height, that I might help Pistis Sophia and lead her up out of the chaos. The First Mystery and Jesus sent forth two light-powers to help Sophia.So I looked towards the æons into the height and saw that light-power which the First Mystery had sent me, that I might save Pistis Sophia out of the chaos. It came to pass, therefore, when I had seen it, coming forth from the æons and hastening down to me,--I was above

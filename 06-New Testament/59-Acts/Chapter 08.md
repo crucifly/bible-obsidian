@@ -113,13 +113,11 @@ Philip opened his mouth, and beginning from this Scripture, preached to him abou
 ### 36
 As they went on the way, they came to some water, and the eunuch said, “Behold, here is water. What is keeping me from being baptized?”
 
-
-
-### 38
+### 37
 He commanded the chariot to stand still, and they both went down into the water, both Philip and the eunuch, and he baptized him.
 
-### 39
+### 38
 When they came up out of the water, the Spirit of the Lord caught Philip away, and the eunuch didn’t see him any more, for he went on his way rejoicing.
 
-### 40
+### 39
 But Philip was found at Azotus. Passing through, he preached the Good News to all the cities, until he came to Caesarea.

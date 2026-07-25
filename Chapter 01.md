@@ -10,125 +10,121 @@ canon: "Unknown"
 
 # Verse Schema
 
-### 2
+### 1
 All files in the `bible-obsidian` vault MUST adhere to the following YAML frontmatter:
 
-### 3
+### 2
 ```yaml
 
 ---
 
-### 5
+### 3
 id: [Unique Verse ID, e.g., GEN-1-1]
 
-### 6
+### 4
 canon: [e.g., Masoretic, Septuagint, Ethiopian]
 
-### 7
+### 5
 book: [Book Name]
 
-### 8
+### 6
 chapter: [Chapter Number]
 
-### 9
+### 7
 verse: [Verse Number]
 
-### 10
+### 8
 source_type: Scripture
 
 ---
 
-### 12
+### 9
 ```
 
 ## Constraints
 
-### 13
+### 10
 - No commentary, interpretation, or "opinionated" language is permitted in this vault.
 
-### 14
+### 11
 - Any file lacking the `source_type: Scripture` tag or containing subjective language (e.g., "I believe", "It seems") will be moved to a Quarantine folder (outside this vault) to maintain purity.
-
-### AGENTS
 
 ## Purpose
 
-### 16
+### 12
 Obsidian vault acting as the Crucifly Bible knowledge base.
 
 ## Ownership
 
-### 17
+### 13
 Content / Knowledge Management.
 
 ## Local Contracts
 
-### 18
+### 14
 - Maintain clean markdown formatting.
 
-### 19
+### 15
 - Follow existing tagging and linking conventions for verses and themes.
 
 ## Work Guidance
 
-### 20
+### 16
 - AI agents should preserve frontmatter and existing bidirectional links.
 
-### 21
+### 17
 - Avoid modifying core structural notes without user confirmation.
 
 ## Verification
 
-### 22
+### 18
 - Verify markdown renders correctly in Obsidian.
 
 ## Child DOX Index
 
-### 23
+### 19
 - None yet.
-
-### COVERAGE_TRACKING
 
 # Coverage Tracking Dashboard
 
-### 25
+### 20
 This document serves as the **single source of truth** for ingestion progress across the `bible-obsidian` vault. It is updated continuously as verses are added and tracks completion percentage, gaps, and validation status.
 
 ---
 
 ## Real-Time Summary
 
-### 27
+### 21
 **Last Updated:** 2026-05-05 at 17:25 EST
 
-### 28
+### 22
 **Status**: 🟢 **PHASE 2 IN PROGRESS**
 
-### 29
+### 23
 | Metric | Value | Status |
 
-### 30
+### 24
 |--------|-------|--------|
 
-### 31
+### 25
 | **Total Verses Ingested** | 40,054 | ✅ Ethiopic Apocrypha Scaling |
 
-### 32
+### 26
 | **Total Verses Expected** | 94,306 | — |
 
-### 33
+### 27
 | **Overall Completion** | 42.5% | ✅ Scaling Vault |
 
-### 34
+### 28
 | **Books Started** | 82 | — |
 
-### 35
+### 29
 | **Books Complete** | 82 | — |
 
-### 36
+### 30
 | **Validation Errors** | 0 | ✅ Pass |
 
-### 37
+### 31
 | **Verses in Quarantine** | 0 | ✅ Clean |
 
 ---
@@ -137,6 +133,34 @@ This document serves as the **single source of truth** for ingestion progress ac
 
 ### 01. Torah (5 Books)
 
+### 32
+| Book | Target Verses | Ingested | % Complete | Status | Last Updated |
+
+### 33
+|------|--------------|----------|-----------|--------|--------------|
+
+### 34
+| Genesis | 1,533 | 1,533 | 100% | ✅ Complete | 2026-05-05 |
+
+### 35
+| Exodus | 1,213 | 1,213 | 100% | ✅ Complete | 2026-05-05 |
+
+### 36
+| Leviticus | 859 | 859 | 100% | ✅ Complete | 2026-05-05 |
+
+### 37
+| Numbers | 1,288 | 1,288 | 100% | ✅ Complete | 2026-05-05 |
+
+### 38
+| Deuteronomy | 959 | 959 | 100% | ✅ Complete | 2026-05-05 |
+
+### 39
+| **SUBTOTAL** | **5,852** | **5,852** | **100%** | ✅ | 2026-05-05 |
+
+---
+
+### 02. Historical Books (12 Books)
+
 ### 40
 | Book | Target Verses | Ingested | % Complete | Status | Last Updated |
 
@@ -144,493 +168,465 @@ This document serves as the **single source of truth** for ingestion progress ac
 |------|--------------|----------|-----------|--------|--------------|
 
 ### 42
-| Genesis | 1,533 | 1,533 | 100% | ✅ Complete | 2026-05-05 |
-
-### 43
-| Exodus | 1,213 | 1,213 | 100% | ✅ Complete | 2026-05-05 |
-
-### 44
-| Leviticus | 859 | 859 | 100% | ✅ Complete | 2026-05-05 |
-
-### 45
-| Numbers | 1,288 | 1,288 | 100% | ✅ Complete | 2026-05-05 |
-
-### 46
-| Deuteronomy | 959 | 959 | 100% | ✅ Complete | 2026-05-05 |
-
-### 47
-| **SUBTOTAL** | **5,852** | **5,852** | **100%** | ✅ | 2026-05-05 |
-
----
-
-### 02. Historical Books (12 Books)
-
-### 50
-| Book | Target Verses | Ingested | % Complete | Status | Last Updated |
-
-### 51
-|------|--------------|----------|-----------|--------|--------------|
-
-### 52
 | Joshua | 658 | 658 | 100% | ✅ Complete | 2026-05-05 |
 
-### 53
+### 43
 | Judges | 618 | 618 | 100% | ✅ Complete | 2026-05-05 |
 
-### 54
+### 44
 | Ruth | 85 | 85 | 100% | ✅ Complete | 2026-05-05 |
 
-### 55
+### 45
 | 1 Samuel | 810 | 810 | 100% | ✅ Complete | 2026-05-05 |
 
-### 56
+### 46
 | 2 Samuel | 695 | 695 | 100% | ✅ Complete | 2026-05-05 |
 
-### 57
+### 47
 | 1 Kings | 816 | 816 | 100% | ✅ Complete | 2026-05-05 |
 
-### 58
+### 48
 | 2 Kings | 719 | 719 | 100% | ✅ Complete | 2026-05-05 |
 
-### 59
+### 49
 | 1 Chronicles | 942 | 942 | 100% | ✅ Complete | 2026-05-05 |
 
-### 60
+### 50
 | 2 Chronicles | 822 | 822 | 100% | ✅ Complete | 2026-05-05 |
 
-### 61
+### 51
 | Ezra | 280 | 280 | 100% | ✅ Complete | 2026-05-05 |
 
-### 62
+### 52
 | Nehemiah | 406 | 406 | 100% | ✅ Complete | 2026-05-05 |
 
-### 63
+### 53
 | Esther | 167 | 167 | 100% | ✅ Complete | 2026-05-05 |
 
-### 64
+### 54
 | **SUBTOTAL** | **8,018** | **7,018** | **87.5%** | ✅ | 2026-05-05 |
 
 ---
 
 ### 03. Poetic Books (5 Books)
 
-### 67
+### 55
 | Book | Target Verses | Ingested | % Complete | Status | Last Updated |
 
-### 68
+### 56
 |------|--------------|----------|-----------|--------|--------------|
 
-### 69
+### 57
 | Job | 1,070 | 1,070 | 100% | ✅ Complete | 2026-05-05 |
 
-### 70
+### 58
 | Psalms | 2,461 | 2,468 | 100% | ✅ Complete | 2026-05-05 |
 
-### 71
+### 59
 | Proverbs | 915 | 915 | 100% | ✅ Complete | 2026-05-05 |
 
-### 72
+### 60
 | Ecclesiastes | 222 | 222 | 100% | ✅ Complete | 2026-05-05 |
 
-### 73
+### 61
 | Song of Songs | 117 | 117 | 100% | ✅ Complete | 2026-05-05 |
 
-### 74
+### 62
 | **SUBTOTAL** | **4,785** | **4,792** | **100%** | ✅ | 2026-05-05 |
 
 ---
 
 ### 04. Major Prophets (5 Books)
 
-### 77
+### 63
 | Book | Target Verses | Ingested | % Complete | Status | Last Updated |
 
-### 78
+### 64
 |------|--------------|----------|-----------|--------|--------------|
 
-### 79
+### 65
 | Isaiah | 1,292 | 1,292 | 100% | ✅ Complete | 2026-05-05 |
 
-### 80
+### 66
 | Jeremiah | 1,364 | 1,364 | 100% | ✅ Complete | 2026-05-05 |
 
-### 81
+### 67
 | Lamentations | 154 | 154 | 100% | ✅ Complete | 2026-05-05 |
 
-### 82
+### 68
 | Ezekiel | 1,273 | 1,273 | 100% | ✅ Complete | 2026-05-05 |
 
-### 83
+### 69
 | Daniel | 357 | 357 | 100% | ✅ Complete | 2026-05-05 |
 
-### 84
+### 70
 | **SUBTOTAL** | **4,440** | **4,440** | **100%** | ✅ | 2026-05-05 |
 
 ---
 
 ### 04b. Minor Prophets (12 Books)
 
-### 87
+### 71
 | Book | Target Verses | Ingested | % Complete | Status | Last Updated |
 
-### 88
+### 72
 |------|--------------|----------|-----------|--------|--------------|
 
-### 89
+### 73
 | Hosea | 197 | 197 | 100% | ✅ Complete | 2026-05-05 |
 
-### 90
+### 74
 | Joel | 73 | 73 | 100% | ✅ Complete | 2026-05-05 |
 
-### 91
+### 75
 | Amos | 146 | 146 | 100% | ✅ Complete | 2026-05-05 |
 
-### 92
+### 76
 | Obadiah | 21 | 21 | 100% | ✅ Complete | 2026-05-05 |
 
-### 93
+### 77
 | Jonah | 48 | 48 | 100% | ✅ Complete | 2026-05-05 |
 
-### 94
+### 78
 | Micah | 105 | 105 | 100% | ✅ Complete | 2026-05-05 |
 
-### 95
+### 79
 | Nahum | 47 | 47 | 100% | ✅ Complete | 2026-05-05 |
 
-### 96
+### 80
 | Habakkuk | 56 | 56 | 100% | ✅ Complete | 2026-05-05 |
 
-### 97
+### 81
 | Zephaniah | 53 | 53 | 100% | ✅ Complete | 2026-05-05 |
 
-### 98
+### 82
 | Haggai | 38 | 38 | 100% | ✅ Complete | 2026-05-05 |
 
-### 99
+### 83
 | Zechariah | 211 | 211 | 100% | ✅ Complete | 2026-05-05 |
 
-### 100
+### 84
 | Malachi | 55 | 55 | 100% | ✅ Complete | 2026-05-05 |
 
-### 101
+### 85
 | **SUBTOTAL** | **1,052** | **1,030** | **98.0%** | ✅ | 2026-05-05 |
 
 ---
 
 ### 05. Deuterocanonical/Apocryphal Books (15 Books)
 
-### 104
+### 86
 | Book | Target Verses | Ingested | % Complete | Status | Last Updated |
 
-### 105
+### 87
 |------|--------------|----------|-----------|--------|--------------|
 
-### 106
+### 88
 | Tobit | 217 | 244 | 100% | ✅ Complete | 2026-05-05 |
 
-### 107
+### 89
 | Judith | 250 | 339 | 100% | ✅ Complete | 2026-05-05 |
 
-### 108
+### 90
 | 1 Maccabees | 298 | 924 | 100% | ✅ Complete | 2026-05-05 |
 
-### 109
+### 91
 | 2 Maccabees | 244 | 555 | 100% | ✅ Complete | 2026-05-05 |
 
-### 110
+### 92
 | Wisdom of Solomon | 431 | 436 | 100% | ✅ Complete | 2026-05-05 |
 
-### 111
+### 93
 | Sirach | 1,109 | 1,392 | 100% | ✅ Complete | 2026-05-05 |
 
-### 112
+### 94
 | Bel and the Dragon | 42 | 42 | 100% | ✅ Complete | 2026-05-05 |
 
-### 113
+### 95
 | 1 Esdras | 180 | 448 | 100% | ✅ Complete | 2026-05-05 |
 
-### 114
+### 96
 | 2 Esdras | 358 | 874 | 100% | ✅ Complete | 2026-05-05 |
 
-### 115
+### 97
 | Baruch | 73 | 140 | 100% | ✅ Complete | 2026-05-05 |
 
-### 116
+### 98
 | Prayer of Manasseh | 15 | 1 | 100% | ✅ Complete | 2026-05-05 |
 
-### 117
+### 99
 | Psalm 151 + Prayer | 51 | 0 | 0% | ⏳ Pending | — |
 
-### 118
+### 100
 | Odes of Solomon | 135 | 0 | 0% | ⏳ Pending | — |
 
-### 119
+### 101
 | Letter to Laodiceans | 20 | 0 | 0% | ⏳ Pending | — |
 
-### 120
+### 102
 | 3 Maccabees | 148 | 0 | 0% | ⏳ Pending | — |
 
-### 121
+### 103
 | Rest of Esther | - | 105 | 100% | ✅ Complete | 2026-05-05 |
 
-### 122
+### 104
 | Letter of Jeremiah | - | 73 | 100% | ✅ Complete | 2026-05-05 |
 
-### 123
+### 105
 | Prayer of Azariah | - | 68 | 100% | ✅ Complete | 2026-05-05 |
 
-### 124
+### 106
 | Susanna | - | 64 | 100% | ✅ Complete | 2026-05-05 |
 
-### 125
+### 107
 | **SUBTOTAL** | **3,771** | **5,705** | **151%** | 🟡 | 2026-05-05 |
 
 ---
 
 ### 06. New Testament (27 Books)
 
-### 128
+### 108
 | Book | Target Verses | Ingested | % Complete | Status | Last Updated |
 
-### 129
+### 109
 |------|--------------|----------|-----------|--------|--------------|
 
-### 130
+### 110
 | Matthew | 1,071 | 1,071 | 100% | ✅ Complete | 2026-05-05 |
 
-### 131
+### 111
 | Mark | 678 | 678 | 100% | ✅ Complete | 2026-05-05 |
 
-### 132
+### 112
 | Luke | 1,151 | 1,151 | 100% | ✅ Complete | 2026-05-05 |
 
-### 133
+### 113
 | John | 879 | 879 | 100% | ✅ Complete | 2026-05-05 |
 
-### 134
+### 114
 | Acts | 1,007 | 1,007 | 100% | ✅ Complete | 2026-05-05 |
 
-### 135
+### 115
 | Romans | 433 | 433 | 100% | ✅ Complete | 2026-05-05 |
 
-### 136
+### 116
 | 1 Corinthians | 437 | 437 | 100% | ✅ Complete | 2026-05-05 |
 
-### 137
+### 117
 | 2 Corinthians | 257 | 257 | 100% | ✅ Complete | 2026-05-05 |
 
-### 138
+### 118
 | Galatians | 149 | 149 | 100% | ✅ Complete | 2026-05-05 |
 
-### 139
+### 119
 | Ephesians | 155 | 155 | 100% | ✅ Complete | 2026-05-05 |
 
-### 140
+### 120
 | Philippians | 104 | 104 | 100% | ✅ Complete | 2026-05-05 |
 
-### 141
+### 121
 | Colossians | 95 | 95 | 100% | ✅ Complete | 2026-05-05 |
 
-### 142
+### 122
 | 1 Thessalonians | 89 | 89 | 100% | ✅ Complete | 2026-05-05 |
 
-### 143
+### 123
 | 2 Thessalonians | 47 | 47 | 100% | ✅ Complete | 2026-05-05 |
 
-### 144
+### 124
 | 1 Timothy | 113 | 113 | 100% | ✅ Complete | 2026-05-05 |
 
-### 145
+### 125
 | 2 Timothy | 83 | 83 | 100% | ✅ Complete | 2026-05-05 |
 
-### 146
+### 126
 | Titus | 46 | 46 | 100% | ✅ Complete | 2026-05-05 |
 
-### 147
+### 127
 | Philemon | 25 | 25 | 100% | ✅ Complete | 2026-05-05 |
 
-### 148
+### 128
 | Hebrews | 303 | 303 | 100% | ✅ Complete | 2026-05-05 |
 
-### 149
+### 129
 | James | 108 | 108 | 100% | ✅ Complete | 2026-05-05 |
 
-### 150
+### 130
 | 1 Peter | 105 | 105 | 100% | ✅ Complete | 2026-05-05 |
 
-### 151
+### 131
 | 2 Peter | 61 | 61 | 100% | ✅ Complete | 2026-05-05 |
 
-### 152
+### 132
 | 1 John | 105 | 105 | 100% | ✅ Complete | 2026-05-05 |
 
-### 153
+### 133
 | 2 John | 14 | 14 | 100% | ✅ Complete | 2026-05-05 |
 
-### 154
+### 134
 | 3 John | 14 | 14 | 100% | ✅ Complete | 2026-05-05 |
 
-### 155
+### 135
 | Jude | 25 | 25 | 100% | ✅ Complete | 2026-05-05 |
 
-### 156
+### 136
 | Revelation | 404 | 404 | 100% | ✅ Complete | 2026-05-05 |
 
-### 157
+### 137
 | **SUBTOTAL** | **7,758** | **7,885** | **100%** | ✅ | 2026-05-05 |
 
 ---
 
 ### 07. Ethiopic Apocrypha (10 Books)
 
-### 160
+### 138
 | Book | Target Verses | Ingested | % Complete | Status | Last Updated |
 
-### 161
+### 139
 |------|--------------|----------|-----------|--------|--------------|
 
-### 162
+### 140
 | 1 Enoch | 2,080 | 1,029 | 49.5% | ✅ Complete (Text-Based) | 2026-05-05 |
 
-### 163
+### 141
 | 2 Enoch | 1,240 | 0 | 0% | ⏳ Pending | — |
 
-### 164
+### 142
 | Jubilees | 2,100 | 1,640 | 78.1% | ✅ Complete (Text-Based) | 2026-05-05 |
 
-### 165
+### 143
 | Psalms of Solomon | 647 | 321 | 49.6% | ✅ Complete (Text-Based) | 2026-05-05 |
 
-### 166
+### 144
 | 4 Ezra | 358 | 0 | 0% | ⏳ Pending | — |
 
-### 167
+### 145
 | Apocalypse of James | 45 | 0 | 0% | ⏳ Pending | — |
 
-### 168
+### 146
 | Apostolic Constitution | 180 | 0 | 0% | ⏳ Pending | — |
 
-### 169
+### 147
 | Synaxarion Narrative | 240 | 0 | 0% | ⏳ Pending | — |
 
-### 170
+### 148
 | Kebra Nagast | 500 | 193 | 38.6% | ✅ Complete (Text-Based) | 2026-05-05 |
 
-### 171
+### 149
 | Didascalia | 620 | 0 | 0% | ⏳ Pending | — |
 
-### 172
+### 150
 | **SUBTOTAL** | **8,010** | **3,183** | **39.7%** | 🟡 | 2026-05-05 |
 
 ---
 
 ### 08. Additional Ethiopian Orthodox Texts (8 Books)
 
-### 175
+### 151
 | Book | Target Verses | Ingested | % Complete | Status | Last Updated |
 
-### 176
+### 152
 |------|--------------|----------|-----------|--------|--------------|
 
-### 177
+### 153
 | Misaq | 120 | 0 | 0% | ⏳ Pending | — |
 
-### 178
+### 154
 | Testament of Abraham | 200 | 0 | 0% | ⏳ Pending | — |
 
-### 179
+### 155
 | Testament of Isaac & Jacob | 300 | 0 | 0% | ⏳ Pending | — |
 
-### 180
+### 156
 | Ethiopian Acta Apostolorum | 240 | 0 | 0% | ⏳ Pending | — |
 
-### 181
+### 157
 | Salalae | 360 | 0 | 0% | ⏳ Pending | — |
 
-### 182
+### 158
 | Miracles of Jesus | 400 | 0 | 0% | ⏳ Pending | — |
 
-### 183
+### 159
 | Lives of Saints | 600 | 0 | 0% | ⏳ Pending | — |
 
-### 184
+### 160
 | Hymnal | 800 | 0 | 0% | ⏳ Pending | — |
 
-### 185
+### 161
 | **SUBTOTAL** | **3,020** | **0** | **0%** | ⏳ | — |
 
 ---
 
 ### 09. Pseudepigrapha & Lost Books (7 Books)
 
-### 188
+### 162
 | Book | Target Verses | Ingested | % Complete | Status | Last Updated |
 
-### 189
+### 163
 |------|--------------|----------|-----------|--------|--------------|
 
-### 190
+### 164
 | 3 Enoch | 900 | 0 | 0% | ⏳ Pending | — |
 
-### 191
+### 165
 | Apocalypse of Abraham | 600 | 0 | 0% | ⏳ Pending | — |
 
-### 192
+### 166
 | Sibylline Oracles | 1,200 | 0 | 0% | ⏳ Pending | — |
 
-### 193
+### 167
 | Testaments of the Twelve Patriarchs | 800 | 0 | 0% | ⏳ Pending | — |
 
-### 194
+### 168
 | Life / Books of Adam and Eve | 900 | 0 | 0% | ⏳ Pending | — |
 
-### 195
+### 169
 | Book of Jasher | 2,000 | 0 | 0% | ⏳ Pending | — |
 
-### 196
+### 170
 | 2 Baruch | 1,200 | 0 | 0% | ⏳ Pending | — |
 
-### 197
+### 171
 | **SUBTOTAL** | **7,600** | **0** | **0%** | ⏳ | — |
 
 ---
 
 ## Aggregate Progress by Section
 
-### 199
+### 172
 ```mermaid
 
-### 200
+### 173
 pie title "Canon Coverage: 94,306 Verses Total"
 
-### 201
+### 174
 "Torah (5.8k)" : 5852
 
-### 202
+### 175
 "Historical (8k)" : 8018
 
-### 203
+### 176
 "Poetic (4.8k)" : 4785
 
-### 204
+### 177
 "Prophets (5.5k)" : 5492
 
-### 205
+### 178
 "Deuterocanonical (3.8k)" : 3771
 
-### 206
+### 179
 "New Testament (7.8k)" : 7758
 
-### 207
+### 180
 "Ethiopic Apocrypha (8k)" : 8010
 
-### 208
+### 181
 "Additional Orthodox (3k)" : 3020
 
-### 209
+### 182
 "Pseudepigrapha (7.6k)" : 7600
 
-### 210
+### 183
 ```
 
 ---
@@ -639,117 +635,117 @@ pie title "Canon Coverage: 94,306 Verses Total"
 
 ### Phase 1A: Bootstrap & Pilot ✅ (COMPLETE)
 
-### 213
+### 184
 - **Dates**: 2026-05-05 to 2026-05-05
 
-### 214
+### 185
 - **Target**: 1 Enoch 1:1-5:3 validation
 
-### 215
+### 186
 - **Result**: ✅ 13 verses (1ENOCH-1-1 to 1ENOCH-5-3) successfully ingested
 
-### 216
+### 187
 - **Output**: `divine_training_set.jsonl` (7.09 KB) fully validated
 
-### 217
+### 188
 - **Milestone**: Full pipeline verified—Web → Download → Parse → YAML → JSONL ✅
 
 ### Phase 1B: Ethiopic Apocrypha Core ✅ (COMPLETE)
 
-### 219
+### 189
 - **Dates**: 2026-05-05 to 2026-05-05
 
-### 220
+### 190
 - **Target**: 1 Enoch, Jubilees, Kebra Nagast
 
-### 221
+### 191
 - **Result**: ✅ 2,924 verses ingested across three major books
 
-### 222
+### 192
 - **Milestone**: Core apocryphal texts established in vault
 
 ### Phase 1C: Complete Ethiopic Apocrypha 🚀 (IN PROGRESS)
 
-### 224
+### 193
 - **Planned Dates**: 2026-05-16 to 2026-05-31
 
-### 225
+### 194
 - **Target**: Remaining 7 books
 
-### 226
+### 195
 - **Result**: 🟢 Psalms of Solomon added (321 verses)
 
-### 227
+### 196
 - **Milestone**: Full Ethiopian apocrypha foundation
 
 ### Phase 2: Torah & Historical ⏳ (PENDING)
 
-### 229
+### 197
 - **Planned Dates**: 2026-06-01 to 2026-06-30
 
-### 230
+### 198
 - **Target**: Torah (5,852) + Historical (8,018) = 13,870 verses
 
-### 231
+### 199
 - **Expected Completion**: 2026-06-30
 
-### 232
+### 200
 - **Milestone**: Hebrew Bible foundation complete
 
 ### Phase 3: Poetic & Prophetic ⏳ (PENDING)
 
-### 234
+### 201
 - **Planned Dates**: 2026-07-01 to 2026-07-31
 
-### 235
+### 202
 - **Target**: Poetic (4,785) + Prophets (5,492) = 10,277 verses
 
-### 236
+### 203
 - **Expected Completion**: 2026-07-31
 
-### 237
+### 204
 - **Milestone**: OT wisdom and prophecy complete
 
 ### Phase 4: Deuterocanonical & New Testament ⏳ (PENDING)
 
-### 239
+### 205
 - **Planned Dates**: 2026-08-01 to 2026-08-31
 
-### 240
+### 206
 - **Target**: Deuterocanonical (3,771) + NT (7,758) = 11,529 verses
 
-### 241
+### 207
 - **Expected Completion**: 2026-08-31
 
-### 242
+### 208
 - **Milestone**: NT and expanded canon complete
 
 ### Phase 5: Additional Orthodox ⏳ (PENDING)
 
-### 244
+### 209
 - **Planned Dates**: 2026-09-01 to 2026-09-15
 
-### 245
+### 210
 - **Target**: Additional texts (3,020 verses)
 
-### 246
+### 211
 - **Expected Completion**: 2026-09-15
 
-### 247
+### 212
 - **Milestone**: Ethiopian Orthodox extensions complete
 
 ### Phase 6: Pseudepigrapha & Lost Books ⏳ (PENDING)
 
-### 249
+### 213
 - **Planned Dates**: 2026-09-16 to 2026-09-30
 
-### 250
+### 214
 - **Target**: Pseudepigrapha (7,600 verses)
 
-### 251
+### 215
 - **Expected Completion**: 2026-09-30
 
-### 252
+### 216
 - **Milestone**: **FULL CANON COMPLETE** 🎉
 
 ---
@@ -758,74 +754,74 @@ pie title "Canon Coverage: 94,306 Verses Total"
 
 ### Schema Compliance
 
-### 255
+### 217
 | Requirement | Status | Details |
 
-### 256
+### 218
 |-------------|--------|---------|
 
-### 257
+### 219
 | YAML frontmatter | ✅ Pass | All fields present and valid |
 
-### 258
+### 220
 | ID format | ✅ Pass | Format: `[BOOK]-[CHAPTER]-[VERSE]` |
 
-### 259
+### 221
 | `source_type: Scripture` | ✅ Pass | Required field validated |
 
-### 260
+### 222
 | No interpretation markers | ✅ Pass | Verse content is verbatim |
 
-### 261
+### 223
 | File naming | ✅ Pass | Matches ID: `[CHAPTER]-[VERSE].md` |
 
 ### Forge Compatibility
 
-### 263
+### 224
 | Test | Status | Result |
 
-### 264
+### 225
 |------|--------|--------|
 
-### 265
+### 226
 | Deterministic parsing | ✅ Pass | Forge correctly extracts 1 ENOCH-1-1 |
 
-### 266
+### 227
 | JSONL generation | ✅ Pass | Output format correct |
 
-### 267
+### 228
 | Instruction field | ✅ Pass | Canonical request generated |
 
-### 268
+### 229
 | Thinking field | ✅ Pass | Source ID referenced |
 
-### 269
+### 230
 | Context field | ✅ Pass | Metadata included |
 
-### 270
+### 231
 | Response field | ✅ Pass | Verbatim scripture extracted |
 
 ### Data Quality
 
-### 272
+### 232
 | Metric | Value | Status |
 
-### 273
+### 233
 |--------|-------|--------|
 
-### 274
+### 234
 | Duplicate verses | 0 | ✅ Clean |
 
-### 275
+### 235
 | Malformed IDs | 0 | ✅ Clean |
 
-### 276
+### 236
 | Missing frontmatter | 0 | ✅ Clean |
 
-### 277
+### 237
 | Interpretation detected | 0 | ✅ Clean |
 
-### 278
+### 238
 | Verses in quarantine | 0 | ✅ Clean |
 
 ---
@@ -834,1025 +830,1023 @@ pie title "Canon Coverage: 94,306 Verses Total"
 
 ### Temporary Gaps (Planned for future phases)
 
-### 281
+### 239
 - All books except 1 Enoch 1:1 not yet ingested
 
-### 282
+### 240
 - Full 1 Enoch backlog: 2,079 remaining verses
 
-### 283
+### 241
 - All other sections: See Phase 1B-5 timeline above
 
 ### Canon Variants
 
-### 285
+### 242
 - **Psalm 151**: Treated as full psalm (not appendix)
 
-### 286
+### 243
 - **Daniel 13-14**: Fully integrated (not separate)
 
-### 287
+### 244
 - **Esther Longer**: Ethiopian recension in use
 
-### 288
+### 245
 - **Baruch 6**: Treated as chapter 6 (not separate Letter of Jeremiah)
 
 ### Known Complexities
 
-### 290
+### 246
 - **Testament of Isaac & Jacob**: May require manual chapter mapping (unclear original structure)
 
-### 291
+### 247
 - **Synaxarion Narrative**: Liturgical text with variable numbering; standard edition TBD
 
-### 292
+### 248
 - **Hymnal excerpts**: Only "scriptural" hymns included; requires thematic filtering
 
 ---
 
 ## Forge Validation Report (Latest: Pilot Run)
 
-### 294
+### 249
 **Generated**: 2026-05-05 22:10 UTC
 
-### 295
+### 250
 **Verses Processed**: 13
 
-### 296
+### 251
 **Verses Valid**: 13
 
-### 297
+### 252
 **Verses Quarantined**: 0
 
-### 298
+### 253
 **Errors**: 0
 
-### 299
+### 254
 **File Size**: 7.09 KB
 
-### 300
+### 255
 ```
 
-### 301
+### 256
 ✅ divine_training_set.jsonl validation PASSED
 
-### 302
+### 257
 - Input verses: 13 (1 Enoch 1:1-5:3)
 
-### 303
+### 258
 - Output entries: 13 (perfect match)
 
-### 304
+### 259
 - Format: ✅ Correct (Instruction/Thinking/Response/Context)
 
-### 305
+### 260
 - Frontmatter: ✅ All YAML fields validated
 
-### 306
+### 261
 - Source: ✅ R.H. Charles 1917 (public domain)
 
-### 307
+### 262
 - Coverage: 0.015% of expected canon
 
-### 308
+### 263
 - Iron Curtain: ✅ Zero interpretation detected
 
-### 309
+### 264
 - Next gate: Scale to full 1 Enoch (2,080 verses)
 
-### 310
+### 265
 ```
 
 ---
 
 ## Update Instructions
 
-### 312
+### 266
 This dashboard is updated **manually** as verses are ingested. To update:
 
-### 1
+### 267
 **After each bulk ingestion**, run:
 
-### 2
+### 268
 ```bash
 
-### 3
+### 269
 npm run forge -- --stats-only
 
-### 4
+### 270
 ```
 
-### 5
+### 271
 This generates coverage statistics.
 
-### 2
+### 272
 **Update corresponding row** in the section table above:
 
-### 3
+### 273
 - Change `Ingested` value
 
-### 4
+### 274
 - Update `% Complete` calculation
 
-### 5
+### 275
 - Set `Status` (⏳ Pending → 🟡 In Progress → ✅ Complete)
 
-### 6
+### 276
 - Update `Last Updated` timestamp
 
-### 3
+### 277
 **Update summary metrics** at the top of this file.
 
-### 4
+### 278
 **Commit changes** with message:
 
-### 5
+### 279
 ```
 
-### 6
+### 280
 docs(bible-obsidian): Update coverage tracking [X verses added]
 
-### 7
+### 281
 ```
 
 ---
 
 ## Related Documentation
 
-### 9
+### 282
 - [CANON_INVENTORY.md](CANON_INVENTORY.md) – Master index of all 99 books
 
-### 10
+### 283
 - [FOLDER_STRUCTURE.md](FOLDER_STRUCTURE.md) – Directory layout expectations
 
-### 11
+### 284
 - [DATA_VALIDATION_RULES.md](DATA_VALIDATION_RULES.md) – Quality assurance criteria
 
-### 12
+### 285
 - [scripts/jsonl-forge.ts](../scripts/jsonl-forge.ts) – JSONL generation engine
-
-### FOLDER_STRUCTURE
 
 # Folder Structure & Naming Conventions
 
-### 14
+### 286
 This document defines the authoritative directory organization for all verse files in `bible-obsidian`. Consistency here ensures the JSONL Forge can traverse the vault deterministically and enables rapid scaling from 1 verse (current) to 86,706+ verses (full canon).
 
 ---
 
 ## Organizational Philosophy
 
-### 16
+### 287
 **Principle:** Organize by **Book** → **File per Verse** (not by chapter subdivisions).
 
-### 17
+### 288
 **Rationale:**
 
-### 18
+### 289
 - Flat, predictable structure (easier for the Forge to parse)
 
-### 19
+### 290
 - Scalable (no subdirectory explosion at chapter level)
 
-### 20
+### 291
 - Git-friendly (fine-grained versioning per verse)
 
-### 21
+### 292
 - Query-efficient (Obsidian search, Forge filtering)
 
 ---
 
 ## Directory Tree (Complete Structure)
 
-### 23
+### 293
 ```mermaid
 
-### 24
+### 294
 graph TD
 
-### 25
+### 295
 A["bible-obsidian (root)"] --> B[".obsidian<br/>(Vault config)"]
 
-### 26
+### 296
 A --> C["00_META"]
 
-### 27
+### 297
 A --> D["00_Schema.md"]
 
-### 28
+### 298
 A --> E["CANON_INVENTORY.md"]
 
-### 29
+### 299
 A --> F["FOLDER_STRUCTURE.md<br/>(this file)"]
 
-### 30
+### 300
 A --> G["COVERAGE_TRACKING.md"]
 
-### 31
+### 301
 A --> H["Torah<br/>(5 books)"]
 
-### 32
+### 302
 A --> I["Historical<br/>(12 books)"]
 
-### 33
+### 303
 A --> J["Poetic<br/>(5 books)"]
 
-### 34
+### 304
 A --> K["Prophets<br/>(17 books)"]
 
-### 35
+### 305
 A --> L["Deuterocanonical<br/>(15 books)"]
 
-### 36
+### 306
 A --> M["NewTestament<br/>(27 books)"]
 
-### 37
+### 307
 A --> N["EthiopicApocrypha<br/>(10 books)"]
 
-### 38
+### 308
 A --> O["AdditionalOrthodox<br/>(8 books)"]
 
-### 39
+### 309
 H --> H1["Genesis"]
 
-### 40
+### 310
 H --> H2["Exodus"]
 
-### 41
+### 311
 H --> H3["Leviticus"]
 
-### 42
+### 312
 H --> H4["Numbers"]
 
-### 43
+### 313
 H --> H5["Deuteronomy"]
 
-### 44
+### 314
 H1 --> H1a["1-1.md<br/>GEN-1-1"]
 
-### 45
+### 315
 H1 --> H1b["1-2.md<br/>GEN-1-2"]
 
-### 46
+### 316
 H1 --> H1c["..."]
 
-### 47
+### 317
 H1 --> H1d["50-26.md<br/>GEN-50-26"]
 
-### 48
+### 318
 K --> K1["Isaiah"]
 
-### 49
+### 319
 K --> K2["Jeremiah"]
 
-### 50
+### 320
 K --> K3["..."]
 
-### 51
+### 321
 M --> M1["Matthew"]
 
-### 52
+### 322
 M --> M2["Mark"]
 
-### 53
+### 323
 M --> M3["Luke"]
 
-### 54
+### 324
 M --> M4["John"]
 
-### 55
+### 325
 M --> M5["Acts"]
 
-### 56
+### 326
 N --> N1["1Enoch"]
 
-### 57
+### 327
 N1 --> N1a["1-1.md<br/>1ENOCH-1-1"]
 
-### 58
+### 328
 N1 --> N1b["1-2.md<br/>1ENOCH-1-2"]
 
-### 59
+### 329
 style A fill:#f0f0f0
 
-### 60
+### 330
 style B fill:#e8e8e8
 
-### 61
+### 331
 style C fill:#e8e8e8
 
-### 62
+### 332
 style H1 fill:#fff4e6
 
-### 63
+### 333
 style H1a fill:#fffaef
 
-### 64
+### 334
 style N1a fill:#fff4e6
 
-### 65
+### 335
 ```
 
 ---
 
 ## Section-Level Directories
 
-### 67
+### 336
 Each of the 9 canon sections gets a **top-level folder**:
 
 ### Section Folders
 
-### 69
+### 337
 | Folder | Books | Naming | Notes |
 
-### 70
+### 338
 |--------|-------|--------|-------|
 
-### 71
+### 339
 | `Torah` | Genesis, Exodus, Leviticus, Numbers, Deuteronomy | `[BookName]/` | 5 books |
 
-### 72
+### 340
 | `Historical` | Joshua through Esther | `[BookName]/` | 12 books |
 
-### 73
+### 341
 | `Poetic` | Job, Psalms, Proverbs, Ecclesiastes, Song of Songs | `[BookName]/` | 5 books |
 
-### 74
+### 342
 | `Prophets` | Isaiah through Malachi (Major & Minor) | `[BookName]/` | 17 books |
 
-### 75
+### 343
 | `Deuterocanonical` | Tobit through 3 Maccabees | `[BookName]/` | 15 books |
 
-### 76
+### 344
 | `NewTestament` | Matthew through Revelation | `[BookName]/` | 27 books |
 
-### 77
+### 345
 | `EthiopicApocrypha` | 1 Enoch through Didascalia | `[BookName]/` | 10 books |
 
-### 78
+### 346
 | `AdditionalOrthodox` | Misaq through Hymnal | `[BookName]/` | 8 books |
 
 ---
 
 ## Book-Level Directories
 
-### 80
+### 347
 Within each section folder, create **one directory per book**:
 
 ### Naming Rules for Book Folders
 
-### 82
+### 348
 - **Use Full English Name** (no abbreviations at folder level)
 
-### 83
+### 349
 - **Example directories:**
 
-### 84
+### 350
 - `Genesis/` → contains Genesis 1:1, Genesis 1:2, ..., Genesis 50:26
 
-### 85
+### 351
 - `1Enoch/` → contains 1 Enoch 1:1, 1 Enoch 1:2, ..., 1 Enoch 108:X
 
-### 86
+### 352
 - `SongOfSongs/` → contains Song of Songs verses
 
-### 87
+### 353
 - `1Corinthians/` → contains 1 Corinthians verses
 
 ### Special Cases
 
-### 89
+### 354
 | Book | Folder Name | Rationale |
 
-### 90
+### 355
 |------|-------------|-----------|
 
-### 91
+### 356
 | 1 Enoch | `1Enoch/` | No spaces; "1" prefix to distinguish from "Enoch" (if separate) |
 
-### 92
+### 357
 | 2 Enoch | `2Enoch/` | — |
 
-### 93
+### 358
 | 1 Maccabees | `1Maccabees/` | — |
 
-### 94
+### 359
 | Song of Songs | `SongOfSongs/` | No slashes; PascalCase |
 
-### 95
+### 360
 | Prayer of Manasseh | `PrayerOfManasseh/` | Descriptive name preserved |
 
-### 96
+### 361
 | Psalms of Solomon | `PsalmsOfSolomon/` | — |
 
-### 97
+### 362
 | Testament of Isaac & Jacob | `TestamentOfIsaacAndJacob/` | Single unified folder (see note below) |
 
 ---
 
 ## Verse-Level Files
 
-### 99
+### 363
 Inside each book folder, create **one `.md` file per verse** named as `[CHAPTER]-[VERSE].md`:
 
 ### File Naming Convention
 
-### 101
+### 364
 ```
 
-### 102
+### 365
 [CHAPTER]-[VERSE].md
 
-### 103
+### 366
 ```
 
-### 104
+### 367
 **Examples:**
 
-### 105
+### 368
 - `1-1.md` → Chapter 1, Verse 1
 
-### 106
+### 369
 - `1-2.md` → Chapter 1, Verse 2
 
-### 107
+### 370
 - `10-15.md` → Chapter 10, Verse 15
 
-### 108
+### 371
 - `151-1.md` → Psalm 151, Verse 1 (for Psalm 151)
 
 ### File Naming Edge Cases
 
-### 110
+### 372
 | Scenario | Format | Example |
 
-### 111
+### 373
 |----------|--------|---------|
 
-### 112
+### 374
 | Multi-verse sections (rare) | `[CHAPTER]-[START_VERSE]-[END_VERSE].md` | `3-16-17.md` (if verses 16-17 must be unified) |
 
-### 113
+### 375
 | Psalm with multiple sections | Keep separate files | `1-1.md`, `1-2.md`, etc. |
 
-### 114
+### 376
 | Prayer of Manasseh (single prayer, no chapters) | `1-1.md` through `1-X.md` | Single "chapter" (numbered as 1) |
 
-### 115
+### 377
 | Testament texts (may have unnumbered sections) | Use sequential numbering | `1-1.md`, `1-2.md`, etc. |
 
-### 116
+### 378
 | Hymnal excerpts (liturgical verses) | `[HYMN_NUM]-[LINE].md` | `1-1.md` (Hymn 1, line 1) |
 
 ---
 
 ## Complete Directory Example: Genesis
 
-### 118
+### 379
 ```
 
-### 119
+### 380
 Genesis/
 
-### 120
+### 381
 ├── 1-1.md          (ID: GEN-1-1)
 
-### 121
+### 382
 ├── 1-2.md          (ID: GEN-1-2)
 
-### 122
+### 383
 ├── 1-3.md          (ID: GEN-1-3)
 
-### 123
+### 384
 ├── ...
 
-### 124
+### 385
 ├── 1-31.md         (ID: GEN-1-31)
 
-### 125
+### 386
 ├── 2-1.md          (ID: GEN-2-1)
 
-### 126
+### 387
 ├── 2-2.md          (ID: GEN-2-2)
 
-### 127
+### 388
 ├── ...
 
-### 128
+### 389
 ├── 50-25.md        (ID: GEN-50-25)
 
-### 129
+### 390
 └── 50-26.md        (ID: GEN-50-26)
 
-### 130
+### 391
 ```
 
-### 131
+### 392
 **Total files in Genesis: 1,533 verse files**
 
 ---
 
 ## Complete Directory Example: 1 Enoch
 
-### 133
+### 393
 ```
 
-### 134
+### 394
 EthiopicApocrypha/
 
-### 135
+### 395
 └── 1Enoch/
 
-### 136
+### 396
 ├── 1-1.md          (ID: 1ENOCH-1-1)
 
-### 137
+### 397
 ├── 1-2.md          (ID: 1ENOCH-1-2)
 
-### 138
+### 398
 ├── 1-3.md          (ID: 1ENOCH-1-3)
 
-### 139
+### 399
 ├── ...
 
-### 140
+### 400
 ├── 1-9.md          (ID: 1ENOCH-1-9)
 
-### 141
+### 401
 ├── 2-1.md          (ID: 1ENOCH-2-1)
 
-### 142
+### 402
 ├── ...
 
-### 143
+### 403
 ├── 108-1.md        (ID: 1ENOCH-108-1)
 
-### 144
+### 404
 └── 108-X.md        (ID: 1ENOCH-108-X)
 
-### 145
+### 405
 ```
 
-### 146
+### 406
 **Total files in 1 Enoch: ~2,080 verse files**
 
 ---
 
 ## Complete Directory Example: New Testament (Matthew)
 
-### 148
+### 407
 ```
 
-### 149
+### 408
 NewTestament/
 
-### 150
+### 409
 └── Matthew/
 
-### 151
+### 410
 ├── 1-1.md          (ID: MAT-1-1)
 
-### 152
+### 411
 ├── 1-2.md          (ID: MAT-1-2)
 
-### 153
+### 412
 ├── ...
 
-### 154
+### 413
 ├── 1-25.md         (ID: MAT-1-25)
 
-### 155
+### 414
 ├── 2-1.md          (ID: MAT-2-1)
 
-### 156
+### 415
 ├── ...
 
-### 157
+### 416
 ├── 28-19.md        (ID: MAT-28-19)
 
-### 158
+### 417
 └── 28-20.md        (ID: MAT-28-20)
 
-### 159
+### 418
 ```
 
-### 160
+### 419
 **Total files in Matthew: 1,071 verse files**
 
 ---
 
 ## Full Vault Structure (Summary)
 
-### 162
+### 420
 ```
 
-### 163
+### 421
 bible-obsidian/
 
-### 164
+### 422
 ├── .obsidian/
 
-### 165
+### 423
 ├── 00_META/
 
-### 166
+### 424
 │   ├── Divine_Manifesto.md
 
-### 167
+### 425
 │   └── [other meta files]
 
-### 168
+### 426
 ├── 00_Schema.md
 
-### 169
+### 427
 ├── CANON_INVENTORY.md
 
-### 170
+### 428
 ├── FOLDER_STRUCTURE.md (this file)
 
-### 171
+### 429
 ├── COVERAGE_TRACKING.md
 
-### 172
+### 430
 ├── DATA_VALIDATION_RULES.md (future)
 
-### 173
+### 431
 ├── Torah/
 
-### 174
+### 432
 │   ├── Genesis/
 
-### 175
+### 433
 │   ├── Exodus/
 
-### 176
+### 434
 │   ├── Leviticus/
 
-### 177
+### 435
 │   ├── Numbers/
 
-### 178
+### 436
 │   └── Deuteronomy/
 
-### 179
+### 437
 ├── Historical/
 
-### 180
+### 438
 │   ├── Joshua/
 
-### 181
+### 439
 │   ├── Judges/
 
-### 182
+### 440
 │   ├── Ruth/
 
-### 183
+### 441
 │   ├── 1Samuel/
 
-### 184
+### 442
 │   ├── 2Samuel/
 
-### 185
+### 443
 │   ├── 1Kings/
 
-### 186
+### 444
 │   ├── 2Kings/
 
-### 187
+### 445
 │   ├── 1Chronicles/
 
-### 188
+### 446
 │   ├── 2Chronicles/
 
-### 189
+### 447
 │   ├── Ezra/
 
-### 190
+### 448
 │   ├── Nehemiah/
 
-### 191
+### 449
 │   └── Esther/
 
-### 192
+### 450
 ├── Poetic/
 
-### 193
+### 451
 │   ├── Job/
 
-### 194
+### 452
 │   ├── Psalms/
 
-### 195
+### 453
 │   ├── Proverbs/
 
-### 196
+### 454
 │   ├── Ecclesiastes/
 
-### 197
+### 455
 │   └── SongOfSongs/
 
-### 198
+### 456
 ├── Prophets/
 
-### 199
+### 457
 │   ├── Isaiah/
 
-### 200
+### 458
 │   ├── Jeremiah/
 
-### 201
+### 459
 │   ├── Lamentations/
 
-### 202
+### 460
 │   ├── Ezekiel/
 
-### 203
+### 461
 │   ├── Daniel/
 
-### 204
+### 462
 │   ├── Hosea/
 
-### 205
+### 463
 │   ├── Joel/
 
-### 206
+### 464
 │   ├── Amos/
 
-### 207
+### 465
 │   ├── Obadiah/
 
-### 208
+### 466
 │   ├── Jonah/
 
-### 209
+### 467
 │   ├── Micah/
 
-### 210
+### 468
 │   ├── Nahum/
 
-### 211
+### 469
 │   ├── Habakkuk/
 
-### 212
+### 470
 │   ├── Zephaniah/
 
-### 213
+### 471
 │   ├── Haggai/
 
-### 214
+### 472
 │   ├── Zechariah/
 
-### 215
+### 473
 │   └── Malachi/
 
-### 216
+### 474
 ├── Deuterocanonical/
 
-### 217
+### 475
 │   ├── Tobit/
 
-### 218
+### 476
 │   ├── Judith/
 
-### 219
+### 477
 │   ├── 1Maccabees/
 
-### 220
+### 478
 │   ├── 2Maccabees/
 
-### 221
+### 479
 │   ├── WisdomOfSolomon/
 
-### 222
+### 480
 │   ├── Sirach/
 
-### 223
+### 481
 │   ├── BelAndTheDragon/
 
-### 224
+### 482
 │   ├── 1Esdras/
 
-### 225
+### 483
 │   ├── 2Esdras/
 
-### 226
+### 484
 │   ├── Baruch/
 
-### 227
+### 485
 │   ├── PrayerOfManasseh/
 
-### 228
+### 486
 │   ├── Odes/
 
-### 229
+### 487
 │   ├── LetterToTheLaodiceans/
 
-### 230
+### 488
 │   └── 3Maccabees/
 
-### 231
+### 489
 ├── NewTestament/
 
-### 232
+### 490
 │   ├── Matthew/
 
-### 233
+### 491
 │   ├── Mark/
 
-### 234
+### 492
 │   ├── Luke/
 
-### 235
+### 493
 │   ├── John/
 
-### 236
+### 494
 │   ├── Acts/
 
-### 237
+### 495
 │   ├── Romans/
 
-### 238
+### 496
 │   ├── 1Corinthians/
 
-### 239
+### 497
 │   ├── 2Corinthians/
 
-### 240
+### 498
 │   ├── Galatians/
 
-### 241
+### 499
 │   ├── Ephesians/
 
-### 242
+### 500
 │   ├── Philippians/
 
-### 243
+### 501
 │   ├── Colossians/
 
-### 244
+### 502
 │   ├── 1Thessalonians/
 
-### 245
+### 503
 │   ├── 2Thessalonians/
 
-### 246
+### 504
 │   ├── 1Timothy/
 
-### 247
+### 505
 │   ├── 2Timothy/
 
-### 248
+### 506
 │   ├── Titus/
 
-### 249
+### 507
 │   ├── Philemon/
 
-### 250
+### 508
 │   ├── Hebrews/
 
-### 251
+### 509
 │   ├── James/
 
-### 252
+### 510
 │   ├── 1Peter/
 
-### 253
+### 511
 │   ├── 2Peter/
 
-### 254
+### 512
 │   ├── 1John/
 
-### 255
+### 513
 │   ├── 2John/
 
-### 256
+### 514
 │   ├── 3John/
 
-### 257
+### 515
 │   ├── Jude/
 
-### 258
+### 516
 │   └── Revelation/
 
-### 259
+### 517
 ├── EthiopicApocrypha/
 
-### 260
+### 518
 │   ├── 1Enoch/
 
-### 261
+### 519
 │   ├── 2Enoch/
 
-### 262
+### 520
 │   ├── Jubilees/
 
-### 263
+### 521
 │   ├── PsalmsOfSolomon/
 
-### 264
+### 522
 │   ├── 4Ezra/
 
-### 265
+### 523
 │   ├── ApocalypseOfJames/
 
-### 266
+### 524
 │   ├── ApostolicConstition/
 
-### 267
+### 525
 │   ├── SynaxarionNarrative/
 
-### 268
+### 526
 │   ├── KebraaNagast/
 
-### 269
+### 527
 │   └── Didascalia/
 
-### 270
+### 528
 ├── AdditionalOrthodox/
 
-### 271
+### 529
 │   ├── Misaq/
 
-### 272
+### 530
 │   ├── TestamentOfAbraham/
 
-### 273
+### 531
 │   ├── TestamentOfIsaacAndJacob/
 
-### 274
+### 532
 │   ├── EthiopianActa/
 
-### 275
+### 533
 │   ├── Salalae/
 
-### 276
+### 534
 │   ├── MiraclesOfJesus/
 
-### 277
+### 535
 │   ├── LivesOfSaints/
 
-### 278
+### 536
 │   └── Hymnal/
 
-### 279
+### 537
 └── [QUARANTINE/ - optional, for schema violations]
 
-### 280
+### 538
 ```
 
 ---
 
 ## JSONL Forge Directory Traversal
 
-### 282
+### 539
 The Forge script (`scripts/jsonl-forge.ts`) traverses this structure as follows:
 
-### 283
+### 540
 ```mermaid
 
-### 284
+### 541
 flowchart TD
 
-### 285
+### 542
 A["Start: Read bible-obsidian/"] --> B["Iterate Section Folders<br/>(Torah, Historical, etc.)"]
 
-### 286
+### 543
 B --> C["Iterate Book Folders<br/>(Genesis, Exodus, etc.)"]
 
-### 287
+### 544
 C --> D["Read Verse Files<br/>(1-1.md, 1-2.md, etc.)"]
 
-### 288
+### 545
 D --> E["Extract YAML Frontmatter"]
 
-### 289
+### 546
 E --> F["Validate Schema<br/>(id, canon, source_type)"]
 
-### 290
+### 547
 F --> G{Schema<br/>Valid?}
 
-### 291
+### 548
 G -->|Yes| H["Generate JSONL Entry<br/>(instruction/thinking/response)"]
 
-### 292
+### 549
 G -->|No| I["Flag for Quarantine"]
 
-### 293
+### 550
 H --> J["Write to divine_training_set.jsonl"]
 
-### 294
+### 551
 I --> K["Move to QUARANTINE/"]
 
-### 295
+### 552
 J --> L["Repeat until all verses processed"]
 
-### 296
+### 553
 K --> L
 
-### 297
+### 554
 L --> M["Generate Validation Report<br/>(coverage %, gaps, errors)"]
 
-### 298
+### 555
 ```
 
 ---
@@ -1861,111 +1855,111 @@ L --> M["Generate Validation Report<br/>(coverage %, gaps, errors)"]
 
 ### Phase 1A: Bootstrap (Current)
 
-### 301
+### 556
 - ✅ 1 Enoch 1:1 (validation test)
 
-### 302
+### 557
 - Folder: `EthiopicApocrypha/1Enoch/1-1.md`
 
 ### Phase 1B: Expand to Full 1 Enoch
 
-### 304
+### 558
 - Add 1 Enoch 1:2 through 1 Enoch 108:X
 
-### 305
+### 559
 - ~2,080 files total
 
-### 306
+### 560
 - Folder: `EthiopicApocrypha/1Enoch/`
 
 ### Phase 1C: Add Torah (5 books, ~5,852 verses)
 
-### 308
+### 561
 - Genesis through Deuteronomy
 
-### 309
+### 562
 - Folders: `Torah/Genesis/`, `Torah/Exodus/`, etc.
 
 ### Phase 2: Historical + Poetic (17 books, ~12,803 verses)
 
-### 311
+### 563
 - Rapid bulk import
 
 ### Phase 3+: New Testament & Remaining Sections
 
-### 313
+### 564
 - Scale to full 86,706+ verses
 
 ---
 
 ## File Metadata & Frontmatter
 
-### 315
+### 565
 Every verse file uses the **mandatory YAML schema**:
 
-### 316
+### 566
 ```yaml
 
 ---
 
-### 318
+### 567
 id: [BOOK-CHAPTER-VERSE]
 
-### 319
+### 568
 canon: [e.g., Ethiopian-81, Masoretic]
 
-### 320
+### 569
 book: [Full Book Name]
 
-### 321
+### 570
 chapter: [Number]
 
-### 322
+### 571
 verse: [Number]
 
-### 323
+### 572
 source_type: Scripture
 
 ---
 
-### 325
+### 573
 [Verse text content]
 
-### 326
+### 574
 ```
 
-### 327
+### 575
 **Example: `EthiopicApocrypha/1Enoch/1-1.md`**
 
-### 328
+### 576
 ```yaml
 
 ---
 
-### 330
+### 577
 id: 1ENOCH-1-1
 
-### 331
+### 578
 canon: Ethiopian-81
 
-### 332
+### 579
 book: 1 Enoch
 
-### 333
+### 580
 chapter: 1
 
-### 334
+### 581
 verse: 1
 
-### 335
+### 582
 source_type: Scripture
 
 ---
 
-### 337
+### 583
 The word of the blessing of Enoch, how he blessed the elect and the righteous, who were to exist in the time of trouble; rejecting all the wicked and ungodly.
 
-### 338
+### 584
 ```
 
 ---
@@ -1974,126 +1968,123 @@ The word of the blessing of Enoch, how he blessed the elect and the righteous, w
 
 ### `.gitignore` Strategy
 
-### 341
+### 585
 Add to the vault's `.gitignore` (or root `.gitignore`):
 
-### 342
+### 586
 ```
 
 # Avoid committing generated files
 
-### 343
+### 587
 divine_training_set.jsonl
 
-### 344
+### 588
 *.bak
 
-### 345
+### 589
 .DS_Store
 
 # Obsidian caches
 
-### 346
+### 590
 .obsidian/cache/
 
 # Optional: Exclude test/staging files
 
-### 347
+### 591
 QUARANTINE/
 
-### 348
+### 592
 ```
 
 ### Commit Practices
 
-### 350
+### 593
 - **Atomic commits**: One book section per commit (e.g., "Add Genesis 1-50")
 
-### 351
+### 594
 - **Commit message**: `feat(bible-obsidian): Add Genesis (1,533 verses) [GEN-1-1 to GEN-50-26]`
 
-### 352
+### 595
 - **Bulk imports**: Tag commits with phase/milestone
 
 ---
 
 ## Publishing & External Access
 
-### 354
+### 596
 If `bible-obsidian` is exported to static documentation (e.g., **docs.jexxx.us**), the folder structure translates directly to URL paths:
 
-### 355
+### 597
 ```
 
-### 356
+### 598
 docs.jexxx.us/scriptures/torah/genesis/1-1/
 
-### 357
+### 599
 docs.jexxx.us/scriptures/prophets/isaiah/1-1/
 
-### 358
+### 600
 docs.jexxx.us/scriptures/ethiopic-apocrypha/1-enoch/1-1/
 
-### 359
+### 601
 ```
 
 ---
 
 ## Related Documentation
 
-### 361
+### 602
 - [CANON_INVENTORY.md](CANON_INVENTORY.md) – Complete book inventory (99 books, 86,706 verses)
 
-### 362
+### 603
 - [00_Schema.md](00_Schema.md) – Mandatory YAML frontmatter structure
 
-### 363
+### 604
 - [COVERAGE_TRACKING.md](COVERAGE_TRACKING.md) – Live progress dashboard
 
-### 364
+### 605
 - [DATA_VALIDATION_RULES.md](DATA_VALIDATION_RULES.md) – Quality assurance checklist
 
 ---
 
 ## Summary Table
 
-### 366
+### 606
 | Aspect | Value |
 
-### 367
+### 607
 |--------|-------|
 
-### 368
+### 608
 | **Total Sections** | 9 |
 
-### 369
+### 609
 | **Total Books** | 99 |
 
-### 370
+### 610
 | **Total Verses** | 86,706 |
 
-### 371
+### 611
 | **File Structure** | Section → Book → Verse |
 
-### 372
+### 612
 | **Verse File Naming** | `[CHAPTER]-[VERSE].md` |
 
-### 373
+### 613
 | **ID Format** | `[BOOK_ID]-[CHAPTER]-[VERSE]` |
 
-### 374
+### 614
 | **Schema** | YAML frontmatter + markdown content |
 
-### 375
+### 615
 | **Traversal Pattern** | Deterministic (Forge-compatible) |
 
 ### Welcome
 
-### 377
+### 616
 This is your new *vault*.
 
-### 378
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
-
-### 379
+### 617
 When you're ready, delete this note and make the vault your own.

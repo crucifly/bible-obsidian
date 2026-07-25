@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 2
 
-> **Chapter 2**
+**Chapter 2**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 2**
+**CHAPTER 2**
 
 ### 3
 Jesus and his disciples

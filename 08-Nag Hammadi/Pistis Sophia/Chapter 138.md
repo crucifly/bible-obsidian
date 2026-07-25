@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 138
 
-> **Chapter 138**
+**Chapter 138**
 
 ### 1
 Pistis Sophia
@@ -23,7 +23,7 @@ Buy
 ### 4
 this Book at Amazon.com
 
-> **CHAPTER 137**
+**CHAPTER 137**
 
 ### 5
 Of the powers which Yew

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 105
 
-> **Chapter 105**
+**Chapter 105**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 104**
+**CHAPTER 104**
 
 ### 3
 John questioneth Jesus.It came to pass then, when Jesus had finished saying these words unto his disciples, that John came forward and said: "My Lord, suppose a sinning and a law-breaking man is replete in all iniquities, and he hath ceased from these for the sake of the kingdom of heaven and renounced the whole world and the whole matter therein, and we give him from the be-ginning onwards the mysteries of the Light which are in the first space from without, and if he receiveth the mysteries, and after a little while again if he returneth and transgresseth, and thereafter again if he turneth and ceaseth from all sins and turneth and renounceth the whole world and the whole matter therein, so that he cometh again and is in great repentance, and if we know truly in truth that he longeth after God, so that we give him the second mystery of the first space which is from without;--in like manner if he turneth anew and transgresseth and is again in the sins of the world, and again if he thereafter turneth and ceaseth from the sins of the world and again renounceth the whole world and the whole matter therein and again is in great repentance, and we know it with certainty that he is not a play-actor, so that we turn and give him the mysteries of the beginning, which [are] in the first space from without;--in like manner, if he turneth again and sinneth and is in every type [of sin];--desirest thou that we forgive him unto seven times and give him the mysteries which are in the first space from without, unto seven times or not?"

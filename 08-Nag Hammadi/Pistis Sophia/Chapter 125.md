@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 125
 
-> **Chapter 125**
+**Chapter 125**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 124**
+**CHAPTER 124**
 
 ### 3
 Mary continued again and said: "My Lord, a man who hath known the godhead and hath received of the mysteries of the Light, and hath turned and transgressed and done lawlessly and hath not turned to repent, and a man on the other hand who hath not found the godhead nor known it, and that man is a sinner and moreover impious, and they both have come out of the body,--which of them will get more suffering in the judgments?"

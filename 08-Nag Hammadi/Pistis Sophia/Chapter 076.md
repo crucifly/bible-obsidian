@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 76
 
-> **Chapter 76**
+**Chapter 76**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 75**
+**CHAPTER 75**
 
 ### 3
 And he continued again in the discourse and said unto the disciples: "These are all adventures which have befallen Pistis Sophia. It came to pass then, when I had led her to the region which is below the thirteenth æon, and was

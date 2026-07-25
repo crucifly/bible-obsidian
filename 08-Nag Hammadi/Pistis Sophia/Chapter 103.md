@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 103
 
-> **Chapter 103**
+**Chapter 103**
 
 ### 1
 Pistis Sophia

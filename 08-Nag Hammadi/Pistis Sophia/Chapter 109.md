@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 109
 
-> **Chapter 109**
+**Chapter 109**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 108**
+**CHAPTER 108**
 
 ### 3
 Mary again questioneth Jesus.It came to pass, when Jesus had finished saying these words unto his disciples, that Mary adored the feet of Jesus and kissed them. Mary said: "My Lord, bear with me, if I question thee, and be not wroth with me."

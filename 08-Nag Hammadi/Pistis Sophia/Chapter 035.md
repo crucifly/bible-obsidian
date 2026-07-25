@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 35
 
-> **Chapter 35**
+**Chapter 35**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 35**
+**CHAPTER 35**
 
 ### 3
 The second repentance of Sophia.Jesus continued again in the discourse and said: "Pistis Sophia again continued and still sang praises in a second repentance, saying thus:

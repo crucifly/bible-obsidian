@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 116
 
-> **Chapter 116**
+**Chapter 116**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 114**
+**CHAPTER 114**
 
 ### 3
 It came to pass then, when Jesus had heard Mary say these words, that he said: "Well said, all-blessed Mary, spiritual [one]. These are the solutions of the words which I have spoken."

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 133
 
-> **Chapter 133**
+**Chapter 133**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 132**
+**CHAPTER 132**
 
 ### 3
 Salome is in doubt.And when the Saviour had said this, Salome started forward and said: "My Lord, if our parents are the rulers, how standeth it written in the Law of Moses: 'He who shall abandon his father and his mother, let him die the death'? Hath not thus the Law made statement thereon?"

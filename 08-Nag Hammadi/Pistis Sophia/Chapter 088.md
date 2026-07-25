@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 88
 
-> **Chapter 88**
+**Chapter 88**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 87**
+**CHAPTER 87**
 
 ### 3
 "It came to pass then, when Jesus had finished speaking these words, that Mary Magdalene started forward and said:

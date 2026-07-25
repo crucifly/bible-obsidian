@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 7
 
-> **Chapter 7**
+**Chapter 7**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 7**
+**CHAPTER 7**
 
 ### 3
 "It came to pass, when the sun rose in the east, thereafter then through the First Mystery, which existed from the beginning, on account of which the universe hath arisen, out of which also I am myself now come, not in the time before my

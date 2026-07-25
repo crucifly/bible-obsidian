@@ -23,32 +23,32 @@ And place upon him rough and jagged rocks, and cover him with darkness, and let 
 ### 6
 And on the day of the great judgement he shall be cast into the fire. And heal the earth which the angels have corrupted, and proclaim the healing of the earth, that they may heal the plague, and that all the children of men may not perish through all the secret things that the Watchers have disclosed and have taught their sons.
 
-### 8
+### 7
 And the whole earth has been corrupted through the works that were taught by Azâzêl: to him ascribe all sin.’
 
-### 9
+### 8
 And to Gabriel said the Lord: ‘Proceed against the bastards and the reprobates, and against the children of fornication: and destroy [the children of fornication and] the children of the Watchers from amongst men [and cause them to go forth]: send them one against the other that they may destroy each other in battle: for length of days shall they not have.
 
-### 10
+### 9
 And no request that they (i.e. their fathers) make of thee shall be granted unto their fathers on their behalf; for they hope to live an eternal life, and that each one of them will live five hundred years.’
 
-### 11
+### 10
 And the Lord said unto Michael: ‘Go, bind Semjâzâ and his associates who have united themselves with women so as to have defiled themselves with them in all their uncleanness.
 
-### 12
+### 11
 And when their sons have slain one another, and they have seen the destruction of their beloved ones, bind them fast for seventy generations in the valleys of the earth, till the day of their judgement and of their consummation, till the judgement that is for ever and ever is consummated.
 
-### 13
+### 12
 In those days they shall be led off to the abyss of fire: 〈and〉 to the torment and the prison in which they shall be confined for ever. And whosoever shall be condemned and destroyed will from thenceforth be bound together with them to the end of all generations.
 
-### 15
+### 13
 And destroy all the spirits of the reprobate and the children of the Watchers, because they have wronged mankind. Destroy all wrong from the face of the earth and let every evil work come to an end: and let the plant of righteousness and truth appear: ⌈and it shall prove a blessing; the works of righteousness and truth⌉ shall be planted in truth and joy for evermore. 17 And then shall all the righteous escape, And shall live till they beget thousands of children, And all the days of their youth and their old age Shall they complete in peace. 18 And then shall the whole earth be tilled in righteousness, and shall all be planted with trees and be full of blessing.
 
-### 19
+### 14
 And all desirable trees shall be planted on it, and they shall plant vines on it: and the vine which they plant thereon shall yield wine in abundance, and as for all the seed which is sown thereon each measure (of it) shall bear a thousand, and each measure of olives shall yield ten presses of oil.
 
-### 20
+### 15
 And cleanse thou the earth from all oppression, and from all unrighteousness, and from all sin, and from all godlessness: and all the uncleanness that is wrought upon the earth destroy from off the earth.
 
-### 21
+### 16
 ⌈And all the children of men shall become righteous⌉, and all nations shall offer adoration and shall praise Me, and all shall worship Me. And the earth shall be cleansed from all defilement, and from all sin, and from all punishment, and from all torment, and I will never again send (them) upon it from generation to generation and for ever.

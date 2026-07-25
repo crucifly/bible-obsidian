@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 132
 
-> **Chapter 132**
+**Chapter 132**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 131**
+**CHAPTER 131**
 
 ### 3
 Mary continued again and said: "My Lord, doth the dragon of the outer darkness come into this world or doth he not come?"

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 41
 
-> **Chapter 41**
+**Chapter 41**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 41**
+**CHAPTER 41**
 
 ### 3
 Jesus commendeth John.It came to pass then, when John had finished speaking these words to Jesus in the midst of his disciples, that he said unto him: "Well said, John, the Virgin, who shalt rule in the kingdom of the Light."

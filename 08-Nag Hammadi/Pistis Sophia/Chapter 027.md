@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 27
 
-> **Chapter 27**
+**Chapter 27**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 27**
+**CHAPTER 27**
 
 ### 3
 "It came to pass then, when the rulers of the æons and those of the Fate and those of the sphere continued to carry out this type,--turning on themselves, devouring the refuse of their matter, and not allowing souls to be born into the world of mankind, in order that they might delay in being rulers, and that the powers which are in their powers, that is the souls, might spend a long time here outside,--they then persisted doing this continually for two circles.

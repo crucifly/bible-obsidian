@@ -32,5 +32,5 @@ And now, the giants, who are produced from the spirits and flesh, shall be calle
 ### 9
 Evil spirits have proceeded from their bodies; because they are born from men, ⌈⌈and⌉⌉ from the holy Watchers is their beginning and primal origin;⌈they shall be evil spirits on earth, and⌉ evil spirits shall they be called. [10. As for the spirits of heaven, in heaven shall be their dwelling, but as for the spirits of the earth which were born upon the earth, on the earth shall be their dwelling.]
 
-### 11
+### 10
 And the spirits of the giants afflict, oppress, destroy, attack, do battle, and work destruction on the earth, and cause trouble: they take no food, ⌈but nevertheless hunger⌉ and thirst, and cause offences. And these spirits shall rise up against the children of men and against the women, because they have proceeded ⌈from them⌉.

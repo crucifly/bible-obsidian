@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 44
 
-> **Chapter 44**
+**Chapter 44**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 44**
+**CHAPTER 44**
 
 ### 3
 Philip is commended and continueth writing.It came to pass then, when Jesus had heard Philip speak these words, that he said: "Well said, Philip, well-beloved. Now, therefore, come, take thy seat and write thy portion of all the discourses which I shall speak, and [of all things which I shall] do, and of all that thou shalt see."

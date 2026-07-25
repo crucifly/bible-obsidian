@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 25
 
-> **Chapter 25**
+**Chapter 25**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 25**
+**CHAPTER 25**
 
 ### 3
 And Jesus answered and said unto Mary: "Well said, Mary; thou questionest finely with thy excellent question, and thou throwest light on all things with surety and precision. Now,

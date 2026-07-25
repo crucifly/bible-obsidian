@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 84
 
-> **Chapter 84**
+**Chapter 84**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 83**
+**CHAPTER 83**
 
 ### 3
 Mary questioneth Jesus.It came to pass then again, after all this, that Mary came forward, adored the feet of Jesus and said: "My Lord, be not wroth with me, if I

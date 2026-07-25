@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 79
 
-> **Chapter 79**
+**Chapter 79**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 78**
+**CHAPTER 78**
 
 ### 3
 It came to pass then, when the First Mystery had finished saying these words unto the disciples, that he said: "Who hath understood the words which I have spoken, let him come forward and set forth their solution."

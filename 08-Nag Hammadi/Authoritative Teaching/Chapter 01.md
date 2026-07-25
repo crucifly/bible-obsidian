@@ -416,12 +416,3 @@ She received rest from her labors, while the light that shines forth upon her do
 
 ### 137
 sink. To it belongs the glory and the power and the revelation for ever and ever. Amen.
-
-### 138
-The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.
-
-### 139
-E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.
-
-### 140
-For academic citation, please refer to published editions of this text.

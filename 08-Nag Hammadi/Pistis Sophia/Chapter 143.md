@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 143
 
-> **Chapter 143**
+**Chapter 143**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 142**
+**CHAPTER 142**
 
 ### 3
 The mystic offering.And Jesus said unto them: "Bring me fire and vine branches." They brought them unto him. He laid out the offering, and set down two wine-vessels, one on the right and the other on the left of the offering. He disposed the offering before them, and set a cup of water before the wine-vessel on the right and set a cup of wine before the wine-vessel on the left, and laid loaves according to the number of the disciples in the middle between the cups and set a cup of water behind the loaves.

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 20
 
-> **Chapter 20**
+**Chapter 20**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 20**
+**CHAPTER 20**
 
 ### 3
 She said: "My Lord, will all the men who know the mystery of the magic of all the rulers of all the æons of the Fate and of those of the sphere, in the way in which the angels who transgressed

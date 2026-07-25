@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 17
 
-> **Chapter 17**
+**Chapter 17**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 17**
+**CHAPTER 17**
 
 ### 3
 When then he had said this to his disciples, he said unto them: "Who hath ears to hear, let him hear."

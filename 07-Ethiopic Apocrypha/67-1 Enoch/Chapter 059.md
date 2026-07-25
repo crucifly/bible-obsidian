@@ -5,7 +5,7 @@ canon: "Ethiopic Apocrypha"
 ---
 # 1 Enoch 59
 
-### 0
+### 1
 [1. In those days mine eyes saw the secrets of the lightnings, and of the lights, and the judgements they execute (lit. ‘their judgement’): and they lighten for a blessing or a curse as the Lord of Spirits willeth.
 
 ### 2

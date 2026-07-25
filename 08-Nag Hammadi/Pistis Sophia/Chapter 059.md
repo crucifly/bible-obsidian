@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 59
 
-> **Chapter 59**
+**Chapter 59**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 59**
+**CHAPTER 59**
 
 ### 3
 The power sent by Jesus formeth a light-wreath on Sophia's head.And Jesus continued again in the discourse and said unto his disciples: "It came to pass then, when Pistis Sophia had finished saying these words in the chaos, that I made the light-power, which I had sent to save her, become a light-wreath on her head, so that from now on the emanations of Self-willed could not have dominion over her. And when it had become a light-wreath round her head, all the evil matters in her were shaken and all were purified in her. They perished and remained in the chaos, while the emanations of Self-willed gazed upon them and rejoiced. And the purification of the pure light which was in Pistis Sophia, gave power to the light of my light-power, which had become a wreath round her head.

@@ -6,3905 +6,2915 @@ canon: "Nag-Hammadi"
 
 # Secret Book of John
 
+### 1
+All rights including right of electronic reproduction are reserved by the author.
 
+### 2
+� 2005 Stevan Davies_
 
+### 3
+**Notes by the Translator**
 
+### 4
+It has always seemed to me that the Secret Book of John evolved to be more difficult to read than it originally was. The Secret Book of John is a complex developmental mythology that has been made more complicated because, over the years, versions of it have been �improved� by several levels of scribal alteration. One set of levels is the evident addition of rather lengthy texts (a list of magical names, a dialogue on the soul, a providence hymn) to an original version that lacked them. Another set of levels is the addition by various scribes of what they intended to be useful comments, explanations, clarifications and supplementary details. The former processes continue to be added to the text when scholars such as myself add introductory paragraphs, or indeed whole book-length texts to introduce or comment on the Secret Book of John. The latter processes continue when scholars interrupt the flow of the text by adding subheadings (such as the section headings added here in Bold Italics) and notes intended to assist the reader�s understanding.
 
+### 5
+I believe that readers will benefit from seeing the various individual elements constituting the text as separable units and so be relieved from thinking that somehow all of this material constitutes one originally coherent whole. To this end, in this version of my translation I use two formatting techniques to identify and separate-out several forms of material that seem to have been added at different times to the original. For more extensive textual additions I have arranged that the translation make use of different color fonts. There is one font color for [the main body](#font1) of the Secret Book of John (**font color 1**), another for the material I believe to have been added by a [Christian editor](#font2) who sought to present the text as a long dialogue between Jesus and John son of Zebedee (**font color 2**); this material occurs in two large blocks at the beginning and toward the end of the text and also in occasional dialogues imbedded throughout the last half of the text. Another font (**font color 3**) distinguishes a long list of demons� names that are associated with specific body parts, a magical text apparently taken from an unknown source called the "[Book of Zoroaster](#font3)". Another (**font color 4**) is used for the included [dialogue about the soul](#font4). Finally a font (**font color 5**) designates the [three part hymn](#font5) spoken by God�s Providence (Pronoia).
 
 ### 6
-[![Secret Book of John](http://www.gnosis.org/images/butrevjohn.gif)](nhl_sbj.htm)
+In addition to these different fonts, I have put in square brackets the occasional short passages, or sentences, or phrases that I believe were added to the text by scribes over the years, additions that were intended to make the text more understandable, or to identify elements of the text with aspects of the Christian religion. If you ask how I know which parts were added as comments and so forth, the answer is that I make informed guesses. That�s really what most scholarship comes down to� informed guesses.
 
+### 7
+\[The Teaching of the Savior\]**
 
+### 8
+The Revelation of the Mysteries Hidden in Silence
 
 ### 9
-[![The Secret Book of John, by Stevan Davies](../images/Bookstore/secretbookjohn.jpg)](http://www.amazon.com/exec/obidos/ASIN/1594730822/ref=nosim/gnosisarchive)
+**\[Those Things that He Taught to John, His Disciple\]
 
 ### 10
-_The Secret Book of John
+**Prologue**
 
 ### 11
-_by Stevan Davies
+One day John, the brother of James \[these are the sons of Zebedee\], was going up to the Temple. A Pharisee by the name of Arimanios came up to him and challenged him, asking: "Where is the teacher you used to follow?"
 
+### 12
+John replied, "He has gone back to the place from which he came."
 
 ### 13
-**The Apocryphon of John Collection
+The Pharisee said, "That Nazarene misled you (plural), told you lies, closed your hearts and turned you away from your ancestral traditions.�
 
 ### 14
-(The Secret Revelation of John - The Secret Book of John)**
+When I heard these things, I, John, turned away from the temple and went off to a deserted mountainous place. I was very unhappy, saying to myself:
 
-###### [Gnosis Archive](../welcome.html) | [Library](../library.html) | [Bookstore](../bookstore1.htm) | [Index](../search_form.html) | [Web Lectures](../lectures.html) | [Ecclesia Gnostica](../eghome.htm) | [Gnostic Society](../gnostsoc.htm)
+### 15
+"How was the Savior designated?
 
 ### 16
-> * * *
+Why did his Father send him into the world?
 
 ### 17
->
+Who is his Father?
 
 ### 18
-> **The Secret Book of John**
+What kind of realm will we go to?
 
 ### 19
->
+For, although he told us, �This realm is modeled on the imperishable realm,�
 
 ### 20
-> **(The Apocryphon of John)**
+He didn't teach us about the latter.�
 
 ### 21
->
+All of a sudden, while I was contemplating these things,
 
 ### 22
-> Translated by Stevan Davies
+Behold!
 
 ### 23
->
+The heavens opened and the whole of creation shone with a light from above,
 
 ### 24
-> _This translation is presented in The Gnostic Society Library by exclusive permission of the author.
+And the world quaked!
 
 ### 25
-> All rights including right of electronic reproduction are reserved by the author.
+I was afraid, yet
 
 ### 26
-> � 2005 Stevan Davies_
+Behold!
 
 ### 27
->
+A little child appeared before me in the light.
 
 ### 28
-> * * *
+I continued looking at him as he became an old man
 
 ### 29
->
+And then he changed again, becoming like a young man.
 
 ### 30
-> **Notes by the Translator**
+I didn't understand what I was seeing,
 
 ### 31
->
+But the one likeness had several forms in the light,
 
 ### 32
-> > It has always seemed to me that the Secret Book of John evolved to be more difficult to read than it originally was. The Secret Book of John is a complex developmental mythology that has been made more complicated because, over the years, versions of it have been �improved� by several levels of scribal alteration. One set of levels is the evident addition of rather lengthy texts (a list of magical names, a dialogue on the soul, a providence hymn) to an original version that lacked them. Another set of levels is the addition by various scribes of what they intended to be useful comments, explanations, clarifications and supplementary details. The former processes continue to be added to the text when scholars such as myself add introductory paragraphs, or indeed whole book-length texts to introduce or comment on the Secret Book of John. The latter processes continue when scholars interrupt the flow of the text by adding subheadings (such as the section headings added here in Bold Italics) and notes intended to assist the reader�s understanding.
+And these likenesses appeared each through the other
 
 ### 33
-> >
+And the vision had three forms.
 
 ### 34
-> > I believe that readers will benefit from seeing the various individual elements constituting the text as separable units and so be relieved from thinking that somehow all of this material constitutes one originally coherent whole. To this end, in this version of my translation I use two formatting techniques to identify and separate-out several forms of material that seem to have been added at different times to the original. For more extensive textual additions I have arranged that the translation make use of different color fonts. There is one font color for [the main body](#font1) of the Secret Book of John (**font color 1**), another for the material I believe to have been added by a [Christian editor](#font2) who sought to present the text as a long dialogue between Jesus and John son of Zebedee (**font color 2**); this material occurs in two large blocks at the beginning and toward the end of the text and also in occasional dialogues imbedded throughout the last half of the text. Another font (**font color 3**) distinguishes a long list of demons� names that are associated with specific body parts, a magical text apparently taken from an unknown source called the "[Book of Zoroaster](#font3)". Another (**font color 4**) is used for the included [dialogue about the soul](#font4). Finally a font (**font color 5**) designates the [three part hymn](#font5) spoken by God�s Providence (Pronoia).
+He said to me,
 
 ### 35
-> >
+�John, why doubt?
 
 ### 36
-> > In addition to these different fonts, I have put in square brackets the occasional short passages, or sentences, or phrases that I believe were added to the text by scribes over the years, additions that were intended to make the text more understandable, or to identify elements of the text with aspects of the Christian religion. If you ask how I know which parts were added as comments and so forth, the answer is that I make informed guesses. That�s really what most scholarship comes down to� informed guesses.
+Why be afraid?
 
 ### 37
-> >
+Don�t you know this image?
 
 ### 38
-> > ([Click here](http://www.amazon.com/exec/obidos/ASIN/1594730822/ref=nosim/gnosisarchive) to purchase the print edition of The Secret Book of John, translated and annotated by Stevan Davies. Note that the print edition includes introductory material and an extensive line-by-line commentary on facing pages.)
+Be not afraid.
 
 ### 39
->
+I am with you (plural) always.
 
 ### 40
-> **Visit the [Apocryphon of John Collection](http://www.gnosis.org/naghamm/nhl_sbj.htm) for more information**
+I am the Father
 
 ### 41
->
+The Mother
 
 ### 42
-> * * *
+The Son
 
 ### 43
->
+I am the incorruptible
 
 ### 44
-> > \[The Teaching of the Savior\]**
+Purity.
 
 ### 45
-> > The Revelation of the Mysteries Hidden in Silence
+I have come to teach you
 
 ### 46
-> > **\[Those Things that He Taught to John, His Disciple\]
+About what is
 
 ### 47
-> >
+And what was
 
 ### 48
-> >
+And what will be
 
 ### 49
-> > **Prologue**
+In order for you to understand
 
 ### 50
-> >
+The invisible world
 
 ### 51
-> > One day John, the brother of James \[these are the sons of Zebedee\], was going up to the Temple. A Pharisee by the name of Arimanios came up to him and challenged him, asking: "Where is the teacher you used to follow?"
+And the world that is visible
 
 ### 52
-> >
+And the immovable race of perfect humanity.
 
 ### 53
-> > John replied, "He has gone back to the place from which he came."
+Raise your head;
 
 ### 54
-> >
+Understand my lessons;
 
 ### 55
-> > The Pharisee said, "That Nazarene misled you (plural), told you lies, closed your hearts and turned you away from your ancestral traditions.�
+Share them with any others who have received the spirit,
 
 ### 56
-> >
+Who are from the immovable race of perfect humanity.�
 
 ### 57
-> > When I heard these things, I, John, turned away from the temple and went off to a deserted mountainous place. I was very unhappy, saying to myself:
+The Inexpressible One
 
 ### 58
-> >
+The One rules all. Nothing has authority over it.
 
 ### 59
-> > > "How was the Savior designated?
+It is the God.
 
 ### 60
-> > > Why did his Father send him into the world?
+It is Father of everything,
 
 ### 61
-> > > Who is his Father?
+Holy One
 
 ### 62
-> > > What kind of realm will we go to?
+The invisible one over everything.
 
 ### 63
-> >
+It is uncontaminated
 
 ### 64
-> > For, although he told us, �This realm is modeled on the imperishable realm,�
+Pure light no eye can bear to look within.
 
 ### 65
-> >             He didn't teach us about the latter.�
+The One is the Invisible Spirit.
 
 ### 66
-> >
+It is not right to think of it as a God or as like God.
 
 ### 67
-> > All of a sudden, while I was contemplating these things,
+It is more than just God.
 
 ### 68
-> >            Behold!
+Nothing is above it.
 
 ### 69
-> > The heavens opened and the whole of creation shone with a light from above,
+Nothing rules it.
 
 ### 70
-> >             And the world quaked!
+Since everything exists within it
 
 ### 71
-> > I was afraid, yet
+It does not exist within anything.
 
 ### 72
-> >            Behold!
+Since it is not dependent on anything
 
 ### 73
-> >
+It is eternal.
 
 ### 74
-> > A little child appeared before me in the light.
+It is absolutely complete and so needs nothing.
 
 ### 75
-> >             I continued looking at him as he became an old man
+It is utterly perfect
 
 ### 76
-> >                         And then he changed again, becoming like a young man.
+Light.
 
 ### 77
-> > I didn't understand what I was seeing,
+The One is without boundaries
 
 ### 78
-> >             But the one likeness had several forms in the light,
+Nothing exists outside of it to border it
 
 ### 79
-> >             And these likenesses appeared each through the other
+The One cannot be investigated
 
 ### 80
-> >             And the vision had three forms.
+Nothing exists apart from it to investigate it
 
 ### 81
-> >
+The One cannot be measured
 
 ### 82
-> > He said to me,
+Nothing exists external to it to measure it
 
 ### 83
-> >             �John, why doubt?
+The One cannot be seen
 
 ### 84
-> >             Why be afraid?
+For no one can envision it
 
 ### 85
-> >             Don�t you know this image?
+The One is eternal
 
 ### 86
-> > Be not afraid.
+For it exists forever
 
 ### 87
-> >             I am with you (plural) always.
+The One is inconceivable
 
 ### 88
-> >             I am the Father
+For no one can comprehend it
 
 ### 89
-> >                         The Mother
+The One is indescribable
 
 ### 90
-> >                                     The Son
+For no one can put any words to it.
 
 ### 91
-> >             I am the incorruptible
+The One is infinite light
 
 ### 92
-> >                         Purity.
+Purity
 
 ### 93
-> >
+Holiness
 
 ### 94
-> > I have come to teach you
+Stainless,
 
 ### 95
-> >             About what is
+The One is incomprehensible
 
 ### 96
-> >             And what was
+Perfectly free from corruption.
 
 ### 97
-> >             And what will be
+Not �perfect�
 
 ### 98
-> >             In order for you to understand
+Not �blessed�
 
 ### 99
-> >                         The invisible world
+Not �divine�
 
 ### 100
-> >                         And the world that is visible
+But superior to such concepts.
 
 ### 101
-> >                         And the immovable race of perfect humanity.
+Neither physical nor unphysical
 
 ### 102
-> >
+Neither immense nor infinitesimal
 
 ### 103
-> > Raise your head;
+It is impossible to specify in quantity or quality
 
 ### 104
-> > Understand my lessons;
+For it is beyond knowledge.
 
 ### 105
-> > Share them with any others who have received the spirit,
+The One is not a being among other beings
 
 ### 106
-> >             Who are from the immovable race of perfect humanity.�
+It is vastly superior
 
 ### 107
-> >
+But it is not �superior.�
 
 ### 108
-> > The Inexpressible One
+It is outside of realms of being and time
 
 ### 109
-> >
+For whatever is within realms of being was created
 
 ### 110
-> > The One rules all. Nothing has authority over it.
+And whatever is within time had time allotted to it
 
 ### 111
-> >             It is the God.
+The One receives nothing from anything.
 
 ### 112
-> >             It is Father of everything,
+It simply apprehends itself in its own perfect light
 
 ### 113
-> >                         Holy One
+The One is majestic.
 
 ### 114
-> >                         The invisible one over everything.
+The One is measureless majesty
 
 ### 115
-> > It is uncontaminated
+Chief of all Realms
 
 ### 116
-> >             Pure light no eye can bear to look within.
+Producing all realms
 
 ### 117
-> >
+Light
 
 ### 118
-> > The One is the Invisible Spirit.
+Producing light
 
 ### 119
-> >             It is not right to think of it as a God or as like God.
+Life
 
 ### 120
-> >             It is more than just God.
+Producing life
 
 ### 121
-> >
+Blessedness
 
 ### 122
-> > Nothing is above it.
+Producing blessedness
 
 ### 123
-> > Nothing rules it.
+Knowledge
 
 ### 124
-> >             Since everything exists within it
+Producing knowledge
 
 ### 125
-> >                         It does not exist within anything.
+Good
 
 ### 126
-> >             Since it is not dependent on anything
+Producing goodness
 
 ### 127
-> >                         It is eternal.
+Mercy
 
 ### 128
-> >
+Producing mercy
 
 ### 129
-> > It is absolutely complete and so needs nothing.
+Generous
 
 ### 130
-> > It is utterly perfect
+Producing generosity
 
 ### 131
-> > Light.
+\[It does not �possess� these things.\]
 
 ### 132
-> >
+It gives forth light beyond measure, beyond comprehension.
 
 ### 133
-> > The One is without boundaries
+\[What can I say?\]
 
 ### 134
-> >             Nothing exists outside of it to border it
+His realm is eternal, peaceful, silent, resting, before everything.
 
 ### 135
-> > The One cannot be investigated
+He is the head of every realm sustaining each of them through goodness.
 
 ### 136
-> >             Nothing exists apart from it to investigate it
+**The Origin of Reality**
 
 ### 137
-> > The One cannot be measured
+\[We would know nothing of the ineffable
 
 ### 138
-> >             Nothing exists external to it to measure it
+And nothing of the immeasurable
 
 ### 139
-> >
+Without the help of the one who comes forth
 
 ### 140
-> > The One cannot be seen
+from the One who is the Father.
 
 ### 141
-> >             For no one can envision it
+He alone has informed us.\]
 
 ### 142
-> > The One is eternal
+The Father is surrounded by light.
 
 ### 143
-> >             For it exists forever
+He apprehends himself in that light
 
 ### 144
-> > The One is inconceivable
+\[which is the pure spring of the water of life
 
 ### 145
-> >             For no one can comprehend it
+that sustains all realms\].
 
 ### 146
-> > The One is indescribable
+He is conscious of his image everywhere around him,
 
 ### 147
-> >             For no one can put any words to it.
+Perceiving his image in this spring of Spirit
 
 ### 148
-> >
+Pouring forth from himself.
 
 ### 149
-> > The One is infinite light
+He is enamored of the image he sees in the light-water,
 
 ### 150
-> >             Purity
+The spring of pure light-water enveloping him.
 
 ### 151
-> >             Holiness
+His self-aware thought (ennoia) came into being.
 
 ### 152
-> >             Stainless,
+Appearing to him in the effulgence of his light.
 
 ### 153
-> >
+She stood before him.
 
 ### 154
-> > The One is incomprehensible
+This, then, is the first of the powers, prior to everything.
 
 ### 155
-> >             Perfectly free from corruption.
+Arising out of the mind of the Father
 
 ### 156
-> > Not �perfect�
+The Providence (pronoia) of everything.
 
 ### 157
-> > Not �blessed�
+Her light reflects His light.
 
 ### 158
-> > Not �divine�
+She is from His image in His light
 
 ### 159
-> > But superior to such concepts.
+Perfect in power
 
 ### 160
-> >             Neither physical nor unphysical
+Image of the invisible perfect Virgin Spirit.
 
 ### 161
-> >             Neither immense nor infinitesimal
+She is the initial power
 
 ### 162
-> >             It is impossible to specify in quantity or quality
+glory of Barbelo
 
 ### 163
-> >                         For it is beyond knowledge.
+glorious among the realms
 
 ### 164
-> >
+glory of revelation
 
 ### 165
-> > The One is not a being among other beings
+She gave glory to the Virgin Spirit
 
 ### 166
-> >             It is vastly superior
+She praised Him
 
 ### 167
-> >                         But it is not �superior.�
+For she arose from Him.
 
 ### 168
-> >
+\[This, the first Thought, is the Spirit�s image\]
 
 ### 169
-> > It is outside of realms of being and time
+She is the universal womb
 
 ### 170
-> >             For whatever is within realms of being was created
+She is before everything
 
 ### 171
-> >             And whatever is within time had time allotted to it
+She is:
 
 ### 172
-> > The One receives nothing from anything.
+Mother-Father
 
 ### 173
-> >             It simply apprehends itself in its own perfect light
+First Man
 
 ### 174
-> >
+Holy Spirit
 
 ### 175
-> > The One is majestic.
+Thrice Male
 
 ### 176
-> >             The One is measureless majesty
+Thrice Powerful
 
 ### 177
-> >
+Thrice Named
 
 ### 178
-> > Chief of all Realms
+Androgynous eternal realm
 
 ### 179
-> >             Producing all realms
+First to arise among the invisible realms.
 
 ### 180
-> >
+She, Barbelo, asked the virgin Spirit for foreknowledge (prognosis).
 
 ### 181
-> > Light
+The Spirit agreed.
 
 ### 182
-> >             Producing light
+Foreknowledge came forth and stood by Providence
 
 ### 183
-> >
+\[This one came through the Invisible Virgin Spirit�s Thought.\]
 
 ### 184
-> > Life
+Foreknowledge gave glory to the Spirit
 
 ### 185
-> >             Producing life
+And to Barbelo, the Spirit�s perfect power,
 
 ### 186
-> >
+For She was the reason that it had come into being.
 
 ### 187
-> > Blessedness
+**
 
 ### 188
-> >             Producing blessedness
+Primary Structures of the Divine Mind**
 
 ### 189
-> >
+She, Barbelo, asked the virgin Spirit for Incorruptibility
 
 ### 190
-> > Knowledge
+The Spirit agreed.
 
 ### 191
-> >             Producing knowledge
+Incorruptibility came forth and stood by Thought and Foreknowledge.
 
 ### 192
-> >
+Incorruptibility gave glory to the Invisible Virgin Spirit
 
 ### 193
-> > Good
+And to Barbelo,
 
 ### 194
-> >             Producing goodness
+For She was the reason that it had come into being.
 
 ### 195
-> >
+She asked for everlasting Life.
 
 ### 196
-> > Mercy
+The Spirit agreed
 
 ### 197
-> >             Producing mercy
+Everlasting life came forth and they all stood together.
 
 ### 198
-> >
+They gave glory to the invisible Spirit
 
 ### 199
-> > Generous
+And to Barbelo,
 
 ### 200
-> >             Producing generosity
+For She was the reason that it had come into being.
 
 ### 201
-> >
+She asked for Truth.
 
 ### 202
-> >             \[It does not �possess� these things.\]
+The Spirit agreed
 
 ### 203
-> >
+Truth came forth and they all stood together.
 
 ### 204
-> > It gives forth light beyond measure, beyond comprehension.
+They gave glory to the invisible Spirit
 
 ### 205
-> >
+And to Barbelo,
 
 ### 206
-> > \[What can I say?\]
+For She was the reason that it had come into being.
 
 ### 207
-> >
+This is the fivefold realm of the Father:
 
 ### 208
-> > His realm is eternal, peaceful, silent, resting, before everything.
+The First Man who is
 
 ### 209
-> > He is the head of every realm sustaining each of them through goodness.
+The Image of the Invisible Spirit who is
 
 ### 210
-> >
+Providence who is
 
 ### 211
-> > **The Origin of Reality**
+Barbelo who is
 
 ### 212
-> >
+Thought.
 
 ### 213
-> > \[We would know nothing of the ineffable
+And
 
 ### 214
-> > And nothing of the immeasurable
+Foreknowledge -  Incorruptibility - Life Everlasting - Truth
 
 ### 215
-> > Without the help of the one who comes forth
+\[These are an androgynous fivefold realm - therefore it is a realm of ten - of the Father.\]
 
 ### 216
-> > from the One who is the Father.
+**Secondary Structures of the Divine Mind**
 
 ### 217
-> > He alone has informed us.\]
+The Father looked into Barbelo
 
 ### 218
-> >
+\[into the pure light surrounding the Invisible Spirit\]
 
 ### 219
-> > The Father is surrounded by light.
+Barbelo conceived and bore a spark of light
 
 ### 220
-> > He apprehends himself in that light
+Who had blessedness similar to, but not equal to, her blessedness,
 
 ### 221
-> >             \[which is the pure spring of the water of life
+Who was the only child of that mother�father
 
 ### 222
-> >             that sustains all realms\].
+The only offspring,
 
 ### 223
-> >
+The only begotten child of the pure light, the Father.
 
 ### 224
-> > He is conscious of his image everywhere around him,
+The Invisible Virgin Spirit celebrated the light that had been produced
 
 ### 225
-> >             Perceiving his image in this spring of Spirit
+Coming forth from the first power who is
 
 ### 226
-> >                         Pouring forth from himself.
+The Providence
 
 ### 227
-> > He is enamored of the image he sees in the light-water,
+Barbelo
 
 ### 228
-> >             The spring of pure light-water enveloping him.
+The Spirit anointed him with Goodness, making him perfect
 
 ### 229
-> >
+\[he lacked no goodness whatsoever,
 
 ### 230
-> > His self-aware thought (ennoia) came into being.
+for he was anointed with the Invisible Spirit�s Goodness\]
 
 ### 231
-> > Appearing to him in the effulgence of his light.
+He stood in the Spirit�s presence and it was poured upon him.
 
 ### 232
-> > She stood before him.
+Having received this anointing from the Spirit he immediately glorified Him
 
 ### 233
-> >
+And he glorified the perfect Providence.
 
 ### 234
-> > This, then, is the first of the powers, prior to everything.
+Because of Her he had come into being.
 
 ### 235
-> > Arising out of the mind of the Father
+He asked for Mind (nous) to be a companion to him.
 
 ### 236
-> > The Providence (pronoia) of everything.
+The Spirit consented
 
 ### 237
-> > Her light reflects His light.
+When the Invisible Spirit consented
 
 ### 238
-> >
+Mind came into being.
 
 ### 239
-> > She is from His image in His light
+It stood by the Anointed
 
 ### 240
-> > Perfect in power
+and glorified the Spirit and Barbelo
 
 ### 241
-> > Image of the invisible perfect Virgin Spirit.
+\[These beings came into existence through silence and thought.\]
 
 ### 242
-> >
+He wished to act through the Word of the Invisible Spirit.
 
 ### 243
-> > She is the initial power
+Whose Will became an action and appeared with Mind
 
 ### 244
-> > glory of Barbelo
+Glorifying the Light.
 
 ### 245
-> > glorious among the realms
+And then Word followed Will into being.
 
 ### 246
-> > glory of revelation
+\[The Christ, the divine autogenes,
 
 ### 247
-> >
+created everything through the Word.\]
 
 ### 248
-> > She gave glory to the Virgin Spirit
+Everlasting Life and Will,
 
 ### 249
-> > She praised Him
+Mind, and Foreknowledge
 
 ### 250
-> >             For she arose from Him.
+Stood together.
 
 ### 251
-> >
+They glorified the Invisible Spirit and Barbelo.
 
 ### 252
-> >  \[This, the first Thought, is the Spirit�s image\]
+Because of Her they had come into being.
 
 ### 253
-> >
+**Tertiary Structures of the Divine Mind**
 
 ### 254
-> > She is the universal womb
+The Holy Spirit
 
 ### 255
-> > She is before everything
+Brought his and Barbelo�s divine autogenes Son to completion
 
 ### 256
-> > She is:
+In order that he could stand before the great Invisible Virgin Spirit
 
 ### 257
-> >             Mother-Father
+As the divine autogenes Christ
 
 ### 258
-> >             First Man
+And honor Him with a mighty voice.
 
 ### 259
-> >             Holy Spirit
+\[The Son came through Providence\].
 
 ### 260
-> >
+The Invisible Spirit
 
 ### 261
-> >             Thrice Male
+Placed the divine autogenes over everything.
 
 ### 262
-> >             Thrice Powerful
+All authorities were subordinated to him.
 
 ### 263
-> >             Thrice Named
+The truth within him let him learn everything
 
 ### 264
-> >
+\[He is called by the highest name of all.
 
 ### 265
-> > Androgynous eternal realm
+That name will be told only to those who are worthy to hear it
 
 ### 266
-> > First to arise among the invisible realms.
+From the light, \[which is the Christ,\]
 
 ### 267
-> >
+From the incorruptibility,
 
 ### 268
-> > She, Barbelo, asked the virgin Spirit for foreknowledge (prognosis).
+Through a gift of the spirit
 
 ### 269
-> >             The Spirit agreed.
+The Four Lights arising from the divine autogenes stood before him.
 
 ### 270
-> >             Foreknowledge came forth and stood by Providence
+\[The four fundamental powers are Understanding, Grace, Perception, and Consideration.\]
 
 ### 271
-> >             \[This one came through the Invisible Virgin Spirit�s Thought.\]
+Grace exists within the realm of the Light called Harmozel, the first angel.
 
 ### 272
-> >             Foreknowledge gave glory to the Spirit
+Along with Harmozel are
 
 ### 273
-> >                         And to Barbelo, the Spirit�s perfect power,
+Grace
 
 ### 274
-> >                         For She was the reason that it had come into being.
+Truth
 
 ### 275
-> >
+Form
 
 ### 276
-> > **
+The second Light is called Oriel and it stands over the second realm.
 
 ### 277
-> > Primary Structures of the Divine Mind**
+With Oriel are:
 
 ### 278
-> >
+Conceptualization (Epinoia)
 
 ### 279
-> > She, Barbelo, asked the virgin Spirit for Incorruptibility
+Perception
 
 ### 280
-> >             The Spirit agreed.
+Memory
 
 ### 281
-> >             Incorruptibility came forth and stood by Thought and Foreknowledge.
+The third Light is called Daveithai and it stands over the third realm.
 
 ### 282
-> >
+With Daveithai are:
 
 ### 283
-> > Incorruptibility gave glory to the Invisible Virgin Spirit
+Understanding
 
 ### 284
-> >                         And to Barbelo,
+Love
 
 ### 285
-> >             For She was the reason that it had come into being.
+Idea
 
 ### 286
-> >
+The fourth Light is called Eleleth and it stands over the fourth realm.
 
 ### 287
-> > She asked for everlasting Life.
+With Eleleth are:
 
 ### 288
-> >             The Spirit agreed
+Perfection
 
 ### 289
-> >             Everlasting life came forth and they all stood together.
+Peace
 
 ### 290
-> >             They gave glory to the invisible Spirit
+Wisdom (Sophia).
 
 ### 291
-> >
+These are the four lights standing before the divine autogenes.
 
 ### 292
-> > And to Barbelo,
+Twelve realms stand before the Son of the Powerful
 
 ### 293
-> >                         For She was the reason that it had come into being.
+The autogenes
 
 ### 294
-> >
+The Christ
 
 ### 295
-> > She asked for Truth.
+Through the intention
 
 ### 296
-> >             The Spirit agreed
+And the grace
 
 ### 297
-> >             Truth came forth and they all stood together.
+Of the Invisible Spirit
 
 ### 298
-> >             They gave glory to the invisible Spirit
+Twelve realms belong to the Son of the autogenes.
 
 ### 299
-> >
+\[All of this came into being through the intention of the Holy Spirit
 
 ### 300
-> > And to Barbelo,
+Through the autogenes.\]
 
 ### 301
-> >                         For She was the reason that it had come into being.
+From the perfect mind�s foreknowledge
 
 ### 302
-> >
+Through the intention of the Invisible Spirit
 
 ### 303
-> > This is the fivefold realm of the Father:
+And the autogenes�s will.
 
 ### 304
-> >
+The perfect human appeared,
 
 ### 305
-> > The First Man who is
+Its first true manifestation
 
 ### 306
-> > The Image of the Invisible Spirit who is
+The Virgin Spirit named the human Adamas
 
 ### 307
-> > Providence who is
+And placed him over the first realm with the mighty autogenes Christ
 
 ### 308
-> > Barbelo who is
+With the first Light Harmozel and its powers.
 
 ### 309
-> >             Thought.
+The Invisible One gave Adamas invincible power of mind.
 
 ### 310
-> >              And
+Adamas spoke, glorifying and praising the Invisible Spirit:
 
 ### 311
-> >             Foreknowledge -  Incorruptibility - Life Everlasting - Truth
+�Everything has come into being from you
 
 ### 312
-> >
+Everything will return to you.
 
 ### 313
-> > \[These are an androgynous fivefold realm - therefore it is a realm of ten - of the Father.\]
+I will praise you and glorify you
 
 ### 314
-> >
+And the Autogenes
 
 ### 315
-> >
+And the triple realm:
 
 ### 316
-> > **Secondary Structures of the Divine Mind**
+Father � Mother � Son,
 
 ### 317
-> >
+the perfect power.�
 
 ### 318
-> > The Father looked into Barbelo
+Over the second realm was appointed Adamas�s son Seth
 
 ### 319
-> >             \[into the pure light surrounding the Invisible Spirit\]
+With the second Light Oriel.
 
 ### 320
-> >
+In the third realm were placed the children of Seth
 
 ### 321
-> > Barbelo conceived and bore a spark of light
+With the third Light Daveithai.
 
 ### 322
-> > Who had blessedness similar to, but not equal to, her blessedness,
+\[The souls of the saints are placed there.\]
 
 ### 323
-> >
+In the fourth realm were placed the souls of those ignorant of the fullness
 
 ### 324
-> > Who was the only child of that mother�father
+Those who did not repent at once
 
 ### 325
-> >             The only offspring,
+But who, after some time, eventually repented,
 
 ### 326
-> >             The only begotten child of the pure light, the Father.
+They are with the fourth Light Eleleth.
 
 ### 327
-> >
+All of these created beings glorify the Invisible Spirit
 
 ### 328
-> > The Invisible Virgin Spirit celebrated the light that had been produced
+**A Crisis that Became the World**
 
 ### 329
-> >             Coming forth from the first power who is
+It happened that the realm (aeon) Wisdom (Sophia)
 
 ### 330
-> >                         The Providence
+Of conceptual thought (Epinoia),
 
 ### 331
-> >                         Barbelo
+Began to think for herself,
 
 ### 332
-> >
+She used the thinking (enthymesis)
 
 ### 333
-> > The Spirit anointed him with Goodness, making him perfect
+And the foreknowledge (prognosis)
 
 ### 334
-> >             \[he lacked no goodness whatsoever,
+Of the Invisible Spirit.
 
 ### 335
-> >             for he was anointed with the Invisible Spirit�s Goodness\]
+She intended to reveal an image from herself
 
 ### 336
-> >
+To do so without the consent of the Spirit,
 
 ### 337
-> > He stood in the Spirit�s presence and it was poured upon him.
+Who did not approve,
 
 ### 338
-> >
+Without the thoughtful assistance of her masculine counterpart,
 
 ### 339
-> > Having received this anointing from the Spirit he immediately glorified Him
+Who did not approve.
 
 ### 340
-> >             And he glorified the perfect Providence.
+Without the Invisible Spirit�s consent
 
 ### 341
-> >             Because of Her he had come into being.
+Without the knowledge of her partner
 
 ### 342
-> >
+She brought it into being.
 
 ### 343
-> > He asked for Mind (nous) to be a companion to him.
+Because she had unconquerable Power
 
 ### 344
-> >             The Spirit consented
+Her thought was not unproductive.
 
 ### 345
-> >
+Something imperfect came out of her
 
 ### 346
-> > When the Invisible Spirit consented
+Different in appearance from her.
 
 ### 347
-> >             Mind came into being.
+Because she had created it without her masculine counterpart
 
 ### 348
-> >             It stood by the Anointed
+She gave rise to a misshapen being unlike herself.
 
 ### 349
-> >             and glorified the Spirit and Barbelo
+Sophia saw what her desire produced.
 
 ### 350
-> >
+It changed into the form of a dragon with a lion�s head
 
 ### 351
-> > \[These beings came into existence through silence and thought.\]
+And eyes flashing lightning bolts.
 
 ### 352
-> >
+She cast him far from her,
 
 ### 353
-> > He wished to act through the Word of the Invisible Spirit.
+Outside of the realm of the immortal beings
 
 ### 354
-> >             Whose Will became an action and appeared with Mind
+So that they could not see him.
 
 ### 355
-> >             Glorifying the Light.
+\[She had created him in ignorance.\]
 
 ### 356
-> >
+Sophia surrounded him with a brilliant cloud,
 
 ### 357
-> > And then Word followed Will into being.
+Put a throne in the center part of the cloud
 
 ### 358
-> >
+So that no one would see it.
 
 ### 359
-> >             \[The Christ, the divine autogenes,
+\[Except for the Holy Spirit called the Mother of the Living\]
 
 ### 360
-> >             created everything through the Word.\]
+She named him Yaldabaoth.
 
 ### 361
-> >
+Yaldabaoth is the chief ruler.
 
 ### 362
-> > Everlasting Life and Will,
+He took great Power (dynamis) from his mother,
 
 ### 363
-> > Mind, and Foreknowledge
+Left her, and moved away from his birthplace.
 
 ### 364
-> >             Stood together.
+He assumed command,
 
 ### 365
-> >             They glorified the Invisible Spirit and Barbelo.
+Created realms for himself
 
 ### 366
-> >             Because of Her they had come into being.
+With a brilliant flame that continues to exist even now.
 
 ### 367
-> >
+**The Fashioning of This World**
 
 ### 368
-> > **Tertiary Structures of the Divine Mind**
+Yadabaoth united with the thoughtlessness (aponoia) within him.
 
 ### 369
-> >
+He begot ruling authorities (exousia)
 
 ### 370
-> > The Holy Spirit
+Modeling them on the incorruptible realms above.
 
 ### 371
-> > Brought his and Barbelo�s divine autogenes Son to completion
+The first is Athoth
 
 ### 372
-> > In order that he could stand before the great Invisible Virgin Spirit
+The second is Harmas \[called the eye of flame\]
 
 ### 373
-> >                         As the divine autogenes Christ
+The third is Kalilaumbri
 
 ### 374
-> >             And honor Him with a mighty voice.
+The fourth is Yabel
 
 ### 375
-> >
+The fifth is Adonaiu \[called Sabaoth\]
 
 ### 376
-> > \[The Son came through Providence\].
+The sixth is Cain \[called the sun\]
 
 ### 377
-> >
+The seventh is Abel
 
 ### 378
-> > The Invisible Spirit
+The eighth is Abrisene
 
 ### 379
-> > Placed the divine autogenes over everything.
+The ninth is Yobel
 
 ### 380
-> > All authorities were subordinated to him.
+The tenth is Armupiel
 
 ### 381
-> > The truth within him let him learn everything
+The eleventh is Melcheir-adonein
 
 ### 382
-> >
+The twelfth is Belias
 
 ### 383
-> > \[He is called by the highest name of all.
+Who rules over the very depth of Hades.
 
 ### 384
-> > That name will be told only to those who are worthy to hear it
+He made the first seven rulers to reign in the seven spheres of heaven.
 
 ### 385
-> > From the light, \[which is the Christ,\]
+He made the next five rulers to reign in the five depths of the abyss.
 
 ### 386
-> >
+He shared a portion of his fire with them,
 
 ### 387
-> > From the incorruptibility,
+But shared none of the power of Light he had received from his mother.
 
 ### 388
-> >             Through a gift of the spirit
+\[He is ignorant darkness.
 
 ### 389
-> > The Four Lights arising from the divine autogenes stood before him.
+When the Light mingled into the darkness
 
 ### 390
-> >
+the darkness shone.
 
 ### 391
-> > \[The four fundamental powers are Understanding, Grace, Perception, and Consideration.\]
+When darkness mixed with the Light,
 
 ### 392
-> >
+the Light diminished,
 
 ### 393
-> > Grace exists within the realm of the Light called Harmozel, the first angel.
+No longer Light nor darkness but dim.\]
 
 ### 394
-> > Along with Harmozel are
+This dim ruler has three names:
 
 ### 395
-> >             Grace
+Yaldabaoth is the first.
 
 ### 396
-> >             Truth
+Saklas is the second.
 
 ### 397
-> >             Form
+Samael is the third.
 
 ### 398
-> >
+He is blasphemous through his thoughtlessness.
 
 ### 399
-> > The second Light is called Oriel and it stands over the second realm.
+He said �I am God, and there is no God but me!�
 
 ### 400
-> > With Oriel are:
+Since he didn�t know where his own Power originated.
 
 ### 401
-> >             Conceptualization (Epinoia)
+His rulers created seven Authorities for themselves.
 
 ### 402
-> >             Perception
+Each of these Authorities created six demons apiece,
 
 ### 403
-> >             Memory
+There came to be 365 demons altogether.
 
 ### 404
-> >
+Here are the seven Authorities� names and physical forms:
 
 ### 405
-> > The third Light is called Daveithai and it stands over the third realm.
+First, Athoth with a sheep�s face
 
 ### 406
-> > With Daveithai are:
+Second, Eloaios with a donkey�s face
 
 ### 407
-> >             Understanding
+Third, Astaphaios with a hyena�s face
 
 ### 408
-> >             Love
+Fourth, Yao with the face of a seven headed snake
 
 ### 409
-> >             Idea
+Fifth, Sabaoth who has the face of a dragon
 
 ### 410
-> >
+Sixth, Adonin whose face is that of a monkey
 
 ### 411
-> > The fourth Light is called Eleleth and it stands over the fourth realm.
+Seventh, Sabbataios with a face of flame and fire.
 
 ### 412
-> > With Eleleth are:
+These are the seven of the week.
 
 ### 413
-> >             Perfection
+These Authorities rule the world.
 
 ### 414
-> >             Peace
+Yaldabaoth has many faces.
 
 ### 415
-> >             Wisdom (Sophia).
+More than all that have been listed
 
 ### 416
-> >
+So he can convey any face he wants to the seraphim around him.
 
 ### 417
-> > These are the four lights standing before the divine autogenes.
+Yaldabaoth shared his fire with his seraphim
 
 ### 418
-> >
+But gave them none of his pure Light
 
 ### 419
-> > Twelve realms stand before the Son of the Powerful
+Although he ruled them by virtue of the power and glory
 
 ### 420
-> > The autogenes
+Of the Light had received from his Mother.
 
 ### 421
-> >             The Christ
+\[Therefore he called himself �God� and defied his place of origin.\]
 
 ### 422
-> > Through the intention
+He united his thought�s sevenfold Powers with the Authorities who accompanied him.
 
 ### 423
-> >                         And the grace
+He spoke and it happened.
 
 ### 424
-> >             Of the Invisible Spirit
+He named those sevenfold Powers starting with the highest one:
 
 ### 425
-> > Twelve realms belong to the Son of the autogenes.
+Goodness paired with the first: Athoth
 
 ### 426
-> >
+Providence paired with the second: Eloaios
 
 ### 427
-> > \[All of this came into being through the intention of the Holy Spirit
+Divinity paired with the third: Astaphaios
 
 ### 428
-> >             Through the autogenes.\]
+Lordship paired with the fourth: Yao
 
 ### 429
-> >
+Kingdom paired with the fifth: Sabaoth
 
 ### 430
-> > From the perfect mind�s foreknowledge
+Zeal paired with the sixth: Adonin
 
 ### 431
-> > Through the intention of the Invisible Spirit
+Understanding paired with the seventh: Sabbataios
 
 ### 432
-> > And the autogenes�s will.
+Each has its own realm modeled on one of the higher realms.
 
 ### 433
-> > The perfect human appeared,
+And each new name refers to a glory in the heavens
 
 ### 434
-> >  Its first true manifestation
+So that Yaldabaoth�s demons might be destroyed.
 
 ### 435
-> >
+The demons� own names, given by Yaldabaoth, are mighty names
 
 ### 436
-> > The Virgin Spirit named the human Adamas
+But the Powers� names reflecting the glory above
 
 ### 437
-> >             And placed him over the first realm with the mighty autogenes Christ
+Will bring about the demons� destruction and remove their Power.
 
 ### 438
-> > With the first Light Harmozel and its powers.
+That is why each has two names.
 
 ### 439
-> >
+Yaldabaoth modeled his creation
 
 ### 440
-> > The Invisible One gave Adamas invincible power of mind.
+On the pattern of the original realms above him
 
 ### 441
-> >
+So that it might be just like the indestructible realms.
 
 ### 442
-> > Adamas spoke, glorifying and praising the Invisible Spirit:
+\[Not that he had ever seen the indestructible ones.
 
 ### 443
-> >             �Everything has come into being from you
+Rather, the power in him, deriving from his mother,
 
 ### 444
-> >               Everything will return to you.
+made him aware of the pattern of the cosmos above.\]
 
 ### 445
-> >               I will praise you and glorify you
+When he gazed upon his creation surrounding him
 
 ### 446
-> >                         And the Autogenes
+He said to his host of demons
 
 ### 447
-> >                         And the triple realm:
+The ones who had come forth out of him:
 
 ### 448
-> >                                     Father � Mother � Son,
+�I am a jealous God and there is no God but me!�
 
 ### 449
-> >                                     the perfect power.�
+\[But by doing this he admitted to his demons that there is indeed another God.
 
 ### 450
-> >
+For, if there were no other God, whom would he possibly be jealous of?\]
 
 ### 451
-> > Over the second realm was appointed Adamas�s son Seth
+His mother began to move back and forth
 
 ### 452
-> >             With the second Light Oriel.
+Because she had become aware that she now lacked Light
 
 ### 453
-> >
+For her brightness had dimmed.
 
 ### 454
-> > In the third realm were placed the children of Seth
+\[Since her consort had not approved of her actions, she grew darker\]
 
 ### 455
-> >             With the third Light Daveithai.
+\[I said �Master, what does it mean �she moved back and forth�?�
 
 ### 456
-> >             \[The souls of the saints are placed there.\]
+He laughed, saying, �It�s not as Moses said �upon the waters.� Not at all.�\]
 
 ### 457
-> >
+When she saw the evil that had taken place and
 
 ### 458
-> > In the fourth realm were placed the souls of those ignorant of the fullness
+The theft of light that her son had committed
 
 ### 459
-> >             Those who did not repent at once
+She repented.
 
 ### 460
-> >             But who, after some time, eventually repented,
+In the darkness of ignorance
 
 ### 461
-> > They are with the fourth Light Eleleth.
+She began to forget.
 
 ### 462
-> >
+She began to be ashamed.
 
 ### 463
-> > All of these created beings glorify the Invisible Spirit
+But she could not yet return above
 
 ### 464
-> >
+Yet she began to move.
 
 ### 465
-> > **A Crisis that Became the World**
+And so she moved back and forth.
 
 ### 466
-> >
+\[The arrogant one removed Power from his mother
 
 ### 467
-> > It happened that the realm (aeon) Wisdom (Sophia)
+For he was ignorant
 
 ### 468
-> >             Of conceptual thought (Epinoia),
+He thought no one existed except for his mother.
 
 ### 469
-> >             Began to think for herself,
+He saw the host of demons he had created
 
 ### 470
-> >                         She used the thinking (enthymesis)
+And he elevated himself above them.
 
 ### 471
-> >                         And the foreknowledge (prognosis)
+But when the mother realized that that miscarriage
 
 ### 472
-> >                         Of the Invisible Spirit.
+Was so imperfect
 
 ### 473
-> >
+She came to realize that her consort had not approved.
 
 ### 474
-> > She intended to reveal an image from herself
+She repented and wept furiously.\]
 
 ### 475
-> >             To do so without the consent of the Spirit,
+All of the divine realms (pleroma) heard her repentant prayer
 
 ### 476
-> >                         Who did not approve,
+They sought blessing for her from the Invisible Virgin Spirit.
 
 ### 477
-> >             Without the thoughtful assistance of her masculine counterpart,
+The Spirit consented.
 
 ### 478
-> >                         Who did not approve.
+He poured the Holy Spirit over her
 
 ### 479
-> >
+Brought forth from the whole full realm.
 
 ### 480
-> > Without the Invisible Spirit�s consent
+\[Her consort did not come down to her on his own,
 
 ### 481
-> >             Without the knowledge of her partner
+but he came through the whole full realm
 
 ### 482
-> >                         She brought it into being.
+to restore her to her original condition.\]
 
 ### 483
-> >
+She was elevated above her son,
 
 ### 484
-> > Because she had unconquerable Power
+But she was not restored to her own original realm.
 
 ### 485
-> > Her thought was not unproductive.
+She would remain in the ninth sphere until she was fully restored.
 
 ### 486
-> >             Something imperfect came out of her
+Humanity Begins
 
 ### 487
-> >             Different in appearance from her.
+Then came a voice from the highest realms saying:
 
 ### 488
-> >
+�The Man exists! And the Son of Man!�
 
 ### 489
-> >             Because she had created it without her masculine counterpart
+Yaldabaoth, chief ruler, heard it
 
 ### 490
-> >                         She gave rise to a misshapen being unlike herself.
+He thought it came from his mother
 
 ### 491
-> >
+He did not know the true source of the voice:
 
 ### 492
-> > Sophia saw what her desire produced.
+The Holy Mother-Father
 
 ### 493
-> >             It changed into the form of a dragon with a lion�s head
+Perfect Providence
 
 ### 494
-> >             And eyes flashing lightning bolts.
+Image of the Invisible
 
 ### 495
-> > She cast him far from her,
+Father of Everything
 
 ### 496
-> >             Outside of the realm of the immortal beings
+In whom everything has come to be.
 
 ### 497
-> >             So that they could not see him.
+The First Man
 
 ### 498
-> >
+\[This is the one who appeared to them.
 
 ### 499
-> > \[She had created him in ignorance.\]
+He appeared in the form of a human being.\]
 
 ### 500
-> >
+All of the realm of the chief ruler quaked!
 
 ### 501
-> > Sophia surrounded him with a brilliant cloud,
+The foundations of the abyss moved!
 
 ### 502
-> >             Put a throne in the center part of the cloud
+He illuminated the waters above the world of matter,
 
 ### 503
-> >             So that no one would see it.
+His image shown in those waters.
 
 ### 504
-> >             \[Except for the Holy Spirit called the Mother of the Living\]
+All the demons and the first ruler together gazed up
 
 ### 505
-> > She named him Yaldabaoth.
+Toward the underside of the newly shining waters.
 
 ### 506
-> >
+Through that light they saw the Image in the waters.
 
 ### 507
-> > Yaldabaoth is the chief ruler.
+Yaldabaoth said to his subordinate demons:
 
 ### 508
-> >             He took great Power (dynamis) from his mother,
+�Let�s create a man according to the image of God
 
 ### 509
-> >                         Left her, and moved away from his birthplace.
+And our own likeness
 
 ### 510
-> >             He assumed command,
+So that his image will illuminate us.�
 
 ### 511
-> >                         Created realms for himself
+Each one through another�s Power created aspects of the man;
 
 ### 512
-> >             With a brilliant flame that continues to exist even now.
+Each added a characteristic corresponding to the psychic factors
 
 ### 513
-> >
+They had seen in the Image above them.
 
 ### 514
-> > **The Fashioning of This World**
+They made a creature of substance
 
 ### 515
-> >
+In the likeness of that perfect First Man
 
 ### 516
-> > Yadabaoth united with the thoughtlessness (aponoia) within him.
+And they said, �Let us call him Adam, so that his name will give us the power of light.�
 
 ### 517
-> > He begot ruling authorities (exousia)
+**Construction of the Human Body**
 
 ### 518
-> >             Modeling them on the incorruptible realms above.
+The seven Powers began to work:
 
 ### 519
-> >
+.           Goodness made a psyche of bone
 
 ### 520
-> > The first is Athoth
+Providence made a psyche of sinew
 
 ### 521
-> > The second is Harmas \[called the eye of flame\]
+Divinity made a psyche of flesh
 
 ### 522
-> > The third is Kalilaumbri
+Lordship made a psyche of marrow
 
 ### 523
-> > The fourth is Yabel
+Kingdom made a psyche of blood
 
 ### 524
-> > The fifth is Adonaiu \[called Sabaoth\]
+Zeal made a psyche of skin
 
 ### 525
-> > The sixth is Cain \[called the sun\]
+Understanding made a psyche of hair
 
 ### 526
-> > The seventh is Abel
+The host of demons took these substances from the Powers to create the limbs and the body itself. They put the parts together and coordinated them.
 
 ### 527
-> >
+The first ones began by making the head: Abron created his head; Meniggesstroeth created the brain; Asterechme the right eye; Thaspomocha, the left eye; Ieronumos, the right ear; Bissoum, the left ear; Akioreim, the nose; Banenrphroum, the lips; Amen, the front teeth; Ibikan, the molars; Basiliademe, the tonsils; Achcha, the uvula; Adaban, the neck; Chaaman, the neckbones; Dearcho, the throat; Tebar, the shoulder; Mniarcon, the elbow; Abitrion, the right arm; Evanthen, the left arm; Krys, the right hand; Beluai, the left hand; Treneu, the fingers of the right hand; Balbel, the fingers of the left hand; Kriman, fingernails; Astrops, the right breast; Barroph, the left breast; Baoum, the right shoulder joint; Ararim, the left shoulder joint; Areche, the belly; Phthave, the navel; Senaphim, the abdomen; Arachethopi, the right ribs; Zabedo, the left ribs; Barias, the right hip; Phnouth the left hip; Abenlenarchei, the marrow; Chnoumeninorin, the skeleton; Gesole, the stomach; Agromauna, the heart; Bano, the lungs; Sostrapal, the liver; Anesimalar, the spleen; Thopithro, the intestines; Biblo, the kidneys; Roeror, the sinews; Taphreo, the spine; Ipouspoboba, the veins; Bineborin, the arteries; Atoimenpsephei, respiration; Entholleia, the flesh; Bedouk, the right buttock; Arabeei, the penis; Eilo, the testicles; Sorma, the genitals; Gormakaiochlabar, the right thigh; Nebrith, the left thigh; Pserem, the kidneys of the right leg; Asaklas, the left kidney; Ormaoth, the right leg; Emenun, the left leg; Knyx, the right shin; Tupelon, the left shin; Achiel, the right knee; Phnene, the left knee; Phiouthrom, the right foot; Boabel, its toes; Trachoun, the left foot; Phikna, its toes; Miamai, the toenails.
 
 ### 528
-> > The eighth is Abrisene
+And those who were appointed over all of these are:
 
 ### 529
-> > The ninth is Yobel
+Zathoth,
 
 ### 530
-> > The tenth is Armupiel
+Armas,
 
 ### 531
-> > The eleventh is Melcheir-adonein
+Kalila,
 
 ### 532
-> > The twelfth is Belias
+Iabel,
 
 ### 533
-> >             Who rules over the very depth of Hades.
+Sabaoth,
 
 ### 534
-> >
+Cain,
 
 ### 535
-> > He made the first seven rulers to reign in the seven spheres of heaven.
+Abel.
 
 ### 536
-> > He made the next five rulers to reign in the five depths of the abyss.
+The energizing powers in the limbs were divided among:
 
 ### 537
-> >
+the head made by Diolimodraza; the neck by Yammeax; the right shoulder Yakouib; the left shoulder Verton; the right hand Oudidi; the left Arbao; the fingers of the right hand Lampno; the fingers of the left hand Leekaphar; the right breast Barbar; the left breast Imae; the chest Pisandriaptes; the right shoulder joint Koade; the left shoulder joint Odeor; the right ribs Asphixix; the left ribs Synogchouta; the abdomen Arouph; the womb Sabalo; the right thigh Charcharb; the left thigh Chthaon; the genitals Bathinoth; the right leg Choux; the left leg Charcha; the right shin Aroer; the left shin Toechtha; the right knee Aol; the left knee Charaner; the right foot Bastan; its toes Archentechtha; the left foot Marephnounth; its toes Abrana.
 
 ### 538
-> > He shared a portion of his fire with them,
+Seven govern the whole body:
 
 ### 539
-> >             But shared none of the power of Light he had received from his mother.
+Michael,
 
 ### 540
-> >
+Ouriel,
 
 ### 541
-> > \[He is ignorant darkness.
+Asmenedas,
 
 ### 542
-> > When the Light mingled into the darkness
+Saphasatoel,
 
 ### 543
-> >             the darkness shone.
+Aarmouriam,
 
 ### 544
-> > When darkness mixed with the Light,
+Richram,
 
 ### 545
-> >             the Light diminished,
+Amiorps.
 
 ### 546
-> >             No longer Light nor darkness but dim.\]
+The one who governs perceptions: Archendekta
 
 ### 547
-> >
+The one who governs reception:     Deitharbathas
 
 ### 548
-> > This dim ruler has three names:
+The one who governs imagination: Oummaa
 
 ### 549
-> >             Yaldabaoth is the first.
+The one who governs integration:   Aachiaram
 
 ### 550
-> >             Saklas is the second.
+The one who governs impulse:        Riaramnacho.
 
 ### 551
-> >             Samael is the third.
+There is a fourfold source of the bodily demons:
 
 ### 552
-> > He is blasphemous through his thoughtlessness.
+Hot, Cold, Dry, Wet.
 
 ### 553
-> > He said �I am God, and there is no God but me!�
+\[Matter is the mother of them all.\]
 
 ### 554
-> >             Since he didn�t know where his own Power originated.
+Ruler of hot:                Phloxopha
 
 ### 555
-> >
+Ruler of cold:              Oroorrothos
 
 ### 556
-> > His rulers created seven Authorities for themselves.
+Ruler of dry:                Erimacho
 
 ### 557
-> >             Each of these Authorities created six demons apiece,
+Ruler of wet:               Athuro.
 
 ### 558
-> >             There came to be 365 demons altogether.
+Their mother stands among them: Onorthochrasaei
 
 ### 559
-> >
+She is unlimited
 
 ### 560
-> > Here are the seven Authorities� names and physical forms:
+She mixes with all of them.
 
 ### 561
-> >             First, Athoth with a sheep�s face
+She is matter
 
 ### 562
-> >             Second, Eloaios with a donkey�s face
+And they are nourished by her.
 
 ### 563
-> >             Third, Astaphaios with a hyena�s face
+The four chief demons are:
 
 ### 564
-> >             Fourth, Yao with the face of a seven headed snake
+Ephememphi, associated with pleasure,
 
 ### 565
-> >             Fifth, Sabaoth who has the face of a dragon
+Yoko, associated with desire,
 
 ### 566
-> >             Sixth, Adonin whose face is that of a monkey
+Nenentophni, associated with distress,
 
 ### 567
-> >             Seventh, Sabbataios with a face of flame and fire.
+Blaomen, associated with fear.
 
 ### 568
-> > These are the seven of the week.
+Their mother is Esthesis-Zouch-Epi-Ptoe.
 
 ### 569
-> > These Authorities rule the world.
+Out from these four demons come passions:
 
 ### 570
-> >
+From distress arises
 
 ### 571
-> > Yaldabaoth has many faces.
+Envy, jealousy, grief, vexation,
 
 ### 572
-> >             More than all that have been listed
+Discord, cruelty, worry, mourning.
 
 ### 573
-> >             So he can convey any face he wants to the seraphim around him.
+From pleasure comes much evil
 
 ### 574
-> >
+And unmerited pride,
 
 ### 575
-> > Yaldabaoth shared his fire with his seraphim
+And so forth.
 
 ### 576
-> >             But gave them none of his pure Light
+From desire comes
 
 ### 577
-> >             Although he ruled them by virtue of the power and glory
+Anger, fury, bitterness, outrage, dissatisfaction
 
 ### 578
-> >                         Of the Light had received from his Mother.
+And so forth.
 
 ### 579
-> >
+From fear emerges
 
 ### 580
-> >             \[Therefore he called himself �God� and defied his place of origin.\]
+Horror, flattery, suffering, and shame.
 
 ### 581
-> >
+\[Their thought and truth is Anayo, the ruler of the material soul.
 
 ### 582
-> > He united his thought�s sevenfold Powers with the Authorities who accompanied him.
+It belongs with the seven senses, Esthesis-Zouch-Epi-Ptoe.\]
 
 ### 583
-> >             He spoke and it happened.
+This is the total number of the demons: 365
 
 ### 584
-> >
+They worked together to complete, part by part, the psychical and the material body.
 
 ### 585
-> > He named those sevenfold Powers starting with the highest one:
+There are even more of them in charge of other passions
 
 ### 586
-> >             Goodness paired with the first: Athoth
+That I didn�t tell you about.
 
 ### 587
-> >             Providence paired with the second: Eloaios
+If you want to know about them
 
 ### 588
-> >             Divinity paired with the third: Astaphaios
+You will find the information in the Book of Zoroaster.
 
 ### 589
-> >             Lordship paired with the fourth: Yao
+All of Yaldabaoth�s servants and his demons
 
 ### 590
-> >             Kingdom paired with the fifth: Sabaoth
+Worked to finish the psychic body.
 
 ### 591
-> >             Zeal paired with the sixth: Adonin
+For a very long time it lay inanimate
 
 ### 592
-> >             Understanding paired with the seventh: Sabbataios
+It did not move.
 
 ### 593
-> >
+Yaldabaoth�s mother wanted to take back the Power
 
 ### 594
-> > Each has its own realm modeled on one of the higher realms.
+She had turned over to the Chief Ruler.
 
 ### 595
-> >             And each new name refers to a glory in the heavens
+She earnestly asked the most merciful,
 
 ### 596
-> >             So that Yaldabaoth�s demons might be destroyed.
+The Mother-Father of everything,
 
 ### 597
-> >
+For help.
 
 ### 598
-> > The demons� own names, given by Yaldabaoth, are mighty names
+**
 
 ### 599
-> >             But the Powers� names reflecting the glory above
+Yaldabaoth Deceived**
 
 ### 600
-> >                         Will bring about the demons� destruction and remove their Power.
+By His sacred command He sent down the five Lights
 
 ### 601
-> >                                     That is why each has two names.
+In the forms of the principal advisors to Yaldabaoth.
 
 ### 602
-> >
+\[This led to the removal of Yaldabaoth�s mother�s divine Power from him.\]
 
 ### 603
-> > Yaldabaoth modeled his creation
+They told Yaldabaoth:
 
 ### 604
-> >             On the pattern of the original realms above him
+�Blow some of your Spirit in the man�s face,
 
 ### 605
-> >             So that it might be just like the indestructible realms.
+Then his body will rise up.�
 
 ### 606
-> >
+Yaldabaoth blew some of his Spirit into the man.
 
 ### 607
-> >             \[Not that he had ever seen the indestructible ones.
+That Spirit was the divine Power of his mother.
 
 ### 608
-> >             Rather, the power in him, deriving from his mother,
+\[He didn�t understand what was happening, for he lived in ignorance.\]
 
 ### 609
-> >             made him aware of the pattern of the cosmos above.\]
+His mother�s divine Power left Yaldabaoth
 
 ### 610
-> >
+It entered the psychic human body
 
 ### 611
-> > When he gazed upon his creation surrounding him
+Modeled on the primordial image.
 
 ### 612
-> >             He said to his host of demons
+The human body moved!
 
 ### 613
-> >             The ones who had come forth out of him:
+It grew powerful!
 
 ### 614
-> >  �I am a jealous God and there is no God but me!�
+It shone!
 
 ### 615
-> >
+Yaldabaoth�s demonic forces envied the man.
 
 ### 616
-> >             \[But by doing this he admitted to his demons that there is indeed another God.
+Through their united efforts he had come into being
 
 ### 617
-> >             For, if there were no other God, whom would he possibly be jealous of?\]
+They had given their Power to him.
 
 ### 618
-> >
+His understanding was far greater than that of those who had created him.
 
 ### 619
-> > His mother began to move back and forth
+And greater than that of the Chief Ruler himself.
 
 ### 620
-> >             Because she had become aware that she now lacked Light
+When they realized that he shone with light
 
 ### 621
-> >             For her brightness had dimmed.
+And could think better than they could
 
 ### 622
-> >
+And was naked of evil,
 
 ### 623
-> >             \[Since her consort had not approved of her actions, she grew darker\]
+They took him and cast him down
 
 ### 624
-> >
+Into the lowest depths of the material world.
 
 ### 625
-> > \[I said �Master, what does it mean �she moved back and forth�?�
+**The Beginning of Salvation**
 
 ### 626
-> > He laughed, saying, �It�s not as Moses said �upon the waters.� Not at all.�\]
+The blessed one.
 
 ### 627
-> >
+The Mother-Father
 
 ### 628
-> > When she saw the evil that had taken place and
+The good merciful one
 
 ### 629
-> >             The theft of light that her son had committed
+Looked compassionately upon the Mother�s Power
 
 ### 630
-> > She repented.
+Relinquished by the Chief Ruler.
 
 ### 631
-> >
+Since Yaldabaoth�s demons might again overpower the perceptible psychic body
 
 ### 632
-> > In the darkness of ignorance
+He sent down from his good Spirit a helper for Adam,
 
 ### 633
-> >             She began to forget.
+Out of his great compassion
 
 ### 634
-> >             She began to be ashamed.
+A light-filled Epinoia emerged.
 
 ### 635
-> >                         But she could not yet return above
+And he called her Life (Zoe).
 
 ### 636
-> >                         Yet she began to move.
+She aids the entire creation
 
 ### 637
-> > And so she moved back and forth.
+Working with him
 
 ### 638
-> >
+Restoring him to the fullness.
 
 ### 639
-> >  \[The arrogant one removed Power from his mother
+She taught Adam about the way his people had descended
 
 ### 640
-> >             For he was ignorant
+She taught Adam about the way he could ascend,
 
 ### 641
-> >             He thought no one existed except for his mother.
+Which is the way he had descended.
 
 ### 642
-> > He saw the host of demons he had created
+The light-filled Epinoia was hidden in Adam.
 
 ### 643
-> >             And he elevated himself above them.
+So that the rulers wouldn�t know about her
 
 ### 644
-> > But when the mother realized that that miscarriage
+For Epinoia would repair the disaster their mother had caused.
 
 ### 645
-> >             Was so imperfect
+\[Adam was revealed because within him dwelt the shadow of light.
 
 ### 646
-> >             She came to realize that her consort had not approved.
+His mental abilities were far greater than those of his creators.
 
 ### 647
-> > She repented and wept furiously.\]
+They had gazed upward and seen his exalted mental capability.\]
 
 ### 648
-> >
+The host of rulers and demons plotted together
 
 ### 649
-> > All of the divine realms (pleroma) heard her repentant prayer
+They mixed fire and earth and water
 
 ### 650
-> > They sought blessing for her from the Invisible Virgin Spirit.
+Together with four blazing winds
 
 ### 651
-> >             The Spirit consented.
+They melded them together in great turbulence.
 
 ### 652
-> >             He poured the Holy Spirit over her
+Adam was brought into the shadow of death.
 
 ### 653
-> >                         Brought forth from the whole full realm.
+They intended to make him anew
 
 ### 654
-> >
+This time from
 
 ### 655
-> > \[Her consort did not come down to her on his own,
+Earth,
 
 ### 656
-> > but he came through the whole full realm
+Water,
 
 ### 657
-> > to restore her to her original condition.\]
+Fire,
 
 ### 658
-> >
+Wind,
 
 ### 659
-> > She was elevated above her son,
+Which are
 
 ### 660
-> >           But she was not restored to her own original realm.
+Matter,
 
 ### 661
-> > She would remain in the ninth sphere until she was fully restored.
+Darkness,
 
 ### 662
-> >
+Desire,
 
 ### 663
-> >
+The Artificial Spirit.
 
 ### 664
-> > Humanity Begins
+This all became a tomb,
 
 ### 665
-> >
+A new kind of body.
 
 ### 666
-> > Then came a voice from the highest realms saying:
+Those thieves bound the man in it,
 
 ### 667
-> >             �The Man exists! And the Son of Man!�
+Enchained him in forgetfulness,
 
 ### 668
-> >
+Made him subject to dying.
 
 ### 669
-> > Yaldabaoth, chief ruler, heard it
+\[His was the first descent
 
 ### 670
-> >             He thought it came from his mother
+And the first separation.
 
 ### 671
-> >             He did not know the true source of the voice:
+Yet the light-filled Epinoia within him will elevate his thinking.\]
 
 ### 672
-> >                         The Holy Mother-Father
+**Adam in Yaldabaoth's Paradise**
 
 ### 673
-> >                         Perfect Providence
+The rulers took the man and put him into paradise
 
 ### 674
-> >                         Image of the Invisible
+They told him to eat freely.
 
 ### 675
-> >                                     Father of Everything
+\[Their food is bitter; their beauty is corrupt.
 
 ### 676
-> >                                     In whom everything has come to be.
+Their food is deceit; their trees are ungodliness.
 
 ### 677
-> >
+Their fruit is poison.
 
 ### 678
-> > The First Man
+Their promise is death.\]
 
 ### 679
-> >             \[This is the one who appeared to them.
+They placed the Tree of Their Life into the middle of paradise.
 
 ### 680
-> >             He appeared in the form of a human being.\]
+\[I will teach you (plural) the secret of their life:
 
 ### 681
-> >
+The plan that they made together about an artificial spirit.\]
 
 ### 682
-> > All of the realm of the chief ruler quaked!
+Its root is bitter
 
 ### 683
-> >             The foundations of the abyss moved!
+Its branches are dead.
 
 ### 684
-> >
+Its shadow is hatred
 
 ### 685
-> > He illuminated the waters above the world of matter,
+Its leaves are deception
 
 ### 686
-> >             His image shown in those waters.
+The nectar of wickedness is in its blossoms.
 
 ### 687
-> >
+Its fruit is death
 
 ### 688
-> > All the demons and the first ruler together gazed up
+Its seed is desire
 
 ### 689
-> >             Toward the underside of the newly shining waters.
+It flowers in the darkness.
 
 ### 690
-> > Through that light they saw the Image in the waters.
+Those who eat from it are denizens of Hades
 
 ### 691
-> >
+Darkness is their resting place.
 
 ### 692
-> > Yaldabaoth said to his subordinate demons:
+As for the tree called �The Knowledge Of Good And Evil�
 
 ### 693
-> >             �Let�s create a man according to the image of God
+It is the Epinoia of the light.
 
 ### 694
-> >                         And our own likeness
+They commanded him not to eat from it,
 
 ### 695
-> >              So that his image will illuminate us.�
+Standing in front to conceal it,
 
 ### 696
-> >
+For fear that he might look upwards to the fullness
 
 ### 697
-> > Each one through another�s Power created aspects of the man;
+And know the nakedness of his indecency.
 
 ### 698
-> >             Each added a characteristic corresponding to the psychic factors
+\[However, I caused them to eat.
 
 ### 699
-> > They had seen in the Image above them.
+I asked the Savior,
 
 ### 700
-> > They made a creature of substance
+�Lord, isn�t it the serpent that caused Adam to eat?�
 
 ### 701
-> > In the likeness of that perfect First Man
+He smiled and replied,
 
 ### 702
-> > And they said, �Let us call him Adam, so that his name will give us the power of light.�
+�The serpent caused them to eat
 
 ### 703
-> >
+in order to produce the wickedness of the desire to reproduce
 
 ### 704
-> >
+that would make Adam helpful to him.�\]
 
 ### 705
-> > **Construction of the Human Body**
+The chief ruler, Yaldabaoth, knew that
 
 ### 706
-> >
+Because the light-filled Epinoia within Adam
 
 ### 707
-> > The seven Powers began to work:
+Made his mental abilities greater than his own,
 
 ### 708
-> > .           Goodness made a psyche of bone
+Adam had been disobedient.
 
 ### 709
-> >             Providence made a psyche of sinew
+In order to recover the Power that he had put into Adam
 
 ### 710
-> >             Divinity made a psyche of flesh
+Yaldabaoth made Adam completely forgetful.
 
 ### 711
-> >             Lordship made a psyche of marrow
+\[I asked the Savior, �What is it to be �completely forgetful?��
 
 ### 712
-> >             Kingdom made a psyche of blood
+He replied, �It is not what Moses wrote in his first book:
 
 ### 713
-> >             Zeal made a psyche of skin
+�He caused Adam to fall into deep sleep�
 
 ### 714
-> >             Understanding made a psyche of hair
+Rather, Adam�s perceptions were veiled
 
 ### 715
-> >
+And he became unconscious.
 
 ### 716
-> > The host of demons took these substances from the Powers to create the limbs and the body itself. They put the parts together and coordinated them.
+As he (Yaldabaoth) said through his prophet:
 
 ### 717
-> >
+'I will make their minds dull so that they do not see or understand.'�\]
 
 ### 718
-> > The first ones began by making the head: Abron created his head; Meniggesstroeth created the brain; Asterechme the right eye; Thaspomocha, the left eye; Ieronumos, the right ear; Bissoum, the left ear; Akioreim, the nose; Banenrphroum, the lips; Amen, the front teeth; Ibikan, the molars; Basiliademe, the tonsils; Achcha, the uvula; Adaban, the neck; Chaaman, the neckbones; Dearcho, the throat; Tebar, the shoulder; Mniarcon, the elbow; Abitrion, the right arm; Evanthen, the left arm; Krys, the right hand; Beluai, the left hand; Treneu, the fingers of the right hand; Balbel, the fingers of the left hand; Kriman, fingernails; Astrops, the right breast; Barroph, the left breast; Baoum, the right shoulder joint; Ararim, the left shoulder joint; Areche, the belly; Phthave, the navel; Senaphim, the abdomen; Arachethopi, the right ribs; Zabedo, the left ribs; Barias, the right hip; Phnouth the left hip; Abenlenarchei, the marrow; Chnoumeninorin, the skeleton; Gesole, the stomach; Agromauna, the heart; Bano, the lungs; Sostrapal, the liver; Anesimalar, the spleen; Thopithro, the intestines; Biblo, the kidneys; Roeror, the sinews; Taphreo, the spine; Ipouspoboba, the veins; Bineborin, the arteries; Atoimenpsephei, respiration; Entholleia, the flesh; Bedouk, the right buttock; Arabeei, the penis; Eilo, the testicles; Sorma, the genitals; Gormakaiochlabar, the right thigh; Nebrith, the left thigh; Pserem, the kidneys of the right leg; Asaklas, the left kidney; Ormaoth, the right leg; Emenun, the left leg; Knyx, the right shin; Tupelon, the left shin; Achiel, the right knee; Phnene, the left knee; Phiouthrom, the right foot; Boabel, its toes; Trachoun, the left foot; Phikna, its toes; Miamai, the toenails.
+Woman Comes into Being
 
 ### 719
-> >
+The light-filled Epinoia hid deep within Adam.
 
 ### 720
-> > And those who were appointed over all of these are:
+The Chief Ruler tried to remove her from his ribcage,
 
 ### 721
-> >            Zathoth,
+But Epinoia cannot be captured.
 
 ### 722
-> >            Armas,
+Although the darkness pursued her it did not catch her.
 
 ### 723
-> >            Kalila,
+The Chief ruler did remove a portion of his Power from Adam
 
 ### 724
-> >            Iabel,
+To create a person with a woman�s form
 
 ### 725
-> >            Sabaoth,
+Modeled on the light-filled Epinoia that had been manifested to him.
 
 ### 726
-> >            Cain,
+He placed the Power removed from the man into the woman.
 
 ### 727
-> >            Abel.
+\[It did not happen the way Moses said it did:
 
 ### 728
-> >
+�he took a rib and made the woman.�\]
 
 ### 729
-> > The energizing powers in the limbs were divided among:
+Adam saw the woman standing next to him.
 
 ### 730
-> > the head made by Diolimodraza; the neck by Yammeax; the right shoulder Yakouib; the left shoulder Verton; the right hand Oudidi; the left Arbao; the fingers of the right hand Lampno; the fingers of the left hand Leekaphar; the right breast Barbar; the left breast Imae; the chest Pisandriaptes; the right shoulder joint Koade; the left shoulder joint Odeor; the right ribs Asphixix; the left ribs Synogchouta; the abdomen Arouph; the womb Sabalo; the right thigh Charcharb; the left thigh Chthaon; the genitals Bathinoth; the right leg Choux; the left leg Charcha; the right shin Aroer; the left shin Toechtha; the right knee Aol; the left knee Charaner; the right foot Bastan; its toes Archentechtha; the left foot Marephnounth; its toes Abrana.
+The light-filled Epinoia immediately appeared to him
 
 ### 731
-> >
+She raised up the veil that dulled his mind.
 
 ### 732
-> > Seven govern the whole body:
+He sobered up from the dark drunkenness
 
 ### 733
-> >            Michael,
+And he recognized his own counterpart.
 
 ### 734
-> >            Ouriel,
+He said: �This is bone from my bones
 
 ### 735
-> >            Asmenedas,
+Flesh from my flesh.�
 
 ### 736
-> >            Saphasatoel,
+Because of this a man will leave his mother and father
 
 ### 737
-> >            Aarmouriam,
+And be joined to a woman and those two will become one flesh.
 
 ### 738
-> >            Richram,
+For they will send his helper to him.
 
 ### 739
-> >            Amiorps.
+\[Sophia, our sister, came down
 
 ### 740
-> >
+Descending innocently
 
 ### 741
-> > The one who governs perceptions: Archendekta
+So as to regain what she had lost.
 
 ### 742
-> > The one who governs reception:     Deitharbathas
+Therefore she was called Life.
 
 ### 743
-> > The one who governs imagination: Oummaa
+The Mother of the Living
 
 ### 744
-> > The one who governs integration:   Aachiaram
+The one from the Providence of the Authority of Heaven
 
 ### 745
-> > The one who governs impulse:        Riaramnacho.
+By her assistance people can achieve perfect knowledge.\]
 
 ### 746
-> >
+I appeared as an eagle perched on the Tree of Knowledge!
 
 ### 747
-> >
+\[Which is the Epinoia from the pure Providence of Light.\]
 
 ### 748
-> > There is a fourfold source of the bodily demons:
+In order to teach them
 
 ### 749
-> >             Hot, Cold, Dry, Wet.
+And raise them up from sleep�s depths.
 
 ### 750
-> >
+\[For the two of them were fallen and aware of their nakedness.
 
 ### 751
-> >             \[Matter is the mother of them all.\]
+Epinoia appeared as a being full of light
 
 ### 752
-> >
+She enlightened their minds.\]
 
 ### 753
-> >            Ruler of hot:                Phloxopha
+When Yaldabaoth discovered that they had moved away from him
 
 ### 754
-> >            Ruler of cold:              Oroorrothos
+He cursed his earth.
 
 ### 755
-> >            Ruler of dry:                Erimacho
+He located the woman as she was preparing herself for her man.
 
 ### 756
-> >            Ruler of wet:               Athuro.
+He gave the woman over so that the man might be her master,
 
 ### 757
-> >
+Because he did not know the secret of the divine strategy.
 
 ### 758
-> > Their mother stands among them: Onorthochrasaei
+The man and woman were too terrified to renounce Yaldabaoth,
 
 ### 759
-> >             She is unlimited
+Who showed his ignorance to his angels
 
 ### 760
-> >             She mixes with all of them.
+And he cast both of them out of paradise
 
 ### 761
-> >             She is matter
+Dressing them in heavy darkness.
 
 ### 762
-> >                         And they are nourished by her.
+The Chief Archon saw the young woman who was standing by Adam.
 
 ### 763
-> >
+He realized that the light-filled Epinoia of life was within her.
 
 ### 764
-> > The four chief demons are:
+Yaldabaoth became completely ignorant.
 
 ### 765
-> >             Ephememphi, associated with pleasure,
+\[When the Providence of all saw what was going to happen
 
 ### 766
-> >             Yoko, associated with desire,
+She sent assistants to remove Divine Life from Eve.\]
 
 ### 767
-> >             Nenentophni, associated with distress,
+Yaldabaoth raped Eve.
 
 ### 768
-> >             Blaomen, associated with fear.
+She bore two sons.
 
 ### 769
-> >                        Their mother is Esthesis-Zouch-Epi-Ptoe.
+\[Elohim was the name of the first.
 
 ### 770
-> >
+Yahweh was the name of the second.
 
 ### 771
-> > Out from these four demons come passions:
+Elohim has a bear�s face.
 
 ### 772
-> >             From distress arises
+Yahweh has a cat�s face.
 
 ### 773
-> >                         Envy, jealousy, grief, vexation,
+One is righteous;
 
 ### 774
-> >                         Discord, cruelty, worry, mourning.
+One is not.
 
 ### 775
-> >
+Yahweh is righteous;
 
 ### 776
-> >             From pleasure comes much evil
+Elohim is not.
 
 ### 777
-> >                         And unmerited pride,
+Yahweh would command fire and wind
 
 ### 778
-> >                         And so forth.
+Elohim would command water and earth.\]
 
 ### 779
-> >
+Yaldabaoth deceptively named the two: Cain and Abel.
 
 ### 780
-> >             From desire comes
+\[From then until now sexual intercourse has persisted
 
 ### 781
-> >                         Anger, fury, bitterness, outrage, dissatisfaction
+Thanks to the Chief Ruler
 
 ### 782
-> >                         And so forth.
+Who put desire for reproduction into the woman who accompanies Adam.
 
 ### 783
-> >
+Through intercourse the Ruler caused new human bodies to be produced
 
 ### 784
-> >             From fear emerges
+And he blew his artificial spirit into each of them.\]
 
 ### 785
-> >                         Horror, flattery, suffering, and shame.
+Yaldabaoth installed the two with authority over natural elements
 
 ### 786
-> >
+So they can to rule over the tomb.
 
 ### 787
-> > \[Their thought and truth is Anayo, the ruler of the material soul.
+**The Children of Seth Populate the World**
 
 ### 788
-> > It belongs with the seven senses, Esthesis-Zouch-Epi-Ptoe.\]
+Adam had intercourse with the image of his foreknowledge (prognosis)
 
 ### 789
-> >
+He begot a son like the Son of Man
 
 ### 790
-> > This is the total number of the demons: 365
+And he called that son Seth
 
 ### 791
-> > They worked together to complete, part by part, the psychical and the material body.
+Modeling him on the heavenly race in the higher realms.
 
 ### 792
-> >
+In the same way the mother sent down her spirit
 
 ### 793
-> > There are even more of them in charge of other passions
+The image of herself
 
 ### 794
-> >             That I didn�t tell you about.
+A model of the full higher realm,
 
 ### 795
-> >             If you want to know about them
+In order to prepare a place for the descent of the realms.
 
 ### 796
-> >             You will find the information in the Book of Zoroaster.
+The Chief Ruler, though, forced the humans to drink
 
 ### 797
-> >
+From waters of forgetfulness
 
 ### 798
-> > All of Yaldabaoth�s servants and his demons
+So that they might not know their true place of origin.
 
 ### 799
-> >             Worked to finish the psychic body.
+The children (of Seth) remained in this condition for a while
 
 ### 800
-> >             For a very long time it lay inanimate
+In order that when the Spirit descends from the holy realms
 
 ### 801
-> >             It did not move.
+The Spirit can raise up the children and heal them from all defects
 
 ### 802
-> >
+And thus restore complete holiness to the fullness of God.
 
 ### 803
-> > Yaldabaoth�s mother wanted to take back the Power
+**Six Questions about the Soul**
 
 ### 804
-> >             She had turned over to the Chief Ruler.
+I asked the Savior, �Lord, will every soul be saved and enter the pure light?�
 
 ### 805
-> >             She earnestly asked the most merciful,
+He replied, �You are asking an important question, one it will be impossible to answer for anyone who is not a member of the unmoved race. They are the people upon whom the Spirit of Life will descend and the power will enable them to be saved and to become perfect and worthy of greatness. They expunge evil from themselves and they will care nothing for wickedness, wanting only that which is not corrupt. They will achieve freedom from rage, envy, jealousy, desire, or craving.�
 
 ### 806
-> >             The Mother-Father of everything,
+�The physical body will negatively effect them. They wear it as they look forward to the time when they will meet up with those who will remove it. Those people deserve indestructible eternal life. They endure everything, bearing up under everything that happens so that they can deserve the good and inherit life eternal.�
 
 ### 807
-> >                         For help.
+Then I asked him, �Lord, what about the souls who didn�t do these things even though the Spirit of Life�s power descended on them?�
 
 ### 808
-> >
+He answered, �If the Spirit descends to people they will be transformed and saved. The power descends on everyone and, without it, no one can even stand up. After they are born, if the Spirit of Life increases in them, power comes to them and their souls are strengthened. Nothing then can leave them astray into wickedness. But if the artificial spirit comes into people, it leads them astray.�
 
 ### 809
-> > **
+Then I said, �Lord, when souls come out of the flesh where do they go?�
 
 ### 810
-> > Yaldabaoth Deceived**
+He replied, smiling, �If the soul is strong it has more of power than it has of the artificial spirit and so it flees from wickedness. With the assistance of the Incorruptible One that soul is saved and it attains eternal rest.�
 
 ### 811
-> >
+I then asked him, �Lord, what of the souls of the people who do not know whose people they are? Where do they go?�
 
 ### 812
-> > By His sacred command He sent down the five Lights
+He responded, �In those people the artificial spirit has grown strong and they have gone astray. Their souls are burdened, drawn to wickedness, and cast into forgetfulness.�
 
 ### 813
-> >             In the forms of the principal advisors to Yaldabaoth.
+�When they come forth from the body, such a soul is given over to the powers created by the rulers, bound in chains, and cast into prison again. Around and around it goes until it manages to become free from forgetfulness through knowledge. And so, eventually, it becomes perfect and is saved.�
 
 ### 814
-> >             \[This led to the removal of Yaldabaoth�s mother�s divine Power from him.\]
+Then I asked, �Lord, how does the soul shrink down so as to be able to enter its mother or a man?
 
 ### 815
-> > They told Yaldabaoth:
+He was happy that I asked this and said, �You are truly blessed because you have understood. The soul should be guided by another within whom is the Spirit of Life. It will be saved by that means and accordingly will not have to enter a body again.
 
 ### 816
-> >             �Blow some of your Spirit in the man�s face,
+And I said, �Lord, what happens to the souls of people who achieved true knowledge, but who turned away from it?�
 
 ### 817
-> >             Then his body will rise up.�
+He said to me, �Demons of poverty will take them to a place where there is no possibility of repentance. There they will stay until the time when those who blasphemed against the spirit will be tortured and subjected to punishment forever.�
 
 ### 818
-> > Yaldabaoth blew some of his Spirit into the man.
+I asked, �Lord, where did the artificial spirit come from?�
 
 ### 819
-> >             That Spirit was the divine Power of his mother.
+And he told me:
 
 ### 820
-> >
+**Three Plots against Humanity**
 
 ### 821
-> > \[He didn�t understand what was happening, for he lived in ignorance.\]
+The Mother-Father is merciful
 
 ### 822
-> >
+A Holy Spirit sympathizing with us.
 
 ### 823
-> > His mother�s divine Power left Yaldabaoth
+Through the Epinoia of the Providence of the light
 
 ### 824
-> >             It entered the psychic human body
+It raises up the children of the perfect race
 
 ### 825
-> >             Modeled on the primordial image.
+Raising up their thought, their light eternal.
 
 ### 826
-> >
+When the Chief Archon learned that they were elevated above him
 
 ### 827
-> > The human body moved!
+And that their mental ability surpassed his
 
 ### 828
-> >             It grew powerful!
+He wanted to put a stop to their thought
 
 ### 829
-> >             It shone!
+But he did not know the extent of their mental superiority
 
 ### 830
-> >
+And he could not stop them.
 
 ### 831
-> > Yaldabaoth�s demonic forces envied the man.
+He made a plan with his demons
 
 ### 832
-> >             Through their united efforts he had come into being
+Who are his powers
 
 ### 833
-> >             They had given their Power to him.
+Each of them fornicated with Wisdom (Sophia)
 
 ### 834
-> > His understanding was far greater than that of those who had created him.
+And produced fate
 
 ### 835
-> >             And greater than that of the Chief Ruler himself.
+The last variety of imprisonment.
 
 ### 836
-> >
+Fate changes unpredictably
 
 ### 837
-> > When they realized that he shone with light
+It is of different sorts just as the demons are of different sorts.
 
 ### 838
-> >             And could think better than they could
+Fate is hard.
 
 ### 839
-> >             And was naked of evil,
+Fate is stronger than
 
 ### 840
-> > They took him and cast him down
+The gods, the authorities, the demons, the generations of people
 
 ### 841
-> >             Into the lowest depths of the material world.
+Who are caught up in it.
 
 ### 842
-> >
+Out of fate emerged
 
 ### 843
-> >
+Sinfulness, violence, blasphemy, forgetfulness, ignorance,
 
 ### 844
-> > **The Beginning of Salvation**
+Weighty commandments
 
 ### 845
-> >
+Heavy sins
 
 ### 846
-> > The blessed one.
+Terrible fear.
 
 ### 847
-> >             The Mother-Father
+In this way all of creation became blind,
 
 ### 848
-> >             The good merciful one
+Ignorant of God above everything.
 
 ### 849
-> > Looked compassionately upon the Mother�s Power
+Because of imprisonment in forgetfulness
 
 ### 850
-> >             Relinquished by the Chief Ruler.
+They are unaware of their sins,
 
 ### 851
-> >
+They are bound into periods of time and seasons
 
 ### 852
-> > Since Yaldabaoth�s demons might again overpower the perceptible psychic body
+By fate who is lord of it all.
 
 ### 853
-> > He sent down from his good Spirit a helper for Adam,
+Yaldabaoth eventually came to regret everything he had created.
 
 ### 854
-> >             Out of his great compassion
+He decided to bring a great flood
 
 ### 855
-> > A light-filled Epinoia emerged.
+Upon creation, upon mankind.
 
 ### 856
-> >             And he called her Life (Zoe).
+But the great light of Providence warned Noah.
 
 ### 857
-> >
+He preached to all of the children,
 
 ### 858
-> >             She aids the entire creation
+The sons of men,
 
 ### 859
-> >                         Working with him
+But if they were strangers to him they didn�t listen.
 
 ### 860
-> >                         Restoring him to the fullness.
+\[It was not the way Moses said: �they hid in an ark.�
 
 ### 861
-> >             She taught Adam about the way his people had descended
+Rather, they hid in a special place,
 
 ### 862
-> >             She taught Adam about the way he could ascend,
+Not just Noah
 
 ### 863
-> >                         Which is the way he had descended.
+but also many other people from the immovable race.
 
 ### 864
-> >
+They went into hiding within a cloud of light.\]
 
 ### 865
-> > The light-filled Epinoia was hidden in Adam.
+Noah knew his own authority
 
 ### 866
-> >             So that the rulers wouldn�t know about her
+And that of the light Being who illuminated them
 
 ### 867
-> >             For Epinoia would repair the disaster their mother had caused.
+Although the Chief Ruler poured darkness over all the world.
 
 ### 868
-> >
+The Chief Ruler and his powers plotted a strategy,
 
 ### 869
-> > \[Adam was revealed because within him dwelt the shadow of light.
+To send his demons to human daughters
 
 ### 870
-> >             His mental abilities were far greater than those of his creators.
+And make themselves children by them to enjoy.
 
 ### 871
-> >             They had gazed upward and seen his exalted mental capability.\]
+But they failed.
 
 ### 872
-> >
+After their failure they made another plan.
 
 ### 873
-> >             The host of rulers and demons plotted together
+They created an artificial spirit
 
 ### 874
-> >             They mixed fire and earth and water
+Modeled on the Spirit who descended
 
 ### 875
-> >                         Together with four blazing winds
+So, to impregnate souls by means of this spirit,
 
 ### 876
-> >                         They melded them together in great turbulence.
+The demons changed appearance
 
 ### 877
-> >
+to look like the women�s husbands
 
 ### 878
-> > Adam was brought into the shadow of death.
+They filled the women with that spirit of darkness and wickedness.
 
 ### 879
-> >
+They brought into being
 
 ### 880
-> > They intended to make him anew
+Gold and silver,
 
 ### 881
-> >             This time from
+Money and coins,
 
 ### 882
-> >                         Earth,
+Iron and other metals and all things of this sort.
 
 ### 883
-> >                         Water,
+And the people who were attracted were led astray into troubles
 
 ### 884
-> >                         Fire,
+And were greatly misled.
 
 ### 885
-> >                         Wind,
+And grew old
 
 ### 886
-> >             Which are
+Experiencing no pleasure,
 
 ### 887
-> >                         Matter,
+And died
 
 ### 888
-> >                         Darkness,
+Finding no truth,
 
 ### 889
-> >                         Desire,
+Never knowing the true God.
 
 ### 890
-> >                         The Artificial Spirit.
+This is the way that they enslaved all of creation
 
 ### 891
-> >             This all became a tomb,
+From the foundation of the world until now.
 
 ### 892
-> >              A new kind of body.
+\[They took some women and produced children out of darkness
 
 ### 893
-> >
+And they closed their hearts
 
 ### 894
-> > Those thieves bound the man in it,
+And they hardened themselves
 
 ### 895
-> >             Enchained him in forgetfulness,
+in the hardness of their artificial spirit
 
 ### 896
-> >              Made him subject to dying.
+Until the present day.\]
 
 ### 897
-> >
+**The Providence Hymn**
 
 ### 898
-> > \[His was the first descent
+I am the Providence of everything.
 
 ### 899
-> >             And the first separation.
+I became like my own human children.
 
 ### 900
-> > Yet the light-filled Epinoia within him will elevate his thinking.\]
+I existed from the first.
 
 ### 901
-> >
+I walked down every possible road.
 
 ### 902
-> >
+I am the wealth of the light.
 
 ### 903
-> > **Adam in Yaldabaoth's Paradise**
+I am the remembering of the fullness.
 
 ### 904
-> >
+I walked into the place of greatest darkness and on down.
 
 ### 905
-> > The rulers took the man and put him into paradise
+I entered the central part of the prison.
 
 ### 906
-> > They told him to eat freely.
+The foundations of chaos quaked.
 
 ### 907
-> >
+I hid because of their evil.
 
 ### 908
-> > \[Their food is bitter; their beauty is corrupt.
+They did not recognize me.
 
 ### 909
-> > Their food is deceit; their trees are ungodliness.
+I came down a second time
 
 ### 910
-> > Their fruit is poison.
+continuing on.
 
 ### 911
-> > Their promise is death.\]
+I emerged from among those of light
 
 ### 912
-> >
+I am the remembering of Providence
 
 ### 913
-> > They placed the Tree of Their Life into the middle of paradise.
+I entered the middle of darkness,
 
 ### 914
-> >
+The inner part of the underworld
 
 ### 915
-> > \[I will teach you (plural) the secret of their life:
+To pursue my mission.
 
 ### 916
-> > The plan that they made together about an artificial spirit.\]
+The foundations of chaos quaked.
 
 ### 917
-> >
+Threatening to collapse upon all who were there
 
 ### 918
-> > Its root is bitter
+And utterly destroy them
 
 ### 919
-> > Its branches are dead.
+I soared upward again
 
 ### 920
-> >             Its shadow is hatred
+To my roots in light
 
 ### 921
-> >             Its leaves are deception
+So as not to destroy them all yet.
 
 ### 922
-> > The nectar of wickedness is in its blossoms.
+I descended a third time.
 
 ### 923
-> >             Its fruit is death
+I am light
 
 ### 924
-> >             Its seed is desire
+I am dwelling in light
 
 ### 925
-> > It flowers in the darkness.
+I am the remembering of Providence
 
 ### 926
-> >             Those who eat from it are denizens of Hades
+I entered the midst of darkness
 
 ### 927
-> >             Darkness is their resting place.
+I came to the deepest part of the underworld.
 
 ### 928
-> >
+I let my face light up
 
 ### 929
-> > As for the tree called �The Knowledge Of Good And Evil�
+Thinking of the end of their time
 
 ### 930
-> >             It is the Epinoia of the light.
+I entered their prison
 
 ### 931
-> > They commanded him not to eat from it,
+The body is that prison
 
 ### 932
-> > Standing in front to conceal it,
+I cried out:
 
 ### 933
-> >             For fear that he might look upwards to the fullness
+�Anyone who hears,
 
 ### 934
-> >             And know the nakedness of his indecency.
+Rise up from your deep sleep!�
 
 ### 935
-> >
+And the sleeping one awoke and wept
 
 ### 936
-> > \[However, I caused them to eat.
+Wiping bitter tears saying
 
 ### 937
-> >
+�Who calls me?�
 
 ### 938
-> > I asked the Savior,
+�Where has my hope come from
 
 ### 939
-> > �Lord, isn�t it the serpent that caused Adam to eat?�
+As I lie in the depths of this prison?�
 
 ### 940
-> >
+�I am the Providence of pure light,� I replied,
 
 ### 941
-> > He smiled and replied,
+�I am the thought of the Virgin Spirit
 
 ### 942
-> > �The serpent caused them to eat
+Raising you up to an honored place.
 
 ### 943
-> > in order to produce the wickedness of the desire to reproduce
+Rise up!
 
 ### 944
-> > that would make Adam helpful to him.�\]
+Remember what you have heard.
 
 ### 945
-> >
+Trace back your roots
 
 ### 946
-> > The chief ruler, Yaldabaoth, knew that
+To me.
 
 ### 947
-> >             Because the light-filled Epinoia within Adam
+The merciful one.
 
 ### 948
-> >             Made his mental abilities greater than his own,
+Guard against the poverty demons.
 
 ### 949
-> >             Adam had been disobedient.
+Guard against the chaos demons.
 
 ### 950
-> > In order to recover the Power that he had put into Adam
+Guard against all who would bind you.
 
 ### 951
-> >             Yaldabaoth made Adam completely forgetful.
+Awaken!
 
 ### 952
-> >
+Stay awake!
 
 ### 953
-> > \[I asked the Savior, �What is it to be �completely forgetful?��
+Rise out of the depths of the underworld!
 
 ### 954
-> >
+I raised him up
 
 ### 955
-> > He replied, �It is not what Moses wrote in his first book:
+I sealed him with the light/water of the five seals.
 
 ### 956
-> > �He caused Adam to fall into deep sleep�
+Death had no power over him ever again.
 
 ### 957
-> > Rather, Adam�s perceptions were veiled
+I ascend again to the perfect realm.
 
 ### 958
-> > And he became unconscious.
+I completed everything and you have heard it.�
 
 ### 959
-> > As he (Yaldabaoth) said through his prophet:
+**Conclusion**
 
 ### 960
-> > 'I will make their minds dull so that they do not see or understand.'�\]
+�I have told you everything now so that you can write it all down
 
 ### 961
-> >
+And share it with your fellow spirits secretly
 
 ### 962
-> > Woman Comes into Being
+For this is the mystery of the unmoved race.�
 
 ### 963
-> >
+The Savior gave all of this to him to write and to keep carefully. He said to him, �Anyone who exchanges it for a present, or for food, or for drink, or for clothing, or for anything else of that sort will be cursed.�
 
 ### 964
-> > The light-filled Epinoia hid deep within Adam.
+These things came to John in a mystery.
 
 ### 965
-> >             The Chief Ruler tried to remove her from his ribcage,
+Instantly the Savior vanished.
 
 ### 966
-> >             But Epinoia cannot be captured.
+John came to his fellow disciples and told them what the Savior had said to him.
 
 ### 967
-> > Although the darkness pursued her it did not catch her.
+Jesus the Christ.
 
 ### 968
-> >
+Amen.
 
 ### 969
-> > The Chief ruler did remove a portion of his Power from Adam
+The Apocryphon of John
 
 ### 970
-> >             To create a person with a woman�s form
+_� 2005 by Stevan Davies
 
 ### 971
-> >             Modeled on the light-filled Epinoia that had been manifested to him.
-
-### 972
-> > He placed the Power removed from the man into the woman.
-
-### 973
-> >
-
-### 974
-> >             \[It did not happen the way Moses said it did:
-
-### 975
-> >              �he took a rib and made the woman.�\]
-
-### 976
-> >
-
-### 977
-> > Adam saw the woman standing next to him.
-
-### 978
-> >             The light-filled Epinoia immediately appeared to him
-
-### 979
-> >             She raised up the veil that dulled his mind.
-
-### 980
-> >             He sobered up from the dark drunkenness
-
-### 981
-> > And he recognized his own counterpart.
-
-### 982
-> >
-
-### 983
-> > He said: �This is bone from my bones
-
-### 984
-> >                 Flesh from my flesh.�
-
-### 985
-> > Because of this a man will leave his mother and father
-
-### 986
-> > And be joined to a woman and those two will become one flesh.
-
-### 987
-> >             For they will send his helper to him.
-
-### 988
-> >
-
-### 989
-> > \[Sophia, our sister, came down
-
-### 990
-> >             Descending innocently
-
-### 991
-> >             So as to regain what she had lost.
-
-### 992
-> > Therefore she was called Life.
-
-### 993
-> >             The Mother of the Living
-
-### 994
-> >             The one from the Providence of the Authority of Heaven
-
-### 995
-> > By her assistance people can achieve perfect knowledge.\]
-
-### 996
-> >
-
-### 997
-> > I appeared as an eagle perched on the Tree of Knowledge!
-
-### 998
-> >             \[Which is the Epinoia from the pure Providence of Light.\]
-
-### 999
-> > In order to teach them
-
-### 1000
-> >             And raise them up from sleep�s depths.
-
-### 1001
-> >
-
-### 1002
-> >             \[For the two of them were fallen and aware of their nakedness.
-
-### 1003
-> >             Epinoia appeared as a being full of light
-
-### 1004
-> >             She enlightened their minds.\]
-
-### 1005
-> >
-
-### 1006
-> > When Yaldabaoth discovered that they had moved away from him
-
-### 1007
-> >             He cursed his earth.
-
-### 1008
-> >             He located the woman as she was preparing herself for her man.
-
-### 1009
-> > He gave the woman over so that the man might be her master,
-
-### 1010
-> >             Because he did not know the secret of the divine strategy.
-
-### 1011
-> >
-
-### 1012
-> > The man and woman were too terrified to renounce Yaldabaoth,
-
-### 1013
-> >             Who showed his ignorance to his angels
-
-### 1014
-> > And he cast both of them out of paradise
-
-### 1015
-> >             Dressing them in heavy darkness.
-
-### 1016
-> >
-
-### 1017
-> > The Chief Archon saw the young woman who was standing by Adam.
-
-### 1018
-> >             He realized that the light-filled Epinoia of life was within her.
-
-### 1019
-> >             Yaldabaoth became completely ignorant.
-
-### 1020
-> >
-
-### 1021
-> >             \[When the Providence of all saw what was going to happen
-
-### 1022
-> >             She sent assistants to remove Divine Life from Eve.\]
-
-### 1023
-> >
-
-### 1024
-> > Yaldabaoth raped Eve.
-
-### 1025
-> > She bore two sons.
-
-### 1026
-> >
-
-### 1027
-> > \[Elohim was the name of the first.
-
-### 1028
-> > Yahweh was the name of the second.
-
-### 1029
-> >             Elohim has a bear�s face.
-
-### 1030
-> >             Yahweh has a cat�s face.
-
-### 1031
-> >                         One is righteous;
-
-### 1032
-> >                         One is not.
-
-### 1033
-> >                                     Yahweh is righteous;
-
-### 1034
-> >                                     Elohim is not.
-
-### 1035
-> > Yahweh would command fire and wind
-
-### 1036
-> > Elohim would command water and earth.\]
-
-### 1037
-> >
-
-### 1038
-> > Yaldabaoth deceptively named the two: Cain and Abel.
-
-### 1039
-> >
-
-### 1040
-> > \[From then until now sexual intercourse has persisted
-
-### 1041
-> >             Thanks to the Chief Ruler
-
-### 1042
-> >             Who put desire for reproduction into the woman who accompanies Adam.
-
-### 1043
-> >             Through intercourse the Ruler caused new human bodies to be produced
-
-### 1044
-> >             And he blew his artificial spirit into each of them.\]
-
-### 1045
-> >
-
-### 1046
-> > Yaldabaoth installed the two with authority over natural elements
-
-### 1047
-> >             So they can to rule over the tomb.
-
-### 1048
-> >
-
-### 1049
-> >
-
-### 1050
-> > **The Children of Seth Populate the World**
-
-### 1051
-> >
-
-### 1052
-> > Adam had intercourse with the image of his foreknowledge (prognosis)
-
-### 1053
-> > He begot a son like the Son of Man
-
-### 1054
-> >             And he called that son Seth
-
-### 1055
-> >             Modeling him on the heavenly race in the higher realms.
-
-### 1056
-> >
-
-### 1057
-> > In the same way the mother sent down her spirit
-
-### 1058
-> >             The image of herself
-
-### 1059
-> >             A model of the full higher realm,
-
-### 1060
-> > In order to prepare a place for the descent of the realms.
-
-### 1061
-> >
-
-### 1062
-> > The Chief Ruler, though, forced the humans to drink
-
-### 1063
-> >             From waters of forgetfulness
-
-### 1064
-> >             So that they might not know their true place of origin.
-
-### 1065
-> >
-
-### 1066
-> > The children (of Seth) remained in this condition for a while
-
-### 1067
-> > In order that when the Spirit descends from the holy realms
-
-### 1068
-> > The Spirit can raise up the children and heal them from all defects
-
-### 1069
-> > And thus restore complete holiness to the fullness of God.
-
-### 1070
-> >
-
-### 1071
-> >
-
-### 1072
-> > **Six Questions about the Soul**
-
-### 1073
-> >
-
-### 1074
-> > I asked the Savior, �Lord, will every soul be saved and enter the pure light?�
-
-### 1075
-> >
-
-### 1076
-> > He replied, �You are asking an important question, one it will be impossible to answer for anyone who is not a member of the unmoved race. They are the people upon whom the Spirit of Life will descend and the power will enable them to be saved and to become perfect and worthy of greatness. They expunge evil from themselves and they will care nothing for wickedness, wanting only that which is not corrupt. They will achieve freedom from rage, envy, jealousy, desire, or craving.�
-
-### 1077
-> >
-
-### 1078
-> > �The physical body will negatively effect them. They wear it as they look forward to the time when they will meet up with those who will remove it. Those people deserve indestructible eternal life. They endure everything, bearing up under everything that happens so that they can deserve the good and inherit life eternal.�
-
-### 1079
-> >
-
-### 1080
-> > Then I asked him, �Lord, what about the souls who didn�t do these things even though the Spirit of Life�s power descended on them?�
-
-### 1081
-> >
-
-### 1082
-> > He answered, �If the Spirit descends to people they will be transformed and saved. The power descends on everyone and, without it, no one can even stand up. After they are born, if the Spirit of Life increases in them, power comes to them and their souls are strengthened. Nothing then can leave them astray into wickedness. But if the artificial spirit comes into people, it leads them astray.�
-
-### 1083
-> >
-
-### 1084
-> > Then I said, �Lord, when souls come out of the flesh where do they go?�
-
-### 1085
-> >
-
-### 1086
-> > He replied, smiling, �If the soul is strong it has more of power than it has of the artificial spirit and so it flees from wickedness. With the assistance of the Incorruptible One that soul is saved and it attains eternal rest.�
-
-### 1087
-> >
-
-### 1088
-> > I then asked him, �Lord, what of the souls of the people who do not know whose people they are? Where do they go?�
-
-### 1089
-> >
-
-### 1090
-> > He responded, �In those people the artificial spirit has grown strong and they have gone astray. Their souls are burdened, drawn to wickedness, and cast into forgetfulness.�
-
-### 1091
-> >
-
-### 1092
-> > �When they come forth from the body, such a soul is given over to the powers created by the rulers, bound in chains, and cast into prison again. Around and around it goes until it manages to become free from forgetfulness through knowledge. And so, eventually, it becomes perfect and is saved.�
-
-### 1093
-> >
-
-### 1094
-> > Then I asked, �Lord, how does the soul shrink down so as to be able to enter its mother or a man?
-
-### 1095
-> >
-
-### 1096
-> > He was happy that I asked this and said, �You are truly blessed because you have understood. The soul should be guided by another within whom is the Spirit of Life. It will be saved by that means and accordingly will not have to enter a body again.
-
-### 1097
-> >
-
-### 1098
-> > And I said, �Lord, what happens to the souls of people who achieved true knowledge, but who turned away from it?�
-
-### 1099
-> >
-
-### 1100
-> > He said to me, �Demons of poverty will take them to a place where there is no possibility of repentance. There they will stay until the time when those who blasphemed against the spirit will be tortured and subjected to punishment forever.�
-
-### 1101
-> >
-
-### 1102
-> > I asked, �Lord, where did the artificial spirit come from?�
-
-### 1103
-> >
-
-### 1104
-> > And he told me:
-
-### 1105
-> >
-
-### 1106
-> >
-
-### 1107
-> > **Three Plots against Humanity**
-
-### 1108
-> >
-
-### 1109
-> > The Mother-Father is merciful
-
-### 1110
-> >             A Holy Spirit sympathizing with us.
-
-### 1111
-> > Through the Epinoia of the Providence of the light
-
-### 1112
-> >             It raises up the children of the perfect race
-
-### 1113
-> >             Raising up their thought, their light eternal.
-
-### 1114
-> >
-
-### 1115
-> > When the Chief Archon learned that they were elevated above him
-
-### 1116
-> >             And that their mental ability surpassed his
-
-### 1117
-> > He wanted to put a stop to their thought
-
-### 1118
-> >             But he did not know the extent of their mental superiority
-
-### 1119
-> > And he could not stop them.
-
-### 1120
-> >
-
-### 1121
-> > He made a plan with his demons
-
-### 1122
-> >             Who are his powers
-
-### 1123
-> > Each of them fornicated with Wisdom (Sophia)
-
-### 1124
-> >             And produced fate
-
-### 1125
-> >             The last variety of imprisonment.
-
-### 1126
-> >
-
-### 1127
-> > Fate changes unpredictably
-
-### 1128
-> >             It is of different sorts just as the demons are of different sorts.
-
-### 1129
-> > Fate is hard.
-
-### 1130
-> > Fate is stronger than
-
-### 1131
-> >             The gods, the authorities, the demons, the generations of people
-
-### 1132
-> >             Who are caught up in it.
-
-### 1133
-> >
-
-### 1134
-> > Out of fate emerged
-
-### 1135
-> >             Sinfulness, violence, blasphemy, forgetfulness, ignorance,
-
-### 1136
-> >                         Weighty commandments
-
-### 1137
-> >                         Heavy sins
-
-### 1138
-> >             Terrible fear.
-
-### 1139
-> > In this way all of creation became blind,
-
-### 1140
-> >             Ignorant of God above everything.
-
-### 1141
-> >
-
-### 1142
-> > Because of imprisonment in forgetfulness
-
-### 1143
-> >             They are unaware of their sins,
-
-### 1144
-> >             They are bound into periods of time and seasons
-
-### 1145
-> > By fate who is lord of it all.
-
-### 1146
-> >
-
-### 1147
-> > Yaldabaoth eventually came to regret everything he had created.
-
-### 1148
-> >             He decided to bring a great flood
-
-### 1149
-> >             Upon creation, upon mankind.
-
-### 1150
-> >
-
-### 1151
-> > But the great light of Providence warned Noah.
-
-### 1152
-> >             He preached to all of the children,
-
-### 1153
-> >             The sons of men,
-
-### 1154
-> > But if they were strangers to him they didn�t listen.
-
-### 1155
-> >
-
-### 1156
-> >             \[It was not the way Moses said: �they hid in an ark.�
-
-### 1157
-> >             Rather, they hid in a special place,
-
-### 1158
-> >             Not just Noah
-
-### 1159
-> >             but also many other people from the immovable race.
-
-### 1160
-> >             They went into hiding within a cloud of light.\]
-
-### 1161
-> >
-
-### 1162
-> > Noah knew his own authority
-
-### 1163
-> >             And that of the light Being who illuminated them
-
-### 1164
-> >             Although the Chief Ruler poured darkness over all the world.
-
-### 1165
-> >
-
-### 1166
-> > The Chief Ruler and his powers plotted a strategy,
-
-### 1167
-> >             To send his demons to human daughters
-
-### 1168
-> >             And make themselves children by them to enjoy.
-
-### 1169
-> > But they failed.
-
-### 1170
-> >
-
-### 1171
-> > After their failure they made another plan.
-
-### 1172
-> >             They created an artificial spirit
-
-### 1173
-> >             Modeled on the Spirit who descended
-
-### 1174
-> > So, to impregnate souls by means of this spirit,
-
-### 1175
-> >             The demons changed appearance
-
-### 1176
-> >             to look like the women�s husbands
-
-### 1177
-> >             They filled the women with that spirit of darkness and wickedness.
-
-### 1178
-> >
-
-### 1179
-> > They brought into being
-
-### 1180
-> >             Gold and silver,
-
-### 1181
-> >             Money and coins,
-
-### 1182
-> >             Iron and other metals and all things of this sort.
-
-### 1183
-> >
-
-### 1184
-> > And the people who were attracted were led astray into troubles
-
-### 1185
-> >             And were greatly misled.
-
-### 1186
-> >             And grew old
-
-### 1187
-> >                         Experiencing no pleasure,
-
-### 1188
-> >             And died
-
-### 1189
-> >                         Finding no truth,
-
-### 1190
-> >             Never knowing the true God.
-
-### 1191
-> >
-
-### 1192
-> > This is the way that they enslaved all of creation
-
-### 1193
-> >             From the foundation of the world until now.
-
-### 1194
-> >
-
-### 1195
-> > \[They took some women and produced children out of darkness
-
-### 1196
-> >             And they closed their hearts
-
-### 1197
-> >             And they hardened themselves
-
-### 1198
-> >                         in the hardness of their artificial spirit
-
-### 1199
-> > Until the present day.\]
-
-### 1200
-> >
-
-### 1201
-> >
-
-### 1202
-> > **The Providence Hymn**
-
-### 1203
-> >
-
-### 1204
-> > I am the Providence of everything.
-
-### 1205
-> > I became like my own human children.
-
-### 1206
-> >
-
-### 1207
-> > I existed from the first.
-
-### 1208
-> > I walked down every possible road.
-
-### 1209
-> >
-
-### 1210
-> > I am the wealth of the light.
-
-### 1211
-> > I am the remembering of the fullness.
-
-### 1212
-> >
-
-### 1213
-> > I walked into the place of greatest darkness and on down.
-
-### 1214
-> > I entered the central part of the prison.
-
-### 1215
-> >
-
-### 1216
-> > The foundations of chaos quaked.
-
-### 1217
-> >
-
-### 1218
-> > I hid because of their evil.
-
-### 1219
-> >             They did not recognize me.
-
-### 1220
-> >
-
-### 1221
-> > I came down a second time
-
-### 1222
-> >             continuing on.
-
-### 1223
-> >
-
-### 1224
-> > I emerged from among those of light
-
-### 1225
-> > I am the remembering of Providence
-
-### 1226
-> >
-
-### 1227
-> > I entered the middle of darkness,
-
-### 1228
-> >             The inner part of the underworld
-
-### 1229
-> >             To pursue my mission.
-
-### 1230
-> >
-
-### 1231
-> > The foundations of chaos quaked.
-
-### 1232
-> >             Threatening to collapse upon all who were there
-
-### 1233
-> >             And utterly destroy them
-
-### 1234
-> >
-
-### 1235
-> > I soared upward again
-
-### 1236
-> >             To my roots in light
-
-### 1237
-> >             So as not to destroy them all yet.
-
-### 1238
-> >
-
-### 1239
-> > I descended a third time.
-
-### 1240
-> >
-
-### 1241
-> > I am light
-
-### 1242
-> > I am dwelling in light
-
-### 1243
-> > I am the remembering of Providence
-
-### 1244
-> >
-
-### 1245
-> > I entered the midst of darkness
-
-### 1246
-> > I came to the deepest part of the underworld.
-
-### 1247
-> >
-
-### 1248
-> > I let my face light up
-
-### 1249
-> >             Thinking of the end of their time
-
-### 1250
-> > I entered their prison
-
-### 1251
-> >             The body is that prison
-
-### 1252
-> >
-
-### 1253
-> > I cried out:
-
-### 1254
-> >             �Anyone who hears,
-
-### 1255
-> >               Rise up from your deep sleep!�
-
-### 1256
-> >
-
-### 1257
-> > And the sleeping one awoke and wept
-
-### 1258
-> >             Wiping bitter tears saying
-
-### 1259
-> >             �Who calls me?�
-
-### 1260
-> >             �Where has my hope come from
-
-### 1261
-> >                           As I lie in the depths of this prison?�
-
-### 1262
-> >
-
-### 1263
-> > �I am the Providence of pure light,� I replied,
-
-### 1264
-> > �I am the thought of the Virgin Spirit
-
-### 1265
-> >             Raising you up to an honored place.
-
-### 1266
-> >             Rise up!
-
-### 1267
-> > Remember what you have heard.
-
-### 1268
-> >             Trace back your roots
-
-### 1269
-> > To me.
-
-### 1270
-> >             The merciful one.
-
-### 1271
-> > Guard against the poverty demons.
-
-### 1272
-> > Guard against the chaos demons.
-
-### 1273
-> > Guard against all who would bind you.
-
-### 1274
-> >             Awaken!
-
-### 1275
-> >             Stay awake!
-
-### 1276
-> >             Rise out of the depths of the underworld!
-
-### 1277
-> >
-
-### 1278
-> > I raised him up
-
-### 1279
-> > I sealed him with the light/water of the five seals.
-
-### 1280
-> > Death had no power over him ever again.
-
-### 1281
-> >
-
-### 1282
-> > I ascend again to the perfect realm.
-
-### 1283
-> > I completed everything and you have heard it.�
-
-### 1284
-> >
-
-### 1285
-> > **Conclusion**
-
-### 1286
-> >
-
-### 1287
-> > �I have told you everything now so that you can write it all down
-
-### 1288
-> > And share it with your fellow spirits secretly
-
-### 1289
-> > For this is the mystery of the unmoved race.�
-
-### 1290
-> >
-
-### 1291
-> > The Savior gave all of this to him to write and to keep carefully. He said to him, �Anyone who exchanges it for a present, or for food, or for drink, or for clothing, or for anything else of that sort will be cursed.�
-
-### 1292
-> >
-
-### 1293
-> >
-
-### 1294
-> > These things came to John in a mystery.
-
-### 1295
-> > Instantly the Savior vanished.
-
-### 1296
-> >
-
-### 1297
-> > John came to his fellow disciples and told them what the Savior had said to him.
-
-### 1298
-> >
-
-### 1299
-> > Jesus the Christ.
-
-### 1300
-> > Amen.
-
-### 1301
-> >
-
-### 1302
-> >  The Apocryphon of John
-
-### 1303
-> >
-
-### 1304
-> >  _� 2005 by Stevan Davies
-
-### 1305
-> > This translation is presented in the Gnostic Society Library by exclusive permission of the author.
-
-### 1306
-> > All rights including right of electronic reproduction are reserved by the author._
-
-###### [Gnosis Archive](../welcome.html) | [Library](../library.html) | [Bookstore](../bookstore1.htm) | [Index](../search_form.html) | [Web Lectures](../lectures.html) | [Ecclesia Gnostica](../eghome.htm) | [Gnostic Society](../gnostsoc.htm)
+All rights including right of electronic reproduction are reserved by the author._

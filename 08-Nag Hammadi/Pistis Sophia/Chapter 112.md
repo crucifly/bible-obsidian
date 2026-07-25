@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 112
 
-> **Chapter 112**
+**Chapter 112**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 111**
+**CHAPTER 111**
 
 ### 3
 How the disciples shall make proclamation.When then the disciples had said this, the Saviour continued again and said unto his disciples: "If ye go into cities or kingdoms or countries, proclaim first unto them, saying:

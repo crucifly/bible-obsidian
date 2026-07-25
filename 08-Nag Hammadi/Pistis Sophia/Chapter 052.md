@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 52
 
-> **Chapter 52**
+**Chapter 52**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 52**
+**CHAPTER 52**
 
 ### 3
 Jesus commendeth James and promiseth the first place unto the disciples.When James then had said this, Jesus said unto him: "Well said, finely, James. This is the solution of the ninth repentance of Pistis Sophia. Amēn, amēn, I say unto you: Ye shall be the first in the kingdom of heaven before all invisibles and all gods and rulers who are in the thirteenth æon and in the twelfth æon; and not only ye, but also every one who shall accomplish my mysteries."

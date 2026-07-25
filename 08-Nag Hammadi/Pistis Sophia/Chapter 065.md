@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 65
 
-> **Chapter 65**
+**Chapter 65**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 64**
+**CHAPTER 64**
 
 ### 3
 Gabriēl and Michaēl are summoned to help Pistis Sophia.The First Mystery again continued and said: "It came to pass, therefore, that the power which had come out of the Height, that is I, in that my Father sent me to save Pistis Sophia out of the chaos, [that] I, therefore, and also the power which did go from me, and the soul which I had received from Sabaōth, the Good,--they drew towards one another and become a single light-stream, which shone very exceedingly. I called down Gabriēl and Michaēl out of the æons, at the command of my Father, the First Mystery which looketh within, and I gave unto them the light-stream and let them go down into the chaos to help Pistis Sophia and to take the light-powers, which the emanations of Self-willed had taken from her, from them and give them to Pistis Sophia.

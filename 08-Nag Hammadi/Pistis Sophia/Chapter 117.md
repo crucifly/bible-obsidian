@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 117
 
-> **Chapter 117**
+**Chapter 117**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 116**
+**CHAPTER 116**
 
 ### 3
 When then the Saviour had said this, he said unto his disciples: "Understand ye in what manner I discourse with you?"

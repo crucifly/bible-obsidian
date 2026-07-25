@@ -149,89 +149,89 @@ And the first ram pursued that second ram, and that second ram arose and fled be
 ### 48
 And that second ram arose and led the [little] sheep.
 
-### 48
+### 49
 And that ram begat many sheep and fell asleep; and a little sheep became ram in its stead, and became prince and leader of those sheep.
 
-### 49
+### 50
 And those sheep grew and multiplied; but all the dogs, and foxes, and wild boars feared and fled before it, and that ram butted and killed the wild beasts, and those wild beasts had no longer any power among the sheep and robbed them no more of ought.
 
-### 50
+### 51
 And that house became great and broad, and it was built for those sheep: (and) a tower lofty and great was built on the house for the Lord of the sheep, and that house was low, but the tower was elevated and lofty, and the Lord of the sheep stood on that tower and they offered a full table before Him.
 
-### 51
+### 52
 And again I saw those sheep that they again erred and went many ways, and forsook that their house, and the Lord of the sheep called some from amongst the sheep and sent them to the sheep, but the sheep began to slay them.
 
-### 52
+### 53
 And one of them was saved and was not slain, and it sped away and cried aloud over the sheep; and they sought to slay it, but the Lord of the sheep saved it from the sheep, and brought it up to me, and caused it to dwell there.
 
-### 53
+### 54
 And many other sheep He sent to those sheep to testify unto them and lament over them.
 
-### 54
+### 55
 And after that I saw that when they forsook the house of the Lord and His tower they fell away entirely, and their eyes were blinded; and I saw the Lord of the sheep how He wrought much slaughter amongst them in their herds until those sheep invited that slaughter and betrayed His place.
 
-### 55
+### 56
 And He gave them over into the hands of the lions and tigers, and wolves and hyenas, and into the hand of the foxes, and to all the wild beasts, and those wild beasts began to tear in pieces those sheep.
 
-### 56
+### 57
 And I saw that He forsook that their house and their tower and gave them all into the hand of the lions, to tear and devour them, into the hand of all the wild beasts.
 
-### 57
+### 58
 And I began to cry aloud with all my power, and to appeal to the Lord of the sheep, and to represent to Him in regard to the sheep that they were devoured by all the wild beasts.
 
-### 58
+### 59
 But He remained unmoved, though He saw it, and rejoiced that they were devoured and swallowed and robbed, and left them to be devoured in the hand of all the beasts.
 
-### 59
+### 60
 And He called seventy shepherds, and cast those sheep to them that they might pasture them, and He spake to the shepherds and their companions: “Let each individual of you pasture the sheep henceforward, and everything that I shall command you that do ye.
 
-### 60
+### 61
 And I will deliver them over unto you duly numbered, and tell you which of them are to be destroyed--and them destroy ye.” And He gave over unto them those sheep.
 
-### 61
+### 62
 And He called another and spake unto him: “Observe and mark everything that the shepherds will do to those sheep; for they will destroy more of them than I have commanded them.
 
-### 62
+### 63
 And every excess and the destruction which will be wrought through the shepherds, record (namely) how many they destroy according to my command, and how many according to their own caprice: record against every individual shepherd all the destruction he effects.
 
-### 63
+### 64
 And read out before me by number how many they destroy, and how many they deliver over for destruction, that I may have this as a testimony against them, and know every deed of the shepherds, that I may comprehend and see what they do, whether or not they abide by my command which I have commanded them.
 
-### 64
+### 65
 But they shall not know it, and thou shalt not declare it to them, nor admonish them, but only record against each individual all the destruction which the shepherds effect each in his time and lay it all before me.”
 
-### 65
+### 66
 And I saw till those shepherds pastured in their season, and they began to slay and to destroy more than they were bidden, and they delivered those sheep into the hand of the lions.
 
-### 66
+### 67
 And the lions and tigers eat and devoured the greater part of those sheep, and the wild boars eat along with them; and they burnt that tower and demolished that house.
 
-### 67
+### 68
 And I became exceedingly sorrowful over that tower because that house of the sheep was demolished, and afterwards I was unable to see if those sheep entered that house.
 
-### 68
+### 69
 And the shepherds and their associates delivered over those sheep to all the wild beasts, to devour them, and each one of them received in his time a definite number: it was written by the other in a book how many each one of them destroyed of them.
 
-### 69
+### 70
 And each one slew and destroyed many more than was prescribed; and I began to weep and lament on account of those sheep.
 
-### 70
+### 71
 And thus in the vision I saw that one who wrote, how he wrote down every one that was destroyed by those shepherds, day by day, and carried up and laid down and showed actually the whole book to the Lord of the sheep--(even) everything that they had done, and all that each one of them had made away with, and all that they had given over to destruction.
 
-### 71
+### 72
 And the book was read before the Lord of the sheep, and He took the book from his hand and read it and sealed it and laid it down.
 
-### 72
+### 73
 And forthwith I saw how the shepherds pastured for twelve hours, and behold three of those sheep turned back and came and entered and began to build up all that had fallen down of that house; but the wild boars tried to hinder them, but they were not able.
 
-### 73
+### 74
 And they began again to build as before, and they reared up that tower, and it was named the high tower; and they began again to place a table before the tower, but all the bread on it was polluted and not pure.
 
-### 74
+### 75
 And as touching all this the eyes of those sheep were blinded so that they saw not, and (the eyes of) their shepherds likewise; and they delivered them in large numbers to their shepherds for destruction, and they trampled the sheep with their feet and devoured them.
 
-### 75
+### 76
 And the Lord of the sheep remained unmoved till all the sheep were dispersed over the field and mingled with them (i.e. the beasts), and they (i.e. the shepherds) did not save them out of the hand of the beasts.
 
-### 76
+### 77
 And this one who wrote the book carried it up, and showed it and read it before the Lord of the sheep, and implored Him on their account, and besought Him on their account as he showed Him all the doings of the shepherds, and gave testimony before Him against all the shepherds. And he took the actual book and laid it down beside Him and departed.

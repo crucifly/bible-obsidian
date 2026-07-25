@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 120
 
-> **Chapter 120**
+**Chapter 120**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 119**
+**CHAPTER 119**
 
 ### 3
 Mary continued again and said: "My Lord, but if on the other hand they who have received the mysteries of the First Mystery, turn and transgress, and if they come out of the body before they have repented, will they inherit the kingdom or not, because indeed they have received the gift of the First Mystery?"

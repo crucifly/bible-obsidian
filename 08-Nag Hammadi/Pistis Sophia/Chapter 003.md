@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 3
 
-> **Chapter 3**
+**Chapter 3**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 3**
+**CHAPTER 3**
 
 ### 3
 Jesus ascendeth into heaven.It came to pass then, when that light-power had come down over Jesus, that it gradually surrounded him entirely. Then Jesus ascended or soared into the height, shining most exceedingly in an immeasurable light. And the disciples gazed after him and none of them spake, until he had reached unto heaven; but they all kept in deep silence. This then came to pass on the fifteenth day of the moon, on the day on which it is full in the month Tybi.

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 87
 
-> **Chapter 87**
+**Chapter 87**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 86**
+**CHAPTER 86**
 
 ### 3
 And Jesus answered and said unto Mary: "Finely indeed dost thou question concerning all with precision and certainty. But hearken, Mary, that I may speak with thee about the consummation of the æon and the ascension of the universe. It will not yet take place; but I have said unto you: 'If I lead you into the region of the inheritances of those who shall receive the mystery of the Light, then will the Treasury of the Light, the region of the emanations, count for you as a speck of dust only and as the light of the sun by day.'

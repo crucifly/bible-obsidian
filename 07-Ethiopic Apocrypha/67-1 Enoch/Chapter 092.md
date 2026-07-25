@@ -8,29 +8,29 @@ canon: "Ethiopic Apocrypha"
 ### 1
 ‘And now, my son Methuselah, call to me all thy brothers And gather together to me all the sons of thy mother; For the word calls me, And the spirit is poured out upon me, That I may show you everything That shall befall you for ever.’ 2 And there upon Methuselah went and summoned to him all his brothers and assembled his relatives. 3 And he spake unto all the children of righteousness and said: ‘Hear, ye sons of Enoch, all the words of your father, And hearken aright to the voice of my mouth; For I exhort you and say unto you, beloved: Love uprightness and walk therein.
 
-### 4
+### 2
 And draw not nigh to uprightness with a double heart, And associate not with those of a double heart, But walk in righteousness, my sons. And it shall guide you on good paths, And righteousness shall be your companion.
 
-### 5
+### 3
 For I know that violence must increase on the earth, And a great chastisement be executed on the earth, And all unrighteousness come to an end: Yea, it shall be cut off from its roots, And its whole structure be destroyed.
 
-### 6
+### 4
 And unrighteousness shall again be consummated on the earth, And all the deeds of unrighteousness and of violence And transgression shall prevail in a twofold degree.
 
-### 7
+### 5
 And when sin and unrighteousness and blasphemy And violence in all kinds of deeds increase, And apostasy and transgression and uncleanness increase, A great chastisement shall come from heaven upon all these, And the holy Lord will come forth with wrath and chastisement To execute judgement on earth.
 
-### 8
+### 6
 In those days violence shall be cut off from its roots, And the roots of unrighteousness together with deceit, And they shall be destroyed from under heaven.
 
-### 9
+### 7
 And all the idols of the heathen shall be abandoned, And the temples burned with fire, And they shall remove them from the whole earth, And they (i.e. the heathen) shall be cast into the judgement of fire, And shall perish in wrath and in grievous judgement for ever.
 
-### 10
+### 8
 And the righteous shall arise from their sleep, And wisdom shall arise and be given unto them. [11. And after that the roots of unrighteousness shall be cut off, and the sinners shall be destroyed by the sword . . . shall be cut off from the blasphemers in every place, and those who plan violence and those who commit blasphemy shall perish by the sword.]
 
-### 18
+### 9
 And now I tell you, my sons, and show you The paths of righteousness and the paths of violence. Yea, I will show them to you again That ye may know what will come to pass.
 
-### 19
+### 10
 And now, hearken unto me, my sons, And walk in the paths of righteousness, And walk not in the paths of violence; For all who walk in the paths of unrighteousness shall perish for ever.’

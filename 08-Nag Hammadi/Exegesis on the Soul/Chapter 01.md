@@ -185,12 +185,3 @@ has heard the cry of my weeping and the lord has heard my prayer."
 
 ### 60
 If we repent, truly God will heed us, he who is long suffering and abundantly merciful,
-
-### 61
-The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.
-
-### 62
-E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.
-
-### 63
-For academic citation, please refer to published editions of this text.

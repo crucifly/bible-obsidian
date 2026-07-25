@@ -11,5 +11,5 @@ From the days of the slaughter and destruction and death ⌈of the giants⌉, fr
 ### 2
 And now as to the Watchers who have sent thee to intercede for them, who had been ⌈⌈aforetime⌉⌉ in heaven, (say to them): “You have been in heaven, but ⌈all⌉ the mysteries had not yet been revealed to you, and you knew worthless ones, and these in the hardness of your hearts you have made known to the women, and through these mysteries women and men work much evil on earth.”
 
-### 4
+### 3
 Say to them therefore: “You have no peace.”‘ Enoch’s Journeys through the Earth and Sheol

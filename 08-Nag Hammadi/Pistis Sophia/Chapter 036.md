@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 36
 
-> **Chapter 36**
+**Chapter 36**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 36**
+**CHAPTER 36**
 
 ### 3
 It came to pass then, when Jesus had finished speaking these words unto his disciples, that he said unto them: "Do ye understand in what manner I discourse with you?"

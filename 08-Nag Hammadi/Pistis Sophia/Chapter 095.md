@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 95
 
-> **Chapter 95**
+**Chapter 95**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 94**
+**CHAPTER 94**
 
 ### 3
 And Jesus continued again and said unto his disciples: "Still further, O my disciples, be

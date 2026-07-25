@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 126
 
-> **Chapter 126**
+**Chapter 126**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 125**
+**CHAPTER 125**
 
 ### 3
 Mary continued again and said unto the Saviour: "My Lord, if the faith and the mysteries shall have revealed themselves,--now, therefore, if souls come into the world in many circuits and are neglectful of receiving mysteries, hoping that, if they come into the world at any other circuit, they will receive them, will they not then be in danger of not succeeding in receiving the mysteries?"

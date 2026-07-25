@@ -20,5 +20,5 @@ And in those days shall the mountains leap like rams, And the hills also shall s
 ### 5
 For in those days the Elect One shall arise,
 
-### 5
+### 6
 And the earth shall rejoice, c. And the righteous shall dwell upon it, d. And the elect shall walk thereon.

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 122
 
-> **Chapter 122**
+**Chapter 122**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 121**
+**CHAPTER 121**
 
 ### 3
 When then the Saviour had said this unto his disciples, he said unto them: "Understand ye in what manner I speak with you?"

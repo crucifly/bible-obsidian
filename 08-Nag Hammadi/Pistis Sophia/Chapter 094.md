@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 94
 
-> **Chapter 94**
+**Chapter 94**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 93**
+**CHAPTER 93**
 
 ### 3
 Jesus continued again and said unto his disciples: "Yet further, O my disciples and companions and brethren, let every one be sober in the spirit which is in him, let him understand and comprehend all the words which I shall say unto you; for from now on will I begin to discourse with you concerning all the gnoses of that Ineffable.

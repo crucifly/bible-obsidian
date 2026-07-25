@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 106
 
-> **Chapter 106**
+**Chapter 106**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 105**
+**CHAPTER 105**
 
 ### 3
 John continueth his questioning.When then the Saviour had said this, John started forward and said: "My Lord, bear with me if I question thee, for from now on I will begin to, question thee on all things concerning the manner, how we are to herald it to mankind.

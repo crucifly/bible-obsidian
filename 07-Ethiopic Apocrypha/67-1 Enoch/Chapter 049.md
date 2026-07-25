@@ -5,7 +5,7 @@ canon: "Ethiopic Apocrypha"
 ---
 # 1 Enoch 49
 
-### 0
+### 1
 l. For wisdom is poured out like water, And glory faileth not before him for evermore.
 
 ### 2

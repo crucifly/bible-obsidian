@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 82
 
-> **Chapter 82**
+**Chapter 82**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 81**
+**CHAPTER 81**
 
 ### 3
 Jesus bringeth Sophia again to the thirteenth æon.It came to pass then, when Jesus had finished telling his disciples all the adventures which had befallen Pistis Sophia when she was in the chaos, and the way she had sung praises to the Light, that it should save her and lead her out of the chaos, and lead her into the twelve æons, and also the way it had saved her out of all her afflictions with which the rulers of the chaos had constrained her, because she longed to go to the Light, that Jesus continued again in the discourse and said unto his disciples: "It came to pass then after all this, that I took Pistis Sophia and led her into the thirteenth æon, shining most exceedingly, there being no measure for the light which was about me. I entered into the region of the four-and-twenty invisibles, shining most exceedingly. And they fell into great commotion; they looked and saw Sophia, who was with me. Her they knew, but me they knew not, who I was, but held me for some sort of emanation of the Light-land.

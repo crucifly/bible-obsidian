@@ -8,7 +8,7 @@ title: "Book of Jasher - Chapter 75"
 
 # Book of Jasher - Chapter 75
 
-> **Chapter 75**
+**Chapter 75**
 
 ### 1
 (RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
@@ -46,80 +46,80 @@ Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 75
 ### 12
 9And the shepherds of Gath shouted over them that their cry was heard at a distance, so all the children of Gath went out to them.
 
-### 10
+### 13
 And when the children of Gath saw the evil doings of the children of Ephraim, they returned and assembled the men of Gath, and they put on each man his armor, and came forth to the children of Ephraim for battle.
 
-### 11
+### 14
 11And they engaged with them in the valley of Gath, and the battle was severe, and they smote from each other a great many on that day.
 
-### 12
+### 15
 12And on the second day the children of Gath sent to all the cities of the Philistines that they should come to their help, saying,
 
-### 13
+### 16
 13Come up unto us and help us, that we may smite the children of Ephraim who have come forth from Egypt to take our cattle, and to fight against us without cause.
 
-### 14
+### 17
 14Now the souls of the children of Ephraim were exhausted with hunger and thirst, for they had eaten no bread for three days. And forty thousand men went forth from the cities of the Philistines to the assistance of the men of Gath.
 
-### 15
+### 18
 15And these men were engaged in battle with the children of Ephraim, and the Lord delivered the children of Ephraim into the hands of the Philistines.
 
-### 16
+### 19
 16And they smote all the children of Ephraim, all who had gone forth from Egypt, none were remaining but ten men who had run away from the engagement.
 
-### 17
+### 20
 17For this evil was from the Lord against the children of Ephraim, for they transgressed the word of the Lord in going forth from Egypt, before the period had arrived which the Lord in the days of old had appointed to Israel.
 
-### 18
+### 21
 18And of the Philistines also there fell a great many, about twenty thousand men, and their brethren carried them and buried them in their cities.
 
-### 19
+### 22
 19And the slain of the children of Ephraim remained forsaken in the valley of Gath for many days and years, and were not brought to burial, and the valley was filled with men's bones.
 
-### 20
+### 23
 20And the men who had escaped from the battle came to Egypt, and told all the children of Israel all that had befallen them.
 
-### 21
+### 24
 21And their father Ephraim mourned over them for many days, and his brethren came to console him.
 
-### 22
+### 25
 22And he came unto his wife and she bare a son, and he called his name Beriah, for she was unfortunate in his house.
 
-### 23
+### 26
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_75&oldid=11446104"
 
-### 24
+### 27
 Hidden categories: SubpagesHeaders applying DefaultSort key
 
-### 25
+### 28
 This page was last edited on 30 June 2021, at 02:16.
 
-### 26
+### 29
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
-### 27
+### 30
 Privacy policy
 
-### 28
+### 31
 Disclaimers
 
-### 29
+### 32
 Code of Conduct
 
-### 30
+### 33
 Developers
 
-### 31
+### 34
 Statistics
 
-### 32
+### 35
 Cookie statement
 
-### 33
+### 36
 Mobile view
 
-### 34
+### 37
 Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 75
 
-### 35
+### 38
 Add topic

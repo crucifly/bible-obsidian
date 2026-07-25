@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 40
 
-> **Chapter 40**
+**Chapter 40**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 40**
+**CHAPTER 40**
 
 ### 3
 John asketh and receiveth permission to speak.It came to pass while Jesus spake these words unto his disciples, saying unto them: "This is the fourth repentance which Pistis Sophia hath uttered; now, therefore, let him who understandeth, understand,"--it came to pass then, when Jesus had spoken these words, that John came forward, adored the breast of Jesus and said unto him: "My Lord, give commandment to me also, and grant me to speak the solution of the fourth repentance which Pistis Sophia hath uttered."

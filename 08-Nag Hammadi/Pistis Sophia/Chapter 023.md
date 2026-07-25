@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 23
 
-> **Chapter 23**
+**Chapter 23**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 23**
+**CHAPTER 23**
 
 ### 3
 Why the path of the æons was changedAnd Jesus answered and said unto Philip and to all the disciples together: "I have changed their path for the salvation of all souls. Amēn, amēn, I say unto you If I had not changed their path, a host of souls would have been destroyed, and they would have spent a long time, if the rulers of the æons and the rulers of

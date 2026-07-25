@@ -29,20 +29,20 @@ Every seed, according to its kind—every fruit, every wood, every leaf, and eve
 ### 8
 Likewise, as a grave produces flesh and soul, it shall produce persons exactly as the Lord sowed them within it. The flesh and soul the Lord sowed shall arise united. Those who did good works will not be changed into those who did evil, and those who did evil will not be changed into those who did good.
 
-### 10
+### 9
 In the hour when the drum is beaten, the dead shall arise by the Dew of Pardon found from the Lord. Those who did good works shall arise to the Resurrection of Life; their reward is the Garden of Joy that the Lord prepared for the righteous, where there is no tribulation or disease, and which is the dwelling of the clean who will never die again.
 
-### 11
+### 10
 But those who did evil works shall arise to the Resurrection of Final Judgment, along with the Devil who misled them...
 
-### 12
+### 11
 ...and with his armies—demons who do not love even one of Adam’s children to be saved.
 
-### 13
+### 12
 They shall descend to the edge of the darkness of Gehenna, where there is grinding of teeth and mourning; where there is no mercy or pardon, and no exit for all eternity. It is beneath Sheol forever. For they did no good works during their lives in this world while they were in the flesh.
 
-### 14
+### 13
 Because of this, they shall be judged in the hour that flesh and soul arise united.
 
-### 15
+### 14
 Woe to those who do not believe in the rising of flesh and soul, through which the Lord shows the abundance of His miracles. Everyone shall receive their reward according to their work and the labor of their hands.

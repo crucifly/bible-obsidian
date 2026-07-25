@@ -32,47 +32,47 @@ And the vision was shown to me thus: Behold, in the vision clouds invited me and
 ### 9
 And I went in till I drew nigh to a wall which is built of crystals and surrounded by tongues of fire: and it began to affright me. And I went into the tongues of fire and drew nigh to a large house which was built of crystals: and the walls of the house were like a tesselated floor (made) of crystals, and its groundwork was of crystal.
 
-### 11
+### 10
 Its ceiling was like the path of the stars and the lightnings, and between them were fiery cherubim, and their heaven was (clear as) water.
 
-### 12
+### 11
 A flaming fire surrounded the walls, and its portals blazed with fire.
 
-### 13
+### 12
 And I entered into that house, and it was hot as fire and cold as ice: there were no delights of life therein: fear covered me, and trembling got hold upon me.
 
-### 14
+### 13
 And as I quaked and trembled, I fell upon my face.
 
-### 15
+### 14
 And I beheld a vision, And lo! there was a second house, greater than the former, and the entire portal stood open before me, and it was built of flames of fire.
 
-### 16
+### 15
 And in every respect it so excelled in splendour and magnificence and extent that I cannot describe to you its splendour and its extent.
 
-### 17
+### 16
 And its floor was of fire, and above it were lightnings and the path of the stars, and its ceiling also was flaming fire.
 
-### 18
+### 17
 And I looked and saw ⌈⌈therein⌉⌉ a lofty throne: its appearance was as crystal, and the wheels thereof as the shining sun, and there was the vision of cherubim.
 
-### 19
+### 18
 And from underneath the throne came streams of flaming fire so that I could not look thereon.
 
-### 20
+### 19
 And the Great Glory sat thereon, and His raiment shone more brightly than the sun and was whiter than any snow.
 
-### 21
+### 20
 None of the angels could enter and could behold His face by reason of the magnificence and glory and no flesh could behold Him.
 
-### 22
+### 21
 The flaming fire was round about Him, and a great fire stood before Him, and none around could draw nigh Him: ten thousand times ten thousand (stood) before Him, yet He needed no counselor.
 
-### 23
+### 22
 And the most holy ones who were nigh to Him did not leave by night nor depart from Him.
 
-### 24
+### 23
 And until then I had been prostrate on my face, trembling: and the Lord called me with His own mouth, and said to me: ‘Come hither, Enoch, and hear my word.’
 
-### 25
+### 24
 ⌈And one of the holy ones came to me and waked me⌉, and He made me rise up and approach the door: and I bowed my face downwards.

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 144
 
-> **Chapter 144**
+**Chapter 144**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 143**
+**CHAPTER 143**
 
 ### 3
 Of three other mystic rites.Thereafter his disciples said unto him: "Rabbi, reveal unto us the mystery of the Light of thy father, since we heard thee say: 'There is still a fire-baptism and there is still a baptism of the holy spirit of the Light, and there is a spiritual chrism; these lead the souls into the Treasury of the Light.' Tell us, therefore, their mystery, so that we ourselves may inherit the kingdom of thy father."

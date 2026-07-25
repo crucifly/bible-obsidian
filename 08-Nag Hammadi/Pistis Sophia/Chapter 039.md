@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 39
 
-> **Chapter 39**
+**Chapter 39**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 39**
+**CHAPTER 39**
 
 ### 3
 It came to pass then, when Jesus had heard Martha speak these words, that he said unto her: "Well said, Martha, and finely."

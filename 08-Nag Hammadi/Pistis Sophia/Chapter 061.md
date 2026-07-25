@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 61
 
-> **Chapter 61**
+**Chapter 61**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 61**
+**CHAPTER 61**
 
 ### 3
 It came to pass then, when Jesus had heard these words, that he said: "Well said, Mary, blessed one, who shalt inherit the whole Light-kingdom."

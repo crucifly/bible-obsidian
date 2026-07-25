@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 42
 
-> **Chapter 42**
+**Chapter 42**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 42**
+**CHAPTER 42**
 
 ### 3
 When then Jesus had spoken these words unto his disciples, he said unto them: "Who hath ears to hear, let him hear; and let him whose spirit seetheth up in him, come forward and speak the solution of the thought of the fifth repentance of Pistis Sophia."

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 92
 
-> **Chapter 92**
+**Chapter 92**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 91**
+**CHAPTER 91**
 
 ### 3
 And Jesus answered and said unto John: "Finely indeed do ye question on all with precision and certainty. But now, therefore, John, hearken that I may discourse with thee. Every one who hath received mysteries of the Light, will abide in the region up to which every one hath received mysteries, and he hath not the power to go into the height into the orders which are above him.

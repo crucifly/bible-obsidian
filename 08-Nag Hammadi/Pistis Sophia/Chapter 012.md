@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 12
 
-> **Chapter 12**
+**Chapter 12**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 12**
+**CHAPTER 12**
 
 ### 3
 He entereth the first sphere."And I left that region behind me and ascended to the first sphere, shining most exceedingly, forty-and-nine-times more brightly than I had shone in the firmament. It came to pass then, when I had reached the gate of the first sphere, that its gates were shaken and opened of themselves at once.

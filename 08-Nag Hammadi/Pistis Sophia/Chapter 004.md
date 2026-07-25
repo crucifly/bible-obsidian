@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 4
 
-> **Chapter 4**
+**Chapter 4**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 4**
+**CHAPTER 4**
 
 ### 3
 But the disciples sat together in fear and were in exceedingly great agitation and were afraid because of the great earthquake which took place, and they wept together, saying: "What will then be? Peradventure the Saviour will destroy all regions?" Thus saying, they wept together.

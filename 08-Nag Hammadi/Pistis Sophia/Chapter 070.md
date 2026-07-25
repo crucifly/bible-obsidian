@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 70
 
-> **Chapter 70**
+**Chapter 70**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 69**
+**CHAPTER 69**
 
 ### 3
 It came to pass then, when the First Mystery had finished saying these words unto his disciples, that Thomas came forward, and said: "My Lord, my light-dweller hath ears and my mind hath understood the words which thou hast said. Now, therefore, give commandment unto me to set forth clearly the solution of the words."

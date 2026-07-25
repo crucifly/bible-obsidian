@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 81
 
-> **Chapter 81**
+**Chapter 81**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 80**
+**CHAPTER 80**
 
 ### 3
 Martha again came forward and said: "My Lord, I am sober in my spirit and understand the words which thou sayest. Now, therefore, give me commandment to set forth their solution in openness."

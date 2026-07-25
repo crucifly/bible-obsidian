@@ -110,12 +110,3 @@ and you also, the angels and those who have been sent,
 
 ### 35
 For many are the pleasant forms which exist in numerous sins,
-
-### 36
-The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.
-
-### 37
-E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.
-
-### 38
-For academic citation, please refer to published editions of this text.

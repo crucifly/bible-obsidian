@@ -8632,1111 +8632,1106 @@ T V 1_ *
 
 #^#%
 
-### 2877
+### 2876
 10 the Holy Spirit (be) with you all. | And let all of them answer: With thy spirit also. | And when he has finished saying this, let him also speak {lit say) to the people (1.) with words of exhortation : then (de) having finished his instruction, let the deacon mount upon a high
 
-### 2878
+### 2877
 iv. 8, .
 
-### 2879
+### 2878
 15 place and proclaim (kyrisze) : Let no unbeliever remain in this place. | And thus when the bishop has finished all the prayers which it is right for him to make, whether for the sick and also the rest, | Let the deacon say to them all : Salute (a.) one another with a holy kiss, j And
 
-### 2880
+### 2879
 • 154,254,318
 
-### 2881
+### 2880
 20 let the clergy (klerikos) salute (a.) the bishop, and let the laymen (1.) salute (a.) one another, and let the women also salute (a.) the women. Let the children stand near the bema ; | And let another deacon stand by them, that they may not make a noise (spatala) with one another, |
 
-### 2882
+### 2881
 Hcb. 1. 2, .
 
-### 2883
+### 2882
 25 and let other deacons walk about watching (paraterei) the men and the women, that there may not be any disturb- ance among them, | And that one should not beckon to another or whisper or go to sleep. | Let a subdeacon stand at the door of the men, and let other deacons stand
 
-### 2884
+### 2883
 • • •
 
-### 2885
+### 2884
 30 at the door of the women, that none [59] may go out, and that they may not open the doors at the time of the holy
 
-### 2886
+### 2885
 . 140, 188, 335
 
-### 2887
+### 2886
 TRANSLATION OF THE SAIDIC TEXT 343
 
-### 2888
+### 2887
 iv. 13, .
 
-### 2889
+### 2888
 Oblation (prosphora), even if it is a believer who is at the door. I Then (de) let the subdeacon bring water, and let the priests wash their hands, for a sign of purity of their souls (ps.), lifted up to God the almighty (pantokratOr). | And let another deacon cry out : Let no catechumen s remain in this place. | Let not any of those who only hear the word, but who do not communicate (koinOnei) of the holy Mysteries, stand in this place. | Let not any of the unbelievers remain. | Let not any of the heretics (hairetikos) stand in this place with us to-day. | Mothers lo hold your children. | Let no one have a quarrel in his heart with another. | Let none stand in this place in playing the hypocrite (hypokrine) or with hypocrisy (hypokresis). | Be all of you sincere {lit. straight) toward the Lord God: let us stand in fear of God and is trembling.
 
-### 2890
+### 2889
 . 178
 
-### 2891
+### 2890
 TO OFFER (pbospherin)
 
-### 2892
+### 2891
 111. I,
 
-### 2893
+### 2892
 65. Further (de), when these things have been done, let the deacons bring the gifts (doron) to the bishop at » the holy altar &lt;thysiasterion). | And let the presbyters stand on the right hand and on the left hand of the bishop in silence (esykhia), in the form of disciples standing by their master, | Let two other deacons stand on either [60] side of the altar (th.), with thin fans in their hands made 35 of something thin, or feathers of peacock, or again (entof) thin stoles (phakiarion'), that they may cause to By away the little flying creatures, so that they may not go into the cup (poterion). | And thus let the Chief Priest suppli-
 
-### 2894
+### 2893
 • 174, 2i9» 359
 
-### 2895
+### 2894
 * Butler, And0nt Coptic Chtrehu, toL iL p^ 149, note.
 
-### 2896
+### 2895
 iv. 30, .
 
-### 2897
+### 2896
 344 STATUTES OF THE APOSTLES
 
-### 2898
+### 2897
 . 218, 289, 359
 
-### 2899
+### 2898
 cate over the Oblation (prosphora), that the Holy Spirit may come upon it, | And make the bread indeed Body of the Christ, and (de) the cup (p.) Blood of the Christ | And when he has finished the prayers (proseukhe) which
 
-### 2900
+### 2899
 iv. 14, .
 
-### 2901
+### 2900
 5 it is right for him to say, let the bishop receive first, after him the presbyters, after them the deacons, | And thus all the clergy (klerikos) according to order (taxis). I And after them let all the people (1.) receive. | And (de) when the bishop gives, let him say : This is the Body of
 
-### 2902
+### 2901
 221,292,361
 
-### 2903
+### 2902
 lo the Christ, and let him who receives also answer : Hamen. | Then (de) likewise also the deacon who gives the cup (p.), let him say : This is the Blood of the Christ ; this is the cup (p. ) of life. | And let him also who receives answer : Hamen. | And let them sing (psallei) while they are giving,
 
-### 2904
+### 2903
 vi. 5, .
 
-### 2905
+### 2904
 15 until all have finished communicating (synage). | Further (de), when all shall have received, and when all the women also have received, and when the singer (psaltes) has left off singing (psallei), | Let the deacon call out, saying : We have all received of the Body and the precious
 
-### 2906
+### 2905
 199, 276, 343
 
-### 2907
+### 2906
 20 Blood of the Christ ; let us [6 1 ] give thanks (eukharistou) to him because he has made us worthy to partake (metekhe) of his Mysteries holy and immortal, belonging to the heavens. | And afterwards let the bishop pray, giving thanks for the eating of the Body and the drinking
 
-### 2908
+### 2907
 V. 5, .
 
-### 2909
+### 2908
 25 of the Blood of the Christ. | Further (de), when he has finished praying, let the deacon say : Bend your head down to the Lord that he may bless you. And when they have received blessing, let the deacon say to them : Go in peace. | Then (de) let the presbyters and the
 
-### 2910
+### 2909
 *
 
-### 2911
+### 2910
 30 deacons wrap up (systelei) the little (pieces) which will be left, being very careful (prosekhe) not to let much be
 
-### 2912
+### 2911
 221, 292, 362
 
-### 2913
+### 2912
 TRANSLATION OF THE SAIDIC TEXT 345
 
-### 2914
+### 2913
 vi. 14, .
 
-### 2915
+### 2914
 over, that there may not come upon them very great condemnation (krima), like to the sons of Aaron and the sons of Helei, whom the Holy Spirit smote (patasse) because they did not keep themselves from despising the sacrifice (thysia) of the Lord : | How much more those 5 who will despise (kataphronei) the Body and the Blood of the Lord, thinking that it is only bodily food (trophe) which they receive, and not spiritual | These then (de) are the things which we command you, O bishops and presbyters and deacons, concerning the holy service of 10 the Mysteries.
 
-### 2916
+### 2915
 . 185
 
-### 2917
+### 2916
 CONCERNING THE ORDINATION (kh.) OF THE PRESBYTERS AND THE DEACONS
 
-### 2918
+### 2917
 IX. 23, .
 
-### 2919
+### 2918
 '5
 
-### 2920
+### 2919
 128, 234, 296
 
-### 2921
+### 2920
 66. But thou, O bishop, when thou ordainest (kh.) the presbyter, lay thy hand upon his head, while all the presbyters stand by and the deacons, pray and ordain (kh.) him : [62] the deacon also thou shalt ordain (kh.) according to the same ordinance. | But as for 30 the subdeacons and the readers (a.) and the deacon- esses, we have already said that it is not right to ordain (kh.) them.
 
-### 2922
+### 2921
 X. 29, .
 
-### 2923
+### 2922
 CONCERNING THE CONFESSORS '5
 
-### 2924
+### 2923
 . 143, 144
 
-### 2925
+### 2924
 67. The confessor is not ordained (kh.) ; for this thing belongs to his resolution (gnome) and his endurance (hypomone). For he is worthy of great honour, as having confessed the name of Ciod and his Son before kings and 30 the heathen (ethnos). But should there be need (khria)
 
-### 2926
+### 2925
 Philippians i. 27
 
-### 2927
+### 2926
 346 STATUTES OF THE APOSTLES
 
-### 2928
+### 2927
 , 221,292,302
 
-### 2929
+### 2928
 to make him bishop or presbyter or deacon, let him be ordained (kh.). If when he has not been ordained (kh.) a confessor should seize for himself the dignity (axioma) on account of his confession, let him be deposed 5 (kathairou) ; for he is not an (ordained person), since he denied the commandment of the Christ, and he became worse than an unbeliever.
 
-### 2930
+### 2929
 X.34, . .
 
-### 2931
+### 2930
 o CONCERNING THE VIRGINS
 
-### 2932
+### 2931
 . 217, 288, 358
 
-### 2933
+### 2932
 68. Let them not ordain (kh.) the virgins. We have
 
-### 2934
+### 2933
 iv. 3,
 
-### 2935
+### 2934
 no commandment (to do so) from the Lord. For this
 
-### 2936
+### 2935
 . 362
 
-### 2937
+### 2936
 conflict (agOn) belongs to her purpose (prohairesis), and
 
-### 2938
+### 2937
 XII. 2,
 
-### 2939
+### 2938
 5 it is not in her case because of a despising of the marriage,
 
-### 2940
+### 2939
 • * •
 
-### 2941
+### 2940
 but for having time for pious observances.
 
-### 2942
+### 2941
 • 269, 335
 
-### 2943
+### 2942
 CONCERNING THE WIDOWS
 
-### 2944
+### 2943
 xiii. 7, .
 
-### 2945
+### 2944
 to
 
-### 2946
+### 2945
 131, 237, 299
 
-### 2947
+### 2946
 69. The widows shall not be ordained (kh.). But if it is one whose husband died a long time ago, and she lived soberly, no charge being found against her, | and she has taken good care [63] of her household, like Joudith and
 
-### 2948
+### 2947
 Col. iv. I, .
 
-### 2949
+### 2948
 1$ venerable Anna, then let them enrol (tasse) her among the widows (kherikon). | If indeed she has not waited long since her husband died, trust (pisteue) her not, but let her be proved (dokimaze) by time (khronos). The passions even are wont to grow old with the man who
 
-### 2950
+### 2949
 . 210,284,353
 
-### 2951
+### 2950
 30 will give place for them in himself, unless they are reined in (khalinou) with a strong {/ti. hard) bridle (khalinos).
 
-### 2952
+### 2951
 James i. 22,
 
-### 2953
+### 2952
 TRANSLATION OF THE SAIDIC TEXT
 
-### 2954
+### 2953
 w
 
-### 2955
+### 2954
 CONCERNING THE EXORCISM (exorgismos)
 
-
-
-#                               ■  '       M^  ^  «^
-
-### 2957
+### 2955
 70. The exorcists are not ordained (kh.) ; for the trial (athlon) belongs to the purposeful (prohairesis) j will, and to the grace (kharis) of God and the Christ Jesus, I When the Holy Spirit rests on the mjin. For he who shall receive a grace of healing is made manifest by the revelation of God in causing the grace (kharis) of God which is in him to shine upon all men. | If then 10 there should be need (khria) for him to become bishop or presbyter or deacon, let him be ordained (kh.).
 
-### 2958
+### 2956
 . 133
 
-### 2959
+### 2957
 CONCERNING BY HOW MANY BISHOPS IT IS RIGHT THAT A BISHOP SHOULD '$ BE ORDAINED (kh.)
 
-### 2960
+### 2958
 2 Thess. ii. 15, .
 
-### 2961
+### 2959
 71. It is right that a bishop should be ordained (kh.) by three bishops or two. And (de) if one bishop has ordained (kh.) him, let him be deposed. | But if necessity (anagke) aa obliged anyone to be ordained (kh.) by one, because many could not assemble on account of persecution (diQg- mos) which was outside, or for any other such cause (aitia), [64] let him receive warrant (psyphos) from many other holy bishops, permitting (epeitrepe) this as (function) to him. The bishop blesses, he is not blessed, he ordains (kh.), he lays hand upon men, he offers the Oblation (prosphora) : he receives Eulogia from the bishops, but not from the presbyters. | The bishop deposes (kathairou) every cleigyman (klerikos) who is worthy to 30 be deposed (k.) : but to another bishop like himself it is
 
-### 2962
+### 2960
 . 133
 
-### 2963
+### 2961
 348 STATUTES OF THE APOSTLES
 
-### 2964
+### 2962
 ii. 1-3, . V. 13, .
 
-### 2965
+### 2963
 impossible for him to do this alone. | The presbyter also blesses, he receives Eulogia from a fellow-presbyter, and from the bishop, and he also gives to his fellow-presbyter, he lays hand upon men: but he does not ordain (kL), 5 nor depose (k.), he puts out those who are below him : | And (de) if there are any worthy to be punished (dimorei), let him give (punishment). | The deacon does not bless, nor does he give Eulogia; further (de), he receives from the presbyter and the bishop : he does not
 
-### 2966
+### 2964
 . 195, 196 • 215,355
 
-### 2967
+### 2965
 lo baptise, nor does he offer the Oblation : | But when the bishop or the presbyter offers, it is the deacon who gives the cup (poterion), not as priest, but as ministering (diakonei) to the priests : it is not lawful (exestei) for any of the clergy (klerikos) to do the work of the deacon. | The
 
-### 2968
+### 2966
 I Tim. ii. 3,
 
-### 2969
+### 2967
 15 deaconess does not bless, nor does she any work of those which the presbyter [65] and deacon do, but she only keeps the doors, and does service (hjrperetei) to the presbyters at the time when the women are to be baptised, because this is that which is proper (prepei). | The deacon
 
-### 2970
+### 2968
 . 205, 281, 349
 
-### 2971
+### 2969
 20 shall put out the subdeacon, and reader, and singer, and deaconess, if the matter refers to them, the presb)rter indeed being absent. It is not lawful (ex.) for the sub- deacon to put out the reader, and the singer, and the deaconess or layman, for they are the ministers of the
 
-### 2972
+### 2970
 I Peter i. 18, 19,
 
-### 2973
+### 2971
 25 deacons.
 
-### 2974
+### 2972
 181, 261, 327
 
-### 2975
+### 2973
 CONCERNING THE FIRST-FRUITS (aparkhe) and the tithes
 
-### 2976
+### 2974
 ii. II, .
 
-### 2977
+### 2975
 30 72. All first-fruits (aparkhe) shall be brought to the bishop and the presbyters and the deacons for them to
 
-### 2978
+### 2976
 . 137
 
-### 2979
+### 2977
 TRAMSLATION OF THE SAIDIC TEXT 349
 
-### 2980
+### 2978
 • •
 
-### 2981
+### 2979
 eat. I And (de) all tithes also shall be taken for the other clergy (klerikos) to eat, and the virgins, and the widows, and all who are in poverty. For the first-fruits (ap.) belong to the priests alone, and those who do service (hyp.) for them. S
 
-### 2982
+### 2980
 n. 9, .
 
-### 2983
+### 2981
 CONCERNING THE (THINGS) WHICH ARE OVER OF THE OBLATIONS (prosphora) WHICH WERE NOT OFFERED AT THE TIME OF THE MYSTERY «
 
-### 2984
+### 2982
 . 163
 
-### 2985
+### 2983
 73. The Eulogies (eult^a) which shall be over at the Mysteries, which were not offered, let the deacon divide among the clergy (kleros) according to the decision (gnome) of the bishop and the presbyters, so that four 15 parts may be given to the bishop, and three may be given to the presbyter, two may be given to the deacon. | But the others, namely, the subdeacons, and the readers, and the singers, and the deaconesses, that (one) part may be given to [66] each ; for this is good and acceptable 30 before God, that each should be honoured (tima) accord- ing to his rank (axioma). | The Church is not the school of confusion but of good order (taxis).
 
-### 2986
+### 2984
 iii. 1-7, .
 
-### 2987
+### 2985
 CONCERNING THOSE WHO COME TO 'S PARTAKE (metekhe) OF THE HOLY MYSTERIES
 
-### 2988
+### 2986
 . 133, 240, 301
 
-### 2989
+### 2987
 74. Further (de), those who will come to partake (m.) of the Mysteries of godliness, let them first be brought 30 to the bishop or the presbyters by the deacons, | And let
 
-### 2990
+### 2988
 V. 3, .
 
-### 2991
+### 2989
 3 so STATUTES OF THE APOSTLES
 
-### 2992
+### 2990
 . 244
 
-### 2993
+### 2991
 them be asked by what cause (aitia) and for what thing have ye come to the words of the Lord : and (de) let those who bring them bear witness to them, having examined diligently about their deeds. s
 
-### 2994
+### 2992
 ill. 4,
 
-### 2995
+### 2993
 CONCERNING THE CRAFTS (tekhnE) AND OCCUPATIONS
 
-
-### 2997
+### 2994
 75. Let them diligently inquire about their life :
 
-### 2998
+### 2995
 197, 274, 341
 
-### 2999
+### 2996
 10 whether they are slaves, and whether they are free (eleutheros). | And if it is a slave, let them ask his master to bear witness to him : if he should not bear witness to him, let them reject him, until he is worthy of having witness borne to him by his master. | If then (de)
 
-### 3000
+### 2997
 V. 5,
 
-### 3001
+### 2998
 15 he shall not bear witness to him, let him not be received. | And if he should bear witness to him, let him be received. | Further (de), if he is the slave of a heathen (hethnikos), let him be taught to please his master, that the word may not be blasphemed. | And (de) if it is a
 
-### 3002
+### 2999
 . 192, 272, 339
 
-### 3003
+### 3000
 20 man who has a wife, or a woman who has a husband, let them be taught to be content with each other. | But if they were not joined [67] in marriage, let them be taught not to fornicate, but to be married according to the law. I And if his master is a believer, (and) knows
 
-### 3004
+### 3001
 111. 8, 10, 12, .
 
-### 3005
+### 3002
 25 that he fornicates, and does not give wife to him, or does not give husband to his slave, let that master be put out. I Further (de), if it is one who hath a demon (daimOnion), let him indeed be taught piety (eusebes), and (de) let him not be received to communicate
 
-### 3006
+### 3003
 135, 241, 303
 
-### 3007
+### 3004
 30 (koinonei) of the Mysteries unless (eimetei) he has first been made clean ; though (de) if death be imminent
 
-### 3008
+### 3005
 iii. I3» .
 
-### 3009
+### 3006
 TRANSLATION OF THE SAIDIC TEXT 351
 
-### 3010
+### 3007
 136, 243, 304
 
-### 3011
+### 3008
 (epeige) upon him, let him be received | If it is one who is a pander, either let him leave off his wicked form (of life) or let him be rejected. | If a harlot should come, let her either leave off (her sin) or let her be rejected, j If one who makes images (eidolon) should come, either 5 let him leave off or let him be rejected. [ If a man or woman who is (concerned) with the theatre (theadron) should come in, or a charioteer (eneiokhos) or single combatant (monomakhos), or one who runs in the stadium (stadion), or a' professional (dimosios) single combatant 10 (monomakhion), or engaged at Olympic games (olympi- akos), or piper (cholaures), or harper (kitharotos), | Or singer to the lyre (lyra), or dancing-master (orkhistes), or huckster (kapellos), either let them leave off or let them be rejected, j If a soldier should come, let him be 15 taught not to do violence, | Nor to slander anyone ; further (de), let him be taught to be satisfied with his pay (opsonion) which is given to him : if then (de) he should be persuaded (peithe), let him be received, but if he should refuse (antilige), let him be [68] rejected. [ ao One who does the abomination, namely, he who lies with male, or a lascivious man,* or a magician (magos), or a raiser of sedition (stasiastes), or a charmer, or an astrologer (astrologos), namely, an appointer of hours, or a diviner, or a serpent charmer, or a maker of phylac- as teries (ph.), or a charmer who bewitches, or an augur, or he who gives sign by any kind of vessel, or an interpreter of the movements of limbs (melos) when they twitch, or who avoids meeting the blind and lame,
 
-### 3012
+### 3009
 2 Peter i. 11,
 
-### 3013
+### 3010
 I ' Sboushou,' uncertain meaning.
 
-### 3014
+### 3011
 . 175
 
-### 3015
+### 3012
 352 STATUTES OF THE APOSTLES
 
-### 3016
+### 3013
 111. 16, .
 
-### 3017
+### 3014
 or who watches for (paratereis) birds calling or cats (kale), or one who attends to the words which men say, in order to get a sign : let such as these be proved (dole) by time (khronos) ; for this wickedness (kakia) is 5 very hard to wash off. | If indeed they should leave off doing these things, let them be received, but if they will not be persuaded (peithe), let them be rejected | A concubine (pallake) of an unbeliever, if indeed she is his slave and devotes herself (scholaze) to him, let her be
 
-### 3018
+### 3015
 . 186, 266, 332
 
-### 3019
+### 3016
 lo received. | But if she defiles herself with others, let her be rejected. | But a believer who has a concubine (palL), if indeed she is a slave, let him put her away, and let him marry according to the law ; but if she is a freewoman, let him live with her, and (de) if he is not willing, let him
 
-### 3020
+### 3017
 » ^
 
-### 3021
+### 3018
 15 be rejected | One who is a follower of heathen (hethnos) customs, or Jewish fables, either let him leave off or let him be rejected. | One who is mad to gaze (theorei) [69] in the theatre (th.), or the hunt (kynekion), or in the horse-racings (hyppikos), or in the contests(ag6n)(of men),
 
-### 3022
+### 3019
 iv. 7, .
 
-### 3023
+### 3020
 20 either let him leave off or let him be rejected. | He who is appointed to become catechumen, let him be instructed (kathegei) three years : | But if one is diligent (spoudaios), being eager for the work, let him be accepted without delay : for it is not the time (khr.) which is judged
 
-### 3024
+### 3021
 . 209
 
-### 3025
+### 3022
 25 (krine) but the character (tropos). | And (de) he who instructs, if he is a layman, instructing (paideue) in the word, and being respectable (semnos) in his character (tropos), let him instruct ; for they shall all be taught of God, said the prophet. | Further (de), when the believing
 
-### 3026
+### 3023
 Jude 22, .
 
-### 3027
+### 3024
 30 man or woman rises early from sleep, before they do any work, let them wash their hands and pray.
 
-### 3028
+### 3025
 . 129, 235, 297
 
-### 3029
+### 3026
 TRANSLATION OF THE SAIDIC TEXT 353
 
-### 3030
+### 3027
 IV. 8,
 
-### 3031
+### 3028
 And (de) if there should be the instruction (kathegesis) of the word, let them choose the word of piety for them- selves more than anything else. | Further (de), let every believing man or woman behave (prosekhe) towards his slaves with mildness, according as we have commanded s you in time past {Jit. behind), and we instructed them thus in the Epistles (epistole). | Let the slaves spend five days doing work, but on the sabbath (sabbaton) and Lord's day (kyriake) let them devote themselves to the church, that they may be instructed in piety (eusebes) "&gt; of godliness, | The sabbath (s.) indeed because the Lord rested on it from finishing all the creation, | And (de) the Lord's day (k.) because it is the day of the resurrection of the Lord. And (de) let them not work also in the week (hebdomas) [70] of the great Paskha, and that 'S which comes after it, which is the festival : the one indeed because the Lord was crucified in it, | And (de) the other because he rose from the dead in it ; | For it is needful (khria) that they should know by the instruction who died and rose. | And (de) let them not work also on •» the Ascension, because the dispensation (oikonomia) of the Lord was finished on that day. | Nor let them work on the Pentekoste, because of the coming (parrousia) of the Holy Spirit, which (if. the coming) came upon us the Apostles and all who believe in the Christ | Let them as not also work on the Birthday of the Christ, because of the grace (kharis) which was suddenly given to men on that day, by God the Word (logos) of the Father being bom of the holy TheodOkos, Maria the virgin, for the salvation of all the race (genos) of men. | And (de) let 30 them not work also on the festival of the washing, for
 
-### 3032
+### 3029
 . 210
 
-### 3033
+### 3030
 354 STATUTES OF THE APOSTLES
 
-### 3034
+### 3031
 V. 5, . .
 
-### 3035
+### 3032
 that was the day when the Godhead of the Christ was manifested; the Father bore witness to him at the baptism, | And the Holy Spirit came upon him in likeness of dove, and he was manifested who bore witness to S those who stood by that this is the true God and the Son of God in truth. | Let them not work on the days of the Apostles ; for they were those who became instructors for you unto the Christ, and they caused you to be worthy to partake (metekhe) [71] in the free gift (dOraia) of the
 
-### 3036
+### 3033
 . 202
 
-### 3037
+### 3034
 10 Holy Spirit. | Let them not work on the day of Stephanos the martyr and chief deacon, and the other holy martyrs, who loved the Christ more than their own lives. I Further (de), when ye rise at the hour of morn- ing, pray. | Pray also at the third hour, and the sixth,
 
-### 3038
+### 3035
 Rev. ii. 17,
 
-### 3039
+### 3036
 15 and the ninth, and at evening, and the hour when the cock will crow. | The hour indeed of the light because the Lord enlightened us, he caused the night to pass away, he brought to us also the light of the day. | And (de) the third because Pilatos gave sentence (apophasis)
 
-### 3040
+### 3037
 • 156,256,320
 
-### 3041
+### 3038
 ao upon the Lord at that hour. | And (de) the sixth because the Christ was crucified (strou) at that hour, and his side having been pierced blood and water came out. | And (de) the ninth also because when the Lord was crucified (st.) all the earth shook, trembling at the audacity (tolmeria)
 
-### 3042
+### 3039
 V. 18, .
 
-### 3043
+### 3040
 25 of the godless Jews ; it {lit. they) could not bear to see its (their) Lord derided : but at evening ye shall give thanks, because he gave to you the night for rest from the labours of the day. | And (de) at the hour when the cock will crow ye shall pray, because (then) is pro-
 
-### 3044
+### 3041
 132, 238, 300
 
-### 3045
+### 3042
 30 claimed to you the coming (parrousia) of day, in which ye shall go to the works of light which ye will do. | If
 
-### 3046
+### 3043
 iv. 4, .
 
-### 3047
+### 3044
 TRANSLATION OF THE SAIDIC TEXT 355
 
-### 3048
+### 3045
 134, 240, 302
 
-### 3049
+### 3046
 ye cjinnot go to the church because of the unbelievers, | Thou, then (de), O bishop, [72] shalt make the synaxis (plural) in thy house, that the godly may not assemble with the impious (asebes) : for it is not the place (topos) which sanctifies the man, but it is the m£ui who sanctifies $ the place (topos). | If the impious (asebes) take possession of the place (topos), flee from it, because they polluted it. I For as the holy men sanctify the place (topos), so also those who are not holy pollute it | If it is impossible to assemble together either in the house or 10 in the church, let each sing (psallei) by himself, let him read, let him pray, or otherwise when there are with one another two or (e) three. | For he said : Where two or three assemble in my name I am with them in their midst, j Let not the believer pray in the houses of the 15 catechumens ; for it is not right (dikaion) that he who communicates (koinOnei) of the holy Mysteries should touch those who do not communicate (koi.), j Nor let the godly pray in the house of the heretics (hraitikos). For what is the communion (koinonia) of the light with the 20 darkness, or what is the part (meris) of the Christ with Belear. | If a believing man or woman should live with a servant, either let them be separated or let them be rejected from the Church.
 
-### 3050
+### 3047
 V. 8,
 
-### 3051
+### 3048
 CONCERNING WHAT ARE THE DAYS WHICH IT IS RIGHT TO OBSERVE (/ii. do) FOR THOSE WHO HAVE FALLEN
 
-### 3052
+### 3049
 . 134, 240, 302
 
-### 3053
+### 3050
 ASLEEP 76. Let them observe the third for those who have 30 fallen asleep with psalms (psalmos) and prayers, because
 
-### 3054
+### 3051
 2 Tim. i. 10,
 
-### 3055
+### 3052
 3S6 STATUTES OF THE APOSTLES
 
-### 3056
+### 3053
 140
 
-### 3057
+### 3054
 of him who rose [7 3] from the dead after three days. | And let them observe their seventh, commemorating those who are alive with those who have fallen asleep. | And (de) let them also observe their month, on the S ancient (arkhaion) pattern (typos), for thus the people (L) mourned for M6ys€s. | And let them observe their year for a sign of their remembrance, giving to the poor from the goods of him who died, in memory of him. | But these things we are saying concerning the godly
 
-### 3058
+### 3055
 XXII. 18, 19, .
 
-### 3059
+### 3056
 10 only : but as for the ungodly, even if thou gavest all the things in the world to the poor for them thou wouldst not do them any benefit (ophelei). | For to them to whom God is enemy in this world, he will still be enemy after they have gone from this world ; for there is no
 
-### 3060
+### 3057
 . 133, 138, 239,
 
-### 3061
+### 3058
 15 iniquity with him. | The Lord is righteous, he loved righteousness, and also : Behold the man and his work. Further (de), if you should be invited on their days, eat in comely fashion and fear of God, as (hos) having power to intercede (presbeue) for those who have
 
-### 3062
+### 3059
 ii. 17, .
 
-### 3063
+### 3060
 ao departed from this world : being presbyters and deacons of the Christ, | Ye ought therefore to be sober (nephe) always by yourselves and with others, that ye may be able to instruct these ignorant ones. | For the Scripture says : * These great ones are wrathful : let them not
 
-### 3064
+### 3061
 . 302
 
-### 3065
+### 3062
 25 drink wine lest they drink and become forgetful of wisdom, and be unable to judge (krine) the right. '^ | [74] Wherefore (oukoun) after God the almighty (pantokrator) and his beloved Son Jesus the Christ and the Holy Spirit the bishops and the presbyters are the great ones of the
 
-### 3066
+### 3063
 244, 301, 306
 
-### 3067
+### 3064
 ^ Marked as quotation in MS.
 
-### 3068
+### 3065
 ■ * 1
 
-### 3069
+### 3066
 TRANSLATION OF THE SAIDIC TEXT 357
 
-### 3070
+### 3067
 General Index of Subjects
 
-### 3071
+### 3068
 Church. I But in saying these things we are not forbidding (koly) them to drink, for we have no power to despise what God has made for the cheerfulness of men ; but we are commanding them not to drink and be drunken. | For the Scripture did not say that they were not to drink s wine at all, but what does it say ? ' Drink not wine,' it says, ' to be drunken.' ' | And again : ' Thorns grow up in the hand of the drunkard ' : ^ and (de) we are not saying it for the clergy (klerikos) alone, but for the lay (L) Christians also, they over whom has been pronounced lo the name of the Christ Jesus our Lord. | For these words were also said for them : ' To whom shall be woe ? And to whom confusion? and to whom condemnation? and to whom evil babbling and gratuitous contentions? or whose eyes are bloodshot? Is it not they who wait long iS at wine, and seek where there may be places of drink ? ' '
 
-### 3072
+### 3069
 and Words
 
-### 3073
+### 3070
 CONCERNING THOSE WHO ARE PERSE- CUTED (diokei) BECAUSE OF THE FAITH, AND THOSE WHO FLEE TOGETHER " FROM CITY TO CITY BECAUSE OF THE FAITH, SO THAT THEY MAY HELP (boEthei) THEM TOGETHER
 
-### 3074
+### 3071
 ACHELIS, Dr, xiii.
 
-### 3075
+### 3072
 77. Receive those who are persecuted (d.) for the *5 faith, and pursued from city to city, because of [75] the remembrance of the words of the Lord, knowing indeed that the spirit indeed is ready, but the flesh is weak (asthenes). | For this cause they flee, and they suffer
 
-### 3076
+### 3073
 Agape, 157, 158, 159,257, 321. Alms, 132, 216, 239, 287, 300, 356. Ambon (b€ma), 199, 275, 342. Amusement, places of (circus, theatre,
 
-### 3077
+### 3074
 ' Marked as quotation in MS.
 
-### 3078
+### 3075
 etcX 148, 207, 249, 282, 283,
 
-### 3079
+### 3076
 3S8 STATUTES OF THE APOSTLES
 
-### 3080
+### 3077
 312, 351, 352. Angels (archangels), 134, I37&gt; I43i
 
-### 3081
+### 3078
 the spoiling of their goods, that they might keep for them the name of the Christ, not having denied him. Help (b.) them and give to them according to their need (khria), and fulfil the commandment (entole) of the Lord.
 
-### 3082
+### 3079
 184, 240, 243, 264, 302, 305,
 
-### 3083
+### 3080
 5
 
-### 3084
+### 3081
 330' Apostles, names of the, 127, 233, 295.
 
-### 3085
+### 3082
 78. This then (de) we prescribe (paraggeile) to you all in common,^ that each one should remain in the order (daxis) which was delivered to him, and tha^ ye should not transgress the measure and limit which was limited
 
-### 3086
+### 3083
 teaching of the, 185, 266. tradition of the, 331. book of the AposUe, 309. Astrologer (star-gazer, astrolabe^ 130, 149, 208, 235, 250, 282, 313,
 
-### 3087
+### 3084
 10 to you ; for they are not ours, but they are (the limits) of God : I For the Lord said : * He who hears you is hear- ing me, and he who despiseth (athetei) you is despising me ; and (de) he who despiseth me is despising him who sent me.'* For if things without life (apsychon)
 
-### 3088
+### 3085
 351-
 
-### 3089
+### 3086
 15 which he made keep their order (taxis) perfect — namely the night and the day, the sun and the moon, the stars, the elements (stoikhion), the changes (trope), namely the variation of the times, the months, the weeks (hebdOmas), the hours, are subservient to the need (kh.)
 
-### 3090
+### 3087
 ^^^irial.
 
-### 3091
+### 3088
 20 whereunto he limited them, according to what he said : * He set for them a limit, they cannot pass over it' * | He says also concerning the sea : * I have set for it a limit, and (de) I have given bars to it and gates (pyle), and (de) I have said to it : Thus far shalt thou reach,
 
-### 3092
+### 3089
 Baptism, preparation for, 151, 251,
 
-### 3093
+### 3090
 25 and ye shall not pass it.** | If the elements (st.) [76] transgress not the limits which God the creator (dymiourgos) of the universe defined (horize) for them, much more (poly mall5n) is it right for you yourselves not to dare (tolma) to move any of those
 
-### 3094
+### 3091
 . 315- time of, 152, 167, 253, 316.
 
-### 3095
+### 3092
 ^ The Greek has ' koina.' ^ Marked as quotation in MS.
 
-### 3096
+### 3093
 water for, 152, 25^, 316.
 
-### 3097
+### 3094
 TRANSLATION OF THE SAIDIC TEXT 359
 
-### 3098
+### 3095
 the second directions for, 162 folL
 
-### 3099
+### 3096
 things which God defined (horize) for you according to his holy will. | Since many have reckoned this to be nothing, namely to confuse the orders (taxis), and to dare (t.) to change the ordination (khirodonia) with which they were ordained, grasping for themselves dignities s (axioma) which were not given to them, | And allowing (epeitrepe) themselves tyrannically (dyrannos) to grant (kharize) to others the things over which they have no authority (exousia) ; | For this cause they provoke God like the sons of Kore and Osias the king, who grasped "&gt; for themselves the chief priesthood without (the will of) God : I For this cause those indeed were burned with fire, and (de) he also was defiled in his forehead. | They make the Christ Jesus indignant, he who commanded that these things should be so ; and they grieve (lupei) 15 the Holy Spirit, despising (athetei) his witness. We are knowing therefore now truly the danger which is imminent upon those who do such works, and the neglect (amelia) which comes upon the sacrifices (thysia) and the eucharists, | When they are offered by those who have » no right to do so, who think that the honour of the [77] chief priesthood, which resembles the great {and) true Chief Priest Jesus the Christ our King, is a thing of sport. ] For this cause necessity (anakge) constrained us to give you this advice {synbouleue), for henceforth some as turned away after their vanity. Further (de), we say that Moyses the servant of God, to whom God spoke face to face as one speaks to his friend, who said to him : I know thee above (para) all men, | Who spoke to him mouth to mouth, by his likeness and not by a resem- 30 blance, not in signs and in dreams, or (by) angels, or (in)
 
-### 3100
+### 3097
 robe of, 167.
 
-### 3101
+### 3098
 36o STATUTES OF THE APOSTLES
 
-### 3102
+### 3099
 by eflfusion, 167.
 
-### 3103
+### 3100
 enigmas (ainigma), | This one indeed, at the time when he commanded the law of the Lord, defined (hd.) what things indeed it was right to be done by the priests, I And (de) what also were the works of the
 
-### 3104
+### 3101
 in blood, 151, 251, 314.
 
-### 3105
+### 3102
 5 levites, having separated that which was proper (prepei)
 
-### 3106
+### 3103
 of children, 152, 253, 316.
 
-### 3107
+### 3104
 for each and suitable for his service (litourgia). | And
 
-### 3108
+### 3105
 Bishop, 127, 233, 295.
 
-### 3109
+### 3106
 • those things which the chief priests were commanded to
 
-### 3110
+### 3107
 qusuifications of, 133, 240, 301.
 
-### 3111
+### 3108
 do, it was against the law for the priests to go to them. |
 
-### 3112
+### 3109
 ordination of, 133, 138, 139, 197,
 
-### 3113
+### 3110
 To those which were defined (ho.) for the priests, the
 
-### 3114
+### 3111
 2391 245&gt; 273, 301. 306, 340. the fast of, 157, 257, 320. how many to ordain, 203, 279, 347. Blessing (Eulogia), 1 57, 204, 205, 257, 279, 280, 321, 347, 348, 349. by whom, 203, 204, 279, 347. Brightman, the Rev. F. £., xiii., xxix Budge, Dr Wallis,xx. 181, 262, 327.
 
-### 3115
+### 3112
 lo levites approach not But each was keeping himself from overstepping the service which he received ( When anyone took upon him (epeicheirei) to overstep the commission (paradosis) which was delivered to him, death was the punishment (epeitimia) : and (de) this is
 
-### 3116
+### 3113
 478
 
-### 3117
+### 3114
 15 made very plain by what happened to Saul. | [78] For having thought to offer sacrifice (thysia) apart from the prophet and chief priest Samouel, he brought upon himself a great sin and an everlasting curse. | But not even did the prophet spare him because of the unction
 
-### 3118
+### 3115
 Canons, 266.
 
-### 3119
+### 3116
 ao with which he was anointed. | God also showed to us by a great work, evident in the things which happened to Ozias : he delayed not in taking vengeance on him for the lawlessness (paranomia) which he committed, having put him out ^ of the kingship also, because of the chief
 
-### 3120
+### 3117
 number of, 293, 363. Catechumen, 150, 151, 158, i5( 250, 251, 257, 236, 31;
 
-### 3121
+### 3118
 25 priesthood which he coveted (epithymei). | And (de) it will be also (that) ye are not ignorant of the things which have been defined | For ye know that some indeed we have called Bishop, | and (de) others. Presbyter, and others, Deacon, with prayer and imposition of hand,
 
-### 3122
+### 3119
 321, 352, 355- prayer for, 228. Charles, Professor, xiii. Church, 133, 181, 239, 261, 301 as ship, 186, 266, 332. prevented from going to profanation of, 215, 286, Church Order, Apostolic, viiL begins, 127, 233, 295. Egyptian, xxiv., xxvii.
 
-### 3123
+### 3120
 ^ LU. * made him alien to.'
 
-### 3124
+### 3121
 begins, 138, 244, 306. the lost, viiL Circus. See Amusement. Clement (Klementos, Kl€mes) xi., xiv., xxiv., xxxiv., xa 221, 233, 292, 362. Concubine, 149^ 209, 250, 283
 
-### 3125
+### 3122
 TRANSLATION OF THE SAIDIC TEXT 361
 
-### 3126
+### 3123
 352. Confessor, 145, 202, 246, 277,
 
-### 3127
+### 3124
 having taught them the difference of the works by the difference of the names. | For it is not indeed our wont that he who is willing to fill our hands should be able to receive from us what he wished for, after the fashion of the priests of the calves, whom Jeroboam made, those S who were despicable and reprobate before God and men. j For if there was no law and difference of order (taxis) it would have sufficed to perform the whole (ministration) in one name. | But having been taught by the Lord a succession (akoulouthia) of the works, | For the bishops "&gt; indeed we assigned the chief priesthood, | And (de) the presbyters also [79] the things which belong to the priesthood, I And (de) again the deacons the service (diakonia) which is done for them both {sc. bishop and priest) ; that the (meaner) works of the ministry might 15 be performed in a sacred (manner). | For neither is it right for the deacons to offer sacrifice (thysia), or baptise, or to give the Eulogia to small or great, | Nor for the presbyters to ordain (khirodonei). For it is not right (dikaion) to transfer the orders (daxis), | For God is not &gt;&lt;&gt; (the author) of confusion, so that those of inferior order should grasp for themselves in a tyrannical (manner) (d.) the things which belong to their superiors, fashioning (plasse) for themselves a new law unto their own destruction, being ignorant that it is harder for them to ^S kick against the pricks than this. 1 For such men oppose not us the bishops, but they are opposing the great bishop of the universe and the great Ghief Priest, our Lord Jesus the Christ, the Son of God and truly God. | For Chief Priests and priests and levites were appointed (kathista) 3^ by Moyses the prophet and the lover of God | Again,
 
-### 3128
+### 3125
 . 345. Confirmation, 154, 255. 318.
 
-### 3129
+### 3126
 362 STATUTES OF THE APOSTLES
 
-### 3130
+### 3127
 Congregation, prayer ror, 23CX
 
-### 3131
+### 3128
 the twelve Apostles also were appointed by God our Saviour. | And (de) by the Apostles we were appointed, I Klemes and Jakobos, and many others with us, not to mention each of all (the rest). | We also ourselves all
 
-### 3132
+### 3129
 Constitutions, Apostolicad, the c
 
-### 3133
+### 3130
 S in common appointed presbyters and deacons and sub- deacons and [80] readers (anagnostes). | The first, then, now is the true Chief Priest, the lawgiver (nomothetes), the Christ, he who did not grasp for himself the honour, but it was the Father who appointed (k.) him. | He
 
-### 3134
+### 3131
 book, vii., xxiv.
 
-### 3135
+### 3132
 10 having become Chief Priest for us, and having offered the spiritual sacrifice (thysia) to God his Father before he was crucified (strou), commanded us alone to do these things. I Although there were others with us who be- lieved him : but certainly (pantos) it does not belong to
 
-### 3136
+### 3133
 begins, 186^ 266, 332.
 
-### 3137
+### 3134
 15 all who believed him to become priest, nor to be worthy of the dignity (axioma) of the Chief Priesthood. | After he was taken up (analambane), we, according to the grace which he gave to us, and according to his command, offered a living, holy, bloodless sacrifice (thysia), j We
 
-### 3138
+### 3135
 Creed, 1^3, 254, 317.
 
-### 3139
+### 3136
 20 (ean) appointed bishops and presbyters and deacons, their number being seven. Among whom was Stephanos the blessed (makarios) martyr, being not inferior to us in the love which he had toward God : but he displayed his godliness by the faith and the love (agape) which
 
-### 3140
+### 3137
 Crum, Mr, xxxviii.
 
-### 3141
+### 3138
 25 he had toward the Christ Jesus our Lord so thoroughly, that he gave up his life (psyche) for him, | When the Jews, the murderers of the Lord, stoned (and) killed him. I But nevertheless (homos) this man of such great- ness, fervent with the Holy Spirit, this so great arch-
 
-### 3142
+### 3139
 Dkacon, 127, 234, 295. qualifications and duties o^ 136,181,241,242,262,303 ordination o( 144, 201, 245,
 
-### 3143
+### 3140
 30 deacon, | [81] Who saw the gates of the heavens open, and Jesus the Lord standing at the right hand of God
 
-### 3144
+### 3141
 2P7y 345. ^ ordination by the bishop a I44» 246, 308.
 
-### 3145
+### 3142
 TRANSLATION OF THE SAIDIC TEXT 363
 
-### 3146
+### 3143
 GENERAL INDEX OF SUBJECTS AND WORDS
 
-### 3147
+### 3144
 his Father, was not shown forth in any place as making use (khro) of that which was not proper for the diaconate and those who are in it, (such as) to offer sacrifice (thysia), or lay hand upon any ; but he was keeping to the order (daxis) of the diaconate until the end. j For this is what f was proper (prepei) for the holy martyr of the Christ to fulfil his course, keeping his right order (eutaxia). | If some, then, of you find fault with Philip the deacon and Ananias the believing brother, because the one indeed baptised the eunuch, | And (de) the other baptised me, lo even Paul, they are ignorant of what we say. For we have said, that no one grasps for himself the dignity (ax.) of the priesthood, but he receives it from God, like Melkhizedek and Jakob the Patriarch, or he receives it from the chief priest like Aaron, who received it from i; Moyses. Wherefore (oukoun) Philip and Ananias were not those who chose for themselves to do those things of their own accord, but it was the Christ who commissioned them, the true Chief Priest, God unto whom no other god can be compared. ao
 
-### 3148
+### 3145
 479
 
-### 3149
+### 3146
 Finished are the Canons (kanon) of the holy fathers the Apostles. Chapters (kephalaion) 78. Ego Zakarias boethei amn.
 
-### 3150
+### 3147
 Deacon, at baptism, 153, 253, 317. in emergency, 139, 142, 159, 161,
 
-### 3151
+### 3148
 COLLATION OF BRIT. MUS. 793 =a.
 
-### 3152
+### 3149
 258, 322. at the oblation, 176, 198, 199, 200, 245, 276, 277, 342-344. Deaconess, 201, 277, 345. Dead, prayers and alms for the, 215,
 
-### 3153
+### 3150
 BRIT. MUS. 794=b.; BRIT. MU&amp; 796-c ; BERLIN 396- d.; BERLIN 398 = 6.; VATICAN 2=v.; LUDOLrS PRINTED TEXT = L
 
-### 3154
+### 3151
 287, 355-
 
-### 3155
+### 3152
 For short notke of t)u MSS,, sa Iniroduttiott,
 
-### 3156
+### 3153
 prayer for the, 229, 418.
 
-### 3157
+### 3154
 Page 127, line 2, one God] om. L. 5, All hail {lit. rejoice ye), our sons] orn. b. 7,
 
-### 3158
+### 3155
 Demon (Devil), 129, 130, 148, 207, 236, 249, 282, 297, 298, 3"i 350.
 
-### 3159
+### 3156
 Didache, xxvi., extract from, begins,
 
-### 3160
+### 3157
 193. Didaskalia, xxvi., xxvn.
 
-### 3161
+### 3158
 extract from, begins, 194.
 
-### 3162
+### 3159
 Diviner, etc., 149, 207, 208, 282, 297,
 
-### 3163
+### 3160
 351. Drunkenness, 158, 216, 217, 258, 287,
 
-### 3164
+### 3161
 288, 321, 356, 357.
 
-### 3165
+### 3162
 Excommunication (deposition, in- hibition), 204, 279, 347.
 
-### 3166
+### 3163
 Exorcism (mystic), 151, 161, 252, 258»3i5, 316, 317,322.
 
-### 3167
+### 3164
 Exorcist, 347.
 
-### 3168
+### 3165
 Fast, 157, 179, 257, 260, 320, ^24. Feasts, etc (non-working days), 210-
 
-### 3169
+### 3166
 214, 284, 285, 353, 354. Friday ^umah, paraskeue), 151, 252,
 
-### 3170
+### 3167
 315. Fruits, the first, 178, 179, 205, 259,
 
-### 3171
+### 3168
 280, 323, 348.
 
-### 3172
+### 3169
 prayer for, 225.
 
-### 3173
+### 3170
 Funk; Dr, xxv.
 
-### 3174
+### 3171
 Gifts (grace) of healing, 147, 248, 310.
 
-### 3175
+### 3172
 treatise on, 186, 266, 332. Gladiator. See Amusements. Gospel, iqi, 252,315.
 
-### 3176
+### 3173
 book of the, 198, 274, 341. Guidi, Professor Ignazio, ix., xxxix.
 
-### 3177
+### 3174
 Hallelujah, psalm of, 160. Hauler, Dr, xii., xiii., xxvi., xxvii. Husbands and wives, 148, 206, 248,
 
-### 3178
+### 3175
 281,311,350. Heretic, heresy, 1 85, 1 86, 199, 207,2 1 5,
 
-### 3179
+### 3176
 266, 275, 331, 332, 343, 355.
 
-### 3180
+### 3177
 Idols (image), idolatrous, idolatry, 130, 148, 207, 237, 249, 282, 298, 312, 351.
 
-### 3181
+### 3178
 Instruction, giving of, 180, 181, 210^
 
-### 3182
+### 3179
 261, 262, 284, 325, 327, 353. Invocation, 169, 171.
 
-### 3183
+### 3180
 Journey, prayer for, 224.
 
-### 3184
+### 3181
 King, prayer for, 226. Kiss, 150, 176,251,314.
 
-### 3185
+### 3182
 Lagarde, Paul de, ix., xxv., 295,
 
-### 3186
+### 3183
 433. Lamps, at Agapa, 159. Lay people, 136, 151, 161, 210, 243,
 
-### 3187
+### 3184
 251, 258, 283, 304, 314, 322,
 
-### 3188
+### 3185
 352. Leipoldt, Dr, ix., xxxviii. Luaolf, Job, X., xiii., xxxvii., 145, 364.
 
-### 3189
+### 3186
 Magician, etc., 129, 130, 149, 237,
 
-### 3190
+### 3187
 282, 313, 351. Manuscripts, description of, xxxvi.
 
-### 3191
+### 3188
 foil. Margoliouth, Professor, xxxix. Martha and Mary, 137, 243, 305. Milk and honey, 152, 155, 156, 177,
 
-### 3192
+### 3189
 . 253» 255» 256, 319, 32a Mommg prayer, 222.
 
-### 3193
+### 3190
 Mystery (MysteriesX 134. I35, '37, 205, 240, 241, 280, 302, 349. newcomers to, 206, 281, 349. probation for, 209, 283, 352.
 
-### 3194
+### 3191
 Name, the new, 157, 257, 32a
 
-### 3195
+### 3192
 the giving of, 162, 163. New persons (neophytes^ 147, 248, 3".
 
-### 3196
+### 3193
 Oblation (Eucharist, Kiddas, Kuer- ban, Synaxis), 137, 139, 152, 199-201, 243, 245, 252, 275- 277, 286 (Kiddas), 305, 307, 316, 342-345» 355 (Synaxis). at Baptism, 155,2515,319. fasting reception, 180, 261, 326. Occupations, various forbidden, 148, 149, 207, 249, 282, 311, 312,
 
-### 3197
+### 3194
 351. Offerers, prayer for, 227. Oil, xiii., 141.
 
-### 3198
+### 3195
 of baptism, 1531252,317. Orders, distinction and fixity of, 217- 222, 289-293, 358-363.
 
-### 3199
+### 3196
 Pallium (balalin, pallinX 150, 251, 314.
 
-### 3200
+### 3197
 48o
 
-### 3201
+### 3198
 GENERAL INDEX OF SUBJECTS AND WORDS
 
-### 3202
+### 3199
 Papils (Patriarch, Metropolitan,
 
-### 3203
+### 3200
 Bishop), prayer for, 231. Pascha, 179, 185, 260, 265, 325, 331. Peace, prayer for, 230. Pentecost (fifty days), 179, 260, 325. Persecution, 217, 288, 357. Prayer for the bishop, 138. of the oblation, 140. of the oblation of oil, 141. before communion, 141, 142. after communion, 143. for the presbyter, 143. deacon, 145. giving of names, 163. „ bread, water, or oil, 164. over the water, i., 165. „ „ ii., 165.
 
-### 3204
+### 3201
 for the waters of the Jordan, 166. „ chrism, 168, 169, 170, 171. „ catechumens, 171. for laying on of hand, 173, 175. after unction, 174. for the oil of the sick, 176. the three, 176. for the milk, 1 77. after communion, 178. times of, 180, 182, 210, 214, 260, 283, 285, 325, 352, 354. Presbyter, 127, 134, 233, 240, 295, 302. the four and twenty, 134, 240, 302. ordination of, 143, 201, 245, 277,
 
-### 3205
+### 3202
 307, 345-
 
-### 3206
+### 3203
 Rain, prayer for, 224.
 
-### 3207
+### 3204
 Reader, 127, 134, I47» 234, 241 1 248,
 
-### 3208
+### 3205
 295, 303, 309* 345- female, 201, 277.
 
-### 3209
+### 3206
 Red, those clad in, 149, 249, 312
 
-### 3210
+### 3207
 (purple). Renunciation, 153, 253, 317. Resurrection of the body, 156, 256,
 
-### 3211
+### 3208
 320 (flesh). Riedel, Dr, xxxvii.
 
-### 3212
+### 3209
 Sabbath (week, day), xxviiL, xxxii., 138, i5i» 157, 211, 212, 252, 315.
 
-### 3213
+### 3210
 Satan (Eblis, Devil), 153, 185, 19:.
 
-### 3214
+### 3211
 253,265,271,317,331,33*^ Scnptures (the Book), teaching, 13]
 
-### 3215
+### 3212
 239, 301. expound, 133, 240.
 
-### 3216
+### 3213
 interpret, 301.
 
-### 3217
+### 3214
 ddivered to the Reader, 147, 24S Sick, the, 159, 176, 180, 260, 325.
 
-### 3218
+### 3215
 prayer for, 223. Signet-ring (sealX 131, 237, 299. Signing the forehead, 185, 265, 331. Slave (servant), 148, 206, 248, 2S 3", 350.
 
-### 3219
+### 3216
 treatment of, 210, 284, 353. Soldiers (army), 149, 208, 249, 28
 
-### 3220
+### 3217
 312,351. Soothsayer, etc^ 129, 149, 235, 250. Spirit (unclean, alien), 130, 152, 15
 
-### 3221
+### 3218
 181, 236, 252, 261, 298, 31
 
-### 3222
+### 3219
 326. Sponsors, 152, 162, 165, 173, 253, 31 Steindorfi^ Professor, ix. Stoles (phakiarion), xxix., 343. Subdeacon, 147, 180, 199, 201, 248,26 ^ ^^ 275, 309, 325, 342, 343, 345. Subdeaconesses, 201, 277. Sunday (First day, the Lord's day
 
-### 3223
+### 3220
 212, 245, 306.
 
-### 3224
+### 3221
 Tattam, Rev. H., ix., xvii.
 
-### 3225
+### 3222
 Testamentum (edited by Pix^essc Cooper and Mr Maclean viii., xi., xiii., xiv., xviii., xix
 
-### 3226
+### 3223
 XXXVL
 
-### 3227
+### 3224
 Theatre. See Amusement. Trinity, 153,156,254,317.
 
-### 3228
+### 3225
 Virgin, 147, 157, 202, 248, 257, 278 310, 320, 346.
 
-### 3229
+### 3226
 Water of the oblation, 155.
 
-### 3230
+### 3227
 prayer for, 226. Ways (placesX the two, 128, 234
 
-### 3231
+### 3228
 296. Widows, 127, 136, 146^ 161, 234, 242
 
-### 3232
+### 3229
 247, 259, 296, 304 (for revela
 
-### 3233
+### 3230
 tions), 310, 323. Women, ministry of, 137, 244, 305.
 
-### 3234
+### 3231
 PRINTBD BY
 
-### 3235
+### 3232
 NEILL AND COMPANY, LIMITED,
 
-### 3236
+### 3233
 SDINBURGH.
 
-### 3237
+### 3234
 3 2044 038 400 115
 
-### 3238
+### 3235
 v.:.^^^
 
-### 3239
+### 3236
 - .!l I 1900
 
-### 3240
+### 3237
 AUG C 20=5
 
-### 3241
+### 3238
 HORNB), George HiUlan
 
-### 3242
+### 3239
 GSie statutes of tbe apoatlee.
 
-### 3243
+### 3240
 599
 
-### 3244
+### 3241
 £thlpp. 19&lt;Ah
 
-### 3245
+### 3242
 </pre> </div><!--/.container--> </main> </div><!--/#wrap-->
 
-### 3246
+### 3243
 <!-- Timing ... rendered on: www29.us.archive.org seconds diff sec message stack(file:line:function) ========================================================= 0.0000 0.0000 petabox start var/cache/petabox/petabox/www/sf/download.php:1:require |common/ia:66:require_once |setup.php:384:log 0.0052 0.0052 redis_read start var/cache/petabox/petabox/www/sf/download.php:79:main_wrap |download.php:98:main |download.php:308:getItem |common/Item.inc:78:parseMetadata |Item.inc:138:get_obj |Metadata.inc:612:_get_obj |Metadata.inc:641:run_pipeline |Metadata.inc:1688:read |Metadata/AdapterPipeline.inc:288:_read |AdapterPipeline.inc:324:pipeline |AdapterPipeline.inc:466:fetch |AdapterPipeline.inc:895:execute_pipeline |RecordServer.inc:184:log 0.0092 0.0040 redis_read finish var/cache/petabox/petabox/www/sf/download.php:79:main_wrap |download.php:98:main |download.php:308:getItem |common/Item.inc:78:parseMetadata |Item.inc:138:get_obj |Metadata.inc:612:_get_obj |Metadata.inc:641:run_pipeline |Metadata.inc:1688:read |Metadata/AdapterPipeline.inc:288:_read |AdapterPipeline.inc:324:pipeline |AdapterPipeline.inc:466:fetch |AdapterPipeline.inc:895:execute_pipeline |RecordServer.inc:193:log 0.0210 0.0117 begin session_start var/cache/petabox/petabox/www/sf/download.php:79:main_wrap |download.php:98:main |download.php:495:stream |download.php:863:head |common/Nav.inc:155:__construct |Nav.inc:225:session_start |Cookies.inc:50:log 0.0210 0.0000 skipping session_start, user not logged-in var/cache/petabox/petabox/www/sf/download.php:79:main_wrap |download.php:98:main |download.php:495:stream |download.php:863:head |common/Nav.inc:155:__construct |Nav.inc:225:session_start |Cookies.inc:60:log 0.0494 0.0284 bug dump var/cache/petabox/petabox/www/sf/download.php:79:main_wrap |download.php:98:main |download.php:495:stream |download.php:893:footer |common/setup.php:148:footer |Nav.inc:817:dump |Bug.inc:94:log --> <script nonce="ece758f7109e6f066bd50890b15c27ee" > if (typeof archive_analytics !== 'undefined') { archive_analytics.send_pageview_on_load(archive_analytics); archive_analytics.process_url_events(location); var vs = archive_analytics.get_data_packets(); for (var i in vs) { if (!vs[i]) { vs[i] = {}; } vs[i]['cache_bust']=Math.random(); vs[i]['server_ms']=49; vs[i]['server_name']="www29.us.archive.org"; } } </script> <img src="//athena.archive.org/0.gif?kind=track_js&track_js_case=control&cache_bust=1357176001" alt="" /> <noscript> <img src="//athena.archive.org/0.gif?kind=track_js&track_js_case=disabled&cache_bust=1296470636" /> </noscript> <script nonce="ece758f7109e6f066bd50890b15c27ee" > document.addEventListener('DOMContentLoaded', function() { if (typeof archive_analytics !== 'undefined') archive_analytics.create_tracking_image('in_page_executes'); }); </script> </div> </body> </html>

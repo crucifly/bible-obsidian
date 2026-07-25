@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 51
 
-> **Chapter 51**
+**Chapter 51**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 51**
+**CHAPTER 51**
 
 ### 3
 It came to pass, when Jesus had finished saying these words unto his disciples, that he said unto them: "Who is sober among you, let him proclaim their solution."

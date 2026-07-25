@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 141
 
-> **Chapter 141**
+**Chapter 141**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 140**
+**CHAPTER 140**
 
 ### 3
 Of Ariouth the Ethiopian."He continued in the discourse and said: "The second order is called Ariouth the Æthiopian, a female ruler, who is entirely black, under whom stand fourteen other [arch]demons which rule over a multitude of other demons. And it is those demons which stand under Ariouth the Æthiopian, that enter into strife-seekers until they stir up wars and murders arise, and they harden their heart and seduce it to wrath in order that murders may arise.

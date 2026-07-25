@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 31
 
-> **Chapter 31**
+**Chapter 31**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 31**
+**CHAPTER 31**
 
 ### 3
 Sophia taketh the lion-faced power of Self-willed for the true Light."It came to pass then thereafter that she looked below and saw his light-power in the parts below; and she knew not that it is that of the triple-powered Self-willed, but she thought that it came out of the light which she had seen from the beginning in the height, which came out of the veil of the Treasury of the Light. And she thought to herself: I will go into that region without my pair and take the light and thereout fashion for myself light-æons, so that I may go to the Light of lights, which is in the Height of heights.

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 48
 
-> **Chapter 48**
+**Chapter 48**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 48**
+**CHAPTER 48**
 
 ### 3
 The emanations of Self-willed cease for a time to oppress Sophia.When then Jesus had said this unto his disciples, he answered again and said unto them: "It came to pass then, when the lion-faced power had noticed that Pistis Sophia had not been led up altogether out of the chaos, that it came again with all the other material emanations of Self-willed, and they oppressed Pistis Sophia again. It came to pass then, when they oppressed her, that she cried out in the same repentance, saying:

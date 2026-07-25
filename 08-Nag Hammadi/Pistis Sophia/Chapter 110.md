@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 110
 
-> **Chapter 110**
+**Chapter 110**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 109**
+**CHAPTER 109**
 
 ### 3
 Mary continueth her questioning.And Mary answered and said: "Now, therefore, my Lord, hast thou then not brought mysteries into the world that man may not die through the death which is appointed him by the rulers of the Fate,--be it that it is appointed one to die by the sword or die by the waters or through tortures and torturings and acts of violence which are in the law, or through any other evil death,--hast thou then not brought mysteries into the world that man may not die with them through the rulers of the Fate, but that he may die by a sudden death, so that he endure no sufferings through such kinds of death? For they are exceedingly numerous who persecute us because of thee, and numerous those who persecute us because of thy name, in order that, if they torture us, we may speak the mystery and straightway go out of the body without having endured any sufferings at all."

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 32
 
-> **Chapter 32**
+**Chapter 32**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 32**
+**CHAPTER 32**
 
 ### 3
 "And Pistis Sophia cried out most exceedingly, she cried to the Light of lights which she had seen from the beginning, in which she had had faith, and uttered this repentance, saying thus:

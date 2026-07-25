@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 97
 
-> **Chapter 97**
+**Chapter 97**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 96**
+**CHAPTER 96**
 
 ### 3
 Jesus promiseth to explain further all in detail."Of all these then will I speak unto you at the expansion of the universe--in a word, all those whom I have spoken of unto you: those who will arise and those who will come, those who emanate, and those who come forth, and those who are without over them, and those who are implanted in them, those who will contain the region of the First Mystery and those who are in the space of the Ineffable--of these will I speak unto you, because I will reveal them unto you, and I will speak of them unto you according to every region and according to every order, at the expansion of the universe. And I will reveal unto you all their mysteries which rule over them all, and their Pro-thrice-spirituals and their Super-thrice-spirituals which rule over their mysteries and their orders.

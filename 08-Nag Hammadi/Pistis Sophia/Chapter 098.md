@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 98
 
-> **Chapter 98**
+**Chapter 98**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 97**
+**CHAPTER 97**
 
 ### 3
 When then the Saviour had said this, Mary Magdalene started forward and said: "My Lord, bear with me and be not wroth with me, if I question on all things with precision and certainty. Now, therefore, my Lord, is then another the word of the mystery of the Ineffable and another the word of the whole gnosis?"

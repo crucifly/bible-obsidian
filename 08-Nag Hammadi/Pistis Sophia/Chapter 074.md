@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 74
 
-> **Chapter 74**
+**Chapter 74**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 73**
+**CHAPTER 73**
 
 ### 3
 And when Mary had said this, the First Mystery said unto her, "Well said, finely, Mary, blessed one."

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 54
 
-> **Chapter 54**
+**Chapter 54**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 54**
+**CHAPTER 54**
 
 ### 3
 Jesus continued again in the discourse and said unto his disciples: "It came to pass then, when this lion-faced power saw me, how I drew nigh unto Pistis Sophia, shining very exceedingly, that it grew still more furious and emanated from itself a multitude of exceedingly violent emanations. When this then befell, Pistis Sophia uttered the eleventh repentance, saying:

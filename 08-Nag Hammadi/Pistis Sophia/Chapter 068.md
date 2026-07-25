@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 68
 
-> **Chapter 68**
+**Chapter 68**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 67**
+**CHAPTER 67**
 
 ### 3
 And when the First Mystery said this unto his disciples, he answered and said: "Understand ye in what manner I discourse with you?"

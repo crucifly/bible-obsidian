@@ -5,7 +5,7 @@ canon: "Ethiopic Apocrypha"
 ---
 # 1 Enoch 30
 
-### 0
+### 1
 1 .And beyond these, I went afar to the east, and I saw another place, a valley (full) of water.
 
 ### 2

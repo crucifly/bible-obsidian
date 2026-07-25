@@ -5,7 +5,7 @@ canon: "Ethiopic Apocrypha"
 ---
 # 1 Enoch 76
 
-### 0
+### 1
 1 And at the ends of the earth I saw twelve portals open to all the quarters (of the heaven), from which the winds go forth and blow over the earth.
 
 ### 2
@@ -41,5 +41,5 @@ And from the middle portal come in a direct direction health and rain and dew an
 ### 12
 And after these [four] are the west winds: through the first portal adjoining the north come forth dew and hoar-frost, and cold and snow and frost. And from the middle portal come forth dew and rain, and prosperity and blessing; and through the last portal which adjoins the south come forth drought and desolation, and burning and destruction.
 
-### 14
+### 13
 And the twelve portals of the four quarters of the heaven are therewith completed, and all their laws and all their plagues and all their benefactions have I shown to thee, my son Methuselah.

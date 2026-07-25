@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 77
 
-> **Chapter 77**
+**Chapter 77**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 76**
+**CHAPTER 76**
 
 ### 3
 "And thereafter I said again unto her: 'Hearken that I may speak with thee about their time, when this which I have said unto thee, will come to pass. It will come to pass when [the] three times are completed.'

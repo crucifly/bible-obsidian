@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 100
 
-> **Chapter 100**
+**Chapter 100**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 99**
+**CHAPTER 99**
 
 ### 3
 It came to pass, when Jesus had finished speaking these words unto his disciples, that Mary Magdalene came forward and said: "My Lord, how many years of the years of the world is a year of the Light?"

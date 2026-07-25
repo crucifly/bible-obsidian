@@ -332,12 +332,3 @@ have acted according to our birth of the flesh, in the creation of the archons, 
 
 ### 109
 gives law. We also have come to be in the unchangeable aeon.
-
-### 110
-The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.
-
-### 111
-E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.
-
-### 112
-For academic citation, please refer to published editions of this text.

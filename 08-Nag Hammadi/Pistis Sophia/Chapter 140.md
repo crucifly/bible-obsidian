@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 140
 
-> **Chapter 140**
+**Chapter 140**
 
 ### 1
 Pistis Sophia
@@ -23,7 +23,7 @@ Buy
 ### 4
 this Book at Amazon.com
 
-> **CHAPTER 139**
+**CHAPTER 139**
 
 ### 5
 Jesus continued in the discourse and said: "It came to pass then thereafter,

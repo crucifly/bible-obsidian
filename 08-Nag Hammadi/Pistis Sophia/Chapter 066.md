@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 66
 
-> **Chapter 66**
+**Chapter 66**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 65**
+**CHAPTER 65**
 
 ### 3
 Peter came forward and said: "My Lord, concerning the solution of the words which thou hast spoken, thus hath thy light-power prophesied aforetime through Solomon in his Odes:

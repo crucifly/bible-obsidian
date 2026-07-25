@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 19
 
-> **Chapter 19**
+**Chapter 19**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 19**
+**CHAPTER 19**
 
 ### 3
 It came to pass then, when Mary had finished saying these words, that he said: "Well said, Mary, for thou art blessed before all women on the earth, because thou shalt be the fulness of all fulnesses and the perfection of all perfections."

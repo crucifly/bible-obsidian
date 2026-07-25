@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 72
 
-> **Chapter 72**
+**Chapter 72**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 71**
+**CHAPTER 71**
 
 ### 3
 It came to pass then, when the First Mystery had finished saying these words, that Matthew came forward and said: "I have understood the solution of the song which Pistis Sophia hath uttered. Now, therefore, give commandment unto me, that I speak it in openness."

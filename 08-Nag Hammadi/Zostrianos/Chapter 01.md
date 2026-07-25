@@ -1601,12 +1601,3 @@ Flee quickly before death reaches you. Look at the Light. Flee
 
 ### 532
 the Darkness. Do not be led astray to your destruction.
-
-### 533
-The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.
-
-### 534
-E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.
-
-### 535
-For academic citation, please refer to published editions of this text.

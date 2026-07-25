@@ -8,7 +8,7 @@ title: "Book of Jasher - Chapter 76"
 
 # Book of Jasher - Chapter 76
 
-> **Chapter 76**
+**Chapter 76**
 
 ### 1
 (RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
@@ -160,86 +160,86 @@ Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 76
 ### 50
 47And they placed him in his bed, and the king knew that his end was come to die, so Aparanith the queen his wife came and cried before the king, and the king wept a great weeping with her.
 
-### 48
+### 51
 And all his nobles and servants came on that day and saw the king in that affliction, and wept a great weeping with him.
 
-### 49
+### 52
 49And the princes of the king and all his counselors advised the king to cause one to reign in his stead in the land, whomsoever he should choose from his sons.
 
-### 50
+### 53
 50And the king had three sons and two daughters which Aparanith the queen his wife had borne to him, besides the king's children of concubines.
 
-### 51
+### 54
 51And these were their names, the firstborn Othri, the second Adikam, and the third Morion, and their sisters, the name of the elder Bathia and of the other Acuzi.
 
-### 52
+### 55
 52And Othri the first born of the king was an idiot, precipitate and hurried in his words.
 
-### 53
+### 56
 53But Adikam was a cunning and wise man and knowing in all the wisdom of Egypt, but of unseemly aspect, thick in flesh, and very short in stature; his height was one cubit.
 
-### 54
+### 57
 54And when the king saw Adikam his son intelligent and wise in all things, the king resolved that he should be king in his stead after his death.
 
-### 55
+### 58
 And he took for him a wife Gedudah daughter of Abilot, and he was ten years old, and she bare unto him four sons.
 
-### 56
+### 59
 56And he afterward went and took three wives and begat eight sons and three daughters.
 
-### 57
+### 60
 57And the disorder greatly prevailed over the king, and his flesh stank like the flesh of a carcass cast upon the field in summer time, during the heat of the sun.
 
-### 58
+### 61
 58And when the king saw that his sickness had greatly strengthened itself over him, he ordered his son Adikam to be brought to him, and they made him king over the land in his place.
 
-### 59
+### 62
 59And at the end of three years, the king died, in shame, disgrace, and disgust, and his servants carried him and buried him in the sepulcher of the kings of Egypt in Zoan Mizraim.
 
-### 60
+### 63
 60But they embalmed him not as was usual with kings, for his flesh was putrid, and they could not approach to embalm him on account of the stench, so they buried him in haste.
 
-### 61
+### 64
 61For this evil was from the Lord to him, for the Lord had requited him evil for the evil which in his days he had done to Israel.
 
-### 62
+### 65
 62And he died with terror and with shame, and his son Adikam reigned in his place.
 
-### 63
+### 66
 Retrieved from "https://en.wikisource.org/w/index.php?title=Sefer_Ha-yashar,_or,_the_Book_of_Jasher_(1840)/Chapter_76&oldid=11446106"
 
-### 64
+### 67
 Hidden categories: SubpagesHeaders applying DefaultSort key
 
-### 65
+### 68
 This page was last edited on 30 June 2021, at 02:16.
 
-### 66
+### 69
 Text is available under the Creative Commons Attribution-ShareAlike License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy.
 
-### 67
+### 70
 Privacy policy
 
-### 68
+### 71
 Disclaimers
 
-### 69
+### 72
 Code of Conduct
 
-### 70
+### 73
 Developers
 
-### 71
+### 74
 Statistics
 
-### 72
+### 75
 Cookie statement
 
-### 73
+### 76
 Mobile view
 
-### 74
+### 77
 Sefer Ha-yashar, or, the Book of Jasher (1840)/Chapter 76
 
-### 75
+### 78
 Add topic

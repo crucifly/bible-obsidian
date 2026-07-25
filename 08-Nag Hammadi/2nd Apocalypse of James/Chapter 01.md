@@ -410,12 +410,3 @@ O Holy Spirit, send me salvation [...] the light [...]
 
 ### 135
 "After he spoke, he fell silent [...] word [...] afterward [...] the discourse
-
-### 136
-The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.
-
-### 137
-E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.
-
-### 138
-For academic citation, please refer to published editions of this text.

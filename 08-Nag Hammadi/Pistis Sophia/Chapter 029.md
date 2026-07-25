@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 29
 
-> **Chapter 29**
+**Chapter 29**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 29**
+**CHAPTER 29**
 
 ### 3
 Jesus entereth the thirteenth æon and findeth Pistis Sophia."It came to pass then thereafter that I ascended to the veils of the thirteenth æon. It came to pass then, when I had arrived at their veils, that they drew apart of their own accord and opened themselves for me. I entered in into the thirteenth æon and found Pistis Sophia below the thirteenth æon all alone and no one of them with her. And she sat in that region grieving and mourning, because she had not been admitted into the thirteenth æon, her higher region. And she was moreover grieving because of the torments which Self-willed, who is one of the three triple-powers, had inflicted on her. But this,--when I shall come to speak with you respecting their expansion, I will tell you the mystery, how this befell her.

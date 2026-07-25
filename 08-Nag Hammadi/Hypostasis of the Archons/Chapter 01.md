@@ -578,12 +578,3 @@ and the father of the entirety and the holy spirit. They will all say with a sin
 
 ### 191
 everyone unto the ages of ages, "Holy – holy – holy! Amen!'"
-
-### 192
-The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.
-
-### 193
-E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.
-
-### 194
-For academic citation, please refer to published editions of this text.

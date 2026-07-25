@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 10
 
-> **Chapter 10**
+**Chapter 10**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 10**
+**CHAPTER 10**
 
 ### 3
 The mystery of the five words on the vesture."It came to pass then, when the sun had risen in the east, that a great light-power came down, in which was my Vesture, which I had left behind in the four-and-twentieth mystery, as I have said unto you. And I found a mystery in my Vesture, written in five words of those from the height: zama zama ōzza rachama ōzai,--whose solution is this:

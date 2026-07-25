@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 129
 
-> **Chapter 129**
+**Chapter 129**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 127**
+**CHAPTER 127**
 
 ### 3
 When the Saviour had said this, Mary Magdalene answered and said: "My Lord, will then the souls which shall be led into that region, be led through these twelve doors of the dungeons, every one according to the judgment of which it is deserving?"

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 26
 
-> **Chapter 26**
+**Chapter 26**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 26**
+**CHAPTER 26**
 
 ### 3
 "This then they accomplished continuously before their power was diminished in them and they waned and became exhausted, or powerless. It came to pass then, when they became powerless, that their power began to cease in them, so that they became exhausted in their power, and their light, which was in their region, ceased and their kingdom was destroyed, and the universe became quickly raised up.

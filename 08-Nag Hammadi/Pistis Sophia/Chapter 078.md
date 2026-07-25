@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 78
 
-> **Chapter 78**
+**Chapter 78**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 77**
+**CHAPTER 77**
 
 ### 3
 "It came to pass then, when that time came on,--and I was in the world of men, sitting with you in this region, which is the Mount of Olives,--that Adamas looked down out of the twelve æons and looked down at the regions of the chaos and saw his demon power which is in the chaos, that no light at all was in it, because I had taken its light from it; and he saw it, that it was dark andAdamas sendeth forth two emanations of darkness to plague Sophia. could not go to his region, that is to the twelve moons. Thereon Adamas again remembered Pistis Sophia and became most exceedingly wroth against her, thinking that it was she who had imprisoned his power in the chaos, and thinking that it was she who had taken its light from it. And he was exceedingly embittered; he piled wrath on wrath and emanated out of himself a dark emanation and another, chaotic and evil, the violent [one], so as through them to harass Pistis Sophia. And he made a dark region in his region, so as to constrain Sophia therein. And he took many of his rulers; they pursued after Sophia, in order that the two dark emanations which Adamas had emanated, might lead her into the dark chaos which he had made, and constrain her in that region and harass her, until they should take her whole light from her, and Adamas should take the light from Pistis Sophia and give it to the two dark violent emanations, and they should carry it to the great chaos which is below and dark, and cast it into his dark power which is chaotic, if perchance it might be able to come to his

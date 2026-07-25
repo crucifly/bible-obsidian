@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 11
 
-> **Chapter 11**
+**Chapter 11**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 11**
+**CHAPTER 11**
 
 ### 3
 Jesus putteth on his vesture."It came to pass then, when I saw the mystery of all these words in the vesture which was sent me, that straightway I clothed myself therewith, and I shone most exceedingly and soared into the height.

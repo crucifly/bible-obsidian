@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 91
 
-> **Chapter 91**
+**Chapter 91**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 90**
+**CHAPTER 90**
 
 ### 3
 Mary again questioneth Jesus.It came to pass then, when Jesus had finished saying these words unto his disciples, that Mary Magdalene came forward again, continued and said unto Jesus: "My Lord, in what type will

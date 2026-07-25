@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 80
 
-> **Chapter 80**
+**Chapter 80**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 79**
+**CHAPTER 79**
 
 ### 3
 And the First Mystery continued again and said unto the disciples: "It came to pass then, when Pistis Sophia had finished uttering the words of this song, that she turned herself back

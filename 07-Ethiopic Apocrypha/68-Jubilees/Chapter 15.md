@@ -71,54 +71,52 @@ And I will bless her, and give thee a son by her, and I will bless him, and he s
 ### 22
 And Abraham fell on his face, and rejoiced, and said in his heart: 'Shall a son be born to him that is a hundred years old, and shall Sarah, who is ninety years old, bring forth?'
 
-
-
 # And Abraham said unto God: 'O that Ishmael might live before thee!'
 
-### 24
+### 23
 And God said: 'Yea, and Sarah also shall bear thee a son, and thou shalt call his name Isaac, and I will establish My covenant with him, an everlasting covenant, and for his seed after him.
 
-### 25
+### 24
 And as for Ishmael also have I heard thee, and behold I will bless him, and make him great, and multiply him exceedingly, and he shall beget twelve princes, and I will make him a great nation.
 
-### 26
+### 25
 But My covenant will I establish with Isaac, whom Sarah shall bear to thee, in these days, in the next year.'
 
-### 27
+### 26
 And He left off speaking with him, and God went up from Abraham.
 
-### 28
+### 27
 And Abraham did according as God had said unto him, and he took Ishmael his son, and all that were born in his house, and whom he had bought with his money, every male in his house, and circumcised the flesh of their foreskin.
 
-### 29
+### 28
 And on the selfsame day was Abraham circumcised, and all the men of his house, <and those born in the house>, and all those, whom he had bought with money from the children of the stranger, were circumcised with him.
 
-### 30
+### 29
 This law is for all the generations for ever, and there is no circumcision of the days, and no omission of one day out of the eight days; for it is an eternal ordinance, ordained and written on the heavenly tablets.
 
-### 31
+### 30
 And every one that is born, the flesh of whose foreskin is not circumcised on the eighth day, belongs not to the children of the covenant which the Lord made with Abraham, but to the children of destruction; nor is there, moreover, any sign on him that he is the Lord's, but (he is destined) to be destroyed and slain from the earth, and to be rooted out of the earth, for he has broken the covenant of the Lord our God.
 
-### 32
+### 31
 For all the angels of the presence and all the angels of sanctification have been so created from the day of their creation, and before the angels of the presence and the angels of sanctification He hath sanctified Israel, that they should be with Him and with His holy angels.
 
-### 33
+### 32
 And do thou command the children of Israel and let them observe the sign of this covenant for their generations as an eternal ordinance, and they will not be rooted out of the land.
 
-### 34
+### 33
 For the command is ordained for a covenant, that they should observe it for ever among all the children of Israel.
 
-### 35
+### 34
 For Ishmael and his sons and his brothers and Esau, the Lord did not cause to approach Him, and he chose them not because they are the children of Abraham, because He knew them, but He chose Israel to be His people.
 
-### 36
+### 35
 And He sanctified it, and gathered it from amongst all the children of men; for there are many nations and many peoples, and all are His, and over all hath He placed spirits in authority to lead them astray from Him.
 
-### 37
+### 36
 But over Israel He did not appoint any angel or spirit, for He alone is their ruler, and He will preserve them and require them at the hand of His angels and His spirits, and at the hand of all His powers in order that He may preserve them and bless them, and that they may be His and He may be theirs from henceforth for ever.
 
-### 38
+### 37
 And now I announce unto thee that the children of Israel will not keep true to this ordinance, and they will not circumcise their sons according to all this law; for in the flesh of their circumcision they will omit this circumcision of their sons, and all of them, sons of Beliar, will leave their sons uncircumcised as they were born.
 
-### 39
+### 38
 And there will be great wrath from the Lord against the children of Israel. because they have forsaken His covenant and turned aside from His word, and provoked and blasphemed, inasmuch as they do not observe the ordinance of this law; for they have treated their members like the Gentiles, so that they may be removed and rooted out of the land. And there will no more be pardon or forgiveness unto them [so that there should be forgiveness and pardon] for all the sin of this eternal error.

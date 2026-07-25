@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 6
 
-> **Chapter 6**
+**Chapter 6**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 6**
+**CHAPTER 6**
 
 ### 3
 It came to pass then, when the disciples had heard this word, that they said: "Lord, if it be thou, withdraw thy light-glory into thyself that we may be able to stand; otherwise our eyes are darkened, and we are agitated, and the whole world also is in agitation because of the great light which is about thee."

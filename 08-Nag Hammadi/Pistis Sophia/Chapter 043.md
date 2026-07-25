@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 43
 
-> **Chapter 43**
+**Chapter 43**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 43**
+**CHAPTER 43**
 
 ### 3
 When then Jesus had said this, he said unto his disciples: "Who hath ears to hear, let him hear." Mary interpreteth the words of Jesus concerning the three witnesses.Mary started forward again, stepped into the midst, placed herself by Philip and said unto Jesus: "My Lord, my in-dweller of light hath ears, and I am ready to hear with my power, and I have understood the word which thou hast spoken. Now, therefore, my Lord, hearken that I may discourse in openness, thou who hast

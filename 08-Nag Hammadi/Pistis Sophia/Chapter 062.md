@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 62
 
-> **Chapter 62**
+**Chapter 62**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 62**
+**CHAPTER 62**
 
 ### 3
 The other Mary came forward and said: "My Lord, bear with me and be not wroth with me. Yea, from the moment when thy mother spake with thee concerning the solution of these words, my power disquieted me to come forward and like-wise to speak the solution of these words."

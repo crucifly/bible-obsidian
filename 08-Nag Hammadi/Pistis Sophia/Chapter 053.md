@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 53
 
-> **Chapter 53**
+**Chapter 53**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 53**
+**CHAPTER 53**
 
 ### 3
 When then Jesus had said this unto his disciples, he said unto them: "Now, therefore, let him whom his spirit stirreth, come forward and speak the solution of the tenth repentance of Pistis Sophia."

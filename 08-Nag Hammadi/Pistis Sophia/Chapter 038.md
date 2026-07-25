@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 38
 
-> **Chapter 38**
+**Chapter 38**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 38**
+**CHAPTER 38**
 
 ### 3
 And it came to pass, when Jesus had finished speaking these words unto his disciples, saying: "This is the third repentance of Pistis Sophia," that he said unto them: "Let him in whom a sensitive spirit hath arisen, come forward and speak the thought of the repentance which Pistis Sophia hath uttered."

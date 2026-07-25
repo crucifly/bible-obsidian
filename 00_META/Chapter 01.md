@@ -4,33 +4,31 @@ chapter: 1
 canon: "Unknown"
 ---
 
-# 00_META
-
 ### Divine_Manifesto
 
 # The Divine Source of Truth (MANIFESTO)
 
-### 2
+### 1
 **Primary Objective:** Maintain a sterile, canonical representation of the Ethiopian 81-book canon and authorized translations.
 
 ### Logical Constraints:
 
-### 4
+### 2
 - **No Interpretation:** Files must contain zero commentary, sermon notes, or personal opinions.
 
-### 5
+### 3
 - **Schema Adherence:** Every file must pass the `00_Schema.md` validation.
 
-### 6
+### 4
 - **Reference Integrity:** All cross-references must point only to other files within this directory.
 
 ### Current Roadmap:
 
-### 1
+### 5
 Initializing 1 Enoch (Small-batch validation).
 
-### 2
+### 6
 Developing TypeScript JSONL Forge script.
 
-### 3
+### 7
 Fine-tuning Gemma 4 E4B.

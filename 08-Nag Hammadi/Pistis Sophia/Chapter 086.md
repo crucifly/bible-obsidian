@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 86
 
-> **Chapter 86**
+**Chapter 86**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 85**
+**CHAPTER 85**
 
 ### 3
 It came to pass then, when Jesus had finished speaking these words unto his disciples, that Mary Magdalene started forward and said: "My Lord, be not wroth with me if I question thee, because we question thee concerning all with precision."

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 18
 
-> **Chapter 18**
+**Chapter 18**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 18**
+**CHAPTER 18**
 
 ### 3
 Then said Mary to the Saviour: "My Lord, the word which thou hast spoken unto us: 'Who hath ears to hear, let him hear,' thou sayest in order that we may understand the word which thou hast spoken. Hearken, therefore, my Lord, that I may discourse in openness.

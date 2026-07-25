@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 123
 
-> **Chapter 123**
+**Chapter 123**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 122**
+**CHAPTER 122**
 
 ### 3
 Jesus trieth Peter.Thereafter Jesus saw a woman who came to make repentance. He had baptized her three times, and yet she had not done what was worthy of the baptisms. And the Saviour desired to try Peter, to see if he was compassionate and forgiving, as he had commanded them. He said unto Peter: "Lo, three times have I baptized this soul, and yet at this third time she hath not done what is worthy of the mysteries of the Light. Wherefor then cloth she make her body good for nothing? Now, therefore, Peter, perform the mystery which cutteth off the souls from the inheritances of the Light; perform that mystery in order that it may cut off the soul of this woman from the Inheritance of the Light."

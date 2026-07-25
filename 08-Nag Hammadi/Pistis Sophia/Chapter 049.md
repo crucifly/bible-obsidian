@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 49
 
-> **Chapter 49**
+**Chapter 49**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 49**
+**CHAPTER 49**
 
 ### 3
 And when Jesus had spoken this, Matthew came forward and said: "My Lord, thy spirit hath stirred me and thy light hath made me sober to proclaim this eighth repentance of Pistis Sophia. For thy power hath prophesied thereof aforetime through David in the thirtieth Psalm, saying:

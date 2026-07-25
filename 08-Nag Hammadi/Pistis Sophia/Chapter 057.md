@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 57
 
-> **Chapter 57**
+**Chapter 57**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 57**
+**CHAPTER 57**
 
 ### 3
 And Jesus continued again in the discourse and said unto his disciples: "It came to pass

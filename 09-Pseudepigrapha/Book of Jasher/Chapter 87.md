@@ -8,7 +8,7 @@ title: "Book of Jasher - Chapter 87"
 
 # Book of Jasher - Chapter 87
 
-> **Chapter 87**
+**Chapter 87**
 
 ### 1
 (RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});

@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 135
 
-> **Chapter 135**
+**Chapter 135**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 134**
+**CHAPTER 134**
 
 ### 3
 When then Jesus had said this, Mary answered and said: "My Lord, if men go to seek and they come upon the doctrines of error, I whence then are they to know whether they belong to thee or not?"

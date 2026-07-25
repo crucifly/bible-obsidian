@@ -6,1478 +6,700 @@ canon: "Nag-Hammadi"
 
 # Thunder, Perfect Mind
 
-
-
-
-
-
-
-
-
-
-### 10
-_
-
-
-### 12
-[![The Nag Hammadi Library, edited by James Robinson (Click to buy the book)](../images/Bookstore/naghammadi.gif)](../bookstore1.htm)
-
-
-
 ### The Thunder, Perfect Mind
 
+### 1
+I was sent forth from the power,
 
+### 2
+and I have come to those who reflect upon me,
+
+### 3
+and I have been found among those who seek after me.
+
+### 4
+Look upon me, you who reflect upon me,
+
+### 5
+and you hearers, hear me.
+
+### 6
+You who are waiting for me, take me to yourselves.
+
+### 7
+And do not banish me from your sight.
+
+### 8
+And do not make your voice hate me, nor your hearing.
+
+### 9
+Do not be ignorant of me anywhere or any time. Be on your guard!
+
+### 10
+Do not be ignorant of me.
+
+### 11
+For I am the first and the last.
+
+### 12
+I am the honored one and the scorned one.
+
+### 13
+I am the whore and the holy one.
+
+### 14
+I am the wife and the virgin.
+
+### 15
+I am <the mother> and the daughter.
+
+### 16
+I am the members of my mother.
+
+### 17
+I am the barren one
 
 ### 18
-> > I was sent forth from the power,
+and many are her sons.
 
 ### 19
-> >
+I am she whose wedding is great,
 
 ### 20
-> > and I have come to those who reflect upon me,
+and I have not taken a husband.
 
 ### 21
-> >
+I am the midwife and she who does not bear.
 
 ### 22
-> > and I have been found among those who seek after me.
+I am the solace of my labor pains.
 
 ### 23
-> >
+I am the bride and the bridegroom,
 
 ### 24
-> > Look upon me, you who reflect upon me,
+and it is my husband who begot me.
 
 ### 25
-> >
+I am the mother of my father
 
 ### 26
-> > and you hearers, hear me.
+and the sister of my husband
 
 ### 27
-> >
+and he is my offspring.
 
 ### 28
-> > You who are waiting for me, take me to yourselves.
+I am the slave of him who prepared me.
 
 ### 29
-> >
+I am the ruler of my offspring.
 
 ### 30
-> > And do not banish me from your sight.
+But he is the one who begot me before the time on a birthday.
 
 ### 31
-> >
+And he is my offspring in (due) time,
 
 ### 32
-> > And do not make your voice hate me, nor your hearing.
+and my power is from him.
 
 ### 33
-> >
+I am the staff of his power in his youth,
 
 ### 34
-> > Do not be ignorant of me anywhere or any time. Be on your guard!
+and he is the rod of my old age.
 
 ### 35
-> >
+And whatever he wills happens to me.
 
 ### 36
-> > Do not be ignorant of me.
+I am the silence that is incomprehensible
 
 ### 37
-> >
+and the idea whose remembrance is frequent.
 
 ### 38
-> >
+I am the voice whose sound is manifold
 
 ### 39
-> > For I am the first and the last.
+and the word whose appearance is multiple.
 
 ### 40
-> >
+I am the utterance of my name.
 
 ### 41
-> > I am the honored one and the scorned one.
+Why, you who hate me, do you love me,
 
 ### 42
-> >
+and hate those who love me?
 
 ### 43
-> > I am the whore and the holy one.
+You who deny me, confess me,
 
 ### 44
-> >
+and you who confess me, deny me.
 
 ### 45
-> > I am the wife and the virgin.
+You who tell the truth about me, lie about me,
 
 ### 46
-> >
+and you who have lied about me, tell the truth about me.
 
 ### 47
-> > I am <the mother> and the daughter.
+You who know me, be ignorant of me,
 
 ### 48
-> >
+and those who have not known me, let them know me.
 
 ### 49
-> > I am the members of my mother.
+For I am knowledge and ignorance.
 
 ### 50
-> >
+I am shame and boldness.
 
 ### 51
-> > I am the barren one
+I am shameless; I am ashamed.
 
 ### 52
-> >
+I am strength and I am fear.
 
 ### 53
-> > and many are her sons.
+I am war and peace.
 
 ### 54
-> >
+Give heed to me.
 
 ### 55
-> > I am she whose wedding is great,
+I am the one who is disgraced and the great one.
 
 ### 56
-> >
+Give heed to my poverty and my wealth.
 
 ### 57
-> > and I have not taken a husband.
+Do not be arrogant to me when I am cast out upon the earth,
 
 ### 58
-> >
+and you will find me in those that are to come.
 
 ### 59
-> > I am the midwife and she who does not bear.
+And do not look upon me on the dung-heap
 
 ### 60
-> >
+nor go and leave me cast out,
 
 ### 61
-> > I am the solace of my labor pains.
+and you will find me in the kingdoms.
 
 ### 62
-> >
+And do not look upon me when I am cast out among those who
 
 ### 63
-> > I am the bride and the bridegroom,
+are disgraced and in the least places,
 
 ### 64
-> >
+nor laugh at me.
 
 ### 65
-> > and it is my husband who begot me.
+And do not cast me out among those who are slain in violence.
 
 ### 66
-> >
+But I, I am compassionate and I am cruel.
 
 ### 67
-> > I am the mother of my father
+Be on your guard!
 
 ### 68
-> >
+Do not hate my obedience
 
 ### 69
-> > and the sister of my husband
+and do not love my self-control.
 
 ### 70
-> >
+In my weakness, do not forsake me,
 
 ### 71
-> > and he is my offspring.
+and do not be afraid of my power.
 
 ### 72
-> >
+For why do you despise my fear
 
 ### 73
-> > I am the slave of him who prepared me.
+and curse my pride?
 
 ### 74
-> >
+But I am she who exists in all fears
 
 ### 75
-> > I am the ruler of my offspring.
+and strength in trembling.
 
 ### 76
-> >
+I am she who is weak,
 
 ### 77
-> > But he is the one who begot me before the time on a birthday.
+and I am well in a pleasant place.
 
 ### 78
-> >
+I am senseless and I am wise.
 
 ### 79
-> > And he is my offspring in (due) time,
+Why have you hated me in your counsels?
 
 ### 80
-> >
+For I shall be silent among those who are silent,
 
 ### 81
-> > and my power is from him.
+and I shall appear and speak,
 
 ### 82
-> >
+Why then have you hated me, you Greeks?
 
 ### 83
-> > I am the staff of his power in his youth,
+Because I am a barbarian among the barbarians?
 
 ### 84
-> >
+For I am the wisdom of the Greeks
 
 ### 85
-> > and he is the rod of my old age.
+and the knowledge of the barbarians.
 
 ### 86
-> >
+I am the judgement of the Greeks and of the barbarians.
 
 ### 87
-> > And whatever he wills happens to me.
+I am the one whose image is great in Egypt
 
 ### 88
-> >
+and the one who has no image among the barbarians.
 
 ### 89
-> > I am the silence that is incomprehensible
+I am the one who has been hated everywhere
 
 ### 90
-> >
+and who has been loved everywhere.
 
 ### 91
-> > and the idea whose remembrance is frequent.
+I am the one whom they call Life,
 
 ### 92
-> >
+and you have called Death.
 
 ### 93
-> > I am the voice whose sound is manifold
+I am the one whom they call Law,
 
 ### 94
-> >
+and you have called Lawlessness.
 
 ### 95
-> > and the word whose appearance is multiple.
+I am the one whom you have pursued,
 
 ### 96
-> >
+and I am the one whom you have seized.
 
 ### 97
-> > I am the utterance of my name.
+I am the one whom you have scattered,
 
 ### 98
-> >
+and you have gathered me together.
 
 ### 99
-> >
+I am the one before whom you have been ashamed,
 
 ### 100
-> > Why, you who hate me, do you love me,
+and you have been shameless to me.
 
 ### 101
-> >
+I am she who does not keep festival,
 
 ### 102
-> > and hate those who love me?
+and I am she whose festivals are many.
 
 ### 103
-> >
+I, I am godless,
 
 ### 104
-> > You who deny me, confess me,
+and I am the one whose God is great.
 
 ### 105
-> >
+I am the one whom you have reflected upon,
 
 ### 106
-> > and you who confess me, deny me.
+and you have scorned me.
 
 ### 107
-> >
+I am unlearned,
 
 ### 108
-> > You who tell the truth about me, lie about me,
+and they learn from me.
 
 ### 109
-> >
+I am the one that you have despised,
 
 ### 110
-> > and you who have lied about me, tell the truth about me.
+and you reflect upon me.
 
 ### 111
-> >
+I am the one whom you have hidden from,
 
 ### 112
-> > You who know me, be ignorant of me,
+and you appear to me.
 
 ### 113
-> >
+But whenever you hide yourselves,
 
 ### 114
-> > and those who have not known me, let them know me.
+I myself will appear.
 
 ### 115
-> >
+For whenever you appear,
 
 ### 116
-> >
+I myself will hide from you.
 
 ### 117
-> > For I am knowledge and ignorance.
+Those who have \[...\] to it \[...\] senselessly \[...\].
 
 ### 118
-> >
+Take me \[... understanding\] from grief.
 
 ### 119
-> > I am shame and boldness.
+and take me to yourselves from understanding and grief.
 
 ### 120
-> >
+And take me to yourselves from places that are ugly and in ruin,
 
 ### 121
-> > I am shameless; I am ashamed.
+and rob from those which are good even though in ugliness.
 
 ### 122
-> >
+Out of shame, take me to yourselves shamelessly;
 
 ### 123
-> > I am strength and I am fear.
+and out of shamelessness and shame,
 
 ### 124
-> >
+upbraid my members in yourselves.
 
 ### 125
-> > I am war and peace.
+And come forward to me, you who know me
 
 ### 126
-> >
+and you who know my members,
 
 ### 127
-> > Give heed to me.
+and establish the great ones among the small first creatures.
 
 ### 128
-> >
+Come forward to childhood,
 
 ### 129
-> >
+and do not despise it because it is small and it is little.
 
 ### 130
-> > I am the one who is disgraced and the great one.
+And do not turn away greatnesses in some parts from the smallnesses,
 
 ### 131
-> >
+for the smallnesses are known from the greatnesses.
 
 ### 132
-> > Give heed to my poverty and my wealth.
+Why do you curse me and honor me?
 
 ### 133
-> >
+You have wounded and you have had mercy.
 
 ### 134
-> > Do not be arrogant to me when I am cast out upon the earth,
+Do not separate me from the first ones whom you have known.
 
 ### 135
-> >
+And do not cast anyone out nor turn anyone away
 
 ### 136
-> > and you will find me in those that are to come.
+\[...\] turn you away and \[... know\] him not.
 
 ### 137
-> >
+\[...\].
 
 ### 138
-> > And do not look upon me on the dung-heap
+What is mine \[...\].
 
 ### 139
-> >
+I know the first ones and those after them know me.
 
 ### 140
-> > nor go and leave me cast out,
+But I am the mind of \[...\] and the rest of \[...\].
 
 ### 141
-> >
+I am the knowledge of my inquiry,
 
 ### 142
-> > and you will find me in the kingdoms.
+and the finding of those who seek after me,
 
 ### 143
-> >
+and the command of those who ask of me,
 
 ### 144
-> > And do not look upon me when I am cast out among those who
+and the power of the powers in my knowledge
 
 ### 145
-> >
+of the angels, who have been sent at my word,
 
 ### 146
-> > are disgraced and in the least places,
+and of gods in their seasons by my counsel,
 
 ### 147
-> >
+and of spirits of every man who exists with me,
 
 ### 148
-> > nor laugh at me.
+and of women who dwell within me.
 
 ### 149
-> >
+I am the one who is honored, and who is praised,
 
 ### 150
-> > And do not cast me out among those who are slain in violence.
+and who is despised scornfully.
 
 ### 151
-> >
+I am peace,
 
 ### 152
-> >
+and war has come because of me.
 
 ### 153
-> > But I, I am compassionate and I am cruel.
+And I am an alien and a citizen.
 
 ### 154
-> >
+I am the substance and the one who has no substance.
 
 ### 155
-> > Be on your guard!
+Those who are without association with me are ignorant of me,
 
 ### 156
-> >
+and those who are in my substance are the ones who know me.
 
 ### 157
-> >
+Those who are close to me have been ignorant of me,
 
 ### 158
-> > Do not hate my obedience
+and those who are far away from me are the ones who have known me.
 
 ### 159
-> >
+On the day when I am close to you, you are far away from me,
 
 ### 160
-> > and do not love my self-control.
+and on the day when I am far away from you, I am close to you.
 
 ### 161
-> >
+\[I am ...\] within.
 
 ### 162
-> > In my weakness, do not forsake me,
+\[I am ...\] of the natures.
 
 ### 163
-> >
+I am \[...\] of the creation of the spirits.
 
 ### 164
-> > and do not be afraid of my power.
+\[...\] request of the souls.
 
 ### 165
-> >
+I am control and the uncontrollable.
 
 ### 166
-> >
+I am the union and the dissolution.
 
 ### 167
-> > For why do you despise my fear
+I am the abiding and I am the dissolution.
 
 ### 168
-> >
+I am the one below,
 
 ### 169
-> > and curse my pride?
+and they come up to me.
 
 ### 170
-> >
+I am the judgment and the acquittal.
 
 ### 171
-> > But I am she who exists in all fears
+I, I am sinless,
 
 ### 172
-> >
+and the root of sin derives from me.
 
 ### 173
-> > and strength in trembling.
+I am lust in (outward) appearance,
 
 ### 174
-> >
+and interior self-control exists within me.
 
 ### 175
-> > I am she who is weak,
+I am the hearing which is attainable to everyone
 
 ### 176
-> >
+and the speech which cannot be grasped.
 
 ### 177
-> > and I am well in a pleasant place.
+I am a mute who does not speak,
 
 ### 178
-> >
+and great is my multitude of words.
 
 ### 179
-> > I am senseless and I am wise.
+Hear me in gentleness, and learn of me in roughness.
 
 ### 180
-> >
+I am she who cries out,
 
 ### 181
-> >
+and I am cast forth upon the face of the earth.
 
 ### 182
-> > Why have you hated me in your counsels?
+I prepare the bread and my mind within.
 
 ### 183
-> >
+I am the knowledge of my name.
 
 ### 184
-> > For I shall be silent among those who are silent,
+I am the one who cries out,
 
 ### 185
-> >
+and I listen.
 
 ### 186
-> > and I shall appear and speak,
+I appear and \[...\] walk in \[...\] seal of my \[...\].
 
 ### 187
-> >
+I am \[...\] the defense \[...\].
 
 ### 188
-> >
+I am the one who is called Truth
 
 ### 189
-> > Why then have you hated me, you Greeks?
+and iniquity \[...\].
 
 ### 190
-> >
+You honor me \[...\] and you whisper against me.
 
 ### 191
-> > Because I am a barbarian among the barbarians?
+You who are vanquished, judge them (who vanquish you)
 
 ### 192
-> >
+before they give judgment against you,
 
 ### 193
-> > For I am the wisdom of the Greeks
+because the judge and partiality exist in you.
 
 ### 194
-> >
+If you are condemned by this one, who will acquit you?
 
 ### 195
-> > and the knowledge of the barbarians.
+Or, if you are acquitted by him, who will be able to detain you?
 
 ### 196
-> >
+For what is inside of you is what is outside of you,
 
 ### 197
-> > I am the judgement of the Greeks and of the barbarians.
+and the one who fashions you on the outside
 
 ### 198
-> >
+is the one who shaped the inside of you.
 
 ### 199
-> > I am the one whose image is great in Egypt
+And what you see outside of you, you see inside of you;
 
 ### 200
-> >
+it is visible and it is your garment.
 
 ### 201
-> > and the one who has no image among the barbarians.
+Hear me, you hearers
 
 ### 202
-> >
+and learn of my words, you who know me.
 
 ### 203
-> > I am the one who has been hated everywhere
+I am the hearing that is attainable to everything;
 
 ### 204
-> >
+I am the speech that cannot be grasped.
 
 ### 205
-> > and who has been loved everywhere.
+I am the name of the sound
 
 ### 206
-> >
+and the sound of the name.
 
 ### 207
-> > I am the one whom they call Life,
+I am the sign of the letter
 
 ### 208
-> >
+and the designation of the division.
 
 ### 209
-> > and you have called Death.
+And I \[...\].
 
 ### 210
-> >
+(3 lines missing)
 
 ### 211
-> > I am the one whom they call Law,
+\[...\] light \[...\].
 
 ### 212
-> >
+\[...\] hearers \[...\] to you
 
 ### 213
-> > and you have called Lawlessness.
+\[...\] the great power.
 
 ### 214
-> >
+And \[...\] will not move the name.
 
 ### 215
-> > I am the one whom you have pursued,
+\[...\] to the one who created me.
 
 ### 216
-> >
+And I will speak his name.
 
 ### 217
-> > and I am the one whom you have seized.
+Look then at his words
 
 ### 218
-> >
+and all the writings which have been completed.
 
 ### 219
-> > I am the one whom you have scattered,
+Give heed then, you hearers
 
 ### 220
-> >
+and you also, the angels and those who have been sent,
 
 ### 221
-> > and you have gathered me together.
+and you spirits who have arisen from the dead.
 
 ### 222
-> >
+For I am the one who alone exists,
 
 ### 223
-> > I am the one before whom you have been ashamed,
+and I have no one who will judge me.
 
 ### 224
-> >
+For many are the pleasant forms which exist in numerous sins,
 
 ### 225
-> > and you have been shameless to me.
+and incontinencies,
 
 ### 226
-> >
+and disgraceful passions,
 
 ### 227
-> > I am she who does not keep festival,
+and fleeting pleasures,
 
 ### 228
-> >
+which (men) embrace until they become sober
 
 ### 229
-> > and I am she whose festivals are many.
+and go up to their resting place.
 
 ### 230
-> >
+And they will find me there,
 
 ### 231
-> >
+and they will live,
 
 ### 232
-> > I, I am godless,
-
-### 233
-> >
-
-### 234
-> > and I am the one whose God is great.
-
-### 235
-> >
-
-### 236
-> > I am the one whom you have reflected upon,
-
-### 237
-> >
-
-### 238
-> > and you have scorned me.
-
-### 239
-> >
-
-### 240
-> > I am unlearned,
-
-### 241
-> >
-
-### 242
-> > and they learn from me.
-
-### 243
-> >
-
-### 244
-> > I am the one that you have despised,
-
-### 245
-> >
-
-### 246
-> > and you reflect upon me.
-
-### 247
-> >
-
-### 248
-> > I am the one whom you have hidden from,
-
-### 249
-> >
-
-### 250
-> > and you appear to me.
-
-### 251
-> >
-
-### 252
-> > But whenever you hide yourselves,
-
-### 253
-> >
-
-### 254
-> > I myself will appear.
-
-### 255
-> >
-
-### 256
-> > For whenever you appear,
-
-### 257
-> >
-
-### 258
-> > I myself will hide from you.
-
-### 259
-> >
-
-### 260
-> >
-
-### 261
-> > Those who have \[...\] to it \[...\] senselessly \[...\].
-
-### 262
-> >
-
-### 263
-> > Take me \[... understanding\] from grief.
-
-### 264
-> >
-
-### 265
-> > and take me to yourselves from understanding and grief.
-
-### 266
-> >
-
-### 267
-> > And take me to yourselves from places that are ugly and in ruin,
-
-### 268
-> >
-
-### 269
-> > and rob from those which are good even though in ugliness.
-
-### 270
-> >
-
-### 271
-> > Out of shame, take me to yourselves shamelessly;
-
-### 272
-> >
-
-### 273
-> > and out of shamelessness and shame,
-
-### 274
-> >
-
-### 275
-> > upbraid my members in yourselves.
-
-### 276
-> >
-
-### 277
-> > And come forward to me, you who know me
-
-### 278
-> >
-
-### 279
-> > and you who know my members,
-
-### 280
-> >
-
-### 281
-> > and establish the great ones among the small first creatures.
-
-### 282
-> >
-
-### 283
-> > Come forward to childhood,
-
-### 284
-> >
-
-### 285
-> > and do not despise it because it is small and it is little.
-
-### 286
-> >
-
-### 287
-> > And do not turn away greatnesses in some parts from the smallnesses,
-
-### 288
-> >
-
-### 289
-> > for the smallnesses are known from the greatnesses.
-
-### 290
-> >
-
-### 291
-> >
-
-### 292
-> > Why do you curse me and honor me?
-
-### 293
-> >
-
-### 294
-> > You have wounded and you have had mercy.
-
-### 295
-> >
-
-### 296
-> > Do not separate me from the first ones whom you have known.
-
-### 297
-> >
-
-### 298
-> > And do not cast anyone out nor turn anyone away
-
-### 299
-> >
-
-### 300
-> > \[...\] turn you away and \[... know\] him not.
-
-### 301
-> >
-
-### 302
-> > \[...\].
-
-### 303
-> >
-
-### 304
-> > What is mine \[...\].
-
-### 305
-> >
-
-### 306
-> > I know the first ones and those after them know me.
-
-### 307
-> >
-
-### 308
-> > But I am the mind of \[...\] and the rest of \[...\].
-
-### 309
-> >
-
-### 310
-> > I am the knowledge of my inquiry,
-
-### 311
-> >
-
-### 312
-> > and the finding of those who seek after me,
-
-### 313
-> >
-
-### 314
-> > and the command of those who ask of me,
-
-### 315
-> >
-
-### 316
-> > and the power of the powers in my knowledge
-
-### 317
-> >
-
-### 318
-> > of the angels, who have been sent at my word,
-
-### 319
-> >
-
-### 320
-> > and of gods in their seasons by my counsel,
-
-### 321
-> >
-
-### 322
-> > and of spirits of every man who exists with me,
-
-### 323
-> >
-
-### 324
-> > and of women who dwell within me.
-
-### 325
-> >
-
-### 326
-> > I am the one who is honored, and who is praised,
-
-### 327
-> >
-
-### 328
-> > and who is despised scornfully.
-
-### 329
-> >
-
-### 330
-> > I am peace,
-
-### 331
-> >
-
-### 332
-> > and war has come because of me.
-
-### 333
-> >
-
-### 334
-> > And I am an alien and a citizen.
-
-### 335
-> >
-
-### 336
-> >
-
-### 337
-> > I am the substance and the one who has no substance.
-
-### 338
-> >
-
-### 339
-> > Those who are without association with me are ignorant of me,
-
-### 340
-> >
-
-### 341
-> > and those who are in my substance are the ones who know me.
-
-### 342
-> >
-
-### 343
-> > Those who are close to me have been ignorant of me,
-
-### 344
-> >
-
-### 345
-> > and those who are far away from me are the ones who have known me.
-
-### 346
-> >
-
-### 347
-> > On the day when I am close to you, you are far away from me,
-
-### 348
-> >
-
-### 349
-> > and on the day when I am far away from you, I am close to you.
-
-### 350
-> >
-
-### 351
-> >
-
-### 352
-> > \[I am ...\] within.
-
-### 353
-> >
-
-### 354
-> > \[I am ...\] of the natures.
-
-### 355
-> >
-
-### 356
-> > I am \[...\] of the creation of the spirits.
-
-### 357
-> >
-
-### 358
-> > \[...\] request of the souls.
-
-### 359
-> >
-
-### 360
-> > I am control and the uncontrollable.
-
-### 361
-> >
-
-### 362
-> > I am the union and the dissolution.
-
-### 363
-> >
-
-### 364
-> > I am the abiding and I am the dissolution.
-
-### 365
-> >
-
-### 366
-> > I am the one below,
-
-### 367
-> >
-
-### 368
-> > and they come up to me.
-
-### 369
-> >
-
-### 370
-> > I am the judgment and the acquittal.
-
-### 371
-> >
-
-### 372
-> > I, I am sinless,
-
-### 373
-> >
-
-### 374
-> > and the root of sin derives from me.
-
-### 375
-> >
-
-### 376
-> > I am lust in (outward) appearance,
-
-### 377
-> >
-
-### 378
-> > and interior self-control exists within me.
-
-### 379
-> >
-
-### 380
-> > I am the hearing which is attainable to everyone
-
-### 381
-> >
-
-### 382
-> > and the speech which cannot be grasped.
-
-### 383
-> >
-
-### 384
-> > I am a mute who does not speak,
-
-### 385
-> >
-
-### 386
-> > and great is my multitude of words.
-
-### 387
-> >
-
-### 388
-> > Hear me in gentleness, and learn of me in roughness.
-
-### 389
-> >
-
-### 390
-> > I am she who cries out,
-
-### 391
-> >
-
-### 392
-> > and I am cast forth upon the face of the earth.
-
-### 393
-> >
-
-### 394
-> > I prepare the bread and my mind within.
-
-### 395
-> >
-
-### 396
-> > I am the knowledge of my name.
-
-### 397
-> >
-
-### 398
-> > I am the one who cries out,
-
-### 399
-> >
-
-### 400
-> > and I listen.
-
-### 401
-> >
-
-### 402
-> > I appear and \[...\] walk in \[...\] seal of my \[...\].
-
-### 403
-> >
-
-### 404
-> > I am \[...\] the defense \[...\].
-
-### 405
-> >
-
-### 406
-> > I am the one who is called Truth
-
-### 407
-> >
-
-### 408
-> > and iniquity \[...\].
-
-### 409
-> >
-
-### 410
-> >
-
-### 411
-> > You honor me \[...\] and you whisper against me.
-
-### 412
-> >
-
-### 413
-> > You who are vanquished, judge them (who vanquish you)
-
-### 414
-> >
-
-### 415
-> > before they give judgment against you,
-
-### 416
-> >
-
-### 417
-> > because the judge and partiality exist in you.
-
-### 418
-> >
-
-### 419
-> > If you are condemned by this one, who will acquit you?
-
-### 420
-> >
-
-### 421
-> > Or, if you are acquitted by him, who will be able to detain you?
-
-### 422
-> >
-
-### 423
-> > For what is inside of you is what is outside of you,
-
-### 424
-> >
-
-### 425
-> > and the one who fashions you on the outside
-
-### 426
-> >
-
-### 427
-> > is the one who shaped the inside of you.
-
-### 428
-> >
-
-### 429
-> > And what you see outside of you, you see inside of you;
-
-### 430
-> >
-
-### 431
-> > it is visible and it is your garment.
-
-### 432
-> >
-
-### 433
-> > Hear me, you hearers
-
-### 434
-> >
-
-### 435
-> > and learn of my words, you who know me.
-
-### 436
-> >
-
-### 437
-> > I am the hearing that is attainable to everything;
-
-### 438
-> >
-
-### 439
-> > I am the speech that cannot be grasped.
-
-### 440
-> >
-
-### 441
-> > I am the name of the sound
-
-### 442
-> >
-
-### 443
-> > and the sound of the name.
-
-### 444
-> >
-
-### 445
-> > I am the sign of the letter
-
-### 446
-> >
-
-### 447
-> > and the designation of the division.
-
-### 448
-> >
-
-### 449
-> > And I \[...\].
-
-### 450
-> >
-
-### 451
-> > (3 lines missing)
-
-### 452
-> >
-
-### 453
-> > \[...\] light \[...\].
-
-### 454
-> >
-
-### 455
-> > \[...\] hearers \[...\] to you
-
-### 456
-> >
-
-### 457
-> > \[...\] the great power.
-
-### 458
-> >
-
-### 459
-> > And \[...\] will not move the name.
-
-### 460
-> >
-
-### 461
-> > \[...\] to the one who created me.
-
-### 462
-> >
-
-### 463
-> > And I will speak his name.
-
-### 464
-> >
-
-### 465
-> >
-
-### 466
-> > Look then at his words
-
-### 467
-> >
-
-### 468
-> > and all the writings which have been completed.
-
-### 469
-> >
-
-### 470
-> > Give heed then, you hearers
-
-### 471
-> >
-
-### 472
-> > and you also, the angels and those who have been sent,
-
-### 473
-> >
-
-### 474
-> > and you spirits who have arisen from the dead.
-
-### 475
-> >
-
-### 476
-> > For I am the one who alone exists,
-
-### 477
-> >
-
-### 478
-> > and I have no one who will judge me.
-
-### 479
-> >
-
-### 480
-> > For many are the pleasant forms which exist in numerous sins,
-
-### 481
-> >
-
-### 482
-> > and incontinencies,
-
-### 483
-> >
-
-### 484
-> > and disgraceful passions,
-
-### 485
-> >
-
-### 486
-> > and fleeting pleasures,
-
-### 487
-> >
-
-### 488
-> > which (men) embrace until they become sober
-
-### 489
-> >
-
-### 490
-> > and go up to their resting place.
-
-### 491
-> >
-
-### 492
-> > And they will find me there,
-
-### 493
-> >
-
-### 494
-> > and they will live,
-
-### 495
-> >
-
-### 496
-> > and they will not die again.
-
-### 497
-Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
-
-### 498
-The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.
-
-### 499
-E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.
-
-### 500
-The translation presented here has been edited, modified and formatted for use in the Gnostic Society Library.
-
-### 501
-For academic citation, please refer to published editions of this text.
-
-###### | [Nag Hammadi Library](nhl.html) | [Gnostic Society Library](../library.html) | [Gnosis Archive](../welcome.html) |
+and they will not die again.

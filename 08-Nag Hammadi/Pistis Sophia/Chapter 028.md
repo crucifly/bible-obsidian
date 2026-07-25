@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 28
 
-> **Chapter 28**
+**Chapter 28**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 28**
+**CHAPTER 28**
 
 ### 3
 The powers adore the light-vesture.And Jesus continued again in his discourse and said unto his disciples: "Hearken concerning the things which befell me among the rulers of the twelve æons and all their rulers and their lords and their authorities and their angels and their archangels. When then they had seen the vesture of light which was about me, they and their unpaired, then every one of them saw the mystery of his name, that it was on my vesture of light, which was about me. They fell down all together, adored the vesture of light which was about me, and cried out all together, saying: 'How hath the lord of the universe passed through us without our knowing it?' And they all sang praises together to the interiors of the interiors. And all their triple-powers and their great forefathers and their ungenerated and their self-generated and their generated and their gods and their light-sparks and their light-bearers--in a word all their great ones--saw the tyrants of their region, that their power was diminished in them. And they were in weakness and themselves fell into great and immeasurable fear. And they gazed on the mystery of their name on my vesture, and they had set out to come and adore the mystery of their name which was on my vesture, and they could not because of the great light which was about me; but they adored a little removed from me, and they adored the light of my vesture and all cried out together, singing praises to the interiors of the interiors.

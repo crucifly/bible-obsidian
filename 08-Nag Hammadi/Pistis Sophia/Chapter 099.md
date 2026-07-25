@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 99
 
-> **Chapter 99**
+**Chapter 99**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 98**
+**CHAPTER 98**
 
 ### 3
 Mary again questioneth Jesus.It came to pass, when Jesus had finished speaking these words unto his disciples, that Mary Magdalene came forward, kissed the feet of Jesus and said unto him: "My Lord, bear with me and be not wroth with me, if I question thee; but have mercy upon us, my Lord, and reveal unto us all things on which we shall question thee. Now, therefore, my Lord, how doth the First Mystery possess twelve mysteries, [and] the Ineffable possess a one and only mystery?"

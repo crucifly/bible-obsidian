@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 102
 
-> **Chapter 102**
+**Chapter 102**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 101 [THE CONCLUSION OF ANOTHER BOOK]**
+**CHAPTER 101 [THE CONCLUSION OF ANOTHER BOOK]**
 
 ### 3
 Of the Limbs of the Ineffable."AND those who are worthy of the mysteries which abide in the Ineffable, which are those which have not gone forth,--these exist before the First Mystery, and to use a likeness and similitude, that ye may understand it, they are as the Limbs of the Ineffable. And every one existeth according to the dignity of its glory: the head according

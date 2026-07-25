@@ -9,7 +9,7 @@ translation: G.R.S. Mead
 
 # Pistis Sophia - Chapter 50
 
-> **Chapter 50**
+**Chapter 50**
 
 ### 1
 Pistis Sophia
@@ -17,7 +17,7 @@ Pistis Sophia
 ### 2
 Next
 
-> **CHAPTER 50**
+**CHAPTER 50**
 
 ### 3
 Jesus commendeth Matthew and promiseth his disciples that they shall sit on thrones with him.And when Jesus had heard these words, he said: "Finely [said], Matthew. Now, therefore, amēn, I say unto you: When the perfect number is completed and the universe is raised hence, I will take my seat in the Treasury of the Light, and ye yourselves will sit on twelve light-powers, until we have restored all the orders of the twelve saviours to the region of the inheritances of every one of them."

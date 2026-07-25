@@ -20,32 +20,32 @@ I saw the winds of heaven which turn and bring the circumference of the sun and 
 ### 5
 I saw the winds on the earth carrying the clouds: I saw⌈⌈the paths of the angels. I saw⌉⌉ at the end of the earth the firmament of the heaven above. And I proceeded and saw a place which burns day and night, where there are seven mountains of magnificent stones, three towards the east, and three towards the south.
 
-### 7
+### 6
 And as for those towards the east, 〈one〉 was of coloured stone, and one of pearl, and one of jacinth, and those towards the south of red stone.
 
-### 8
+### 7
 But the middle one reached to heaven like the throne of God, of alabaster, and the summit of the throne was of sapphire.
 
-### 9
+### 8
 And I saw a flaming fire. And beyond these mountains
 
-### 10
+### 9
 is a region the end of the great earth: there the heavens were completed.
 
-### 11
+### 10
 And I saw a deep abyss, with columns ⌈⌈of heavenly fire, and among them I saw columns⌉⌉ of fire fall, which were beyond measure alike towards the height and towards the depth.
 
-### 12
+### 11
 And beyond that abyss I saw a place which had no firmament of the heaven above, and no firmly founded earth beneath it: there was no water upon it, and no birds, but it was a waste and horrible place.
 
-### 13
+### 12
 I saw there seven stars like great burning mountains, and to me, when I inquired regarding them,
 
-### 14
+### 13
 The angel said: ‘This place is the end of heaven and earth: this has become a prison for the stars and the host of heaven.
 
-### 15
+### 14
 And the stars which roll over the fire are they which have transgressed the commandment of the Lord in the beginning of their rising, because they did not come forth at their appointed times.
 
-### 16
+### 15
 And He was wroth with them, and bound them till the time when their guilt should be consummated (even) ⌈for ten thousand years⌉.’

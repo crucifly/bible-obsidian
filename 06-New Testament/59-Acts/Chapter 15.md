@@ -104,25 +104,23 @@ Judas and Silas, also being prophets themselves, encouraged the brothers with ma
 ### 33
 After they had spent some time there, they were sent back with greetings from the brothers to the apostles.
 
-
-
-### 35
+### 34
 But Paul and Barnabas stayed in Antioch, teaching and preaching the word of the Lord, with many others also.
 
-### 36
+### 35
 After some days Paul said to Barnabas, “Let’s return now and visit our brothers in every city in which we proclaimed the word of the Lord, to see how they are doing.”
 
-### 37
+### 36
 Barnabas planned to take John, who was called Mark, with them also.
 
-### 38
+### 37
 But Paul didn’t think that it was a good idea to take with them someone who had withdrawn from them in Pamphylia, and didn’t go with them to do the work.
 
-### 39
+### 38
 Then the contention grew so sharp that they separated from each other. Barnabas took Mark with him, and sailed away to Cyprus,
 
-### 40
+### 39
 but Paul chose Silas, and went out, being commended by the brothers to the grace of God.
 
-### 41
+### 40
 He went through Syria and Cilicia, strengthening the assemblies.

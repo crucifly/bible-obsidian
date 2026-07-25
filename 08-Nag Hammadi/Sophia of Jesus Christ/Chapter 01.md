@@ -722,12 +722,3 @@ the disciples were in great, ineffable joy in the spirit from that day on. And h
 
 ### 239
 disciples began to preach the Gospel of God, the eternal, imperishable Spirit. Amen.
-
-### 240
-The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.
-
-### 241
-E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.
-
-### 242
-For academic citation, please refer to published editions of this text.
