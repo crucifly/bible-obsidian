@@ -104,7 +104,6 @@ Judas and Silas, also being prophets themselves, encouraged the brothers with ma
 ### 33
 After they had spent some time there, they were sent back with greetings from the brothers to the apostles.
 
-### 34
 
 
 ### 35

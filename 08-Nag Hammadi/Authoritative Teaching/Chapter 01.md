@@ -6,7 +6,6 @@ canon: "Nag Hammadi"
 # Authoritative Teaching
 
 ### Section 1
-(Above image of the Gospel of Thomas courtesy of the
 ### Section 2
 Institute for Antiquity and Christianity, Claremont Graduate University)
 ### Section 3
@@ -286,7 +285,6 @@ She received rest from her labors, while the light that shines forth upon her do
 ### Section 140
 sink. To it belongs the glory and the power and the revelation for ever and ever. Amen.
 ### Section 141
-Original translation of this text was prepared by members of the
 ### Section 142
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
 ### Section 143

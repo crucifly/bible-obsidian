@@ -2410,7 +2410,6 @@ the praise, the dominion, and the glory through [...] the Lord, the Savior, the 
 ### Section 1202
 of all those belonging to the one filled with Love, through his Holy Spirit, from now
 ### Section 1203
-Original translation of this text was prepared by members of the
 ### Section 1204
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
 ### Section 1205

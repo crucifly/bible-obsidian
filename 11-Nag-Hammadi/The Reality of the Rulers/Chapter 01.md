@@ -14,7 +14,6 @@ canon: "Nag-Hammadi"
 [![Search the Nag Hammadi Library](../images/butnhlsr.gif)](nhsearch.html)
 [![Return to The Gnostic Society Library page](../images/libbut.gif)](../library.html)
 [![Return to The Gnosis Archive main page](../images/butgnarch.gif)](../welcome.html)
-###### (Above image of the Gospel of Thomas courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)
 ###### _Visit the [Bookstore](../bookstore1.htm) for a complete selection of translations and books about the Gnostic Gospels.  
 _
 [![The Gnostic Gospels, by Elaine Pagels (Click to buy the book)](../images/Bookstore/gnosticgospels.gif)](../bookstore1.htm)
@@ -130,7 +129,6 @@ _(The Reality of the Rulers)_
 > 
 > Then all the children of the light will be truly acquainted with the truth and their root, and the father of the entirety and the holy spirit. They will all say with a single voice, 'The father's truth is just, and the son presides over the entirety", and from everyone unto the ages of ages, "Holy – holy – holy! Amen!'"
 The Reality \[_Hypostasis_\] of the Rulers
-##### Original translation of this text was prepared by members of the  
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.  
 The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.  
 E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.  

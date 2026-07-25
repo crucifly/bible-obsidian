@@ -8,27 +8,21 @@ canon: "Pseudepigrapha"
 ### Section 1
 # 3 Enoch - Section 1
 
-padding-top: 3px; padding-left: 3px; padding-bottom: 3px; padding-right: 0px;
 ### Section 2
 # 3 Enoch - Section 2
 
-background-image: url("pic/arrow.gif"); background-position: right; background-repeat: no-repeat; z-index: 20;
 ### Section 3
 # 3 Enoch - Section 3
 
-background-image: url("pic/spacer.gif"); z-index: 25;
 ### Section 4
 # 3 Enoch - Section 4
 
-/* Fix some stuff with lists in the body of the page. */
 ### Section 5
 # 3 Enoch - Section 5
 
-_gaq.push(['_setAccount', 'UA-4053514-1']);
 ### Section 6
 # 3 Enoch - Section 6
 
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 ### Section 7
 # 3 Enoch - Section 7
 

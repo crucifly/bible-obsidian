@@ -276,7 +276,6 @@ O Holy Spirit, send me salvation [...] the light [...]
 ### Section 135
 "After he spoke, he fell silent [...] word [...] afterward [...] the discourse
 ### Section 136
-Original translation of this text was prepared by members of the
 ### Section 137
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
 ### Section 138

@@ -126,7 +126,6 @@ has heard the cry of my weeping and the lord has heard my prayer."
 ### Section 60
 If we repent, truly God will heed us, he who is long suffering and abundantly merciful,
 ### Section 61
-Original translation of this text was prepared by members of the
 ### Section 62
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
 ### Section 63

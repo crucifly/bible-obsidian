@@ -6,7 +6,6 @@ canon: "Nag Hammadi"
 # Trimorphic Protennoia
 
 ### Section 1
-(Above image of the Gospel of Thomas courtesy of the
 ### Section 2
 Institute for Antiquity and Christianity, Claremont Graduate University)
 ### Section 3
@@ -502,7 +501,6 @@ mine, I shall place into the holy Light within an incomprehensible Silence. Amen
 ### Section 248
 A Sacred Scripture written by the Father with perfect Knowledge
 ### Section 249
-Original translation of this text was prepared by members of the
 ### Section 250
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
 ### Section 251

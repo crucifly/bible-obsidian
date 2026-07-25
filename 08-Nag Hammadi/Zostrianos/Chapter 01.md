@@ -1070,7 +1070,6 @@ is) the [punishment] of those who are unconvinced. Many bonds and chastisers sur
 ### Section 532
 the Darkness. Do not be led astray to your destruction.
 ### Section 533
-Original translation of this text was prepared by members of the
 ### Section 534
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
 ### Section 535

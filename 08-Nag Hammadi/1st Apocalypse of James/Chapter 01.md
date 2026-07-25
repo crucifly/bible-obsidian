@@ -8,7 +8,6 @@ canon: "Nag Hammadi"
 ### Section 1
 The (First) Apocalypse of James -- The Nag Hammadi Library
 ### Section 2
-(Above image of the Gospel of Thomas courtesy of the
 ### Section 3
 Institute for Antiquity and Christianity, Claremont Graduate University)
 ### Section 4
@@ -310,7 +309,6 @@ These, then, were afraid. They arose, saying, "We have no part in this blood, fo
 ### Section 152
 just man will perish through injustice" James departed so that [...] look [...] for
 ### Section 153
-Original translation of this text was prepared by members of the
 ### Section 154
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School
 ### Section 155

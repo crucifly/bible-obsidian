@@ -8,7 +8,6 @@ canon: "Nag Hammadi"
 ### Section 1
 The Dialogue of the Savior -- The Nag Hammadi Library
 ### Section 2
-(Above image of the Gospel of Thomas courtesy of the
 ### Section 3
 Institute for Antiquity and Christianity, Claremont Graduate University)
 ### Section 4
@@ -426,7 +425,6 @@ will of the Father. And as for you, strive to rid yourselves of anger and jealou
 ### Section 210
 ... he will live forever. And I say to you [...], so that you will not lead your spirits
 ### Section 211
-Original translation of this text was prepared by members of the
 ### Section 212
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
 ### Section 213

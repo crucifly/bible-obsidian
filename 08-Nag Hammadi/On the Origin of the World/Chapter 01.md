@@ -320,7 +320,6 @@ immortals: but they will never enter the kingless realm. For everyone must go to
 ### Section 157
 from which he has come. Indeed, by his acts and his knowledge, each person will make his
 ### Section 158
-Original translation of this text was prepared by members of the
 ### Section 159
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
 ### Section 160

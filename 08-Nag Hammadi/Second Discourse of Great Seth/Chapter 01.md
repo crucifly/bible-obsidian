@@ -8,7 +8,6 @@ canon: "Nag Hammadi"
 ### Section 1
 The Second Treatise of the Great Seth - Bullard & Gibbons - The Nag Hammadi Library
 ### Section 2
-(Above image of the Gospel of Thomas courtesy of the
 ### Section 3
 Institute for Antiquity and Christianity, Claremont Graduate University)
 ### Section 4
@@ -480,7 +479,6 @@ Sophia. I have been in the bosom of the father from the beginning, in the place 
 ### Section 237
 sons of the truth, and the Greatness. Rest then with me, my fellow spirits and my
 ### Section 238
-Original translation of this text was prepared by members of the
 ### Section 239
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
 ### Section 240

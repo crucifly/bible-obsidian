@@ -113,7 +113,6 @@ Philip opened his mouth, and beginning from this Scripture, preached to him abou
 ### 36
 As they went on the way, they came to some water, and the eunuch said, “Behold, here is water. What is keeping me from being baptized?”
 
-### 37
 
 
 ### 38

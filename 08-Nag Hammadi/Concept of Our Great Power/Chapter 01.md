@@ -224,7 +224,6 @@ have acted according to our birth of the flesh, in the creation of the archons, 
 ### Section 109
 gives law. We also have come to be in the unchangeable aeon.
 ### Section 110
-Original translation of this text was prepared by members of the
 ### Section 111
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
 ### Section 112

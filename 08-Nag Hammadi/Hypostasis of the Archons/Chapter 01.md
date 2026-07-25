@@ -8,7 +8,6 @@ canon: "Nag Hammadi"
 ### Section 1
 The Hypostasis of the Archons - trans. Bentley Layton - The Nag Hammadi Library
 ### Section 2
-(Above image of the Gospel of Thomas courtesy of the
 ### Section 3
 Institute for Antiquity and Christianity, Claremont Graduate University)
 ### Section 4
@@ -394,7 +393,6 @@ and the father of the entirety and the holy spirit. They will all say with a sin
 ### Section 194
 everyone unto the ages of ages, "Holy – holy – holy! Amen!'"
 ### Section 195
-Original translation of this text was prepared by members of the
 ### Section 196
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
 ### Section 197

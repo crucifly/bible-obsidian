@@ -8,7 +8,6 @@ canon: "Nag Hammadi"
 ### Section 1
 The Sophia of Jesus Christ -- The Nag Hammadi Library
 ### Section 2
-(Above image of the Gospel of Thomas courtesy of the
 ### Section 3
 Institute for Antiquity and Christianity, Claremont Graduate University)
 ### Section 4
@@ -490,7 +489,6 @@ the disciples were in great, ineffable joy in the spirit from that day on. And h
 ### Section 242
 disciples began to preach the Gospel of God, the eternal, imperishable Spirit. Amen.
 ### Section 243
-Original translation of this text was prepared by members of the
 ### Section 244
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
 ### Section 245

@@ -14,7 +14,6 @@ canon: "Nag-Hammadi"
 [![Search the Nag Hammadi Library](../images/butnhlsr.gif)](nhsearch.html)
 [![Return to The Gnostic Society Library page](../images/libbut.gif)](../library.html)
 [![Return to The Gnosis Archive main page](../images/butgnarch.gif)](../welcome.html)
-###### (Above image of the Gospel of Thomas courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)
 ###### _Visit the [Bookstore](../bookstore1.htm) for a complete selection of translations and books about the Gnostic Gospels.  
 _
 [![The Gnostic Gospels, by Elaine Pagels (Click to buy the book)](../images/Bookstore/gnosticgospels.gif)](../bookstore1.htm)
@@ -107,7 +106,6 @@ _
 > > > 
 > > > \[...\]. And the majority of them \[...\] when they saw, the messenger took in \[...\]. The others \[...\] said, "\[...\] him from this earth. For he is not worthy of life." These, then, were afraid. They arose, saying, "We have no part in this blood, for a just man will perish through injustice" James departed so that \[...\] look \[...\] for we \[...\] him.
 The Apocalypse of James
-##### Original translation of this text was prepared by members of the  
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School  
 The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Arts, and other Institutions  
 E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Projects.  

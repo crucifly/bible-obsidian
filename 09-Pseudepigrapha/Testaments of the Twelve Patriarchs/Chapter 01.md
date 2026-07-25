@@ -12,7 +12,6 @@ The Testaments of the Twelve Patriarchs (Roberts-Donaldson)
 ### Section 2
 # Testaments of the Twelve Patriarchs - Section 2
 
-padding-top: 3px; padding-left: 3px; padding-bottom: 3px; padding-right: 0px;
 ### Section 3
 # Testaments of the Twelve Patriarchs - Section 3
 
@@ -20,23 +19,18 @@ font-family: Arial,Helvetica,sans-serif;
 ### Section 4
 # Testaments of the Twelve Patriarchs - Section 4
 
-background-image: url("pic/arrow.gif"); background-position: right; background-repeat: no-repeat; z-index: 20;
 ### Section 5
 # Testaments of the Twelve Patriarchs - Section 5
 
-background-image: url("pic/spacer.gif"); z-index: 25;
 ### Section 6
 # Testaments of the Twelve Patriarchs - Section 6
 
-/* Fix some stuff with lists in the body of the page. */
 ### Section 7
 # Testaments of the Twelve Patriarchs - Section 7
 
-_gaq.push(['_setAccount', 'UA-4053514-1']);
 ### Section 8
 # Testaments of the Twelve Patriarchs - Section 8
 
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 ### Section 9
 # Testaments of the Twelve Patriarchs - Section 9
 

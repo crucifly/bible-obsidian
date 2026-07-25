@@ -8,7 +8,6 @@ canon: "Nag Hammadi"
 ### Section 1
 The Secret Book of James (Meyer Translation) - The Nag Hammadi Library
 ### Section 2
-(Above image of the Gospel of Thomas courtesy of the
 ### Section 3
 Institute for Antiquity and Christianity, Claremont Graduate University)
 ### Section 4

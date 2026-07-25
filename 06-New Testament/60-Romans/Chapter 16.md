@@ -77,5 +77,4 @@ Gaius, my host and host of the whole assembly, greets you. Erastus, the treasure
 ### 24
 The grace of our Lord Jesus Christ be with you all! Amen.
 
-### 25
 

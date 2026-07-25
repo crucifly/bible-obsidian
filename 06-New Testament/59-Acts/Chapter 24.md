@@ -23,7 +23,6 @@ For we have found this man to be a plague, an instigator of insurrections among 
 ### 6
 He even tried to profane the temple, and we arrested him.
 
-### 7
 
 
 ### 8

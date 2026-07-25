@@ -8,7 +8,6 @@ canon: "Nag Hammadi"
 ### Section 1
 The Thunder, Perfect Mind -- The Nag Hammadi Library
 ### Section 2
-(Above image of the Gospel of Thomas courtesy of the
 ### Section 3
 Institute for Antiquity and Christianity, Claremont Graduate University)
 ### Section 4
@@ -82,7 +81,6 @@ and you also, the angels and those who have been sent,
 ### Section 38
 For many are the pleasant forms which exist in numerous sins,
 ### Section 39
-Original translation of this text was prepared by members of the
 ### Section 40
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.
 ### Section 41

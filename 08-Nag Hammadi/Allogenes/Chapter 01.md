@@ -8,7 +8,6 @@ canon: "Nag Hammadi"
 ### Section 1
 # Allogenes - Section 1
 
-(Above image of the Gospel of Thomas courtesy of the
 ### Section 2
 # Allogenes - Section 2
 
@@ -1004,7 +1003,6 @@ were disclosed to me, O my son Messos ...
 ### Section 250
 # Allogenes - Section 250
 
-Original translation of this text was prepared by members of the
 ### Section 251
 # Allogenes - Section 251
 

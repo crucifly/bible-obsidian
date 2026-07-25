@@ -14,7 +14,6 @@ canon: "Nag-Hammadi"
 [![Search the Nag Hammadi Library](../images/butnhlsr.gif)](nhsearch.html)
 [![Return to The Gnostic Society Library page](../images/libbut.gif)](../library.html)
 [![Return to The Gnosis Archive main page](../images/butgnarch.gif)](../welcome.html)
-###### (Above image of the Gospel of Thomas courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)
 ###### _Visit the [Bookstore](../bookstore1.htm) for a complete selection of translations and books about the Gnostic Gospels.  
 _
 [![The Gnostic Gospels, by Elaine Pagels (Click to buy the book)](../images/Bookstore/gnosticgospels.gif)](../bookstore1.htm)
@@ -192,7 +191,6 @@ _
 > > > The light will \[...\] the darkness and obliterate it: it will be like something that has never been. And the product to which the darkness had been posterior will dissolve. And the deficiency will be plucked out by the root (and thrown) down into the darkness. And the light will withdraw up to its root. And the glory of the unbegotten will appear. And it will fill all the eternal realm.
 > > > 
 > > > When the prophecy and the account of those that are king becomes known and is fulfilled by those who are called perfect, those who - in contrast - have not become perfect in the unbegotten father will receive their glory in their realms and in the kingdoms of the immortals: but they will never enter the kingless realm. For everyone must go to the place from which he has come. Indeed, by his acts and his knowledge, each person will make his (own) nature known.
-##### Original translation of this text was prepared by members of the  
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.  
 The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.  
 E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.  

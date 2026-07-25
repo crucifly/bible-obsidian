@@ -71,7 +71,6 @@ And I will bless her, and give thee a son by her, and I will bless him, and he s
 ### 22
 And Abraham fell on his face, and rejoiced, and said in his heart: 'Shall a son be born to him that is a hundred years old, and shall Sarah, who is ninety years old, bring forth?'
 
-### 23
 
 
 # And Abraham said unto God: 'O that Ishmael might live before thee!'
