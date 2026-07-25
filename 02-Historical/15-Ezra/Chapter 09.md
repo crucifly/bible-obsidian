@@ -3,7 +3,6 @@ book: "Ezra"
 chapter: 9
 canon: "Historical"
 ---
-
 # Ezra 9
 
 ### 1
@@ -50,4 +49,3 @@ shall we again break your commandments, and join in affinity with the peoples th
 
 ### 15
 Yahweh, the God of Israel, you are righteous; for we are left a remnant that has escaped, as it is today. Behold, we are before you in our guiltiness; for no one can stand before you because of this.”
-

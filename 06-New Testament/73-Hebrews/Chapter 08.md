@@ -3,7 +3,6 @@ book: "Hebrews"
 chapter: 8
 canon: "New Testament"
 ---
-
 # Hebrews 8
 
 ### 1
@@ -44,4 +43,3 @@ For I will be merciful to their unrighteousness. I will remember their sins and 
 
 ### 13
 In that he says, “A new covenant”, he has made the first old. But that which is becoming old and grows aged is near to vanishing away.
-

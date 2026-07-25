@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 16
 canon: "Torah"
 ---
-
 # Exodus 16
 
 ### 1
@@ -113,4 +112,3 @@ The children of Israel ate the manna forty years, until they came to an inhabite
 
 ### 36
 Now an omer is one tenth of an ephah.
-

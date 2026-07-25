@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 3
 canon: "New Testament"
 ---
-
 # Mark 3
 
 ### 1
@@ -19,7 +18,7 @@ He said to the man who had his hand withered, “Stand up.”
 He said to them, “Is it lawful on the Sabbath day to do good, or to do harm? To save a life, or to kill?” But they were silent.
 
 ### 5
-When he had looked around at them with anger, being grieved at the hardening of their hearts, he said to the man, “Stretch out your hand.”  He stretched it out, and his hand was restored as healthy as the other.
+When he had looked around at them with anger, being grieved at the hardening of their hearts, he said to the man, “Stretch out your hand.” He stretched it out, and his hand was restored as healthy as the other.
 
 ### 6
 The Pharisees went out, and immediately conspired with the Herodians against him, how they might destroy him.
@@ -110,4 +109,3 @@ Looking around at those who sat around him, he said, “Behold, my mother and my
 
 ### 35
 For whoever does the will of God, the same is my brother, and my sister, and mother.”
-

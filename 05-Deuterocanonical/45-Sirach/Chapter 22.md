@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 22
 canon: "Deuterocanonical"
 ---
-
 # Sirach 22
 
 ### 1
@@ -86,4 +85,3 @@ And if any evil happen unto me by him, every one that heareth it
 
 ### 27
 Who shall set a watch before my mouth, and a seal of wisdom upon
-

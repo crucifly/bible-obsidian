@@ -3,7 +3,6 @@ book: "2 Meqabyan"
 chapter: 3
 canon: "Deuterocanonical"
 ---
-
 # 2 Meqabyan 3
 
 ### 1
@@ -92,4 +91,3 @@ But once He protected them, they again returned to sin, saddening Him with the w
 
 ### 29
 So He would arouse against them the Moabites, Philistines, Syrians, Midianites, and Egyptians. When these enemies defeated them, they would cry and weep. When they were taxed and ruled over, the Lord would arouse princes for them to save them in the time He chose.
-

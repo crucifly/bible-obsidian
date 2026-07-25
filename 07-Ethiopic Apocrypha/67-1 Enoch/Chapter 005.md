@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 5
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 5
 
 ### 1
@@ -32,4 +31,3 @@ But for the elect there shall be light and joy and peace, b. And they shall inhe
 
 ### 7
 And for you the godless there shall be a curse.
-

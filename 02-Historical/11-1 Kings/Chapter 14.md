@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 14
 canon: "Historical"
 ---
-
 # 1 Kings 14
 
 ### 1
@@ -98,4 +97,3 @@ There was war between Rehoboam and Jeroboam continually.
 
 ### 31
 Rehoboam slept with his fathers, and was buried with his fathers in David’s city. His mother’s name was Naamah the Ammonitess. Abijam his son reigned in his place.
-

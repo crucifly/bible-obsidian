@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 48
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 48
 
 ### 1
@@ -68,4 +67,3 @@ The Book of Jubilees
 
 ### 21
 The Passover: regulations regarding its celebration. (Cf. Exod. xii.6, 9, 11, 13, 22-3, 30, 46; xv.22.)
-

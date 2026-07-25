@@ -3,7 +3,6 @@ book: "Lamentations"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Lamentations 3
 
 ### 1
@@ -203,4 +202,3 @@ You will give them hardness of heart, your curse to them.
 
 ### 66
 You will pursue them in anger, and destroy them from under the heavens of Yahweh.
-

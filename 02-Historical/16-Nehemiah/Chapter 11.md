@@ -3,7 +3,6 @@ book: "Nehemiah"
 chapter: 11
 canon: "Historical"
 ---
-
 # Nehemiah 11
 
 ### 1
@@ -113,4 +112,3 @@ Lod, and Ono, the valley of craftsmen.
 
 ### 36
 Of the Levites, certain divisions in Judah settled in Benjamin’s territory.
-

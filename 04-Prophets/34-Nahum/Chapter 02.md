@@ -3,7 +3,6 @@ book: "Nahum"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Nahum 2
 
 ### 1
@@ -44,4 +43,3 @@ The lion tore in pieces enough for his cubs, and strangled for his lionesses, an
 
 ### 13
 “Behold, I am against you,” says Yahweh of Armies, “and I will burn her chariots in the smoke, and the sword will devour your young lions; and I will cut off your prey from the earth, and the voice of your messengers will no longer be heard.”
-

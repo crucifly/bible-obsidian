@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 21
 canon: "Historical"
 ---
-
 # Judges 21
 
 ### 1
@@ -80,4 +79,3 @@ The children of Israel departed from there at that time, every man to his tribe 
 
 ### 25
 In those days there was no king in Israel. Everyone did that which was right in his own eyes.
-

@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 2
 canon: "Historical"
 ---
-
 # 1 Kings 2
 
 ### 1
@@ -143,4 +142,3 @@ But king Solomon will be blessed, and David’s throne will be established befor
 
 ### 46
 So the king commanded Benaiah the son of Jehoiada; and he went out, and fell on him, so that he died. The kingdom was established in the hand of Solomon.
-

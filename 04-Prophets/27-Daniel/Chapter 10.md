@@ -3,7 +3,6 @@ book: "Daniel"
 chapter: 10
 canon: "Prophets"
 ---
-
 # Daniel 10
 
 ### 1
@@ -68,4 +67,3 @@ Then he said, “Do you know why I have come to you? Now I will return to fight 
 
 ### 21
 But I will tell you that which is inscribed in the writing of truth. There is no one who holds with me against these, but Michael your prince.
-

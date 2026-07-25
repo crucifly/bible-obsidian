@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 22
 canon: "Torah"
 ---
-
 # Exodus 22
 
 ### 1
@@ -98,4 +97,3 @@ You shall do likewise with your cattle and with your sheep. Seven days it shall 
 
 ### 31
 “You shall be holy men to me, therefore you shall not eat any meat that is torn by animals in the field. You shall cast it to the dogs.
-

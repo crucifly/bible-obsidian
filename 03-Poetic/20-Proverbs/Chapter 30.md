@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 30
 canon: "Poetic"
 ---
-
 # Proverbs 30
 
 ### 1
@@ -104,4 +103,3 @@ the greyhound, the male goat also; and the king against whom there is no rising 
 
 ### 33
 For as the churning of milk produces butter, and the wringing of the nose produces blood; so the forcing of wrath produces strife.”
-

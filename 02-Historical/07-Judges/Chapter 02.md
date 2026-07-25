@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 2
 canon: "Historical"
 ---
-
 # Judges 2
 
 ### 1
@@ -74,4 +73,3 @@ that by them I may test Israel, to see if they will keep Yahweh’s way to walk 
 
 ### 23
 So Yahweh left those nations, without driving them out hastily. He didn’t deliver them into Joshua’s hand.
-

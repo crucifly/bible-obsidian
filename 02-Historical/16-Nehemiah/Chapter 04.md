@@ -3,7 +3,6 @@ book: "Nehemiah"
 chapter: 4
 canon: "Historical"
 ---
-
 # Nehemiah 4
 
 ### 1
@@ -74,4 +73,3 @@ Likewise at the same time said I to the people, “Let everyone with his servant
 
 ### 23
 So neither I, nor my brothers, nor my servants, nor the men of the guard who followed me, none of us took off our clothes. Everyone took his weapon to the water.
-

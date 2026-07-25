@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 50
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 50
 
 ### 1
@@ -47,4 +46,3 @@ The man who does any of these things on the Sabbath shall die, so that the child
 
 ### 14
 Herewith is completed the account of the division of the days.
-

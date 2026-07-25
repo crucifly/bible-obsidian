@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 72
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 72
 
 ### 1
@@ -116,4 +115,3 @@ And that which (thus) rises is the great luminary, and is so named according to 
 
 ### 37
 As he rises, so he sets and decreases not, and rests not, but runs day and night, and his light is sevenfold brighter than that of the moon; but as regards size they are both equal.
-

@@ -3,7 +3,6 @@ book: "Hebrews"
 chapter: 12
 canon: "New Testament"
 ---
-
 # Hebrews 12
 
 ### 1
@@ -92,4 +91,3 @@ Therefore, receiving a Kingdom that can’t be shaken, let us have grace, throug
 
 ### 29
 for our God is a consuming fire.
-

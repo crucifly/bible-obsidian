@@ -3,7 +3,6 @@ book: "Letter of Jeremiah"
 chapter: 6
 canon: "Deuterocanonical"
 ---
-
 # Letter of Jeremiah 6
 
 ### 1
@@ -224,4 +223,3 @@ And ye shall know them to be no gods by the bright purple that
 
 ### 73
 Better therefore is the just man that hath none idols: for he
-

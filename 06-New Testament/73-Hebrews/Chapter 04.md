@@ -3,7 +3,6 @@ book: "Hebrews"
 chapter: 4
 canon: "New Testament"
 ---
-
 # Hebrews 4
 
 ### 1
@@ -53,4 +52,3 @@ For we don’t have a high priest who can’t be touched with the feeling of our
 
 ### 16
 Let us therefore draw near with boldness to the throne of grace, that we may receive mercy, and may find grace for help in time of need.
-

@@ -3,7 +3,6 @@ book: "Micah"
 chapter: 5
 canon: "Prophets"
 ---
-
 # Micah 5
 
 ### 1
@@ -50,4 +49,3 @@ I will uproot your Asherah poles out from among you; and I will destroy your cit
 
 ### 15
 I will execute vengeance in anger, and wrath on the nations that didn’t listen.”
-

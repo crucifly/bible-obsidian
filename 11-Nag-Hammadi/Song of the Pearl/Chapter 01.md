@@ -3,56 +3,32 @@ book: "Song of the Pearl"
 chapter: 1
 canon: "Nag-Hammadi"
 ---
-
 # Song of the Pearl
 
 ![](../images/abraxgem.jpg)  
-
-  
-
 [![Search the entire library index](../images/butsrch.gif)](../search_form.html)  
-
 #####   
 Gnostic and Related Material:
-
 ###### [Library Main Page](../library.html)
-
 ###### [Nag Hammadi Library](../naghamm/nhl.html)
-
 ###### [Gnostic Scriptures](gs.htm)
-
 ###### [GRS Mead Collection](grs-mead/mead_index.htm)
-
 ###### [Polemical Works](polem.htm)
-
 ###### [Christian Apocrypha](cac.htm)
-
 ###### [Corpus Hermeticum](hermet.htm)
-
 ###### [Manichaean Writings](manis.htm)
-
 ###### [Mandaean Writings](mand.htm)
-
 ###### [Cathar Writings](cathtx.htm)
-
 ###### [Alchemical Writings](alch.htm)
-
 ###### [Modern Gnostic Texts](modern.htm)
-
 #####   
 Return to  
 [Gnosis Archive](../welcome.html)
-
-  
 ![The Gnostic Society Library](/images/GnosticSocietyLibrary.gif "The Gnostic Society Library - gnosis.org")
-
 ## Gnostic Scriptures and Fragments
-
 ### The Hymn of the Pearl - The Acts of Thomas
-
 ######   
 [Archive](../welcome.html) | [Library](../library.html) | [Bookstore](../bookstore1.htm) | [Index](../search_form.html) | [Web Lectures](../lectures.html) | [Ecclesia Gnostica](../eghome.htm) | [Gnostic Society](../gnostsoc/gnostsoc.htm)
-
 > ###   
 > Archive Notes
 > 
@@ -788,5 +764,4 @@ Return to
 > 
 > The Hymn of Judas Thomas the Apostles,  
 > which he spake in prison, is ended.
-
 ###### [Archive](../welcome.html) | [Library](../library.html) | [Bookstore](../bookstore1.htm) | [Index](../search_form.html) | [Web Lectures](../lectures.html) | [Ecclesia Gnostica](../eghome.htm) | [Gnostic Society](../gnostsoc/gnostsoc.htm)

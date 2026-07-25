@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 21
 canon: "Poetic"
 ---
-
 # Proverbs 21
 
 ### 1
@@ -98,4 +97,3 @@ There is no wisdom nor understanding nor counsel against Yahweh.
 
 ### 31
 The horse is prepared for the day of battle; but victory is with Yahweh.
-

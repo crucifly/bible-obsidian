@@ -3,7 +3,6 @@ book: "Judith"
 chapter: 15
 canon: "Deuterocanonical"
 ---
-
 # Judith 15
 
 ### 1
@@ -62,4 +61,3 @@ Yea, they worshipped those beasts also that are most hateful: for
 
 ### 19
 Neither are they beautiful, so much as to be desired in respect
-

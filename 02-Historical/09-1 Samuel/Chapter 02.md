@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 2
 canon: "Historical"
 ---
-
 # 1 Samuel 2
 
 ### 1
@@ -113,4 +112,3 @@ I will raise me up a faithful priest, that will do according to that which is in
 
 ### 36
 It will happen, that everyone who is left in your house will come and bow down to him for a piece of silver and a loaf of bread, and will say, “Please put me into one of the priests’ offices, that I may eat a morsel of bread.”’”
-

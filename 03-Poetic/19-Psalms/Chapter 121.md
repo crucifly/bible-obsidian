@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 121
 canon: "Poetic"
 ---
-
 # Psalms 121
 
 ### 1
@@ -29,4 +28,3 @@ Yahweh will keep you from all evil. He will keep your soul.
 
 ### 8
 Yahweh will keep your going out and your coming in, from this time forward, and forever more.
-

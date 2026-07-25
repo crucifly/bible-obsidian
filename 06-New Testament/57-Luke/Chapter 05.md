@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 5
 canon: "New Testament"
 ---
-
 # Luke 5
 
 ### 1
@@ -122,4 +121,3 @@ But new wine must be put into fresh wine skins, and both are preserved.
 
 ### 39
 No man having drunk old wine immediately desires new, for he says, ‘The old is better.’”
-

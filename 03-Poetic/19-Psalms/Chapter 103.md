@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 103
 canon: "Poetic"
 ---
-
 # Psalms 103
 
 ### 1
@@ -71,4 +70,3 @@ Praise Yahweh, all you armies of his, you servants of his, who do his pleasure.
 
 ### 22
 Praise Yahweh, all you works of his, in all places of his dominion. Praise Yahweh, my soul!
-

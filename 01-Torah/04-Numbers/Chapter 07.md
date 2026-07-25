@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 7
 canon: "Torah"
 ---
-
 # Numbers 7
 
 ### 1
@@ -272,4 +271,3 @@ and all the cattle for the sacrifice of peace offerings twenty-four bulls, the r
 
 ### 89
 When Moses went into the Tent of Meeting to speak with Yahweh, he heard his voice speaking to him from above the mercy seat that was on the ark of the Testimony, from between the two cherubim: and he spoke to him.
-

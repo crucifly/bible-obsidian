@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 2
 canon: "New Testament"
 ---
-
 # Luke 2
 
 ### 1
@@ -161,4 +160,3 @@ And he went down with them, and came to Nazareth. He was subject to them, and hi
 
 ### 52
 And Jesus increased in wisdom and stature, and in favor with God and men.
-

@@ -3,7 +3,6 @@ book: "Habakkuk"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Habakkuk 1
 
 ### 1
@@ -56,4 +55,3 @@ Therefore he sacrifices to his net, and burns incense to his dragnet, because by
 
 ### 17
 Will he therefore continually empty his net, and kill the nations without mercy?
-

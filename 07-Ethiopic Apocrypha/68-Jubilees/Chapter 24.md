@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 24
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 24
 
 ### 1
@@ -152,4 +151,3 @@ The Book of Jubilees
 
 ### 49
 Rebecca admonished Jacob not to marry a Canaanitish woman, 1-3. Jacob promises to marry a daughter of Laban despite the urgent requests of Esau that he should marry a Canaanitish woman, 4-10. Rebecca blessees Jacob, 11-23. (Cf. Gen. xxviii.1-4.)
-

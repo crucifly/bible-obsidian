@@ -3,7 +3,6 @@ book: "Prayer of Azariah"
 chapter: 1
 canon: "Deuterocanonical"
 ---
-
 # Prayer of Azariah 1
 
 ### 1
@@ -209,4 +208,3 @@ O give thanks unto the Lord, because he is gracious: for his mercy
 
 ### 68
 O all ye that worship the Lord bless the God of gods, praise him,
-

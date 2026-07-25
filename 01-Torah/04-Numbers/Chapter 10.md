@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 10
 canon: "Torah"
 ---
-
 # Numbers 10
 
 ### 1
@@ -113,4 +112,3 @@ When the ark went forward, Moses said, “Rise up, Yahweh, and let your enemies 
 
 ### 36
 When it rested, he said, “Return, Yahweh, to the ten thousands of the thousands of Israel.”
-

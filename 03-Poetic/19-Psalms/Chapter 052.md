@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 52
 canon: "Poetic"
 ---
-
 # Psalms 52
 
 ### 1
@@ -32,4 +31,3 @@ But as for me, I am like a green olive tree in God’s house. I trust in God’s
 
 ### 9
 I will give you thanks forever, because you have done it. I will hope in your name, for it is good, in the presence of your saints.
-

@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 32
 canon: "Torah"
 ---
-
 # Deuteronomy 32
 
 ### 1
@@ -161,4 +160,3 @@ because you trespassed against me among the children of Israel at the waters of 
 
 ### 52
 For you shall see the land from a distance; but you shall not go there into the land which I give the children of Israel.”
-

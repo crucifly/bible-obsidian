@@ -3,7 +3,6 @@ book: "Jonah"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Jonah 1
 
 ### 1
@@ -56,4 +55,3 @@ Then the men feared Yahweh exceedingly; and they offered a sacrifice to Yahweh, 
 
 ### 17
 Yahweh prepared a great fish to swallow up Jonah, and Jonah was in the belly of the fish three days and three nights.
-

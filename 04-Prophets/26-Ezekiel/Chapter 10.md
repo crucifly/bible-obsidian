@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 10
 canon: "Prophets"
 ---
-
 # Ezekiel 10
 
 ### 1
@@ -71,4 +70,3 @@ Every one had four faces, and every one four wings. The likeness of the hands of
 
 ### 22
 As for the likeness of their faces, they were the faces which I saw by the river Chebar, their appearances and themselves. They each went straight forward.
-

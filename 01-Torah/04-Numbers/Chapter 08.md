@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 8
 canon: "Torah"
 ---
-
 # Numbers 8
 
 ### 1
@@ -83,4 +82,3 @@ and from the age of fifty years they shall cease waiting on the work, and shall 
 
 ### 26
 but shall minister with their brothers in the Tent of Meeting, to perform the duty, and shall perform no service. You shall do thus to the Levites concerning their duties.”
-

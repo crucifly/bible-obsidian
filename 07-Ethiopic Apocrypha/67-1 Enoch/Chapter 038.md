@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 38
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 38
 
 ### 1
@@ -23,4 +22,3 @@ Then shall the kings and the mighty perish And be given into the hands of the ri
 
 ### 6
 And thenceforward none shall seek for themselves mercy from the Lord of Spirits For their life is at an end.
-

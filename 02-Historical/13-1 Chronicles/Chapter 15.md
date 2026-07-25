@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 15
 canon: "Historical"
 ---
-
 # 1 Chronicles 15
 
 ### 1
@@ -92,4 +91,3 @@ Thus all Israel brought the ark of Yahweh’s covenant up with shouting, with so
 
 ### 29
 As the ark of Yahweh’s covenant came to David’s city, Michal the daughter of Saul looked out at the window, and saw king David dancing and playing; and she despised him in her heart.
-

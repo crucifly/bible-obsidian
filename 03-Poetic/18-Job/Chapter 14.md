@@ -3,7 +3,6 @@ book: "Job"
 chapter: 14
 canon: "Poetic"
 ---
-
 # Job 14
 
 ### 1
@@ -71,4 +70,3 @@ His sons come to honor, and he doesn’t know it. They are brought low, but he d
 
 ### 22
 But his flesh on him has pain, and his soul within him mourns.”
-

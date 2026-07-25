@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 115
 canon: "Poetic"
 ---
-
 # Psalms 115
 
 ### 1
@@ -59,4 +58,3 @@ The dead don’t praise Yah, neither any who go down into silence;
 
 ### 18
 But we will bless Yah, from this time forward and forever more. Praise Yah!
-

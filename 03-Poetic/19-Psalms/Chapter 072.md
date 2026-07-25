@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 72
 canon: "Poetic"
 ---
-
 # Psalms 72
 
 ### 1
@@ -65,4 +64,3 @@ Blessed be his glorious name forever! Let the whole earth be filled with his glo
 
 ### 20
 This ends the prayers by David, the son of Jesse.
-

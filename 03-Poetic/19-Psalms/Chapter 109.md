@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 109
 canon: "Poetic"
 ---
-
 # Psalms 109
 
 ### 1
@@ -98,4 +97,3 @@ I will give great thanks to Yahweh with my mouth. Yes, I will praise him among t
 
 ### 31
 For he will stand at the right hand of the needy, to save him from those who judge his soul.
-

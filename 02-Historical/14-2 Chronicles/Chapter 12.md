@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 12
 canon: "Historical"
 ---
-
 # 2 Chronicles 12
 
 ### 1
@@ -53,4 +52,3 @@ Now the acts of Rehoboam, first and last, aren’t they written in the histories
 
 ### 16
 Rehoboam slept with his fathers, and was buried in David’s city; and Abijah his son reigned in his place.
-

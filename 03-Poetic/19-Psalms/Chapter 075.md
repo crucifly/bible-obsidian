@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 75
 canon: "Poetic"
 ---
-
 # Psalms 75
 
 ### 1
@@ -35,4 +34,3 @@ But I will declare this forever: I will sing praises to the God of Jacob.
 
 ### 10
 I will cut off all the horns of the wicked, but the horns of the righteous shall be lifted up.
-

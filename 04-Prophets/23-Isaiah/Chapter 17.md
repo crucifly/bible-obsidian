@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 17
 canon: "Prophets"
 ---
-
 # Isaiah 17
 
 ### 1
@@ -47,4 +46,3 @@ The nations will rush like the rushing of many waters: but he will rebuke them, 
 
 ### 14
 At evening, behold, terror! Before the morning, they are no more. This is the portion of those who plunder us, and the lot of those who rob us.
-

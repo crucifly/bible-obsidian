@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 12
 canon: "Poetic"
 ---
-
 # Psalms 12
 
 ### 1
@@ -29,4 +28,3 @@ You will keep them, Yahweh. You will preserve them from this generation forever.
 
 ### 8
 The wicked walk on every side, when what is vile is exalted among the sons of men.
-

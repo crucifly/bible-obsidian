@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 15
 canon: "Historical"
 ---
-
 # Joshua 15
 
 ### 1
@@ -194,4 +193,3 @@ Nibshan, the City of Salt, and En Gedi; six cities with their villages.
 
 ### 63
 As for the Jebusites, the inhabitants of Jerusalem, the children of Judah couldn’t drive them out; but the Jebusites live with the children of Judah at Jerusalem to this day.
-

@@ -3,7 +3,6 @@ book: "Galatians"
 chapter: 5
 canon: "New Testament"
 ---
-
 # Galatians 5
 
 ### 1
@@ -83,4 +82,3 @@ If we live by the Spirit, let’s also walk by the Spirit.
 
 ### 26
 Let’s not become conceited, provoking one another, and envying one another.
-

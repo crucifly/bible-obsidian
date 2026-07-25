@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 25
 canon: "Historical"
 ---
-
 # 2 Kings 25
 
 ### 1
@@ -95,4 +94,3 @@ and changed his prison garments. Jehoiachin ate bread before him continually all
 
 ### 30
 and for his allowance, there was a continual allowance given him from the king, every day a portion, all the days of his life.
-

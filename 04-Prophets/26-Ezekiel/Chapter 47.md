@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 47
 canon: "Prophets"
 ---
-
 # Ezekiel 47
 
 ### 1
@@ -74,4 +73,3 @@ It will happen, that you shall divide it by lot for an inheritance to you and to
 
 ### 23
 It shall happen, that in whatever tribe the stranger lives, there you shall give him his inheritance,” says the Lord Yahweh.
-

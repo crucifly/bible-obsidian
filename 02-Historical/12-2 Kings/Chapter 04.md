@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 4
 canon: "Historical"
 ---
-
 # 2 Kings 4
 
 ### 1
@@ -137,4 +136,3 @@ His servant said, “What, should I set this before a hundred men?” But he sai
 
 ### 44
 So he set it before them, and they ate, and had some left over, according to Yahweh’s word.
-

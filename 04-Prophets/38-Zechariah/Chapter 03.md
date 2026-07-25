@@ -3,7 +3,6 @@ book: "Zechariah"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Zechariah 3
 
 ### 1
@@ -35,4 +34,3 @@ For, behold, the stone that I have set before Joshua; on one stone are seven eye
 
 ### 10
 In that day,’ says Yahweh of Armies, ‘you will invite every man his neighbor under the vine and under the fig tree.’”
-

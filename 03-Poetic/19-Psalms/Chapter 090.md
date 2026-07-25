@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 90
 canon: "Poetic"
 ---
-
 # Psalms 90
 
 ### 1
@@ -56,4 +55,3 @@ Let your work appear to your servants; your glory to their children.
 
 ### 17
 Let the favor of the Lord our God be on us; establish the work of our hands for us; yes, establish the work of our hands.
-

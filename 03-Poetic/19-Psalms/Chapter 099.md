@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 99
 canon: "Poetic"
 ---
-
 # Psalms 99
 
 ### 1
@@ -32,4 +31,3 @@ You answered them, Yahweh our God. You are a God who forgave them, although you 
 
 ### 9
 Exalt Yahweh, our God. Worship at his holy hill, for Yahweh, our God, is holy!
-

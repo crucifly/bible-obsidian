@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 63
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 63
 
 ### 1
@@ -41,4 +40,3 @@ And after that their faces shall be filled with darkness And shame before that S
 
 ### 12
 Thus spake the Lord of Spirits: ‘This is the ordinance and judgement with respect to the mighty and the kings and the exalted and those who possess the earth before the Lord of Spirits.’
-

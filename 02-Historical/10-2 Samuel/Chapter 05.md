@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 5
 canon: "Historical"
 ---
-
 # 2 Samuel 5
 
 ### 1
@@ -80,4 +79,3 @@ When you hear the sound of marching in the tops of the mulberry trees, then stir
 
 ### 25
 David did so, as Yahweh commanded him, and struck the Philistines all the way from Geba to Gezer.
-

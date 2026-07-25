@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 12
 canon: "Historical"
 ---
-
 # Joshua 12
 
 ### 1
@@ -77,4 +76,3 @@ the king of Dor in the height of Dor, one; the king of Goiim in Gilgal, one;
 
 ### 24
 the king of Tirzah, one: all the kings thirty-one.
-

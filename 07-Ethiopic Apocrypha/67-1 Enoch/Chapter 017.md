@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 17
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 17
 
 ### 1
@@ -53,4 +52,3 @@ And the stars which roll over the fire are they which have transgressed the comm
 
 ### 16
 And He was wroth with them, and bound them till the time when their guilt should be consummated (even) ⌈for ten thousand years⌉.’
-

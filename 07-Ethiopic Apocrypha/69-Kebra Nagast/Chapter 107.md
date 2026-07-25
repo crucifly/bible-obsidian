@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 107
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 107
 
 ### 1
@@ -41,4 +40,3 @@ And David said, “The beloved is like the son of the unicorn”; and again he s
 
 ### 12
 And Habakkuk prophesied, saying, “Horns are in his hands, and he hath placed the beloved in the strength of his power,” which meaneth, “The palms of the hand, wherein the life of all is held, of the holder of the dominion of kings, are pierced with nails, which Christ, the beloved, hath endured in the strength of His might.”
-

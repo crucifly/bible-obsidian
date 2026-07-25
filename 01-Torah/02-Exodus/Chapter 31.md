@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 31
 canon: "Torah"
 ---
-
 # Exodus 31
 
 ### 1
@@ -59,4 +58,3 @@ It is a sign between me and the children of Israel forever; for in six days Yahw
 
 ### 18
 He gave to Moses, when he finished speaking with him on Mount Sinai, the two tablets of the testimony, stone tablets, written with God’s finger.
-

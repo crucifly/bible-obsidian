@@ -3,7 +3,6 @@ book: "2 Meqabyan"
 chapter: 17
 canon: "Deuterocanonical"
 ---
-
 # 2 Meqabyan 17
 
 ### 1
@@ -41,4 +40,3 @@ The Lord did this with the fruit and the vine so that His Name might be praised 
 
 ### 12
 In the Kingdom of Heaven, He shall make those who believe in the Resurrection joyful.
-

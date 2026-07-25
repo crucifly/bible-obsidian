@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 70
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 70
 
 ### 1
@@ -17,4 +16,3 @@ And from that day I was no longer numbered amongst them: and he set me between t
 
 ### 4
 And there I saw the first fathers and the righteous who from the beginning dwell in that place.
-

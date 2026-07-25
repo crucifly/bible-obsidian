@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 25
 canon: "Prophets"
 ---
-
 # Ezekiel 25
 
 ### 1
@@ -56,4 +55,3 @@ therefore thus says the Lord Yahweh, “Behold, I will stretch out my hand on th
 
 ### 17
 I will execute great vengeance on them with wrathful rebukes. Then they will know that I am Yahweh, when I lay my vengeance on them.”’”
-

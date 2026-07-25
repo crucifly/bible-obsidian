@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 10
 canon: "Poetic"
 ---
-
 # Psalms 10
 
 ### 1
@@ -59,4 +58,3 @@ Yahweh, you have heard the desire of the humble. You will prepare their heart. Y
 
 ### 18
 to judge the fatherless and the oppressed, that man who is of the earth may terrify no more.
-

@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 9
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 9
 
 ### 1
@@ -35,4 +34,3 @@ And now, behold, the souls of those who have died are crying and making their su
 
 ### 11
 And Thou knowest all things before they come to pass, and Thou seest these things and Thou dost suffer them, and Thou dost not say to us what we are to do to them in regard to these.’
-

@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 38
 canon: "Deuterocanonical"
 ---
-
 # Sirach 38
 
 ### 1
@@ -107,4 +106,3 @@ They shall not be sought for in publick counsel, nor sit high in
 
 ### 34
 But they will maintain the state of the world, and [all] their
-

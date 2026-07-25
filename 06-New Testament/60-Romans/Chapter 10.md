@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 10
 canon: "New Testament"
 ---
-
 # Romans 10
 
 ### 1
@@ -68,4 +67,3 @@ Isaiah is very bold, and says, “I was found by those who didn’t seek me. I w
 
 ### 21
 But as to Israel he says, “All day long I stretched out my hands to a disobedient and contrary people.”
-

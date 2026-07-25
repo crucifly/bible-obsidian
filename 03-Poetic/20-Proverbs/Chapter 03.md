@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 3
 canon: "Poetic"
 ---
-
 # Proverbs 3
 
 ### 1
@@ -110,4 +109,3 @@ Surely he mocks the mockers, but he gives grace to the humble.
 
 ### 35
 The wise will inherit glory, but shame will be the promotion of fools.
-

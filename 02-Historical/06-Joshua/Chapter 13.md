@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 13
 canon: "Historical"
 ---
-
 # Joshua 13
 
 ### 1
@@ -104,4 +103,3 @@ These are the inheritances which Moses distributed in the plains of Moab, beyond
 
 ### 33
 But Moses gave no inheritance to the tribe of Levi. Yahweh, the God of Israel, is their inheritance, as he spoke to them.
-

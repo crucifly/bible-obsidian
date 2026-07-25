@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 84
 canon: "Poetic"
 ---
-
 # Psalms 84
 
 ### 1
@@ -41,4 +40,3 @@ For Yahweh God is a sun and a shield. Yahweh will give grace and glory. He withh
 
 ### 12
 Yahweh of Armies, blessed is the man who trusts in you.
-

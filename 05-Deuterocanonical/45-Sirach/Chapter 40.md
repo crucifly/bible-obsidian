@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 40
 canon: "Deuterocanonical"
 ---
-
 # Sirach 40
 
 ### 1
@@ -95,4 +94,3 @@ The life of him that dependeth on another man’s table is not to
 
 ### 30
 Begging is sweet in the mouth of the shameless: but in his belly
-

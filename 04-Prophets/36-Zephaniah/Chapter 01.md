@@ -3,7 +3,6 @@ book: "Zephaniah"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Zephaniah 1
 
 ### 1
@@ -59,4 +58,3 @@ I will bring distress on men, that they will walk like blind men, because they h
 
 ### 18
 Neither their silver nor their gold will be able to deliver them in the day of Yahweh’s wrath, but the whole land will be devoured by the fire of his jealousy; for he will make an end, yes, a terrible end, of all those who dwell in the land.
-

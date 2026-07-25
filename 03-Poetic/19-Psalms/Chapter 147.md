@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 147
 canon: "Poetic"
 ---
-
 # Psalms 147
 
 ### 1
@@ -65,4 +64,3 @@ He shows his word to Jacob; his statutes and his ordinances to Israel.
 
 ### 20
 He has not done this for just any nation. They don’t know his ordinances. Praise Yah!
-

@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 39
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 39
 
 ### 1
@@ -53,4 +52,3 @@ And here my eyes saw all those who sleep not: they stand before Him and bless an
 
 ### 14
 And my face was changed; for I could no longer behold.
-

@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 27
 canon: "Historical"
 ---
-
 # 1 Samuel 27
 
 ### 1
@@ -41,4 +40,3 @@ David saved neither man nor woman alive, to bring them to Gath, saying, “Lest 
 
 ### 12
 Achish believed David, saying, “He has made his people Israel utterly to abhor him. Therefore he will be my servant forever.”
-

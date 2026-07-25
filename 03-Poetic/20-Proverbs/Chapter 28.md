@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 28
 canon: "Poetic"
 ---
-
 # Proverbs 28
 
 ### 1
@@ -89,4 +88,3 @@ One who gives to the poor has no lack; but one who closes his eyes will have man
 
 ### 28
 When the wicked rise, men hide themselves; but when they perish, the righteous thrive.
-

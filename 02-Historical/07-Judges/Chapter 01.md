@@ -3,11 +3,10 @@ book: "Judges"
 chapter: 1
 canon: "Historical"
 ---
-
 # Judges 1
 
 ### 1
-After the death of Joshua, the children of Israel asked of Yahweh,  saying, “Who should go up for us first against the Canaanites, to fight against them?”
+After the death of Joshua, the children of Israel asked of Yahweh, saying, “Who should go up for us first against the Canaanites, to fight against them?”
 
 ### 2
 Yahweh said, “Judah shall go up. Behold, I have delivered the land into his hand.”
@@ -113,4 +112,3 @@ but the Amorites would dwell in Mount Heres, in Aijalon, and in Shaalbim. Yet th
 
 ### 36
 The border of the Amorites was from the ascent of Akrabbim, from the rock, and upward.
-

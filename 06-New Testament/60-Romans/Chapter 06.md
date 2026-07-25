@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 6
 canon: "New Testament"
 ---
-
 # Romans 6
 
 ### 1
@@ -74,4 +73,3 @@ But now, being made free from sin, and having become servants of God, you have y
 
 ### 23
 For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.
-

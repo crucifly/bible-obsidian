@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 62
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 62
 
 ### 1
@@ -53,4 +52,3 @@ And the righteous and elect shall have risen from the earth, And ceased to be of
 
 ### 16
 And these shall be the garments of life from the Lord of Spirits: And your garments shall not grow old, Nor your glory pass away before the Lord of Spirits.
-

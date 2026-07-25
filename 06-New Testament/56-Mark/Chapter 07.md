@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 7
 canon: "New Testament"
 ---
-
 # Mark 7
 
 ### 1
@@ -37,7 +36,7 @@ He said to them, “Full well do you reject the commandment of God, that you may
 For Moses said, ‘Honor your father and your mother;’ and, ‘He who speaks evil of father or mother, let him be put to death.’
 
 ### 11
-But you say, ‘If a man tells his father or his mother, “Whatever profit you might have received from me is Corban,  that is to say, given to God”;’
+But you say, ‘If a man tells his father or his mother, “Whatever profit you might have received from me is Corban, that is to say, given to God”;’
 
 ### 12
 then you no longer allow him to do anything for his father or his mother,
@@ -106,7 +105,7 @@ They brought to him one who was deaf and had an impediment in his speech. They b
 He took him aside from the multitude, privately, and put his fingers into his ears, and he spat, and touched his tongue.
 
 ### 34
-Looking up to heaven, he sighed, and said to him, “Ephphatha!”  that is, “Be opened!”
+Looking up to heaven, he sighed, and said to him, “Ephphatha!” that is, “Be opened!”
 
 ### 35
 Immediately his ears were opened, and the impediment of his tongue was released, and he spoke clearly.
@@ -116,4 +115,3 @@ He commanded them that they should tell no one, but the more he commanded them, 
 
 ### 37
 They were astonished beyond measure, saying, “He has done all things well. He makes even the deaf hear, and the mute speak!”
-

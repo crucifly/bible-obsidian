@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 63
 canon: "Poetic"
 ---
-
 # Psalms 63
 
 ### 1
@@ -38,4 +37,3 @@ They shall be given over to the power of the sword. They shall be jackal food.
 
 ### 11
 But the king shall rejoice in God. Everyone who swears by him will praise him, for the mouth of those who speak lies shall be silenced.
-

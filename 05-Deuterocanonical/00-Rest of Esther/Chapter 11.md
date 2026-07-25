@@ -3,7 +3,6 @@ book: "Rest of Esther"
 chapter: 11
 canon: "Deuterocanonical"
 ---
-
 # Rest of Esther 11
 
 ### 1
@@ -41,4 +40,3 @@ The light and the sun rose up, and the lowly were exalted, and
 
 ### 12
 Now when Mardocheus, who had seen this dream, and what God had
-

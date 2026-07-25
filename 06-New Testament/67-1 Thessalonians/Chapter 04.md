@@ -3,7 +3,6 @@ book: "1 Thessalonians"
 chapter: 4
 canon: "New Testament"
 ---
-
 # 1 Thessalonians 4
 
 ### 1
@@ -59,4 +58,3 @@ then we who are alive, who are left, will be caught up together with them in the
 
 ### 18
 Therefore comfort one another with these words.
-

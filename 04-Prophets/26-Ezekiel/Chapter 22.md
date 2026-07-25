@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 22
 canon: "Prophets"
 ---
-
 # Ezekiel 22
 
 ### 1
@@ -98,4 +97,3 @@ The people of the land have used oppression and exercised robbery. Yes, they hav
 
 ### 31
 Therefore I have poured out my indignation on them. I have consumed them with the fire of my wrath. I have brought their own way on their heads,” says the Lord Yahweh.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 108
 canon: "Poetic"
 ---
-
 # Psalms 108
 
 ### 1
@@ -44,4 +43,3 @@ Give us help against the enemy, for the help of man is vain.
 
 ### 13
 Through God, we will do valiantly. For it is he who will tread down our enemies.
-

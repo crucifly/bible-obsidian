@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 10
 canon: "New Testament"
 ---
-
 # Matthew 10
 
 ### 1
@@ -131,4 +130,3 @@ He who receives a prophet in the name of a prophet will receive a prophet’s re
 
 ### 42
 Whoever gives one of these little ones just a cup of cold water to drink in the name of a disciple, most certainly I tell you he will in no way lose his reward.”
-

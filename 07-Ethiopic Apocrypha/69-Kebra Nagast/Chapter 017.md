@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 17
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 17
 
 ### 1
@@ -23,4 +22,3 @@ In this wise did God command Moses on Mount Sinai, and He showed him the work th
 
 ### 6
 And He Himself came down on the mountain of His holiness, and He held converse with His chosen ones, and He opened to them [a way of] salvation, and He delivered them from the hand of their enemies. And he spake with them from the pillar of cloud, and commanded them to keep His Law and His commandments, and to walk in the precepts of God.
-

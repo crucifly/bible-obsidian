@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 22
 canon: "Torah"
 ---
-
 # Numbers 22
 
 ### 1
@@ -128,4 +127,3 @@ Balak sacrificed cattle and sheep, and sent to Balaam, and to the princes who we
 
 ### 41
 In the morning, Balak took Balaam, and brought him up into the high places of Baal; and he saw from there part of the people.
-

@@ -3,7 +3,6 @@ book: "Nahum"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Nahum 3
 
 ### 1
@@ -62,4 +61,3 @@ Your shepherds slumber, king of Assyria. Your nobles lie down. Your people are s
 
 ### 19
 There is no healing your wound, for your injury is fatal. All who hear the report of you clap their hands over you; for who hasn’t felt your endless cruelty?
-

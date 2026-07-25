@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 24
 canon: "Torah"
 ---
-
 # Exodus 24
 
 ### 1
@@ -34,7 +33,7 @@ Moses took the blood, and sprinkled it on the people, and said, “Look, this is
 Then Moses, Aaron, Nadab, Abihu, and seventy of the elders of Israel went up.
 
 ### 10
-They saw the God of Israel. Under his feet was like a paved work of sapphire  stone, like the skies for clearness.
+They saw the God of Israel. Under his feet was like a paved work of sapphire stone, like the skies for clearness.
 
 ### 11
 He didn’t lay his hand on the nobles of the children of Israel. They saw God, and ate and drank.
@@ -59,4 +58,3 @@ The appearance of Yahweh’s glory was like devouring fire on the top of the mou
 
 ### 18
 Moses entered into the middle of the cloud, and went up on the mountain; and Moses was on the mountain forty days and forty nights.
-

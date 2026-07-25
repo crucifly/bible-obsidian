@@ -3,7 +3,6 @@ book: "2 Corinthians"
 chapter: 13
 canon: "New Testament"
 ---
-
 # 2 Corinthians 13
 
 ### 1
@@ -47,4 +46,3 @@ All the saints greet you.
 
 ### 14
 The grace of the Lord Jesus Christ, God’s love, and the fellowship of the Holy Spirit, be with you all. Amen.
-

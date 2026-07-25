@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 22
 canon: "New Testament"
 ---
-
 # Revelation 22
 
 ### 1
@@ -64,8 +63,7 @@ I testify to everyone who hears the words of the prophecy of this book, if anyon
 If anyone takes away from the words of the book of this prophecy, may God take away his part from the tree of life, and out of the holy city, which are written in this book.
 
 ### 20
-He who testifies these things says, “Yes, I come quickly.”  Amen! Yes, come, Lord Jesus.
+He who testifies these things says, “Yes, I come quickly.” Amen! Yes, come, Lord Jesus.
 
 ### 21
 The grace of the Lord Jesus Christ be with all the saints. Amen.
-

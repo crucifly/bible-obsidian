@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 14
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 14
 
 ### 1
@@ -77,4 +76,3 @@ And Abram harkened unto the voice of Sarai his wife, and said unto her, 'Do (so)
 
 ### 24
 And he went in unto her, and she conceived and bare him a son, and he called his name Ishmael, in the fifth year of this week [1965 A.M.]; and this was the eighty-sixth year in the life of Abram.
-

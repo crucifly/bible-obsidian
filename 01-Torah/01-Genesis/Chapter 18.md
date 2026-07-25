@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 18
 canon: "Torah"
 ---
-
 # Genesis 18
 
 ### 1
@@ -104,4 +103,3 @@ He said, “Oh don’t let the Lord be angry, and I will speak just once more. W
 
 ### 33
 Yahweh went his way, as soon as he had finished communing with Abraham, and Abraham returned to his place.
-

@@ -3,7 +3,6 @@ book: "Zechariah"
 chapter: 14
 canon: "Prophets"
 ---
-
 # Zechariah 14
 
 ### 1
@@ -68,4 +67,3 @@ In that day there will be on the bells of the horses, “HOLY TO YAHWEH”; and 
 
 ### 21
 Yes, every pot in Jerusalem and in Judah will be holy to Yahweh of Armies; and all those who sacrifice will come and take of them, and cook in them. In that day there will no longer be a Canaanite in the house of Yahweh of Armies.
-

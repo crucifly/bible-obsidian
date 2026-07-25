@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 46
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 46
 
 ### 1
@@ -14,4 +13,3 @@ And when Azâryâs awoke from his dream he rejoiced greatly, and his heart and h
 
 ### 3
 And they went and told [David, the son of Solomon] and he rejoiced, and he sent to Yô’as (Benaiah), the son of Yôdâḥê, to come to him, that he might send him to his father, and he came. And David sent him to his father Solomon, and he said unto him, “Send me away, for I will depart to my own country, together with everything that thy goodness hath given me; and may thy prayers accompany me always whithersoever I shall go. But now there is one petition which I would make unto thee, if peradventure I have found grace with thee, and turn not away thy face from me. For I thy servant am going to depart, and I wish to offer up a sacrifice of propitiation (or, salvation) for my sins in this thy holy city of Jerusalem and of Zion, the Tabernacle of the Law of Gad. And peace [be] with thy majesty.”
-

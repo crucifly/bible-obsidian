@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 6
 canon: "New Testament"
 ---
-
 # Mark 6
 
 ### 1
@@ -148,7 +147,7 @@ After he had taken leave of them, he went up the mountain to pray.
 When evening had come, the boat was in the middle of the sea, and he was alone on the land.
 
 ### 48
-Seeing them distressed in rowing, for the wind was contrary to them, about the fourth watch of the night he came to them, walking on the sea,  and he would have passed by them,
+Seeing them distressed in rowing, for the wind was contrary to them, about the fourth watch of the night he came to them, walking on the sea, and he would have passed by them,
 
 ### 49
 but they, when they saw him walking on the sea, supposed that it was a ghost, and cried out;
@@ -173,4 +172,3 @@ and ran around that whole region, and began to bring those who were sick, on the
 
 ### 56
 Wherever he entered, into villages, or into cities, or into the country, they laid the sick in the marketplaces, and begged him that they might just touch the fringe of his garment; and as many as touched him were made well.
-

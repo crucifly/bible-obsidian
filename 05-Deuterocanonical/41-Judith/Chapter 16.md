@@ -3,7 +3,6 @@ book: "Judith"
 chapter: 16
 canon: "Deuterocanonical"
 ---
-
 # Judith 16
 
 ### 1
@@ -92,4 +91,3 @@ That it might be known, that we must prevent the sun to give thee
 
 ### 29
 For the hope of the unthankful shall melt away as the winter’s
-

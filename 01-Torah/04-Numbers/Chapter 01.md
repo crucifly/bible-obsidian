@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 1
 canon: "Torah"
 ---
-
 # Numbers 1
 
 ### 1
@@ -167,4 +166,3 @@ But the Levites shall encamp around the Tabernacle of the Testimony, that there 
 
 ### 54
 Thus the children of Israel did. According to all that Yahweh commanded Moses, so they did.
-

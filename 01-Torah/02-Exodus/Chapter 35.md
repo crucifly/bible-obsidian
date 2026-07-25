@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 35
 canon: "Torah"
 ---
-
 # Exodus 35
 
 ### 1
@@ -110,4 +109,3 @@ He has put in his heart that he may teach, both he, and Oholiab, the son of Ahis
 
 ### 35
 He has filled them with wisdom of heart, to work all kinds of workmanship, of the engraver, of the skillful workman, and of the embroiderer, in blue, in purple, in scarlet, and in fine linen, and of the weaver, even of those who do any workmanship, and of those who make skillful works.
-

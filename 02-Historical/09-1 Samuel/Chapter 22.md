@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 22
 canon: "Historical"
 ---
-
 # 1 Samuel 22
 
 ### 1
@@ -74,4 +73,3 @@ David said to Abiathar, “I knew on that day, when Doeg the Edomite was there, 
 
 ### 23
 Stay with me. Don’t be afraid, for he who seeks my life seeks your life. For you will be safe with me.”
-

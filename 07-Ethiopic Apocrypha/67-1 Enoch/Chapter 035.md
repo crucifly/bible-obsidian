@@ -3,9 +3,7 @@ book: "1 Enoch"
 chapter: 35
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 35
 
 ### 1
 And from thence I went towards the west to the ends of the earth, and saw there three portals of the heaven open such as I had seen in the †east†, the same number of portals, and the same number of outlets.
-

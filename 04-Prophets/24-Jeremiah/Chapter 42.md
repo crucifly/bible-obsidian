@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 42
 canon: "Prophets"
 ---
-
 # Jeremiah 42
 
 ### 1
@@ -71,4 +70,3 @@ I have declared it to you today; but you have not obeyed Yahweh your God’s voi
 
 ### 22
 Now therefore know certainly that you will die by the sword, by the famine, and by the pestilence in the place where you desire to go to live there.”
-

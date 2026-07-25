@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 45
 canon: "Torah"
 ---
-
 # Genesis 45
 
 ### 1
@@ -89,4 +88,3 @@ They told him all the words of Joseph, which he had said to them. When he saw th
 
 ### 28
 Israel said, “It is enough. Joseph my son is still alive. I will go and see him before I die.”
-

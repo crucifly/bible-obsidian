@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 26
 canon: "Prophets"
 ---
-
 # Jeremiah 26
 
 ### 1
@@ -77,4 +76,3 @@ and they fetched Uriah out of Egypt, and brought him to Jehoiakim the king, who 
 
 ### 24
 But the hand of Ahikam the son of Shaphan was with Jeremiah, so that they didn’t give him into the hand of the people to put him to death.
-

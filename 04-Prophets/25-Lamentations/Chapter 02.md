@@ -3,7 +3,6 @@ book: "Lamentations"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Lamentations 2
 
 ### 1
@@ -71,4 +70,3 @@ Arise, cry out in the night, at the beginning of the watches! Pour out your hear
 
 ### 22
 “You have called, as in the day of a solemn assembly, my terrors on every side. There was no one that escaped or remained in the day of Yahweh’s anger. My enemy has consumed those whom I have cared for and brought up.
-

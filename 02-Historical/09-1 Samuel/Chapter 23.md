@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 23
 canon: "Historical"
 ---
-
 # 1 Samuel 23
 
 ### 1
@@ -92,4 +91,3 @@ So Saul returned from pursuing David, and went against the Philistines. Therefor
 
 ### 29
 David went up from there, and lived in the strongholds of En Gedi.
-

@@ -3,7 +3,6 @@ book: "Daniel"
 chapter: 9
 canon: "Prophets"
 ---
-
 # Daniel 9
 
 ### 1
@@ -86,4 +85,3 @@ After the sixty-two weeks the Anointed One will be cut off, and will have nothin
 
 ### 27
 He will make a firm covenant with many for one week. In the middle of the week he will cause the sacrifice and the offering to cease. On the wing of abominations will come one who makes desolate; and even to the full end, and that determined, wrath will be poured out on the desolate.”
-

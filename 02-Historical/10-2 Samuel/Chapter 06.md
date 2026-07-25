@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 6
 canon: "Historical"
 ---
-
 # 2 Samuel 6
 
 ### 1
@@ -74,4 +73,3 @@ I will be yet more vile than this, and will be worthless in my own sight. But of
 
 ### 23
 Michal the daughter of Saul had no child to the day of her death.
-

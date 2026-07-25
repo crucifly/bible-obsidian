@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 12
 canon: "New Testament"
 ---
-
 # Mark 12
 
 ### 1
@@ -115,7 +114,7 @@ Jesus responded, as he taught in the temple, “How is it that the scribes say t
 For David himself said in the Holy Spirit, ‘The Lord said to my Lord, “Sit at my right hand, until I make your enemies the footstool of your feet.”’
 
 ### 37
-Therefore David himself calls him Lord, so how can he be his son?”  The common people heard him gladly.
+Therefore David himself calls him Lord, so how can he be his son?” The common people heard him gladly.
 
 ### 38
 In his teaching he said to them, “Beware of the scribes, who like to walk in long robes, and to get greetings in the marketplaces,
@@ -137,4 +136,3 @@ He called his disciples to himself, and said to them, “Most certainly I tell y
 
 ### 44
 for they all gave out of their abundance, but she, out of her poverty, gave all that she had to live on.”
-

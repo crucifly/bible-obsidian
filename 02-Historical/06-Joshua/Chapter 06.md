@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 6
 canon: "Historical"
 ---
-
 # Joshua 6
 
 ### 1
@@ -86,4 +85,3 @@ Joshua commanded them with an oath at that time, saying, “Cursed is the man be
 
 ### 27
 So Yahweh was with Joshua; and his fame was in all the land.
-

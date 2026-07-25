@@ -3,7 +3,6 @@ book: "Esther"
 chapter: 1
 canon: "Historical"
 ---
-
 # Esther 1
 
 ### 1
@@ -71,4 +70,3 @@ This advice pleased the king and the princes, and the king did according to the 
 
 ### 22
 for he sent letters into all the king’s provinces, into every province according to its writing, and to every people in their language, that every man should rule his own house, speaking in the language of his own people.
-

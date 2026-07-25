@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 46
 canon: "Torah"
 ---
-
 # Genesis 46
 
 ### 1
@@ -107,4 +106,3 @@ It will happen, when Pharaoh summons you, and will say, ‘What is your occupati
 
 ### 34
 that you shall say, ‘Your servants have been keepers of livestock from our youth even until now, both we, and our fathers:’ that you may dwell in the land of Goshen; for every shepherd is an abomination to the Egyptians.”
-

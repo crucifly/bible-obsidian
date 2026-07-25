@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 11
 canon: "Torah"
 ---
-
 # Exodus 11
 
 ### 1
@@ -35,4 +34,3 @@ Yahweh said to Moses, “Pharaoh won’t listen to you, that my wonders may be m
 
 ### 10
 Moses and Aaron did all these wonders before Pharaoh, and Yahweh hardened Pharaoh’s heart, and he didn’t let the children of Israel go out of his land.
-

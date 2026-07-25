@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 25
 canon: "New Testament"
 ---
-
 # Matthew 25
 
 ### 1
@@ -124,7 +123,7 @@ When did we see you as a stranger, and take you in; or naked, and clothe you?
 When did we see you sick, or in prison, and come to you?’
 
 ### 40
-“The King will answer them, ‘Most certainly I tell you, because you did it to one of the least of these my brothers,  you did it to me.’
+“The King will answer them, ‘Most certainly I tell you, because you did it to one of the least of these my brothers, you did it to me.’
 
 ### 41
 Then he will say also to those on the left hand, ‘Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels;
@@ -143,4 +142,3 @@ I was a stranger, and you didn’t take me in; naked, and you didn’t clothe me
 
 ### 46
 These will go away into eternal punishment, but the righteous into eternal life.”
-

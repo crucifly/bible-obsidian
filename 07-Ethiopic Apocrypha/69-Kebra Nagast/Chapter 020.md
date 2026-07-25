@@ -3,9 +3,7 @@ book: "Kebra Nagast"
 chapter: 20
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 20
 
 ### 1
 From the middle of Jerusalem, and from the north thereof to the south-east is the portion of the Emperor of Rôm; and from the middle of Jerusalem from the north thereof to the south and to Western India is the portion of the Emperor of Ethiopia. For both of them are of the seed of Shem, the son of Noah, the seed of Abraham, the seed of David, the children of Solomon. For God gave the seed of Shem glory because of the blessing of their father Noah. The Emperor of Rôm is the son of Solomon, and the Emperor of Ethiopia is the firstborn and eldest son of Solomon.
-

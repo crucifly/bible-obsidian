@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 23
 canon: "Historical"
 ---
-
 # 2 Kings 23
 
 ### 1
@@ -116,4 +115,3 @@ Jehoiakim was twenty-five years old when he began to reign, and he reigned eleve
 
 ### 37
 He did that which was evil in Yahweh’s sight, according to all that his fathers had done.
-

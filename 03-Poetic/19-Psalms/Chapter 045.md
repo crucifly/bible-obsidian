@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 45
 canon: "Poetic"
 ---
-
 # Psalms 45
 
 ### 1
@@ -56,4 +55,3 @@ Your sons will take the place of your fathers. You shall make them princes in al
 
 ### 17
 I will make your name to be remembered in all generations. Therefore the peoples shall give you thanks forever and ever.
-

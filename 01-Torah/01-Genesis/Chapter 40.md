@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 40
 canon: "Torah"
 ---
-
 # Genesis 40
 
 ### 1
@@ -74,4 +73,3 @@ but he hanged the chief baker, as Joseph had interpreted to them.
 
 ### 23
 Yet the chief cup bearer didn’t remember Joseph, but forgot him.
-

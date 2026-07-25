@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 5
 canon: "Prophets"
 ---
-
 # Isaiah 5
 
 ### 1
@@ -95,4 +94,3 @@ Their roaring will be like a lioness. They will roar like young lions. Yes, they
 
 ### 30
 They will roar against them in that day like the roaring of the sea. If one looks to the land behold, darkness and distress. The light is darkened in its clouds.
-

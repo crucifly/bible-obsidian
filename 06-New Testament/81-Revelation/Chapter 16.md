@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 16
 canon: "New Testament"
 ---
-
 # Revelation 16
 
 ### 1
@@ -68,4 +67,3 @@ Every island fled away, and the mountains were not found.
 
 ### 21
 Great hailstones, about the weight of a talent, came down out of the sky on people. People blasphemed God because of the plague of the hail, for this plague is exceedingly severe.
-

@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 49
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 49
 
 ### 0
@@ -17,4 +16,3 @@ And in him dwells the spirit of wisdom, And the spirit which gives insight, And 
 
 ### 4
 And he shall judge the secret things, And none shall be able to utter a lying word before him; For he is the Elect One before the Lord of Spirits according to His good pleasure.
-

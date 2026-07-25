@@ -3,50 +3,28 @@ book: "On the Origin of the World"
 chapter: 1
 canon: "Nag-Hammadi"
 ---
-
 # On the Origin of the World
 
 ![First page of "Gospel of Thomas" coptic manuscript. (Photo Courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)](/images/coptic.gif "First page of \"Gospel of Thomas\" coptic manuscript. (Photo Courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)")  
-
 [![Nag Hammadi Library main page](../images/butnhl.gif)](nhl.html)
-
 [![Introduction to Gnosticism and the Nag Hammadi Library](../images/butintro.gif)](nhlintro.html)
-
 [![Alphabetic Index of the Nag Hammadi Library](../images/butalpha.gif)](nhlalpha.html)
-
 [![Codex Index of the Nag Hammadi Library](../images/butcodex.gif)](nhlcodex.html)
-
 [![Gospel of Thomas Collection](../images/butgth.gif)](nhl_thomas.htm)
-
 [![Search the Nag Hammadi Library](../images/butnhlsr.gif)](nhsearch.html)
-
 [![Return to The Gnostic Society Library page](../images/libbut.gif)](../library.html)
-
 [![Return to The Gnosis Archive main page](../images/butgnarch.gif)](../welcome.html)
-
 ###### (Above image of the Gospel of Thomas courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)
-
 ###### _Visit the [Bookstore](../bookstore1.htm) for a complete selection of translations and books about the Gnostic Gospels.  
 _
-
 [![The Gnostic Gospels, by Elaine Pagels (Click to buy the book)](../images/Bookstore/gnosticgospels.gif)](../bookstore1.htm)
-
-  
-
 [![The Nag Hammadi Library, edited by James Robinson (Click to buy the book)](../images/Bookstore/naghammadi.gif)](../bookstore1.htm)
-
-  
 ![The Gnostic Society Library](/images/GnosticSocietyLibrary.gif "The Gnostic Society Library - gnosis.org")
-
 **The Nag Hammadi Library**
-
 ### On the Origin of the World  
 ("The Untitled Text")
-
 * * *
-
 **Translated by Hans-Gebhard Bethge and Bentley Layton**
-
 > > >   
 > > > Seeing that everybody, gods of the world and mankind, says that nothing existed prior to chaos, I, in distinction to them, shall demonstrate that they are all mistaken, because they are not acquainted with the origin of chaos, nor with its root. Here is the demonstration.
 > > > 
@@ -214,13 +192,10 @@ _
 > > > The light will \[...\] the darkness and obliterate it: it will be like something that has never been. And the product to which the darkness had been posterior will dissolve. And the deficiency will be plucked out by the root (and thrown) down into the darkness. And the light will withdraw up to its root. And the glory of the unbegotten will appear. And it will fill all the eternal realm.
 > > > 
 > > > When the prophecy and the account of those that are king becomes known and is fulfilled by those who are called perfect, those who - in contrast - have not become perfect in the unbegotten father will receive their glory in their realms and in the kingdoms of the immortals: but they will never enter the kingless realm. For everyone must go to the place from which he has come. Indeed, by his acts and his knowledge, each person will make his (own) nature known.
-
 ##### Original translation of this text was prepared by members of the  
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.  
 The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.  
 E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.  
-  
 The translation presented here has been edited, modified and formatted for use in the Gnostic Society Library.  
 For academic citation, please refer to published editions of this text.
-
 ###### | [Nag Hammadi Library](nhl.html) | [Gnostic Society Library](../library.html) | [Gnosis Archive](../welcome.html) |

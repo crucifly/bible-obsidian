@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 28
 canon: "Prophets"
 ---
-
 # Ezekiel 28
 
 ### 1
@@ -83,4 +82,3 @@ For I will send pestilence into her, and blood into her streets. The wounded wil
 
 ### 26
 They will dwell in it securely. Yes, they will build houses, plant vineyards, and will dwell securely, when I have executed judgments on all those who scorn them all around. Then they will know that I am Yahweh their God.”’”
-

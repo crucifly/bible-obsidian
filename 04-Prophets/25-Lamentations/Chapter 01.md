@@ -3,7 +3,6 @@ book: "Lamentations"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Lamentations 1
 
 ### 1
@@ -71,4 +70,3 @@ Zion spreads out her hands. There is no one to comfort her. Yahweh has commanded
 
 ### 22
 “Let all their wickedness come before you. Do to them as you have done to me for all my transgressions. For my sighs are many, and my heart is faint.
-

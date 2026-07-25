@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 79
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 79
 
 ### 1
@@ -11,4 +10,3 @@ And it came to pass that when the elder daughter of Lot had brought forth her so
 
 ### 2
 Behold now, it is clear that the King of Amalek is of the seed of Shem.
-

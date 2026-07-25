@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 135
 canon: "Poetic"
 ---
-
 # Psalms 135
 
 ### 1
@@ -68,4 +67,3 @@ House of Levi, praise Yahweh! You who fear Yahweh, praise Yahweh!
 
 ### 21
 Blessed be Yahweh from Zion, Who dwells at Jerusalem. Praise Yah!
-

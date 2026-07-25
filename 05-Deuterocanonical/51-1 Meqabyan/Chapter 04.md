@@ -3,7 +3,6 @@ book: "1 Meqabyan"
 chapter: 4
 canon: "Deuterocanonical"
 ---
-
 # 1 Meqabyan 4
 
 ### 1
@@ -20,4 +19,3 @@ He defeated the King’s generals and captured their wealth.
 
 ### 5
 The King was provoked to anger and gathered a great army from all his regions to destroy Meqabyan and the children of Israel.
-

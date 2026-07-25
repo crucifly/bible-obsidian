@@ -3,7 +3,6 @@ book: "1 Timothy"
 chapter: 3
 canon: "New Testament"
 ---
-
 # 1 Timothy 3
 
 ### 1
@@ -53,4 +52,3 @@ but if I wait long, that you may know how men ought to behave themselves in Godâ
 
 ### 16
 Without controversy, the mystery of godliness is great: God was revealed in the flesh, justified in the spirit, seen by angels, preached among the nations, believed on in the world, and received up in glory.
-

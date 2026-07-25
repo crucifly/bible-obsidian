@@ -3,7 +3,6 @@ book: "Job"
 chapter: 5
 canon: "Poetic"
 ---
-
 # Job 5
 
 ### 1
@@ -86,4 +85,3 @@ You shall come to your grave in a full age, like a shock of grain comes in its s
 
 ### 27
 Look this, we have searched it, so it is. Hear it, and know it for your good.”
-

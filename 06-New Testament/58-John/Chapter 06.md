@@ -3,7 +3,6 @@ book: "John"
 chapter: 6
 canon: "New Testament"
 ---
-
 # John 6
 
 ### 1
@@ -61,7 +60,7 @@ and they entered into the boat, and were going over the sea to Capernaum. It was
 The sea was tossed by a great wind blowing.
 
 ### 19
-When therefore they had rowed about twenty-five or thirty stadia,  they saw Jesus walking on the sea, and drawing near to the boat; and they were afraid.
+When therefore they had rowed about twenty-five or thirty stadia, they saw Jesus walking on the sea, and drawing near to the boat; and they were afraid.
 
 ### 20
 But he said to them, “It is I. Don’t be afraid.”
@@ -139,7 +138,7 @@ Therefore Jesus answered them, “Don’t murmur among yourselves.
 No one can come to me unless the Father who sent me draws him, and I will raise him up in the last day.
 
 ### 45
-It is written in the prophets, ‘They will all be taught by God.’   Therefore everyone who hears from the Father, and has learned, comes to me.
+It is written in the prophets, ‘They will all be taught by God.’ Therefore everyone who hears from the Father, and has learned, comes to me.
 
 ### 46
 Not that anyone has seen the Father, except he who is from God. He has seen the Father.
@@ -218,4 +217,3 @@ Jesus answered them, “Didn’t I choose you, the twelve, and one of you is a d
 
 ### 71
 Now he spoke of Judas, the son of Simon Iscariot, for it was he who would betray him, being one of the twelve.
-

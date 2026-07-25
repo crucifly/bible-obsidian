@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 115
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 115
 
 ### 1
@@ -11,4 +10,3 @@ And He shall answer and say unto them, “Why did [ye deny Me, and entreat Me ev
 
 ### 2
 And those who have believed and who have been baptized in the Holy Trinity, and have received His Body and His Blood, shall become His servants with their whole heart, for “there is no one who can hate His Body altogether.” The Body of Christ crieth out in our Body, and He hath compassion because of His Body and Blood, for they have become His sons and His brethren. And if there be some who have sinned they shall be judged in the fire according to the quantity of their sins; he whose burden of sin is light his punishment shall be light, and he whose burden of sin is heavy, exceedingly great shall his punishment be. One day with God is as a period of ten thousand years; some there shall be who shall be punished for a day; and some for half a day, and some for three hours of a day, and some for one hour of a day; and some there shall be who shall be tested and who shall be absolved from their transgressions.
-

@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 10
 canon: "Deuterocanonical"
 ---
-
 # Tobit 10
 
 ### 1
@@ -41,4 +40,3 @@ And he blessed them, and sent them away, saying, The God of
 
 ### 12
 And he said to his daughter, Honour thy father and thy mother in
-

@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 48
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 48
 
 ### 1
@@ -35,4 +34,3 @@ And I will give them over into the hands of Mine elect: As straw in the fire so 
 
 ### 10
 And on the day of their affliction there shall be rest on the earth, And before them they shall fall and not rise again: And there shall be no one to take them with his hands and raise them: For they have denied the Lord of Spirits and His Anointed. The name of the Lord of Spirits be blessed.
-

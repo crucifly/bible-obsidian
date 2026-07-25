@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 56
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 56
 
 ### 1
@@ -17,4 +16,3 @@ Woe be unto us, if our sons have carried off our Lady, the holy, heavenly Zion, 
 
 ### 4
 And the King said unto Zadok, “Go quickly and look at our Lady and examine her closely.” And Zadok the priest took the keys, and went and opened the house of the sanctuary, and he examined [the place] quickly, and he found there nothing except the wooden boards which Azâryâs had fastened together and had made to resemble the sides of the pedestal of Zion.
-

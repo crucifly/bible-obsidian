@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 48
 canon: "Prophets"
 ---
-
 # Ezekiel 48
 
 ### 1
@@ -110,4 +109,3 @@ and the gates of the city shall be named after the tribes of Israel, three gates
 
 ### 35
 “It shall be eighteen thousand reeds around: and the name of the city from that day shall be, ‘Yahweh is there.’
-

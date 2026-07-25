@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 9
 canon: "Historical"
 ---
-
 # 1 Samuel 9
 
 ### 1
@@ -86,4 +85,3 @@ They arose early; and about daybreak, Samuel called to Saul on the housetop, say
 
 ### 27
 As they were going down at the end of the city, Samuel said to Saul, “Tell the servant to go on ahead of us.” He went ahead, then Samuel said, “But stand still first, that I may cause you to hear God’s message.”
-

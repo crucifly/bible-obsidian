@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 4
 canon: "New Testament"
 ---
-
 # Romans 4
 
 ### 1
@@ -80,4 +79,3 @@ but for our sake also, to whom it will be accounted, who believe in him who rais
 
 ### 25
 who was delivered up for our trespasses, and was raised for our justification.
-

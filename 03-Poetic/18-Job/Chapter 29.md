@@ -3,7 +3,6 @@ book: "Job"
 chapter: 29
 canon: "Poetic"
 ---
-
 # Job 29
 
 ### 1
@@ -80,4 +79,3 @@ I smiled on them when they had no confidence. They didn’t reject the light of 
 
 ### 25
 I chose out their way, and sat as chief. I lived as a king in the army, as one who comforts the mourners.
-

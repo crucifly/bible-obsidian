@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 21
 canon: "New Testament"
 ---
-
 # Luke 21
 
 ### 1
@@ -119,4 +118,3 @@ Every day Jesus was teaching in the temple, and every night he would go out and 
 
 ### 38
 All the people came early in the morning to him in the temple to hear him.
-

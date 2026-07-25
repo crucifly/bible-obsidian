@@ -3,7 +3,6 @@ book: "Amos"
 chapter: 9
 canon: "Prophets"
 ---
-
 # Amos 9
 
 ### 1
@@ -50,4 +49,3 @@ I will bring my people Israel back from captivity, and they will rebuild the rui
 
 ### 15
 I will plant them on their land, and they will no more be plucked up out of their land which I have given them,” says Yahweh your God.
-

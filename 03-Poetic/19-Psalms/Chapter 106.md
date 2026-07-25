@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 106
 canon: "Poetic"
 ---
-
 # Psalms 106
 
 ### 1
@@ -149,4 +148,3 @@ Save us, Yahweh, our God, gather us from among the nations, to give thanks to yo
 
 ### 48
 Blessed be Yahweh, the God of Israel, from everlasting even to everlasting! Let all the people say, “Amen.” Praise Yah!
-

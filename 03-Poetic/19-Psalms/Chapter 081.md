@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 81
 canon: "Poetic"
 ---
-
 # Psalms 81
 
 ### 1
@@ -53,4 +52,3 @@ The haters of Yahweh would cringe before him, and their punishment would last fo
 
 ### 16
 But he would have also fed them with the finest of the wheat. I will satisfy you with honey out of the rock.”
-

@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 42
 canon: "Prophets"
 ---
-
 # Isaiah 42
 
 ### 1
@@ -80,4 +79,3 @@ Who gave Jacob as plunder, and Israel to the robbers? Didn’t Yahweh, he agains
 
 ### 25
 Therefore he poured the fierceness of his anger on him, and the strength of battle; and it set him on fire all around, but he didn’t know; and it burned him, but he didn’t take it to heart.”
-

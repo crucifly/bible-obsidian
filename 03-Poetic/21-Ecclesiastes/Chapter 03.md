@@ -3,7 +3,6 @@ book: "Ecclesiastes"
 chapter: 3
 canon: "Poetic"
 ---
-
 # Ecclesiastes 3
 
 ### 1
@@ -71,4 +70,3 @@ Who knows the spirit of man, whether it goes upward, and the spirit of the anima
 
 ### 22
 Therefore I saw that there is nothing better, than that a man should rejoice in his works; for that is his portion: for who can bring him to see what will be after him?
-

@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 7
 canon: "Prophets"
 ---
-
 # Jeremiah 7
 
 ### 1
@@ -107,4 +106,3 @@ The dead bodies of this people will be food for the birds of the sky, and for th
 
 ### 34
 Then I will cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride; for the land will become a waste.”
-

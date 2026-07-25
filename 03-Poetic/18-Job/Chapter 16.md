@@ -3,7 +3,6 @@ book: "Job"
 chapter: 16
 canon: "Poetic"
 ---
-
 # Job 16
 
 ### 1
@@ -71,4 +70,3 @@ that he would maintain the right of a man with God, of a son of man with his nei
 
 ### 22
 For when a few years have come, I shall go the way of no return.
-

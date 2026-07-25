@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 10
 canon: "Historical"
 ---
-
 # 2 Kings 10
 
 ### 1
@@ -113,4 +112,3 @@ Jehu slept with his fathers; and they buried him in Samaria. Jehoahaz his son re
 
 ### 36
 The time that Jehu reigned over Israel in Samaria was twenty-eight years.
-

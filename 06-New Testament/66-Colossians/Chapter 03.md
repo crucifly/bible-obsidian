@@ -3,7 +3,6 @@ book: "Colossians"
 chapter: 3
 canon: "New Testament"
 ---
-
 # Colossians 3
 
 ### 1
@@ -80,4 +79,3 @@ knowing that from the Lord you will receive the reward of the inheritance; for y
 
 ### 25
 But he who does wrong will receive again for the wrong that he has done, and there is no partiality.
-

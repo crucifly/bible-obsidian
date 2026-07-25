@@ -3,7 +3,6 @@ book: "Judith"
 chapter: 6
 canon: "Deuterocanonical"
 ---
-
 # Judith 6
 
 ### 1
@@ -80,4 +79,3 @@ But the multitude of the wise is the welfare of the world: and a
 
 ### 25
 Receive therefore instruction through my words, and it shall do
-

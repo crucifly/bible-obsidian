@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 5
 canon: "Prophets"
 ---
-
 # Ezekiel 5
 
 ### 1
@@ -56,4 +55,3 @@ when I send on them the evil arrows of famine that are for destruction, which I 
 
 ### 17
 I will send on you famine and evil animals, and they will bereave you. Pestilence and blood will pass through you. I will bring the sword on you. I, Yahweh, have spoken it.’”
-

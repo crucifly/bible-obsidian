@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 14
 canon: "New Testament"
 ---
-
 # Revelation 14
 
 ### 1
@@ -65,4 +64,3 @@ The angel thrust his sickle into the earth, and gathered the vintage of the eart
 
 ### 20
 The wine press was trodden outside of the city, and blood came out of the wine press, even to the bridles of the horses, as far as one thousand six hundred stadia.
-

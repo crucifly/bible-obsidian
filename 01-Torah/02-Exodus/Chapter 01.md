@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 1
 canon: "Torah"
 ---
-
 # Exodus 1
 
 ### 1
@@ -71,4 +70,3 @@ Because the midwives feared God, he gave them families.
 
 ### 22
 Pharaoh commanded all his people, saying, “You shall cast every son who is born into the river, and every daughter you shall save alive.”
-

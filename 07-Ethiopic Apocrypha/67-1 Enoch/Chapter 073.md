@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 73
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 73
 
 ### 1
@@ -29,4 +28,3 @@ And she sets with the sun, and when the sun rises the moon rises with him and re
 
 ### 8
 And she rises on that day with exactly a seventh part, and comes forth and recedes from the rising of the sun, and in her remaining days she becomes bright in the (remaining) thirteen parts.
-

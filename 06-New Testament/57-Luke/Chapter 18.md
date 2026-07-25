@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 18
 canon: "New Testament"
 ---
-
 # Luke 18
 
 ### 1
@@ -134,4 +133,3 @@ Jesus said to him, “Receive your sight. Your faith has healed you.”
 
 ### 43
 Immediately he received his sight, and followed him, glorifying God. All the people, when they saw it, praised God.
-

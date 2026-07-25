@@ -3,7 +3,6 @@ book: "Hosea"
 chapter: 10
 canon: "Prophets"
 ---
-
 # Hosea 10
 
 ### 1
@@ -50,4 +49,3 @@ Therefore a battle roar will arise among your people, and all your fortresses wi
 
 ### 15
 So Bethel will do to you because of your great wickedness. At daybreak the king of Israel will be destroyed.
-

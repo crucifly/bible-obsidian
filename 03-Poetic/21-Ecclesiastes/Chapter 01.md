@@ -3,7 +3,6 @@ book: "Ecclesiastes"
 chapter: 1
 canon: "Poetic"
 ---
-
 # Ecclesiastes 1
 
 ### 1
@@ -59,4 +58,3 @@ I applied my heart to know wisdom, and to know madness and folly. I perceived th
 
 ### 18
 For in much wisdom is much grief; and he who increases knowledge increases sorrow.
-

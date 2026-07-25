@@ -3,7 +3,6 @@ book: "Amos"
 chapter: 6
 canon: "Prophets"
 ---
-
 # Amos 6
 
 ### 1
@@ -47,4 +46,3 @@ you who rejoice in a thing of nothing, who say, ‘Haven’t we taken for oursel
 
 ### 14
 For, behold, I will raise up against you a nation, house of Israel,” says Yahweh, the God of Armies; “and they will afflict you from the entrance of Hamath to the brook of the Arabah.”
-

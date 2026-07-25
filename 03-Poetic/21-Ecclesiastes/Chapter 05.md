@@ -3,7 +3,6 @@ book: "Ecclesiastes"
 chapter: 5
 canon: "Poetic"
 ---
-
 # Ecclesiastes 5
 
 ### 1
@@ -65,4 +64,3 @@ Every man also to whom God has given riches and wealth, and has given him power 
 
 ### 20
 For he shall not often reflect on the days of his life; because God occupies him with the joy of his heart.
-

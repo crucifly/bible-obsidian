@@ -3,7 +3,6 @@ book: "Philippians"
 chapter: 2
 canon: "New Testament"
 ---
-
 # Philippians 2
 
 ### 1
@@ -95,4 +94,3 @@ Receive him therefore in the Lord with all joy, and hold such in honor,
 
 ### 30
 because for the work of Christ he came near to death, risking his life to supply that which was lacking in your service toward me.
-

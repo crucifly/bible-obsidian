@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 7
 canon: "Historical"
 ---
-
 # Judges 7
 
 ### 1
@@ -80,4 +79,3 @@ Gideon sent messengers throughout all the hill country of Ephraim, saying, “Co
 
 ### 25
 They took the two princes of Midian, Oreb and Zeeb. They killed Oreb at Oreb’s rock, and Zeeb they killed at Zeeb’s wine press; and pursued Midian. Then they brought the heads of Oreb and Zeeb to Gideon beyond the Jordan.
-

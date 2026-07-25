@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 8
 canon: "New Testament"
 ---
-
 # 1 Corinthians 8
 
 ### 1
@@ -44,4 +43,3 @@ Thus, sinning against the brothers, and wounding their conscience when it is wea
 
 ### 13
 Therefore if food causes my brother to stumble, I will eat no meat forever more, that I don’t cause my brother to stumble.
-

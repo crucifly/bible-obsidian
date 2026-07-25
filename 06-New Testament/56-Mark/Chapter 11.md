@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 11
 canon: "New Testament"
 ---
-
 # Mark 11
 
 ### 1
@@ -31,7 +30,7 @@ They brought the young donkey to Jesus, and threw their garments on it, and Jesu
 Many spread their garments on the way, and others were cutting down branches from the trees, and spreading them on the road.
 
 ### 9
-Those who went in front, and those who followed, cried out, “Hosanna!  Blessed is he who comes in the name of the Lord!
+Those who went in front, and those who followed, cried out, “Hosanna! Blessed is he who comes in the name of the Lord!
 
 ### 10
 Blessed is the kingdom of our father David that is coming in the name of the Lord! Hosanna in the highest!”
@@ -46,7 +45,7 @@ The next day, when they had come out from Bethany, he was hungry.
 Seeing a fig tree afar off having leaves, he came to see if perhaps he might find anything on it. When he came to it, he found nothing but leaves, for it was not the season for figs.
 
 ### 14
-Jesus told it, “May no one ever eat fruit from you again!”  and his disciples heard it.
+Jesus told it, “May no one ever eat fruit from you again!” and his disciples heard it.
 
 ### 15
 They came to Jerusalem, and Jesus entered into the temple, and began to throw out those who sold and those who bought in the temple, and overthrew the money changers’ tables, and the seats of those who sold the doves.
@@ -104,4 +103,3 @@ If we should say, ‘From men’”—they feared the people, for all held John 
 
 ### 33
 They answered Jesus, “We don’t know.” Jesus said to them, “Neither do I tell you by what authority I do these things.”
-

@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 4
 canon: "Historical"
 ---
-
 # Joshua 4
 
 ### 1
@@ -77,4 +76,3 @@ For Yahweh your God dried up the waters of the Jordan from before you, until you
 
 ### 24
 that all the peoples of the earth may know that Yahweh’s hand is mighty; that you may fear Yahweh your God forever.’”
-

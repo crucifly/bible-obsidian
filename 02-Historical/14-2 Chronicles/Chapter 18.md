@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 18
 canon: "Historical"
 ---
-
 # 2 Chronicles 18
 
 ### 1
@@ -107,4 +106,3 @@ A certain man drew his bow at random, and struck the king of Israel between the 
 
 ### 34
 The battle increased that day. However the king of Israel propped himself up in his chariot against the Syrians until the evening; and at about sunset, he died.
-

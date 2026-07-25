@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 59
 canon: "Poetic"
 ---
-
 # Psalms 59
 
 ### 1
@@ -56,4 +55,3 @@ But I will sing of your strength. Yes, I will sing aloud of your loving kindness
 
 ### 17
 To you, my strength, I will sing praises. For God is my high tower, the God of my mercy.
-

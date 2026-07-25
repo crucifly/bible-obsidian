@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 62
 canon: "Prophets"
 ---
-
 # Isaiah 62
 
 ### 1
@@ -41,4 +40,3 @@ Behold, Yahweh has proclaimed to the end of the earth, “Say to the daughter of
 
 ### 12
 They will call them The holy people, Yahweh’s redeemed. You will be called Sought out, A city not forsaken.
-

@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Isaiah 3
 
 ### 1
@@ -83,4 +82,3 @@ Your men shall fall by the sword, and your mighty in the war.
 
 ### 26
 Her gates shall lament and mourn; and she shall be desolate and sit on the ground.
-

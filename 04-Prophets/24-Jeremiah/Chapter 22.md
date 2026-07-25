@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 22
 canon: "Prophets"
 ---
-
 # Jeremiah 22
 
 ### 1
@@ -95,4 +94,3 @@ O earth, earth, earth, hear Yahweh’s word!
 
 ### 30
 Yahweh says, “Record this man as childless, a man who will not prosper in his days; for no more will a man of his offspring prosper, sitting on David’s throne, and ruling in Judah.”
-

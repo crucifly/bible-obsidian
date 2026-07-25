@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 15
 canon: "Torah"
 ---
-
 # Deuteronomy 15
 
 ### 1
@@ -74,4 +73,3 @@ You shall eat it within your gates. The unclean and the clean shall eat it alike
 
 ### 23
 Only you shall not eat its blood. You shall pour it out on the ground like water.
-

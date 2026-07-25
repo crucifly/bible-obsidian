@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 42
 canon: "Torah"
 ---
-
 # Genesis 42
 
 ### 1
@@ -119,4 +118,3 @@ Reuben spoke to his father, saying, “Kill my two sons, if I don’t bring him 
 
 ### 38
 He said, “My son shall not go down with you; for his brother is dead, and he only is left. If harm happens to him along the way in which you go, then you will bring down my gray hairs with sorrow to Sheol.”
-

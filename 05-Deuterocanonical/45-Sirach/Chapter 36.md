@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 36
 canon: "Deuterocanonical"
 ---
-
 # Sirach 36
 
 ### 1
@@ -83,4 +82,3 @@ Where no hedge is, there the possession is spoiled: and he that
 
 ### 26
 Who will trust a thief well appointed, that skippeth from city to
-

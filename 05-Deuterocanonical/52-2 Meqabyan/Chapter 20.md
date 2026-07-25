@@ -3,7 +3,6 @@ book: "2 Meqabyan"
 chapter: 20
 canon: "Deuterocanonical"
 ---
-
 # 2 Meqabyan 20
 
 ### 1
@@ -47,4 +46,3 @@ Because they lived firmly in the work of Cain, perished by the price of Balaamâ€
 
 ### 14
 They shall receive their hardship in Gehenna for the sins they committed.
-

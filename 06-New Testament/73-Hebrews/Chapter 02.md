@@ -3,7 +3,6 @@ book: "Hebrews"
 chapter: 2
 canon: "New Testament"
 ---
-
 # Hebrews 2
 
 ### 1
@@ -59,4 +58,3 @@ Therefore he was obligated in all things to be made like his brothers, that he m
 
 ### 18
 For in that he himself has suffered being tempted, he is able to help those who are tempted.
-

@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 14
 canon: "Historical"
 ---
-
 # 2 Kings 14
 
 ### 1
@@ -92,4 +91,3 @@ Now the rest of the acts of Jeroboam, and all that he did, and his might, how he
 
 ### 29
 Jeroboam slept with his fathers, even with the kings of Israel; and Zechariah his son reigned in his place.
-

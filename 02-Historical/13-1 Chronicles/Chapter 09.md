@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 9
 canon: "Historical"
 ---
-
 # 1 Chronicles 9
 
 ### 1
@@ -137,4 +136,3 @@ Moza became the father of Binea; and Rephaiah his son, Eleasah his son, and Azel
 
 ### 44
 Azel had six sons, whose names are these: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. These were the sons of Azel.
-

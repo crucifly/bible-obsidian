@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 40
 canon: "Prophets"
 ---
-
 # Ezekiel 40
 
 ### 1
@@ -152,4 +151,3 @@ Then he brought me to the porch of the house, and measured each post of the porc
 
 ### 49
 The length of the porch was twenty cubits, and the width eleven cubits; even by the steps by which they went up to it. There were pillars by the posts, one on this side, and another on that side.
-

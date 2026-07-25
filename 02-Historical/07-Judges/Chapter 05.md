@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 5
 canon: "Historical"
 ---
-
 # Judges 5
 
 ### 1
@@ -98,4 +97,3 @@ Her wise ladies answered her, Yes, she returned answer to herself,
 
 ### 31
 “So let all your enemies perish, Yahweh, but let those who love him be as the sun when it rises in its strength.” Then the land had rest forty years.
-

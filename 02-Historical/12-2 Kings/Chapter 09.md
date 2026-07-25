@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 9
 canon: "Historical"
 ---
-
 # 2 Kings 9
 
 ### 1
@@ -116,4 +115,3 @@ Therefore they came back, and told him. He said, “This is Yahweh’s word, whi
 
 ### 37
 and the body of Jezebel will be as dung on the face of the field on Jezreel’s land, so that they won’t say, “This is Jezebel.”’”
-

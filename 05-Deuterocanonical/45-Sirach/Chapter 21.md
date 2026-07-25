@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 21
 canon: "Deuterocanonical"
 ---
-
 # Sirach 21
 
 ### 1
@@ -89,4 +88,3 @@ When the ungodly curseth Satan, he curseth his own soul.
 
 ### 28
 A whisperer defileth his own soul, and is hated wheresoever he
-

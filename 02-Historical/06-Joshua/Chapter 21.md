@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 21
 canon: "Historical"
 ---
-
 # Joshua 21
 
 ### 1
@@ -140,4 +139,3 @@ Yahweh gave them rest all around, according to all that he swore to their father
 
 ### 45
 Nothing failed of any good thing which Yahweh had spoken to the house of Israel. All came to pass.
-

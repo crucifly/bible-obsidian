@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 33
 canon: "Torah"
 ---
-
 # Numbers 33
 
 ### 1
@@ -173,4 +172,3 @@ You shall inherit the land by lot according to your families; to the more you sh
 
 ### 56
 It shall happen that as I thought to do to them, so will I do to you.”
-

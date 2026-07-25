@@ -3,7 +3,6 @@ book: "Joel"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Joel 2
 
 ### 1
@@ -101,4 +100,3 @@ The sun will be turned into darkness, and the moon into blood, before the great 
 
 ### 32
 It will happen that whoever will call on Yahweh’s name shall be saved; for in Mount Zion and in Jerusalem there will be those who escape, as Yahweh has said, and among the remnant, those whom Yahweh calls.
-

@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 28
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 28
 
 ### 1
@@ -14,4 +13,3 @@ And thence I went ⌈⌈towards the east⌉⌉, into the midst ⌈⌈of the moun
 
 ### 3
 Rushing like a copious watercourse [which flowed] towards the north-west it caused clouds and dew to ascend on every side.
-

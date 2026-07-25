@@ -3,7 +3,6 @@ book: "Ecclesiastes"
 chapter: 10
 canon: "Poetic"
 ---
-
 # Ecclesiastes 10
 
 ### 1
@@ -65,4 +64,3 @@ A feast is made for laughter, and wine makes the life glad; and money is the ans
 
 ### 20
 Don’t curse the king, no, not in your thoughts; and don’t curse the rich in your bedroom: for a bird of the sky may carry your voice, and that which has wings may tell the matter.
-

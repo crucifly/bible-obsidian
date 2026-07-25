@@ -3,7 +3,6 @@ book: "Job"
 chapter: 10
 canon: "Poetic"
 ---
-
 # Job 10
 
 ### 1
@@ -71,4 +70,3 @@ before I go where I shall not return from, to the land of darkness and of the sh
 
 ### 22
 the land dark as midnight, of the shadow of death, without any order, where the light is as midnight.’”
-

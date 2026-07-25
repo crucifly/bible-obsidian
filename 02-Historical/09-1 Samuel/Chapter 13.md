@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 13
 canon: "Historical"
 ---
-
 # 1 Samuel 13
 
 ### 1
@@ -74,4 +73,3 @@ So it came to pass in the day of battle, that neither sword nor spear was found 
 
 ### 23
 The garrison of the Philistines went out to the pass of Michmash.
-

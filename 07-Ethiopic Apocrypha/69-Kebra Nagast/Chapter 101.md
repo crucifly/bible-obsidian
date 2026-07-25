@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 101
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 101
 
 ### 1
@@ -11,4 +10,3 @@ And again God said unto Moses: “Make for Me an open space before the courtyard
 
 ### 2
 I am above the earth, and I am at the ends of the world, and I am Master of everything. I am in the air, My place of abode, and I am above the chariot of the Cherubim, and I am praised everlastingly by all the angels and by holy men. And I am above the heights of heaven, and I fill everything. I am above the Seven Heavens. I see everything, and I test everything, and there is nothing that is hidden from Me. I am in every place, and there is no other god besides Me, neither in the heaven above nor in the earth beneath; there is none like unto Me, saith God; My hand hath laid the foundation of the earth, and My right hand hath made strong the heavens; I and My Son and the Holy Spirit.”
-

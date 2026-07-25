@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 6
 canon: "Torah"
 ---
-
 # Numbers 6
 
 ### 1
@@ -25,7 +24,7 @@ All the days of his separation he shall eat nothing that is made of the grapevin
 “‘All the days that he separates himself to Yahweh he shall not go near a dead body.
 
 ### 7
-He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die; because his separation to God  is on his head.
+He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die; because his separation to God is on his head.
 
 ### 8
 All the days of his separation he is holy to Yahweh.
@@ -86,4 +85,3 @@ Yahweh lift up his face toward you, and give you peace.’
 
 ### 27
 “So they shall put my name on the children of Israel; and I will bless them.”
-

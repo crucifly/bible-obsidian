@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 49
 canon: "Torah"
 ---
-
 # Genesis 49
 
 ### 1
@@ -104,4 +103,3 @@ the field and the cave that is therein, which was purchased from the children of
 
 ### 33
 When Jacob finished charging his sons, he gathered up his feet into the bed, and yielded up the spirit, and was gathered to his people.
-

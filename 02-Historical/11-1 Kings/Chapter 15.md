@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 15
 canon: "Historical"
 ---
-
 # 1 Kings 15
 
 ### 1
@@ -107,4 +106,3 @@ In the third year of Asa king of Judah, Baasha the son of Ahijah began to reign 
 
 ### 34
 He did that which was evil in Yahweh’s sight, and walked in the way of Jeroboam, and in his sin with which he made Israel to sin.
-

@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 27
 canon: "Prophets"
 ---
-
 # Ezekiel 27
 
 ### 1
@@ -113,4 +112,3 @@ All the inhabitants of the islands are astonished at you, and their kings are ho
 
 ### 36
 The merchants among the peoples hiss at you. You have become a terror, and you will be no more.”’”
-

@@ -3,7 +3,6 @@ book: "Wisdom of Solomon"
 chapter: 17
 canon: "Deuterocanonical"
 ---
-
 # Wisdom of Solomon 17
 
 ### 1
@@ -68,4 +67,3 @@ For the whole world shined with clear light, and none were
 
 ### 21
 Over them only was spread an heavy night, an image of that
-

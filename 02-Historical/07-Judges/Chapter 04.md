@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 4
 canon: "Historical"
 ---
-
 # Judges 4
 
 ### 1
@@ -77,4 +76,3 @@ So God subdued Jabin the king of Canaan before the children of Israel on that da
 
 ### 24
 The hand of the children of Israel prevailed more and more against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.
-

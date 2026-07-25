@@ -3,7 +3,6 @@ book: "Bel and the Dragon"
 chapter: 1
 canon: "Deuterocanonical"
 ---
-
 # Bel and the Dragon 1
 
 ### 1
@@ -131,4 +130,3 @@ Then cried the king with a loud voice, saying, Great art thou, O Lord God of Dan
 
 ### 42
 And he cast him into the den: and they were devoured in a moment before his face.
-

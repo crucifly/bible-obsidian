@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 15
 canon: "Deuterocanonical"
 ---
-
 # Sirach 15
 
 ### 1
@@ -65,4 +64,3 @@ And his eyes are upon them that fear him, and he knoweth every
 
 ### 20
 He hath commanded no man to do wickedly, neither hath he given
-

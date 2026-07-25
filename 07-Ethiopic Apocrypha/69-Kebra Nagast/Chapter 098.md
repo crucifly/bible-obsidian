@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 98
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 98
 
 ### 1
@@ -32,4 +31,3 @@ And again when Israel went out of Egypt they came to bitter water, and they lack
 
 ### 9
 And here I will declare unto thee yet other matters from the rest of the Prophets concerning His Crucifixion. David saith, “They have pierced for me my hands and my feet”; now this referreth clearly to the nails of His hands and His feet. And again he saith, “They made me drink vinegar for my thirst,” and this showeth clearly that He drank vinegar because of the sin of Adam. The Breath of Life that had breathed upon Adam drank vinegar, and the Hand that had founded the earth was pierced with a nail. He Who for the sake of Adam abased Himself was born, and took the form of a servant.
-

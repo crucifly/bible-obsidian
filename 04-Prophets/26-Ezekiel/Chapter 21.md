@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 21
 canon: "Prophets"
 ---
-
 # Ezekiel 21
 
 ### 1
@@ -101,4 +100,3 @@ I will pour out my indignation on you. I will blow on you with the fire of my wr
 
 ### 32
 You will be for fuel to the fire. Your blood will be in the middle of the land. You will be remembered no more; for I, Yahweh, have spoken it.”’”
-

@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 24
 canon: "Torah"
 ---
-
 # Genesis 24
 
 ### 1
@@ -206,4 +205,3 @@ The servant told Isaac all the things that he had done.
 
 ### 67
 Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife. He loved her. Isaac was comforted after his mother’s death.
-

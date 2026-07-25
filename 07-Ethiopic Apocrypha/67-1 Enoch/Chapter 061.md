@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 61
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 61
 
 ### 1
@@ -44,4 +43,3 @@ All who sleep not above in heaven shall bless Him: All the holy ones who are in 
 
 ### 13
 For great is the mercy of the Lord of Spirits, and He is long-suffering, And all His works and all that He has created He has revealed to the righteous and elect In the name of the Lord of Spirits.
-

@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 35
 canon: "Deuterocanonical"
 ---
-
 # Sirach 35
 
 ### 1
@@ -65,4 +64,3 @@ Till he have rendered to every man according to his deeds, and to
 
 ### 20
 Mercy is seasonable in the time of affliction, as clouds of rain
-

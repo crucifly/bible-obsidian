@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 51
 canon: "Prophets"
 ---
-
 # Jeremiah 51
 
 ### 1
@@ -197,4 +196,3 @@ It will be, when you have finished reading this book, that you shall bind a ston
 
 ### 64
 Then you shall say, ‘Thus will Babylon sink, and will not rise again because of the evil that I will bring on her; and they will be weary.’” Thus far are the words of Jeremiah.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 119
 canon: "Poetic"
 ---
-
 # Psalms 119
 
 ### 1
@@ -533,4 +532,3 @@ Let my soul live, that I may praise you. Let your ordinances help me.
 
 ### 176
 I have gone astray like a lost sheep. Seek your servant, for I don’t forget your commandments.
-

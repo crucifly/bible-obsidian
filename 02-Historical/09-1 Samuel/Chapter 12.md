@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 12
 canon: "Historical"
 ---
-
 # 1 Samuel 12
 
 ### 1
@@ -80,4 +79,3 @@ Only fear Yahweh, and serve him in truth with all your heart; for consider what 
 
 ### 25
 But if you keep doing evil, you will be consumed, both you and your king.”
-

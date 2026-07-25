@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 10
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 10
 
 ### 1
@@ -11,4 +10,3 @@ canon: "Ethiopic Apocrypha"
 
 ### 2
 And the Archbishops who were there answered and said to the blessed Gregory, “Behold now, we understand clearly that before every created thing, even the angels, and before the heavens and the earth, and before the pillars of heaven, and the abysses of the sea, He created the Tabernacle of the Covenant, and this which is in heaven goeth about upon the earth.”
-

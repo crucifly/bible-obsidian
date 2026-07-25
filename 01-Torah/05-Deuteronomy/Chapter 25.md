@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 25
 canon: "Torah"
 ---
-
 # Deuteronomy 25
 
 ### 1
@@ -62,4 +61,3 @@ how he met you by the way, and struck the rearmost of you, all who were feeble b
 
 ### 19
 Therefore it shall be, when Yahweh your God has given you rest from all your enemies all around, in the land which Yahweh your God gives you for an inheritance to possess it, that you shall blot out the memory of Amalek from under the sky. You shall not forget.
-

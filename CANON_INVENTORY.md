@@ -5,20 +5,16 @@ type: reference
 last_updated: 2026-05-05
 status: draft
 ---
-
 # Ethiopian-81 Canon Inventory
 
 This document serves as the **authoritative master index** for the Ethiopian-81 canon. It defines the complete scope of scriptural coverage and provides the mapping required by the JSONL Forge for deterministic verse extraction.
-
 ## Inventory Structure
-
 Each book entry includes:
 - **ID Prefix**: Used in verse IDs (e.g., `GEN` for Genesis)
 - **Full Name**: Canonical English name
 - **Chapters**: Total chapter count
 - **Verses**: Approximate total verses (for coverage tracking)
 - **Notes**: Canon-specific metadata or variants
-
 ---
 
 ## I. Torah (5 Books)

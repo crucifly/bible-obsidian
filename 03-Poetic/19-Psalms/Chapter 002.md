@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 2
 canon: "Poetic"
 ---
-
 # Psalms 2
 
 ### 1
@@ -41,4 +40,3 @@ Serve Yahweh with fear, and rejoice with trembling.
 
 ### 12
 Give sincere homage to the Son, lest he be angry, and you perish on the way, for his wrath will soon be kindled. Blessed are all those who take refuge in him.
-

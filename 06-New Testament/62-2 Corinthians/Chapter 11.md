@@ -3,7 +3,6 @@ book: "2 Corinthians"
 chapter: 11
 canon: "New Testament"
 ---
-
 # 2 Corinthians 11
 
 ### 1
@@ -104,4 +103,3 @@ In Damascus the governor under King Aretas guarded the Damascenes’ city, desir
 
 ### 33
 Through a window I was let down in a basket by the wall, and escaped his hands.
-

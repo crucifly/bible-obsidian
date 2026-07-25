@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 30
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 30
 
 ### 0
@@ -14,4 +13,3 @@ And ⌈therein there was⌉ a tree, the colour (?) of fragrant trees such as the
 
 ### 3
 And on the sides of those valleys I saw fragrant cinnamon. And beyond these I proceeded to the east.
-

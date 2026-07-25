@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 16
 canon: "Torah"
 ---
-
 # Genesis 16
 
 ### 1
@@ -53,4 +52,3 @@ Hagar bore a son for Abram. Abram called the name of his son, whom Hagar bore, I
 
 ### 16
 Abram was eighty-six years old when Hagar bore Ishmael to Abram.
-

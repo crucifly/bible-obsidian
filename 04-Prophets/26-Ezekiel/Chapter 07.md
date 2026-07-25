@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 7
 canon: "Prophets"
 ---
-
 # Ezekiel 7
 
 ### 1
@@ -86,4 +85,3 @@ Mischief will come on mischief, and rumor will be on rumor. They will seek a vis
 
 ### 27
 The king will mourn, and the prince will be clothed with desolation. The hands of the people of the land will be troubled. I will do to them after their way, and according to their own judgments I will judge them. Then they will know that I am Yahweh.’”
-

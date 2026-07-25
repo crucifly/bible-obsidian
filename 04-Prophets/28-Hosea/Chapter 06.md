@@ -3,7 +3,6 @@ book: "Hosea"
 chapter: 6
 canon: "Prophets"
 ---
-
 # Hosea 6
 
 ### 1
@@ -38,4 +37,3 @@ In the house of Israel I have seen a horrible thing. There is prostitution in Ep
 
 ### 11
 “Also, Judah, there is a harvest appointed for you, when I restore the fortunes of my people.
-

@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 26
 canon: "Historical"
 ---
-
 # 2 Chronicles 26
 
 ### 1
@@ -74,4 +73,3 @@ Now the rest of the acts of Uzziah, first and last, Isaiah the prophet, the son 
 
 ### 23
 So Uzziah slept with his fathers; and they buried him with his fathers in the field of burial which belonged to the kings, for they said, “He is a leper.” Jotham his son reigned in his place.
-

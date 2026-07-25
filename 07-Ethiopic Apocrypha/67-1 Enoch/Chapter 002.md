@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 2
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 2
 
 ### 1
@@ -14,4 +13,3 @@ Behold ye the earth, and give heed to the things which take place upon it from f
 
 ### 3
 Behold the summer and the winter, ⌈⌈how the whole earth is filled with water, and clouds and dew and rain lie upon it⌉⌉.
-

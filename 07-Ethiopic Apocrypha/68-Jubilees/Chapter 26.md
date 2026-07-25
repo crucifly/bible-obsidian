@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 26
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 26
 
 ### 1
@@ -179,4 +178,3 @@ The Book of Jubilees
 
 ### 58
 Rebecca alarmed at Esau's threats prevails on Isaac to send Jacob to Mesopotamia, 1-12. Isaac comforts Rebecca on the departure of Jacob, 13-18. Jacob's dream and vow at Bethel, 19-27. (Cf. Gen. xxviii.)
-

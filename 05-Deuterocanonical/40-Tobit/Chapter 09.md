@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 9
 canon: "Deuterocanonical"
 ---
-
 # Tobit 9
 
 ### 1
@@ -23,4 +22,3 @@ So Raphael went out, and lodged with Gabael, and gave him the
 
 ### 6
 And early in the morning they went forth both together, and came to
-

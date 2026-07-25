@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 98
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 98
 
 ### 1
@@ -53,4 +52,3 @@ Woe to you who write down lying and godless words; for they write down their lie
 
 ### 16
 Therefore they shall have no peace but die a sudden death.
-

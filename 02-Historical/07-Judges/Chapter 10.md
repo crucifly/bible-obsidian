@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 10
 canon: "Historical"
 ---
-
 # Judges 10
 
 ### 1
@@ -59,4 +58,3 @@ Then the children of Ammon were gathered together and encamped in Gilead. The ch
 
 ### 18
 The people, the princes of Gilead, said to one another, “Who is the man who will begin to fight against the children of Ammon? He shall be head over all the inhabitants of Gilead.”
-

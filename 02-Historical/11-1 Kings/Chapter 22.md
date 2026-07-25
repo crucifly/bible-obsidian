@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 22
 canon: "Historical"
 ---
-
 # 1 Kings 22
 
 ### 1
@@ -164,4 +163,3 @@ He did that which was evil in Yahweh’s sight, and walked in the way of his fat
 
 ### 53
 He served Baal and worshiped him, and provoked Yahweh, the God of Israel, to anger, in all the ways that his father had done so.
-

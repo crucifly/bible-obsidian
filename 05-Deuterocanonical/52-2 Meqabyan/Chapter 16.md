@@ -3,7 +3,6 @@ book: "2 Meqabyan"
 chapter: 16
 canon: "Deuterocanonical"
 ---
-
 # 2 Meqabyan 16
 
 ### 1
@@ -47,4 +46,3 @@ Because of this, they shall be judged in the hour that flesh and soul arise unit
 
 ### 15
 Woe to those who do not believe in the rising of flesh and soul, through which the Lord shows the abundance of His miracles. Everyone shall receive their reward according to their work and the labor of their hands.
-

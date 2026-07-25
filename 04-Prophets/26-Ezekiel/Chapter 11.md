@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 11
 canon: "Prophets"
 ---
-
 # Ezekiel 11
 
 ### 1
@@ -80,4 +79,3 @@ The Spirit lifted me up, and brought me in the vision by the Spirit of God into 
 
 ### 25
 Then I spoke to the captives all the things that Yahweh had shown me.
-

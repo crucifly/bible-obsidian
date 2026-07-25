@@ -3,7 +3,6 @@ book: "1 Timothy"
 chapter: 5
 canon: "New Testament"
 ---
-
 # 1 Timothy 5
 
 ### 1
@@ -16,7 +15,7 @@ the elder women as mothers; the younger as sisters, in all purity.
 Honor widows who are widows indeed.
 
 ### 4
-But if any widow has children or grandchildren, let them learn first to show piety towards their own family, and to repay their parents, for this is  acceptable in the sight of God.
+But if any widow has children or grandchildren, let them learn first to show piety towards their own family, and to repay their parents, for this is acceptable in the sight of God.
 
 ### 5
 Now she who is a widow indeed, and desolate, has her hope set on God, and continues in petitions and prayers night and day.
@@ -80,4 +79,3 @@ Some men’s sins are evident, preceding them to judgment, and some also follow 
 
 ### 25
 In the same way also there are good works that are obvious, and those that are otherwise can’t be hidden.
-

@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 24
 canon: "Historical"
 ---
-
 # 2 Chronicles 24
 
 ### 1
@@ -86,4 +85,3 @@ These are those who conspired against him: Zabad the son of Shimeath the Ammonit
 
 ### 27
 Now concerning his sons, the greatness of the burdens laid on him, and the rebuilding of God’s house, behold, they are written in the commentary of the book of the kings. Amaziah his son reigned in his place.
-

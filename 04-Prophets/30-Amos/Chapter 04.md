@@ -3,7 +3,6 @@ book: "Amos"
 chapter: 4
 canon: "Prophets"
 ---
-
 # Amos 4
 
 ### 1
@@ -44,4 +43,3 @@ So two or three cities staggered to one city to drink water, and were not satisf
 
 ### 13
 For, behold, he who forms the mountains, and creates the wind, and declares to man what is his thought; who makes the morning darkness, and treads on the high places of the earth: Yahweh, the God of Armies, is his name.”
-

@@ -3,7 +3,6 @@ book: "1 Meqabyan"
 chapter: 6
 canon: "Deuterocanonical"
 ---
-
 # 1 Meqabyan 6
 
 ### 1
@@ -17,4 +16,3 @@ His brothers, Abya and Panos, buried him in the city of their fathers.
 
 ### 4
 All the children of Israel wept for him, saying: "A great man has fallen in Israel today."
-

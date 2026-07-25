@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 33
 canon: "Prophets"
 ---
-
 # Jeremiah 33
 
 ### 1
@@ -83,4 +82,3 @@ Yahweh says: “If my covenant of day and night fails, if I have not appointed t
 
 ### 26
 then I will also cast away the offspring of Jacob, and of David my servant, so that I will not take of his offspring to be rulers over the offspring of Abraham, Isaac, and Jacob: for I will cause their captivity to be reversed and will have mercy on them.”
-

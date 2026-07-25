@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 5
 canon: "Torah"
 ---
-
 # Exodus 5
 
 ### 1
@@ -74,4 +73,3 @@ Moses returned to Yahweh, and said, “Lord, why have you brought trouble on thi
 
 ### 23
 For since I came to Pharaoh to speak in your name, he has brought trouble on this people; and you have not rescued your people at all.”
-

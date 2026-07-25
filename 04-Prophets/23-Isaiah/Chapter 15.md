@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 15
 canon: "Prophets"
 ---
-
 # Isaiah 15
 
 ### 1
@@ -32,4 +31,3 @@ For the cry has gone around the borders of Moab; its wailing to Eglaim, and its 
 
 ### 9
 For the waters of Dimon are full of blood; for I will bring yet more on Dimon, a lion on those of Moab who escape, and on the remnant of the land.
-

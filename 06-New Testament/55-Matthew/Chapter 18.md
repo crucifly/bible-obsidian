@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 18
 canon: "New Testament"
 ---
-
 # Matthew 18
 
 ### 1
@@ -110,4 +109,3 @@ His lord was angry, and delivered him to the tormentors, until he should pay all
 
 ### 35
 So my heavenly Father will also do to you, if you don’t each forgive your brother from your hearts for his misdeeds.”
-

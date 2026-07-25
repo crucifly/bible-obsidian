@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 95
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 95
 
 ### 1
@@ -23,4 +22,3 @@ And Gregory the Bishop, the worker of wonders, answered and said unto them, “V
 
 ### 6
 And one answered and said, “What is the beginning of the Book?” And they answered and said unto him, “It is the Law which was written concerning Christ, the Son of God. And it saith, ‘In the beginning God made the heavens and the earth’; and they existed from olden time. Now the earth was formless, but there were mixed together darkness, and winds, and water, and mist, and dust; all of these were mixed together. And the Spirit of God hovered above the waters. This meaneth that by the Word of God the heavens and the earth were created; and these words mean that the Spirit of God dwelt over all creation.”
-

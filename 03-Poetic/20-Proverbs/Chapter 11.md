@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 11
 canon: "Poetic"
 ---
-
 # Proverbs 11
 
 ### 1
@@ -98,4 +97,3 @@ The fruit of the righteous is a tree of life. He who is wise wins souls.
 
 ### 31
 Behold, the righteous shall be repaid in the earth; how much more the wicked and the sinner!
-

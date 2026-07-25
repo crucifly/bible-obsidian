@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 5
 canon: "New Testament"
 ---
-
 # Mark 5
 
 ### 1
@@ -127,11 +126,10 @@ When he had entered in, he said to them, “Why do you make an uproar and weep? 
 They ridiculed him. But he, having put them all out, took the father of the child, her mother, and those who were with him, and went in where the child was lying.
 
 ### 41
-Taking the child by the hand, he said to her, “Talitha cumi!”  which means, being interpreted, “Girl, I tell you, get up!”
+Taking the child by the hand, he said to her, “Talitha cumi!” which means, being interpreted, “Girl, I tell you, get up!”
 
 ### 42
 Immediately the girl rose up and walked, for she was twelve years old. They were amazed with great amazement.
 
 ### 43
 He strictly ordered them that no one should know this, and commanded that something should be given to her to eat.
-

@@ -3,7 +3,6 @@ book: "1 Esdras"
 chapter: 3
 canon: "Deuterocanonical"
 ---
-
 # 1 Esdras 3
 
 ### 1
@@ -77,4 +76,3 @@ But when they are from the wine, they remember not what they have
 
 ### 24
 O ye men, is not wine the strongest, that enforceth to do thus?
-

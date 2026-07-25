@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 5
 canon: "Historical"
 ---
-
 # 1 Kings 5
 
 ### 1
@@ -59,4 +58,3 @@ The king commanded, and they cut out large stones, costly stones, to lay the fou
 
 ### 18
 Solomon’s builders and Hiram’s builders and the Gebalites cut them, and prepared the timber and the stones to build the house.
-

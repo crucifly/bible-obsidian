@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 28
 canon: "Torah"
 ---
-
 # Genesis 28
 
 ### 1
@@ -71,4 +70,3 @@ so that I come again to my father’s house in peace, and Yahweh will be my God,
 
 ### 22
 then this stone, which I have set up for a pillar, will be God’s house. Of all that you will give me I will surely give a tenth to you.”
-

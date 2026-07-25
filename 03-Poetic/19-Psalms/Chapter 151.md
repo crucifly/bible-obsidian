@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 151
 canon: "Poetic"
 ---
-
 # Psalms 151
 
 ### 1
@@ -26,4 +25,3 @@ I went out to meet the Philistine, and he cursed me by his idols.
 
 ### 7
 But I drew his own sword; I beheaded him, and took away reproach from the people of Israel.
-

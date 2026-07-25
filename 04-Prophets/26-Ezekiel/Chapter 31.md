@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 31
 canon: "Prophets"
 ---
-
 # Ezekiel 31
 
 ### 1
@@ -49,7 +48,7 @@ All the birds of the sky will dwell on his ruin, and all the animals of the fiel
 to the end that none of all the trees by the waters exalt themselves in their stature, and don’t set their top among the thick boughs. Their mighty ones don’t stand up on their height, even all who drink water; for they are all delivered to death, to the lower parts of the earth, among the children of men, with those who go down to the pit.’
 
 ### 15
-“Thus says the Lord Yahweh: ‘In the day when he went down to Sheol  I caused a mourning. I covered the deep for him, and I restrained its rivers. The great waters were stopped. I caused Lebanon to mourn for him, and all the trees of the field fainted for him.
+“Thus says the Lord Yahweh: ‘In the day when he went down to Sheol I caused a mourning. I covered the deep for him, and I restrained its rivers. The great waters were stopped. I caused Lebanon to mourn for him, and all the trees of the field fainted for him.
 
 ### 16
 I made the nations to shake at the sound of his fall, when I cast him down to Sheol with those who descend into the pit. All the trees of Eden, the choice and best of Lebanon, all that drink water, were comforted in the lower parts of the earth.
@@ -59,4 +58,3 @@ They also went down into Sheol with him to those who are slain by the sword; yes
 
 ### 18
 “‘To whom are you thus like in glory and in greatness among the trees of Eden? Yet you will be brought down with the trees of Eden to the lower parts of the earth. You will lie in the middle of the uncircumcised, with those who are slain by the sword. “‘This is Pharaoh and all his multitude,’ says the Lord Yahweh.”
-

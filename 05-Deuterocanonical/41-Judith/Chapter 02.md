@@ -3,7 +3,6 @@ book: "Judith"
 chapter: 2
 canon: "Deuterocanonical"
 ---
-
 # Judith 2
 
 ### 1
@@ -89,4 +88,3 @@ Then he went down into the plain of Damascus in the time of wheat
 
 ### 28
 Therefore the fear and dread of him fell upon all the inhabitants
-

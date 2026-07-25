@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 12
 canon: "Prophets"
 ---
-
 # Jeremiah 12
 
 ### 1
@@ -56,4 +55,3 @@ It will happen, if they will diligently learn the ways of my people, to swear by
 
 ### 17
 But if they will not hear, then I will pluck up that nation, plucking up and destroying it,” says Yahweh.
-

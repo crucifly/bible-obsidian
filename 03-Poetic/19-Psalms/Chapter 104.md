@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 104
 canon: "Poetic"
 ---
-
 # Psalms 104
 
 ### 1
@@ -110,4 +109,3 @@ Let my meditation be sweet to him. I will rejoice in Yahweh.
 
 ### 35
 Let sinners be consumed out of the earth. Let the wicked be no more. Bless Yahweh, my soul. Praise Yah!
-

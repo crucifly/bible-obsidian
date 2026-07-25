@@ -3,7 +3,6 @@ book: "Song of Songs"
 chapter: 2
 canon: "Poetic"
 ---
-
 # Song of Solomon 2
 
 ### 1
@@ -56,4 +55,3 @@ My beloved is mine, and I am his. He browses among the lilies.
 
 ### 17
 Until the day is cool, and the shadows flee away, turn, my beloved, and be like a roe or a young deer on the mountains of Bether.
-

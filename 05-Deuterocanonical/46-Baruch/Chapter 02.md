@@ -3,7 +3,6 @@ book: "Baruch"
 chapter: 2
 canon: "Deuterocanonical"
 ---
-
 # Baruch 2
 
 ### 1
@@ -110,4 +109,3 @@ And I will bring them again into the land which I promised with an
 
 ### 35
 And I will make an everlasting covenant with them to be their God,
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 54
 canon: "Poetic"
 ---
-
 # Psalms 54
 
 ### 1
@@ -26,4 +25,3 @@ With a free will offering, I will sacrifice to you. I will give thanks to your n
 
 ### 7
 For he has delivered me out of all trouble. My eye has seen triumph over my enemies.
-

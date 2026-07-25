@@ -3,7 +3,6 @@ book: "Hosea"
 chapter: 12
 canon: "Prophets"
 ---
-
 # Hosea 12
 
 ### 1
@@ -47,4 +46,3 @@ By a prophet Yahweh brought Israel up out of Egypt, and by a prophet he was pres
 
 ### 14
 Ephraim has bitterly provoked anger. Therefore his blood will be left on him, and his Lord will repay his contempt.
-

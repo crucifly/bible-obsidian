@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 5
 canon: "Historical"
 ---
-
 # Joshua 5
 
 ### 1
@@ -50,4 +49,3 @@ He said, “No; but I have come now as commander of Yahweh’s army.” Joshua f
 
 ### 15
 The prince of Yahweh’s army said to Joshua, “Take off your shoes; for the place on which you stand is holy.” Joshua did so.
-

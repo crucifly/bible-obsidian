@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 3
 canon: "Historical"
 ---
-
 # 1 Kings 3
 
 ### 1
@@ -89,4 +88,3 @@ Then the king answered, “Give her the living child, and definitely do not kill
 
 ### 28
 All Israel heard of the judgment which the king had judged; and they feared the king; for they saw that the wisdom of God was in him, to do justice.
-

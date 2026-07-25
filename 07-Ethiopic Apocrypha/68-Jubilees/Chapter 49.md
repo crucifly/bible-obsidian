@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 49
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 49
 
 ### 1
@@ -80,4 +79,3 @@ The Book of Jubilees
 
 ### 25
 Laws regarding the jubilees, 1-5, and the Sabbath, 6-13.
-

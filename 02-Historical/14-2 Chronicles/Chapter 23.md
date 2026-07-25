@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 23
 canon: "Historical"
 ---
-
 # 2 Chronicles 23
 
 ### 1
@@ -68,4 +67,3 @@ He took the captains of hundreds, the nobles, the governors of the people, and a
 
 ### 21
 So all the people of the land rejoiced, and the city was quiet. They had slain Athaliah with the sword.
-

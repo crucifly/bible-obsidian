@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 4
 canon: "New Testament"
 ---
-
 # Luke 4
 
 ### 1
@@ -109,7 +108,7 @@ In the synagogue there was a man who had a spirit of an unclean demon, and he cr
 saying, “Ah! what have we to do with you, Jesus of Nazareth? Have you come to destroy us? I know you who you are: the Holy One of God!”
 
 ### 35
-Jesus rebuked him, saying, “Be silent, and come out of him!”  When the demon had thrown him down in the middle of them, he came out of him, having done him no harm.
+Jesus rebuked him, saying, “Be silent, and come out of him!” When the demon had thrown him down in the middle of them, he came out of him, having done him no harm.
 
 ### 36
 Amazement came on all, and they spoke together, one with another, saying, “What is this word? For with authority and power he commands the unclean spirits, and they come out!”
@@ -137,4 +136,3 @@ But he said to them, “I must preach the good news of God’s Kingdom to the ot
 
 ### 44
 He was preaching in the synagogues of Galilee.
-

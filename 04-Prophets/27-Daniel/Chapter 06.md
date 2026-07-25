@@ -3,7 +3,6 @@ book: "Daniel"
 chapter: 6
 canon: "Prophets"
 ---
-
 # Daniel 6
 
 ### 1
@@ -89,4 +88,3 @@ He delivers and rescues. He works signs and wonders in heaven and in earth, who 
 
 ### 28
 So this Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.
-

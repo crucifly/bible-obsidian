@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 9
 canon: "Historical"
 ---
-
 # Judges 9
 
 ### 1
@@ -176,4 +175,3 @@ Thus God repaid the wickedness of Abimelech, which he did to his father, in kill
 
 ### 57
 and God repaid all the wickedness of the men of Shechem on their heads; and the curse of Jotham the son of Jerubbaal came on them.
-

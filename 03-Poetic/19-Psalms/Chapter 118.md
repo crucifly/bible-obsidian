@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 118
 canon: "Poetic"
 ---
-
 # Psalms 118
 
 ### 1
@@ -92,4 +91,3 @@ You are my God, and I will give thanks to you. You are my God, I will exalt you.
 
 ### 29
 Oh give thanks to Yahweh, for he is good, for his loving kindness endures forever.
-

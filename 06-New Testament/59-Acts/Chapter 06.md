@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 6
 canon: "New Testament"
 ---
-
 # Acts 6
 
 ### 1
@@ -50,4 +49,3 @@ For we have heard him say that this Jesus of Nazareth will destroy this place, a
 
 ### 15
 All who sat in the council, fastening their eyes on him, saw his face like it was the face of an angel.
-

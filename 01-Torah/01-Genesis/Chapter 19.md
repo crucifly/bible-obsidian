@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 19
 canon: "Torah"
 ---
-
 # Genesis 19
 
 ### 1
@@ -119,4 +118,3 @@ The firstborn bore a son, and named him Moab. He is the father of the Moabites t
 
 ### 38
 The younger also bore a son, and called his name Ben Ammi. He is the father of the children of Ammon to this day.
-

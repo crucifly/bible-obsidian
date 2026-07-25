@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 15
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 15
 
 ### 1
@@ -35,4 +34,3 @@ Evil spirits have proceeded from their bodies; because they are born from men, �
 
 ### 11
 And the spirits of the giants afflict, oppress, destroy, attack, do battle, and work destruction on the earth, and cause trouble: they take no food, ⌈but nevertheless hunger⌉ and thirst, and cause offences. And these spirits shall rise up against the children of men and against the women, because they have proceeded ⌈from them⌉.
-

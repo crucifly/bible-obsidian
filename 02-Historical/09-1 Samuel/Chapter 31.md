@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 31
 canon: "Historical"
 ---
-
 # 1 Samuel 31
 
 ### 1
@@ -44,4 +43,3 @@ all the valiant men arose, went all night, and took the body of Saul and the bod
 
 ### 13
 They took their bones and buried them under the tamarisk tree in Jabesh, and fasted seven days.
-

@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 3
 canon: "Deuterocanonical"
 ---
-
 # Tobit 3
 
 ### 1
@@ -56,4 +55,3 @@ So the prayers of them both were heard before the majesty of the
 
 ### 17
 And Raphael was sent to heal them both, that is, to scale away the
-

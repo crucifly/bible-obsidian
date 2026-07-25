@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 76
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 76
 
 ### 0
@@ -44,4 +43,3 @@ And after these [four] are the west winds: through the first portal adjoining th
 
 ### 14
 And the twelve portals of the four quarters of the heaven are therewith completed, and all their laws and all their plagues and all their benefactions have I shown to thee, my son Methuselah.
-

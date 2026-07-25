@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 29
 canon: "Torah"
 ---
-
 # Numbers 29
 
 ### 1
@@ -125,4 +124,3 @@ and one male goat for a sin offering, besides the continual burnt offering, with
 
 ### 40
 Moses told the children of Israel according to all that Yahweh commanded Moses.
-

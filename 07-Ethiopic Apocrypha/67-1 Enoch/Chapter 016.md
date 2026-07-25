@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 16
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 16
 
 ### 1
@@ -14,4 +13,3 @@ And now as to the Watchers who have sent thee to intercede for them, who had bee
 
 ### 4
 Say to them therefore: “You have no peace.”‘ Enoch’s Journeys through the Earth and Sheol
-

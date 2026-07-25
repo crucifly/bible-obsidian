@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 19
 canon: "Prophets"
 ---
-
 # Ezekiel 19
 
 ### 1
@@ -47,4 +46,3 @@ Now it is planted in the wilderness, in a dry and thirsty land.
 
 ### 14
 Fire has gone out of its branches. It has devoured its fruit, so that there is in it no strong branch to be a scepter to rule.’ This is a lamentation, and shall be for a lamentation.”
-

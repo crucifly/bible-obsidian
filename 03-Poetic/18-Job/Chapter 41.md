@@ -3,7 +3,6 @@ book: "Job"
 chapter: 41
 canon: "Poetic"
 ---
-
 # Job 41
 
 ### 1
@@ -107,4 +106,3 @@ On earth there is not his equal, that is made without fear.
 
 ### 34
 He sees everything that is high. He is king over all the sons of pride.”
-

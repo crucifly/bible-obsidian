@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 35
 canon: "Prophets"
 ---
-
 # Ezekiel 35
 
 ### 1
@@ -50,4 +49,3 @@ Thus says the Lord Yahweh: “When the whole earth rejoices, I will make you des
 
 ### 15
 As you rejoiced over the inheritance of the house of Israel because it was desolate, so will I do to you. You will be desolate, Mount Seir, and all Edom, even all of it. Then they will know that I am Yahweh.’”
-

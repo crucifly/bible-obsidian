@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 10
 canon: "Historical"
 ---
-
 # 1 Chronicles 10
 
 ### 1
@@ -47,4 +46,3 @@ So Saul died for his trespass which he committed against Yahweh, because of Yahw
 
 ### 14
 and didn’t inquire of Yahweh. Therefore he killed him, and turned the kingdom over to David the son of Jesse.
-

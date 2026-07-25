@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 39
 canon: "Poetic"
 ---
-
 # Psalms 39
 
 ### 1
@@ -44,4 +43,3 @@ When you rebuke and correct man for iniquity, You consume his wealth like a moth
 
 ### 13
 Oh spare me, that I may recover strength, before I go away, and exist no more.”
-

@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 35
 canon: "Historical"
 ---
-
 # 2 Chronicles 35
 
 ### 1
@@ -86,4 +85,3 @@ Now the rest of the acts of Josiah, and his good deeds, according to that which 
 
 ### 27
 and his acts, first and last, behold, they are written in the book of the kings of Israel and Judah.
-

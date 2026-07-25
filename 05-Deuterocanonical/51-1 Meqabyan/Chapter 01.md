@@ -3,7 +3,6 @@ book: "1 Meqabyan"
 chapter: 1
 canon: "Deuterocanonical"
 ---
-
 # 1 Meqabyan 1
 
 ### 1
@@ -29,4 +28,3 @@ When they stood before the King, he said to them: "Why do you not bow down to my
 
 ### 8
 They answered and said to the King: "O King, we do not fear your fire or your sword. Our God, whom we serve, is able to save us from your hand; but even if He does not, we will not bow down to your image."
-

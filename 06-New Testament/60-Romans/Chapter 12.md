@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 12
 canon: "New Testament"
 ---
-
 # Romans 12
 
 ### 1
@@ -68,4 +67,3 @@ Therefore “If your enemy is hungry, feed him. If he is thirsty, give him a dri
 
 ### 21
 Don’t be overcome by evil, but overcome evil with good.
-

@@ -3,7 +3,6 @@ book: "Micah"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Micah 2
 
 ### 1
@@ -44,4 +43,3 @@ I will surely assemble, Jacob, all of you; I will surely gather the remnant of I
 
 ### 13
 He who breaks open the way goes up before them. They break through the gate, and go out. And their king passes on before them, with Yahweh at their head.
-

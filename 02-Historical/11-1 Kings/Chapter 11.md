@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 11
 canon: "Historical"
 ---
-
 # 1 Kings 11
 
 ### 1
@@ -134,4 +133,3 @@ The time that Solomon reigned in Jerusalem over all Israel was forty years.
 
 ### 43
 Solomon slept with his fathers, and was buried in his father David’s city; and Rehoboam his son reigned in his place.
-

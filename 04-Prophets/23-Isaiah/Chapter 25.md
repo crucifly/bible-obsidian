@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 25
 canon: "Prophets"
 ---
-
 # Isaiah 25
 
 ### 1
@@ -41,4 +40,3 @@ He will spread out his hands in the middle of it, like one who swims spreads out
 
 ### 12
 He has brought the high fortress of your walls down, laid low, and brought to the ground, even to the dust.
-

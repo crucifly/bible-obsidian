@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 93
 canon: "Poetic"
 ---
-
 # Psalms 93
 
 ### 1
@@ -20,4 +19,3 @@ Above the voices of many waters, the mighty breakers of the sea, Yahweh on high 
 
 ### 5
 Your statutes stand firm. Holiness adorns your house, Yahweh, forever more.
-

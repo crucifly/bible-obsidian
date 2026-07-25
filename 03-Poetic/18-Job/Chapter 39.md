@@ -3,7 +3,6 @@ book: "Job"
 chapter: 39
 canon: "Poetic"
 ---
-
 # Job 39
 
 ### 1
@@ -95,4 +94,3 @@ From there he spies out the prey. His eyes see it afar off.
 
 ### 30
 His young ones also suck up blood. Where the slain are, there he is.”
-

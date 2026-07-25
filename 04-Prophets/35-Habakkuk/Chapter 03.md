@@ -3,7 +3,6 @@ book: "Habakkuk"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Habakkuk 3
 
 ### 1
@@ -62,4 +61,3 @@ yet I will rejoice in Yahweh. I will be joyful in the God of my salvation!
 
 ### 19
 Yahweh, the Lord, is my strength. He makes my feet like deer’s feet, and enables me to go in high places. For the music director, on my stringed instruments.
-

@@ -3,7 +3,6 @@ book: "1 Esdras"
 chapter: 7
 canon: "Deuterocanonical"
 ---
-
 # 1 Esdras 7
 
 ### 1
@@ -50,4 +49,3 @@ And they kept the feast of unleavened bread seven days, making
 
 ### 15
 For that he had turned the counsel of the king of Assyria toward
-

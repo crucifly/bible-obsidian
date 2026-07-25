@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 11
 canon: "Deuterocanonical"
 ---
-
 # Sirach 11
 
 ### 1
@@ -107,4 +106,3 @@ Take heed of a mischievous man, for he worketh wickedness; lest
 
 ### 34
 Receive a stranger into thine house, and he will disturb thee,
-

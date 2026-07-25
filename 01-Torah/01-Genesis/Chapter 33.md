@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 33
 canon: "Torah"
 ---
-
 # Genesis 33
 
 ### 1
@@ -65,4 +64,3 @@ He bought the parcel of ground where he had spread his tent, at the hand of the 
 
 ### 20
 He erected an altar there, and called it El Elohe Israel.
-

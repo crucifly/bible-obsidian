@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 26
 canon: "Torah"
 ---
-
 # Deuteronomy 26
 
 ### 1
@@ -62,4 +61,3 @@ Yahweh has declared today that you are a people for his own possession, as he ha
 
 ### 19
 He will make you high above all nations that he has made, in praise, in name, and in honor; and that you may be a holy people to Yahweh your God, as he has spoken.
-

@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 44
 canon: "Torah"
 ---
-
 # Genesis 44
 
 ### 1
@@ -107,4 +106,3 @@ Now therefore, please let your servant stay instead of the boy, my lord’s slav
 
 ### 34
 For how will I go up to my father, if the boy isn’t with me?—lest I see the evil that will come on my father.”
-

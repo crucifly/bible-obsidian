@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 13
 canon: "Historical"
 ---
-
 # Judges 13
 
 ### 1
@@ -80,4 +79,3 @@ The woman bore a son, and named him Samson. The child grew, and Yahweh blessed h
 
 ### 25
 Yahweh’s Spirit began to move him in Mahaneh Dan, between Zorah and Eshtaol.
-

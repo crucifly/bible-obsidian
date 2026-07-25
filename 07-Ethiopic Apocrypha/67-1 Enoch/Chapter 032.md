@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 32
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 32
 
 ### 0
@@ -26,4 +25,3 @@ Then I said: ‘⌈How⌉ beautiful is the tree, and how attractive is its look!
 
 ### 6
 Then Raphael the holy angel, who was with me, answered me ⌈⌈and said⌉⌉: ‘This is the tree of wisdom, of which thy father old (in years) and thy aged mother, who were before thee, have eaten, and they learnt wisdom and their eyes were opened, and they knew that they were naked and they were driven out of the garden.’
-

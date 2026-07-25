@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 10
 canon: "New Testament"
 ---
-
 # 1 Corinthians 10
 
 ### 1
@@ -104,4 +103,3 @@ Give no occasion for stumbling, either to Jews, or to Greeks, or to the assembly
 
 ### 33
 even as I also please all men in all things, not seeking my own profit, but the profit of the many, that they may be saved.
-

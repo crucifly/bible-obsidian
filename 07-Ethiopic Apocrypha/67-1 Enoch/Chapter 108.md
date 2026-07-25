@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 108
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 108
 
 ### 1
@@ -50,4 +49,3 @@ And they shall see those who were, born in darkness led into darkness, while the
 
 ### 15
 And the sinners shall cry aloud and see them resplendent, and they indeed will go where days and seasons are prescribed for them.’ THE END
-

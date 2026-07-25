@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 7
 canon: "Torah"
 ---
-
 # Genesis 7
 
 ### 1
@@ -77,4 +76,3 @@ Every living thing was destroyed that was on the surface of the ground, includin
 
 ### 24
 The waters flooded the earth one hundred fifty days.
-

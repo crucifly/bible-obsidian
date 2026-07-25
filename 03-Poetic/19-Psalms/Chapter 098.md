@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 98
 canon: "Poetic"
 ---
-
 # Psalms 98
 
 ### 1
@@ -32,4 +31,3 @@ Let the rivers clap their hands. Let the mountains sing for joy together.
 
 ### 9
 Let them sing before Yahweh, for he comes to judge the earth. He will judge the world with righteousness, and the peoples with equity.
-

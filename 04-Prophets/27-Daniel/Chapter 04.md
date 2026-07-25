@@ -3,7 +3,6 @@ book: "Daniel"
 chapter: 4
 canon: "Prophets"
 ---
-
 # Daniel 4
 
 ### 1
@@ -116,4 +115,3 @@ At the same time my understanding returned to me; and for the glory of my kingdo
 
 ### 37
 Now I, Nebuchadnezzar, praise and extol and honor the King of heaven; for all his works are truth, and his ways justice; and those who walk in pride he is able to abase.
-

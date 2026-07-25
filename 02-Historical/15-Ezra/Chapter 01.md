@@ -3,11 +3,10 @@ book: "Ezra"
 chapter: 1
 canon: "Historical"
 ---
-
 # Ezra 1
 
 ### 1
-Now in the first year of Cyrus king of Persia, that Yahweh’s word  by Jeremiah’s mouth might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
+Now in the first year of Cyrus king of Persia, that Yahweh’s word by Jeremiah’s mouth might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
 
 ### 2
 “Thus says Cyrus king of Persia, ‘Yahweh, the God of heaven, has given me all the kingdoms of the earth; and he has commanded me to build him a house in Jerusalem, which is in Judah.
@@ -38,4 +37,3 @@ thirty bowls of gold, four hundred ten silver bowls of a second sort, and one th
 
 ### 11
 All the vessels of gold and of silver were five thousand four hundred. Sheshbazzar brought all these up when the captives were brought up from Babylon to Jerusalem.
-

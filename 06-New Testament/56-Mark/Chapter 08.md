@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 8
 canon: "New Testament"
 ---
-
 # Mark 8
 
 ### 1
@@ -40,7 +39,7 @@ Immediately he entered into the boat with his disciples, and came into the regio
 The Pharisees came out and began to question him, seeking from him a sign from heaven, and testing him.
 
 ### 12
-He sighed deeply in his spirit, and said, “Why does this generation  seek a sign? Most certainly I tell you, no sign will be given to this generation.”
+He sighed deeply in his spirit, and said, “Why does this generation seek a sign? Most certainly I tell you, no sign will be given to this generation.”
 
 ### 13
 He left them, and again entering into the boat, departed to the other side.
@@ -119,4 +118,3 @@ For what will a man give in exchange for his life?
 
 ### 38
 For whoever will be ashamed of me and of my words in this adulterous and sinful generation, the Son of Man also will be ashamed of him, when he comes in his Father’s glory, with the holy angels.”
-

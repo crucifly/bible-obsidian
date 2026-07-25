@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 58
 canon: "Poetic"
 ---
-
 # Psalms 58
 
 ### 1
@@ -38,4 +37,3 @@ The righteous shall rejoice when he sees the vengeance. He shall wash his feet i
 
 ### 11
 so that men shall say, “Most certainly there is a reward for the righteous. Most certainly there is a God who judges the earth.”
-

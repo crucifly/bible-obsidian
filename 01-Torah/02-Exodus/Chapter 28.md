@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 28
 canon: "Torah"
 ---
-
 # Exodus 28
 
 ### 1
@@ -134,4 +133,3 @@ You shall make them linen breeches to cover the flesh of their nakedness; from t
 
 ### 43
 They shall be on Aaron, and on his sons, when they go in to the Tent of Meeting, or when they come near to the altar to minister in the holy place; that they don’t bear iniquity, and die: it shall be a statute forever to him and to his offspring after him.
-

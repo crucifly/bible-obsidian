@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 11
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 11
 
 ### 1
@@ -11,4 +10,3 @@ And in those days I will open the store chambers of blessing which are in the he
 
 ### 2
 And truth and peace shall be associated together throughout all the days of the world and throughout all the generations of men.’
-

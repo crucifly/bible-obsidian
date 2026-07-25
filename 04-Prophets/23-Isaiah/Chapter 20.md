@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 20
 canon: "Prophets"
 ---
-
 # Isaiah 20
 
 ### 1
@@ -23,4 +22,3 @@ They will be dismayed and confounded, because of Ethiopia their expectation, and
 
 ### 6
 The inhabitants of this coast land will say in that day, ‘Behold, this is our expectation, where we fled for help to be delivered from the king of Assyria. And we, how will we escape?’”
-

@@ -3,7 +3,6 @@ book: "1 Peter"
 chapter: 2
 canon: "New Testament"
 ---
-
 # 1 Peter 2
 
 ### 1
@@ -80,4 +79,3 @@ He himself bore our sins in his body on the tree, that we, having died to sins, 
 
 ### 25
 For you were going astray like sheep; but now have returned to the Shepherd and Overseer of your souls.
-

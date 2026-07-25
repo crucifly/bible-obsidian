@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 13
 canon: "New Testament"
 ---
-
 # Matthew 13
 
 ### 1
@@ -46,7 +45,7 @@ For whoever has, to him will be given, and he will have abundance, but whoever d
 Therefore I speak to them in parables, because seeing they don’t see, and hearing, they don’t hear, neither do they understand.
 
 ### 14
-In them the prophecy of Isaiah is fulfilled, which says,  ‘By hearing you will hear, and will in no way understand; Seeing you will see, and will in no way perceive:
+In them the prophecy of Isaiah is fulfilled, which says, ‘By hearing you will hear, and will in no way understand; Seeing you will see, and will in no way perceive:
 
 ### 15
 for this people’s heart has grown callous, their ears are dull of hearing, they have closed their eyes; or else perhaps they might perceive with their eyes, hear with their ears, understand with their heart, and would turn again; and I would heal them.’
@@ -157,7 +156,7 @@ So will it be in the end of the world. The angels will come and separate the wic
 and will cast them into the furnace of fire. There will be the weeping and the gnashing of teeth.”
 
 ### 51
-Jesus said to them, “Have you understood all these things?”  They answered him, “Yes, Lord.”
+Jesus said to them, “Have you understood all these things?” They answered him, “Yes, Lord.”
 
 ### 52
 He said to them, “Therefore every scribe who has been made a disciple in the Kingdom of Heaven is like a man who is a householder, who brings out of his treasure new and old things.”
@@ -179,4 +178,3 @@ They were offended by him. But Jesus said to them, “A prophet is not without h
 
 ### 58
 He didn’t do many mighty works there because of their unbelief.
-

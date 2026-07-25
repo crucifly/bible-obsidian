@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 37
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 37
 
 ### 1
@@ -23,4 +22,3 @@ Now three parables were imparted to me, and I lifted up my voice and recounted t
 
 ### 6
 And thenceforward none shall seek for themselves mercy from the Lord of Spirits For their life is at an end.
-

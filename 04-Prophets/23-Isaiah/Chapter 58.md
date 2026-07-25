@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 58
 canon: "Prophets"
 ---
-
 # Isaiah 58
 
 ### 1
@@ -47,4 +46,3 @@ Those who shall be of you shall build the old waste places; you shall raise up t
 
 ### 14
 then you shall delight yourself in Yahweh; and I will make you to ride on the high places of the earth; and I will feed you with the heritage of Jacob your father:” for Yahweh’s mouth has spoken it.
-

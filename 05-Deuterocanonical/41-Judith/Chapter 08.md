@@ -3,7 +3,6 @@ book: "Judith"
 chapter: 8
 canon: "Deuterocanonical"
 ---
-
 # Judith 8
 
 ### 1
@@ -113,4 +112,3 @@ Then said Ozias and the princes unto her, Go in peace, and the
 
 ### 36
 So they returned from the tent, and went to their wards.
-

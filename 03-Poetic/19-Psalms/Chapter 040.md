@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 40
 canon: "Poetic"
 ---
-
 # Psalms 40
 
 ### 1
@@ -56,4 +55,3 @@ Let all those who seek you rejoice and be glad in you. Let such as love your sal
 
 ### 17
 But I am poor and needy. May the Lord think about me. You are my help and my deliverer. Don’t delay, my God.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 20
 canon: "Poetic"
 ---
-
 # Psalms 20
 
 ### 1
@@ -32,4 +31,3 @@ They are bowed down and fallen, but we rise up, and stand upright.
 
 ### 9
 Save, Yahweh! Let the King answer us when we call!
-

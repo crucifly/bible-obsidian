@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 44
 canon: "Prophets"
 ---
-
 # Jeremiah 44
 
 ### 1
@@ -95,4 +94,3 @@ Those who escape the sword will return out of the land of Egypt into the land of
 
 ### 30
 Yahweh says, ‘Behold, I will give Pharaoh Hophra king of Egypt into the hand of his enemies, and into the hand of those who seek his life; as I gave Zedekiah king of Judah into the hand of Nebuchadnezzar king of Babylon, who was his enemy, and sought his life.’”
-

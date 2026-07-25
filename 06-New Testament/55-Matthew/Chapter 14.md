@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 14
 canon: "New Testament"
 ---
-
 # Matthew 14
 
 ### 1
@@ -85,7 +84,7 @@ In the fourth watch of the night, Jesus came to them, walking on the sea.
 When the disciples saw him walking on the sea, they were troubled, saying, “It’s a ghost!” and they cried out for fear.
 
 ### 27
-But immediately Jesus spoke to them, saying, “Cheer up! It is I!  Don’t be afraid.”
+But immediately Jesus spoke to them, saying, “Cheer up! It is I! Don’t be afraid.”
 
 ### 28
 Peter answered him and said, “Lord, if it is you, command me to come to you on the waters.”
@@ -113,4 +112,3 @@ When the people of that place recognized him, they sent into all that surroundin
 
 ### 36
 and they begged him that they might just touch the fringe of his garment. As many as touched it were made whole.
-

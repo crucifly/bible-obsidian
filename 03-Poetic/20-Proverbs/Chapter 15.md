@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 15
 canon: "Poetic"
 ---
-
 # Proverbs 15
 
 ### 1
@@ -104,4 +103,3 @@ He who refuses correction despises his own soul, but he who listens to reproof g
 
 ### 33
 The fear of Yahweh teaches wisdom. Before honor is humility.
-

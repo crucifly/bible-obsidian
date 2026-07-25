@@ -3,7 +3,6 @@ book: "Zechariah"
 chapter: 4
 canon: "Prophets"
 ---
-
 # Zechariah 4
 
 ### 1
@@ -46,5 +45,4 @@ I asked him the second time, “What are these two olive branches, which are bes
 He answered me, “Don’t you know what these are?” I said, “No, my lord.”
 
 ### 14
-Then he said, “These are the two anointed ones who stand by the Lord  of the whole earth.”
-
+Then he said, “These are the two anointed ones who stand by the Lord of the whole earth.”

@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 13
 canon: "New Testament"
 ---
-
 # 1 Corinthians 13
 
 ### 1
@@ -44,4 +43,3 @@ For now we see in a mirror, dimly, but then face to face. Now I know in part, bu
 
 ### 13
 But now faith, hope, and love remain—these three. The greatest of these is love.
-

@@ -3,7 +3,6 @@ book: "Job"
 chapter: 2
 canon: "Poetic"
 ---
-
 # Job 2
 
 ### 1
@@ -44,4 +43,3 @@ When they lifted up their eyes from a distance, and didn’t recognize him, they
 
 ### 13
 So they sat down with him on the ground seven days and seven nights, and no one spoke a word to him, for they saw that his grief was very great.
-

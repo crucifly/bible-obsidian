@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 29
 canon: "Prophets"
 ---
-
 # Ezekiel 29
 
 ### 1
@@ -68,4 +67,3 @@ I have given him the land of Egypt as his payment for which he served, because t
 
 ### 21
 “In that day I will cause a horn to sprout for the house of Israel, and I will open your mouth among them. Then they will know that I am Yahweh.”
-

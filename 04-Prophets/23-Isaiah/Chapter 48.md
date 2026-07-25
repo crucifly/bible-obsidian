@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 48
 canon: "Prophets"
 ---
-
 # Isaiah 48
 
 ### 1
@@ -71,4 +70,3 @@ They didn’t thirst when he led them through the deserts. He caused the waters 
 
 ### 22
 “There is no peace”, says Yahweh, “for the wicked.”
-

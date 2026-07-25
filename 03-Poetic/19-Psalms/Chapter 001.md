@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 1
 canon: "Poetic"
 ---
-
 # Psalms 1
 
 ### 1
@@ -23,4 +22,3 @@ Therefore the wicked shall not stand in the judgment, nor sinners in the congreg
 
 ### 6
 For Yahweh knows the way of the righteous, but the way of the wicked shall perish.
-

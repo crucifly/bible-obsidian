@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 43
 canon: "Prophets"
 ---
-
 # Isaiah 43
 
 ### 1
@@ -89,4 +88,3 @@ Your first father sinned, and your teachers have transgressed against me.
 
 ### 28
 Therefore I will profane the princes of the sanctuary; and I will make Jacob a curse, and Israel an insult.”
-

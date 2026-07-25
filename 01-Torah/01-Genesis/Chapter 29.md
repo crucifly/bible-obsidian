@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 29
 canon: "Torah"
 ---
-
 # Genesis 29
 
 ### 1
@@ -110,4 +109,3 @@ She conceived again, and bore a son. Said, “Now this time will my husband be j
 
 ### 35
 She conceived again, and bore a son. She said, “This time will I praise Yahweh.” Therefore she named him Judah. Then she stopped bearing.
-

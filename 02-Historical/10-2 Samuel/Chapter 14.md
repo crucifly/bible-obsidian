@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 14
 canon: "Historical"
 ---
-
 # 2 Samuel 14
 
 ### 1
@@ -104,4 +103,3 @@ Absalom answered Joab, “Behold, I sent to you, saying, ‘Come here, that I ma
 
 ### 33
 So Joab came to the king, and told him; and when he had called for Absalom, he came to the king, and bowed himself on his face to the ground before the king; and the king kissed Absalom.
-

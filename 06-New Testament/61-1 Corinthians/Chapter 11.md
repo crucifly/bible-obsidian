@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 11
 canon: "New Testament"
 ---
-
 # 1 Corinthians 11
 
 ### 1
@@ -107,4 +106,3 @@ Therefore, my brothers, when you come together to eat, wait for one another.
 
 ### 34
 But if anyone is hungry, let him eat at home, lest your coming together be for judgment. The rest I will set in order whenever I come.
-

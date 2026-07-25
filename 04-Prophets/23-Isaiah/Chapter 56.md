@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 56
 canon: "Prophets"
 ---
-
 # Isaiah 56
 
 ### 1
@@ -41,4 +40,3 @@ Yes, the dogs are greedy. They can never have enough. They are shepherds who can
 
 ### 12
 “Come,” say they, “I will get wine, and we will fill ourselves with strong drink; and tomorrow will be as today, great beyond measure.”
-

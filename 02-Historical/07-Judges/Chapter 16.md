@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 16
 canon: "Historical"
 ---
-
 # Judges 16
 
 ### 1
@@ -98,4 +97,3 @@ Samson said, “Let me die with the Philistines!” He bowed himself with all hi
 
 ### 31
 Then his brothers and all the house of his father came down, and took him, and brought him up, and buried him between Zorah and Eshtaol in the burial site of Manoah his father. He judged Israel twenty years.
-

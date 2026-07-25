@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 7
 canon: "Deuterocanonical"
 ---
-
 # Sirach 7
 
 ### 1
@@ -113,4 +112,3 @@ Be not slow to visit the sick: for that shall make thee to be
 
 ### 36
 Whatsoever thou takest in hand, remember the end, and thou shalt
-

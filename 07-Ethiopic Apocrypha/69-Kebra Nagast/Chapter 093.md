@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 93
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 93
 
 ### 1
@@ -14,4 +13,3 @@ And afterwards, Satan, who hath been the enemy of man from of old, rose up, and 
 
 ### 3
 And we believe thus and we adore the Holy Trinity. And those who do not believe thus are excommunicated by the Word of God, the King of heaven and earth both in this world and in that world which is to come. And we are strong in the Orthodox Faith which the Fathers the Apostles have delivered unto us, the Faith of the Church. And thus Ethiopia continued to abide in her Faith until the coming of our Lord Jesus Christ, to Whom be glory for ever and ever. Amen.
-

@@ -3,7 +3,6 @@ book: "Zechariah"
 chapter: 9
 canon: "Prophets"
 ---
-
 # Zechariah 9
 
 ### 1
@@ -56,4 +55,3 @@ Yahweh their God will save them in that day as the flock of his people; for they
 
 ### 17
 For how great is his goodness, and how great is his beauty! Grain will make the young men flourish, and new wine the virgins.
-

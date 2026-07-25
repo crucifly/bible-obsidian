@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 13
 canon: "Torah"
 ---
-
 # Numbers 13
 
 ### 1
@@ -104,4 +103,3 @@ They brought up an evil report of the land which they had spied out to the child
 
 ### 33
 There we saw the Nephilim, the sons of Anak, who come from the Nephilim. We were in our own sight as grasshoppers, and so we were in their sight.”
-

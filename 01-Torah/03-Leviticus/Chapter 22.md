@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 22
 canon: "Torah"
 ---
-
 # Leviticus 22
 
 ### 1
@@ -104,4 +103,3 @@ You shall not profane my holy name, but I will be made holy among the children o
 
 ### 33
 who brought you out of the land of Egypt, to be your God. I am Yahweh.”
-

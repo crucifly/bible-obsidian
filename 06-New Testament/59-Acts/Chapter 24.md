@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 24
 canon: "New Testament"
 ---
-
 # Acts 24
 
 ### 1
@@ -86,4 +85,3 @@ Meanwhile, he also hoped that money would be given to him by Paul, that he might
 
 ### 27
 But when two years were fulfilled, Felix was succeeded by Porcius Festus, and desiring to gain favor with the Jews, Felix left Paul in bonds.
-

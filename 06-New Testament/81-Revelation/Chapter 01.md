@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 1
 canon: "New Testament"
 ---
-
 # Revelation 1
 
 ### 1
@@ -37,7 +36,7 @@ I John, your brother and partner with you in the oppression, Kingdom, and persev
 I was in the Spirit on the Lord’s day, and I heard behind me a loud voice, like a trumpet
 
 ### 11
-saying, “What you see, write in a book and send to the seven assemblies:  to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and to Laodicea.”
+saying, “What you see, write in a book and send to the seven assemblies: to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and to Laodicea.”
 
 ### 12
 I turned to see the voice that spoke with me. Having turned, I saw seven golden lamp stands.
@@ -65,4 +64,3 @@ Write therefore the things which you have seen, and the things which are, and th
 
 ### 20
 the mystery of the seven stars which you saw in my right hand, and the seven golden lamp stands. The seven stars are the angels of the seven assemblies. The seven lamp stands are seven assemblies.
-

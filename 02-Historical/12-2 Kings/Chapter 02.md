@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 2
 canon: "Historical"
 ---
-
 # 2 Kings 2
 
 ### 1
@@ -80,4 +79,3 @@ He looked behind him and saw them, and cursed them in Yahweh’s name. Then two 
 
 ### 25
 He went from there to Mount Carmel, and from there he returned to Samaria.
-

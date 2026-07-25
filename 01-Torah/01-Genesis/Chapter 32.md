@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 32
 canon: "Torah"
 ---
-
 # Genesis 32
 
 ### 1
@@ -101,4 +100,3 @@ The sun rose on him as he passed over Peniel, and he limped because of his thigh
 
 ### 32
 Therefore the children of Israel don’t eat the sinew of the hip, which is on the hollow of the thigh, to this day, because he touched the hollow of Jacob’s thigh in the sinew of the hip.
-

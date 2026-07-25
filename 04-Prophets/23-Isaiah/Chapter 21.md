@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 21
 canon: "Prophets"
 ---
-
 # Isaiah 21
 
 ### 1
@@ -56,4 +55,3 @@ For the Lord said to me, “Within a year, as a worker bound by contract would c
 
 ### 17
 and the residue of the number of the archers, the mighty men of the children of Kedar, will be few; for Yahweh, the God of Israel, has spoken it.”
-

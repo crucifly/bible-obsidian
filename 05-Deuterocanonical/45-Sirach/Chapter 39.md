@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 39
 canon: "Deuterocanonical"
 ---
-
 # Sirach 39
 
 ### 1
@@ -110,4 +109,3 @@ So that a man cannot say, This is worse than that: for in time
 
 ### 35
 And therefore praise ye the Lord with the whole heart and mouth,
-

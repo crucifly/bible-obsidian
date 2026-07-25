@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 10
 canon: "Torah"
 ---
-
 # Leviticus 10
 
 ### 1
@@ -65,4 +64,3 @@ Aaron spoke to Moses, “Behold, today they have offered their sin offering and 
 
 ### 20
 When Moses heard that, it was pleasing in his sight.
-

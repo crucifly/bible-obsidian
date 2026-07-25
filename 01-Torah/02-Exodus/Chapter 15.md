@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 15
 canon: "Torah"
 ---
-
 # Exodus 15
 
 ### 1
@@ -86,4 +85,3 @@ and he said, “If you will diligently listen to Yahweh your God’s voice, and 
 
 ### 27
 They came to Elim, where there were twelve springs of water, and seventy palm trees: and they encamped there by the waters.
-

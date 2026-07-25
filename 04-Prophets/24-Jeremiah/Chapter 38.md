@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 38
 canon: "Prophets"
 ---
-
 # Jeremiah 38
 
 ### 1
@@ -89,4 +88,3 @@ Then all the princes came to Jeremiah, and asked him; and he told them according
 
 ### 28
 So Jeremiah stayed in the court of the guard until the day that Jerusalem was taken.
-

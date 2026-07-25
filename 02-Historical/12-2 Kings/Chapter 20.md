@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 20
 canon: "Historical"
 ---
-
 # 2 Kings 20
 
 ### 1
@@ -68,4 +67,3 @@ Now the rest of the acts of Hezekiah, and all his might, and how he made the poo
 
 ### 21
 Hezekiah slept with his fathers, and Manasseh his son reigned in his place.
-

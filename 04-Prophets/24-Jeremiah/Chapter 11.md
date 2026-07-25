@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 11
 canon: "Prophets"
 ---
-
 # Jeremiah 11
 
 ### 1
@@ -74,4 +73,3 @@ therefore Yahweh of Armies says, ‘Behold, I will punish them. The young men wi
 
 ### 23
 There will be no remnant to them, for I will bring evil on the men of Anathoth, even the year of their visitation.’”
-

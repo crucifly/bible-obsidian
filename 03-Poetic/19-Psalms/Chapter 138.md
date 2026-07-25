@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 138
 canon: "Poetic"
 ---
-
 # Psalms 138
 
 ### 1
@@ -29,4 +28,3 @@ Though I walk in the middle of trouble, you will revive me. You will stretch out
 
 ### 8
 Yahweh will fulfill that which concerns me; your loving kindness, Yahweh, endures forever. Don’t forsake the works of your own hands.
-

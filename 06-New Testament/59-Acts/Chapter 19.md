@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 19
 canon: "New Testament"
 ---
-
 # Acts 19
 
 ### 1
@@ -128,4 +127,3 @@ For indeed we are in danger of being accused concerning today’s riot, there be
 
 ### 41
 When he had thus spoken, he dismissed the assembly.
-

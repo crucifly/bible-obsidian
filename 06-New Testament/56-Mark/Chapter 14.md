@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 14
 canon: "New Testament"
 ---
-
 # Mark 14
 
 ### 1
@@ -19,7 +18,7 @@ While he was at Bethany, in the house of Simon the leper, as he sat at the table
 But there were some who were indignant among themselves, saying, “Why has this ointment been wasted?
 
 ### 5
-For this might have been sold for more than three hundred denarii,  and given to the poor.” They grumbled against her.
+For this might have been sold for more than three hundred denarii, and given to the poor.” They grumbled against her.
 
 ### 6
 But Jesus said, “Leave her alone. Why do you trouble her? She has done a good work for me.
@@ -221,4 +220,3 @@ But he began to curse, and to swear, “I don’t know this man of whom you spea
 
 ### 72
 The rooster crowed the second time. Peter remembered the word, how that Jesus said to him, “Before the rooster crows twice, you will deny me three times.” When he thought about that, he wept.
-

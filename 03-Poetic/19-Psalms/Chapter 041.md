@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 41
 canon: "Poetic"
 ---
-
 # Psalms 41
 
 ### 1
@@ -44,4 +43,3 @@ As for me, you uphold me in my integrity, and set me in your presence forever.
 
 ### 13
 Blessed be Yahweh, the God of Israel, from everlasting and to everlasting! Amen and amen.
-

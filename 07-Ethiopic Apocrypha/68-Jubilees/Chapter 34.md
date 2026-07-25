@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 34
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 34
 
 ### 1
@@ -74,4 +73,3 @@ The Book of Jubilees
 
 ### 23
 Rebecca's admonition to Jacob and his reply, 1-8. Rebecca asks Isaac to make Esau swear that he will not injure Jacob, 9-12. Isaac consents, 13-17. Esau takes the oath and likewise Jacob, 18-26. Death of Rebecca, 27.
-

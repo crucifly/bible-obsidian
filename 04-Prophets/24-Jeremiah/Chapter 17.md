@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 17
 canon: "Prophets"
 ---
-
 # Jeremiah 17
 
 ### 1
@@ -86,4 +85,3 @@ They will come from the cities of Judah, and from the places around Jerusalem, f
 
 ### 27
 But if you will not listen to me to make the Sabbath day holy, and not to bear a burden and enter in at the gates of Jerusalem on the Sabbath day, then I will kindle a fire in its gates, and it will devour the palaces of Jerusalem. It will not be quenched.”’”
-

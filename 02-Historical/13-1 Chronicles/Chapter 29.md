@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 29
 canon: "Historical"
 ---
-
 # 1 Chronicles 29
 
 ### 1
@@ -95,4 +94,3 @@ Now the acts of David the king, first and last, behold, they are written in the 
 
 ### 30
 with all his reign and his might, and the times that went over him, and over Israel, and over all the kingdoms of the countries.
-

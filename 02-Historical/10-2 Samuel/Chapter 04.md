@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 4
 canon: "Historical"
 ---
-
 # 2 Samuel 4
 
 ### 1
@@ -41,4 +40,3 @@ How much more, when wicked men have slain a righteous person in his own house on
 
 ### 12
 David commanded his young men, and they killed them, cut off their hands and their feet, and hanged them up beside the pool in Hebron. But they took the head of Ishbosheth, and buried it in Abner’s grave in Hebron.
-

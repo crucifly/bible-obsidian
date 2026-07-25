@@ -3,7 +3,6 @@ book: "Malachi"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Malachi 3
 
 ### 1
@@ -59,4 +58,3 @@ They shall be mine,” says Yahweh of Armies, “my own possession in the day th
 
 ### 18
 Then you shall return and discern between the righteous and the wicked, between him who serves God and him who doesn’t serve him.
-

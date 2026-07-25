@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 9
 canon: "Torah"
 ---
-
 # Deuteronomy 9
 
 ### 1
@@ -92,4 +91,3 @@ lest the land you brought us out from say, ‘Because Yahweh was not able to bri
 
 ### 29
 Yet they are your people and your inheritance, which you brought out by your great power and by your outstretched arm.”
-

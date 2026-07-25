@@ -3,7 +3,6 @@ book: "3 Meqabyan"
 chapter: 2
 canon: "Deuterocanonical"
 ---
-
 # 3 Meqabyan 2
 
 ### 1
@@ -110,4 +109,3 @@ Before He created you both, He knew you were sinners; and knowing your works, He
 
 ### 35
 But He restored Adam—who was without arrogance or malice—through repentance, mourning, and sadness.
-

@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 19
 canon: "New Testament"
 ---
-
 # Matthew 19
 
 ### 1
@@ -95,4 +94,3 @@ Everyone who has left houses, or brothers, or sisters, or father, or mother, or 
 
 ### 30
 But many will be last who are first; and first who are last.
-

@@ -3,7 +3,6 @@ book: "Haggai"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Haggai 1
 
 ### 1
@@ -50,4 +49,3 @@ Yahweh stirred up the spirit of Zerubbabel, the son of Shealtiel, governor of Ju
 
 ### 15
 in the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king.
-

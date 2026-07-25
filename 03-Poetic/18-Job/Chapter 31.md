@@ -3,7 +3,6 @@ book: "Job"
 chapter: 31
 canon: "Poetic"
 ---
-
 # Job 31
 
 ### 1
@@ -125,4 +124,3 @@ if I have eaten its fruits without money, or have caused its owners to lose thei
 
 ### 40
 let briers grow instead of wheat, and stinkweed instead of barley.” The words of Job are ended.
-

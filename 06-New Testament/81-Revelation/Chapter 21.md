@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 21
 canon: "New Testament"
 ---
-
 # Revelation 21
 
 ### 1
@@ -86,4 +85,3 @@ and they shall bring the glory and the honor of the nations into it so that they
 
 ### 27
 There will in no way enter into it anything profane, or one who causes an abomination or a lie, but only those who are written in the Lamb’s book of life.
-

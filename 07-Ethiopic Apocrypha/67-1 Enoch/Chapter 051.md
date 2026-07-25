@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 51
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 51
 
 ### 1
@@ -23,4 +22,3 @@ For in those days the Elect One shall arise,
 
 ### 5
 And the earth shall rejoice, c. And the righteous shall dwell upon it, d. And the elect shall walk thereon.
-

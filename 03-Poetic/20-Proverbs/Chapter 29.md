@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 29
 canon: "Poetic"
 ---
-
 # Proverbs 29
 
 ### 1
@@ -86,4 +85,3 @@ Many seek the ruler’s favor, but a man’s justice comes from Yahweh.
 
 ### 27
 A dishonest man detests the righteous, and the upright in their ways detest the wicked.
-

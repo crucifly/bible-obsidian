@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 20
 canon: "Torah"
 ---
-
 # Leviticus 20
 
 ### 1
@@ -86,4 +85,3 @@ You shall be holy to me; for I, Yahweh, am holy, and have set you apart from the
 
 ### 27
 “‘A man or a woman that is a medium, or is a wizard, shall surely be put to death: they shall stone them with stones. Their blood shall be upon them.’”
-

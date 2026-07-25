@@ -3,7 +3,6 @@ book: "2 Corinthians"
 chapter: 9
 canon: "New Testament"
 ---
-
 # 2 Corinthians 9
 
 ### 1
@@ -50,4 +49,3 @@ while they themselves also, with supplication on your behalf, yearn for you by r
 
 ### 15
 Now thanks be to God for his unspeakable gift!
-

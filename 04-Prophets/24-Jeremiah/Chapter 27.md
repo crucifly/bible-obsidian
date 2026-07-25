@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 27
 canon: "Prophets"
 ---
-
 # Jeremiah 27
 
 ### 1
@@ -71,4 +70,3 @@ yes, Yahweh of Armies, the God of Israel, says concerning the vessels that are l
 
 ### 22
 ‘They will be carried to Babylon, and there they will be, until the day that I visit them,’ says Yahweh; ‘then I will bring them up, and restore them to this place.’”
-

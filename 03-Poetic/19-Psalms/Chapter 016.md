@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 16
 canon: "Poetic"
 ---
-
 # Psalms 16
 
 ### 1
@@ -38,4 +37,3 @@ For you will not leave my soul in Sheol, neither will you allow your holy one to
 
 ### 11
 You will show me the path of life. In your presence is fullness of joy. In your right hand there are pleasures forever more.
-

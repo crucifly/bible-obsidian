@@ -3,7 +3,6 @@ book: "Ephesians"
 chapter: 1
 canon: "New Testament"
 ---
-
 # Ephesians 1
 
 ### 1
@@ -74,4 +73,3 @@ He put all things in subjection under his feet, and gave him to be head over all
 
 ### 23
 which is his body, the fullness of him who fills all in all.
-

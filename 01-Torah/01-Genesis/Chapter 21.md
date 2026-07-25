@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 21
 canon: "Torah"
 ---
-
 # Genesis 21
 
 ### 1
@@ -107,4 +106,3 @@ Abraham planted a tamarisk tree in Beersheba, and called there on the name of Ya
 
 ### 34
 Abraham lived as a foreigner in the land of the Philistines many days.
-

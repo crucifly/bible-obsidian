@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 12
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 12
 
 ### 1
@@ -23,4 +22,3 @@ And ye shall have no peace nor forgiveness of sin: and inasmuch as †they† de
 
 ### 6
 The murder of †their† beloved ones shall †they† see, and over the destruction of †their† children shall †they† lament, and shall make supplication unto eternity, but mercy and peace shall ye not attain.”‘
-

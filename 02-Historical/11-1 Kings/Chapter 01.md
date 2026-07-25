@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 1
 canon: "Historical"
 ---
-
 # 1 Kings 1
 
 ### 1
@@ -164,4 +163,3 @@ Solomon said, “If he shows himself a worthy man, not a hair of his shall fall 
 
 ### 53
 So king Solomon sent, and they brought him down from the altar. He came and bowed down to king Solomon; and Solomon said to him, “Go to your house.”
-

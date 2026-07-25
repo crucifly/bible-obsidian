@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 19
 canon: "Prophets"
 ---
-
 # Isaiah 19
 
 ### 1
@@ -80,4 +79,3 @@ In that day, Israel will be the third with Egypt and with Assyria, a blessing wi
 
 ### 25
 because Yahweh of Armies has blessed them, saying, “Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance.”
-

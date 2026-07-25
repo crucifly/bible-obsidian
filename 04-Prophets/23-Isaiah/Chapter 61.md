@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 61
 canon: "Prophets"
 ---
-
 # Isaiah 61
 
 ### 1
@@ -38,4 +37,3 @@ I will greatly rejoice in Yahweh! My soul will be joyful in my God; for he has c
 
 ### 11
 For as the earth produces its bud, and as the garden causes the things that are sown in it to spring up; so the Lord Yahweh will cause righteousness and praise to spring up before all the nations.
-

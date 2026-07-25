@@ -3,7 +3,6 @@ book: "Nehemiah"
 chapter: 2
 canon: "Historical"
 ---
-
 # Nehemiah 2
 
 ### 1
@@ -65,4 +64,3 @@ But when Sanballat the Horonite, Tobiah the Ammontite servant, and Geshem the Ar
 
 ### 20
 Then I answered them, and said to them, “The God of heaven will prosper us. Therefore we, his servants, will arise and build; but you have no portion, nor right, nor memorial, in Jerusalem.”
-

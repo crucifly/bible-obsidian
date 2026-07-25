@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 8
 canon: "Torah"
 ---
-
 # Leviticus 8
 
 ### 1
@@ -113,4 +112,3 @@ You shall stay at the door of the Tent of Meeting day and night seven days, and 
 
 ### 36
 Aaron and his sons did all the things which Yahweh commanded by Moses.
-

@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 14
 canon: "Historical"
 ---
-
 # 1 Chronicles 14
 
 ### 1
@@ -56,4 +55,3 @@ David did as God commanded him; and they attacked the army of the Philistines fr
 
 ### 17
 The fame of David went out into all lands; and Yahweh brought the fear of him on all nations.
-

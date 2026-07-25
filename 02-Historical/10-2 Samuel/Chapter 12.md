@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 12
 canon: "Historical"
 ---
-
 # 2 Samuel 12
 
 ### 1
@@ -98,4 +97,3 @@ He took the crown of their king from off his head; and its weight was a talent o
 
 ### 31
 He brought out the people who were in it, and put them under saws, under iron picks, under axes of iron, and made them pass through the brick kiln; and he did so to all the cities of the children of Ammon. Then David and all the people returned to Jerusalem.
-

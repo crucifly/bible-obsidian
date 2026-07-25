@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 127
 canon: "Poetic"
 ---
-
 # Psalms 127
 
 ### 1
@@ -20,4 +19,3 @@ As arrows in the hand of a mighty man, so are the children of youth.
 
 ### 5
 Happy is the man who has his quiver full of them. They won’t be disappointed when they speak with their enemies in the gate.
-

@@ -3,7 +3,6 @@ book: "Ruth"
 chapter: 1
 canon: "Historical"
 ---
-
 # Ruth 1
 
 ### 1
@@ -22,7 +21,7 @@ They took for themselves wives of the women of Moab. The name of the one was Orp
 Mahlon and Chilion both died, and the woman was bereaved of her two children and of her husband.
 
 ### 6
-Then she arose with her daughters-in-law, that she might return from the country of Moab; for she had heard in the country of Moab how Yahweh  had visited his people in giving them bread.
+Then she arose with her daughters-in-law, that she might return from the country of Moab; for she had heard in the country of Moab how Yahweh had visited his people in giving them bread.
 
 ### 7
 She went out of the place where she was, and her two daughters-in-law with her. They went on the way to return to the land of Judah.
@@ -71,4 +70,3 @@ I went out full, and Yahweh has brought me home again empty. Why do you call me 
 
 ### 22
 So Naomi returned, and Ruth the Moabitess, her daughter-in-law, with her, who returned out of the country of Moab. They came to Bethlehem in the beginning of barley harvest.
-

@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 30
 canon: "Torah"
 ---
-
 # Genesis 30
 
 ### 1
@@ -134,4 +133,3 @@ but when the flock were feeble, he didn’t put them in. So the feebler were Lab
 
 ### 43
 The man increased exceedingly, and had large flocks, female servants and male servants, and camels and donkeys.
-

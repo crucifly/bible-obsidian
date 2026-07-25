@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 5
 canon: "Poetic"
 ---
-
 # Psalms 5
 
 ### 1
@@ -41,4 +40,3 @@ But let all those who take refuge in you rejoice, Let them always shout for joy,
 
 ### 12
 For you will bless the righteous. Yahweh, you will surround him with favor as with a shield.
-

@@ -3,7 +3,6 @@ book: "Ephesians"
 chapter: 5
 canon: "New Testament"
 ---
-
 # Ephesians 5
 
 ### 1
@@ -104,4 +103,3 @@ This mystery is great, but I speak concerning Christ and of the assembly.
 
 ### 33
 Nevertheless each of you must also love his own wife even as himself; and let the wife see that she respects her husband.
-

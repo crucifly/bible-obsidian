@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 14
 canon: "New Testament"
 ---
-
 # Acts 14
 
 ### 1
@@ -89,4 +88,3 @@ When they had arrived, and had gathered the assembly together, they reported all
 
 ### 28
 They stayed there with the disciples for a long time.
-

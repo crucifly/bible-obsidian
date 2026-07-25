@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 2
 canon: "Historical"
 ---
-
 # Joshua 2
 
 ### 1
@@ -77,4 +76,3 @@ Then the two men returned, descended from the mountain, crossed the river, and c
 
 ### 24
 They said to Joshua, “Truly Yahweh has delivered all the land into our hands. Moreover, all the inhabitants of the land melt away before us.”
-

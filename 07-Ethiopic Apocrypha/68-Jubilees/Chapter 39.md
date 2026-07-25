@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 39
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 39
 
 ### 1
@@ -65,4 +64,3 @@ The Book of Jubilees
 
 ### 20
 Pharoah's dreams and their interpretation, 1-4. Elevation and marriage of Joseph, 5-13. (Cf. Gen. xli.1-5, 7-9, 14 seqq., 25, 29-30, 34, 36, 38-43, 45-6, 49.)
-

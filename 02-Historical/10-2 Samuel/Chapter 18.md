@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 18
 canon: "Historical"
 ---
-
 # 2 Samuel 18
 
 ### 1
@@ -104,4 +103,3 @@ The king said to the Cushite, “Is it well with the young man Absalom?” The C
 
 ### 33
 The king was much moved, and went up to the room over the gate, and wept. As he went, he said, “My son Absalom! My son, my son Absalom! I wish I had died for you, Absalom, my son, my son!”
-

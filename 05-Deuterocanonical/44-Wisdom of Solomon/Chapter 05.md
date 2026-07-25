@@ -3,7 +3,6 @@ book: "Wisdom of Solomon"
 chapter: 5
 canon: "Deuterocanonical"
 ---
-
 # Wisdom of Solomon 5
 
 ### 1
@@ -74,4 +73,3 @@ And hailstones full of wrath shall be cast as out of a stone bow,
 
 ### 23
 Yea, a mighty wind shall stand up against them, and like a storm
-

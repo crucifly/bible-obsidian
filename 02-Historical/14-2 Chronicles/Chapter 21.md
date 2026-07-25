@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 21
 canon: "Historical"
 ---
-
 # 2 Chronicles 21
 
 ### 1
@@ -65,4 +64,3 @@ In process of time, at the end of two years, his bowels fell out by reason of hi
 
 ### 20
 He was thirty-two years old when he began to reign, and he reigned in Jerusalem eight years. He departed without being missed; and they buried him in David’s city, but not in the tombs of the kings.
-

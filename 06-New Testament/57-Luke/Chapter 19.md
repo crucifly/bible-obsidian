@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 19
 canon: "New Testament"
 ---
-
 # Luke 19
 
 ### 1
@@ -43,7 +42,7 @@ As they heard these things, he went on and told a parable, because he was near J
 He said therefore, “A certain nobleman went into a far country to receive for himself a kingdom, and to return.
 
 ### 13
-He called ten servants of his, and gave them ten mina coins,  and told them, ‘Conduct business until I come.’
+He called ten servants of his, and gave them ten mina coins, and told them, ‘Conduct business until I come.’
 
 ### 14
 But his citizens hated him, and sent an envoy after him, saying, ‘We don’t want this man to reign over us.’
@@ -118,7 +117,7 @@ As he went, they spread their cloaks on the road.
 As he was now getting near, at the descent of the Mount of Olives, the whole multitude of the disciples began to rejoice and praise God with a loud voice for all the mighty works which they had seen,
 
 ### 38
-saying, “Blessed is the King who comes in the name of the Lord!  Peace in heaven, and glory in the highest!”
+saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven, and glory in the highest!”
 
 ### 39
 Some of the Pharisees from the multitude said to him, “Teacher, rebuke your disciples!”
@@ -142,11 +141,10 @@ and will dash you and your children within you to the ground. They will not leav
 He entered into the temple, and began to drive out those who bought and sold in it,
 
 ### 46
-saying to them, “It is written, ‘My house is a house of prayer,’  but you have made it a ‘den of robbers’!”
+saying to them, “It is written, ‘My house is a house of prayer,’ but you have made it a ‘den of robbers’!”
 
 ### 47
 He was teaching daily in the temple, but the chief priests and the scribes and the leading men among the people sought to destroy him.
 
 ### 48
 They couldn’t find what they might do, for all the people hung on to every word that he said.
-

@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 15
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 15
 
 ### 1
@@ -73,6 +72,8 @@ And I will bless her, and give thee a son by her, and I will bless him, and he s
 And Abraham fell on his face, and rejoiced, and said in his heart: 'Shall a son be born to him that is a hundred years old, and shall Sarah, who is ninety years old, bring forth?'
 
 ### 23
+
+
 # And Abraham said unto God: 'O that Ishmael might live before thee!'
 
 ### 24
@@ -122,4 +123,3 @@ And now I announce unto thee that the children of Israel will not keep true to t
 
 ### 39
 And there will be great wrath from the Lord against the children of Israel. because they have forsaken His covenant and turned aside from His word, and provoked and blasphemed, inasmuch as they do not observe the ordinance of this law; for they have treated their members like the Gentiles, so that they may be removed and rooted out of the land. And there will no more be pardon or forgiveness unto them [so that there should be forgiveness and pardon] for all the sin of this eternal error.
-

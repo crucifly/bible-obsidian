@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 47
 canon: "Poetic"
 ---
-
 # Psalms 47
 
 ### 1
@@ -32,4 +31,3 @@ God reigns over the nations. God sits on his holy throne.
 
 ### 9
 The princes of the peoples are gathered together, the people of the God of Abraham. For the shields of the earth belong to God. He is greatly exalted!
-

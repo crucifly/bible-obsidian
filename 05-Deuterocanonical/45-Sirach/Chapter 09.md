@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 9
 canon: "Deuterocanonical"
 ---
-
 # Sirach 9
 
 ### 1
@@ -59,4 +58,3 @@ For the hand of the artificer the work shall be commended: and the
 
 ### 18
 A man of an ill tongue is dangerous in his city; and he that is
-

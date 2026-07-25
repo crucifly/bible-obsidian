@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 2
 canon: "Torah"
 ---
-
 # Genesis 2
 
 ### 1
@@ -80,4 +79,3 @@ Therefore a man will leave his father and his mother, and will join with his wif
 
 ### 25
 The man and his wife were both naked, and they were not ashamed.
-

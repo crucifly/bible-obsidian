@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 3
 canon: "New Testament"
 ---
-
 # Revelation 3
 
 ### 1
@@ -71,4 +70,3 @@ He who overcomes, I will give to him to sit down with me on my throne, as I also
 
 ### 22
 He who has an ear, let him hear what the Spirit says to the assemblies.”
-

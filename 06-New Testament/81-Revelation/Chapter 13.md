@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 13
 canon: "New Testament"
 ---
-
 # Revelation 13
 
 ### 1
@@ -59,4 +58,3 @@ and that no one would be able to buy or to sell, unless he has that mark, the na
 
 ### 18
 Here is wisdom. He who has understanding, let him calculate the number of the beast, for it is the number of a man. His number is six hundred sixty-six.
-

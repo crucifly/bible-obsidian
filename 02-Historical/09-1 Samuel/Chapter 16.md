@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 16
 canon: "Historical"
 ---
-
 # 1 Samuel 16
 
 ### 1
@@ -74,4 +73,3 @@ Saul sent to Jesse, saying, “Please let David stand before me; for he has foun
 
 ### 23
 When the spirit from God was on Saul, David took the harp, and played with his hand; so Saul was refreshed, and was well, and the evil spirit departed from him.
-

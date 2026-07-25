@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 10
 canon: "Prophets"
 ---
-
 # Isaiah 10
 
 ### 1
@@ -107,4 +106,3 @@ Behold, the Lord, Yahweh of Armies, will lop the boughs with terror. The tall wi
 
 ### 34
 He will cut down the thickets of the forest with iron, and Lebanon will fall by the Mighty One.
-

@@ -3,7 +3,6 @@ book: "Ruth"
 chapter: 3
 canon: "Historical"
 ---
-
 # Ruth 3
 
 ### 1
@@ -59,4 +58,3 @@ She said, “He gave me these six measures of barley; for he said, ‘Don’t go
 
 ### 18
 Then she said, “Wait, my daughter, until you know what will happen; for the man will not rest until he has settled this today.”
-

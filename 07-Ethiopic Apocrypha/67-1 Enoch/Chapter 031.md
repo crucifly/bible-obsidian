@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 31
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 31
 
 ### 1
@@ -14,4 +13,3 @@ And beyond these mountains I saw another mountain ⌈to the east of the ends of 
 
 ### 3
 And when one burnt it, it smelt sweeter than any fragrant odour.
-

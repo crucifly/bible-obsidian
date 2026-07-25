@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 26
 canon: "Historical"
 ---
-
 # 1 Chronicles 26
 
 ### 1
@@ -101,4 +100,3 @@ Of the Hebronites was Jerijah the chief, even of the Hebronites, according to th
 
 ### 32
 His brothers, men of valor, were two thousand seven hundred, heads of fathers’ households, whom king David made overseers over the Reubenites, the Gadites, and the half-tribe of the Manassites, for every matter pertaining to God, and for the affairs of the king.
-

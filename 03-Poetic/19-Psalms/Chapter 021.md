@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 21
 canon: "Poetic"
 ---
-
 # Psalms 21
 
 ### 1
@@ -44,4 +43,3 @@ For you will make them turn their back, when you aim drawn bows at their face.
 
 ### 13
 Be exalted, Yahweh, in your strength, so we will sing and praise your power.
-

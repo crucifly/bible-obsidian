@@ -3,7 +3,6 @@ book: "Baruch"
 chapter: 5
 canon: "Deuterocanonical"
 ---
-
 # Baruch 5
 
 ### 1
@@ -32,4 +31,3 @@ Moreover even the woods and every sweetsmelling tree shall
 
 ### 9
 For God shall lead Israel with joy in the light of his glory with
-

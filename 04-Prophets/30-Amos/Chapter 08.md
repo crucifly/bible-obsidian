@@ -3,7 +3,6 @@ book: "Amos"
 chapter: 8
 canon: "Prophets"
 ---
-
 # Amos 8
 
 ### 1
@@ -47,4 +46,3 @@ In that day the beautiful virgins and the young men will faint for thirst.
 
 ### 14
 Those who swear by the sin of Samaria, and say, ‘As your god, Dan, lives;’ and, ‘As the way of Beersheba lives;’ they will fall, and never rise up again.”
-

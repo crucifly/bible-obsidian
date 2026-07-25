@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 44
 canon: "Prophets"
 ---
-
 # Isaiah 44
 
 ### 1
@@ -89,4 +88,3 @@ who says to the deep, ‘Be dry,’ and ‘I will dry up your rivers;’
 
 ### 28
 Who says of Cyrus, ‘He is my shepherd, and shall perform all my pleasure,’ even saying of Jerusalem, ‘She will be built;’ and of the temple, ‘Your foundation will be laid.’”
-

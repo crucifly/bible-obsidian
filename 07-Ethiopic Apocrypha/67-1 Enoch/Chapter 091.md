@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 91
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 91
 
 ### 1
@@ -20,4 +19,3 @@ He will be gracious to the righteous and give him eternal uprightness, And He wi
 
 ### 5
 And sin shall perish in darkness for ever, And shall no more be seen from that day for evermore.
-

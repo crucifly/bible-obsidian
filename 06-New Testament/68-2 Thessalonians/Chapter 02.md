@@ -3,7 +3,6 @@ book: "2 Thessalonians"
 chapter: 2
 canon: "New Testament"
 ---
-
 # 2 Thessalonians 2
 
 ### 1
@@ -56,4 +55,3 @@ Now our Lord Jesus Christ himself, and God our Father, who loved us and gave us 
 
 ### 17
 comfort your hearts and establish you in every good work and word.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 128
 canon: "Poetic"
 ---
-
 # Psalms 128
 
 ### 1
@@ -23,4 +22,3 @@ May Yahweh bless you out of Zion, and may you see the good of Jerusalem all the 
 
 ### 6
 Yes, may you see your children’s children. Peace be upon Israel.
-

@@ -3,7 +3,6 @@ book: "Song of Songs"
 chapter: 8
 canon: "Poetic"
 ---
-
 # Song of Solomon 8
 
 ### 1
@@ -47,4 +46,3 @@ You who dwell in the gardens, with friends in attendance, let me hear your voice
 
 ### 14
 Come away, my beloved! Be like a gazelle or a young stag on the mountains of spices!
-

@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Jeremiah 1
 
 ### 1
@@ -62,4 +61,3 @@ For, behold, I have made you today a fortified city, an iron pillar, and bronze 
 
 ### 19
 They will fight against you, but they will not prevail against you; for I am with you”, says Yahweh, “to rescue you.”
-

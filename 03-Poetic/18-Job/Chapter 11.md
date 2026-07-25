@@ -3,7 +3,6 @@ book: "Job"
 chapter: 11
 canon: "Poetic"
 ---
-
 # Job 11
 
 ### 1
@@ -65,4 +64,3 @@ Also you shall lie down, and no one shall make you afraid. Yes, many shall court
 
 ### 20
 But the eyes of the wicked shall fail. They shall have no way to flee. Their hope shall be the giving up of the spirit.”
-

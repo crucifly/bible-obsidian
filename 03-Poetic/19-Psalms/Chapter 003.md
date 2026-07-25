@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 3
 canon: "Poetic"
 ---
-
 # Psalms 3
 
 ### 1
@@ -29,4 +28,3 @@ Arise, Yahweh! Save me, my God! For you have struck all of my enemies on the che
 
 ### 8
 Salvation belongs to Yahweh. Your blessing be on your people..
-

@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 3
 canon: "Historical"
 ---
-
 # 2 Chronicles 3
 
 ### 1
@@ -56,4 +55,3 @@ He made chains in the inner sanctuary, and put them on the tops of the pillars; 
 
 ### 17
 He set up the pillars before the temple, one on the right hand, and the other on the left; and called the name of that on the right hand Jachin, and the name of that on the left Boaz.
-

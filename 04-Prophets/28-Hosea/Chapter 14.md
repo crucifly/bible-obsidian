@@ -3,7 +3,6 @@ book: "Hosea"
 chapter: 14
 canon: "Prophets"
 ---
-
 # Hosea 14
 
 ### 1
@@ -32,4 +31,3 @@ Ephraim, what have I to do any more with idols? I answer, and will take care of 
 
 ### 9
 Who is wise, that he may understand these things? Who is prudent, that he may know them? For the ways of Yahweh are right, and the righteous walk in them; But the rebellious stumble in them.
-

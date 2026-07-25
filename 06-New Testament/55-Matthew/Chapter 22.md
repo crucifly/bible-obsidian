@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 22
 canon: "New Testament"
 ---
-
 # Matthew 22
 
 ### 1
@@ -130,7 +129,7 @@ The whole law and the prophets depend on these two commandments.”
 Now while the Pharisees were gathered together, Jesus asked them a question,
 
 ### 42
-saying, “What do you think of the Christ? Whose son is he?”  They said to him, “Of David.”
+saying, “What do you think of the Christ? Whose son is he?” They said to him, “Of David.”
 
 ### 43
 He said to them, “How then does David in the Spirit call him Lord, saying,
@@ -143,4 +142,3 @@ He said to them, “How then does David in the Spirit call him Lord, saying,
 
 ### 46
 No one was able to answer him a word, neither did any man dare ask him any more questions from that day forward.
-

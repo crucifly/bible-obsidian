@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 11
 canon: "Historical"
 ---
-
 # Joshua 11
 
 ### 1
@@ -74,4 +73,3 @@ There were none of the Anakim left in the land of the children of Israel. Only i
 
 ### 23
 So Joshua took the whole land, according to all that Yahweh spoke to Moses; and Joshua gave it for an inheritance to Israel according to their divisions by their tribes. The land had rest from war.
-

@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 13
 canon: "Historical"
 ---
-
 # 1 Kings 13
 
 ### 1
@@ -107,4 +106,3 @@ After this thing Jeroboam didn’t return from his evil way, but again made prie
 
 ### 34
 This thing became sin to the house of Jeroboam, even to cut it off, and to destroy it from off the surface of the earth.
-

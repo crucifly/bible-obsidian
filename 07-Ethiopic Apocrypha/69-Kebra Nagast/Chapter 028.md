@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 28
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 28
 
 ### 1
@@ -23,4 +22,3 @@ And when the Queen sent her message to Solomon, saying that she was about to dep
 
 ### 6
 Now those early peoples lived under the law of the flesh, for the grace of the Holy Spirit had not been given unto them. And to those [who lived] after Christ, it was given to live with one woman under the law of marriage. And the Apostles laid down for them an ordinance, saying, “All those who have received His flesh and His blood are brethren. Their mother is the Church and their father is God, and they cry out with Christ Whom they have received, saying, ‘Our Father, Who art in heaven.’” And as concerning Solomon no law had been laid down for him in respect of women, and no blame can be imputed to him in respect of marrying [many] wives. But for those who believe, the law and the command have been given that they shall not marry many wives, even as Paul saith, “Those who marry many wives seek their own punishment. He who marrieth one wife hath no sin.” And the law restraineth us from the sister [-in-law], in respect of the bearing of children. The Apostles speak [concerning it] in the [Book of] Councils.
-

@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 37
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 37
 
 ### 1
@@ -17,4 +16,3 @@ And the King answered and said unto him, “Since thou speakest in this wise, ac
 
 ### 4
 And his son answered and said unto him, “O my lord, it is impossible for me to leave my country and my mother, for my mother made me to swear by her breasts that I would not remain here but would return to her quickly, and also that I would not marry a wife here. And the Tabernacle of the God of Israel shall bless me wheresoever I shall be, and thy prayer shall accompany me whithersoever I go. I desired to see thy face, and to hear thy voice, and to receive thy blessing, and now I desire to depart to my mother in safety.”
-

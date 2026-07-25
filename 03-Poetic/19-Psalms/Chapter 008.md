@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 8
 canon: "Poetic"
 ---
-
 # Psalms 8
 
 ### 1
@@ -32,4 +31,3 @@ The birds of the sky, the fish of the sea, and whatever passes through the paths
 
 ### 9
 Yahweh, our Lord, how majestic is your name in all the earth!
-

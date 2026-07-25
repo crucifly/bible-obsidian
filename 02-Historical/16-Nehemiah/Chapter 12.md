@@ -3,7 +3,6 @@ book: "Nehemiah"
 chapter: 12
 canon: "Historical"
 ---
-
 # Nehemiah 12
 
 ### 1
@@ -146,4 +145,3 @@ For in the days of David and Asaph of old there was a chief of the singers, and 
 
 ### 47
 All Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the gatekeepers, as every day required; and they set apart that which was for the Levites; and the Levites set apart that which was for the sons of Aaron.
-

@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 36
 canon: "Prophets"
 ---
-
 # Ezekiel 36
 
 ### 1
@@ -119,4 +118,3 @@ Then the nations that are left around you will know that I, Yahweh, have built t
 
 ### 38
 As the flock for sacrifice, as the flock of Jerusalem in her appointed feasts, so the waste cities will be filled with flocks of men. Then they will know that I am Yahweh.’”
-

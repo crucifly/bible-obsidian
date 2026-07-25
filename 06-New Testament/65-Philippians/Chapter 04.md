@@ -3,7 +3,6 @@ book: "Philippians"
 chapter: 4
 canon: "New Testament"
 ---
-
 # Philippians 4
 
 ### 1
@@ -74,4 +73,3 @@ All the saints greet you, especially those who are of Caesar’s household.
 
 ### 23
 The grace of the Lord Jesus Christ be with you all. Amen.
-

@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 4
 canon: "New Testament"
 ---
-
 # Mark 4
 
 ### 1
@@ -67,7 +66,7 @@ and the cares of this age, and the deceitfulness of riches, and the lusts of oth
 Those which were sown on the good ground are those who hear the word, and accept it, and bear fruit, some thirty times, some sixty times, and some one hundred times.”
 
 ### 21
-He said to them, “Is the lamp brought to be put under a basket  or under a bed? Isn’t it put on a stand?
+He said to them, “Is the lamp brought to be put under a basket or under a bed? Isn’t it put on a stand?
 
 ### 22
 For there is nothing hidden, except that it should be made known; neither was anything made secret, but that it should come to light.
@@ -128,4 +127,3 @@ He said to them, “Why are you so afraid? How is it that you have no faith?”
 
 ### 41
 They were greatly afraid, and said to one another, “Who then is this, that even the wind and the sea obey him?”
-

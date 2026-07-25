@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 8
 canon: "New Testament"
 ---
-
 # Acts 8
 
 ### 1
@@ -125,4 +124,3 @@ When they came up out of the water, the Spirit of the Lord caught Philip away, a
 
 ### 40
 But Philip was found at Azotus. Passing through, he preached the Good News to all the cities, until he came to Caesarea.
-

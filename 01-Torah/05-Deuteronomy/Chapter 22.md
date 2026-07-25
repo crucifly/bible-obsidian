@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 22
 canon: "Torah"
 ---
-
 # Deuteronomy 22
 
 ### 1
@@ -95,4 +94,3 @@ then the man who lay with her shall give to the lady’s father fifty shekels of
 
 ### 30
 A man shall not take his father’s wife, and shall not uncover his father’s skirt.
-

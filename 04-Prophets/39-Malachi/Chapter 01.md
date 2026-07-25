@@ -3,7 +3,6 @@ book: "Malachi"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Malachi 1
 
 ### 1
@@ -47,4 +46,3 @@ You say also, ‘Behold, what a weariness it is!’ and you have sniffed at it�
 
 ### 14
 “But the deceiver is cursed, who has in his flock a male, and vows, and sacrifices to the Lord a defective thing; for I am a great King,” says Yahweh of Armies, “and my name is awesome among the nations.”
-

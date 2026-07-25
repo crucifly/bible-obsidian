@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 22
 canon: "Poetic"
 ---
-
 # Psalms 22
 
 ### 1
@@ -98,4 +97,3 @@ Posterity shall serve him. Future generations shall be told about the Lord.
 
 ### 31
 They shall come and shall declare his righteousness to a people that shall be born, for he has done it.
-

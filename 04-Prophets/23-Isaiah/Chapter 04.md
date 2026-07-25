@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 4
 canon: "Prophets"
 ---
-
 # Isaiah 4
 
 ### 1
@@ -23,4 +22,3 @@ Yahweh will create over the whole habitation of Mount Zion, and over her assembl
 
 ### 6
 There will be a pavilion for a shade in the daytime from the heat, and for a refuge and for a shelter from storm and from rain.
-

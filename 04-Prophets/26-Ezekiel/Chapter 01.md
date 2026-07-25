@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Ezekiel 1
 
 ### 1
@@ -89,4 +88,3 @@ I saw as it were glowing metal, as the appearance of fire within it all around, 
 
 ### 28
 As the appearance of the rainbow that is in the cloud in the day of rain, so was the appearance of the brightness all around. This was the appearance of the likeness of Yahweh’s glory. When I saw it, I fell on my face, and I heard a voice of one that spoke.
-

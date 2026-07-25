@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 38
 canon: "Torah"
 ---
-
 # Genesis 38
 
 ### 1
@@ -95,4 +94,3 @@ As he drew back his hand, behold, his brother came out, and she said, “Why hav
 
 ### 30
 Afterward his brother came out, that had the scarlet thread on his hand, and his name was called Zerah.
-

@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 22
 canon: "Prophets"
 ---
-
 # Isaiah 22
 
 ### 1
@@ -80,4 +79,3 @@ They will hang on him all the glory of his father’s house, the offspring and t
 
 ### 25
 “In that day,” says Yahweh of Armies, “the nail that was fastened in a sure place will give way. It will be cut down, and fall. The burden that was on it will be cut off, for Yahweh has spoken it.”
-

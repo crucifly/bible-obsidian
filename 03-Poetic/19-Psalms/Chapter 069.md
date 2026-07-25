@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 69
 canon: "Poetic"
 ---
-
 # Psalms 69
 
 ### 1
@@ -113,4 +112,3 @@ For God will save Zion, and build the cities of Judah. They shall settle there, 
 
 ### 36
 The children also of his servants shall inherit it. Those who love his name shall dwell therein.
-

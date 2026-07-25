@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 48
 canon: "Torah"
 ---
-
 # Genesis 48
 
 ### 1
@@ -71,4 +70,3 @@ Israel said to Joseph, “Behold, I am dying, but God will be with you, and brin
 
 ### 22
 Moreover I have given to you one portion above your brothers, which I took out of the hand of the Amorite with my sword and with my bow.”
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 149
 canon: "Poetic"
 ---
-
 # Psalms 149
 
 ### 1
@@ -32,4 +31,3 @@ To bind their kings with chains, and their nobles with fetters of iron;
 
 ### 9
 to execute on them the written judgment. All his saints have this honor. Praise Yah!
-

@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 23
 canon: "Historical"
 ---
-
 # 2 Samuel 23
 
 ### 1
@@ -122,4 +121,3 @@ Ira the Ithrite, Gareb the Ithrite,
 
 ### 39
 and Uriah the Hittite: thirty-seven in all.
-

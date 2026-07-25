@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 30
 canon: "Torah"
 ---
-
 # Numbers 30
 
 ### 1
@@ -53,4 +52,3 @@ But if he shall make them null and void after that he has heard them, then he sh
 
 ### 16
 These are the statutes which Yahweh commanded Moses, between a man and his wife, between a father and his daughter, being in her youth, in her father’s house.
-

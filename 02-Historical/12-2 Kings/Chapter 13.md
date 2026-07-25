@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 13
 canon: "Historical"
 ---
-
 # 2 Kings 13
 
 ### 1
@@ -80,4 +79,3 @@ Hazael king of Syria died; and Benhadad his son reigned in his place.
 
 ### 25
 Jehoash the son of Jehoahaz took again out of the hand of Benhadad the son of Hazael the cities which he had taken out of the hand of Jehoahaz his father by war. Joash struck him three times, and recovered the cities of Israel.
-

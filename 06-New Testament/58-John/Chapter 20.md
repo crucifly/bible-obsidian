@@ -3,7 +3,6 @@ book: "John"
 chapter: 20
 canon: "New Testament"
 ---
-
 # John 20
 
 ### 1
@@ -98,4 +97,3 @@ Therefore Jesus did many other signs in the presence of his disciples, which are
 
 ### 31
 but these are written, that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name.
-

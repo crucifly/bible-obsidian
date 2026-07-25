@@ -3,7 +3,6 @@ book: "Job"
 chapter: 9
 canon: "Poetic"
 ---
-
 # Job 9
 
 ### 1
@@ -110,4 +109,3 @@ Let him take his rod away from me. Let his terror not make me afraid;
 
 ### 35
 then I would speak, and not fear him, for I am not so in myself.
-

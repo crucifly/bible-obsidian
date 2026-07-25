@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 26
 canon: "Prophets"
 ---
-
 # Isaiah 26
 
 ### 1
@@ -68,4 +67,3 @@ Come, my people, enter into your rooms, and shut your doors behind you. Hide you
 
 ### 21
 For, behold, Yahweh comes out of his place to punish the inhabitants of the earth for their iniquity. The earth also will disclose her blood, and will no longer cover her slain.
-

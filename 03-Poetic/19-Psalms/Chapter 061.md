@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 61
 canon: "Poetic"
 ---
-
 # Psalms 61
 
 ### 1
@@ -29,4 +28,3 @@ He shall be enthroned in God’s presence forever. Appoint your loving kindness 
 
 ### 8
 So I will sing praise to your name forever, that I may fulfill my vows daily.
-

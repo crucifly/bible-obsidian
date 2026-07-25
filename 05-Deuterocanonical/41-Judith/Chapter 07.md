@@ -3,7 +3,6 @@ book: "Judith"
 chapter: 7
 canon: "Deuterocanonical"
 ---
-
 # Judith 7
 
 ### 1
@@ -101,4 +100,3 @@ And if these days pass, and there come no help unto us, I will do
 
 ### 32
 And he dispersed the people, every one to their own charge; and
-

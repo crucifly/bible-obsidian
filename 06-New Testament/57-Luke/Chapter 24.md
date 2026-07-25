@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 24
 canon: "New Testament"
 ---
-
 # Luke 24
 
 ### 1
@@ -164,4 +163,3 @@ They worshiped him, and returned to Jerusalem with great joy,
 
 ### 53
 and were continually in the temple, praising and blessing God. Amen.
-

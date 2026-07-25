@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 45
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 45
 
 ### 1
@@ -23,4 +22,3 @@ And I will transform the earth and make it a blessing: And I will cause Mine ele
 
 ### 6
 For I have provided and satisfied with peace My righteous ones And have caused them to dwell before Me: But for the sinners there is judgement impending with Me, So that I shall destroy them from the face of the earth.
-

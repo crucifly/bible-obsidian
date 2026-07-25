@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 3
 canon: "Torah"
 ---
-
 # Exodus 3
 
 ### 1
@@ -71,4 +70,3 @@ I will give this people favor in the sight of the Egyptians, and it will happen 
 
 ### 22
 But every woman shall ask of her neighbor, and of her who visits her house, jewels of silver, jewels of gold, and clothing; and you shall put them on your sons, and on your daughters. You shall plunder the Egyptians.”
-

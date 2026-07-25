@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 24
 canon: "Torah"
 ---
-
 # Deuteronomy 24
 
 ### 1
@@ -71,4 +70,3 @@ When you harvest your vineyard, you shall not glean it after yourselves. It shal
 
 ### 22
 You shall remember that you were a slave in the land of Egypt. Therefore I command you to do this thing.
-

@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 4
 canon: "Prophets"
 ---
-
 # Ezekiel 4
 
 ### 1
@@ -56,4 +55,3 @@ Moreover he said to me, “Son of man, behold, I will break the staff of bread i
 
 ### 17
 that they may lack bread and water, be dismayed one with another, and pine away in their iniquity.
-

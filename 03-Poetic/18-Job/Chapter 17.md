@@ -3,7 +3,6 @@ book: "Job"
 chapter: 17
 canon: "Poetic"
 ---
-
 # Job 17
 
 ### 1
@@ -53,4 +52,3 @@ where then is my hope? as for my hope, who shall see it?
 
 ### 16
 Shall it go down with me to the gates of Sheol, or descend together into the dust?”
-

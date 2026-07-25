@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 9
 canon: "Historical"
 ---
-
 # 2 Samuel 9
 
 ### 1
@@ -44,4 +43,3 @@ Mephibosheth had a young son, whose name was Mica. All that lived in Ziba’s ho
 
 ### 13
 So Mephibosheth lived in Jerusalem; for he ate continually at the king’s table. He was lame in both his feet.
-

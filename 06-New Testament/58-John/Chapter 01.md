@@ -3,7 +3,6 @@ book: "John"
 chapter: 1
 canon: "New Testament"
 ---
-
 # John 1
 
 ### 1
@@ -19,7 +18,7 @@ All things were made through him. Without him was not anything made that has bee
 In him was life, and the life was the light of men.
 
 ### 5
-The light shines in the darkness, and the darkness hasn’t overcome  it.
+The light shines in the darkness, and the darkness hasn’t overcome it.
 
 ### 6
 There came a man, sent from God, whose name was John.
@@ -158,4 +157,3 @@ Jesus answered him, “Because I told you, ‘I saw you underneath the fig tree,
 
 ### 51
 He said to him, “Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”
-

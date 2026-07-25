@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 14
 canon: "New Testament"
 ---
-
 # Romans 14
 
 ### 1
@@ -83,4 +82,3 @@ but now is revealed, and by the Scriptures of the prophets, according to the com
 
 ### 26
 to the only wise God, through Jesus Christ, to whom be the glory forever! Amen.
-

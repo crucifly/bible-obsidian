@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 38
 canon: "Torah"
 ---
-
 # Exodus 38
 
 ### 1
@@ -98,4 +97,3 @@ With this he made the sockets to the door of the Tent of Meeting, the bronze alt
 
 ### 31
 the sockets around the court, the sockets of the gate of the court, all the pins of the tabernacle, and all the pins around the court.
-

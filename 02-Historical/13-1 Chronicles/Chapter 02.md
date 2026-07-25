@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 2
 canon: "Historical"
 ---
-
 # 1 Chronicles 2
 
 ### 1
@@ -170,4 +169,3 @@ The sons of Salma: Bethlehem, the Netophathites, Atroth Beth Joab, and half of t
 
 ### 55
 The families of scribes who lived at Jabez: the Tirathites, the Shimeathites, and the Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab.
-

@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 15
 canon: "New Testament"
 ---
-
 # Revelation 15
 
 ### 1
@@ -29,4 +28,3 @@ One of the four living creatures gave to the seven angels seven golden bowls ful
 
 ### 8
 The temple was filled with smoke from the glory of God, and from his power. No one was able to enter into the temple, until the seven plagues of the seven angels would be finished.
-

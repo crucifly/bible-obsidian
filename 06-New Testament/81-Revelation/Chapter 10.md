@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 10
 canon: "New Testament"
 ---
-
 # Revelation 10
 
 ### 1
@@ -38,4 +37,3 @@ I took the little book out of the angel’s hand, and ate it up. It was as sweet
 
 ### 11
 They told me, “You must prophesy again over many peoples, nations, languages, and kings.”
-

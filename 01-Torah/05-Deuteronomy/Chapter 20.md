@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 20
 canon: "Torah"
 ---
-
 # Deuteronomy 20
 
 ### 1
@@ -65,4 +64,3 @@ When you shall besiege a city a long time, in making war against it to take it, 
 
 ### 20
 Only the trees that you know are not trees for food, you shall destroy and cut them down. You shall build bulwarks against the city that makes war with you, until it falls.
-

@@ -3,7 +3,6 @@ book: "Esther"
 chapter: 6
 canon: "Historical"
 ---
-
 # Esther 6
 
 ### 1
@@ -47,4 +46,3 @@ Haman recounted to Zeresh his wife and all his friends everything that had happe
 
 ### 14
 While they were yet talking with him, the king’s eunuchs came, and hurried to bring Haman to the banquet that Esther had prepared.
-

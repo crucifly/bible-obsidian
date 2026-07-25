@@ -3,7 +3,6 @@ book: "Baruch"
 chapter: 1
 canon: "Deuterocanonical"
 ---
-
 # Baruch 1
 
 ### 1
@@ -71,4 +70,3 @@ Nevertheless we have not hearkened unto the voice of the Lord our
 
 ### 22
 But every man followed the imagination of his own wicked heart, to
-

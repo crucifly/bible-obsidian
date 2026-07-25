@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 74
 canon: "Poetic"
 ---
-
 # Psalms 74
 
 ### 1
@@ -74,4 +73,3 @@ Arise, God! Plead your own cause. Remember how the foolish man mocks you all day
 
 ### 23
 Don’t forget the voice of your adversaries. The tumult of those who rise up against you ascends continually.
-

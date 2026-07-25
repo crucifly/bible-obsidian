@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 12
 canon: "Torah"
 ---
-
 # Deuteronomy 12
 
 ### 1
@@ -101,4 +100,3 @@ You shall not do so to Yahweh your God; for every abomination to Yahweh, which h
 
 ### 32
 Whatever thing I command you, that you shall observe to do. You shall not add to it, nor take away from it.
-

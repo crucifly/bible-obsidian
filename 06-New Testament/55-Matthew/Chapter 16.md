@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 16
 canon: "New Testament"
 ---
-
 # Matthew 16
 
 ### 1
@@ -58,7 +57,7 @@ Simon Peter answered, “You are the Christ, the Son of the living God.”
 Jesus answered him, “Blessed are you, Simon Bar Jonah, for flesh and blood has not revealed this to you, but my Father who is in heaven.
 
 ### 18
-I also tell you that you are Peter, and on this rock  I will build my assembly, and the gates of Hades will not prevail against it.
+I also tell you that you are Peter, and on this rock I will build my assembly, and the gates of Hades will not prevail against it.
 
 ### 19
 I will give to you the keys of the Kingdom of Heaven, and whatever you bind on earth will have been bound in heaven; and whatever you release on earth will have been released in heaven.”
@@ -89,4 +88,3 @@ For the Son of Man will come in the glory of his Father with his angels, and the
 
 ### 28
 Most certainly I tell you, there are some standing here who will in no way taste of death, until they see the Son of Man coming in his Kingdom.”
-

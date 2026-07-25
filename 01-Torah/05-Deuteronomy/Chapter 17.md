@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 17
 canon: "Torah"
 ---
-
 # Deuteronomy 17
 
 ### 1
@@ -65,4 +64,3 @@ It shall be with him, and he shall read from it all the days of his life; that h
 
 ### 20
 that his heart not be lifted up above his brothers, and that he not turn away from the commandment, to the right hand, or to the left; to the end that he may prolong his days in his kingdom, he and his children, in the middle of Israel.
-

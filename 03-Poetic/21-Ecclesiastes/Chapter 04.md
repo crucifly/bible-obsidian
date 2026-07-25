@@ -3,7 +3,6 @@ book: "Ecclesiastes"
 chapter: 4
 canon: "Poetic"
 ---
-
 # Ecclesiastes 4
 
 ### 1
@@ -53,4 +52,3 @@ I saw all the living who walk under the sun, that they were with the youth, the 
 
 ### 16
 There was no end of all the people, even of all them over whom he was—yet those who come after shall not rejoice in him. Surely this also is vanity and a chasing after wind.
-

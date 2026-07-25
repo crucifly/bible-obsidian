@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 96
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 96
 
 ### 1
@@ -26,4 +25,3 @@ And Ezekiel also prophesied concerning Mary and said, “I saw a door in the eas
 
 ### 7
 And Moses also prophesied concerning Mary, saying, “I saw a bramble bush on Mount Sinai which the devouring fire consumed not.” And the signification of this fire is the Godhood of the Son of God; and the bramble bush, which burned without the leaves thereof being shrivelled, is Mary.
-

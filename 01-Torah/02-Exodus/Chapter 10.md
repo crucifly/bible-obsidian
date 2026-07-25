@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 10
 canon: "Torah"
 ---
-
 # Exodus 10
 
 ### 1
@@ -92,4 +91,3 @@ Pharaoh said to him, “Get away from me! Be careful to see my face no more; for
 
 ### 29
 Moses said, “You have spoken well. I will see your face again no more.”
-

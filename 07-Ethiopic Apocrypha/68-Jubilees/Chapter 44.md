@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 44
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 44
 
 ### 1
@@ -113,4 +112,3 @@ The Book of Jubilees
 
 ### 36
 Joseph receives Jacob, and gives him Goshen, 1-7. Joseph acquires all the land and its inhabitants for Pharaoh, 8-12. Jacob dies and is buried in Hebron, 13-15. His books given to Levi, 16. (Cf. Gen. xlvi.28-30; xlvii.11-13, 19, 20, 23, 24, 28; l.13.)
-

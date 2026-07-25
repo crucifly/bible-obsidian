@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 71
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 71
 
 ### 1
@@ -56,4 +55,3 @@ And all shall walk in his ways since righteousness never forsaketh him: With him
 
 ### 17
 And so there shall be length of days with that Son of Man, And the righteous shall have peace and an upright way In the name of the Lord of Spirits for ever and ever.’ The Book Of The Courses Of The Heavenly Luminaries
-

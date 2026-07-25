@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 126
 canon: "Poetic"
 ---
-
 # Psalms 126
 
 ### 1
@@ -23,4 +22,3 @@ Those who sow in tears will reap in joy.
 
 ### 6
 He who goes out weeping, carrying seed for sowing, will certainly come again with joy, carrying his sheaves.
-

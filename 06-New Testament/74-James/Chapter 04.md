@@ -3,7 +3,6 @@ book: "James"
 chapter: 4
 canon: "New Testament"
 ---
-
 # James 4
 
 ### 1
@@ -56,4 +55,3 @@ But now you glory in your boasting. All such boasting is evil.
 
 ### 17
 To him therefore who knows to do good, and doesn’t do it, to him it is sin.
-

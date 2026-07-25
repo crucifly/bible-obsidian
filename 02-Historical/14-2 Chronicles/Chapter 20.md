@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 20
 canon: "Historical"
 ---
-
 # 2 Chronicles 20
 
 ### 1
@@ -116,4 +115,3 @@ He joined himself with him to make ships to go to Tarshish. They made the ships 
 
 ### 37
 Then Eliezer the son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying, “Because you have joined yourself with Ahaziah, Yahweh has destroyed your works.” The ships were wrecked, so that they were not able to go to Tarshish.
-

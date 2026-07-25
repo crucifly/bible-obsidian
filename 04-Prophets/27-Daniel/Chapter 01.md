@@ -3,14 +3,13 @@ book: "Daniel"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Daniel 1
 
 ### 1
 In the third year of the reign of Jehoiakim king of Judah Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.
 
 ### 2
-The Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God;  and he carried them into the land of Shinar to the house of his god. He brought the vessels into the treasure house of his god.
+The Lord gave Jehoiakim king of Judah into his hand, with part of the vessels of the house of God; and he carried them into the land of Shinar to the house of his god. He brought the vessels into the treasure house of his god.
 
 ### 3
 The king spoke to Ashpenaz the master of his eunuchs, that he should bring in some of the children of Israel, even of the royal offspring and of the nobles;
@@ -68,4 +67,3 @@ In every matter of wisdom and understanding, concerning which the king inquired 
 
 ### 21
 Daniel continued even to the first year of king Cyrus.
-

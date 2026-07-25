@@ -3,7 +3,6 @@ book: "Jonah"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Jonah 3
 
 ### 1
@@ -35,4 +34,3 @@ Who knows whether God will not turn and relent, and turn away from his fierce an
 
 ### 10
 God saw their works, that they turned from their evil way. God relented of the disaster which he said he would do to them, and he didn’t do it.
-

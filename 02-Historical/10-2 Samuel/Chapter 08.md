@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 8
 canon: "Historical"
 ---
-
 # 2 Samuel 8
 
 ### 1
@@ -59,4 +58,3 @@ Zadok the son of Ahitub and Ahimelech the son of Abiathar were priests, Seraiah 
 
 ### 18
 Benaiah the son of Jehoiada was over the Cherethites and the Pelethites, David’s sons were chief ministers.
-

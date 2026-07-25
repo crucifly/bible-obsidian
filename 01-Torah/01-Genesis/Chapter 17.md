@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 17
 canon: "Torah"
 ---
-
 # Genesis 17
 
 ### 1
@@ -86,4 +85,3 @@ In the same day both Abraham and Ishmael, his son, were circumcised.
 
 ### 27
 All the men of his house, those born in the house, and those bought with money from a foreigner, were circumcised with him.
-

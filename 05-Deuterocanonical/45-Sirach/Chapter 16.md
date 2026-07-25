@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 16
 canon: "Deuterocanonical"
 ---
-
 # Sirach 16
 
 ### 1
@@ -95,4 +94,3 @@ After this the Lord looked upon the earth, and filled it with his
 
 ### 30
 With all manner of living things hath he covered the face
-

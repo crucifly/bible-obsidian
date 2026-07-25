@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 27
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 27
 
 ### 1
@@ -92,4 +91,3 @@ The Book of Jubilees
 
 ### 29
 Jacob marries leah and Rachel, 1-10. His children by Leah and Rachel and by their handmaids, 11-24. Jacob seeks to leave Laban, 25: but stays on at a certain wage, 26-8. Jacob becomes rich, 29-30. (Cf. Gen. xxix.1, 17, 18, 21-35; xxx.1-13,17-22, 24, 25, 28, 32, 39, 43; xxxi.1, 2.)
-

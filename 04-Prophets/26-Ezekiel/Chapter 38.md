@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 38
 canon: "Prophets"
 ---
-
 # Ezekiel 38
 
 ### 1
@@ -74,4 +73,3 @@ I will enter into judgment with him with pestilence and with blood. I will rain 
 
 ### 23
 I will magnify myself, and sanctify myself, and I will make myself known in the eyes of many nations. Then they will know that I am Yahweh.”’
-

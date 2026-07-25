@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 8
 canon: "New Testament"
 ---
-
 # Revelation 8
 
 ### 1
@@ -25,7 +24,7 @@ The angel took the censer, and he filled it with the fire of the altar, and thre
 The seven angels who had the seven trumpets prepared themselves to sound.
 
 ### 7
-The first sounded, and there followed hail and fire, mixed with blood, and they were thrown to the earth. One third of the earth was burned up,  and one third of the trees were burned up, and all green grass was burned up.
+The first sounded, and there followed hail and fire, mixed with blood, and they were thrown to the earth. One third of the earth was burned up, and one third of the trees were burned up, and all green grass was burned up.
 
 ### 8
 The second angel sounded, and something like a great burning mountain was thrown into the sea. One third of the sea became blood,
@@ -44,4 +43,3 @@ The fourth angel sounded, and one third of the sun was struck, and one third of 
 
 ### 13
 I saw, and I heard an eagle, flying in mid heaven, saying with a loud voice, “Woe! Woe! Woe for those who dwell on the earth, because of the other voices of the trumpets of the three angels, who are yet to sound!”
-

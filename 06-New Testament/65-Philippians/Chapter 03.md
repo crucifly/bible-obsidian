@@ -3,7 +3,6 @@ book: "Philippians"
 chapter: 3
 canon: "New Testament"
 ---
-
 # Philippians 3
 
 ### 1
@@ -68,4 +67,3 @@ For our citizenship is in heaven, from where we also wait for a Savior, the Lord
 
 ### 21
 who will change the body of our humiliation to be conformed to the body of his glory, according to the working by which he is able even to subject all things to himself.
-

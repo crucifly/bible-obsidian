@@ -3,7 +3,6 @@ book: "Rest of Esther"
 chapter: 16
 canon: "Deuterocanonical"
 ---
-
 # Rest of Esther 16
 
 ### 1
@@ -77,4 +76,3 @@ That both now and hereafter there may be safety to us and the
 
 ### 24
 Therefore every city and country whatsoever, which shall not do
-

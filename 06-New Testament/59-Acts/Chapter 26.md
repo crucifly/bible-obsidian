@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 26
 canon: "New Testament"
 ---
-
 # Acts 26
 
 ### 1
@@ -101,4 +100,3 @@ When they had withdrawn, they spoke to one another, saying, “This man does not
 
 ### 32
 Agrippa said to Festus, “This man might have been set free if he had not appealed to Caesar.”
-

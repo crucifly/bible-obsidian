@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 43
 canon: "Deuterocanonical"
 ---
-
 # Sirach 43
 
 ### 1
@@ -104,4 +103,3 @@ There are yet hid greater things than these be, for we have seen
 
 ### 33
 For the Lord hath made all things; and to the godly hath he given
-

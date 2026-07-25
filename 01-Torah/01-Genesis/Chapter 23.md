@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 23
 canon: "Torah"
 ---
-
 # Genesis 23
 
 ### 1
@@ -65,4 +64,3 @@ After this, Abraham buried Sarah his wife in the cave of the field of Machpelah 
 
 ### 20
 The field, and the cave that is in it, were deeded to Abraham by the children of Heth as a possession for a burial place.
-

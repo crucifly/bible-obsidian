@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 36
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 36
 
 ### 1
@@ -17,4 +16,3 @@ Through each of these small portals pass the stars of heaven and run their cours
 
 ### 4
 And as often as I saw I blessed always the Lord of Glory, and I continued to bless the Lord of Glory who has wrought great and glorious wonders, to show the greatness of His work to the angels and to spirits and to men, that they might praise His work and all His creation: that they might see the work of His might and praise the great work of His hands and bless Him for ever. The Parables
-

@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 6
 canon: "Deuterocanonical"
 ---
-
 # Sirach 6
 
 ### 1
@@ -116,4 +115,3 @@ And if thou seest a man of understanding, get thee betimes unto
 
 ### 37
 Let thy mind be upon the ordinances of the Lord and meditate
-

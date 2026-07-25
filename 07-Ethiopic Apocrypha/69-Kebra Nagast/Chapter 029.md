@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 29
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 29
 
 ### 1
@@ -20,4 +19,3 @@ And the Queen sent a second message, saying, “From being a fool, I have become
 
 ### 5
 https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html And the Queen came and passed into a place set apart in splendour and glory, and she sat down immediately behind him where she could see and learn and know everything. And she marvelled exceedingly at what she saw, and at what she heard, and she praised the God of Israel in her heart; and she was struck with wonder at the splendour of the royal palace which she saw. For she could see, though no one could see her, even as Solomon had arranged in wisdom for her. He had beautified the place where she was seated, and had spread over it purple hangings, and laid down carpets, and decorated it with miskât (moschus), and marbles, and precious stones, and he burned aromatic powders, and sprinkled oil of myrrh and cassia round about, and I scattered frankincense and costly incense in all directions. And when they brought her into this abode, the odour thereof was very pleasing to her, and even before she ate the dainty meats therein she was satisfied with the smell of them. And with wise intent Solomon sent to her meats which would make her thirsty, and drinks that were mingled with vinegar, and fish and dishes made with pepper. And this he did and he gave them to the Queen to eat. And the royal meal had come to an end a three times and seven times,[[31]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftn31) and the administrators, and the counsellors, and the young men and the servants had departed, and the King rose up and he went to the Queen, and he said unto her—now they were alone together—”Take thou thine ease here for love’s sake until daybreak.” And she said unto him, “Swear to me by thy God, the God of Israel, that thou wilt not take me by force. For if I, who according to the law of men am a maiden, be seduced, I should travel on my journey [back] in sorrow, and affliction, and tribulation.”
-

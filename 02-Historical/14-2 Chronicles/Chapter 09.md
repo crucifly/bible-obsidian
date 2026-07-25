@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 9
 canon: "Historical"
 ---
-
 # 2 Chronicles 9
 
 ### 1
@@ -98,4 +97,3 @@ Solomon reigned in Jerusalem over all Israel forty years.
 
 ### 31
 Solomon slept with his fathers, and he was buried in his father David’s city: and Rehoboam his son reigned in his place.
-

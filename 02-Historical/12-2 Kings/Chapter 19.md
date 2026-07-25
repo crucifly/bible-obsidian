@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 19
 canon: "Historical"
 ---
-
 # 2 Kings 19
 
 ### 1
@@ -116,4 +115,3 @@ So Sennacherib king of Assyria departed, and went and returned, and lived at Nin
 
 ### 37
 As he was worshiping in the house of Nisroch his god, Adrammelech and Sharezer struck him with the sword; and they escaped into the land of Ararat. Esar Haddon his son reigned in his place.
-

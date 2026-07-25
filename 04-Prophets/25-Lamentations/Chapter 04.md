@@ -3,7 +3,6 @@ book: "Lamentations"
 chapter: 4
 canon: "Prophets"
 ---
-
 # Lamentations 4
 
 ### 1
@@ -71,4 +70,3 @@ Rejoice and be glad, daughter of Edom, that dwells in the land of Uz. The cup wi
 
 ### 22
 The punishment of your iniquity is accomplished, daughter of Zion. He will no more carry you away into captivity. He will visit your iniquity, daughter of Edom. He will uncover your sins.
-

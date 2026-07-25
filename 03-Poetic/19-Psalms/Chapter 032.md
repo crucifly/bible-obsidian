@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 32
 canon: "Poetic"
 ---
-
 # Psalms 32
 
 ### 1
@@ -38,4 +37,3 @@ Many sorrows come to the wicked, but loving kindness shall surround him who trus
 
 ### 11
 Be glad in Yahweh, and rejoice, you righteous! Shout for joy, all you who are upright in heart!
-

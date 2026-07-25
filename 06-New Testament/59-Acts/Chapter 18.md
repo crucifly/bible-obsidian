@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 18
 canon: "New Testament"
 ---
-
 # Acts 18
 
 ### 1
@@ -58,7 +57,7 @@ So he drove them from the judgment seat.
 Then all the Greeks laid hold on Sosthenes, the ruler of the synagogue, and beat him before the judgment seat. Gallio didn’t care about any of these things.
 
 ### 18
-Paul, having stayed after this many more days, took his leave of the brothers,  and sailed from there for Syria, together with Priscilla and Aquila. He shaved his head in Cenchreae, for he had a vow.
+Paul, having stayed after this many more days, took his leave of the brothers, and sailed from there for Syria, together with Priscilla and Aquila. He shaved his head in Cenchreae, for he had a vow.
 
 ### 19
 He came to Ephesus, and he left them there; but he himself entered into the synagogue, and reasoned with the Jews.
@@ -89,4 +88,3 @@ When he had determined to pass over into Achaia, the brothers encouraged him, an
 
 ### 28
 for he powerfully refuted the Jews, publicly showing by the Scriptures that Jesus was the Christ.
-

@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 40
 canon: "Prophets"
 ---
-
 # Jeremiah 40
 
 ### 1
@@ -53,4 +52,3 @@ Then Johanan the son of Kareah spoke to Gedaliah in Mizpah secretly, saying, “
 
 ### 16
 But Gedaliah the son of Ahikam said to Johanan the son of Kareah, “You shall not do this thing; for you speak falsely of Ishmael.”
-

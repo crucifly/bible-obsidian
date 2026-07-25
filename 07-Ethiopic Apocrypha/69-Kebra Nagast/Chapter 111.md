@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 111
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 111
 
 ### 1
@@ -38,4 +37,3 @@ Thus spake Daniel the Prophet and said, “I saw in my vision by night, and beho
 
 ### 11
 And all the Prophets prophesied, and nothing that hath happened hath been without the prophecy of the Prophets. And they have declared everything that hath happened, and what shall happen, what hath been done and what shall be done, and that which belongeth to the times of old and that which belongeth to the latter days up to His Second Coming. And this they have done not only by what they have prophesied and declared, but together with their prophecies they have given manifestations of Him in their bodies. And there was a famine in the land of Canaan, and our father Abraham went down to Egypt, and came back with much riches and honour without blemish. And in like manner our Redeemer went down and delivered the Church, the Assembly of the Nations, and He went up [again], having gotten honour and praise.
-

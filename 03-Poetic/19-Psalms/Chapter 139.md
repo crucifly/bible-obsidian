@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 139
 canon: "Poetic"
 ---
-
 # Psalms 139
 
 ### 1
@@ -77,4 +76,3 @@ Search me, God, and know my heart. Try me, and know my thoughts.
 
 ### 24
 See if there is any wicked way in me, and lead me in the everlasting way.
-

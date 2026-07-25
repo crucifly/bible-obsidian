@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 19
 canon: "Historical"
 ---
-
 # 2 Chronicles 19
 
 ### 1
@@ -38,4 +37,3 @@ Whenever any controversy comes to you from your brothers who dwell in their citi
 
 ### 11
 Behold, Amariah the chief priest is over you in all matters of Yahweh; and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king’s matters. Also the Levites shall be officers before you. Deal courageously, and may Yahweh be with the good.”
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 89
 canon: "Poetic"
 ---
-
 # Psalms 89
 
 ### 1
@@ -161,4 +160,3 @@ With which your enemies have mocked, Yahweh, with which they have mocked the foo
 
 ### 52
 Blessed be Yahweh forever more. Amen, and Amen.
-

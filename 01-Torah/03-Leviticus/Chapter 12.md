@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 12
 canon: "Torah"
 ---
-
 # Leviticus 12
 
 ### 1
@@ -29,4 +28,3 @@ and he shall offer it before Yahweh, and make atonement for her; and she shall b
 
 ### 8
 If she cannot afford a lamb, then she shall take two turtledoves, or two young pigeons; the one for a burnt offering, and the other for a sin offering: and the priest shall make atonement for her, and she shall be clean.’”
-

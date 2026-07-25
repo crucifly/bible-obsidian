@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 69
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 69
 
 ### 0
@@ -83,4 +82,3 @@ With chains shall they be bound, And in their assemblage-place of destruction sh
 
 ### 29
 And from henceforth there shall be nothing corruptible; For that Son of Man has appeared, And has seated himself on the throne of his glory, And all evil shall pass away before his face, And the word of that Son of Man shall go forth And be strong before the Lord of Spirits.
-

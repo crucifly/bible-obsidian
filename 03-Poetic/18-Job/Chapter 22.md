@@ -3,7 +3,6 @@ book: "Job"
 chapter: 22
 canon: "Poetic"
 ---
-
 # Job 22
 
 ### 1
@@ -95,4 +94,3 @@ When they cast down, you shall say, ‘be lifted up.’ He will save the humble 
 
 ### 30
 He will even deliver him who is not innocent. Yes, he shall be delivered through the cleanness of your hands.”
-

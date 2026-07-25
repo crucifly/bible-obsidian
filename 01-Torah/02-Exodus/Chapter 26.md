@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 26
 canon: "Torah"
 ---
-
 # Exodus 26
 
 ### 1
@@ -116,4 +115,3 @@ You shall set the table outside the veil, and the lamp stand over against the ta
 
 ### 37
 You shall make for the screen five pillars of acacia, and overlay them with gold: their hooks shall be of gold: and you shall cast five sockets of brass for them.
-

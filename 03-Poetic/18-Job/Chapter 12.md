@@ -3,7 +3,6 @@ book: "Job"
 chapter: 12
 canon: "Poetic"
 ---
-
 # Job 12
 
 ### 1
@@ -80,4 +79,3 @@ He takes away understanding from the chiefs of the people of the earth, and caus
 
 ### 25
 They grope in the dark without light. He makes them stagger like a drunken man.
-

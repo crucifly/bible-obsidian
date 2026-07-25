@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 21
 canon: "Torah"
 ---
-
 # Numbers 21
 
 ### 1
@@ -110,4 +109,3 @@ Yahweh said to Moses, “Don’t fear him, for I have delivered him into your ha
 
 ### 35
 So they struck him, with his sons and all his people, until there were no survivors; and they possessed his land.
-

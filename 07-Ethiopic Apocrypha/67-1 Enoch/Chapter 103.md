@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 103
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 103
 
 ### 1
@@ -50,4 +49,3 @@ And are complained to the rulers in our tribulation, And cried out against those
 
 ### 15
 And they helped those who robbed us and devoured us and those who made us few; and they concealed their oppression, and they did not remove from us the yoke of those that devoured us and dispersed us and murdered us, and they concealed their murder, and remembered not that they had lifted up their hands against us.
-

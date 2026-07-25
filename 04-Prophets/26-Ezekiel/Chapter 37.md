@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 37
 canon: "Prophets"
 ---
-
 # Ezekiel 37
 
 ### 1
@@ -89,4 +88,3 @@ My tent also will be with them. I will be their God, and they will be my people.
 
 ### 28
 The nations will know that I am Yahweh who sanctifies Israel, when my sanctuary is among them forever more.”’”
-

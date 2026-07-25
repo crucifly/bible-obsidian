@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 55
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 55
 
 ### 1
@@ -14,4 +13,3 @@ Then the wagons rose up (i.e. resumed their journey) as before, and they set out
 
 ### 3
 And then they loaded their wagons, and they rose up, and departed, and journeyed onto the land of Medyâm, and they came to the country of Bêlôntôs, which is a country of Ethiopia. And they rejoiced there, and they encamped there, because they had reached the border of their country with glory and joy, without tribulation on the road, in a wagon of the spirit, by the might of heaven and of Michael the Archangel. And all the provinces of Ethiopia rejoiced, for Zion sent forth a light like that of the sun into the darkness wheresoever she came.
-

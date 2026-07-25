@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 46
 canon: "Poetic"
 ---
-
 # Psalms 46
 
 ### 1
@@ -38,4 +37,3 @@ He makes wars cease to the end of the earth. He breaks the bow, and shatters the
 
 ### 11
 Yahweh of Armies is with us. The God of Jacob is our refuge..
-

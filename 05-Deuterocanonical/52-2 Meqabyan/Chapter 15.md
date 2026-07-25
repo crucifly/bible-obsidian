@@ -3,7 +3,6 @@ book: "2 Meqabyan"
 chapter: 15
 canon: "Deuterocanonical"
 ---
-
 # 2 Meqabyan 15
 
 ### 1
@@ -68,4 +67,3 @@ In the place where their flesh is, fire, sulphur, whirlwinds, frost, hail, and s
 
 ### 21
 For those who do not believe the dead will rise, there is the fire of Gehenna upon them.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 56
 canon: "Poetic"
 ---
-
 # Psalms 56
 
 ### 1
@@ -44,4 +43,3 @@ Your vows are on me, God. I will give thank offerings to you.
 
 ### 13
 For you have delivered my soul from death, and prevented my feet from falling, that I may walk before God in the light of the living.
-

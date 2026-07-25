@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 33
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 33
 
 ### 1
@@ -17,4 +16,3 @@ And I saw how the stars of heaven come forth, and I counted the portals out of w
 
 ### 4
 He showed all things to me and wrote them down for me: also their names he wrote for me, and their laws and their companies.
-

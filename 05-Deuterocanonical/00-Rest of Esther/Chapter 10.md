@@ -3,7 +3,6 @@ book: "Rest of Esther"
 chapter: 10
 canon: "Deuterocanonical"
 ---
-
 # Rest of Esther 10
 
 ### 4
@@ -35,4 +34,3 @@ So God remembered his people, and justified his inheritance.
 
 ### 13
 Therefore those days shall be unto them in the month Adar, the
-

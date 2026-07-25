@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 79
 canon: "Poetic"
 ---
-
 # Psalms 79
 
 ### 1
@@ -44,4 +43,3 @@ Pay back to our neighbors seven times into their bosom their reproach with which
 
 ### 13
 So we, your people and sheep of your pasture, will give you thanks forever. We will praise you forever, to all generations.
-

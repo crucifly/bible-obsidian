@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 12
 canon: "New Testament"
 ---
-
 # Luke 12
 
 ### 1
@@ -182,4 +181,3 @@ For when you are going with your adversary before the magistrate, try diligently
 
 ### 59
 I tell you, you will by no means get out of there, until you have paid the very last penny.”
-

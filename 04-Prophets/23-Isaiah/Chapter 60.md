@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 60
 canon: "Prophets"
 ---
-
 # Isaiah 60
 
 ### 1
@@ -71,4 +70,3 @@ Then your people will all be righteous. They will inherit the land forever, the 
 
 ### 22
 The little one will become a thousand, and the small one a strong nation. I, Yahweh, will do this quickly in its time.”
-

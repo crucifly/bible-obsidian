@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 10
 canon: "Historical"
 ---
-
 # 2 Chronicles 10
 
 ### 1
@@ -62,4 +61,3 @@ Then king Rehoboam sent Hadoram, who was over the men subject to forced labor; a
 
 ### 19
 So Israel rebelled against David’s house to this day.
-

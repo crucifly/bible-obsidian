@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 55
 canon: "Prophets"
 ---
-
 # Isaiah 55
 
 ### 1
@@ -44,4 +43,3 @@ For you shall go out with joy, and be led out with peace. The mountains and the 
 
 ### 13
 Instead of the thorn the cypress tree will come up; and instead of the brier the myrtle tree will come up: and it will make a name for Yahweh, for an everlasting sign that will not be cut off.”
-

@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 9
 canon: "Poetic"
 ---
-
 # Proverbs 9
 
 ### 1
@@ -59,4 +58,3 @@ To call to those who pass by, who go straight on their ways,
 
 ### 18
 But he doesn’t know that the departed spirits are there, that her guests are in the depths of Sheol.
-

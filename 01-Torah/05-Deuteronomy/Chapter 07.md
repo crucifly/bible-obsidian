@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 7
 canon: "Torah"
 ---
-
 # Deuteronomy 7
 
 ### 1
@@ -83,4 +82,3 @@ You shall burn the engraved images of their gods with fire. You shall not covet 
 
 ### 26
 You shall not bring an abomination into your house, and become a devoted thing like it. You shall utterly detest it, and you shall utterly abhor it; for it is a devoted thing.
-

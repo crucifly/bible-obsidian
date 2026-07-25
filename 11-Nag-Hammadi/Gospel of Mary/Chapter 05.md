@@ -3,7 +3,6 @@ book: "Gospel of Mary"
 chapter: 5
 canon: "Nag-Hammadi"
 ---
-
 # Gospel of Mary - Chapter 5
 
 ### 1

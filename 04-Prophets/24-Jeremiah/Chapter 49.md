@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 49
 canon: "Prophets"
 ---
-
 # Jeremiah 49
 
 ### 1
@@ -122,4 +121,3 @@ I will set my throne in Elam, and will destroy from there king and princes,’ s
 
 ### 39
 ‘But it will happen in the latter days that I will reverse the captivity of Elam,’ says Yahweh.”
-

@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 8
 canon: "Historical"
 ---
-
 # 1 Chronicles 8
 
 ### 1
@@ -125,4 +124,3 @@ The sons of Eshek his brother: Ulam his firstborn, Jeush the second, and Eliphel
 
 ### 40
 The sons of Ulam were mighty men of valor, archers, and had many sons, and sons’ sons, one hundred fifty. All these were of the sons of Benjamin.
-

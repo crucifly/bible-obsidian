@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 26
 canon: "Torah"
 ---
-
 # Leviticus 26
 
 ### 1
@@ -143,4 +142,3 @@ but I will for their sake remember the covenant of their ancestors, whom I broug
 
 ### 46
 These are the statutes, ordinances and laws, which Yahweh made between him and the children of Israel in Mount Sinai by Moses.
-

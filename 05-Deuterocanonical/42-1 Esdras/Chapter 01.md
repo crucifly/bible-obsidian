@@ -3,7 +3,6 @@ book: "1 Esdras"
 chapter: 1
 canon: "Deuterocanonical"
 ---
-
 # 1 Esdras 1
 
 ### 1
@@ -179,4 +178,3 @@ Who became servants to him and his children, till the Persians
 
 ### 58
 Until the land had enjoyed her sabbaths, the whole time of her
-

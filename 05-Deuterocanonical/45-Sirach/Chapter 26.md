@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 26
 canon: "Deuterocanonical"
 ---
-
 # Sirach 26
 
 ### 1
@@ -92,4 +91,3 @@ There be two things that grieve my heart; and the third maketh me
 
 ### 29
 A merchant shall hardly keep himself from doing wrong; and an
-

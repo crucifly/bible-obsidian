@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 28
 canon: "New Testament"
 ---
-
 # Matthew 28
 
 ### 1
@@ -34,7 +33,7 @@ They departed quickly from the tomb with fear and great joy, and ran to bring hi
 As they went to tell his disciples, behold, Jesus met them, saying, “Rejoice!” They came and took hold of his feet, and worshiped him.
 
 ### 10
-Then Jesus said to them, “Don’t be afraid. Go tell my brothers  that they should go into Galilee, and there they will see me.”
+Then Jesus said to them, “Don’t be afraid. Go tell my brothers that they should go into Galilee, and there they will see me.”
 
 ### 11
 Now while they were going, behold, some of the guards came into the city, and told the chief priests all the things that had happened.
@@ -65,4 +64,3 @@ Go and make disciples of all nations, baptizing them in the name of the Father a
 
 ### 20
 teaching them to observe all things that I commanded you. Behold, I am with you always, even to the end of the age.” Amen.
-

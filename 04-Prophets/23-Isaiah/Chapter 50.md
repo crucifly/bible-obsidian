@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 50
 canon: "Prophets"
 ---
-
 # Isaiah 50
 
 ### 1
@@ -38,4 +37,3 @@ Who among you fears Yahweh, and obeys the voice of his servant? He who walks in 
 
 ### 11
 Behold, all you who kindle a fire, who adorn yourselves with torches around yourselves; walk in the flame of your fire, and among the torches that you have kindled. You will have this from my hand: You will lie down in sorrow.
-

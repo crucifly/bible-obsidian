@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 20
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 20
 
 ### 1
@@ -29,4 +28,3 @@ Gabriel, one of the holy angels, who is over Paradise and the serpents and the C
 
 ### 8
 Remiel, one of the holy angels, whom God set over those who rise.
-

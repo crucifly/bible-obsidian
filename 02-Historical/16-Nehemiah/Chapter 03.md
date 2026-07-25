@@ -3,7 +3,6 @@ book: "Nehemiah"
 chapter: 3
 canon: "Historical"
 ---
-
 # Nehemiah 3
 
 ### 1
@@ -101,4 +100,3 @@ After him, Malchijah, one of the goldsmiths to the house of the temple servants,
 
 ### 32
 Between the ascent of the corner and the sheep gate, the goldsmiths and the merchants made repairs.
-

@@ -3,7 +3,6 @@ book: "Zechariah"
 chapter: 5
 canon: "Prophets"
 ---
-
 # Zechariah 5
 
 ### 1
@@ -38,4 +37,3 @@ Then I said to the angel who talked with me, “Where are these carrying the eph
 
 ### 11
 He said to me, “To build her a house in the land of Shinar. When it is prepared, she will be set there in her own place.”
-

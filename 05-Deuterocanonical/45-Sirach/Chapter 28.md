@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 28
 canon: "Deuterocanonical"
 ---
-
 # Sirach 28
 
 ### 1
@@ -83,4 +82,3 @@ And weigh thy words in a balance, and make a door and bar for thy
 
 ### 26
 Beware thou slide not by it, lest thou fall before him that lieth
-

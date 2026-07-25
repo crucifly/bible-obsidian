@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 55
 canon: "Poetic"
 ---
-
 # Psalms 55
 
 ### 1
@@ -74,4 +73,3 @@ Cast your burden on Yahweh, and he will sustain you. He will never allow the rig
 
 ### 23
 But you, God, will bring them down into the pit of destruction. Bloodthirsty and deceitful men shall not live out half their days, but I will trust in you.
-

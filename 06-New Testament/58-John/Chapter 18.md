@@ -3,7 +3,6 @@ book: "John"
 chapter: 18
 canon: "New Testament"
 ---
-
 # John 18
 
 ### 1
@@ -125,4 +124,3 @@ But you have a custom, that I should release someone to you at the Passover. The
 
 ### 40
 Then they all shouted again, saying, “Not this man, but Barabbas!” Now Barabbas was a robber.
-

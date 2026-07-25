@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 15
 canon: "Historical"
 ---
-
 # 1 Samuel 15
 
 ### 1
@@ -110,4 +109,3 @@ Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul.
 
 ### 35
 Samuel came no more to see Saul until the day of his death; for Samuel mourned for Saul: and Yahweh grieved that he had made Saul king over Israel.
-

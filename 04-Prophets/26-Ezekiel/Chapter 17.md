@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 17
 canon: "Prophets"
 ---
-
 # Ezekiel 17
 
 ### 1
@@ -77,4 +76,3 @@ I will plant it in the mountain of the height of Israel; and it will produce bou
 
 ### 24
 All the trees of the field will know that I, Yahweh, have brought down the high tree, have exalted the low tree, have dried up the green tree, and have made the dry tree flourish. “‘I, Yahweh, have spoken and have done it.’”
-

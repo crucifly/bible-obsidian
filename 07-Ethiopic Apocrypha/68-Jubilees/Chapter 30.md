@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 30
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 30
 
 ### 1
@@ -89,4 +88,3 @@ The Book of Jubilees
 
 ### 28
 Jacob goes to Bethel to offer sacrifice, 1-3 (cf. Gen. xxxv.2-4, 7, 14). Isaac blesses Levi, 4-17, and Judah, 18-22. Jacob recounts to Isaac how God prospered him, 24. Jacob goes to Bethel with Rebecca and Deborah, 26-30. Jacob blesses the God of his fathers, 31-2.
-

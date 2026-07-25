@@ -3,11 +3,10 @@ book: "Philippians"
 chapter: 1
 canon: "New Testament"
 ---
-
 # Philippians 1
 
 ### 1
-Paul and Timothy, servants of Jesus Christ; To all the saints in Christ Jesus who are at Philippi, with the overseers  and servants:
+Paul and Timothy, servants of Jesus Christ; To all the saints in Christ Jesus who are at Philippi, with the overseers and servants:
 
 ### 2
 Grace to you, and peace from God, our Father, and the Lord Jesus Christ.
@@ -95,4 +94,3 @@ Because it has been granted to you on behalf of Christ, not only to believe in h
 
 ### 30
 having the same conflict which you saw in me, and now hear is in me.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 48
 canon: "Poetic"
 ---
-
 # Psalms 48
 
 ### 1
@@ -47,4 +46,3 @@ Mark well her bulwarks. Consider her palaces, that you may tell it to the next g
 
 ### 14
 For this God is our God forever and ever. He will be our guide even to death.
-

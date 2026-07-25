@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 22
 canon: "Historical"
 ---
-
 # Joshua 22
 
 ### 1
@@ -107,4 +106,3 @@ The thing pleased the children of Israel; and the children of Israel blessed God
 
 ### 34
 The children of Reuben and the children of Gad named the altar “A Witness Between Us that Yahweh is God.”
-

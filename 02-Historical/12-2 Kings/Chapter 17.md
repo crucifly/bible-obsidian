@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 17
 canon: "Historical"
 ---
-
 # 2 Kings 17
 
 ### 1
@@ -128,4 +127,3 @@ However they did not listen, but they did what they did before.
 
 ### 41
 So these nations feared Yahweh, and also served their engraved images. Their children likewise, and their children’s children, as their fathers did, so they do to this day.
-

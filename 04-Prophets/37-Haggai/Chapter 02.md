@@ -3,7 +3,6 @@ book: "Haggai"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Haggai 2
 
 ### 1
@@ -74,4 +73,3 @@ I will overthrow the throne of kingdoms. I will destroy the strength of the king
 
 ### 23
 In that day, says Yahweh of Armies, will I take you, Zerubbabel, my servant, the son of Shealtiel,’ says Yahweh, ‘and will make you as a signet, for I have chosen you,’ says Yahweh of Armies.”
-

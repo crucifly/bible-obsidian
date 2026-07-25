@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 22
 canon: "Poetic"
 ---
-
 # Proverbs 22
 
 ### 1
@@ -92,4 +91,3 @@ Don’t move the ancient boundary stone, which your fathers have set up.
 
 ### 29
 Do you see a man skilled in his work? He will serve kings. He won’t serve obscure men.
-

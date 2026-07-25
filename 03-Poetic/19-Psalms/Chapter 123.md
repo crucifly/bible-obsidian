@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 123
 canon: "Poetic"
 ---
-
 # Psalms 123
 
 ### 1
@@ -17,4 +16,3 @@ Have mercy on us, Yahweh, have mercy on us, for we have endured much contempt.
 
 ### 4
 Our soul is exceedingly filled with the scoffing of those who are at ease, with the contempt of the proud.
-

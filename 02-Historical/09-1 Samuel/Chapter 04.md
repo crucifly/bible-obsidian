@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 4
 canon: "Historical"
 ---
-
 # 1 Samuel 4
 
 ### 1
@@ -71,4 +70,3 @@ She named the child Ichabod, saying, “The glory has departed from Israel”; b
 
 ### 22
 She said, “The glory has departed from Israel; for God’s ark has been taken.”
-

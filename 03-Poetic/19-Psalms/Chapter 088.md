@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 88
 canon: "Poetic"
 ---
-
 # Psalms 88
 
 ### 1
@@ -59,4 +58,3 @@ They came around me like water all day long. They completely engulfed me.
 
 ### 18
 You have put lover and friend far from me, and my friends into darkness.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 129
 canon: "Poetic"
 ---
-
 # Psalms 129
 
 ### 1
@@ -29,4 +28,3 @@ with which the reaper doesn’t fill his hand, nor he who binds sheaves, his bos
 
 ### 8
 Neither do those who go by say, “The blessing of Yahweh be on you. We bless you in Yahweh’s name.”
-

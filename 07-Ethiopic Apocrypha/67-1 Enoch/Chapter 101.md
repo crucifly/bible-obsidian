@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 101
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 101
 
 ### 1
@@ -38,4 +37,3 @@ Have ye seen the righteous how their end falls out, that no manner of violence i
 
 ### 11
 “Nevertheless they perished and became as though they had not been, and their spirits descended into Sheol in tribulation.”
-

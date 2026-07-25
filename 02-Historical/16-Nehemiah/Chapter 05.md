@@ -3,7 +3,6 @@ book: "Nehemiah"
 chapter: 5
 canon: "Historical"
 ---
-
 # Nehemiah 5
 
 ### 1
@@ -62,4 +61,3 @@ Now that which was prepared for one day was one ox and six choice sheep. Also fo
 
 ### 19
 Remember to me, my God, for good, all that I have done for this people.
-

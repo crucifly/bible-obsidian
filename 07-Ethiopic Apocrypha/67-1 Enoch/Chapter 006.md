@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 6
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 6
 
 ### 1
@@ -29,4 +28,3 @@ And these are the names of their leaders: Sêmîazâz, their leader, Arâkîba, 
 
 ### 8
 These are their chiefs of tens.
-

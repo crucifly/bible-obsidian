@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 6
 canon: "Prophets"
 ---
-
 # Isaiah 6
 
 ### 1
@@ -44,4 +43,3 @@ And Yahweh has removed men far away, and the forsaken places are many within the
 
 ### 13
 If there is a tenth left in it, that also will in turn be consumed: as a terebinth, and as an oak, whose stock remains when they are felled; so the holy seed is its stock.”
-

@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 10
 canon: "New Testament"
 ---
-
 # Luke 10
 
 ### 1
@@ -131,4 +130,3 @@ Jesus answered her, “Martha, Martha, you are anxious and troubled about many t
 
 ### 42
 but one thing is needed. Mary has chosen the good part, which will not be taken away from her.”
-

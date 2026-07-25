@@ -3,7 +3,6 @@ book: "Job"
 chapter: 36
 canon: "Poetic"
 ---
-
 # Job 36
 
 ### 1
@@ -104,4 +103,3 @@ He covers his hands with the lightning, and commands it to strike the mark.
 
 ### 33
 Its noise tells about him, and the livestock also concerning the storm that comes up.
-

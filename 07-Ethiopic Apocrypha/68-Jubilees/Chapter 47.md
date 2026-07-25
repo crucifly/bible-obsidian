@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 47
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 47
 
 ### 1
@@ -47,4 +46,3 @@ The Book of Jubilees
 
 ### 14
 Moses returns from Midian to Egypt. Mastêmâ seeks to slay him on the way, 1-3. The ten plagues, 4-11. Israel goes forth out of Egypt: the destruction of the Egyptians on the Red Sea, 12-19. (Cf. Exod. ii.15; iv.19, 24; vii. seqq.)
-

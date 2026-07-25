@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 3
 canon: "Historical"
 ---
-
 # 1 Chronicles 3
 
 ### 1
@@ -77,4 +76,3 @@ The sons of Neariah: Elioenai, Hizkiah, and Azrikam, three.
 
 ### 24
 The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven.
-

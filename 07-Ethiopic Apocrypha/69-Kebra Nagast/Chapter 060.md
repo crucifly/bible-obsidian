@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 60
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 60
 
 ### 1
@@ -29,4 +28,3 @@ And the Spirit of Prophecy answered and said unto him, “Why art thou thus sorr
 
 ### 8
 And the King was comforted by this [word], and he said, “The Will of God be done, and not the will of man.” And again the Angel of God appeared unto him openly, and said unto him, “As for thyself, thou shalt build the house of God, and it shall be glory and as a support for thee; and if thou wilt keep His Commandment and wilt not serve other gods thou shalt be beloved by God, even as David thy father.”
-

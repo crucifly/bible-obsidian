@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 2
 canon: "Torah"
 ---
-
 # Leviticus 2
 
 ### 1
@@ -53,4 +52,3 @@ You shall put oil on it, and lay frankincense on it: it is a meal offering.
 
 ### 16
 The priest shall burn as its memorial, part of its bruised grain, and part of its oil, along with all its frankincense: it is an offering made by fire to Yahweh.
-

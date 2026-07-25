@@ -3,7 +3,6 @@ book: "Job"
 chapter: 15
 canon: "Poetic"
 ---
-
 # Job 15
 
 ### 1
@@ -110,4 +109,3 @@ For the company of the godless shall be barren, and fire shall consume the tents
 
 ### 35
 They conceive mischief, and produce iniquity. Their heart prepares deceit.”
-

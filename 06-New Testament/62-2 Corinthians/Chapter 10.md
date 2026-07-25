@@ -3,7 +3,6 @@ book: "2 Corinthians"
 chapter: 10
 canon: "New Testament"
 ---
-
 # 2 Corinthians 10
 
 ### 1
@@ -59,4 +58,3 @@ But “he who boasts, let him boast in the Lord.”
 
 ### 18
 For it isn’t he who commends himself who is approved, but whom the Lord commends.
-

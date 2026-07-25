@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 25
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 25
 
 ### 1
@@ -143,4 +142,3 @@ The Book of Jubilees
 
 ### 46
 Isaac scuds Esau for venison, 1-4. Rebecca instructs Jacob to obtain the blessing, 5-9. Jacob under the person of Esau obtains it, 10-24. Esau brings in his venison and by his importunity obtains a blessing, 25-34. Threatens Jacob, 35. (Cf. Gen.xxvii.)
-

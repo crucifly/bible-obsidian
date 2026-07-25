@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 2
 canon: "New Testament"
 ---
-
 # Acts 2
 
 ### 1
@@ -146,4 +145,3 @@ Day by day, continuing steadfastly with one accord in the temple, and breaking b
 
 ### 47
 praising God, and having favor with all the people. The Lord added to the assembly day by day those who were being saved.
-

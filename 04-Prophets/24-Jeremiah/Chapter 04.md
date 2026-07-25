@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 4
 canon: "Prophets"
 ---
-
 # Jeremiah 4
 
 ### 1
@@ -98,4 +97,3 @@ You, when you are made desolate, what will you do? Though you clothe yourself wi
 
 ### 31
 For I have heard a voice as of a woman in travail, the anguish as of her who gives birth to her first child, the voice of the daughter of Zion, who gasps for breath, who spreads her hands, saying, “Woe is me now! For my soul faints before the murderers.”
-

@@ -3,7 +3,6 @@ book: "Jonah"
 chapter: 4
 canon: "Prophets"
 ---
-
 # Jonah 4
 
 ### 1
@@ -38,4 +37,3 @@ Yahweh said, “You have been concerned for the vine, for which you have not lab
 
 ### 11
 Shouldn’t I be concerned for Nineveh, that great city, in which are more than one hundred twenty thousand persons who can’t discern between their right hand and their left hand; and also much livestock?”
-

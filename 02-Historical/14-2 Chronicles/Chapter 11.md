@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 11
 canon: "Historical"
 ---
-
 # 2 Chronicles 11
 
 ### 1
@@ -74,4 +73,3 @@ Rehoboam appointed Abijah the son of Maacah to be chief, the prince among his br
 
 ### 23
 He dealt wisely, and dispersed of all his sons throughout all the lands of Judah and Benjamin, to every fortified city. He gave them food in abundance and he sought many wives for them.
-

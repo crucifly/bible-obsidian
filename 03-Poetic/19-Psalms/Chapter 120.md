@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 120
 canon: "Poetic"
 ---
-
 # Psalms 120
 
 ### 1
@@ -26,4 +25,3 @@ My soul has had her dwelling too long with him who hates peace.
 
 ### 7
 I am for peace, but when I speak, they are for war.
-

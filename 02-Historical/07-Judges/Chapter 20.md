@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 20
 canon: "Historical"
 ---
-
 # Judges 20
 
 ### 1
@@ -149,4 +148,3 @@ But six hundred men turned and fled toward the wilderness to the rock of Rimmon,
 
 ### 48
 The men of Israel turned again on the children of Benjamin, and struck them with the edge of the sword, both the entire city, and the livestock, and all that they found. Moreover all the cities which they found they set on fire.
-

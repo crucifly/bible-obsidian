@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 60
 canon: "Poetic"
 ---
-
 # Psalms 60
 
 ### 1
@@ -41,4 +40,3 @@ Give us help against the adversary, for the help of man is vain.
 
 ### 12
 Through God we shall do valiantly, for it is he who will tread down our adversaries.
-

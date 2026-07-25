@@ -3,7 +3,6 @@ book: "Zephaniah"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Zephaniah 2
 
 ### 1
@@ -50,4 +49,3 @@ Herds will lie down in the middle of her, all the animals of the nations. Both t
 
 ### 15
 This is the joyous city that lived carelessly, that said in her heart, “I am, and there is no one besides me.” How she has become a desolation, a place for animals to lie down in! Everyone who passes by her will hiss, and shake their fists.
-

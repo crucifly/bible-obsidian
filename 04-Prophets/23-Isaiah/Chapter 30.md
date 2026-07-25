@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 30
 canon: "Prophets"
 ---
-
 # Isaiah 30
 
 ### 1
@@ -104,4 +103,3 @@ Every stroke of the rod of punishment, which Yahweh will lay on him, will be wit
 
 ### 33
 For his burning place has long been ready. Yes, for the king it is prepared. He has made its pyre deep and large with fire and much wood. Yahweh’s breath, like a stream of sulfur, kindles it.
-

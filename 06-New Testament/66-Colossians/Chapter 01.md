@@ -3,7 +3,6 @@ book: "Colossians"
 chapter: 1
 canon: "New Testament"
 ---
-
 # Colossians 1
 
 ### 1
@@ -92,4 +91,3 @@ whom we proclaim, admonishing every man and teaching every man in all wisdom, th
 
 ### 29
 for which I also labor, striving according to his working, which works in me mightily.
-

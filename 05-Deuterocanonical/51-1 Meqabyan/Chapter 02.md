@@ -3,7 +3,6 @@ book: "1 Meqabyan"
 chapter: 2
 canon: "Deuterocanonical"
 ---
-
 # 1 Meqabyan 2
 
 ### 1
@@ -23,4 +22,3 @@ Then the King commanded them to come out of the fire. When they came out, their 
 
 ### 6
 Then the King believed in the Lord and commanded that all the people worship the God of Meqabyan, Abya, and Panos.
-

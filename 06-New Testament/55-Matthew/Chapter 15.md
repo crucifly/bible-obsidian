@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 15
 canon: "New Testament"
 ---
-
 # Matthew 15
 
 ### 1
@@ -122,4 +121,3 @@ Those who ate were four thousand men, besides women and children.
 
 ### 39
 Then he sent away the multitudes, got into the boat, and came into the borders of Magdala.
-

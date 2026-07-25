@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Isaiah 2
 
 ### 1
@@ -71,4 +70,3 @@ To go into the caverns of the rocks, and into the clefts of the ragged rocks, fr
 
 ### 22
 Stop trusting in man, whose breath is in his nostrils; for of what account is he?
-

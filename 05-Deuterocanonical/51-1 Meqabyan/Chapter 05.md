@@ -3,7 +3,6 @@ book: "1 Meqabyan"
 chapter: 5
 canon: "Deuterocanonical"
 ---
-
 # 1 Meqabyan 5
 
 ### 1
@@ -17,4 +16,3 @@ Meqabyan killed the King’s generals and destroyed his army. He took much plund
 
 ### 4
 He rebuilt the Temple and restored the Law of the Lord.
-

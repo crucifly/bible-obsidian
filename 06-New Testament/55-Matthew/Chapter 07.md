@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 7
 canon: "New Testament"
 ---
-
 # Matthew 7
 
 ### 1
@@ -92,4 +91,3 @@ When Jesus had finished saying these things, the multitudes were astonished at h
 
 ### 29
 for he taught them with authority, and not like the scribes.
-

@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 22
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 22
 
 ### 1
@@ -233,4 +232,3 @@ And do not forsake him, nor set him at nought from henceforth unto the days of e
 
 ### 76
 And bless him with all Thy blessings from henceforth unto all the days of eternity, and renew Thy covenant and Thy grace with him and with his seed according to all Thy good pleasure unto all the generations of the earth.'
-

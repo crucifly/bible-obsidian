@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 16
 canon: "New Testament"
 ---
-
 # 1 Corinthians 16
 
 ### 1
@@ -70,11 +69,10 @@ All the brothers greet you. Greet one another with a holy kiss.
 This greeting is by me, Paul, with my own hand.
 
 ### 22
-If any man doesn’t love the Lord Jesus Christ, let him be accursed.  Come, Lord!
+If any man doesn’t love the Lord Jesus Christ, let him be accursed. Come, Lord!
 
 ### 23
 The grace of the Lord Jesus Christ be with you.
 
 ### 24
 My love to all of you in Christ Jesus. Amen.
-

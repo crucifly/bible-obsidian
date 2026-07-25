@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 1
 canon: "Poetic"
 ---
-
 # Proverbs 1
 
 ### 1
@@ -104,4 +103,3 @@ For the backsliding of the simple will kill them. The careless ease of fools wil
 
 ### 33
 But whoever listens to me will dwell securely, and will be at ease, without fear of harm.”
-

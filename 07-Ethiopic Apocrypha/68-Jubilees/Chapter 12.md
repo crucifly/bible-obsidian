@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 12
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 12
 
 ### 1
@@ -197,4 +196,3 @@ And if thou seest a land pleasant to thy eyes to dwell in, then arise and take m
 
 ### 64
 And Nahor thy brother leave with me till thou returnest in peace, and we go with thee all together.'
-

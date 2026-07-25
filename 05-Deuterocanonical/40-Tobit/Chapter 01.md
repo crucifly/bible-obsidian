@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 1
 canon: "Deuterocanonical"
 ---
-
 # Tobit 1
 
 ### 1
@@ -71,4 +70,3 @@ And there passed not five and fifty days, before two of his sons
 
 ### 22
 And Achiacharus intreating for me, I returned to Nineve. Now
-

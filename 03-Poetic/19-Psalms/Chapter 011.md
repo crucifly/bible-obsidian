@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 11
 canon: "Poetic"
 ---
-
 # Psalms 11
 
 ### 1
@@ -26,4 +25,3 @@ On the wicked he will rain blazing coals; fire, sulfur, and scorching wind shall
 
 ### 7
 For Yahweh is righteous. He loves righteousness. The upright shall see his face.
-

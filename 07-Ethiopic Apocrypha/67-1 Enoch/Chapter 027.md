@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 27
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 27
 
 ### 1
@@ -20,4 +19,3 @@ In the days of judgement over the former, they shall bless Him for the mercy in 
 
 ### 5
 Then I blessed the Lord of Glory and set forth His ⌈glory⌉ and lauded Him gloriously.
-

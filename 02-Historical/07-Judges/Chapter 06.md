@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 6
 canon: "Historical"
 ---
-
 # Judges 6
 
 ### 1
@@ -61,7 +60,7 @@ He said to him, “If now I have found favor in your sight, then show me a sign 
 Please don’t go away, until I come to you, and bring out my present, and lay it before you.” He said, “I will wait until you come back.”
 
 ### 19
-Gideon went in and prepared a young goat and unleavened cakes of an ephah  of meal. He put the meat in a basket and he put the broth in a pot, and brought it out to him under the oak, and presented it.
+Gideon went in and prepared a young goat and unleavened cakes of an ephah of meal. He put the meat in a basket and he put the broth in a pot, and brought it out to him under the oak, and presented it.
 
 ### 20
 The angel of God said to him, “Take the meat and the unleavened cakes, and lay them on this rock, and pour out the broth.” He did so.
@@ -125,4 +124,3 @@ Gideon said to God, “Don’t let your anger be kindled against me, and I will 
 
 ### 40
 God did so that night; for it was dry on the fleece only, and there was dew on all the ground.
-

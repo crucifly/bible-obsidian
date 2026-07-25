@@ -3,11 +3,10 @@ book: "2 Chronicles"
 chapter: 1
 canon: "Historical"
 ---
-
 # 2 Chronicles 1
 
 ### 1
-Solomon the son of David was firmly established in his kingdom, and Yahweh  his God was with him, and made him exceedingly great.
+Solomon the son of David was firmly established in his kingdom, and Yahweh his God was with him, and made him exceedingly great.
 
 ### 2
 Solomon spoke to all Israel, to the captains of thousands and of hundreds, to the judges, and to every prince in all Israel, the heads of the fathers’ households.
@@ -56,4 +55,3 @@ The horses which Solomon had were brought out of Egypt and from Kue. The king’
 
 ### 17
 They brought up and brought out of Egypt a chariot for six hundred pieces of silver, and a horse for one hundred fifty. They also exported them to the Hittite kings and the Syrian kings.
-

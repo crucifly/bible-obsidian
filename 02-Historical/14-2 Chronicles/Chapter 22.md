@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 22
 canon: "Historical"
 ---
-
 # 2 Chronicles 22
 
 ### 1
@@ -41,4 +40,3 @@ But Jehoshabeath, the king’s daughter, took Joash the son of Ahaziah, and stea
 
 ### 12
 He was with them hidden in God’s house six years while Athaliah reigned over the land.
-

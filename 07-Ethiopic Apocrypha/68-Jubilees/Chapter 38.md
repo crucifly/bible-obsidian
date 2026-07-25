@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 38
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 38
 
 ### 1
@@ -83,4 +82,3 @@ The Book of Jubilees
 
 ### 26
 Joseph set over Potiphar's house, 1-4. His purity and imprisonment, 5-13. Imprisonment of Pharaoh's chief butler and chief baker whose dreams Joseph interprets, 14-18. (Cf. Gen.xxxvii.2; xxxix.3-8, 12-15, 17-23; xl.1-5, 21-3; xli.1.)
-

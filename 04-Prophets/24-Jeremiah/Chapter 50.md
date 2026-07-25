@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 50
 canon: "Prophets"
 ---
-
 # Jeremiah 50
 
 ### 1
@@ -143,4 +142,3 @@ Therefore hear the counsel of Yahweh, that he has taken against Babylon; and his
 
 ### 46
 At the noise of the taking of Babylon the earth trembles; and the cry is heard among the nations.
-

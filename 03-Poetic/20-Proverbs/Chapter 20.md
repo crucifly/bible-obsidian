@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 20
 canon: "Poetic"
 ---
-
 # Proverbs 20
 
 ### 1
@@ -95,4 +94,3 @@ The glory of young men is their strength. The splendor of old men is their gray 
 
 ### 30
 Wounding blows cleanse away evil, and beatings purge the innermost parts.
-

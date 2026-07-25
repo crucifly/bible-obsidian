@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 42
 canon: "Prophets"
 ---
-
 # Ezekiel 42
 
 ### 1
@@ -65,4 +64,3 @@ He turned about to the west side, and measured five hundred reeds with the measu
 
 ### 20
 He measured it on the four sides. It had a wall around it, the length five hundred, and the width five hundred, to make a separation between that which was holy and that which was common.
-

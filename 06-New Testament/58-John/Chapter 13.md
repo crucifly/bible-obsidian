@@ -3,7 +3,6 @@ book: "John"
 chapter: 13
 canon: "New Testament"
 ---
-
 # John 13
 
 ### 1
@@ -119,4 +118,3 @@ Peter said to him, “Lord, why can’t I follow you now? I will lay down my lif
 
 ### 38
 Jesus answered him, “Will you lay down your life for me? Most certainly I tell you, the rooster won’t crow until you have denied me three times.
-

@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 7
 canon: "New Testament"
 ---
-
 # Revelation 7
 
 ### 1
@@ -56,4 +55,3 @@ They will never be hungry, neither thirsty any more; neither will the sun beat o
 
 ### 17
 for the Lamb who is in the middle of the throne shepherds them, and leads them to springs of life-giving waters. And God will wipe away every tear from their eyes.”
-

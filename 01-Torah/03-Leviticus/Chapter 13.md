@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 13
 canon: "Torah"
 ---
-
 # Leviticus 13
 
 ### 1
@@ -182,4 +181,3 @@ The garment, either the warp, or the woof, or whatever thing of skin it is, whic
 
 ### 59
 This is the law of the plague of mildew in a garment of wool or linen, either in the warp, or the woof, or in anything of skin, to pronounce it clean, or to pronounce it unclean.
-

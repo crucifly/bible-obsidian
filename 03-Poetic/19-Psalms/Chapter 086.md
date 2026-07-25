@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 86
 canon: "Poetic"
 ---
-
 # Psalms 86
 
 ### 1
@@ -56,4 +55,3 @@ Turn to me, and have mercy on me! Give your strength to your servant. Save the s
 
 ### 17
 Show me a sign of your goodness, that those who hate me may see it, and be shamed, because you, Yahweh, have helped me, and comforted me.
-

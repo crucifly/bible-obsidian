@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 29
 canon: "Torah"
 ---
-
 # Exodus 29
 
 ### 1
@@ -143,4 +142,3 @@ I will dwell among the children of Israel, and will be their God.
 
 ### 46
 They shall know that I am Yahweh their God, who brought them out of the land of Egypt, that I might dwell among them: I am Yahweh their God.
-

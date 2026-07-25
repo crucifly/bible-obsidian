@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 24
 canon: "Prophets"
 ---
-
 # Isaiah 24
 
 ### 1
@@ -74,4 +73,3 @@ They shall be gathered together, as prisoners are gathered in the pit, and shall
 
 ### 23
 Then the moon shall be confounded, and the sun ashamed; for Yahweh of Armies will reign on Mount Zion, and in Jerusalem; and before his elders will be glory.
-

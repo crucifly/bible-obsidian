@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 65
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 65
 
 ### 1
@@ -41,4 +40,3 @@ And these--they have no place of repentance for ever, because they have shown th
 
 ### 12
 And He has destined thy name to be among the holy, And will preserve thee amongst those who dwell on the earth, And has destined thy righteous seed both for kingship and for great honours, And from thy seed shall proceed a fountain of the righteous and holy without number for ever.
-

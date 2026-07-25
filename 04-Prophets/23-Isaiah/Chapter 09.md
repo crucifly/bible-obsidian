@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 9
 canon: "Prophets"
 ---
-
 # Isaiah 9
 
 ### 1
@@ -68,4 +67,3 @@ One will devour on the right hand, and be hungry; and he will eat on the left ha
 
 ### 21
 Manasseh, Ephraim; and Ephraim, Manasseh; and they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still.
-

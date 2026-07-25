@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 59
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 59
 
 ### 0
@@ -14,4 +13,3 @@ And there I saw the secrets of the thunder, and how when it resounds above in th
 
 ### 3
 And after that all the secrets of the lights and lightnings were shown to me, and they lighten for blessing and for satisfying.] Book Of Noah - A Fragment
-

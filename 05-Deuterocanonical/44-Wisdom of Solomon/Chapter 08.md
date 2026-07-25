@@ -3,7 +3,6 @@ book: "Wisdom of Solomon"
 chapter: 8
 canon: "Deuterocanonical"
 ---
-
 # Wisdom of Solomon 8
 
 ### 1
@@ -68,4 +67,3 @@ Yea rather, being good, I came into a body undefiled.
 
 ### 21
 Nevertheless, when I perceived that I could not otherwise obtain
-

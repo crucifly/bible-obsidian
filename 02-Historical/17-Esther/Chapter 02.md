@@ -3,7 +3,6 @@ book: "Esther"
 chapter: 2
 canon: "Historical"
 ---
-
 # Esther 2
 
 ### 1
@@ -74,4 +73,3 @@ This thing became known to Mordecai, who informed Esther the queen; and Esther i
 
 ### 23
 When this matter was investigated, and it was found to be so, they were both hanged on a tree; and it was written in the book of the chronicles in the king’s presence.
-

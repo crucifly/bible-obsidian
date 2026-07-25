@@ -3,7 +3,6 @@ book: "John"
 chapter: 5
 canon: "New Testament"
 ---
-
 # John 5
 
 ### 1
@@ -146,4 +145,3 @@ For if you believed Moses, you would believe me; for he wrote about me.
 
 ### 47
 But if you don’t believe his writings, how will you believe my words?”
-

@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 1
 canon: "Historical"
 ---
-
 # 2 Kings 1
 
 ### 1
@@ -59,4 +58,3 @@ So he died according to Yahweh’s word which Elijah had spoken. Jehoram began t
 
 ### 18
 Now the rest of the acts of Ahaziah which he did, aren’t they written in the book of the chronicles of the kings of Israel?
-

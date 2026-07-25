@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 13
 canon: "Torah"
 ---
-
 # Exodus 13
 
 ### 1
@@ -71,4 +70,3 @@ Yahweh went before them by day in a pillar of cloud, to lead them on their way, 
 
 ### 22
 the pillar of cloud by day, and the pillar of fire by night, didn’t depart from before the people.
-

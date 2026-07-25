@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 6
 canon: "Torah"
 ---
-
 # Leviticus 6
 
 ### 1
@@ -95,4 +94,3 @@ Every male among the priests shall eat of it: it is most holy.
 
 ### 30
 No sin offering, of which any of the blood is brought into the Tent of Meeting to make atonement in the Holy Place, shall be eaten: it shall be burned with fire.
-

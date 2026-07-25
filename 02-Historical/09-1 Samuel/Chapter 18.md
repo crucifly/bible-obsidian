@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 18
 canon: "Historical"
 ---
-
 # 1 Samuel 18
 
 ### 1
@@ -95,4 +94,3 @@ Saul was even more afraid of David; and Saul was David’s enemy continually.
 
 ### 30
 Then the princes of the Philistines went out; and as often as they went out, David behaved himself more wisely than all the servants of Saul, so that his name was highly esteemed.
-

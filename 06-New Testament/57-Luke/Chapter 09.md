@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 9
 canon: "New Testament"
 ---
-
 # Luke 9
 
 ### 1
@@ -191,4 +190,3 @@ Another also said, “I want to follow you, Lord, but first allow me to say good
 
 ### 62
 But Jesus said to him, “No one, having put his hand to the plow, and looking back, is fit for God’s Kingdom.”
-

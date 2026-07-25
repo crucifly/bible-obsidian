@@ -3,7 +3,6 @@ book: "Job"
 chapter: 3
 canon: "Poetic"
 ---
-
 # Job 3
 
 ### 1
@@ -83,4 +82,3 @@ For the thing which I fear comes on me, That which I am afraid of comes to me.
 
 ### 26
 I am not at ease, neither am I quiet, neither have I rest; but trouble comes.”
-

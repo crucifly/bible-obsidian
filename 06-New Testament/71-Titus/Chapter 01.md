@@ -3,7 +3,6 @@ book: "Titus"
 chapter: 1
 canon: "New Testament"
 ---
-
 # Titus 1
 
 ### 1
@@ -53,4 +52,3 @@ To the pure, all things are pure; but to those who are defiled and unbelieving, 
 
 ### 16
 They profess that they know God, but by their deeds they deny him, being abominable, disobedient, and unfit for any good work.
-

@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 19
 canon: "Historical"
 ---
-
 # Joshua 19
 
 ### 1
@@ -158,4 +157,3 @@ According to Yahweh’s commandment, they gave him the city which he asked, even
 
 ### 51
 These are the inheritances, which Eleazar the priest, Joshua the son of Nun, and the heads of the fathers’ houses of the tribes of the children of Israel, distributed for inheritance by lot in Shiloh before Yahweh, at the door of the Tent of Meeting. So they finished dividing the land.
-

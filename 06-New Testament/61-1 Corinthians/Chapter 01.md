@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 1
 canon: "New Testament"
 ---
-
 # 1 Corinthians 1
 
 ### 1
@@ -98,4 +97,3 @@ Because of him, you are in Christ Jesus, who was made to us wisdom from God, and
 
 ### 31
 that, according as it is written, “He who boasts, let him boast in the Lord.”
-

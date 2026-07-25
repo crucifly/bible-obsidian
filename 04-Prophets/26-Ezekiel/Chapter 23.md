@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 23
 canon: "Prophets"
 ---
-
 # Ezekiel 23
 
 ### 1
@@ -152,4 +151,3 @@ The company will stone them with stones, and dispatch them with their swords. Th
 
 ### 49
 They will recompense your lewdness on you, and you will bear the sins of your idols. Then you will know that I am the Lord Yahweh.’”
-

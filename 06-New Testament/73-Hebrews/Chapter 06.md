@@ -3,7 +3,6 @@ book: "Hebrews"
 chapter: 6
 canon: "New Testament"
 ---
-
 # Hebrews 6
 
 ### 1
@@ -65,4 +64,3 @@ This hope we have as an anchor of the soul, a hope both sure and steadfast and e
 
 ### 20
 where as a forerunner Jesus entered for us, having become a high priest forever after the order of Melchizedek.
-

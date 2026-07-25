@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 33
 canon: "Torah"
 ---
-
 # Exodus 33
 
 ### 1
@@ -74,4 +73,3 @@ It will happen, while my glory passes by, that I will put you in a cleft of the 
 
 ### 23
 then I will take away my hand, and you will see my back; but my face shall not be seen.”
-

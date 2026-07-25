@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 47
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 47
 
 ### 1
@@ -14,4 +13,3 @@ In those days the holy ones who dwell above in the heavens Shall unite with one 
 
 ### 3
 In those days I saw the Head of Days when He seated himself upon the throne of His glory, And the books of the living were opened before Him: And all His host which is in heaven above and His counselors stood before Him, 4 And the hearts of the holy were filled with joy; Because the number of the righteous had been offered, And the prayer of the righteous had been heard, And the blood of the righteous been required before the Lord of Spirits.
-

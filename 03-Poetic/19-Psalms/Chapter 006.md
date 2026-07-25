@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 6
 canon: "Poetic"
 ---
-
 # Psalms 6
 
 ### 1
@@ -35,4 +34,3 @@ Yahweh has heard my supplication. Yahweh accepts my prayer.
 
 ### 10
 May all my enemies be ashamed and dismayed. They shall turn back, they shall be disgraced suddenly.
-

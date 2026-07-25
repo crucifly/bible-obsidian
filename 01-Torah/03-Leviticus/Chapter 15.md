@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 15
 canon: "Torah"
 ---
-
 # Leviticus 15
 
 ### 1
@@ -104,4 +103,3 @@ This is the law of him who has a discharge, and of him who has an emission of se
 
 ### 33
 and of her who has her period, and of a man or woman who has a discharge, and of him who lies with her who is unclean.
-

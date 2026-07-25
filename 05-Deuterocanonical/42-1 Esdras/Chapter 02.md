@@ -3,7 +3,6 @@ book: "1 Esdras"
 chapter: 2
 canon: "Deuterocanonical"
 ---
-
 # 1 Esdras 2
 
 ### 1
@@ -95,4 +94,3 @@ And that those wicked workers proceed no further to the annoyance
 
 ### 30
 Then king Artexerxes his letters being read, Rathumus, and
-

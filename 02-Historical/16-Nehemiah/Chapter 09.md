@@ -3,7 +3,6 @@ book: "Nehemiah"
 chapter: 9
 canon: "Historical"
 ---
-
 # Nehemiah 9
 
 ### 1
@@ -119,4 +118,3 @@ It yields much increase to the kings whom you have set over us because of our si
 
 ### 38
 Yet for all this, we make a sure covenant, and write it; and our princes, our Levites, and our priests, seal it.”
-

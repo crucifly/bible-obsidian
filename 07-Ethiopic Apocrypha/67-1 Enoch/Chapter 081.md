@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 81
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 81
 
 ### 1
@@ -32,4 +31,3 @@ And those who practice righteousness shall die on account of the deeds of men, A
 
 ### 10
 And in those days they ceased to speak to me, and I came to my people, blessing the Lord of the world.
-

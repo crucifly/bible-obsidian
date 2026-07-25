@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 15
 canon: "Historical"
 ---
-
 # 2 Samuel 15
 
 ### 1
@@ -116,4 +115,3 @@ Behold, they have there with them their two sons, Ahimaaz, Zadok’s son, and Jo
 
 ### 37
 So Hushai, David’s friend, came into the city; and Absalom came into Jerusalem.
-

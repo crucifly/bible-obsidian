@@ -3,7 +3,6 @@ book: "2 Corinthians"
 chapter: 1
 canon: "New Testament"
 ---
-
 # 2 Corinthians 1
 
 ### 1
@@ -77,4 +76,3 @@ But I call God for a witness to my soul, that I didn’t come to Corinth to spar
 
 ### 24
 Not that we control your faith, but are fellow workers with you for your joy. For you stand firm in faith.
-

@@ -3,7 +3,6 @@ book: "2 Peter"
 chapter: 3
 canon: "New Testament"
 ---
-
 # 2 Peter 3
 
 ### 1
@@ -59,4 +58,3 @@ You therefore, beloved, knowing these things beforehand, beware, lest being carr
 
 ### 18
 But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and forever. Amen.
-

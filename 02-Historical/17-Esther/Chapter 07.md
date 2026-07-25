@@ -3,7 +3,6 @@ book: "Esther"
 chapter: 7
 canon: "Historical"
 ---
-
 # Esther 7
 
 ### 1
@@ -35,4 +34,3 @@ Then Harbonah, one of the eunuchs who were with the king said, “Behold, the ga
 
 ### 10
 So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king’s wrath pacified.
-

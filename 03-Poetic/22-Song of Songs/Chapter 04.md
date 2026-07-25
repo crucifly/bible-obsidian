@@ -3,7 +3,6 @@ book: "Song of Songs"
 chapter: 4
 canon: "Poetic"
 ---
-
 # Song of Solomon 4
 
 ### 1
@@ -53,4 +52,3 @@ a fountain of gardens, a well of living waters, flowing streams from Lebanon.
 
 ### 16
 Awake, north wind; and come, you south! Blow on my garden, that its spices may flow out. Let my beloved come into his garden, and taste his precious fruits.
-

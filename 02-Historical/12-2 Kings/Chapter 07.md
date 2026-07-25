@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 7
 canon: "Historical"
 ---
-
 # 2 Kings 7
 
 ### 1
@@ -65,4 +64,3 @@ and that captain answered the man of God, and said, “Now, behold, if Yahweh ma
 
 ### 20
 It happened like that to him; for the people trampled over him in the gate, and he died.
-

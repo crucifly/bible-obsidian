@@ -3,7 +3,6 @@ book: "Job"
 chapter: 33
 canon: "Poetic"
 ---
-
 # Job 33
 
 ### 1
@@ -104,4 +103,3 @@ If you have anything to say, answer me. Speak, for I desire to justify you.
 
 ### 33
 If not, listen to me. Hold your peace, and I will teach you wisdom.”
-

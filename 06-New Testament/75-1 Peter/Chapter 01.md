@@ -3,7 +3,6 @@ book: "1 Peter"
 chapter: 1
 canon: "New Testament"
 ---
-
 # 1 Peter 1
 
 ### 1
@@ -80,4 +79,3 @@ For, “All flesh is like grass, and all of man’s glory like the flower in the
 
 ### 25
 but the Lord’s word endures forever.” This is the word of Good News which was preached to you.
-

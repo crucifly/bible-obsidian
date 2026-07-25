@@ -3,7 +3,6 @@ book: "Daniel"
 chapter: 5
 canon: "Prophets"
 ---
-
 # Daniel 5
 
 ### 1
@@ -98,4 +97,3 @@ In that night Belshazzar the Chaldean King was slain.
 
 ### 31
 Darius the Mede received the kingdom, being about sixty-two years old.
-

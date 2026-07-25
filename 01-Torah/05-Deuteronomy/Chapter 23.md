@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 23
 canon: "Torah"
 ---
-
 # Deuteronomy 23
 
 ### 1
@@ -80,4 +79,3 @@ When you come into your neighbor’s vineyard, then you may eat of grapes your f
 
 ### 25
 When you come into your neighbor’s standing grain, then you may pluck the ears with your hand; but you shall not move a sickle to your neighbor’s standing grain.
-

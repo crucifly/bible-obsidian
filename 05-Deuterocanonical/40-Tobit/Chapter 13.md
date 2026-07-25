@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 13
 canon: "Deuterocanonical"
 ---
-
 # Tobit 13
 
 ### 1
@@ -59,4 +58,3 @@ And the streets of Jerusalem shall be paved with beryl and
 
 ### 18
 And all her streets shall say, Alleluia; and they shall praise
-

@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 14
 canon: "Historical"
 ---
-
 # 2 Chronicles 14
 
 ### 1
@@ -50,4 +49,3 @@ They struck all the cities around Gerar; for the fear of Yahweh came on them, an
 
 ### 15
 They also struck the tents of livestock, and carried away sheep in abundance, and camels, and returned to Jerusalem.
-

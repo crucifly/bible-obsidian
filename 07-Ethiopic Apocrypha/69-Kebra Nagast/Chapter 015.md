@@ -3,9 +3,7 @@ book: "Kebra Nagast"
 chapter: 15
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 15
 
 ### 1
 And Isaac his son became king, and he did not transgress the commandment of God; and he was pure in his soul and in his body, and he died in honour. And his son Jacob reigned, and he also did not transgress the commandment of God, and his possessions became numerous, and his children were many; and God blessed him and he died in honour.
-

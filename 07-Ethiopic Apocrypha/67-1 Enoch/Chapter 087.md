@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 87
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 87
 
 ### 1
@@ -17,4 +16,3 @@ And those three that had last come forth grasped me by my hand and took me up, a
 
 ### 4
 And one said unto me: ‘Remain here till thou seest everything that befalls those elephants, camels, and asses, and the stars and the oxen, and all of them.’
-

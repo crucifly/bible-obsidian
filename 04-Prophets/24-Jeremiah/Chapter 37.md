@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 37
 canon: "Prophets"
 ---
-
 # Jeremiah 37
 
 ### 1
@@ -68,4 +67,3 @@ Now please hear, my lord the king: please let my supplication be presented befor
 
 ### 21
 Then Zedekiah the king commanded, and they committed Jeremiah into the court of the guard. They gave him daily a loaf of bread out of the bakers’ street, until all the bread in the city was gone. Thus Jeremiah remained in the court of the guard.
-

@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 24
 canon: "Historical"
 ---
-
 # 2 Samuel 24
 
 ### 1
@@ -80,4 +79,3 @@ The king said to Araunah, “No; but I will most certainly buy it from you for a
 
 ### 25
 David built an altar to Yahweh there, and offered burnt offerings and peace offerings. So Yahweh was entreated for the land, and the plague was removed from Israel.
-

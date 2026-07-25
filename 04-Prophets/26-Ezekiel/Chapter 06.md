@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 6
 canon: "Prophets"
 ---
-
 # Ezekiel 6
 
 ### 1
@@ -47,4 +46,3 @@ You will know that I am Yahweh, when their slain men are among their idols aroun
 
 ### 14
 I will stretch out my hand on them, and make the land desolate and waste, from the wilderness toward Diblah, throughout all their habitations. Then they will know that I am Yahweh.’”
-

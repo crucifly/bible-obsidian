@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 92
 canon: "Poetic"
 ---
-
 # Psalms 92
 
 ### 1
@@ -50,4 +49,3 @@ They will still produce fruit in old age. They will be full of sap and green,
 
 ### 15
 to show that Yahweh is upright. He is my rock, and there is no unrighteousness in him.
-

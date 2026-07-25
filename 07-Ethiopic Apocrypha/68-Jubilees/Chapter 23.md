@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 23
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 23
 
 ### 1
@@ -176,4 +175,3 @@ The Book of Jubilees
 
 ### 57
 Isaac at the Well of Vision, 1 (cf. Gen. xxi. 11). Esau sells his birthright, 2-7 (cf. Gen. xxv.29-34).
-

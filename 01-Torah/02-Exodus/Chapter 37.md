@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 37
 canon: "Torah"
 ---
-
 # Exodus 37
 
 ### 1
@@ -92,4 +91,3 @@ He made the poles of acacia wood, and overlaid them with gold.
 
 ### 29
 He made the holy anointing oil and the pure incense of sweet spices, after the art of the perfumer.
-

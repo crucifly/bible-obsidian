@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 8
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 8
 
 ### 1
@@ -11,4 +10,3 @@ And Azâzêl taught men to make swords, and knives, and shields, and breastplate
 
 ### 2
 And there arose much godlessness, and they committed fornication, and they were led astray, and became corrupt in all their ways. Semjâzâ taught enchantments, and root-cuttings, Armârôs the resolving of enchantments, Barâqîjâl, (taught) astrology, Kôkabêl the constellations, Ezêqêêl the knowledge of the clouds, 〈Araqiêl the signs of the earth, Shamsiêl the signs of the sun〉, and Sariêl the course of the moon. And as men perished, they cried, and their cry went up to heaven . . .
-

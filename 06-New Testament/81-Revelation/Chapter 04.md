@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 4
 canon: "New Testament"
 ---
-
 # Revelation 4
 
 ### 1
@@ -38,4 +37,3 @@ the twenty-four elders fall down before him who sits on the throne, and worship 
 
 ### 11
 “Worthy are you, our Lord and God, the Holy One, to receive the glory, the honor, and the power, for you created all things, and because of your desire they existed, and were created!”
-

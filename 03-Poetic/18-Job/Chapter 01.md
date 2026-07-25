@@ -3,7 +3,6 @@ book: "Job"
 chapter: 1
 canon: "Poetic"
 ---
-
 # Job 1
 
 ### 1
@@ -71,4 +70,3 @@ He said, “Naked I came out of my mother’s womb, and naked shall I return the
 
 ### 22
 In all this, Job did not sin, nor charge God with wrongdoing.
-

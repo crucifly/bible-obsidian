@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 13
 canon: "Historical"
 ---
-
 # 2 Samuel 13
 
 ### 1
@@ -122,4 +121,3 @@ So Absalom fled, and went to Geshur, and was there three years.
 
 ### 39
 King David longed to go out to Absalom; for he was comforted concerning Amnon, since he was dead.
-

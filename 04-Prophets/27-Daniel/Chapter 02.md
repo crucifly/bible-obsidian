@@ -3,7 +3,6 @@ book: "Daniel"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Daniel 2
 
 ### 1
@@ -152,4 +151,3 @@ Then the king made Daniel great, and gave him many great gifts, and made him rul
 
 ### 49
 Daniel requested of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon; but Daniel was in the king’s gate.
-

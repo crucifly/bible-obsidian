@@ -3,7 +3,6 @@ book: "1 Thessalonians"
 chapter: 3
 canon: "New Testament"
 ---
-
 # 1 Thessalonians 3
 
 ### 1
@@ -44,4 +43,3 @@ and the Lord make you to increase and abound in love one toward another, and tow
 
 ### 13
 to the end he may establish your hearts blameless in holiness before our God and Father, at the coming of our Lord Jesus with all his saints.
-

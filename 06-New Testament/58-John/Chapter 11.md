@@ -3,7 +3,6 @@ book: "John"
 chapter: 11
 canon: "New Testament"
 ---
-
 # John 11
 
 ### 1
@@ -176,4 +175,3 @@ Then they sought for Jesus and spoke one with another, as they stood in the temp
 
 ### 57
 Now the chief priests and the Pharisees had commanded that if anyone knew where he was, he should report it, that they might seize him.
-

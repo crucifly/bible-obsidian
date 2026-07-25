@@ -3,7 +3,6 @@ book: "James"
 chapter: 2
 canon: "New Testament"
 ---
-
 # James 2
 
 ### 1
@@ -83,4 +82,3 @@ In the same way, wasn’t Rahab the prostitute also justified by works, in that 
 
 ### 26
 For as the body apart from the spirit is dead, even so faith apart from works is dead.
-

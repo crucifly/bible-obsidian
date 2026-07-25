@@ -3,7 +3,6 @@ book: "Titus"
 chapter: 2
 canon: "New Testament"
 ---
-
 # Titus 2
 
 ### 1
@@ -50,4 +49,3 @@ who gave himself for us, that he might redeem us from all iniquity, and purify f
 
 ### 15
 Say these things and exhort and reprove with all authority. Let no man despise you.
-

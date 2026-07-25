@@ -3,7 +3,6 @@ book: "1 John"
 chapter: 5
 canon: "New Testament"
 ---
-
 # 1 John 5
 
 ### 1
@@ -68,4 +67,3 @@ We know that the Son of God has come, and has given us an understanding, that we
 
 ### 21
 Little children, keep yourselves from idols.
-

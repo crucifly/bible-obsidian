@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 17
 canon: "Historical"
 ---
-
 # 1 Kings 17
 
 ### 1
@@ -77,4 +76,3 @@ Elijah took the child, and brought him down out of the room into the house, and 
 
 ### 24
 The woman said to Elijah, “Now I know that you are a man of God, and that Yahweh’s word in your mouth is truth.”
-

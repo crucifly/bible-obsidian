@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 7
 canon: "Historical"
 ---
-
 # 2 Samuel 7
 
 ### 1
@@ -92,4 +91,3 @@ For you, Yahweh of Armies, the God of Israel, have revealed to your servant, say
 
 ### 29
 Now therefore let it please you to bless the house of your servant, that it may continue forever before you; for you, Lord Yahweh, have spoken it. Let the house of your servant be blessed forever with your blessing.”
-

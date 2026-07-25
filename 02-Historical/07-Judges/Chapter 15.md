@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 15
 canon: "Historical"
 ---
-
 # Judges 15
 
 ### 1
@@ -65,4 +64,3 @@ But God split the hollow place that is in Lehi, and water came out of it. When h
 
 ### 20
 He judged Israel twenty years in the days of the Philistines.
-

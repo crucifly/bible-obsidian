@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 5
 canon: "Historical"
 ---
-
 # 2 Kings 5
 
 ### 1
@@ -86,4 +85,3 @@ He said to him, “Didn’t my heart go with you, when the man turned from his c
 
 ### 27
 Therefore the leprosy of Naaman will cling to you and to your offspring forever.” He went out from his presence a leper, as white as snow.
-

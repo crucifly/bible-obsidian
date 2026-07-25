@@ -3,7 +3,6 @@ book: "Hosea"
 chapter: 4
 canon: "Prophets"
 ---
-
 # Hosea 4
 
 ### 1
@@ -62,4 +61,3 @@ Their drink has become sour. They play the prostitute continually. Her rulers de
 
 ### 19
 The wind has wrapped her up in its wings; and they shall be disappointed because of their sacrifices.
-

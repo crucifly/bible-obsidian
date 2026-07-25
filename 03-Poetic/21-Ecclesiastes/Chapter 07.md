@@ -3,7 +3,6 @@ book: "Ecclesiastes"
 chapter: 7
 canon: "Poetic"
 ---
-
 # Ecclesiastes 7
 
 ### 1
@@ -92,4 +91,3 @@ which my soul still seeks; but I have not found. I have found one man among a th
 
 ### 29
 Behold, I have only found this: that God made man upright; but they search for many schemes.”
-

@@ -3,7 +3,6 @@ book: "Micah"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Micah 3
 
 ### 1
@@ -41,4 +40,3 @@ Her leaders judge for bribes, and her priests teach for a price, and her prophet
 
 ### 12
 Therefore Zion for your sake will be plowed like a field, and Jerusalem will become heaps of rubble, and the mountain of the temple like the high places of a forest.
-

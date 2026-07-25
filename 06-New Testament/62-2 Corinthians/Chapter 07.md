@@ -3,7 +3,6 @@ book: "2 Corinthians"
 chapter: 7
 canon: "New Testament"
 ---
-
 # 2 Corinthians 7
 
 ### 1
@@ -53,4 +52,3 @@ His affection is more abundantly toward you, while he remembers all of your obed
 
 ### 16
 I rejoice that in everything I am confident concerning you.
-

@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 8
 canon: "Prophets"
 ---
-
 # Isaiah 8
 
 ### 1
@@ -71,4 +70,3 @@ They will pass through it, very distressed and hungry; and it will happen that w
 
 ### 22
 and look to the earth, and see distress, darkness, and the gloom of anguish. They will be driven into thick darkness.
-

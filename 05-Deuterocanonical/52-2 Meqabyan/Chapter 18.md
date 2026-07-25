@@ -3,7 +3,6 @@ book: "2 Meqabyan"
 chapter: 18
 canon: "Deuterocanonical"
 ---
-
 # 2 Meqabyan 18
 
 ### 1
@@ -47,4 +46,3 @@ Where are the kings' armies, or the lordship of the nobles? Where is the adornme
 
 ### 14
 Where is the sweet drink of the vine, or the flavor of food?
-

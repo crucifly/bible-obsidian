@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 3
 canon: "Historical"
 ---
-
 # Joshua 3
 
 ### 1
@@ -56,4 +55,3 @@ the waters which came down from above stood, and rose up in one heap, a great wa
 
 ### 17
 The priests who bore the ark of Yahweh’s covenant stood firm on dry ground in the middle of the Jordan; and all Israel crossed over on dry ground, until all the nation had passed completely over the Jordan.
-

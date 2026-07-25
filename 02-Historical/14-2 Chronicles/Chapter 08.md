@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 8
 canon: "Historical"
 ---
-
 # 2 Chronicles 8
 
 ### 1
@@ -59,4 +58,3 @@ Then Solomon went to Ezion Geber and to Eloth, on the seashore in the land of Ed
 
 ### 18
 Huram sent him ships and servants who had knowledge of the sea by the hands of his servants; and they came with the servants of Solomon to Ophir, and brought from there four hundred fifty talents of gold, and brought them to king Solomon.
-

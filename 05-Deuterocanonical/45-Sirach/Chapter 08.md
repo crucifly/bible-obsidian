@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 8
 canon: "Deuterocanonical"
 ---
-
 # Sirach 8
 
 ### 1
@@ -62,4 +61,3 @@ Do no secret thing before a stranger; for thou knowest not what he
 
 ### 19
 Open not thine heart to every man, lest he requite thee with a
-

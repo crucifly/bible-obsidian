@@ -3,7 +3,6 @@ book: "Habakkuk"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Habakkuk 2
 
 ### 1
@@ -65,4 +64,3 @@ Woe to him who says to the wood, ‘Awake!’ or to the mute stone, ‘Arise!’
 
 ### 20
 But Yahweh is in his holy temple. Let all the earth be silent before him!”
-

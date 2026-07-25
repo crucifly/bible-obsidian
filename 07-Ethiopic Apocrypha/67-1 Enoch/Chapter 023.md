@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 23
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 23
 
 ### 1
@@ -17,4 +16,3 @@ And I asked saying: ‘What is this which rests not?’
 
 ### 4
 Then Raguel, one of the holy angels who was with me, answered me ⌈⌈and said unto me⌉⌉: ‘This course ⌈of fire⌉ ⌈⌈which thou hast seen⌉⌉ is the fire in the west which †persecutes† all the luminaries of heaven.’
-

@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 18
 canon: "Deuterocanonical"
 ---
-
 # Sirach 18
 
 ### 1
@@ -104,4 +103,3 @@ Take not pleasure in much good cheer, neither be tied to the
 
 ### 33
 Be not made a beggar by banqueting upon borrowing, when thou hast
-

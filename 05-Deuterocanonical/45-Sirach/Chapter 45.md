@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 45
 canon: "Deuterocanonical"
 ---
-
 # Sirach 45
 
 ### 1
@@ -83,4 +82,3 @@ According to the covenant made with David son of Jesse, of the
 
 ### 26
 God give you wisdom in your heart to judge his people in
-

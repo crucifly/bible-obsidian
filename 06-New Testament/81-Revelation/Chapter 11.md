@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 11
 canon: "New Testament"
 ---
-
 # Revelation 11
 
 ### 1
@@ -62,4 +61,3 @@ The nations were angry, and your wrath came, as did the time for the dead to be 
 
 ### 19
 God’s temple that is in heaven was opened, and the ark of the Lord’s covenant was seen in his temple. Lightnings, sounds, thunders, an earthquake, and great hail followed.
-

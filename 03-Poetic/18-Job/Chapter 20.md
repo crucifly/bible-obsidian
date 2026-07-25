@@ -3,7 +3,6 @@ book: "Job"
 chapter: 20
 canon: "Poetic"
 ---
-
 # Job 20
 
 ### 1
@@ -92,4 +91,3 @@ The increase of his house shall depart. They shall rush away in the day of his w
 
 ### 29
 This is the portion of a wicked man from God, the heritage appointed to him by God.”
-

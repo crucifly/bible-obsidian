@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 25
 canon: "Historical"
 ---
-
 # 1 Chronicles 25
 
 ### 1
@@ -98,4 +97,3 @@ for the twenty-third to Mahazioth, his sons and his brothers, twelve;
 
 ### 31
 for the twenty-fourth to Romamti-Ezer, his sons and his brothers, twelve.
-

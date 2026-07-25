@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 20
 canon: "Historical"
 ---
-
 # 1 Chronicles 20
 
 ### 1
@@ -29,4 +28,3 @@ When he defied Israel, Jonathan the son of Shimea David’s brother killed him.
 
 ### 8
 These were born to the giant in Gath; and they fell by the hand of David, and by the hand of his servants.
-

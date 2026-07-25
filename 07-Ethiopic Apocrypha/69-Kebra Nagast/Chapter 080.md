@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 80
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 80
 
 ### 1
@@ -14,4 +13,3 @@ And then Dalîlâ (Delilah) conceived by Samson, and whilst she was with child S
 
 ### 3
 And then Maksâbâ brought forth a man-child and all the men of the Philistines rejoiced, and they did homage to her and sang, saying, “Dâgôn and Bêl have honoured her and loved Maksâbâ, and the seed of Ḳwôlâsôn is found again from Maksâbâ.” And Delilah also bore a son, and the two women brought up the children in great state and dignity. And when the children were five years old they ate and played together before them, and the mothers made garments of costly stuff for them, and [set] daggers above their loins, and chains on their necks. And the people seated the son of Maksâbâ on the throne of his father, and made him king over the Philistines.
-

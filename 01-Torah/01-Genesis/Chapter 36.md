@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 36
 canon: "Torah"
 ---
-
 # Genesis 36
 
 ### 1
@@ -134,4 +133,3 @@ chief Kenaz, chief Teman, chief Mibzar,
 
 ### 43
 chief Magdiel, and chief Iram. These are the chiefs of Edom, according to their habitations in the land of their possession. This is Esau, the father of the Edomites.
-

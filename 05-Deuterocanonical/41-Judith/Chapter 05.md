@@ -3,7 +3,6 @@ book: "Judith"
 chapter: 5
 canon: "Deuterocanonical"
 ---
-
 # Judith 5
 
 ### 1
@@ -77,4 +76,3 @@ For, say they, we will not be afraid of the face of the children
 
 ### 24
 Now therefore, lord Holofernes, we will go up, and they shall be a
-

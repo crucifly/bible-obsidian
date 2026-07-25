@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 2
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 2
 
 ### 1
@@ -104,4 +103,3 @@ And the Creator of all things blessed this day which He had created for blessing
 
 ### 33
 This law and testimony was given to the children of Israel as a law for ever unto their generations.
-

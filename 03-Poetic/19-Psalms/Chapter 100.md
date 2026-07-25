@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 100
 canon: "Poetic"
 ---
-
 # Psalms 100
 
 ### 1
@@ -20,4 +19,3 @@ Enter into his gates with thanksgiving, into his courts with praise. Give thanks
 
 ### 5
 For Yahweh is good. His loving kindness endures forever, his faithfulness to all generations.
-

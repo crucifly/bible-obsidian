@@ -3,7 +3,6 @@ book: "Ruth"
 chapter: 4
 canon: "Historical"
 ---
-
 # Ruth 4
 
 ### 1
@@ -71,4 +70,3 @@ and Salmon became the father of Boaz, and Boaz became the father of Obed,
 
 ### 22
 and Obed became the father of Jesse, and Jesse became the father of David.
-

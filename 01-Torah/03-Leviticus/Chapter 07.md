@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 7
 canon: "Torah"
 ---
-
 # Leviticus 7
 
 ### 1
@@ -119,4 +118,3 @@ This is the law of the burnt offering, of the meal offering, and of the sin offe
 
 ### 38
 which Yahweh commanded Moses in Mount Sinai, in the day that he commanded the children of Israel to offer their offerings to Yahweh, in the wilderness of Sinai.
-

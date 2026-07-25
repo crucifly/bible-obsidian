@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 18
 canon: "Prophets"
 ---
-
 # Jeremiah 18
 
 ### 1
@@ -74,4 +73,3 @@ Let a cry be heard from their houses, when you bring a troop suddenly on them; f
 
 ### 23
 Yet, Yahweh, you know all their counsel against me to kill me. Don’t forgive their iniquity. Don’t blot out their sin from your sight, Let them be overthrown before you. Deal with them in the time of your anger.
-

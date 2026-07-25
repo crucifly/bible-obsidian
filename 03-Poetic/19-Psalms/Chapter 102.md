@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 102
 canon: "Poetic"
 ---
-
 # Psalms 102
 
 ### 1
@@ -89,4 +88,3 @@ But you are the same. Your years will have no end.
 
 ### 28
 The children of your servants will continue. Their offspring will be established before you.”
-

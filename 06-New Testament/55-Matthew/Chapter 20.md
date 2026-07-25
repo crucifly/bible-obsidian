@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 20
 canon: "New Testament"
 ---
-
 # Matthew 20
 
 ### 1
@@ -107,4 +106,3 @@ They told him, “Lord, that our eyes may be opened.”
 
 ### 34
 Jesus, being moved with compassion, touched their eyes; and immediately their eyes received their sight, and they followed him.
-

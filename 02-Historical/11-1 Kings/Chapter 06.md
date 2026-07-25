@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 6
 canon: "Historical"
 ---
-
 # 1 Kings 6
 
 ### 1
@@ -119,4 +118,3 @@ The foundation of Yahweh’s house was laid in the fourth year, in the month Ziv
 
 ### 38
 In the eleventh year, in the month Bul, which is the eighth month, the house was finished throughout all its parts, and according to all its specifications. So he spent seven years building it.
-

@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 15
 canon: "Historical"
 ---
-
 # 2 Chronicles 15
 
 ### 1
@@ -62,4 +61,3 @@ He brought the things that his father had dedicated, and that he himself had ded
 
 ### 19
 There was no more war to the thirty-fifth year of Asa’s reign.
-

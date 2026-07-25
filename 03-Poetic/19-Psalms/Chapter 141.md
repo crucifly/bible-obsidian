@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 141
 canon: "Poetic"
 ---
-
 # Psalms 141
 
 ### 1
@@ -35,4 +34,3 @@ Keep me from the snare which they have laid for me, from the traps of the worker
 
 ### 10
 Let the wicked fall together into their own nets, while I pass by.
-

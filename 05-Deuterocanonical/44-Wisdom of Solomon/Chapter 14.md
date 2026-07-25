@@ -3,7 +3,6 @@ book: "Wisdom of Solomon"
 chapter: 14
 canon: "Deuterocanonical"
 ---
-
 # Wisdom of Solomon 14
 
 ### 1
@@ -98,4 +97,3 @@ Howbeit for both causes shall they be justly punished: both
 
 ### 31
 For it is not the power of them by whom they swear: but it is the
-

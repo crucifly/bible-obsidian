@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 11
 canon: "Deuterocanonical"
 ---
-
 # Tobit 11
 
 ### 1
@@ -62,4 +61,3 @@ And Achiacharus, and Nasbas his brother’s son, came:
 
 ### 19
 And Tobias’ wedding was kept seven days with great joy.
-

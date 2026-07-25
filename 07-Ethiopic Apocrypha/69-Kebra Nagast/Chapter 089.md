@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 89
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 89
 
 ### 1
@@ -17,4 +16,3 @@ And the Queen answered and said unto them, “Not as servants as ye say, but as 
 
 ### 4
 And the Queen said unto Azariah, “Speak and declare how much thou lovest our Lady with her Heavenly King.”
-

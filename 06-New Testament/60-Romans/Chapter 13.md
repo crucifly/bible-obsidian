@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 13
 canon: "New Testament"
 ---
-
 # Romans 13
 
 ### 1
@@ -31,7 +30,7 @@ Therefore give everyone what you owe: if you owe taxes, pay taxes; if customs, t
 Owe no one anything, except to love one another; for he who loves his neighbor has fulfilled the law.
 
 ### 9
-For the commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,”  and whatever other commandments there are, are all summed up in this saying, namely, “You shall love your neighbor as yourself.”
+For the commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,” and whatever other commandments there are, are all summed up in this saying, namely, “You shall love your neighbor as yourself.”
 
 ### 10
 Love doesn’t harm a neighbor. Love therefore is the fulfillment of the law.
@@ -47,4 +46,3 @@ Let us walk properly, as in the day; not in reveling and drunkenness, not in sex
 
 ### 14
 But put on the Lord Jesus Christ, and make no provision for the flesh, for its lusts.
-

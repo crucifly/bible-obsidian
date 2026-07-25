@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 54
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 54
 
 ### 1
@@ -17,4 +16,3 @@ And then he made a circuit and said, “Behold Zion, behold salvation, behold th
 
 ### 4
 Thus spake David the King, the son of Solomon, King of Israel. For the spirit of prophecy descended upon him because of his joy, and he knew not what he said and he was like Peter and John on the top of Mount Tâbôr. And they all marvelled and said, “This, the son of a prophet, is he to be numbered among the prophets?”
-

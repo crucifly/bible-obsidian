@@ -3,49 +3,27 @@ book: "Thunder, Perfect Mind"
 chapter: 1
 canon: "Nag-Hammadi"
 ---
-
 # Thunder, Perfect Mind
 
 ![First page of "Gospel of Thomas" coptic manuscript. (Photo Courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)](/images/coptic.gif "First page of \"Gospel of Thomas\" coptic manuscript. (Photo Courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)")  
-
 [![Nag Hammadi Library main page](../images/butnhl.gif)](nhl.html)
-
 [![Introduction to Gnosticism and the Nag Hammadi Library](../images/butintro.gif)](nhlintro.html)
-
 [![Alphabetic Index of the Nag Hammadi Library](../images/butalpha.gif)](nhlalpha.html)
-
 [![Codex Index of the Nag Hammadi Library](../images/butcodex.gif)](nhlcodex.html)
-
 [![Gospel of Thomas Collection](../images/butgth.gif)](nhl_thomas.htm)
-
 [![Search the Nag Hammadi Library](../images/butnhlsr.gif)](nhsearch.html)
-
 [![Return to The Gnostic Society Library page](../images/libbut.gif)](../library.html)
-
 [![Return to The Gnosis Archive main page](../images/butgnarch.gif)](../welcome.html)
-
 ###### (Above image of the Gospel of Thomas courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)
-
 ###### _Visit the [Bookstore](../bookstore1.htm) for a complete selection of translations and books about the Gnostic Gospels.  
 _
-
 [![The Gnostic Gospels, by Elaine Pagels (Click to buy the book)](../images/Bookstore/gnosticgospels.gif)](../bookstore1.htm)
-
-  
-
 [![The Nag Hammadi Library, edited by James Robinson (Click to buy the book)](../images/Bookstore/naghammadi.gif)](../bookstore1.htm)
-
-  
 ![The Gnostic Society Library](/images/GnosticSocietyLibrary.gif "The Gnostic Society Library - gnosis.org")
-
 **The Nag Hammadi Library**
-
 ### The Thunder, Perfect Mind
-
 * * *
-
 **Translated by George W. MacRae**
-
 > > I was sent forth from the power,
 > > 
 > > and I have come to those who reflect upon me,
@@ -525,13 +503,10 @@ _
 > > and they will live,
 > > 
 > > and they will not die again.
-
 ##### Original translation of this text was prepared by members of the  
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.  
 The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.  
 E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.  
-  
 The translation presented here has been edited, modified and formatted for use in the Gnostic Society Library.  
 For academic citation, please refer to published editions of this text.
-
 ###### | [Nag Hammadi Library](nhl.html) | [Gnostic Society Library](../library.html) | [Gnosis Archive](../welcome.html) |

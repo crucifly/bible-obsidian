@@ -3,7 +3,6 @@ book: "1 Peter"
 chapter: 5
 canon: "New Testament"
 ---
-
 # 1 Peter 5
 
 ### 1
@@ -47,4 +46,3 @@ She who is in Babylon, chosen together with you, greets you; and so does Mark, m
 
 ### 14
 Greet one another with a kiss of love. Peace be to you all who are in Christ Jesus. Amen.
-

@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 31
 canon: "Torah"
 ---
-
 # Deuteronomy 31
 
 ### 1
@@ -95,4 +94,3 @@ For I know that after my death you will utterly corrupt yourselves, and turn awa
 
 ### 30
 Moses spoke in the ears of all the assembly of Israel the words of this song, until they were finished.
-

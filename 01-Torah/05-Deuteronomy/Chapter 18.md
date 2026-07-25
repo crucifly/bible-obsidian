@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 18
 canon: "Torah"
 ---
-
 # Deuteronomy 18
 
 ### 1
@@ -71,4 +70,3 @@ You may say in your heart, “How shall we know the word which Yahweh has not sp
 
 ### 22
 When a prophet speaks in Yahweh’s name, if the thing doesn’t follow, nor happen, that is the thing which Yahweh has not spoken. The prophet has spoken it presumptuously. You shall not be afraid of him.
-

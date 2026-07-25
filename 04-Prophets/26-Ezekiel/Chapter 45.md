@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 45
 canon: "Prophets"
 ---
-
 # Ezekiel 45
 
 ### 1
@@ -80,4 +79,3 @@ He shall prepare a meal offering, an ephah for a bull, and an ephah for a ram, a
 
 ### 25
 “‘“In the seventh month, in the fifteenth day of the month, in the feast, he shall do like like that for seven days; according to the sin offering, according to the burnt offering, and according to the meal offering, and according to the oil.”
-

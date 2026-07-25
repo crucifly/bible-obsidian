@@ -3,7 +3,6 @@ book: "John"
 chapter: 2
 canon: "New Testament"
 ---
-
 # John 2
 
 ### 1
@@ -80,4 +79,3 @@ But Jesus didn’t entrust himself to them, because he knew everyone,
 
 ### 25
 and because he didn’t need for anyone to testify concerning man; for he himself knew what was in man.
-

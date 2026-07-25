@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 11
 canon: "Historical"
 ---
-
 # 1 Samuel 11
 
 ### 1
@@ -50,4 +49,3 @@ Then Samuel said to the people, “Come, and let us go to Gilgal, and renew the 
 
 ### 15
 All the people went to Gilgal; and there they made Saul king before Yahweh in Gilgal. There they offered sacrifices of peace offerings before Yahweh; and there Saul and all the men of Israel rejoiced greatly.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 73
 canon: "Poetic"
 ---
-
 # Psalms 73
 
 ### 1
@@ -89,4 +88,3 @@ For, behold, those who are far from you shall perish. You have destroyed all tho
 
 ### 28
 But it is good for me to come close to God. I have made the Lord Yahweh my refuge, that I may tell of all your works.
-

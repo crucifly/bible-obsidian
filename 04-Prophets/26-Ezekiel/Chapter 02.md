@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Ezekiel 2
 
 ### 1
@@ -35,4 +34,3 @@ When I looked, behold, a hand was stretched out to me; and, behold, a scroll of 
 
 ### 10
 He spread it before me. It was written within and without; and lamentations, mourning, and woe were written in it.
-

@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 12
 canon: "Prophets"
 ---
-
 # Ezekiel 12
 
 ### 1
@@ -89,4 +88,3 @@ Again Yahweh’s word came to me, saying,
 
 ### 28
 “Therefore tell them, ‘Thus says the Lord Yahweh: “None of my words will be deferred any more, but the word which I speak will be performed,” says the Lord Yahweh.’”
-

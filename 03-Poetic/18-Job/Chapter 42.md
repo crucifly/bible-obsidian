@@ -3,7 +3,6 @@ book: "Job"
 chapter: 42
 canon: "Poetic"
 ---
-
 # Job 42
 
 ### 1
@@ -56,4 +55,3 @@ After this Job lived one hundred forty years, and saw his sons, and his sons’ 
 
 ### 17
 So Job died, being old and full of days.
-

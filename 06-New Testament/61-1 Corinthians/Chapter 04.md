@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 4
 canon: "New Testament"
 ---
-
 # 1 Corinthians 4
 
 ### 1
@@ -68,4 +67,3 @@ For God’s Kingdom is not in word, but in power.
 
 ### 21
 What do you want? Shall I come to you with a rod, or in love and a spirit of gentleness?
-

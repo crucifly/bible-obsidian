@@ -3,7 +3,6 @@ book: "Rest of Esther"
 chapter: 15
 canon: "Deuterocanonical"
 ---
-
 # Rest of Esther 15
 
 ### 1
@@ -53,4 +52,3 @@ And as she was speaking, she fell down for faintness.
 
 ### 16
 Then the king was troubled, and all his servants comforted her.
-

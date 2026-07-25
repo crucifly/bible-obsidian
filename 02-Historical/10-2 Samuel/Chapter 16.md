@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 16
 canon: "Historical"
 ---
-
 # 2 Samuel 16
 
 ### 1
@@ -74,4 +73,3 @@ So they spread a tent for Absalom on the top of the house, and Absalom went in t
 
 ### 23
 The counsel of Ahithophel, which he gave in those days, was as if a man inquired at the inner sanctuary of God. So was all the counsel of Ahithophel both with David and with Absalom.
-

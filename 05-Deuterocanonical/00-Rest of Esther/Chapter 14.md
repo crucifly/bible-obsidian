@@ -3,7 +3,6 @@ book: "Rest of Esther"
 chapter: 14
 canon: "Deuterocanonical"
 ---
-
 # Rest of Esther 14
 
 ### 1
@@ -62,4 +61,3 @@ Neither had thine handmaid any joy since the day that I was
 
 ### 19
 O thou mighty God above all, hear the voice of the forlorn and
-

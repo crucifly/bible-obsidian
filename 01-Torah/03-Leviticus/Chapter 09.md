@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 9
 canon: "Torah"
 ---
-
 # Leviticus 9
 
 ### 1
@@ -77,4 +76,3 @@ Moses and Aaron went into the Tent of Meeting, and came out, and blessed the peo
 
 ### 24
 Fire came out from before Yahweh, and consumed the burnt offering and the fat upon the altar. When all the people saw it, they shouted, and fell on their faces.
-

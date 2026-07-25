@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 109
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 109
 
 ### 1
@@ -41,4 +40,3 @@ Thus Zechariah the Prophet prophesied and said, “And they shall look upon Him 
 
 ### 12
 Now there are still very many passages which have been written and many prophecies which might be mentioned concerning His coming, and His Crucifixion, and His death, and His Resurrection, and His second coming in glory. But we have only mentioned a few of the prophecies of the prophets—we have mentioned one of each kind—so that ye may hear, and believe, and understand, even as it is said in the Acts of the Apostles, “By the Gospel Thou hast guided us, and by the Prophets Thou hast comforted us; for the words of the Prophets make right the faith of those who doubt.”
-

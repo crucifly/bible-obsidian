@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 11
 canon: "New Testament"
 ---
-
 # Matthew 11
 
 ### 1
@@ -73,7 +72,7 @@ Then he began to denounce the cities in which most of his mighty works had been 
 But I tell you, it will be more tolerable for Tyre and Sidon on the day of judgment than for you.
 
 ### 23
-You, Capernaum, who are exalted to heaven, you will go down to Hades.  For if the mighty works had been done in Sodom which were done in you, it would have remained until today.
+You, Capernaum, who are exalted to heaven, you will go down to Hades. For if the mighty works had been done in Sodom which were done in you, it would have remained until today.
 
 ### 24
 But I tell you that it will be more tolerable for the land of Sodom, on the day of judgment, than for you.”
@@ -95,4 +94,3 @@ Take my yoke upon you, and learn from me, for I am gentle and humble in heart; a
 
 ### 30
 For my yoke is easy, and my burden is light.”
-

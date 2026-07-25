@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 37
 canon: "Poetic"
 ---
-
 # Psalms 37
 
 ### 1
@@ -125,4 +124,3 @@ But the salvation of the righteous is from Yahweh. He is their stronghold in the
 
 ### 40
 Yahweh helps them, and rescues them. He rescues them from the wicked, and saves them, Because they have taken refuge in him.
-

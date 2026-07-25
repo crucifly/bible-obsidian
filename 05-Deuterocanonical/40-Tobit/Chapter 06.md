@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 6
 canon: "Deuterocanonical"
 ---
-
 # Tobit 6
 
 ### 1
@@ -56,4 +55,3 @@ And when thou shalt come into the marriage chamber, thou shalt
 
 ### 17
 And the devil shall smell it, and flee away, and never come again
-

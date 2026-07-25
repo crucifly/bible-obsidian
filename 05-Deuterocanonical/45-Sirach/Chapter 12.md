@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 12
 canon: "Deuterocanonical"
 ---
-
 # Sirach 12
 
 ### 1
@@ -59,4 +58,3 @@ If adversity come upon thee, thou shalt find him there first; and
 
 ### 18
 He will shake his head, and clap his hands, and whisper much, and
-

@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 33
 canon: "Prophets"
 ---
-
 # Isaiah 33
 
 ### 1
@@ -77,4 +76,3 @@ Your rigging is untied. They couldn’t strengthen the foot of their mast. They 
 
 ### 24
 The inhabitant won’t say, “I am sick.” The people who dwell therein will be forgiven their iniquity.
-

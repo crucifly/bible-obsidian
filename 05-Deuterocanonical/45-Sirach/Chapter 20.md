@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 20
 canon: "Deuterocanonical"
 ---
-
 # Sirach 20
 
 ### 1
@@ -101,4 +100,3 @@ Better is he that hideth his folly than a man that hideth his
 
 ### 32
 Necessary patience in seeking the Lord is better than he that
-

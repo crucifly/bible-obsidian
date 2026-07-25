@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 10
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 10
 
 ### 1
@@ -53,4 +52,3 @@ And cleanse thou the earth from all oppression, and from all unrighteousness, an
 
 ### 21
 ⌈And all the children of men shall become righteous⌉, and all nations shall offer adoration and shall praise Me, and all shall worship Me. And the earth shall be cleansed from all defilement, and from all sin, and from all punishment, and from all torment, and I will never again send (them) upon it from generation to generation and for ever.
-

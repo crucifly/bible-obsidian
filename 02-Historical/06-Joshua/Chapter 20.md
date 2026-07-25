@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 20
 canon: "Historical"
 ---
-
 # Joshua 20
 
 ### 1
@@ -32,4 +31,3 @@ Beyond the Jordan at Jericho eastward, they assigned Bezer in the wilderness in 
 
 ### 9
 These were the appointed cities for all the children of Israel, and for the alien who lives among them, that whoever kills any person unintentionally might flee there, and not die by the hand of the avenger of blood, until he stands trial before the congregation.
-

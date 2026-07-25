@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 92
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 92
 
 ### 1
@@ -35,4 +34,3 @@ And now I tell you, my sons, and show you The paths of righteousness and the pat
 
 ### 19
 And now, hearken unto me, my sons, And walk in the paths of righteousness, And walk not in the paths of violence; For all who walk in the paths of unrighteousness shall perish for ever.’
-

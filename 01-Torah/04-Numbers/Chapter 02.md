@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 2
 canon: "Torah"
 ---
-
 # Numbers 2
 
 ### 1
@@ -107,4 +106,3 @@ But the Levites were not counted among the children of Israel; as Yahweh command
 
 ### 34
 Thus the children of Israel did. According to all that Yahweh commanded Moses, so they encamped by their standards, and so they set out, everyone by their families, according to their fathers’ houses.
-

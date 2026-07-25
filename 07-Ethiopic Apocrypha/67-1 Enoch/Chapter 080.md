@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 80
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 80
 
 ### 1
@@ -29,4 +28,3 @@ And the whole order of the stars shall be concealed from the sinners, And the th
 
 ### 8
 And evil shall be multiplied upon them, And punishment shall come upon them So as to destroy all.’
-

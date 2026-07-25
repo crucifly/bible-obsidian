@@ -3,7 +3,6 @@ book: "Ruth"
 chapter: 2
 canon: "Historical"
 ---
-
 # Ruth 2
 
 ### 1
@@ -74,4 +73,3 @@ Naomi said to Ruth her daughter-in-law, “It is good, my daughter, that you go 
 
 ### 23
 So she stayed close to the maidens of Boaz, to glean to the end of barley harvest and of wheat harvest; and she lived with her mother-in-law.
-

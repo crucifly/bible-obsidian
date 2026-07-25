@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 21
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 21
 
 ### 1
@@ -131,4 +130,3 @@ That thou mayest be a blessing on all the earth.'
 
 ### 42
 And he went out from him rejoicing.
-

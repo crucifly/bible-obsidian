@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 27
 canon: "Poetic"
 ---
-
 # Psalms 27
 
 ### 1
@@ -47,4 +46,3 @@ I am still confident of this: I will see the goodness of Yahweh in the land of t
 
 ### 14
 Wait for Yahweh. Be strong, and let your heart take courage. Yes, wait for Yahweh.
-

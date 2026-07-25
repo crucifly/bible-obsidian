@@ -3,7 +3,6 @@ book: "2 Corinthians"
 chapter: 8
 canon: "New Testament"
 ---
-
 # 2 Corinthians 8
 
 ### 1
@@ -77,4 +76,3 @@ As for Titus, he is my partner and fellow worker for you. As for our brothers, t
 
 ### 24
 Therefore show the proof of your love to them before the assemblies, and of our boasting on your behalf.
-

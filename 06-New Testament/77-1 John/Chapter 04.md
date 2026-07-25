@@ -3,7 +3,6 @@ book: "1 John"
 chapter: 4
 canon: "New Testament"
 ---
-
 # 1 John 4
 
 ### 1
@@ -68,4 +67,3 @@ If a man says, “I love God,” and hates his brother, he is a liar; for he who
 
 ### 21
 This commandment we have from him, that he who loves God should also love his brother.
-

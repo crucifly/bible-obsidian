@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 10
 canon: "Historical"
 ---
-
 # 2 Samuel 10
 
 ### 1
@@ -62,4 +61,3 @@ The Syrians fled before Israel; and David killed seven hundred charioteers of th
 
 ### 19
 When all the kings who were servants to Hadadezer saw that they were defeated before Israel, they made peace with Israel, and served them. So the Syrians were afraid to help the children of Ammon any more.
-

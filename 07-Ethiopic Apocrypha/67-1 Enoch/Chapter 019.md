@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 19
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 19
 
 ### 1
@@ -14,4 +13,3 @@ And the women also of the angels who went astray shall become sirens.’
 
 ### 3
 And I, Enoch, alone saw the vision, the ends of all things: and no man shall see as I have seen.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 34
 canon: "Poetic"
 ---
-
 # Psalms 34
 
 ### 1
@@ -71,4 +70,3 @@ Evil shall kill the wicked. Those who hate the righteous shall be condemned.
 
 ### 22
 Yahweh redeems the soul of his servants. None of those who take refuge in him shall be condemned.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 7
 canon: "Poetic"
 ---
-
 # Psalms 7
 
 ### 1
@@ -56,4 +55,3 @@ The trouble he causes shall return to his own head. His violence shall come down
 
 ### 17
 I will give thanks to Yahweh according to his righteousness, and will sing praise to the name of Yahweh Most High.
-

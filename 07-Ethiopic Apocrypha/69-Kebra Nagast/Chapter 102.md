@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 102
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 102
 
 ### 1
@@ -20,4 +19,3 @@ And those who said, “We have no Law,” unto them hath the Law been given, for
 
 ### 5
 Now hearken ye unto me. In his saying “Ye have not kept the Tôrâh according to the order of the angels,” [we have] a form and a [fore] shadowing of what is in the heavens that is to say, the heavenly and free Jerusalem, the habitation of the Most High, whereof the situation and construction are incomprehensible to mortal heart. And in it is the throne of the Most High, which is surrounded with fire, and four beasts bear it in their place, which is the sixth heaven. And a throne goeth up to the seventh heaven, the habitation of the Father, and there dwelleth He Who is with His Father and the Holy Spirit, Who vivifieth everything. And the Tabernacle of the Church is a similitude of the Jerusalem which is in the heavens, and the Church of the Gentiles is a similitude of the Jerusalem which is in the heavens.
-

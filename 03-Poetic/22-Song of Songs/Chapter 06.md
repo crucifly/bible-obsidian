@@ -3,7 +3,6 @@ book: "Song of Songs"
 chapter: 6
 canon: "Poetic"
 ---
-
 # Song of Solomon 6
 
 ### 1
@@ -44,4 +43,3 @@ Without realizing it, my desire set me with my royal people’s chariots.
 
 ### 13
 Return, return, Shulammite! Return, return, that we may gaze at you. Lover Why do you desire to gaze at the Shulammite, as at the dance of Mahanaim?
-

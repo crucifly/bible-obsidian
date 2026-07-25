@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 24
 canon: "New Testament"
 ---
-
 # Matthew 24
 
 ### 1
@@ -49,7 +48,7 @@ But he who endures to the end, the same will be saved.
 This Good News of the Kingdom will be preached in the whole world for a testimony to all the nations, and then the end will come.
 
 ### 15
-“When, therefore, you see the abomination of desolation,  which was spoken of through Daniel the prophet, standing in the holy place (let the reader understand),
+“When, therefore, you see the abomination of desolation, which was spoken of through Daniel the prophet, standing in the holy place (let the reader understand),
 
 ### 16
 then let those who are in Judea flee to the mountains.
@@ -88,7 +87,7 @@ If therefore they tell you, ‘Behold, he is in the wilderness,’ don’t go ou
 For as the lightning flashes from the east, and is seen even to the west, so will be the coming of the Son of Man.
 
 ### 28
-For wherever the carcass is, that is where the vultures  gather together.
+For wherever the carcass is, that is where the vultures gather together.
 
 ### 29
 But immediately after the oppression of those days, the sun will be darkened, the moon will not give its light, the stars will fall from the sky, and the powers of the heavens will be shaken;
@@ -158,4 +157,3 @@ the lord of that servant will come in a day when he doesn’t expect it, and in 
 
 ### 51
 and will cut him in pieces, and appoint his portion with the hypocrites. That is where the weeping and grinding of teeth will be.
-

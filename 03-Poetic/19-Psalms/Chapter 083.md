@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 83
 canon: "Poetic"
 ---
-
 # Psalms 83
 
 ### 1
@@ -59,4 +58,3 @@ Let them be disappointed and dismayed forever. Yes, let them be confounded and p
 
 ### 18
 that they may know that you alone, whose name is Yahweh, are the Most High over all the earth.
-

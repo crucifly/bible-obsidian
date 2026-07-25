@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 10
 canon: "Prophets"
 ---
-
 # Jeremiah 10
 
 ### 1
@@ -80,4 +79,3 @@ Yahweh, correct me, but gently; not in your anger, lest you reduce me to nothing
 
 ### 25
 Pour out your wrath on the nations that don’t know you, and on the families that don’t call on your name; for they have devoured Jacob. Yes, they have devoured him, consumed him, and have laid waste his habitation.
-

@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 17
 canon: "Historical"
 ---
-
 # 1 Chronicles 17
 
 ### 1
@@ -86,4 +85,3 @@ Now, Yahweh, you are God, and have promised this good thing to your servant.
 
 ### 27
 Now it has pleased you to bless the house of your servant, that it may continue forever before you; for you, Yahweh, have blessed, and it is blessed forever.”
-

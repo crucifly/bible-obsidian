@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 18
 canon: "Historical"
 ---
-
 # 2 Kings 18
 
 ### 1
@@ -116,4 +115,3 @@ But the people stayed quiet, and answered him not a word; for the king’s comma
 
 ### 37
 Then Eliakim the son of Hilkiah, who was over the household, came with Shebna the scribe, and Joah the son of Asaph the recorder, to Hezekiah with their clothes torn, and told him Rabshakeh’s words.
-

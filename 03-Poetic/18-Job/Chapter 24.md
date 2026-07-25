@@ -3,7 +3,6 @@ book: "Job"
 chapter: 24
 canon: "Poetic"
 ---
-
 # Job 24
 
 ### 1
@@ -80,4 +79,3 @@ They are exalted; yet a little while, and they are gone. Yes, they are brought l
 
 ### 25
 If it isn’t so now, who will prove me a liar, and make my speech worth nothing?”
-

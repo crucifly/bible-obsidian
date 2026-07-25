@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 19
 canon: "Deuterocanonical"
 ---
-
 # Sirach 19
 
 ### 1
@@ -95,4 +94,3 @@ A man may be known by his look, and one that hath understanding
 
 ### 30
 A man’s attire, and excessive laughter, and gait, shew what he
-

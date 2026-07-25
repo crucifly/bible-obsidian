@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 50
 canon: "Deuterocanonical"
 ---
-
 # Sirach 50
 
 ### 1
@@ -92,4 +91,3 @@ Blessed is he that shall be exercised in these things; and he
 
 ### 29
 For if he do them, he shall be strong to all things: for the
-

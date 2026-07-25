@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 3
 canon: "New Testament"
 ---
-
 # Luke 3
 
 ### 1
@@ -61,7 +60,7 @@ whose fan is in his hand, and he will thoroughly cleanse his threshing floor, an
 Then with many other exhortations he preached good news to the people,
 
 ### 19
-but Herod the tetrarch, being reproved by him for Herodias, his brother’s  wife, and for all the evil things which Herod had done,
+but Herod the tetrarch, being reproved by him for Herodias, his brother’s wife, and for all the evil things which Herod had done,
 
 ### 20
 added this also to them all, that he shut up John in prison.
@@ -119,4 +118,3 @@ the son of Methuselah, the son of Enoch, the son of Jared, the son of Mahalaleel
 
 ### 38
 the son of Enos, the son of Seth, the son of Adam, the son of God.
-

@@ -3,7 +3,6 @@ book: "John"
 chapter: 4
 canon: "New Testament"
 ---
-
 # John 4
 
 ### 1
@@ -167,4 +166,3 @@ So the father knew that it was at that hour in which Jesus said to him, “Your 
 
 ### 54
 This is again the second sign that Jesus did, having come out of Judea into Galilee.
-

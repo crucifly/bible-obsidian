@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 2
 canon: "Deuterocanonical"
 ---
-
 # Sirach 2
 
 ### 1
@@ -59,4 +58,3 @@ They that fear the Lord will prepare their hearts, and humble
 
 ### 18
 Saying, We will fall into the hands of the Lord, and not into the
-

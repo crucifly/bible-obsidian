@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 20
 canon: "Historical"
 ---
-
 # 1 Samuel 20
 
 ### 1
@@ -131,4 +130,3 @@ As soon as the boy was gone, David arose out of the south, and fell on his face 
 
 ### 42
 Jonathan said to David, “Go in peace, because we have both sworn in Yahweh’s name, saying, ‘Yahweh is between me and you, and between my offspring and your offspring, forever.’” He arose and departed; and Jonathan went into the city.
-

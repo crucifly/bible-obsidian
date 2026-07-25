@@ -3,7 +3,6 @@ book: "Ephesians"
 chapter: 4
 canon: "New Testament"
 ---
-
 # Ephesians 4
 
 ### 1
@@ -101,4 +100,3 @@ Let all bitterness, wrath, anger, outcry, and slander, be put away from you, wit
 
 ### 32
 And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 113
 canon: "Poetic"
 ---
-
 # Psalms 113
 
 ### 1
@@ -32,4 +31,3 @@ that he may set him with princes, even with the princes of his people.
 
 ### 9
 He settles the barren woman in her home, as a joyful mother of children. Praise Yah!
-

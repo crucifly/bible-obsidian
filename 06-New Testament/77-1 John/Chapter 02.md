@@ -3,7 +3,6 @@ book: "1 John"
 chapter: 2
 canon: "New Testament"
 ---
-
 # 1 John 2
 
 ### 1
@@ -92,4 +91,3 @@ Now, little children, remain in him, that when he appears, we may have boldness,
 
 ### 29
 If you know that he is righteous, you know that everyone who practices righteousness has been born of him.
-

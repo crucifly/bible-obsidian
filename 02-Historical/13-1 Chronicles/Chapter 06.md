@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 6
 canon: "Historical"
 ---
-
 # 1 Chronicles 6
 
 ### 1
@@ -248,4 +247,3 @@ and out of the tribe of Gad, Ramoth in Gilead with its suburbs, Mahanaim with it
 
 ### 81
 Heshbon with its suburbs, and Jazer with its suburbs.
-

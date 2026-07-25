@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 5
 canon: "New Testament"
 ---
-
 # Romans 5
 
 ### 1
@@ -68,4 +67,3 @@ The law came in besides, that the trespass might abound; but where sin abounded,
 
 ### 21
 that as sin reigned in death, even so grace might reign through righteousness to eternal life through Jesus Christ our Lord.
-

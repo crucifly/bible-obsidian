@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 7
 canon: "Torah"
 ---
-
 # Exodus 7
 
 ### 1
@@ -80,4 +79,3 @@ All the Egyptians dug around the river for water to drink; for they couldn’t d
 
 ### 25
 Seven days were fulfilled, after Yahweh had struck the river.
-

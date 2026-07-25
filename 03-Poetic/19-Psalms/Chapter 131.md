@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 131
 canon: "Poetic"
 ---
-
 # Psalms 131
 
 ### 1
@@ -14,4 +13,3 @@ Surely I have stilled and quieted my soul, like a weaned child with his mother, 
 
 ### 3
 Israel, hope in Yahweh, from this time forward and forever more.
-

@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 9
 canon: "Prophets"
 ---
-
 # Ezekiel 9
 
 ### 1
@@ -38,4 +37,3 @@ As for me also, my eye won’t spare, neither will I have pity, but I will bring
 
 ### 11
 Behold, the man clothed in linen, who had the inkhorn by his side, reported the matter, saying, “I have done as you have commanded me.”
-

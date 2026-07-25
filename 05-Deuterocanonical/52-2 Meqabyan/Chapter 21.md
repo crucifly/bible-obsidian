@@ -3,7 +3,6 @@ book: "2 Meqabyan"
 chapter: 21
 canon: "Deuterocanonical"
 ---
-
 # 2 Meqabyan 21
 
 ### 1
@@ -86,4 +85,3 @@ He loves those who ask Him with a clean heart; He hears them in their prayer and
 
 ### 28
 Those who did His Will shall be joyful with Him in His Kingdom forever; whether they preceded us or come after, they will offer praise to Him from today until eternity.
-

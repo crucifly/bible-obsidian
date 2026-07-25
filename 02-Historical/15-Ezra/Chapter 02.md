@@ -3,7 +3,6 @@ book: "Ezra"
 chapter: 2
 canon: "Historical"
 ---
-
 # Ezra 2
 
 ### 1
@@ -215,4 +214,3 @@ They gave according to their ability into the treasury of the work sixty-one tho
 
 ### 70
 So the priests, and the Levites, and some of the people, the singers, the gatekeepers, and the temple servants, lived in their cities, and all Israel in their cities.
-

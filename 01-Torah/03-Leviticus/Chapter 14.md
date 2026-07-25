@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 14
 canon: "Torah"
 ---
-
 # Leviticus 14
 
 ### 1
@@ -176,4 +175,3 @@ and for a rising, and for a scab, and for a bright spot;
 
 ### 57
 to teach when it is unclean, and when it is clean. This is the law of leprosy.
-

@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 29
 canon: "Torah"
 ---
-
 # Deuteronomy 29
 
 ### 1
@@ -92,4 +91,3 @@ Yahweh rooted them out of their land in anger, in wrath, and in great indignatio
 
 ### 29
 The secret things belong to Yahweh our God; but the things that are revealed belong to us and to our children forever, that we may do all the words of this law.
-

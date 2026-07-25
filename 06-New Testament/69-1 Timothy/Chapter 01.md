@@ -3,7 +3,6 @@ book: "1 Timothy"
 chapter: 1
 canon: "New Testament"
 ---
-
 # 1 Timothy 1
 
 ### 1
@@ -65,4 +64,3 @@ holding faith and a good conscience; which some having thrust away made a shipwr
 
 ### 20
 of whom are Hymenaeus and Alexander; whom I delivered to Satan, that they might be taught not to blaspheme.
-

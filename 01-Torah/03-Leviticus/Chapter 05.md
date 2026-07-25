@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 5
 canon: "Torah"
 ---
-
 # Leviticus 5
 
 ### 1
@@ -62,4 +61,3 @@ He shall bring a ram without defect from of the flock, according to your estimat
 
 ### 19
 It is a trespass offering. He is certainly guilty before Yahweh.”
-

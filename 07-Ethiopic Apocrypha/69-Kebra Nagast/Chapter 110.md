@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 110
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 110
 
 ### 1
@@ -17,4 +16,3 @@ Thus prophesied David the Prophet and said, “For My soul shall not be left in 
 
 ### 4
 Thus Solomon his son prophesied and said, “The Sun of righteousness shall arise, and shall travel towards the right, and shall return into His place.”
-

@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 24
 canon: "Prophets"
 ---
-
 # Ezekiel 24
 
 ### 1
@@ -86,4 +85,3 @@ that in that day he who escapes will come to you, to cause you to hear it with y
 
 ### 27
 In that day your mouth will be opened to him who has escaped, and you shall speak, and be no more mute. So you will be a sign to them. Then they will know that I am Yahweh.”
-

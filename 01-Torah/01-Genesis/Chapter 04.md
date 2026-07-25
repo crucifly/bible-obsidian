@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 4
 canon: "Torah"
 ---
-
 # Genesis 4
 
 ### 1
@@ -83,4 +82,3 @@ Adam knew his wife again. She gave birth to a son, and named him Seth, saying, â
 
 ### 26
 A son was also born to Seth, and he named him Enosh. At that time men began to call on Yahwehâ€™s name.
-

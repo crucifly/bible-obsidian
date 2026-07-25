@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 3
 canon: "Historical"
 ---
-
 # 1 Samuel 3
 
 ### 1
@@ -68,4 +67,3 @@ All Israel from Dan even to Beersheba knew that Samuel was established to be a p
 
 ### 21
 Yahweh appeared again in Shiloh; for Yahweh revealed himself to Samuel in Shiloh by Yahweh’s word.
-

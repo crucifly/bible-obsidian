@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 47
 canon: "Prophets"
 ---
-
 # Jeremiah 47
 
 ### 1
@@ -26,4 +25,3 @@ Baldness has come on Gaza; Ashkelon is brought to nothing, the remnant of their 
 
 ### 7
 “How can you be quiet, since Yahweh has given you a command? Against Ashkelon, and against the seashore, there has he appointed it.”
-

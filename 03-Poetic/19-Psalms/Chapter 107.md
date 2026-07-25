@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 107
 canon: "Poetic"
 ---
-
 # Psalms 107
 
 ### 1
@@ -134,4 +133,3 @@ The upright will see it, and be glad. All the wicked will shut their mouths.
 
 ### 43
 Whoever is wise will pay attention to these things. They will consider the loving kindnesses of Yahweh.
-

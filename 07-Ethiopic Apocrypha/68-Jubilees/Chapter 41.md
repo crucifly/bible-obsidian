@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 41
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 41
 
 ### 1
@@ -95,4 +94,3 @@ The Book of Jubilees
 
 ### 30
 Owing to the famine Jacob sends his sons to Egypt for corn, 1-4. Joseph recognizes them and retains Simeon, and requires them to bring Benjamin when they returned, 5-12. Notwithstanding Jacob's reluctance his sons take Benjamin with them on their second journey and are entertained by Joseph, 13-25. (Cf. Gen. xli.54, 56; xlii.7-9, 13, 17, 20, 24-5, 29-30, 34-8; xliii.1-2, 4-5, 8-9, 11, 15, 23, 26, 29, 34; xliv. 1-2.)
-

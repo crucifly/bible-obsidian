@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 48
 canon: "Deuterocanonical"
 ---
-
 # Sirach 48
 
 ### 1
@@ -80,4 +79,3 @@ He saw by an excellent spirit what should come to pass at the
 
 ### 25
 He shewed what should come to pass for ever, and secret things or
-

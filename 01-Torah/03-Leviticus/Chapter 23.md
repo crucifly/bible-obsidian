@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 23
 canon: "Torah"
 ---
-
 # Leviticus 23
 
 ### 1
@@ -137,4 +136,3 @@ that your generations may know that I made the children of Israel to dwell in te
 
 ### 44
 Moses declared to the children of Israel the appointed feasts of Yahweh.
-

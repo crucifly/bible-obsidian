@@ -3,7 +3,6 @@ book: "1 Thessalonians"
 chapter: 5
 canon: "New Testament"
 ---
-
 # 1 Thessalonians 5
 
 ### 1
@@ -89,4 +88,3 @@ I solemnly command you by the Lord that this letter be read to all the holy brot
 
 ### 28
 The grace of our Lord Jesus Christ be with you. Amen.
-

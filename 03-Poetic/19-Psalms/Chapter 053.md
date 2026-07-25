@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 53
 canon: "Poetic"
 ---
-
 # Psalms 53
 
 ### 1
@@ -23,4 +22,3 @@ There they were in great fear, where no fear was, for God has scattered the bone
 
 ### 6
 Oh that the salvation of Israel would come out of Zion! When God brings back his people from captivity, then Jacob shall rejoice, and Israel shall be glad.
-

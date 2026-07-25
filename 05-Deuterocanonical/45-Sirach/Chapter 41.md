@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 41
 canon: "Deuterocanonical"
 ---
-
 # Sirach 41
 
 ### 1
@@ -77,4 +76,3 @@ Or of iterating and speaking again that which thou hast heard;
 
 ### 24
 So shalt thou be truly shamefaced and find favour before all men.
-

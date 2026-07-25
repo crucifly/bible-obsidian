@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 68
 canon: "Poetic"
 ---
-
 # Psalms 68
 
 ### 1
@@ -110,4 +109,3 @@ Ascribe strength to God! His excellency is over Israel, his strength is in the s
 
 ### 35
 You are awesome, God, in your sanctuaries. The God of Israel gives strength and power to his people. Praise be to God!
-

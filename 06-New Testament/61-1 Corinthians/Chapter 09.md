@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 9
 canon: "New Testament"
 ---
-
 # 1 Corinthians 9
 
 ### 1
@@ -86,4 +85,3 @@ I therefore run like that, not aimlessly. I fight like that, not beating the air
 
 ### 27
 but I beat my body and bring it into submission, lest by any means, after I have preached to others, I myself should be rejected.
-

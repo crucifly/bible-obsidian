@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 64
 canon: "Poetic"
 ---
-
 # Psalms 64
 
 ### 1
@@ -35,4 +34,3 @@ All mankind shall be afraid. They shall declare the work of God, and shall wisel
 
 ### 10
 The righteous shall be glad in Yahweh, and shall take refuge in him. All the upright in heart shall praise him!
-

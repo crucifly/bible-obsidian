@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 19
 canon: "Prophets"
 ---
-
 # Jeremiah 19
 
 ### 1
@@ -50,4 +49,3 @@ Then Jeremiah came from Topheth, where Yahweh had sent him to prophesy; and he s
 
 ### 15
 “Yahweh of Armies, the God of Israel says, ‘Behold, I will bring on this city and on all its towns all the evil that I have pronounced against it, because they have made their neck stiff, that they may not hear my words.’”
-

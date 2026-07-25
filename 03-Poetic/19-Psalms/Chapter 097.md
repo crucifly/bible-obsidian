@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 97
 canon: "Poetic"
 ---
-
 # Psalms 97
 
 ### 1
@@ -41,4 +40,3 @@ Light is sown for the righteous, and gladness for the upright in heart.
 
 ### 12
 Be glad in Yahweh, you righteous people! Give thanks to his holy Name.
-

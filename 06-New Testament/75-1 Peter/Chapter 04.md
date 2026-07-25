@@ -3,7 +3,6 @@ book: "1 Peter"
 chapter: 4
 canon: "New Testament"
 ---
-
 # 1 Peter 4
 
 ### 1
@@ -62,4 +61,3 @@ For the time has come for judgment to begin with the household of God. If it beg
 
 ### 19
 Therefore let them also who suffer according to the will of God in doing good entrust their souls to him, as to a faithful Creator.
-

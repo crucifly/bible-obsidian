@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 8
 canon: "Historical"
 ---
-
 # 1 Kings 8
 
 ### 1
@@ -203,4 +202,3 @@ So Solomon held the feast at that time, and all Israel with him, a great assembl
 
 ### 66
 On the eighth day he sent the people away; and they blessed the king, and went to their tents joyful and glad in their hearts for all the goodness that Yahweh had shown to David his servant, and to Israel his people.
-

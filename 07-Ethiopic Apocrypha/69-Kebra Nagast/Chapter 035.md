@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 35
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 35
 
 ### 1
@@ -20,4 +19,3 @@ And Joas (read Benaiah), the commander of the army of King Solomon, answered [sa
 
 ### 5
 And the son of the Queen rose up, and arrayed Joas (Benaiah), the son of Yôdâḥê, and the fifty men who were in his retinue, in gorgeous raiment, and they rose up to go to Jerusalem to Solomon the King. And when they came nigh unto the place where the horses were exercised and trained, Joas (Benaiah), the son of Yôdâḥê, went on in front, and came to the place where Solomon was, and he told him that [the son of the Queen] was well-favoured in his appearance, and that his voice was pleasant, and that he resembled him in form, and that his whole bearing was exceedingly noble. And the King said unto him, “Where is he? Did I not send thee forth to bring him as quickly as possible?” And Joas (Benaiah) said unto him, “He is here, I will bring him quickly.” And Joas (Benaiah) went and said unto the young man, “Rise up, O my master, and come”; and making Bayna Leḥkem to go quickly he brought him to the King’s Gate. And when all the soldiers saw him they made obeisance unto him, and they said, “Behold, King Solomon hath gone forth from his abode.” And when the men who were inside came forth, they marvelled, and they went back to their places, and again they saw the King upon his throne; and wondering they went forth again and looked at the young man, and they were incapable of speaking and of saying anything. And when Joas (Benaiah), the son of Yôdâḥê, came in again to announce to the King the arrival of the young man, there was none standing before the King, but all Israel had thronged outside to see him.
-

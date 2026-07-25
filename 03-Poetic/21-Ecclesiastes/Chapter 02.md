@@ -3,7 +3,6 @@ book: "Ecclesiastes"
 chapter: 2
 canon: "Poetic"
 ---
-
 # Ecclesiastes 2
 
 ### 1
@@ -83,4 +82,3 @@ For who can eat, or who can have enjoyment, more than I?
 
 ### 26
 For to the man who pleases him, God gives wisdom, knowledge, and joy; but to the sinner he gives travail, to gather and to heap up, that he may give to him who pleases God. This also is vanity and a chasing after wind.
-

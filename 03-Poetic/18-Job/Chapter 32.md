@@ -3,7 +3,6 @@ book: "Job"
 chapter: 32
 canon: "Poetic"
 ---
-
 # Job 32
 
 ### 1
@@ -71,4 +70,3 @@ Please don’t let me respect any man’s person, neither will I give flattering
 
 ### 22
 For I don’t know how to give flattering titles; or else my Maker would soon take me away.
-

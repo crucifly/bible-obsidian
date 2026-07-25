@@ -3,7 +3,6 @@ book: "Hosea"
 chapter: 11
 canon: "Prophets"
 ---
-
 # Hosea 11
 
 ### 1
@@ -41,4 +40,3 @@ They will come trembling like a bird out of Egypt, and like a dove out of the la
 
 ### 12
 Ephraim surrounds me with falsehood, and the house of Israel with deceit. Judah still strays from God, and is unfaithful to the Holy One.
-

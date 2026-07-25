@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 51
 canon: "Poetic"
 ---
-
 # Psalms 51
 
 ### 1
@@ -62,4 +61,3 @@ Do well in your good pleasure to Zion. Build the walls of Jerusalem.
 
 ### 19
 Then you will delight in the sacrifices of righteousness, in burnt offerings and in whole burnt offerings. Then they will offer bulls on your altar.
-

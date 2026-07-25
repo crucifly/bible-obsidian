@@ -3,7 +3,6 @@ book: "Colossians"
 chapter: 4
 canon: "New Testament"
 ---
-
 # Colossians 4
 
 ### 1
@@ -59,4 +58,3 @@ Tell Archippus, “Take heed to the ministry which you have received in the Lord
 
 ### 18
 The salutation of me, Paul, with my own hand: remember my bonds. Grace be with you. Amen.
-

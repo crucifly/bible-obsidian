@@ -3,7 +3,6 @@ book: "Hosea"
 chapter: 9
 canon: "Prophets"
 ---
-
 # Hosea 9
 
 ### 1
@@ -56,4 +55,3 @@ Ephraim is struck. Their root has dried up. They will bear no fruit. Even though
 
 ### 17
 My God will cast them away, because they did not listen to him; and they will be wanderers among the nations.
-

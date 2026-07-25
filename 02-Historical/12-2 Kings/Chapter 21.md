@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 21
 canon: "Historical"
 ---
-
 # 2 Kings 21
 
 ### 1
@@ -83,4 +82,3 @@ Now the rest of the acts of Amon which he did, aren’t they written in the book
 
 ### 26
 He was buried in his tomb in the garden of Uzza, and Josiah his son reigned in his place.
-

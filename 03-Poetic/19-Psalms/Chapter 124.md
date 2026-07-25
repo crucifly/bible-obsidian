@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 124
 canon: "Poetic"
 ---
-
 # Psalms 124
 
 ### 1
@@ -29,4 +28,3 @@ Our soul has escaped like a bird out of the fowler’s snare. The snare is broke
 
 ### 8
 Our help is in Yahweh’s name, who made heaven and earth.
-

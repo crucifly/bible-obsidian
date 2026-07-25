@@ -3,7 +3,6 @@ book: "Ephesians"
 chapter: 3
 canon: "New Testament"
 ---
-
 # Ephesians 3
 
 ### 1
@@ -68,4 +67,3 @@ Now to him who is able to do exceedingly abundantly above all that we ask or thi
 
 ### 21
 to him be the glory in the assembly and in Christ Jesus to all generations forever and ever. Amen.
-

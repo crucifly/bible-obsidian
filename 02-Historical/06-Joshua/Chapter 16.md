@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 16
 canon: "Historical"
 ---
-
 # Joshua 16
 
 ### 1
@@ -35,4 +34,3 @@ together with the cities which were set apart for the children of Ephraim in the
 
 ### 10
 They didn’t drive out the Canaanites who lived in Gezer; but the Canaanites dwell in the territory of Ephraim to this day, and have become servants to do forced labor.
-

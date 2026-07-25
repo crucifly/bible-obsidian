@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 2
 canon: "New Testament"
 ---
-
 # 1 Corinthians 2
 
 ### 1
@@ -52,5 +51,4 @@ Now the natural man doesn’t receive the things of God’s Spirit, for they are
 But he who is spiritual discerns all things, and he himself is judged by no one.
 
 ### 16
-“For who has known the mind of the Lord, that he should instruct him?”  But we have Christ’s mind.
-
+“For who has known the mind of the Lord, that he should instruct him?” But we have Christ’s mind.

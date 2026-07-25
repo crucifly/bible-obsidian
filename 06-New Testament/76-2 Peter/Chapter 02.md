@@ -3,7 +3,6 @@ book: "2 Peter"
 chapter: 2
 canon: "New Testament"
 ---
-
 # 2 Peter 2
 
 ### 1
@@ -71,4 +70,3 @@ For it would be better for them not to have known the way of righteousness, than
 
 ### 22
 But it has happened to them according to the true proverb, “The dog turns to his own vomit again,” and “the sow that has washed to wallowing in the mire.”
-

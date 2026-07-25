@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 30
 canon: "Prophets"
 ---
-
 # Jeremiah 30
 
 ### 1
@@ -77,4 +76,3 @@ Behold, Yahweh’s storm, his wrath, has gone out, a sweeping storm: it will bur
 
 ### 24
 The fierce anger of Yahweh will not return until he has accomplished, and until he has performed the intentions of his heart. In the latter days you will understand it.”
-

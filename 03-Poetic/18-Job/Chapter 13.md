@@ -3,7 +3,6 @@ book: "Job"
 chapter: 13
 canon: "Poetic"
 ---
-
 # Job 13
 
 ### 1
@@ -89,4 +88,3 @@ You also put my feet in the stocks, and mark all my paths. You set a bound to th
 
 ### 28
 though I am decaying like a rotten thing, like a garment that is moth-eaten.
-

@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 8
 canon: "Torah"
 ---
-
 # Exodus 8
 
 ### 1
@@ -101,4 +100,3 @@ Yahweh did according to the word of Moses, and he removed the swarms of flies fr
 
 ### 32
 Pharaoh hardened his heart this time also, and he didn’t let the people go.
-

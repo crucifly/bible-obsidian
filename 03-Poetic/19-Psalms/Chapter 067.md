@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 67
 canon: "Poetic"
 ---
-
 # Psalms 67
 
 ### 1
@@ -26,4 +25,3 @@ The earth has yielded its increase. God, even our own God, will bless us.
 
 ### 7
 God will bless us. All the ends of the earth shall fear him.
-

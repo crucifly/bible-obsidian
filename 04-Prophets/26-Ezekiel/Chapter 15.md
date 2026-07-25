@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 15
 canon: "Prophets"
 ---
-
 # Ezekiel 15
 
 ### 1
@@ -29,4 +28,3 @@ I will set my face against them. They will go out from the fire, but the fire wi
 
 ### 8
 I will make the land desolate, because they have committed a trespass,” says the Lord Yahweh.
-

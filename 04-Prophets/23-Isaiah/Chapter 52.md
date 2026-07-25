@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 52
 canon: "Prophets"
 ---
-
 # Isaiah 52
 
 ### 1
@@ -50,4 +49,3 @@ Just as many were astonished at you (his appearance was marred more than any man
 
 ### 15
 so he will cleanse many nations. Kings will shut their mouths at him: for they will see that which had not been told them; and they will understand that which they had not heard.
-

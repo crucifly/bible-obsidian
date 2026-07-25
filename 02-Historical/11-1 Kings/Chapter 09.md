@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 9
 canon: "Historical"
 ---
-
 # 1 Kings 9
 
 ### 1
@@ -89,4 +88,3 @@ Hiram sent in the fleet his servants, sailors who had knowledge of the sea, with
 
 ### 28
 They came to Ophir, and fetched from there gold, four hundred and twenty talents, and brought it to king Solomon.
-

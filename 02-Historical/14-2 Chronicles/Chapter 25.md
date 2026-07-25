@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 25
 canon: "Historical"
 ---
-
 # 2 Chronicles 25
 
 ### 1
@@ -89,4 +88,3 @@ Now from the time that Amaziah turned away from following Yahweh, they made a co
 
 ### 28
 They brought him on horses, and buried him with his fathers in the City of Judah.
-

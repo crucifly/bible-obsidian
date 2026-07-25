@@ -3,7 +3,6 @@ book: "Job"
 chapter: 21
 canon: "Poetic"
 ---
-
 # Job 21
 
 ### 1
@@ -107,4 +106,3 @@ The clods of the valley shall be sweet to him. All men shall draw after him, as 
 
 ### 34
 So how can you comfort me with nonsense, because in your answers there remains only falsehood?”
-

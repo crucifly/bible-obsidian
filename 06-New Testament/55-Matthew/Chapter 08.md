@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 8
 canon: "New Testament"
 ---
-
 # Matthew 8
 
 ### 1
@@ -82,13 +81,13 @@ Behold, a violent storm came up on the sea, so much that the boat was covered wi
 They came to him, and woke him up, saying, “Save us, Lord! We are dying!”
 
 ### 26
-He said to them, “Why are you fearful, O you of little faith?”  Then he got up, rebuked the wind and the sea, and there was a great calm.
+He said to them, “Why are you fearful, O you of little faith?” Then he got up, rebuked the wind and the sea, and there was a great calm.
 
 ### 27
 The men marveled, saying, “What kind of man is this, that even the wind and the sea obey him?”
 
 ### 28
-When he came to the other side, into the country of the Gergesenes,  two people possessed by demons met him there, coming out of the tombs, exceedingly fierce, so that nobody could pass that way.
+When he came to the other side, into the country of the Gergesenes, two people possessed by demons met him there, coming out of the tombs, exceedingly fierce, so that nobody could pass that way.
 
 ### 29
 Behold, they cried out, saying, “What do we have to do with you, Jesus, Son of God? Have you come here to torment us before the time?”
@@ -107,4 +106,3 @@ Those who fed them fled, and went away into the city, and told everything, inclu
 
 ### 34
 Behold, all the city came out to meet Jesus. When they saw him, they begged that he would depart from their borders.
-

@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 30
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 30
 
 ### 1
@@ -20,4 +19,3 @@ https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-
 
 ### 5
 And when Solomon the King saw this vision in his sleep, his soul became disturbed, and his understanding was snatched away as by [a flash of] lightning, and he woke up with an agitated mind. And moreover, Solomon marvelled concerning the Queen, for she was vigorous in strength, and beautiful of form, and she was undefiled in her virginity; and she had reigned for six years in her own country, and, notwithstanding her gracious attraction and her splendid form, had preserved her body pure. And the Queen said unto Solomon, “Dismiss me, and let me depart to my own country.” And he went into his house and gave unto her whatsoever she wished for of splendid things and riches, and beautiful apparel which bewitched the eyes, and everything on which great store was set in the country of Ethiopia, and camels and wagons, six thousand in number, which were laden with beautiful things of the most desirable kind, and wagons wherein loads were carried over the desert, and a vessel wherein one could travel over the sea, and a vessel wherein one could traverse the air (or winds), which Solomon had made by the wisdom that God had given unto him.
-

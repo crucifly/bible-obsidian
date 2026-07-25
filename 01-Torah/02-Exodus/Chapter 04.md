@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 4
 canon: "Torah"
 ---
-
 # Exodus 4
 
 ### 1
@@ -98,4 +97,3 @@ Aaron spoke all the words which Yahweh had spoken to Moses, and did the signs in
 
 ### 31
 The people believed, and when they heard that Yahweh had visited the children of Israel, and that he had seen their affliction, then they bowed their heads and worshiped.
-

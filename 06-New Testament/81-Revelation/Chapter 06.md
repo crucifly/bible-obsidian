@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 6
 canon: "New Testament"
 ---
-
 # Revelation 6
 
 ### 1
@@ -22,13 +21,13 @@ Another came out, a red horse. To him who sat on it was given power to take peac
 When he opened the third seal, I heard the third living creature saying, “Come and see!” And behold, a black horse, and he who sat on it had a balance in his hand.
 
 ### 6
-I heard a voice in the middle of the four living creatures saying, “A choenix  of wheat for a denarius, and three choenix of barley for a denarius! Don’t damage the oil and the wine!”
+I heard a voice in the middle of the four living creatures saying, “A choenix of wheat for a denarius, and three choenix of barley for a denarius! Don’t damage the oil and the wine!”
 
 ### 7
 When he opened the fourth seal, I heard the fourth living creature saying, “Come and see!”
 
 ### 8
-And behold, a pale horse, and he who sat on it, his name was Death. Hades  followed with him. Authority over one fourth of the earth, to kill with the sword, with famine, with death, and by the wild animals of the earth was given to him.
+And behold, a pale horse, and he who sat on it, his name was Death. Hades followed with him. Authority over one fourth of the earth, to kill with the sword, with famine, with death, and by the wild animals of the earth was given to him.
 
 ### 9
 When he opened the fifth seal, I saw underneath the altar the souls of those who had been killed for the Word of God, and for the testimony of the Lamb which they had.
@@ -37,7 +36,7 @@ When he opened the fifth seal, I saw underneath the altar the souls of those who
 They cried with a loud voice, saying, “How long, Master, the holy and true, until you judge and avenge our blood on those who dwell on the earth?”
 
 ### 11
-A long white robe was given to each of them. They were told that they should rest yet for a while, until their fellow servants and their brothers,  who would also be killed even as they were, should complete their course.
+A long white robe was given to each of them. They were told that they should rest yet for a while, until their fellow servants and their brothers, who would also be killed even as they were, should complete their course.
 
 ### 12
 I saw when he opened the sixth seal, and there was a great earthquake. The sun became black as sackcloth made of hair, and the whole moon became as blood.
@@ -56,4 +55,3 @@ They told the mountains and the rocks, “Fall on us, and hide us from the face 
 
 ### 17
 for the great day of his wrath has come; and who is able to stand?”
-

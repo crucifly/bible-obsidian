@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 46
 canon: "Prophets"
 ---
-
 # Isaiah 46
 
 ### 1
@@ -44,4 +43,3 @@ Listen to me, you stubborn-hearted, who are far from righteousness!
 
 ### 13
 I bring my righteousness near. It is not far off, and my salvation will not wait. I will grant salvation to Zion, my glory to Israel.
-

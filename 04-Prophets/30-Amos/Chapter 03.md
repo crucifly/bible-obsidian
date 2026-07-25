@@ -3,7 +3,6 @@ book: "Amos"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Amos 3
 
 ### 1
@@ -50,4 +49,3 @@ Yahweh says: “As the shepherd rescues out of the mouth of the lion two legs, o
 
 ### 15
 I will strike the winter house with the summer house; and the houses of ivory will perish, and the great houses will have an end,” says Yahweh.
-

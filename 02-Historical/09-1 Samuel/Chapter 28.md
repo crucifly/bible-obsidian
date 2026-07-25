@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 28
 canon: "Historical"
 ---
-
 # 1 Samuel 28
 
 ### 1
@@ -80,4 +79,3 @@ The woman had a fattened calf in the house. She hurried and killed it; and she t
 
 ### 25
 She brought it before Saul, and before his servants; and they ate. Then they rose up, and went away that night.
-

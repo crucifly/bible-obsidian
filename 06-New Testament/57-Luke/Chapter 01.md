@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 1
 canon: "New Testament"
 ---
-
 # Luke 1
 
 ### 1
@@ -245,4 +244,3 @@ to shine on those who sit in darkness and the shadow of death; to guide our feet
 
 ### 80
 The child was growing, and becoming strong in spirit, and was in the desert until the day of his public appearance to Israel.
-

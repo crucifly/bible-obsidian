@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 23
 canon: "Historical"
 ---
-
 # Joshua 23
 
 ### 1
@@ -53,4 +52,3 @@ It shall happen that as all the good things have come on you of which Yahweh you
 
 ### 16
 when you disobey the covenant of Yahweh your God, which he commanded you, and go and serve other gods, and bow down yourselves to them. Then Yahweh’s anger will be kindled against you, and you will perish quickly from off the good land which he has given to you.”
-

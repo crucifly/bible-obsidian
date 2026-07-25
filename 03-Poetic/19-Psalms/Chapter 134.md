@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 134
 canon: "Poetic"
 ---
-
 # Psalms 134
 
 ### 1
@@ -14,4 +13,3 @@ Lift up your hands in the sanctuary. Praise Yahweh!
 
 ### 3
 May Yahweh bless you from Zion; even he who made heaven and earth.
-

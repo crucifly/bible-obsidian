@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 19
 canon: "Torah"
 ---
-
 # Exodus 19
 
 ### 1
@@ -80,4 +79,3 @@ Yahweh said to him, “Go down! You shall bring Aaron up with you, but don’t l
 
 ### 25
 So Moses went down to the people, and told them.
-

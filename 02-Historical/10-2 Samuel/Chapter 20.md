@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 20
 canon: "Historical"
 ---
-
 # 2 Samuel 20
 
 ### 1
@@ -83,4 +82,3 @@ Sheva was scribe, and Zadok and Abiathar were priests,
 
 ### 26
 and Ira the Jairite was chief minister to David.
-

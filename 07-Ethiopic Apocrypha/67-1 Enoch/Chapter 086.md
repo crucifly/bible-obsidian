@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 86
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 86
 
 ### 1
@@ -23,4 +22,3 @@ And all the oxen feared them and were affrighted at them, and began to bite with
 
 ### 6
 And they began, moreover, to devour those oxen; and behold all the children of the earth began to tremble and quake before them and to flee from them.
-

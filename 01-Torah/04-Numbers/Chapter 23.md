@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 23
 canon: "Torah"
 ---
-
 # Numbers 23
 
 ### 1
@@ -95,4 +94,3 @@ Balaam said to Balak, “Build seven altars for me here, and prepare seven bulls
 
 ### 30
 Balak did as Balaam had said, and offered up a bull and a ram on every altar.
-

@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 53
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 53
 
 ### 1
@@ -17,4 +16,3 @@ And Azâryâs made a sign to Êlmeyâs, and he said unto him, “Go, beautify, a
 
 ### 4
 And King [David] rose up and skipped about like a young sheep and like a kid of the goats that hath sucked milk in abundance from his mother, even as his grandfather David rejoiced before the Tabernacle of the Lass of God. He smote the ground with his feet, and rejoiced in his heart, and uttered cries of joy with his mouth. And what shall I say of the great joy and gladness that were in the camp of the King of Ethiopia? One man told his neighbour, and they smote the ground with their feet like young bulls, and they clapped their hands together, and marvelled, and stretched out their hands to heaven, and they cast themselves down with their faces to the ground, and they gave thanks unto God in their hearts.
-

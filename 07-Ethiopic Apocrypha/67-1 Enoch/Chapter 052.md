@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 52
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 52
 
 ### 0
@@ -26,4 +25,3 @@ And these mountains which thine eyes have seen, The mountain of iron, and the mo
 
 ### 7
 And it shall come to pass in those days that none shall be saved, Either by gold or by silver, And none be able to escape. 8 And there shall be no iron for war, Nor shall one clothe oneself with a breastplate. Bronze shall be of no service, And tin [shall be of no service and] shall not be esteemed, And lead shall not be desired. 9 And all these things shall be [denied and] destroyed from the surface of the earth, When the Elect One shall appear before the face of the Lord of Spirits.’
-

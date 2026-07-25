@@ -3,7 +3,6 @@ book: "2 Meqabyan"
 chapter: 1
 canon: "Deuterocanonical"
 ---
-
 # 2 Meqabyan 1
 
 ### 1
@@ -44,4 +43,3 @@ They returned to their own country rejoicing because they had worked evil agains
 
 ### 13
 When they returned and entered their houses, they made celebrations, songs, and clapping.
-

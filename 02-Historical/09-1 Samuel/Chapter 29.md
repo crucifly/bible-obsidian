@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 29
 canon: "Historical"
 ---
-
 # 1 Samuel 29
 
 ### 1
@@ -38,4 +37,3 @@ Therefore now rise up early in the morning with the servants of your lord who ha
 
 ### 11
 So David rose up early, he and his men, to depart in the morning, to return into the land of the Philistines, and the Philistines went up to Jezreel.
-

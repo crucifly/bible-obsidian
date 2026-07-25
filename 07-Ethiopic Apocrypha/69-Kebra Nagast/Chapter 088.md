@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 88
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 88
 
 ### 1
@@ -20,4 +19,3 @@ Then she turned towards ‘Êlmĕyâs and Azariah and all the mighty men of Isra
 
 ### 5
 And those sons of mighty men answered and said with one voice, “O our Lady, we are with you always, and we will remember the lord, the King. Behold, what is written and the performance thereof shall take place if the God of Israel shall be unto him a helper, and if he hearkeneth to the word of his mother; and we will inform him about the path of doing good works. For there is no one to be found in these days as wise as thyself, except our lord the King. Thou hast drawn us hither as thy servants with our Lady, the heavenly Zion, the Tabernacle of the Law of the Lord our God, just as a man draweth a camel that is loaded with valuable possessions with a little piece of thin, tough cord fastened over his nose. And now, reject us not and treat us not as strange people, but make us like unto thy slaves who wash thy feet, for whether we die or whether we live we are with thee; we have no longer any hope in the country of our birth, but only in thee and in our Lady, the heavenly Zion, the habitation of the glory of God.”
-

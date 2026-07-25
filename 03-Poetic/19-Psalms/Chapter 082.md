@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 82
 canon: "Poetic"
 ---
-
 # Psalms 82
 
 ### 1
@@ -29,4 +28,3 @@ Nevertheless you shall die like men, and fall like one of the rulers.”
 
 ### 8
 Arise, God, judge the earth, for you inherit all of the nations.
-

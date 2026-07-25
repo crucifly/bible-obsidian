@@ -3,7 +3,6 @@ book: "Zechariah"
 chapter: 13
 canon: "Prophets"
 ---
-
 # Zechariah 13
 
 ### 1
@@ -32,4 +31,3 @@ It shall happen that in all the land,” says Yahweh, “two parts in it will be
 
 ### 9
 I will bring the third part into the fire, and will refine them as silver is refined, and will test them like gold is tested. They will call on my name, and I will hear them. I will say, ‘It is my people;’ and they will say, ‘Yahweh is my God.’”
-

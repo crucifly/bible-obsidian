@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 37
 canon: "Prophets"
 ---
-
 # Isaiah 37
 
 ### 1
@@ -119,4 +118,3 @@ So Sennacherib king of Assyria departed, went away, returned to Nineveh, and sta
 
 ### 38
 As he was worshiping in the house of Nisroch his god, Adrammelech and Sharezer his sons struck him with the sword; and they escaped into the land of Ararat. Esar Haddon his son reigned in his place.
-

@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 13
 canon: "Prophets"
 ---
-
 # Ezekiel 13
 
 ### 1
@@ -74,4 +73,3 @@ Because with lies you have grieved the heart of the righteous, whom I have not m
 
 ### 23
 Therefore you shall no more see false visions, nor practice divination. I will deliver my people out of your hand. Then you will know that I am Yahweh.’”
-

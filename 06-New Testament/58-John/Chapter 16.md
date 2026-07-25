@@ -3,7 +3,6 @@ book: "John"
 chapter: 16
 canon: "New Testament"
 ---
-
 # John 16
 
 ### 1
@@ -104,4 +103,3 @@ Behold, the time is coming, yes, and has now come, that you will be scattered, e
 
 ### 33
 I have told you these things, that in me you may have peace. In the world you have oppression; but cheer up! I have overcome the world.”
-

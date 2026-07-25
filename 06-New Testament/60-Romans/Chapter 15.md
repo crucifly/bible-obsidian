@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 15
 canon: "New Testament"
 ---
-
 # Romans 15
 
 ### 1
@@ -104,4 +103,3 @@ that I may come to you in joy through the will of God, and together with you, fi
 
 ### 33
 Now the God of peace be with you all. Amen.
-

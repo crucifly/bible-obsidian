@@ -3,7 +3,6 @@ book: "1 Timothy"
 chapter: 4
 canon: "New Testament"
 ---
-
 # 1 Timothy 4
 
 ### 1
@@ -53,4 +52,3 @@ Be diligent in these things. Give yourself wholly to them, that your progress ma
 
 ### 16
 Pay attention to yourself, and to your teaching. Continue in these things, for in doing this you will save both yourself and those who hear you.
-

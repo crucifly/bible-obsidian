@@ -3,7 +3,6 @@ book: "Hebrews"
 chapter: 1
 canon: "New Testament"
 ---
-
 # Hebrews 1
 
 ### 1
@@ -47,4 +46,3 @@ But which of the angels has he told at any time, “Sit at my right hand, until 
 
 ### 14
 Aren’t they all serving spirits, sent out to do service for the sake of those who will inherit salvation?
-

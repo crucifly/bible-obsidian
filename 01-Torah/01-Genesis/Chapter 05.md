@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 5
 canon: "Torah"
 ---
-
 # Genesis 5
 
 ### 1
@@ -101,4 +100,3 @@ All the days of Lamech were seven hundred seventy-seven years, then he died.
 
 ### 32
 Noah was five hundred years old, then Noah became the father of Shem, Ham, and Japheth.
-

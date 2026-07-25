@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 65
 canon: "Prophets"
 ---
-
 # Isaiah 65
 
 ### 1
@@ -80,4 +79,3 @@ It will happen that, before they call, I will answer; and while they are yet spe
 
 ### 25
 The wolf and the lamb will feed together, and the lion will eat straw like the ox. Dust will be the serpent’s food. They will not hurt nor destroy in all my holy mountain,” says Yahweh.
-

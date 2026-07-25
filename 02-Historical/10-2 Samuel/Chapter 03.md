@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 3
 canon: "Historical"
 ---
-
 # 2 Samuel 3
 
 ### 1
@@ -122,4 +121,3 @@ The king said to his servants, “Don’t you know that there a prince and a gre
 
 ### 39
 I am weak today, though anointed king. These men, the sons of Zeruiah are too hard for me. May Yahweh reward the evildoer according to his wickedness.”
-

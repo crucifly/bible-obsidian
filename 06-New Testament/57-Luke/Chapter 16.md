@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 16
 canon: "New Testament"
 ---
-
 # Luke 16
 
 ### 1
@@ -98,4 +97,3 @@ for I have five brothers, that he may testify to them, so they won’t also come
 
 ### 31
 “He said to him, ‘If they don’t listen to Moses and the prophets, neither will they be persuaded if one rises from the dead.’”
-

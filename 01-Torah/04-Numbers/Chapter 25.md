@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 25
 canon: "Torah"
 ---
-
 # Numbers 25
 
 ### 1
@@ -59,4 +58,3 @@ Yahweh spoke to Moses, saying,
 
 ### 18
 for they harassed you with their wiles, wherein they have deceived you in the matter of Peor, and in the incident regarding Cozbi, the daughter of the prince of Midian, their sister, who was slain on the day of the plague in the matter of Peor.”
-

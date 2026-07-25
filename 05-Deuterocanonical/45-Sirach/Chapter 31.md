@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 31
 canon: "Deuterocanonical"
 ---
-
 # Sirach 31
 
 ### 1
@@ -98,4 +97,3 @@ Drunkenness increaseth the rage of a fool till he offend: it
 
 ### 31
 Rebuke not thy neighbour at the wine, and despise him not in his
-

@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 3
 canon: "Torah"
 ---
-
 # Leviticus 3
 
 ### 1
@@ -56,4 +55,3 @@ The priest shall burn them on the altar: it is the food of the offering made by 
 
 ### 17
 “‘It shall be a perpetual statute throughout your generations in all your dwellings, that you shall eat neither fat nor blood.’”
-

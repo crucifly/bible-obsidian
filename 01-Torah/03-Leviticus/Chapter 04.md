@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 4
 canon: "Torah"
 ---
-
 # Leviticus 4
 
 ### 1
@@ -110,4 +109,3 @@ The priest shall take some of the blood of the sin offering with his finger, and
 
 ### 35
 All its fat he shall take away, like the fat of the lamb is taken away from the sacrifice of peace offerings; and the priest shall burn them on the altar, on the offerings of Yahweh made by fire; and the priest shall make atonement for him concerning his sin that he has sinned, and he will be forgiven.
-

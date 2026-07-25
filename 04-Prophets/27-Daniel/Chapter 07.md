@@ -3,7 +3,6 @@ book: "Daniel"
 chapter: 7
 canon: "Prophets"
 ---
-
 # Daniel 7
 
 ### 1
@@ -89,4 +88,3 @@ The kingdom and the dominion, and the greatness of the kingdoms under the whole 
 
 ### 28
 “Here is the end of the matter. As for me, Daniel, my thoughts much troubled me, and my face was changed in me; but I kept the matter in my heart.”
-

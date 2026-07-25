@@ -3,7 +3,6 @@ book: "Rest of Esther"
 chapter: 13
 canon: "Deuterocanonical"
 ---
-
 # Rest of Esther 13
 
 ### 1
@@ -59,4 +58,3 @@ Hear my prayer, and be merciful unto thine inheritance: turn our
 
 ### 18
 All Israel in like manner cried most earnestly unto the Lord,
-

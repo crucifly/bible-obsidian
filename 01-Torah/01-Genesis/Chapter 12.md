@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 12
 canon: "Torah"
 ---
-
 # Genesis 12
 
 ### 1
@@ -25,7 +24,7 @@ Abram took Sarai his wife, Lot his brother’s son, all their possessions that t
 Abram passed through the land to the place of Shechem, to the oak of Moreh. At that time, Canaanites were in the land.
 
 ### 7
-Yahweh appeared to Abram and said, “I will give this land to your offspring.”  He built an altar there to Yahweh, who had appeared to him.
+Yahweh appeared to Abram and said, “I will give this land to your offspring.” He built an altar there to Yahweh, who had appeared to him.
 
 ### 8
 He left from there to go to the mountain on the east of Bethel and pitched his tent, having Bethel on the west, and Ai on the east. There he built an altar to Yahweh and called on Yahweh’s name.
@@ -65,4 +64,3 @@ Why did you say, ‘She is my sister,’ so that I took her to be my wife? Now t
 
 ### 20
 Pharaoh commanded men concerning him, and they escorted him away with his wife and all that he had.
-

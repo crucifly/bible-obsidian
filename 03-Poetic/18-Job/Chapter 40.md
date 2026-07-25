@@ -3,7 +3,6 @@ book: "Job"
 chapter: 40
 canon: "Poetic"
 ---
-
 # Job 40
 
 ### 1
@@ -77,4 +76,3 @@ Behold, if a river overflows, he doesn’t tremble. He is confident, though the 
 
 ### 24
 Shall any take him when he is on the watch, or pierce through his nose with a snare?
-

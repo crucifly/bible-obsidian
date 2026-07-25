@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 100
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 100
 
 ### 1
@@ -35,4 +34,3 @@ And now give presents to the rain that it be not withheld from descending upon y
 
 ### 13
 When the hoar-frost and snow with their chilliness, and all the snow-storms with all their plagues fall upon you, in those days ye shall not be able to stand before them.
-

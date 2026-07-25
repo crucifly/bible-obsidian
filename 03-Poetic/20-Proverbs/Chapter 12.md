@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 12
 canon: "Poetic"
 ---
-
 # Proverbs 12
 
 ### 1
@@ -89,4 +88,3 @@ The slothful man doesn’t roast his game, but the possessions of diligent men a
 
 ### 28
 In the way of righteousness is life; in its path there is no death.
-

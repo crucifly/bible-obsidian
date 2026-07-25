@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 27
 canon: "Poetic"
 ---
-
 # Proverbs 27
 
 ### 1
@@ -86,4 +85,3 @@ The lambs are for your clothing, and the goats are the price of a field.
 
 ### 27
 There will be plenty of goats’ milk for your food, for your family’s food, and for the nourishment of your servant girls.
-

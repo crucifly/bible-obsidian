@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 89
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 89
 
 ### 1
@@ -236,4 +235,3 @@ And the Lord of the sheep remained unmoved till all the sheep were dispersed ove
 
 ### 76
 And this one who wrote the book carried it up, and showed it and read it before the Lord of the sheep, and implored Him on their account, and besought Him on their account as he showed Him all the doings of the shepherds, and gave testimony before Him against all the shepherds. And he took the actual book and laid it down beside Him and departed.
-

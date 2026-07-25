@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 7
 canon: "Historical"
 ---
-
 # 1 Kings 7
 
 ### 1
@@ -158,4 +157,3 @@ the cups, the snuffers, the basins, the spoons, and the fire pans, of pure gold;
 
 ### 51
 Thus all the work that king Solomon did in Yahweh’s house was finished. Solomon brought in the things which David his father had dedicated, the silver, the gold, and the vessels, and put them in the treasuries of Yahweh’s house.
-

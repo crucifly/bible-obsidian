@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 136
 canon: "Poetic"
 ---
-
 # Psalms 136
 
 ### 1
@@ -83,4 +82,3 @@ Who gives food to every creature; for his loving kindness endures forever.
 
 ### 26
 Oh give thanks to the God of heaven; for his loving kindness endures forever.
-

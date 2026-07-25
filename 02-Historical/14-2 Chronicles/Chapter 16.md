@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 16
 canon: "Historical"
 ---
-
 # 2 Chronicles 16
 
 ### 1
@@ -47,4 +46,3 @@ Asa slept with his fathers, and died in the forty-first year of his reign.
 
 ### 14
 They buried him in his own tomb, which he had dug out for himself in David’s city, and laid him in the bed which was filled with sweet odors and various kinds of spices prepared by the perfumers’ art; and they made a very great fire for him.
-

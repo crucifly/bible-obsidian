@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 19
 canon: "Poetic"
 ---
-
 # Proverbs 19
 
 ### 1
@@ -92,4 +91,3 @@ A corrupt witness mocks justice, and the mouth of the wicked gulps down iniquity
 
 ### 29
 Penalties are prepared for scoffers, and beatings for the backs of fools.
-

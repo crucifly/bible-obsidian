@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 76
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 76
 
 ### 1
@@ -38,4 +37,3 @@ And by the Will of God these two handmaidens met each other before they had thro
 
 ### 11
 And through this it is well known that the King of Babylon is the seed of Shem. And he came and overthrew Jerusalem by the Will of God, and he carried away captive the children of Israel, and he made them to wander in the town of Babylon with the grandchildren of Manasseh. And he was so very rich that he set up a pillar of gold on the plain of Babylon sixty cubits high, and he was very arrogant, and he used to say, “I make the sun to shine in the heavens”; and he worshipped idols. And God abased him so that he might know Him, and He set his portion with the beasts of the field. And when he knew the Name of the Lord after seven years He had compassion upon him, and brought him back in repentance. And the kingdom of Babylon was his, and it belonged to those who were of his seed for ever.
-

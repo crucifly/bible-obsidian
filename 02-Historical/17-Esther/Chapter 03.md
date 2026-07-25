@@ -3,7 +3,6 @@ book: "Esther"
 chapter: 3
 canon: "Historical"
 ---
-
 # Esther 3
 
 ### 1
@@ -50,4 +49,3 @@ A copy of the letter, that the decree should be given out in every province, was
 
 ### 15
 The couriers went out in haste by the king’s commandment, and the decree was given out in the citadel of Susa. The king and Haman sat down to drink; but the city of Shushan was perplexed.
-

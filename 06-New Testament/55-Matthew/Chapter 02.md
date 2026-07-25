@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 2
 canon: "New Testament"
 ---
-
 # Matthew 2
 
 ### 1
@@ -74,4 +73,3 @@ But when he heard that Archelaus was reigning over Judea in the place of his fat
 
 ### 23
 and came and lived in a city called Nazareth; that it might be fulfilled which was spoken through the prophets: “He will be called a Nazarene.”
-

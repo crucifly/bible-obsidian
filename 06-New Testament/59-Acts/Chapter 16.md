@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 16
 canon: "New Testament"
 ---
-
 # Acts 16
 
 ### 1
@@ -125,4 +124,3 @@ and they came and begged them. When they had brought them out, they asked them t
 
 ### 40
 They went out of the prison, and entered into Lydia’s house. When they had seen the brothers, they encouraged them, and departed.
-

@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 54
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 54
 
 ### 0
@@ -35,4 +34,3 @@ And they shall destroy all who dwell on the earth and those who dwell under the 
 
 ### 10
 And when they have recognized their unrighteousness which they have wrought on the earth, then by these shall they perish.
-

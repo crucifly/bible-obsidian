@@ -3,14 +3,13 @@ book: "Hosea"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Hosea 3
 
 ### 1
 Yahweh said to me, “Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods, and love cakes of raisins.”
 
 ### 2
-So I bought her for myself for fifteen pieces of silver and a homer  and a half of barley.
+So I bought her for myself for fifteen pieces of silver and a homer and a half of barley.
 
 ### 3
 I said to her, “You shall stay with me many days. You shall not play the prostitute, and you shall not be with any other man. I will also be so toward you.”
@@ -20,4 +19,3 @@ For the children of Israel shall live many days without king, and without prince
 
 ### 5
 Afterward the children of Israel shall return, and seek Yahweh their God, and David their king, and shall come with trembling to Yahweh and to his blessings in the last days.
-

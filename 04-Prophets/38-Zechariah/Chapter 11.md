@@ -3,7 +3,6 @@ book: "Zechariah"
 chapter: 11
 canon: "Prophets"
 ---
-
 # Zechariah 11
 
 ### 1
@@ -56,4 +55,3 @@ For, behold, I will raise up a shepherd in the land, who will not visit those wh
 
 ### 17
 Woe to the worthless shepherd who leaves the flock! The sword will be on his arm, and on his right eye. His arm will be completely withered, and his right eye will be totally blinded!”
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 36
 canon: "Poetic"
 ---
-
 # Psalms 36
 
 ### 1
@@ -41,4 +40,3 @@ Don’t let the foot of pride come against me. Don’t let the hand of the wicke
 
 ### 12
 There the workers of iniquity are fallen. They are thrust down, and shall not be able to rise.
-

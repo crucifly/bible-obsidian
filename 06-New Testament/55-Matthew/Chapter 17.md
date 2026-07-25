@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 17
 canon: "New Testament"
 ---
-
 # Matthew 17
 
 ### 1
@@ -73,7 +72,7 @@ But this kind doesn’t go out except by prayer and fasting.”
 While they were staying in Galilee, Jesus said to them, “The Son of Man is about to be delivered up into the hands of men,
 
 ### 23
-and they will kill him, and the third day he will be raised up.”  They were exceedingly sorry.
+and they will kill him, and the third day he will be raised up.” They were exceedingly sorry.
 
 ### 24
 When they had come to Capernaum, those who collected the didrachma coins came to Peter, and said, “Doesn’t your teacher pay the didrachma?”
@@ -86,4 +85,3 @@ Peter said to him, “From strangers.” Jesus said to him, “Therefore the chi
 
 ### 27
 But, lest we cause them to stumble, go to the sea, cast a hook, and take up the first fish that comes up. When you have opened its mouth, you will find a stater coin. Take that, and give it to them for me and you.”
-

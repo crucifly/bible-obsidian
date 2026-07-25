@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 105
 canon: "Poetic"
 ---
-
 # Psalms 105
 
 ### 1
@@ -140,4 +139,3 @@ He gave them the lands of the nations. They took the labor of the peoples in pos
 
 ### 45
 that they might keep his statutes, and observe his laws. Praise Yah!
-

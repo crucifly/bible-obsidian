@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 5
 canon: "Historical"
 ---
-
 # 1 Samuel 5
 
 ### 1
@@ -41,4 +40,3 @@ They sent therefore and gathered together all the lords of the Philistines, and 
 
 ### 12
 The men who didn’t die were struck with the tumors; and the cry of the city went up to heaven.
-

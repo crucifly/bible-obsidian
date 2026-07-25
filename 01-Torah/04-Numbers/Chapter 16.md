@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 16
 canon: "Torah"
 ---
-
 # Numbers 16
 
 ### 1
@@ -103,7 +102,7 @@ As he finished speaking all these words, the ground that was under them split ap
 The earth opened its mouth and swallowed them up, with their households, all of Korah’s men, and all their goods.
 
 ### 33
-So they, and all that belonged to them went down alive into Sheol.  The earth closed on them, and they perished from among the assembly.
+So they, and all that belonged to them went down alive into Sheol. The earth closed on them, and they perished from among the assembly.
 
 ### 34
 All Israel that were around them fled at their cry; for they said, “Lest the earth swallow us up!”
@@ -155,4 +154,3 @@ Now those who died by the plague were fourteen thousand and seven hundred, besid
 
 ### 50
 Aaron returned to Moses to the door of the Tent of Meeting, and the plague was stopped.
-

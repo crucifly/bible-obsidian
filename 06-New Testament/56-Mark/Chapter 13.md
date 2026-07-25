@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 13
 canon: "New Testament"
 ---
-
 # Mark 13
 
 ### 1
@@ -116,4 +115,3 @@ lest coming suddenly he might find you sleeping.
 
 ### 37
 What I tell you, I tell all: Watch.”
-

@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 1
 canon: "Historical"
 ---
-
 # 1 Chronicles 1
 
 ### 1
@@ -167,4 +166,3 @@ chief Kenaz, chief Teman, chief Mibzar,
 
 ### 54
 chief Magdiel, and chief Iram. These are the chiefs of Edom.
-

@@ -3,7 +3,6 @@ book: "James"
 chapter: 3
 canon: "New Testament"
 ---
-
 # James 3
 
 ### 1
@@ -59,4 +58,3 @@ But the wisdom that is from above is first pure, then peaceful, gentle, reasonab
 
 ### 18
 Now the fruit of righteousness is sown in peace by those who make peace.
-

@@ -3,7 +3,6 @@ book: "Judith"
 chapter: 1
 canon: "Deuterocanonical"
 ---
-
 # Judith 1
 
 ### 1
@@ -53,4 +52,3 @@ He took also Arphaxad in the mountains of Ragau, and smote him
 
 ### 16
 So he returned afterward to Nineve, both he and all his company of
-

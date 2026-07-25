@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 32
 canon: "Deuterocanonical"
 ---
-
 # Sirach 32
 
 ### 1
@@ -77,4 +76,3 @@ In every good work trust thy own soul; for this is the keeping of
 
 ### 24
 He that believeth in the Lord taketh heed to the commandment; and
-

@@ -3,7 +3,6 @@ book: "2 Corinthians"
 chapter: 3
 canon: "New Testament"
 ---
-
 # 2 Corinthians 3
 
 ### 1
@@ -59,4 +58,3 @@ Now the Lord is the Spirit and where the Spirit of the Lord is, there is liberty
 
 ### 18
 But we all, with unveiled face seeing the glory of the Lord as in a mirror, are transformed into the same image from glory to glory, even as from the Lord, the Spirit.
-

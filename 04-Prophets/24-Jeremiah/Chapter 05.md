@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 5
 canon: "Prophets"
 ---
-
 # Jeremiah 5
 
 ### 1
@@ -98,4 +97,3 @@ They have grown fat. They shine; yes, they excel in deeds of wickedness. They do
 
 ### 31
 The prophets prophesy falsely, and the priests rule by their own authority; and my people love to have it so. What will you do in the end of it?
-

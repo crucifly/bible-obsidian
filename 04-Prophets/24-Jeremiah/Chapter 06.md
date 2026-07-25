@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 6
 canon: "Prophets"
 ---
-
 # Jeremiah 6
 
 ### 1
@@ -95,4 +94,3 @@ The bellows blow fiercely. The lead is consumed in the fire. In vain they go on 
 
 ### 30
 Men will call them rejected silver, because Yahweh has rejected them.”
-

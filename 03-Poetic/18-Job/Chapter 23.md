@@ -3,7 +3,6 @@ book: "Job"
 chapter: 23
 canon: "Poetic"
 ---
-
 # Job 23
 
 ### 1
@@ -56,4 +55,3 @@ For God has made my heart faint. The Almighty has terrified me.
 
 ### 17
 Because I was not cut off before the darkness, neither did he cover the thick darkness from my face.
-

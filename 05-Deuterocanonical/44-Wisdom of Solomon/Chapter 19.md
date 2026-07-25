@@ -3,7 +3,6 @@ book: "Wisdom of Solomon"
 chapter: 19
 canon: "Deuterocanonical"
 ---
-
 # Wisdom of Solomon 19
 
 ### 1
@@ -71,4 +70,3 @@ On the other side, the flames wasted not the flesh of the
 
 ### 22
 For in all things, O Lord, thou didst magnify thy people, and
-

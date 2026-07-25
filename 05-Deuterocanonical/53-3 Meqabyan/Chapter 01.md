@@ -3,7 +3,6 @@ book: "3 Meqabyan"
 chapter: 1
 canon: "Deuterocanonical"
 ---
-
 # 3 Meqabyan 1
 
 ### 1
@@ -77,4 +76,3 @@ He shall turn his lordship into humiliation; for the Devil said, "I will enter t
 
 ### 24
 "You shall receive tribulation in Gehenna until eternity; you shall have no exit from Gehenna forever—neither those whom you misled, nor you."
-

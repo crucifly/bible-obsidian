@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 23
 canon: "New Testament"
 ---
-
 # Acts 23
 
 ### 1
@@ -110,4 +109,3 @@ When the governor had read it, he asked what province he was from. When he under
 
 ### 35
 “I will hear you fully when your accusers also arrive.” He commanded that he be kept in Herod’s palace.
-

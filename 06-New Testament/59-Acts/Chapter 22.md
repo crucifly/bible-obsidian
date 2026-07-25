@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 22
 canon: "New Testament"
 ---
-
 # Acts 22
 
 ### 1
@@ -95,4 +94,3 @@ Immediately those who were about to examine him departed from him, and the comma
 
 ### 30
 But on the next day, desiring to know the truth about why he was accused by the Jews, he freed him from the bonds, and commanded the chief priests and all the council to come together, and brought Paul down and set him before them.
-

@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 2
 canon: "New Testament"
 ---
-
 # Mark 2
 
 ### 1
@@ -89,4 +88,3 @@ He said to them, “The Sabbath was made for man, not man for the Sabbath.
 
 ### 28
 Therefore the Son of Man is lord even of the Sabbath.”
-

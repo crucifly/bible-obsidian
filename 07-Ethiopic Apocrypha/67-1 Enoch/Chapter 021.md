@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 21
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 21
 
 ### 1
@@ -35,4 +34,3 @@ Then Uriel answered me, one of the holy angels who was with me, and said unto me
 
 ### 10
 And he said ⌈⌈unto me⌉⌉: ‘This place is the prison of the angels, and here they will be imprisoned for ever.’
-

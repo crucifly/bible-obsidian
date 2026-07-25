@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 14
 canon: "Poetic"
 ---
-
 # Proverbs 14
 
 ### 1
@@ -110,4 +109,3 @@ Righteousness exalts a nation, but sin is a disgrace to any people.
 
 ### 35
 The king’s favor is toward a servant who deals wisely, but his wrath is toward one who causes shame.
-

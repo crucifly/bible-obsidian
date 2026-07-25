@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 33
 canon: "Prophets"
 ---
-
 # Ezekiel 33
 
 ### 1
@@ -104,4 +103,3 @@ Behold, you are to them as a very lovely song of one who has a pleasant voice, a
 
 ### 33
 “When this comes to pass—behold, it comes—then they will know that a prophet has been among them.”
-

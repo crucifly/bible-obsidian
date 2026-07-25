@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 17
 canon: "Torah"
 ---
-
 # Exodus 17
 
 ### 1
@@ -53,4 +52,3 @@ Moses built an altar, and called its name Yahweh our Banner.
 
 ### 16
 He said, “Yah has sworn: ‘Yahweh will have war with Amalek from generation to generation.’”
-

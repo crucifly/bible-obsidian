@@ -3,7 +3,6 @@ book: "Ephesians"
 chapter: 2
 canon: "New Testament"
 ---
-
 # Ephesians 2
 
 ### 1
@@ -71,4 +70,3 @@ in whom the whole building, fitted together, grows into a holy temple in the Lor
 
 ### 22
 in whom you also are built together for a habitation of God in the Spirit.
-

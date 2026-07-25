@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Isaiah 1
 
 ### 1
@@ -98,4 +97,3 @@ For you shall be as an oak whose leaf fades, and as a garden that has no water.
 
 ### 31
 The strong will be like tinder, and his work like a spark. They will both burn together, and no one will quench them.”
-

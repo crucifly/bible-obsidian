@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 26
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 26
 
 ### 1
@@ -23,4 +22,3 @@ And all the ravines were deep ⌈⌈and narrow⌉⌉, (being formed) of hard roc
 
 ### 6
 And I marveled ⌈⌈at the rocks, and I marveled⌉⌉ at the ravine, yea, I marveled very much.
-

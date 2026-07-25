@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 16
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 16
 
 ### 1
@@ -98,4 +97,3 @@ And to this there is no limit of days; for it is ordained for ever regarding Isr
 
 ### 31
 And Abraham took branches of palm trees, and the fruit of goodly trees, and every day going round the altar with the branches seven times [a day] in the morning, he praised and gave thanks to his God for all things in joy.
-

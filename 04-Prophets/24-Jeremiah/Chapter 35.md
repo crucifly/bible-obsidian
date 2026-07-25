@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 35
 canon: "Prophets"
 ---
-
 # Jeremiah 35
 
 ### 1
@@ -62,4 +61,3 @@ Jeremiah said to the house of the Rechabites, “Yahweh of Armies, the God of Is
 
 ### 19
 therefore Yahweh of Armies, the God of Israel, says: ‘Jonadab the son of Rechab will not lack a man to stand before me forever.’”
-

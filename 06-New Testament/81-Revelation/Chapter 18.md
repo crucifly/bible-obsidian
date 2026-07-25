@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 18
 canon: "New Testament"
 ---
-
 # Revelation 18
 
 ### 1
@@ -77,4 +76,3 @@ The light of a lamp will shine no more at all in you. The voice of the bridegroo
 
 ### 24
 In her was found the blood of prophets and of saints, and of all who have been slain on the earth.”
-

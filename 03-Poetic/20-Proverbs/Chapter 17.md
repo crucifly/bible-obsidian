@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 17
 canon: "Poetic"
 ---
-
 # Proverbs 17
 
 ### 1
@@ -89,4 +88,3 @@ He who spares his words has knowledge. He who is even tempered is a man of under
 
 ### 28
 Even a fool, when he keeps silent, is counted wise. When he shuts his lips, he is thought to be discerning.
-

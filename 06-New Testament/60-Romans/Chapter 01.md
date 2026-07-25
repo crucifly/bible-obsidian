@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 1
 canon: "New Testament"
 ---
-
 # Romans 1
 
 ### 1
@@ -101,4 +100,3 @@ without understanding, covenant breakers, without natural affection, unforgiving
 
 ### 32
 who, knowing the ordinance of God, that those who practice such things are worthy of death, not only do the same, but also approve of those who practice them.
-

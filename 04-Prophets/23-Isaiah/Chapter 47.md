@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 47
 canon: "Prophets"
 ---
-
 # Isaiah 47
 
 ### 1
@@ -50,4 +49,3 @@ Behold, they are like stubble. The fire will burn them. They won’t deliver the
 
 ### 15
 The things that you labored in will be like this: those who have trafficked with you from your youth will each wander in his own way. There will be no one to save you.
-

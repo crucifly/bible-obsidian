@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 19
 canon: "New Testament"
 ---
-
 # Revelation 19
 
 ### 1
@@ -68,4 +67,3 @@ The beast was taken, and with him the false prophet who worked the signs in his 
 
 ### 21
 The rest were killed with the sword of him who sat on the horse, the sword which came out of his mouth. All the birds were filled with their flesh.
-

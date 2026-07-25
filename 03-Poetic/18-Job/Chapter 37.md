@@ -3,7 +3,6 @@ book: "Job"
 chapter: 37
 canon: "Poetic"
 ---
-
 # Job 37
 
 ### 1
@@ -77,4 +76,3 @@ We can’t reach the Almighty. He is exalted in power. In justice and great righ
 
 ### 24
 Therefore men revere him. He doesn’t regard any who are wise of heart.”
-

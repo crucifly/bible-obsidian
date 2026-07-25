@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 31
 canon: "Poetic"
 ---
-
 # Psalms 31
 
 ### 1
@@ -77,4 +76,3 @@ Oh love Yahweh, all you his saints! Yahweh preserves the faithful, and fully rec
 
 ### 24
 Be strong, and let your heart take courage, all you who hope in Yahweh.
-

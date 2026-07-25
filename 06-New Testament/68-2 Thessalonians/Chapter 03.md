@@ -3,7 +3,6 @@ book: "2 Thessalonians"
 chapter: 3
 canon: "New Testament"
 ---
-
 # 2 Thessalonians 3
 
 ### 1
@@ -59,4 +58,3 @@ The greeting of me, Paul, with my own hand, which is the sign in every letter: t
 
 ### 18
 The grace of our Lord Jesus Christ be with you all. Amen.
-

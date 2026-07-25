@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 24
 canon: "Poetic"
 ---
-
 # Psalms 24
 
 ### 1
@@ -35,4 +34,3 @@ Lift up your heads, you gates; yes, lift them up, you everlasting doors, and the
 
 ### 10
 Who is this King of glory? Yahweh of Armies is the King of glory!.
-

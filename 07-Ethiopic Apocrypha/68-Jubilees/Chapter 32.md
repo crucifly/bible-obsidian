@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 32
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 32
 
 ### 1
@@ -113,4 +112,3 @@ The Book of Jubilees
 
 ### 36
 Reuben sins with Bilhah, 1-9 (cf. Gen. xxxv.21, 22). Laws regarding incest, 10-20. Jacob's children, 22. (Cf. Gen. xxxv.23-7.)
-

@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 21
 canon: "Torah"
 ---
-
 # Deuteronomy 21
 
 ### 1
@@ -74,4 +73,3 @@ If a man has committed a sin worthy of death, and he is put to death, and you ha
 
 ### 23
 his body shall not remain all night on the tree, but you shall surely bury him the same day; for he who is hanged is accursed of God; that you don’t defile your land which Yahweh your God gives you for an inheritance.
-

@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 4
 canon: "New Testament"
 ---
-
 # Matthew 4
 
 ### 1
@@ -80,4 +79,3 @@ The report about him went out into all Syria. They brought to him all who were s
 
 ### 25
 Great multitudes from Galilee, Decapolis, Jerusalem, Judea and from beyond the Jordan followed him.
-

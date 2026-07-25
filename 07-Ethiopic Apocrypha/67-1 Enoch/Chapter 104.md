@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 104
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 104
 
 ### 1
@@ -44,4 +43,3 @@ Then, I know another mystery, that books will be given to the righteous and the 
 
 ### 13
 And to them shall the books be given, and they shall believe in them and rejoice over them, and then shall all the righteous who have learnt therefrom all the paths of uprightness be recompensed.’
-

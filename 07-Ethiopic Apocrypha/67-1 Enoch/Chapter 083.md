@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 83
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 83
 
 ### 1
@@ -38,4 +37,3 @@ After that I arose and prayed and implored and besought, and wrote down my praye
 
 ### 11
 And when I had gone forth below and seen the heaven, and the sun rising in the east, and the moon setting in the west, and a few stars, and the whole earth, and everything as †He had known† it in the beginning, then I blessed the Lord of judgement and extolled Him because He had made the sun to go forth from the windows of the east, †and he ascended and rose on the face of the heaven, and set out and kept traversing the path shown unto him.
-

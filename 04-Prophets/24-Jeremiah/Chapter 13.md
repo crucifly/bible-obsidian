@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 13
 canon: "Prophets"
 ---
-
 # Jeremiah 13
 
 ### 1
@@ -86,4 +85,3 @@ Therefore will I also uncover your skirts on your face, and your shame will appe
 
 ### 27
 I have seen your abominations, even your adulteries, and your neighing, the lewdness of your prostitution, on the hills in the field. Woe to you, Jerusalem! You will not be made clean. How long will it yet be?”
-

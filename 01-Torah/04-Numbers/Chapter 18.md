@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 18
 canon: "Torah"
 ---
-
 # Numbers 18
 
 ### 1
@@ -101,4 +100,3 @@ You may eat it anywhere, you and your households, for it is your reward in retur
 
 ### 32
 You shall bear no sin by reason of it, when you have heaved from it its best. You shall not profane the holy things of the children of Israel, that you not die.’”
-

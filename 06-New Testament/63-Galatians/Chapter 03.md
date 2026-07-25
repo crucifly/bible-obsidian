@@ -3,7 +3,6 @@ book: "Galatians"
 chapter: 3
 canon: "New Testament"
 ---
-
 # Galatians 3
 
 ### 1
@@ -92,4 +91,3 @@ There is neither Jew nor Greek, there is neither slave nor free man, there is ne
 
 ### 29
 If you are Christ’s, then you are Abraham’s offspring and heirs according to promise.
-

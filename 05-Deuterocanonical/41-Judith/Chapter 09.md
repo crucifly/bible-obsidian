@@ -3,7 +3,6 @@ book: "Judith"
 chapter: 9
 canon: "Deuterocanonical"
 ---
-
 # Judith 9
 
 ### 1
@@ -59,4 +58,3 @@ And thy counsel who hath known, except thou give wisdom, and send
 
 ### 18
 For so the ways of them which lived on the earth were reformed,
-

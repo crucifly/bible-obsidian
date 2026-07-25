@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 8
 canon: "Torah"
 ---
-
 # Deuteronomy 8
 
 ### 1
@@ -65,4 +64,3 @@ It shall be, if you shall forget Yahweh your God, and walk after other gods, and
 
 ### 20
 As the nations that Yahweh makes to perish before you, so you shall perish; because you wouldn’t listen to Yahweh your God’s voice.
-

@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 27
 canon: "Historical"
 ---
-
 # 2 Chronicles 27
 
 ### 1
@@ -32,4 +31,3 @@ He was five and twenty years old when he began to reign, and reigned sixteen yea
 
 ### 9
 Jotham slept with his fathers, and they buried him in David’s city; and Ahaz his son reigned in his place.
-

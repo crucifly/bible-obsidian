@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 23
 canon: "New Testament"
 ---
-
 # Matthew 23
 
 ### 1
@@ -19,7 +18,7 @@ All things therefore whatever they tell you to observe, observe and do, but don�
 For they bind heavy burdens that are grievous to be borne, and lay them on men’s shoulders; but they themselves will not lift a finger to help them.
 
 ### 5
-But all their works they do to be seen by men. They make their phylacteries  broad, enlarge the fringes of their garments,
+But all their works they do to be seen by men. They make their phylacteries broad, enlarge the fringes of their garments,
 
 ### 6
 and love the place of honor at feasts, the best seats in the synagogues,
@@ -122,4 +121,3 @@ Behold, your house is left to you desolate.
 
 ### 39
 For I tell you, you will not see me from now on, until you say, ‘Blessed is he who comes in the name of the Lord!’”
-

@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 34
 canon: "Prophets"
 ---
-
 # Jeremiah 34
 
 ### 1
@@ -71,4 +70,3 @@ I will even give them into the hand of their enemies, and into the hand of those
 
 ### 22
 Behold, I will command,” says Yahweh, “and cause them to return to this city. They will fight against it, take it, and burn it with fire. I will make the cities of Judah a desolation, without inhabitant.”
-

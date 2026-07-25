@@ -3,7 +3,6 @@ book: "Nehemiah"
 chapter: 6
 canon: "Historical"
 ---
-
 # Nehemiah 6
 
 ### 1
@@ -62,4 +61,3 @@ For there were many in Judah sworn to him, because he was the son-in-law of Shec
 
 ### 19
 Also they spoke of his good deeds before me, and reported my words to him. Tobiah sent letters to put me in fear.
-

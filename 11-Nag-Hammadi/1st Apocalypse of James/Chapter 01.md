@@ -3,49 +3,27 @@ book: "1st Apocalypse of James"
 chapter: 1
 canon: "Nag-Hammadi"
 ---
-
 # 1st Apocalypse of James
 
 ![First page of "Gospel of Thomas" coptic manuscript. (Photo Courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)](/images/coptic.gif "First page of \"Gospel of Thomas\" coptic manuscript. (Photo Courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)")  
-
 [![Nag Hammadi Library main page](../images/butnhl.gif)](nhl.html)
-
 [![Introduction to Gnosticism and the Nag Hammadi Library](../images/butintro.gif)](nhlintro.html)
-
 [![Alphabetic Index of the Nag Hammadi Library](../images/butalpha.gif)](nhlalpha.html)
-
 [![Codex Index of the Nag Hammadi Library](../images/butcodex.gif)](nhlcodex.html)
-
 [![Gospel of Thomas Collection](../images/butgth.gif)](nhl_thomas.htm)
-
 [![Search the Nag Hammadi Library](../images/butnhlsr.gif)](nhsearch.html)
-
 [![Return to The Gnostic Society Library page](../images/libbut.gif)](../library.html)
-
 [![Return to The Gnosis Archive main page](../images/butgnarch.gif)](../welcome.html)
-
 ###### (Above image of the Gospel of Thomas courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)
-
 ###### _Visit the [Bookstore](../bookstore1.htm) for a complete selection of translations and books about the Gnostic Gospels.  
 _
-
 [![The Gnostic Gospels, by Elaine Pagels (Click to buy the book)](../images/Bookstore/gnosticgospels.gif)](../bookstore1.htm)
-
-  
-
 [![The Nag Hammadi Library, edited by James Robinson (Click to buy the book)](../images/Bookstore/naghammadi.gif)](../bookstore1.htm)
-
-  
 ![The Gnostic Society Library](/images/GnosticSocietyLibrary.gif "The Gnostic Society Library - gnosis.org")
-
 **The Nag Hammadi Library**
-
 ### The (First) Apocalypse of James
-
 * * *
-
 **Translated by William R. Schoedel**
-
 > > >   
 > > > It is the Lord who spoke with me: "See now the completion of my redemption. I have given you a sign of these things, James, my brother. For not without reason have I called you my brother, although you are not my brother materially. And I am not ignorant concerning you; so that when I give you a sign - know and hear."
 > > > 
@@ -128,15 +106,11 @@ _
 > > > And he went at that time immediately and rebuked the twelve and cast out of them contentment concerning the way of knowledge \[...\].
 > > > 
 > > > \[...\]. And the majority of them \[...\] when they saw, the messenger took in \[...\]. The others \[...\] said, "\[...\] him from this earth. For he is not worthy of life." These, then, were afraid. They arose, saying, "We have no part in this blood, for a just man will perish through injustice" James departed so that \[...\] look \[...\] for we \[...\] him.
-
 The Apocalypse of James
-
 ##### Original translation of this text was prepared by members of the  
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School  
 The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Arts, and other Institutions  
 E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Projects.  
-  
 The translation presented here has been edited, corrected and formatted for use in the Gnostic Society Library.  
 For academic citation, please refer to published editions of this text.
-
 ###### | [Nag Hammadi Library](nhl.html) | [Gnostic Society Library](../library.html) | [Gnosis Archive](../welcome.html) |

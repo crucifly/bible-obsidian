@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 17
 canon: "Historical"
 ---
-
 # 1 Samuel 17
 
 ### 1
@@ -55,7 +54,7 @@ Now David went back and forth from Saul to feed his father’s sheep at Bethlehe
 The Philistine came near morning and evening, and presented himself forty days.
 
 ### 17
-Jesse said to David his son, “Now take for your brothers an ephah  of this parched grain, and these ten loaves, and carry them quickly to the camp to your brothers;
+Jesse said to David his son, “Now take for your brothers an ephah of this parched grain, and these ten loaves, and carry them quickly to the camp to your brothers;
 
 ### 18
 and bring these ten cheeses to the captain of their thousand, and see how your brothers are doing, and bring back news.”
@@ -179,4 +178,3 @@ As David returned from the slaughter of the Philistine, Abner took him and broug
 
 ### 58
 Saul said to him, “Whose son are you, you young man?” David answered, “I am the son of your servant Jesse the Bethlehemite.”
-

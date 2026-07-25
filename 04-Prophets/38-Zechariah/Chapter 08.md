@@ -3,7 +3,6 @@ book: "Zechariah"
 chapter: 8
 canon: "Prophets"
 ---
-
 # Zechariah 8
 
 ### 1
@@ -74,4 +73,3 @@ Yes, many peoples and strong nations will come to seek Yahweh of Armies in Jerus
 
 ### 23
 Yahweh of Armies says: “In those days, ten men will take hold, out of all the languages of the nations, they will take hold of the skirt of him who is a Jew, saying, ‘We will go with you, for we have heard that God is with you.’”
-

@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 72
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 72
 
 ### 1
@@ -32,4 +31,3 @@ And the owner of the vineyard answered and said unto him, “They have eaten the
 
 ### 9
 And ‘Adrâmî asked the owner of the sheep, saying, “Is this true?” And the owner of the sheep answered and said unto him, “My lord, they ate [only] the tendrils with leaves on them.” And ‘Adrâmî answered and said, “This man saith that they ate the grapes: is this true?” And the owner of the sheep answered and said, “No, my lord, but they ate the blossoms before they had formed into grapes.”
-

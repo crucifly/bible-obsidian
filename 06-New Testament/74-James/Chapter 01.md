@@ -3,7 +3,6 @@ book: "James"
 chapter: 1
 canon: "New Testament"
 ---
-
 # James 1
 
 ### 1
@@ -86,4 +85,3 @@ If anyone among you thinks himself to be religious while he doesn’t bridle his
 
 ### 27
 Pure religion and undefiled before our God and Father is this: to visit the fatherless and widows in their affliction, and to keep oneself unstained by the world.
-

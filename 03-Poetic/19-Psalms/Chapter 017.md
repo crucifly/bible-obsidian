@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 17
 canon: "Poetic"
 ---
-
 # Psalms 17
 
 ### 1
@@ -50,4 +49,3 @@ from men by your hand, Yahweh, from men of the world, whose portion is in this l
 
 ### 15
 As for me, I shall see your face in righteousness. I shall be satisfied, when I awake, with seeing your form.
-

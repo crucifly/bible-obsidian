@@ -3,7 +3,6 @@ book: "Job"
 chapter: 35
 canon: "Poetic"
 ---
-
 # Job 35
 
 ### 1
@@ -53,4 +52,3 @@ But now, because he has not visited in his anger, neither does he greatly regard
 
 ### 16
 Therefore Job opens his mouth with empty talk, and he multiplies words without knowledge.”
-

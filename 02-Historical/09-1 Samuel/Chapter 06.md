@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 6
 canon: "Historical"
 ---
-
 # 1 Samuel 6
 
 ### 1
@@ -68,4 +67,3 @@ The men of Beth Shemesh said, “Who is able to stand before Yahweh, this holy G
 
 ### 21
 They sent messengers to the inhabitants of Kiriath Jearim, saying, “The Philistines have brought back Yahweh’s ark. Come down, and bring it up to yourselves.”
-

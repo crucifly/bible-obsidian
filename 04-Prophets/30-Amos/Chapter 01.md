@@ -3,7 +3,6 @@ book: "Amos"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Amos 1
 
 ### 1
@@ -50,4 +49,3 @@ But I will kindle a fire in the wall of Rabbah, and it will devour its palaces, 
 
 ### 15
 and their king will go into captivity, he and his princes together,” says Yahweh.
-

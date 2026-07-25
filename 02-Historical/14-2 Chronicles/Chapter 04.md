@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 4
 canon: "Historical"
 ---
-
 # 2 Chronicles 4
 
 ### 1
@@ -71,4 +70,3 @@ and the flowers, the lamps, and the tongs of gold that was perfect gold;
 
 ### 22
 and the snuffers, the basins, the spoons, and the fire pans of pure gold. As for the entry of the house, its inner doors for the most holy place and the doors of the main hall of the temple were of gold.
-

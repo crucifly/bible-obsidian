@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 26
 canon: "Poetic"
 ---
-
 # Psalms 26
 
 ### 1
@@ -41,4 +40,3 @@ But as for me, I will walk in my integrity. Redeem me, and be merciful to me.
 
 ### 12
 My foot stands in an even place. In the congregations I will bless Yahweh.
-

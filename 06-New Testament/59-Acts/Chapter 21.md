@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 21
 canon: "New Testament"
 ---
-
 # Acts 21
 
 ### 1
@@ -125,4 +124,3 @@ But Paul said, “I am a Jew, from Tarsus in Cilicia, a citizen of no insignific
 
 ### 40
 When he had given him permission, Paul, standing on the stairs, beckoned with his hand to the people. When there was a great silence, he spoke to them in the Hebrew language, saying,
-

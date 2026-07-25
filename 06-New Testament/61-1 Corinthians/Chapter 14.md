@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 14
 canon: "New Testament"
 ---
-
 # 1 Corinthians 14
 
 ### 1
@@ -125,4 +124,3 @@ Therefore, brothers, desire earnestly to prophesy, and don’t forbid speaking w
 
 ### 40
 Let all things be done decently and in order.
-

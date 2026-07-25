@@ -3,7 +3,6 @@ book: "1 Esdras"
 chapter: 8
 canon: "Deuterocanonical"
 ---
-
 # 1 Esdras 8
 
 ### 1
@@ -293,4 +292,3 @@ Arise and put in execution: for to thee doth this matter
 
 ### 96
 So Esdras arose, and took an oath of the chief of the priests and
-

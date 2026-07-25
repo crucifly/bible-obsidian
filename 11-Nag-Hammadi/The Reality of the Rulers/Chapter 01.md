@@ -3,50 +3,28 @@ book: "The Reality of the Rulers"
 chapter: 1
 canon: "Nag-Hammadi"
 ---
-
 # The Reality of the Rulers
 
 ![First page of "Gospel of Thomas" coptic manuscript. (Photo Courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)](/images/coptic.gif "First page of \"Gospel of Thomas\" coptic manuscript. (Photo Courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)")  
-
 [![Nag Hammadi Library main page](../images/butnhl.gif)](nhl.html)
-
 [![Introduction to Gnosticism and the Nag Hammadi Library](../images/butintro.gif)](nhlintro.html)
-
 [![Alphabetic Index of the Nag Hammadi Library](../images/butalpha.gif)](nhlalpha.html)
-
 [![Codex Index of the Nag Hammadi Library](../images/butcodex.gif)](nhlcodex.html)
-
 [![Gospel of Thomas Collection](../images/butgth.gif)](nhl_thomas.htm)
-
 [![Search the Nag Hammadi Library](../images/butnhlsr.gif)](nhsearch.html)
-
 [![Return to The Gnostic Society Library page](../images/libbut.gif)](../library.html)
-
 [![Return to The Gnosis Archive main page](../images/butgnarch.gif)](../welcome.html)
-
 ###### (Above image of the Gospel of Thomas courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)
-
 ###### _Visit the [Bookstore](../bookstore1.htm) for a complete selection of translations and books about the Gnostic Gospels.  
 _
-
 [![The Gnostic Gospels, by Elaine Pagels (Click to buy the book)](../images/Bookstore/gnosticgospels.gif)](../bookstore1.htm)
-
-  
-
 [![The Nag Hammadi Library, edited by James Robinson (Click to buy the book)](../images/Bookstore/naghammadi.gif)](../bookstore1.htm)
-
-  
 ![The Gnostic Society Library](/images/GnosticSocietyLibrary.gif "The Gnostic Society Library - gnosis.org")
-
 **The Nag Hammadi Library**
-
 ### The Hypostasis of the Archons  
 _(The Reality of the Rulers)_
-
 * * *
-
 **Translated by Bentley Layton**
-
 >   
 > On account of the reality of the authorities, (inspired) by the spirit of the father of truth, the great apostle – referring to the "authorities of the darkness" – told us that "our contest is not against flesh and blood; rather, the authorities of the universe and the spirits of wickedness." I have sent this (to you) because you inquire about the reality of the authorities.
 > 
@@ -151,15 +129,11 @@ _(The Reality of the Rulers)_
 > Then the authorities will relinquish their ages, and their angels will weep over their destruction, and their demons will lament their death.
 > 
 > Then all the children of the light will be truly acquainted with the truth and their root, and the father of the entirety and the holy spirit. They will all say with a single voice, 'The father's truth is just, and the son presides over the entirety", and from everyone unto the ages of ages, "Holy – holy – holy! Amen!'"
-
 The Reality \[_Hypostasis_\] of the Rulers
-
 ##### Original translation of this text was prepared by members of the  
 Coptic Gnostic Library Project of the Institute for Antiquity and Christianity, Claremont Graduate School.  
 The Coptic Gnostic Library Project was funded by UNESCO, the National Endowment for the Humanities, and other Institutions.  
 E. J. Brill has asserted copyright on texts published by the Coptic Gnostic Library Project.  
-  
 The translation presented here has been edited, modified and formatted for use in the Gnostic Society Library.  
 For academic citation, please refer to published editions of this text.
-
 ###### | [Nag Hammadi Library](nhl.html) | [Gnostic Society Library](../library.html) | [Gnosis Archive](../welcome.html) |

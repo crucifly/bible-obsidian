@@ -3,7 +3,6 @@ book: "Ecclesiastes"
 chapter: 11
 canon: "Poetic"
 ---
-
 # Ecclesiastes 11
 
 ### 1
@@ -35,4 +34,3 @@ Rejoice, young man, in your youth, and let your heart cheer you in the days of y
 
 ### 10
 Therefore remove sorrow from your heart, and put away evil from your flesh; for youth and the dawn of life are vanity.
-

@@ -3,7 +3,6 @@ book: "Hebrews"
 chapter: 13
 canon: "New Testament"
 ---
-
 # Hebrews 13
 
 ### 1
@@ -49,7 +48,7 @@ Let us therefore go out to him outside of the camp, bearing his reproach.
 For we don’t have here an enduring city, but we seek that which is to come.
 
 ### 15
-Through him, then, let us offer up a sacrifice of praise to God  continually, that is, the fruit of lips which proclaim allegiance to his name.
+Through him, then, let us offer up a sacrifice of praise to God continually, that is, the fruit of lips which proclaim allegiance to his name.
 
 ### 16
 But don’t forget to be doing good and sharing, for with such sacrifices God is well pleased.
@@ -80,4 +79,3 @@ Greet all of your leaders and all the saints. The Italians greet you.
 
 ### 25
 Grace be with you all. Amen.
-

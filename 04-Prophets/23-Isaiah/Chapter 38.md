@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 38
 canon: "Prophets"
 ---
-
 # Isaiah 38
 
 ### 1
@@ -71,4 +70,3 @@ Now Isaiah had said, “Let them take a cake of figs, and lay it for a poultice 
 
 ### 22
 Hezekiah also had said, “What is the sign that I will go up to Yahweh’s house?”
-

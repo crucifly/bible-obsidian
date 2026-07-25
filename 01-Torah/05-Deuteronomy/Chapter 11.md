@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 11
 canon: "Torah"
 ---
-
 # Deuteronomy 11
 
 ### 1
@@ -101,4 +100,3 @@ For you are to pass over the Jordan to go in to possess the land which Yahweh yo
 
 ### 32
 You shall observe to do all the statutes and the ordinances which I set before you today.
-

@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 14
 canon: "Historical"
 ---
-
 # Joshua 14
 
 ### 1
@@ -50,4 +49,3 @@ Therefore Hebron became the inheritance of Caleb the son of Jephunneh the Kenizz
 
 ### 15
 Now the name of Hebron before was Kiriath Arba, after the greatest man among the Anakim. Then the land had rest from war.
-

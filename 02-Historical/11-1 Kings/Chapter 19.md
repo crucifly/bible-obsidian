@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 19
 canon: "Historical"
 ---
-
 # 1 Kings 19
 
 ### 1
@@ -68,4 +67,3 @@ Elisha left the oxen, and ran after Elijah, and said, “Let me please kiss my f
 
 ### 21
 He returned from following him, and took the yoke of oxen, and killed them, and boiled their meat with the instruments of the oxen, and gave to the people, and they ate. Then he arose, and went after Elijah, and served him.
-

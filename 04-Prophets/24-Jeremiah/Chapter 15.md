@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 15
 canon: "Prophets"
 ---
-
 # Jeremiah 15
 
 ### 1
@@ -68,4 +67,3 @@ I will make you to this people a fortified bronze wall. They will fight against 
 
 ### 21
 “I will deliver you out of the hand of the wicked, and I will redeem you out of the hand of the terrible.”
-

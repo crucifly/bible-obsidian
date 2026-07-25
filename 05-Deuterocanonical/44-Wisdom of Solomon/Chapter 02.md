@@ -3,7 +3,6 @@ book: "Wisdom of Solomon"
 chapter: 2
 canon: "Deuterocanonical"
 ---
-
 # Wisdom of Solomon 2
 
 ### 1
@@ -77,4 +76,3 @@ For God created man to be immortal, and made him to be an image of
 
 ### 24
 Nevertheless through envy of the devil came death into the world:
-

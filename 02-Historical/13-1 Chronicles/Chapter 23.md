@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 23
 canon: "Historical"
 ---
-
 # 1 Chronicles 23
 
 ### 1
@@ -101,4 +100,3 @@ and to offer all burnt offerings to Yahweh, on the Sabbaths, on the new moons, a
 
 ### 32
 and that they should keep the duty of the Tent of Meeting, the duty of the holy place, and the duty of the sons of Aaron their brothers, for the service of Yahweh’s house.
-

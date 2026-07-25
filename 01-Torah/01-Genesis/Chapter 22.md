@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 22
 canon: "Torah"
 ---
-
 # Genesis 22
 
 ### 1
@@ -77,4 +76,3 @@ Bethuel became the father of Rebekah. These eight Milcah bore to Nahor, Abrahamâ
 
 ### 24
 His concubine, whose name was Reumah, also bore Tebah, Gaham, Tahash, and Maacah.
-

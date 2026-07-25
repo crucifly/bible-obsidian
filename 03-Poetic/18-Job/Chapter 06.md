@@ -3,7 +3,6 @@ book: "Job"
 chapter: 6
 canon: "Poetic"
 ---
-
 # Job 6
 
 ### 1
@@ -95,4 +94,3 @@ Please return. Let there be no injustice. Yes, return again. My cause is righteo
 
 ### 30
 Is there injustice on my tongue? Can’t my taste discern mischievous things?
-

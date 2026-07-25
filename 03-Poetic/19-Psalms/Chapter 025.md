@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 25
 canon: "Poetic"
 ---
-
 # Psalms 25
 
 ### 1
@@ -71,4 +70,3 @@ Let integrity and uprightness preserve me, for I wait for you.
 
 ### 22
 Redeem Israel, God, out of all his troubles.
-

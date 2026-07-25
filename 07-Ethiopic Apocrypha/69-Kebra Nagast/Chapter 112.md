@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 112
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 112
 
 ### 1
@@ -26,4 +25,3 @@ And moreover, in order that ye may know, and understand, and be certain about th
 
 ### 7
 And again, when Jacob fell sick in Egypt he called his brethren and his children, and made them to swear that they would not leave his bones in the land of Egypt, and said, “When God maketh you to return take ye my bones with you and mingle them in the grave of my fathers.”
-

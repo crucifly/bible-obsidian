@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 11
 canon: "Torah"
 ---
-
 # Genesis 11
 
 ### 1
@@ -101,4 +100,3 @@ Terah took Abram his son, Lot the son of Haran, his son’s son, and Sarai his d
 
 ### 32
 The days of Terah were two hundred five years. Terah died in Haran.
-

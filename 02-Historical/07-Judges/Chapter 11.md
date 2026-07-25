@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 11
 canon: "Historical"
 ---
-
 # Judges 11
 
 ### 1
@@ -125,4 +124,3 @@ At the end of two months, she returned to her father, who did with her according
 
 ### 40
 that the daughters of Israel went yearly to celebrate the daughter of Jephthah the Gileadite four days in a year.
-

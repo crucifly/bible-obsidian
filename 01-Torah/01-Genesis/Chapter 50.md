@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 50
 canon: "Torah"
 ---
-
 # Genesis 50
 
 ### 1
@@ -83,4 +82,3 @@ Joseph took an oath from the children of Israel, saying, “God will surely visi
 
 ### 26
 So Joseph died, being one hundred ten years old, and they embalmed him, and he was put in a coffin in Egypt.
-

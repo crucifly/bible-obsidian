@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 34
 canon: "Torah"
 ---
-
 # Deuteronomy 34
 
 ### 1
@@ -41,4 +40,3 @@ in all the signs and the wonders, which Yahweh sent him to do in the land of Egy
 
 ### 12
 and in all the mighty hand, and in all the awesome deeds, which Moses did in the sight of all Israel.
-

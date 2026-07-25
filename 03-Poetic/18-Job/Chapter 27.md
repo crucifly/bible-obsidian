@@ -3,7 +3,6 @@ book: "Job"
 chapter: 27
 canon: "Poetic"
 ---
-
 # Job 27
 
 ### 1
@@ -74,4 +73,3 @@ For it hurls at him, and does not spare, as he flees away from his hand.
 
 ### 23
 Men shall clap their hands at him, and shall hiss him out of his place.
-

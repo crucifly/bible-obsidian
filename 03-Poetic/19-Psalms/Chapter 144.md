@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 144
 canon: "Poetic"
 ---
-
 # Psalms 144
 
 ### 1
@@ -50,4 +49,3 @@ Our oxen will pull heavy loads. There is no breaking in, and no going away, and 
 
 ### 15
 Happy are the people who are in such a situation. Happy are the people whose God is Yahweh.
-

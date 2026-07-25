@@ -3,7 +3,6 @@ book: "1 Thessalonians"
 chapter: 2
 canon: "New Testament"
 ---
-
 # 1 Thessalonians 2
 
 ### 1
@@ -65,4 +64,3 @@ For what is our hope, or joy, or crown of rejoicing? Isn’t it even you, before
 
 ### 20
 For you are our glory and our joy.
-

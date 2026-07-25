@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 1
 canon: "Historical"
 ---
-
 # 1 Samuel 1
 
 ### 1
@@ -89,4 +88,3 @@ I prayed for this child; and Yahweh has given me my petition which I asked of hi
 
 ### 28
 Therefore I have also given him to Yahweh. As long as he lives he is given to Yahweh.” He worshiped Yahweh there.
-

@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 5
 canon: "Historical"
 ---
-
 # 2 Chronicles 5
 
 ### 1
@@ -47,4 +46,3 @@ when the trumpeters and singers were as one, to make one sound to be heard in pr
 
 ### 14
 so that the priests could not stand to minister by reason of the cloud; for Yahweh’s glory filled God’s house.
-

@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 56
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 56
 
 ### 1
@@ -23,4 +22,3 @@ And in those days the angels shall return And hurl themselves to the east upon t
 
 ### 6
 And they shall go up and tread under foot the land of His elect ones, [And the land of His elect ones shall be before them a threshing-floor and a highway:] 7 But the city of my righteous shall be a hindrance to their horses. And they shall begin to fight among themselves, And their right hand shall be strong against themselves, And a man shall not know his brother, Nor a son his father or his mother, Till there be no number of the corpses through their slaughter, And their punishment be not in vain. 8 In those days Sheol shall open its jaws, And they shall be swallowed up therein And their destruction shall be at an end; Sheol shall devour the sinners in the presence of the elect.’
-

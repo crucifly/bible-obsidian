@@ -3,7 +3,6 @@ book: "Nehemiah"
 chapter: 8
 canon: "Historical"
 ---
-
 # Nehemiah 8
 
 ### 1
@@ -59,4 +58,3 @@ All the assembly of those who had come back out of the captivity made temporary 
 
 ### 18
 Also day by day, from the first day to the last day, he read in the book of the law of God. They kept the feast seven days; and on the eighth day was a solemn assembly, according to the ordinance.
-

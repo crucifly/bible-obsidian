@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 14
 canon: "Torah"
 ---
-
 # Genesis 14
 
 ### 1
@@ -77,4 +76,3 @@ that I will not take a thread nor a sandal strap nor anything that is yours, les
 
 ### 24
 I will accept nothing from you except that which the young men have eaten, and the portion of the men who went with me: Aner, Eshcol, and Mamre. Let them take their portion.”
-

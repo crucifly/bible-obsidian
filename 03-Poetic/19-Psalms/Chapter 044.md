@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 44
 canon: "Poetic"
 ---
-
 # Psalms 44
 
 ### 1
@@ -83,4 +82,3 @@ For our soul is bowed down to the dust. Our body clings to the earth.
 
 ### 26
 Rise up to help us. Redeem us for your loving kindness’ sake.
-

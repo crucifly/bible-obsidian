@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 12
 canon: "Torah"
 ---
-
 # Exodus 12
 
 ### 1
@@ -158,4 +157,3 @@ All the children of Israel did so. As Yahweh commanded Moses and Aaron, so they 
 
 ### 51
 That same day, Yahweh brought the children of Israel out of the land of Egypt by their armies.
-

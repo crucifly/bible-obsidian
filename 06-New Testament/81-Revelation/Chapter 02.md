@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 2
 canon: "New Testament"
 ---
-
 # Revelation 2
 
 ### 1
@@ -13,7 +12,7 @@ canon: "New Testament"
 “I know your works, and your toil and perseverance, and that you can’t tolerate evil men, and have tested those who call themselves apostles, and they are not, and found them false.
 
 ### 3
-You have perseverance and have endured for my name’s sake, and have  not grown weary.
+You have perseverance and have endured for my name’s sake, and have not grown weary.
 
 ### 4
 But I have this against you, that you left your first love.
@@ -55,7 +54,7 @@ So you also have some who hold to the teaching of the Nicolaitans likewise.
 Repent therefore, or else I am coming to you quickly, and I will make war against them with the sword of my mouth.
 
 ### 17
-He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes, to him I will give of the hidden manna,  and I will give him a white stone, and on the stone a new name written, which no one knows but he who receives it.
+He who has an ear, let him hear what the Spirit says to the assemblies. To him who overcomes, to him I will give of the hidden manna, and I will give him a white stone, and on the stone a new name written, which no one knows but he who receives it.
 
 ### 18
 “To the angel of the assembly in Thyatira write: “The Son of God, who has his eyes like a flame of fire, and his feet are like burnished brass, says these things:
@@ -92,4 +91,3 @@ and I will give him the morning star.
 
 ### 29
 He who has an ear, let him hear what the Spirit says to the assemblies.
-

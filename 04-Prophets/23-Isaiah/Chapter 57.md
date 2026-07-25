@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 57
 canon: "Prophets"
 ---
-
 # Isaiah 57
 
 ### 1
@@ -68,4 +67,3 @@ But the wicked are like the troubled sea; for it can’t rest, and its waters ca
 
 ### 21
 “There is no peace”, says my God, “for the wicked.”
-

@@ -3,7 +3,6 @@ book: "Wisdom of Solomon"
 chapter: 12
 canon: "Deuterocanonical"
 ---
-
 # Wisdom of Solomon 12
 
 ### 1
@@ -86,4 +85,3 @@ But they that would not be reformed by that correction, wherein
 
 ### 27
 For, look, for what things they grudged, when they were punished,
-

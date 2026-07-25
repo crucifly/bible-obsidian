@@ -3,7 +3,6 @@ book: "1 John"
 chapter: 1
 canon: "New Testament"
 ---
-
 # 1 John 1
 
 ### 1
@@ -35,4 +34,3 @@ If we confess our sins, he is faithful and righteous to forgive us the sins, and
 
 ### 10
 If we say that we haven’t sinned, we make him a liar, and his word is not in us.
-

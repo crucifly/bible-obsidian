@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 34
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 34
 
 ### 1
@@ -14,4 +13,3 @@ And here I saw three portals of heaven open in the heaven: through each of them 
 
 ### 3
 And out of one portal they blow for good: but when they blow through the other two portals, it is with violence and affliction on the earth, and they blow with violence.
-

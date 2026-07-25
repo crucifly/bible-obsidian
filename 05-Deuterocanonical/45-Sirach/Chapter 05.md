@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 5
 canon: "Deuterocanonical"
 ---
-
 # Sirach 5
 
 ### 1
@@ -50,4 +49,3 @@ Be not called a whisperer, and lie not in wait with thy tongue:
 
 ### 15
 Be not ignorant of any thing in a great matter or a small.
-

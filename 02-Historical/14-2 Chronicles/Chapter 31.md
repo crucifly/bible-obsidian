@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 31
 canon: "Historical"
 ---
-
 # 2 Chronicles 31
 
 ### 1
@@ -68,4 +67,3 @@ Hezekiah did so throughout all Judah; and he did that which was good, right, and
 
 ### 21
 In every work that he began in the service of God’s house, in the law, and in the commandments, to seek his God, he did it with all his heart, and prospered.
-

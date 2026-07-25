@@ -3,7 +3,6 @@ book: "Song of Songs"
 chapter: 1
 canon: "Poetic"
 ---
-
 # Song of Solomon 1
 
 ### 1
@@ -56,4 +55,3 @@ Behold, you are beautiful, my beloved, yes, pleasant; and our couch is verdant.
 
 ### 17
 The beams of our house are cedars. Our rafters are firs.
-

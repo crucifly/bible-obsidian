@@ -3,7 +3,6 @@ book: "Job"
 chapter: 18
 canon: "Poetic"
 ---
-
 # Job 18
 
 ### 1
@@ -68,4 +67,3 @@ Those who come after shall be astonished at his day, as those who went before we
 
 ### 21
 Surely such are the dwellings of the unrighteous. This is the place of him who doesn’t know God.”
-

@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 31
 canon: "Poetic"
 ---
-
 # Proverbs 31
 
 ### 1
@@ -98,4 +97,3 @@ Charm is deceitful, and beauty is vain; but a woman who fears Yahweh, she shall 
 
 ### 31
 Give her of the fruit of her hands! Let her works praise her in the gates!
-

@@ -3,7 +3,6 @@ book: "Judith"
 chapter: 4
 canon: "Deuterocanonical"
 ---
-
 # Judith 4
 
 ### 1
@@ -65,4 +64,3 @@ For he shall rend them, and cast them down headlong, that they
 
 ### 20
 And when they cast up the accounts of their sins, they shall come
-

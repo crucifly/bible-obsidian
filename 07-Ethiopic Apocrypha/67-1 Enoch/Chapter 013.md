@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 13
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 13
 
 ### 1
@@ -35,4 +34,3 @@ And when I awaked, I came unto them, and they were all sitting gathered together
 
 ### 10
 And I recounted before them all the visions which I had seen in sleep, and I began to speak the words of righteousness, and to reprimand the heavenly Watchers.
-

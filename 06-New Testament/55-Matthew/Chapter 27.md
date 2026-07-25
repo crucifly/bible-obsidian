@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 27
 canon: "New Testament"
 ---
-
 # Matthew 27
 
 ### 1
@@ -142,7 +141,7 @@ The robbers also who were crucified with him cast on him the same reproach.
 Now from the sixth hour there was darkness over all the land until the ninth hour.
 
 ### 46
-About the ninth hour Jesus cried with a loud voice, saying, “Eli, Eli, lima sabachthani?”  That is, “My God, my God, why have you forsaken me?”
+About the ninth hour Jesus cried with a loud voice, saying, “Eli, Eli, lima sabachthani?” That is, “My God, my God, why have you forsaken me?”
 
 ### 47
 Some of them who stood there, when they heard it, said, “This man is calling Elijah.”
@@ -203,4 +202,3 @@ Pilate said to them, “You have a guard. Go, make it as secure as you can.”
 
 ### 66
 So they went with the guard and made the tomb secure, sealing the stone.
-

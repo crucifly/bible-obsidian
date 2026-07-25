@@ -3,7 +3,6 @@ book: "Job"
 chapter: 30
 canon: "Poetic"
 ---
-
 # Job 30
 
 ### 1
@@ -98,4 +97,3 @@ My skin grows black and peels from me. My bones are burned with heat.
 
 ### 31
 Therefore my harp has turned to mourning, and my pipe into the voice of those who weep.
-

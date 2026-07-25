@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 27
 canon: "Deuterocanonical"
 ---
-
 # Sirach 27
 
 ### 1
@@ -95,4 +94,3 @@ They that rejoice at the fall of the righteous shall be taken in
 
 ### 30
 Malice and wrath, even these are abominations; and the sinful man
-

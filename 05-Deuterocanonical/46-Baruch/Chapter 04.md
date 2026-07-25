@@ -3,7 +3,6 @@ book: "Baruch"
 chapter: 4
 canon: "Deuterocanonical"
 ---
-
 # Baruch 4
 
 ### 1
@@ -116,4 +115,3 @@ O Jerusalem, look about thee toward the east, and behold the joy
 
 ### 37
 Lo, thy sons come, whom thou sentest away, they come gathered
-

@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 3
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 3
 
 ### 1
@@ -110,4 +109,3 @@ And they had no son till the first jubilee, [8 A.M.] and after this he knew her.
 
 ### 35
 Now he tilled the land as he had been instructed in the Garden of Eden.
-

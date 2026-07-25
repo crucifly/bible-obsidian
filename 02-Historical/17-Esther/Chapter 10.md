@@ -3,7 +3,6 @@ book: "Esther"
 chapter: 10
 canon: "Historical"
 ---
-
 # Esther 10
 
 ### 1
@@ -14,4 +13,3 @@ All the acts of his power and of his might, and the full account of the greatnes
 
 ### 3
 For Mordecai the Jew was next to King Ahasuerus, and great among the Jews, and accepted by the multitude of his brothers, seeking the good of his people, and speaking peace to all his descendants.
-

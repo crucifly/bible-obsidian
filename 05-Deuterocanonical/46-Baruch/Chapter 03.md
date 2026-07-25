@@ -3,7 +3,6 @@ book: "Baruch"
 chapter: 3
 canon: "Deuterocanonical"
 ---
-
 # Baruch 3
 
 ### 1
@@ -116,4 +115,3 @@ He hath found out all the way of knowledge, and hath given it unto
 
 ### 37
 Afterward did he shew himself upon earth, and conversed with men.
-

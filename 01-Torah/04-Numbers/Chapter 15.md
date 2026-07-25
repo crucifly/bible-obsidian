@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 15
 canon: "Torah"
 ---
-
 # Numbers 15
 
 ### 1
@@ -118,7 +117,7 @@ All the congregation brought him outside of the camp, and stoned him to death wi
 Yahweh spoke to Moses, saying,
 
 ### 38
-“Speak to the children of Israel, and tell them that they should make themselves fringes in the borders of their garments throughout their generations, and that they put on the fringe  of each border a cord of blue:
+“Speak to the children of Israel, and tell them that they should make themselves fringes in the borders of their garments throughout their generations, and that they put on the fringe of each border a cord of blue:
 
 ### 39
 and it shall be to you for a fringe, that you may look on it, and remember all Yahweh’s commandments, and do them; and that you don’ t follow your own heart and your own eyes, after which you use to play the prostitute;
@@ -128,4 +127,3 @@ so that you may remember and do all my commandments, and be holy to your God.
 
 ### 41
 I am Yahweh your God, who brought you out of the land of Egypt, to be your God: I am Yahweh your God.”
-

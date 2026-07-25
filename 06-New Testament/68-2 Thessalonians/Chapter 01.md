@@ -3,7 +3,6 @@ book: "2 Thessalonians"
 chapter: 1
 canon: "New Testament"
 ---
-
 # 2 Thessalonians 1
 
 ### 1
@@ -41,4 +40,3 @@ To this end we also pray always for you, that our God may count you worthy of yo
 
 ### 12
 that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.
-

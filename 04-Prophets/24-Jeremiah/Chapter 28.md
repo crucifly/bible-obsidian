@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 28
 canon: "Prophets"
 ---
-
 # Jeremiah 28
 
 ### 1
@@ -56,4 +55,3 @@ Therefore Yahweh says, ‘Behold, I will send you away from off the surface of t
 
 ### 17
 So Hananiah the prophet died the same year in the seventh month.
-

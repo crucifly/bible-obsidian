@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 7
 canon: "Historical"
 ---
-
 # 1 Samuel 7
 
 ### 1
@@ -56,4 +55,3 @@ He went from year to year in a circuit to Bethel, Gilgal, and Mizpah; and he jud
 
 ### 17
 His return was to Ramah, for his house was there; and he judged Israel there; and he built an altar to Yahweh there.
-

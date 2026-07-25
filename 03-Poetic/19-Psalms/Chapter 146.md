@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 146
 canon: "Poetic"
 ---
-
 # Psalms 146
 
 ### 1
@@ -35,4 +34,3 @@ Yahweh preserves the foreigners. He upholds the fatherless and widow, but the wa
 
 ### 10
 Yahweh will reign forever; your God, O Zion, to all generations. Praise Yah!
-

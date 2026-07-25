@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 6
 canon: "Historical"
 ---
-
 # 2 Kings 6
 
 ### 1
@@ -104,4 +103,3 @@ But Elisha was sitting in his house, and the elders were sitting with him. Then 
 
 ### 33
 While he was still talking with them, behold, the messenger came down to him. Then he said, “Behold, this evil is from Yahweh. Why should I wait for Yahweh any longer?”
-

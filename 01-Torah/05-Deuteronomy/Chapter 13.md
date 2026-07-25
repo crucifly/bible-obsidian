@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 13
 canon: "Torah"
 ---
-
 # Deuteronomy 13
 
 ### 1
@@ -59,4 +58,3 @@ Nothing of the devoted thing shall cling to your hand, that Yahweh may turn from
 
 ### 18
 when you listen to Yahweh your God’s voice, to keep all his commandments which I command you today, to do that which is right in Yahweh your God’s eyes.
-

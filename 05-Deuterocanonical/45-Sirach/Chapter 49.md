@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 49
 canon: "Deuterocanonical"
 ---
-
 # Sirach 49
 
 ### 1
@@ -53,4 +52,3 @@ Neither was there a young man born like Joseph, a governor of his
 
 ### 16
 Sem and Seth were in great honour among men, and so was Adam
-

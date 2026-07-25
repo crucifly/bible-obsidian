@@ -3,7 +3,6 @@ book: "Wisdom of Solomon"
 chapter: 3
 canon: "Deuterocanonical"
 ---
-
 # Wisdom of Solomon 3
 
 ### 1
@@ -62,4 +61,3 @@ Or, if they die quickly, they have no hope, neither comfort in the
 
 ### 19
 For horrible is the end of the unrighteous generation.
-

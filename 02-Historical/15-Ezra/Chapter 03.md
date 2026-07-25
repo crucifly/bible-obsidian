@@ -3,7 +3,6 @@ book: "Ezra"
 chapter: 3
 canon: "Historical"
 ---
-
 # Ezra 3
 
 ### 1
@@ -44,4 +43,3 @@ But many of the priests and Levites and heads of fathers’ households, the old 
 
 ### 13
 so that the people could not discern the noise of the shout of joy from the noise of the weeping of the people; for the people shouted with a loud shout, and the noise was heard far away.
-

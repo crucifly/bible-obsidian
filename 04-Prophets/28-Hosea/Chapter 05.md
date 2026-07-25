@@ -3,7 +3,6 @@ book: "Hosea"
 chapter: 5
 canon: "Prophets"
 ---
-
 # Hosea 5
 
 ### 1
@@ -50,4 +49,3 @@ For I will be to Ephraim like a lion, and like a young lion to the house of Juda
 
 ### 15
 I will go and return to my place, until they acknowledge their offense, and seek my face. In their affliction they will seek me earnestly.”
-

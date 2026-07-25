@@ -3,7 +3,6 @@ book: "James"
 chapter: 5
 canon: "New Testament"
 ---
-
 # James 5
 
 ### 1
@@ -65,4 +64,3 @@ Brothers, if any among you wanders from the truth and someone turns him back,
 
 ### 20
 let him know that he who turns a sinner from the error of his way will save a soul from death and will cover a multitude of sins.
-

@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 4
 canon: "New Testament"
 ---
-
 # Acts 4
 
 ### 1
@@ -116,4 +115,3 @@ Joses, who by the apostles was also called Barnabas (which is, being interpreted
 
 ### 37
 having a field, sold it, and brought the money and laid it at the apostles’ feet.
-

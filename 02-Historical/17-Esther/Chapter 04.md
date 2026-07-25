@@ -3,7 +3,6 @@ book: "Esther"
 chapter: 4
 canon: "Historical"
 ---
-
 # Esther 4
 
 ### 1
@@ -56,4 +55,3 @@ Then Esther asked them to answer Mordecai,
 
 ### 17
 So Mordecai went his way, and did according to all that Esther had commanded him.
-

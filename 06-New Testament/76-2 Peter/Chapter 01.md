@@ -3,7 +3,6 @@ book: "2 Peter"
 chapter: 1
 canon: "New Testament"
 ---
-
 # 2 Peter 1
 
 ### 1
@@ -68,4 +67,3 @@ knowing this first, that no prophecy of Scripture is of private interpretation.
 
 ### 21
 For no prophecy ever came by the will of man: but holy men of God spoke, being moved by the Holy Spirit.
-

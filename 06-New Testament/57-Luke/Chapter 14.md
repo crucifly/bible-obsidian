@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 14
 canon: "New Testament"
 ---
-
 # Luke 14
 
 ### 1
@@ -110,4 +109,3 @@ Salt is good, but if the salt becomes flat and tasteless, with what do you seaso
 
 ### 35
 It is fit neither for the soil nor for the manure pile. It is thrown out. He who has ears to hear, let him hear.”
-

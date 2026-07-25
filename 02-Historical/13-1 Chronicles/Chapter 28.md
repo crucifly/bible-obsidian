@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 28
 canon: "Historical"
 ---
-
 # 1 Chronicles 28
 
 ### 1
@@ -68,4 +67,3 @@ David said to Solomon his son, “Be strong and courageous, and do it. Don’t b
 
 ### 21
 Behold, there are the divisions of the priests and the Levites, for all the service of God’s house. Every willing man who has skill, for any kind of service, shall be with you in all kinds of work. Also the captains and all the people will be entirely at your command.”
-

@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 7
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 7
 
 ### 1
@@ -122,4 +121,3 @@ For thus did Enoch, the father of your father command Methuselah, his son, and M
 
 ### 39
 And I also will give you commandment, my sons, as Enoch commanded his son in the first jubilees: whilst still living, the seventh in his generation, he commanded and testified to his son and to his son's sons until the day of his death.'
-

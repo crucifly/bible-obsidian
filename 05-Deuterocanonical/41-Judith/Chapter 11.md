@@ -3,7 +3,6 @@ book: "Judith"
 chapter: 11
 canon: "Deuterocanonical"
 ---
-
 # Judith 11
 
 ### 1
@@ -83,4 +82,3 @@ And how could any thing have endured, if it had not been thy
 
 ### 26
 But thou sparest all: for they are thine, O Lord, thou lover of
-

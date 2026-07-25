@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 13
 canon: "Poetic"
 ---
-
 # Proverbs 13
 
 ### 1
@@ -80,4 +79,3 @@ One who spares the rod hates his son, but one who loves him is careful to discip
 
 ### 25
 The righteous one eats to the satisfying of his soul, but the belly of the wicked goes hungry.
-

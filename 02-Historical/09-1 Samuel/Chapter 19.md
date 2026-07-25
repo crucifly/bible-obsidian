@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 19
 canon: "Historical"
 ---
-
 # 1 Samuel 19
 
 ### 1
@@ -77,4 +76,3 @@ He went there to Naioth in Ramah. Then God’s Spirit came on him also, and he w
 
 ### 24
 He also stripped off his clothes, and he also prophesied before Samuel, and lay down naked all that day and all that night. Therefore they say, “Is Saul also among the prophets?”
-

@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 14
 canon: "Deuterocanonical"
 ---
-
 # Sirach 14
 
 ### 1
@@ -86,4 +85,3 @@ He shall set his children under her shelter, and shall lodge
 
 ### 27
 By her he shall be covered from heat, and in her glory shall he
-

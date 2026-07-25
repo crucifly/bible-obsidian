@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 39
 canon: "Torah"
 ---
-
 # Genesis 39
 
 ### 1
@@ -74,4 +73,3 @@ The keeper of the prison committed to Joseph’s hand all the prisoners who were
 
 ### 23
 The keeper of the prison didn’t look after anything that was under his hand, because Yahweh was with him; and that which he did, Yahweh made it prosper.
-

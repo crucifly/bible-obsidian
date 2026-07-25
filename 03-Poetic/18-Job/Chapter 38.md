@@ -3,7 +3,6 @@ book: "Job"
 chapter: 38
 canon: "Poetic"
 ---
-
 # Job 38
 
 ### 1
@@ -128,4 +127,3 @@ when they crouch in their dens, and lie in wait in the thicket?
 
 ### 41
 Who provides for the raven his prey, when his young ones cry to God, and wander for lack of food?
-

@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 36
 canon: "Torah"
 ---
-
 # Numbers 36
 
 ### 1
@@ -44,4 +43,3 @@ They were married into the families of the sons of Manasseh the son of Joseph. T
 
 ### 13
 These are the commandments and the ordinances which Yahweh commanded by Moses to the children of Israel in the plains of Moab by the Jordan at Jericho.
-

@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 27
 canon: "Torah"
 ---
-
 # Deuteronomy 27
 
 ### 1
@@ -83,4 +82,3 @@ With a loud voice, the Levites shall say to all the men of Israel,
 
 ### 26
 ‘Cursed is he who doesn’t uphold the words of this law by doing them.’ All the people shall say, ‘Amen.’”
-

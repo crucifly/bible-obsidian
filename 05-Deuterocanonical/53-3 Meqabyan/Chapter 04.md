@@ -3,7 +3,6 @@ book: "3 Meqabyan"
 chapter: 4
 canon: "Deuterocanonical"
 ---
-
 # 3 Meqabyan 4
 
 ### 1
@@ -86,4 +85,3 @@ At that time you will see that you arise with the dead, and you will marvel at a
 
 ### 27
 You know that you will arise with the dead and that you will receive your hardship according to the work you performed.
-

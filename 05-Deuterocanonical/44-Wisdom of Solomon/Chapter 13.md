@@ -3,7 +3,6 @@ book: "Wisdom of Solomon"
 chapter: 13
 canon: "Deuterocanonical"
 ---
-
 # Wisdom of Solomon 13
 
 ### 1
@@ -62,4 +61,3 @@ For health he calleth upon that which is weak: for life prayeth
 
 ### 19
 And for gaining and getting, and for good success of his hands,
-

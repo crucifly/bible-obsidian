@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 19
 canon: "Torah"
 ---
-
 # Deuteronomy 19
 
 ### 1
@@ -68,4 +67,3 @@ Those who remain shall hear, and fear, and will never again commit any such evil
 
 ### 21
 Your eyes shall not pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.
-

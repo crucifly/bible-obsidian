@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 23
 canon: "Poetic"
 ---
-
 # Psalms 23
 
 ### 1
@@ -23,4 +22,3 @@ You prepare a table before me in the presence of my enemies. You anoint my head 
 
 ### 6
 Surely goodness and loving kindness shall follow me all the days of my life, and I will dwell in Yahweh’s house forever.
-

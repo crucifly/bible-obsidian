@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 3
 canon: "Torah"
 ---
-
 # Deuteronomy 3
 
 ### 1
@@ -92,4 +91,3 @@ But commission Joshua, and encourage him, and strengthen him; for he shall go ov
 
 ### 29
 So we stayed in the valley near Beth Peor.
-

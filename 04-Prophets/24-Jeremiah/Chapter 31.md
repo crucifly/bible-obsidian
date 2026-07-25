@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 31
 canon: "Prophets"
 ---
-
 # Jeremiah 31
 
 ### 1
@@ -125,4 +124,3 @@ The measuring line will go out further straight onward to the hill Gareb, and wi
 
 ### 40
 The whole valley of the dead bodies and of the ashes, and all the fields to the brook Kidron, to the corner of the horse gate toward the east, will be holy to Yahweh. It will not be plucked up or thrown down any more forever.”
-

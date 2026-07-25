@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 32
 canon: "Historical"
 ---
-
 # 2 Chronicles 32
 
 ### 1
@@ -104,4 +103,3 @@ Now the rest of the acts of Hezekiah, and his good deeds, behold, they are writt
 
 ### 33
 Hezekiah slept with his fathers, and they buried him in the ascent of the tombs of the sons of David. All Judah and the inhabitants of Jerusalem honored him at his death. Manasseh his son reigned in his place.
-

@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 26
 canon: "New Testament"
 ---
-
 # Matthew 26
 
 ### 1
@@ -230,4 +229,3 @@ Then he began to curse and to swear, “I don’t know the man!” Immediately t
 
 ### 75
 Peter remembered the word which Jesus had said to him, “Before the rooster crows, you will deny me three times.” He went out and wept bitterly.
-

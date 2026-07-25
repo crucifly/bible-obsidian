@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 18
 canon: "Historical"
 ---
-
 # 1 Kings 18
 
 ### 1
@@ -143,4 +142,3 @@ In a little while, the sky grew black with clouds and wind, and there was a grea
 
 ### 46
 Yahweh’s hand was on Elijah; and he tucked his cloak into his belt and ran before Ahab to the entrance of Jezreel.
-

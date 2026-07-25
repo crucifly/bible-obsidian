@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 18
 canon: "Historical"
 ---
-
 # Joshua 18
 
 ### 1
@@ -89,4 +88,3 @@ Rekem, Irpeel, Taralah,
 
 ### 28
 Zelah, Eleph, the Jebusite (also called Jerusalem), Gibeath, and Kiriath; fourteen cities with their villages. This is the inheritance of the children of Benjamin according to their families.
-

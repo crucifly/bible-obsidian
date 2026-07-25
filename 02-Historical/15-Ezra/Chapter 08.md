@@ -3,7 +3,6 @@ book: "Ezra"
 chapter: 8
 canon: "Historical"
 ---
-
 # Ezra 8
 
 ### 1
@@ -113,4 +112,3 @@ The children of the captivity, who had come out of exile, offered burnt offering
 
 ### 36
 They delivered the king’s commissions to the king’s satraps, and to the governors beyond the River. So they supported the people and God’s house.
-

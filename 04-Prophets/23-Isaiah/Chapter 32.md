@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 32
 canon: "Prophets"
 ---
-
 # Isaiah 32
 
 ### 1
@@ -65,4 +64,3 @@ Though hail flattens the forest, and the city is leveled completely.
 
 ### 20
 Blessed are you who sow beside all waters, who send out the feet of the ox and the donkey.
-

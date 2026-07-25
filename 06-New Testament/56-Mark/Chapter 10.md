@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 10
 canon: "New Testament"
 ---
-
 # Mark 10
 
 ### 1
@@ -160,5 +159,4 @@ He, casting away his cloak, sprang up, and came to Jesus.
 Jesus asked him, “What do you want me to do for you?” The blind man said to him, “Rabboni, that I may see again.”
 
 ### 52
-Jesus said to him, “Go your way. Your faith has made you well.”  Immediately he received his sight, and followed Jesus on the way.
-
+Jesus said to him, “Go your way. Your faith has made you well.” Immediately he received his sight, and followed Jesus on the way.

@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 53
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 53
 
 ### 1
@@ -26,4 +25,3 @@ And after this the Righteous and Elect One shall cause the house of his congrega
 
 ### 7
 And these mountains shall not stand as the earth before his righteousness, But the hills shall be as a fountain of water, And the righteous shall have rest from the oppression of sinners.’
-

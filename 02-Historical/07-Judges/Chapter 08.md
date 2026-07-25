@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 8
 canon: "Historical"
 ---
-
 # Judges 8
 
 ### 1
@@ -110,4 +109,3 @@ The children of Israel didn’t remember Yahweh their God, who had delivered the
 
 ### 35
 neither did they show kindness to the house of Jerubbaal, that is, Gideon, according to all the goodness which he had shown to Israel.
-

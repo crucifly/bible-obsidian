@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 23
 canon: "New Testament"
 ---
-
 # Luke 23
 
 ### 1
@@ -173,4 +172,3 @@ The women, who had come with him out of Galilee, followed after, and saw the tom
 
 ### 56
 They returned, and prepared spices and ointments. On the Sabbath they rested according to the commandment.
-

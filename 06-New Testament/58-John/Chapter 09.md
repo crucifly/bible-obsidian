@@ -3,7 +3,6 @@ book: "John"
 chapter: 9
 canon: "New Testament"
 ---
-
 # John 9
 
 ### 1
@@ -128,4 +127,3 @@ Those of the Pharisees who were with him heard these things, and said to him, �
 
 ### 41
 Jesus said to them, “If you were blind, you would have no sin; but now you say, ‘We see.’ Therefore your sin remains.
-

@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 25
 canon: "Deuterocanonical"
 ---
-
 # Sirach 25
 
 ### 1
@@ -83,4 +82,3 @@ Give the water no passage; neither a wicked woman liberty to gad
 
 ### 26
 If she go not as thou wouldest have her, cut her off from thy
-

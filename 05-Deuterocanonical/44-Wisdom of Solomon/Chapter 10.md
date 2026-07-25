@@ -3,7 +3,6 @@ book: "Wisdom of Solomon"
 chapter: 10
 canon: "Deuterocanonical"
 ---
-
 # Wisdom of Solomon 10
 
 ### 1
@@ -68,4 +67,3 @@ Therefore the righteous spoiled the ungodly, and praised thy holy
 
 ### 21
 For wisdom opened the mouth of the dumb, and made the tongues of
-

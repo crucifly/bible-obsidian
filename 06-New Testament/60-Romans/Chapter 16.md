@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 16
 canon: "New Testament"
 ---
-
 # Romans 16
 
 ### 1
@@ -46,7 +45,7 @@ Greet Tryphaena and Tryphosa, who labor in the Lord. Greet Persis, the beloved, 
 Greet Rufus, the chosen in the Lord, and his mother and mine.
 
 ### 14
-Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers  who are with them.
+Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers who are with them.
 
 ### 15
 Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the saints who are with them.
@@ -79,5 +78,4 @@ Gaius, my host and host of the whole assembly, greets you. Erastus, the treasure
 The grace of our Lord Jesus Christ be with you all! Amen.
 
 ### 25
-
 

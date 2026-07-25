@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 20
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 20
 
 ### 1
@@ -116,4 +115,3 @@ And Ishmael and his sons, and the sons of Keturah and their sons, went together 
 
 ### 37
 And these mingled with each other, and their name was called Arabs, and Ishmaelites.
-

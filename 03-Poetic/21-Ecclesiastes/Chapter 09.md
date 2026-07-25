@@ -3,7 +3,6 @@ book: "Ecclesiastes"
 chapter: 9
 canon: "Poetic"
 ---
-
 # Ecclesiastes 9
 
 ### 1
@@ -59,4 +58,3 @@ The words of the wise heard in quiet are better than the cry of him who rules am
 
 ### 18
 Wisdom is better than weapons of war; but one sinner destroys much good.
-

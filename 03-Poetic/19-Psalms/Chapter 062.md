@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 62
 canon: "Poetic"
 ---
-
 # Psalms 62
 
 ### 1
@@ -41,4 +40,3 @@ God has spoken once; twice I have heard this, that power belongs to God.
 
 ### 12
 Also to you, Lord, belongs loving kindness, for you reward every man according to his work.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 95
 canon: "Poetic"
 ---
-
 # Psalms 95
 
 ### 1
@@ -38,4 +37,3 @@ Forty long years I was grieved with that generation, and said, “It is a people
 
 ### 11
 Therefore I swore in my wrath, “They won’t enter into my rest.”
-

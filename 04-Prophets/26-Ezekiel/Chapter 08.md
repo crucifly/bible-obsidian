@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 8
 canon: "Prophets"
 ---
-
 # Ezekiel 8
 
 ### 1
@@ -59,4 +58,3 @@ Then he said to me, “Have you seen this, son of man? Is it a light thing to th
 
 ### 18
 Therefore will I also deal in wrath. My eye won’t spare, neither will I have pity. Though they cry in my ears with a loud voice, yet I will not hear them.”
-

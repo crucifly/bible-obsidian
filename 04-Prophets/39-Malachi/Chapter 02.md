@@ -3,7 +3,6 @@ book: "Malachi"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Malachi 2
 
 ### 1
@@ -56,4 +55,3 @@ For I hate divorce”, says Yahweh, the God of Israel, “and him who covers his
 
 ### 17
 You have wearied Yahweh with your words. Yet you say, ‘How have we wearied him?’ In that you say, ‘Everyone who does evil is good in Yahweh’s sight, and he delights in them;’ or ‘Where is the God of justice?’
-

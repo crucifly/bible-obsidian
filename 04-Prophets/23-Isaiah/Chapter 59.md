@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 59
 canon: "Prophets"
 ---
-
 # Isaiah 59
 
 ### 1
@@ -68,4 +67,3 @@ So shall they fear Yahweh’s name from the west, and his glory from the rising 
 
 ### 21
 “As for me, this is my covenant with them,” says Yahweh. “My Spirit who is on you, and my words which I have put in your mouth, shall not depart out of your mouth, nor out of the mouth of your offspring, nor out of the mouth of your offspring’s offspring,” says Yahweh, “from henceforth and forever.”
-

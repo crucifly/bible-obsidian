@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 96
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 96
 
 ### 1
@@ -26,4 +25,3 @@ Woe to you who work unrighteousness And deceit and blasphemy: It shall be a memo
 
 ### 8
 Woe to you, ye mighty, Who with might oppress the righteous; For the day of your destruction is coming. In those days many and good days shall come to the righteous--in the day of your judgement.
-

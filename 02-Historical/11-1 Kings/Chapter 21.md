@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 21
 canon: "Historical"
 ---
-
 # 1 Kings 21
 
 ### 1
@@ -92,4 +91,3 @@ Yahweh’s word came to Elijah the Tishbite, saying,
 
 ### 29
 “See how Ahab humbles himself before me? Because he humbles himself before me, I will not bring the evil in his days; but I will bring the evil on his house in his son’s day.”
-

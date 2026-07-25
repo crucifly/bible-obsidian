@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 19
 canon: "Poetic"
 ---
-
 # Psalms 19
 
 ### 1
@@ -47,4 +46,3 @@ Keep back your servant also from presumptuous sins. Let them not have dominion o
 
 ### 14
 Let the words of my mouth and the meditation of my heart be acceptable in your sight, Yahweh, my rock, and my redeemer.
-

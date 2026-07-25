@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 45
 canon: "Prophets"
 ---
-
 # Isaiah 45
 
 ### 1
@@ -80,4 +79,3 @@ They will say of me, ‘There is righteousness and strength only in Yahweh.’�
 
 ### 25
 All the offspring of Israel will be justified in Yahweh, and will rejoice!
-

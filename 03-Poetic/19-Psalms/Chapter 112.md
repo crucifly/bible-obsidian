@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 112
 canon: "Poetic"
 ---
-
 # Psalms 112
 
 ### 1
@@ -35,4 +34,3 @@ He has dispersed, he has given to the poor. His righteousness endures forever. H
 
 ### 10
 The wicked will see it, and be grieved. He shall gnash with his teeth, and melt away. The desire of the wicked will perish.
-

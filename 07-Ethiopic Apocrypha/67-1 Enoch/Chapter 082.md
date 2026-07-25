@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 82
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 82
 
 ### 1
@@ -62,4 +61,3 @@ And these are the signs of (his) days on the earth: glowing heat and dryness, an
 
 ### 20
 These are the names, and the orders, and the leaders of those heads of thousands: Gîdâ’îjal, Kê’êl, and Hê’êl, and the name of the head of a thousand which is added to them, Asfâ’êl’: and the days of his dominion are at an end. The Dream-Visions
-

@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 41
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 41
 
 ### 1
@@ -32,4 +31,3 @@ For the sun changes oft for a blessing or a curse, And the course of the path of
 
 ### 9
 For no angel hinders and no power is able to hinder; for He appoints a judge for them all and He judges them all before Him.
-

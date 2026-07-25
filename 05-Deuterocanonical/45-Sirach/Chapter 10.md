@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 10
 canon: "Deuterocanonical"
 ---
-
 # Sirach 10
 
 ### 1
@@ -98,4 +97,3 @@ The poor man is honoured for his skill, and the rich man is
 
 ### 31
 He that is honoured in poverty, how much more in riches? and he
-

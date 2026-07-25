@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 5
 canon: "Torah"
 ---
-
 # Numbers 5
 
 ### 1
@@ -98,4 +97,3 @@ or when the spirit of jealousy comes on a man, and he is jealous of his wife; th
 
 ### 31
 The man shall be free from iniquity, and that woman shall bear her iniquity.’”
-

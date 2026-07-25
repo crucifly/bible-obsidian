@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 6
 canon: "Torah"
 ---
-
 # Exodus 6
 
 ### 1
@@ -95,4 +94,3 @@ Yahweh spoke to Moses, saying, “I am Yahweh. Speak to Pharaoh king of Egypt al
 
 ### 30
 Moses said before Yahweh, “Behold, I am of uncircumcised lips, and how shall Pharaoh listen to me?”
-

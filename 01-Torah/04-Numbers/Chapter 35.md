@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 35
 canon: "Torah"
 ---
-
 # Numbers 35
 
 ### 1
@@ -107,4 +106,3 @@ because he should have remained in his city of refuge until the death of the hig
 
 ### 34
 You shall not defile the land which you inhabit, in the middle of which I dwell; for I, Yahweh, dwell in the middle of the children of Israel.’”
-

@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 8
 canon: "Torah"
 ---
-
 # Genesis 8
 
 ### 1
@@ -71,4 +70,3 @@ Yahweh smelled the pleasant aroma. Yahweh said in his heart, “I will not again
 
 ### 22
 While the earth remains, seed time and harvest, and cold and heat, and summer and winter, and day and night will not cease.”
-

@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 43
 canon: "Torah"
 ---
-
 # Genesis 43
 
 ### 1
@@ -107,4 +106,3 @@ They sat before him, the firstborn according to his birthright, and the youngest
 
 ### 34
 He sent portions to them from before him, but Benjamin’s portion was five times as much as any of theirs. They drank, and were merry with him.
-

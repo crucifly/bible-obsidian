@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 14
 canon: "Torah"
 ---
-
 # Numbers 14
 
 ### 1
@@ -140,4 +139,3 @@ But they presumed to go up to the top of the mountain. Nevertheless, the ark of 
 
 ### 45
 Then the Amalekites came down, and the Canaanites who lived in that mountain, and struck them and beat them down, even to Hormah.
-

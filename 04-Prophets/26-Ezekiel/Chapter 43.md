@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 43
 canon: "Prophets"
 ---
-
 # Ezekiel 43
 
 ### 1
@@ -86,4 +85,3 @@ Seven days shall they make atonement for the altar and purify it. So shall they 
 
 ### 27
 When they have accomplished the days, it shall be that on the eighth day, and forward, the priests shall make your burnt offerings on the altar, and your peace offerings. Then I will accept you,’ says the Lord Yahweh.”
-

@@ -3,7 +3,6 @@ book: "John"
 chapter: 3
 canon: "New Testament"
 ---
-
 # John 3
 
 ### 1
@@ -13,7 +12,7 @@ Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews.
 The same came to him by night, and said to him, “Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do, unless God is with him.”
 
 ### 3
-Jesus answered him, “Most certainly, I tell you, unless one is born anew,  he can’t see God’s Kingdom.”
+Jesus answered him, “Most certainly, I tell you, unless one is born anew, he can’t see God’s Kingdom.”
 
 ### 4
 Nicodemus said to him, “How can a man be born when he is old? Can he enter a second time into his mother’s womb, and be born?”
@@ -112,5 +111,4 @@ For he whom God has sent speaks the words of God; for God gives the Spirit witho
 The Father loves the Son, and has given all things into his hand.
 
 ### 36
-One who believes in the Son has eternal life, but one who disobeys  the Son won’t see life, but the wrath of God remains on him.”
-
+One who believes in the Son has eternal life, but one who disobeys the Son won’t see life, but the wrath of God remains on him.”

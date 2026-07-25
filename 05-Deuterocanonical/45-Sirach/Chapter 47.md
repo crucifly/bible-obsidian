@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 47
 canon: "Deuterocanonical"
 ---
-
 # Sirach 47
 
 ### 1
@@ -80,4 +79,3 @@ And their sins were multiplied exceedingly, that they were driven
 
 ### 25
 For they sought out all wickedness, till the vengeance came upon
-

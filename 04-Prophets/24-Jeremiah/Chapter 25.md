@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 25
 canon: "Prophets"
 ---
-
 # Jeremiah 25
 
 ### 1
@@ -119,4 +118,3 @@ The peaceful folds are brought to silence because of the fierce anger of Yahweh.
 
 ### 38
 He has left his covert, as the lion; for their land has become an astonishment because of the fierceness of the oppression, and because of his fierce anger.
-

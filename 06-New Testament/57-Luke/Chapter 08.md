@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 8
 canon: "New Testament"
 ---
-
 # Luke 8
 
 ### 1
@@ -173,4 +172,3 @@ Her spirit returned, and she rose up immediately. He commanded that something be
 
 ### 56
 Her parents were amazed, but he commanded them to tell no one what had been done.
-

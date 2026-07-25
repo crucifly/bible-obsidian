@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 24
 canon: "Poetic"
 ---
-
 # Proverbs 24
 
 ### 1
@@ -107,4 +106,3 @@ a little sleep, a little slumber, a little folding of the hands to sleep;
 
 ### 34
 so your poverty will come as a robber, and your want as an armed man.
-

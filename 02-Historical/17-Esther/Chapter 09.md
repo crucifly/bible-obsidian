@@ -3,7 +3,6 @@ book: "Esther"
 chapter: 9
 canon: "Historical"
 ---
-
 # Esther 9
 
 ### 1
@@ -101,4 +100,3 @@ to confirm these days of Purim in their appointed times, as Mordecai the Jew and
 
 ### 32
 The commandment of Esther confirmed these matters of Purim; and it was written in the book.
-

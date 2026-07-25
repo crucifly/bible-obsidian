@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 22
 canon: "Historical"
 ---
-
 # 1 Chronicles 22
 
 ### 1
@@ -62,4 +61,3 @@ David also commanded all the princes of Israel to help Solomon his son, saying,
 
 ### 19
 Now set your heart and your soul to follow Yahweh your God. Arise therefore, and build the sanctuary of Yahweh God, to bring the ark of Yahweh’s covenant and the holy vessels of God into the house that is to be built for Yahweh’s name.”
-

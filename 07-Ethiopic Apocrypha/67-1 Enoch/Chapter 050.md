@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 50
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 50
 
 ### 1
@@ -20,4 +19,3 @@ And He is righteous also in His judgement, And in the presence of His glory unri
 
 ### 5
 And from henceforth I will have no mercy on them, saith the Lord of Spirits.
-

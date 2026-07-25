@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 79
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 79
 
 ### 1
@@ -23,4 +22,3 @@ She falls behind the sun and the order of the stars exactly five days in the cou
 
 ### 6
 Such is the picture and sketch of every luminary which Uriel the archangel, who is their leader, showed unto me.
-

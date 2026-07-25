@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 3
 canon: "Deuterocanonical"
 ---
-
 # Sirach 3
 
 ### 1
@@ -98,4 +97,3 @@ Water will quench a flaming fire; and alms maketh an atonement for
 
 ### 31
 And he that requiteth good turns is mindful of that which may come
-

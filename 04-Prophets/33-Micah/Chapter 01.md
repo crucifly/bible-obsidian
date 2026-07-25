@@ -3,7 +3,6 @@ book: "Micah"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Micah 1
 
 ### 1
@@ -53,4 +52,3 @@ I will yet bring to you, inhabitant of Mareshah. He who is the glory of Israel w
 
 ### 16
 Shave your heads, and cut off your hair for the children of your delight. Enlarge your baldness like the vulture; for they have gone into captivity from you!
-

@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 42
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 42
 
 ### 1
@@ -53,4 +52,3 @@ This is the word which God hath spoken, His Law and His Ordinance. And those who
 
 ### 16
 And sanctify ye your souls and your bodies to God, for He is the Holy One, and He loveth those who sanctify their souls and their bodies to Him. For He is holy, and to be feared, and He is high, and merciful, and compassionate. And to Him praise is meet for ever and ever. Amen.”
-

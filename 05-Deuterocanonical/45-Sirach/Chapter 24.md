@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 24
 canon: "Deuterocanonical"
 ---
-
 # Sirach 24
 
 ### 1
@@ -107,4 +106,3 @@ I will yet pour out doctrine as prophecy, and leave it to all
 
 ### 34
 Behold that I have not laboured for myself only, but for all them
-

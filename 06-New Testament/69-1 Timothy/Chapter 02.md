@@ -3,7 +3,6 @@ book: "1 Timothy"
 chapter: 2
 canon: "New Testament"
 ---
-
 # 1 Timothy 2
 
 ### 1
@@ -50,4 +49,3 @@ Adam wasn’t deceived, but the woman, being deceived, has fallen into disobedie
 
 ### 15
 but she will be saved through her childbearing, if they continue in faith, love, and sanctification with sobriety.
-

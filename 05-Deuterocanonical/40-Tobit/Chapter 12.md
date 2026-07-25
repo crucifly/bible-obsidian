@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 12
 canon: "Deuterocanonical"
 ---
-
 # Tobit 12
 
 ### 1
@@ -71,4 +70,3 @@ And when they arose, they saw him no more.
 
 ### 22
 Then they confessed the great and wonderful works of God, and how
-

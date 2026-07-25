@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 11
 canon: "Torah"
 ---
-
 # Leviticus 11
 
 ### 1
@@ -146,4 +145,3 @@ For I am Yahweh who brought you up out of the land of Egypt, to be your God. You
 
 ### 47
 to make a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.’”
-

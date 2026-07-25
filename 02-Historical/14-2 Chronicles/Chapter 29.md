@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 29
 canon: "Historical"
 ---
-
 # 2 Chronicles 29
 
 ### 1
@@ -113,4 +112,3 @@ Also the burnt offerings were in abundance, with the fat of the peace offerings,
 
 ### 36
 Hezekiah and all the people rejoiced, because of that which God had prepared for the people; for the thing was done suddenly.
-

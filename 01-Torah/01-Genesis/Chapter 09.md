@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 9
 canon: "Torah"
 ---
-
 # Genesis 9
 
 ### 1
@@ -92,4 +91,3 @@ Noah lived three hundred fifty years after the flood.
 
 ### 29
 All the days of Noah were nine hundred fifty years, and then he died.
-

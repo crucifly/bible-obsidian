@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 8
 canon: "Deuterocanonical"
 ---
-
 # Tobit 8
 
 ### 1
@@ -68,4 +67,3 @@ For before the days of the marriage were finished, Raguel had said
 
 ### 21
 And then he should take the half of his goods, and go in safety to
-

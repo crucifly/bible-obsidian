@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 14
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 14
 
 ### 1
@@ -77,4 +76,3 @@ And until then I had been prostrate on my face, trembling: and the Lord called m
 
 ### 25
 ⌈And one of the holy ones came to me and waked me⌉, and He made me rise up and approach the door: and I bowed my face downwards.
-

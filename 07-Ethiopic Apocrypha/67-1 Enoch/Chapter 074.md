@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 74
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 74
 
 ### 1
@@ -56,4 +55,3 @@ And in 5 years there are 1770 days, so that for the moon the days in 8 years amo
 
 ### 80
 17. And the year is accurately completed in conformity with their world-stations and the stations of the sun, which rise from the portals through which it (the sun) rises and sets 30 days.
-

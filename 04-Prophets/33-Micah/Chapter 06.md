@@ -3,7 +3,6 @@ book: "Micah"
 chapter: 6
 canon: "Prophets"
 ---
-
 # Micah 6
 
 ### 1
@@ -53,4 +52,3 @@ You will sow, but won’t reap. You will tread the olives, but won’t anoint yo
 
 ### 16
 For the statutes of Omri are kept, and all the works of Ahab’s house. You walk in their counsels, that I may make you a ruin, and her inhabitants a hissing; And you will bear the reproach of my people.”
-

@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 35
 canon: "Torah"
 ---
-
 # Genesis 35
 
 ### 1
@@ -92,4 +91,3 @@ The days of Isaac were one hundred eighty years.
 
 ### 29
 Isaac gave up the spirit, and died, and was gathered to his people, old and full of days. Esau and Jacob, his sons, buried him.
-

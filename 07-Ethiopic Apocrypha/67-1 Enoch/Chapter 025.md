@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 25
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 25
 
 ### 1
@@ -14,4 +13,3 @@ And as for this fragrant tree no mortal is permitted to touch it till the great 
 
 ### 5
 Its fruit shall be for food to the elect: it shall be transplanted to the holy place, to the temple of the Lord, the Eternal King. 6 Then shall they rejoice with joy and be glad, And into the holy place shall they enter; And its fragrance shall be in their bones, And they shall live a long life on earth, Such as thy fathers lived: And in their days shall no ⌈⌈sorrow or⌉⌉ plague Or torment or calamity touch them.’ 7 Then blessed I the God of Glory, the Eternal King, who hath prepared such things for the righteous, and hath created them and promised to give to them.
-

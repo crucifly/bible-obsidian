@@ -3,7 +3,6 @@ book: "Job"
 chapter: 28
 canon: "Poetic"
 ---
-
 # Job 28
 
 ### 1
@@ -89,4 +88,3 @@ then he saw it, and declared it. He established it, yes, and searched it out.
 
 ### 28
 To man he said, ‘Behold, the fear of the Lord, that is wisdom. To depart from evil is understanding.’”
-

@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 9
 canon: "Historical"
 ---
-
 # Joshua 9
 
 ### 1
@@ -86,4 +85,3 @@ He did so to them, and delivered them out of the hand of the children of Israel,
 
 ### 27
 That day Joshua made them wood cutters and drawers of water for the congregation and for Yahweh’s altar to this day, in the place which he should choose.
-

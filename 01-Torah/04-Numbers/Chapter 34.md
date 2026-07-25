@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 34
 canon: "Torah"
 ---
-
 # Numbers 34
 
 ### 1
@@ -92,4 +91,3 @@ Of the tribe of the children of Naphtali a prince, Pedahel the son of Ammihud.â€
 
 ### 29
 These are they whom Yahweh commanded to divide the inheritance to the children of Israel in the land of Canaan.
-

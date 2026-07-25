@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 16
 canon: "Historical"
 ---
-
 # 1 Chronicles 16
 
 ### 1
@@ -134,4 +133,3 @@ and with them Heman and Jeduthun with trumpets and cymbals for those that should
 
 ### 43
 All the people departed, each man to his house; and David returned to bless his house.
-

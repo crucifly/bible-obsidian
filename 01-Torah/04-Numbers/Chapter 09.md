@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 9
 canon: "Torah"
 ---
-
 # Numbers 9
 
 ### 1
@@ -74,4 +73,3 @@ Whether it was two days, or a month, or a year that the cloud stayed on the tabe
 
 ### 23
 At the commandment of Yahweh they encamped, and at the commandment of Yahweh they traveled. They kept Yahweh’s command, at the commandment of Yahweh by Moses.
-

@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 25
 canon: "New Testament"
 ---
-
 # Acts 25
 
 ### 1
@@ -86,4 +85,3 @@ of whom I have no certain thing to write to my lord. Therefore I have brought hi
 
 ### 27
 For it seems to me unreasonable, in sending a prisoner, not to also specify the charges against him.”
-

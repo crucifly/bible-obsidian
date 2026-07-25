@@ -3,7 +3,6 @@ book: "Zechariah"
 chapter: 12
 canon: "Prophets"
 ---
-
 # Zechariah 12
 
 ### 1
@@ -47,4 +46,3 @@ the family of the house of Levi apart, and their wives apart; the family of the 
 
 ### 14
 all the families who remain, every family apart, and their wives apart.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 101
 canon: "Poetic"
 ---
-
 # Psalms 101
 
 ### 1
@@ -29,4 +28,3 @@ He who practices deceit won’t dwell within my house. He who speaks falsehood w
 
 ### 8
 Morning by morning, I will destroy all the wicked of the land; to cut off all the workers of iniquity from Yahweh’s city.
-

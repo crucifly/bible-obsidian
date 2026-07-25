@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 1
 canon: "Deuterocanonical"
 ---
-
 # Sirach 1
 
 ### 1
@@ -95,4 +94,3 @@ Be not an hypocrite in the sight of men, and take good heed what
 
 ### 30
 Exalt not thyself, lest thou fall, and bring dishonour upon thy
-

@@ -3,7 +3,6 @@ book: "Hebrews"
 chapter: 11
 canon: "New Testament"
 ---
-
 # Hebrews 11
 
 ### 1
@@ -125,4 +124,3 @@ These all, having had testimony given to them through their faith, didn’t rece
 
 ### 40
 God having provided some better thing concerning us, so that apart from us they should not be made perfect.
-

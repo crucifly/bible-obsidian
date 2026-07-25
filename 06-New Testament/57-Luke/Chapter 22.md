@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 22
 canon: "New Testament"
 ---
-
 # Luke 22
 
 ### 1
@@ -218,4 +217,3 @@ They all said, “Are you then the Son of God?” He said to them, “You say it
 
 ### 71
 They said, “Why do we need any more witness? For we ourselves have heard from his own mouth!”
-

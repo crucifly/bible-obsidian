@@ -3,7 +3,6 @@ book: "Joel"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Joel 3
 
 ### 1
@@ -68,4 +67,3 @@ But Judah will be inhabited forever, and Jerusalem from generation to generation
 
 ### 21
 I will cleanse their blood, that I have not cleansed: for Yahweh dwells in Zion.”
-

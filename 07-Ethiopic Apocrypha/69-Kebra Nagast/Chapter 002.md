@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 2
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 2
 
 ### 1
@@ -11,4 +10,3 @@ Come then, let us go back, and let us consider, and let us begin [to state] whic
 
 ### 2
 https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html Gregory, the worker of wonders and miracles,[[28]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftn28) who was cast into a cave because of [his] love for the martyrdom of Christ and suffered tribulation for fifteen years, said, “When I was in the pit I pondered over this matter, and over the folly of the Kings of Armenia, and I said, In so far as I can conceive it, [in] what doth the greatness of kings [consist]? Is it in the multitude of soldiers, or in the splendour of worldly possessions, or in extent of rule over cities and towns? This was my thought each time of my prayer, and my thought stirred me again and again to meditate upon the greatness of kings. And now I will begin.”
-

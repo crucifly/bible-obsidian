@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 46
 canon: "Prophets"
 ---
-
 # Ezekiel 46
 
 ### 1
@@ -37,7 +36,7 @@ When the prince enters, he shall go in by the way of the porch of the gate, and 
 The prince shall go in with them when they go in. When they go out, he shall go out.
 
 ### 11
-“‘“In the feasts and in the solemnities the meal offering shall be an ephah  for a bull, and an ephah for a ram, and for the lambs as he is able to give, and a hin of oil to an ephah.
+“‘“In the feasts and in the solemnities the meal offering shall be an ephah for a bull, and an ephah for a ram, and for the lambs as he is able to give, and a hin of oil to an ephah.
 
 ### 12
 When the prince prepares a freewill offering, a burnt offering or peace offerings as a freewill offering to Yahweh, one shall open for him the gate that looks toward the east; and he shall prepare his burnt offering and his peace offerings, as he does on the Sabbath day. Then he shall go out; and after his going out one shall shut the gate.
@@ -77,4 +76,3 @@ There was a wall around in them, around the four, and boiling places were made u
 
 ### 24
 Then he said to me, “These are the boiling houses, where the ministers of the house shall boil the sacrifice of the people.”
-

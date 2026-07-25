@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 49
 canon: "Poetic"
 ---
-
 # Psalms 49
 
 ### 1
@@ -65,4 +64,3 @@ he shall go to the generation of his fathers. They shall never see the light.
 
 ### 20
 A man who has riches without understanding, is like the animals that perish.
-

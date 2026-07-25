@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 6
 canon: "New Testament"
 ---
-
 # Matthew 6
 
 ### 1
@@ -107,4 +106,3 @@ But seek first God’s Kingdom, and his righteousness; and all these things will
 
 ### 34
 Therefore don’t be anxious for tomorrow, for tomorrow will be anxious for itself. Each day’s own evil is sufficient.
-

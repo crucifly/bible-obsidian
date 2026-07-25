@@ -3,7 +3,6 @@ book: "Song of Songs"
 chapter: 3
 canon: "Poetic"
 ---
-
 # Song of Solomon 3
 
 ### 1
@@ -38,4 +37,3 @@ He made its pillars of silver, its bottom of gold, its seat of purple, the middl
 
 ### 11
 Go out, you daughters of Zion, and see king Solomon, with the crown with which his mother has crowned him, in the day of his weddings, in the day of the gladness of his heart.
-

@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 10
 canon: "Historical"
 ---
-
 # 1 Kings 10
 
 ### 1
@@ -92,4 +91,3 @@ The horses which Solomon had were brought out of Egypt. The king’s merchants r
 
 ### 29
 A chariot came up and went out of Egypt for six hundred shekels of silver, and a horse for one hundred fifty shekels; and so they exported them to all the kings of the Hittites, and to the kings of Syria.
-

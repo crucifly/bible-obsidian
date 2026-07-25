@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 106
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 106
 
 ### 1
@@ -62,4 +61,3 @@ And now make known to thy son Lamech that he who has been born is in truth his s
 
 ### 19
 And after that there shall be still more unrighteousness than that which was first consummated on the earth; for I know the mysteries of the holy ones; for He, the Lord, has showed me and informed me, and I have read (them) in the heavenly tablets.
-

@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 18
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 18
 
 ### 1
@@ -89,4 +88,3 @@ And he celebrated this festival every year, seven days with joy, and he called i
 
 ### 28
 And accordingly has it been ordained and written on the heavenly tablets regarding Israel and its seed that they should observe this festival seven days with the joy of festival.
-

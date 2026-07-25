@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 31
 canon: "Torah"
 ---
-
 # Genesis 31
 
 ### 1
@@ -61,7 +60,7 @@ Then Jacob rose up, and set his sons and his wives on the camels,
 and he took away all his livestock, and all his possessions which he had gathered, including the livestock which he had gained in Paddan Aram, to go to Isaac his father, to the land of Canaan.
 
 ### 19
-Now Laban had gone to shear his sheep: and Rachel stole the teraphim  that were her father’s.
+Now Laban had gone to shear his sheep: and Rachel stole the teraphim that were her father’s.
 
 ### 20
 Jacob deceived Laban the Syrian, in that he didn’t tell him that he was running away.
@@ -170,4 +169,3 @@ Jacob offered a sacrifice in the mountain, and called his relatives to eat bread
 
 ### 55
 Early in the morning, Laban rose up, and kissed his sons and his daughters, and blessed them. Laban departed and returned to his place.
-

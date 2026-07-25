@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 1
 canon: "New Testament"
 ---
-
 # Mark 1
 
 ### 1
@@ -140,4 +139,3 @@ and said to him, “See you say nothing to anybody, but go show yourself to the 
 
 ### 45
 But he went out, and began to proclaim it much, and to spread about the matter, so that Jesus could no more openly enter into a city, but was outside in desert places: and they came to him from everywhere.
-

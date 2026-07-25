@@ -3,7 +3,6 @@ book: "1 Timothy"
 chapter: 6
 canon: "New Testament"
 ---
-
 # 1 Timothy 6
 
 ### 1
@@ -68,4 +67,3 @@ Timothy, guard that which is committed to you, turning away from the empty chatt
 
 ### 21
 which some profess, and thus have wandered from the faith. Grace be with you. Amen.
-

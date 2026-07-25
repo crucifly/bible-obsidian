@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 11
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 11
 
 ### 1
@@ -74,4 +73,3 @@ And in the first year of the fifth week [1891 A.M.] Abram taught those who made 
 
 ### 23
 And after this manner they made (vessels) above the ground on all the frames of the ploughs, and they sowed and tilled all the land, according as Abram commanded them, and they no longer feared the birds.
-

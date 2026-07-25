@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 9
 canon: "New Testament"
 ---
-
 # Matthew 9
 
 ### 1
@@ -119,4 +118,3 @@ Then he said to his disciples, “The harvest indeed is plentiful, but the labor
 
 ### 38
 Pray therefore that the Lord of the harvest will send out laborers into his harvest.”
-

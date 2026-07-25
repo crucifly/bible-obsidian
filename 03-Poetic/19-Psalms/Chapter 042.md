@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 42
 canon: "Poetic"
 ---
-
 # Psalms 42
 
 ### 1
@@ -38,4 +37,3 @@ As with a sword in my bones, my adversaries reproach me, while they continually 
 
 ### 11
 Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him, the saving help of my countenance, and my God.
-

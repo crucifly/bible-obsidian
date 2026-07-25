@@ -3,7 +3,6 @@ book: "Nehemiah"
 chapter: 1
 canon: "Historical"
 ---
-
 # Nehemiah 1
 
 ### 1
@@ -38,4 +37,3 @@ but if you return to me, and keep my commandments and do them, though your outca
 
 ### 11
 Lord, I beg you, let your ear be attentive now to the prayer of your servant, and to the prayer of your servants, who delight to fear your name; and please prosper your servant today, and grant him mercy in the sight of this man.” Now I was cup bearer to the king.
-

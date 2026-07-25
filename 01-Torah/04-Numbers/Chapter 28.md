@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 28
 canon: "Torah"
 ---
-
 # Numbers 28
 
 ### 1
@@ -98,4 +97,3 @@ one male goat, to make atonement for you.
 
 ### 31
 Besides the continual burnt offering, and its meal offering, you shall offer them and their drink offerings. See that they are without defect.
-

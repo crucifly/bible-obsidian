@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 11
 canon: "Historical"
 ---
-
 # 1 Chronicles 11
 
 ### 1
@@ -146,4 +145,3 @@ Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah t
 
 ### 47
 Eliel, and Obed, and Jaasiel the Mezobaite.
-

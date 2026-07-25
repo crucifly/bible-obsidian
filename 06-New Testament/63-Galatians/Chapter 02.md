@@ -3,7 +3,6 @@ book: "Galatians"
 chapter: 2
 canon: "New Testament"
 ---
-
 # Galatians 2
 
 ### 1
@@ -68,4 +67,3 @@ I have been crucified with Christ, and it is no longer I that live, but Christ l
 
 ### 21
 I don’t reject the grace of God. For if righteousness is through the law, then Christ died for nothing!”
-

@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 94
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 94
 
 ### 1
@@ -38,4 +37,3 @@ Thus I speak and declare unto you: He who hath created you will overthrow you, A
 
 ### 11
 And your righteous ones in those days shall be A reproach to the sinners and the godless.
-

@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 21
 canon: "Historical"
 ---
-
 # 1 Chronicles 21
 
 ### 1
@@ -95,4 +94,3 @@ For Yahweh’s tabernacle, which Moses made in the wilderness, and the altar of 
 
 ### 30
 But David couldn’t go before it to inquire of God; for he was afraid because of the sword of Yahweh’s angel.
-

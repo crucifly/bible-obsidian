@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 12
 canon: "Historical"
 ---
-
 # Judges 12
 
 ### 1
@@ -50,4 +49,3 @@ He had forty sons and thirty sons’ sons, who rode on seventy donkey colts. He 
 
 ### 15
 Abdon the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the hill country of the Amalekites.
-

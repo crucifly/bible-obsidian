@@ -3,7 +3,6 @@ book: "Song of Songs"
 chapter: 7
 canon: "Poetic"
 ---
-
 # Song of Solomon 7
 
 ### 1
@@ -44,4 +43,3 @@ Let’s go early up to the vineyards. Let’s see whether the vine has budded, i
 
 ### 13
 The mandrakes produce fragrance. At our doors are all kinds of precious fruits, new and old, which I have stored up for you, my beloved.
-

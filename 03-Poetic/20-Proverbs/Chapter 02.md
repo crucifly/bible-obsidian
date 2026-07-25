@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 2
 canon: "Poetic"
 ---
-
 # Proverbs 2
 
 ### 1
@@ -71,4 +70,3 @@ For the upright will dwell in the land. The perfect will remain in it.
 
 ### 22
 But the wicked will be cut off from the land. The treacherous will be rooted out of it.
-

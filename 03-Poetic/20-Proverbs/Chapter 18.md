@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 18
 canon: "Poetic"
 ---
-
 # Proverbs 18
 
 ### 1
@@ -77,4 +76,3 @@ The poor plead for mercy, but the rich answer harshly.
 
 ### 24
 A man of many companions may be ruined, but there is a friend who sticks closer than a brother.
-

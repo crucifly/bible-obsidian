@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 28
 canon: "New Testament"
 ---
-
 # Acts 28
 
 ### 1
@@ -98,4 +97,3 @@ Paul stayed two whole years in his own rented house, and received all who were c
 
 ### 31
 preaching God’s Kingdom, and teaching the things concerning the Lord Jesus Christ with all boldness, without hindrance.
-

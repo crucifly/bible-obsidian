@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 13
 canon: "Historical"
 ---
-
 # 1 Chronicles 13
 
 ### 1
@@ -47,4 +46,3 @@ So David didn’t move the ark with him into David’s city, but carried it asid
 
 ### 14
 God’s ark remained with the family of Obed-Edom in his house three months; and Yahweh blessed Obed-Edom’s house and all that he had.
-

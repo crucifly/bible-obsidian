@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 130
 canon: "Poetic"
 ---
-
 # Psalms 130
 
 ### 1
@@ -29,4 +28,3 @@ Israel, hope in Yahweh, for with Yahweh there is loving kindness. With him is ab
 
 ### 8
 He will redeem Israel from all their sins.
-

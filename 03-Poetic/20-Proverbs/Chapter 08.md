@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 8
 canon: "Poetic"
 ---
-
 # Proverbs 8
 
 ### 1
@@ -113,4 +112,3 @@ For whoever finds me, finds life, and will obtain favor from Yahweh.
 
 ### 36
 But he who sins against me wrongs his own soul. All those who hate me love death.”
-

@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 22
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 22
 
 ### 1
@@ -44,4 +43,3 @@ And this has been made for the spirits of men who shall not be righteous but sin
 
 ### 14
 Then I blessed the Lord of Glory and said: ‘Blessed art Thou, Lord of righteousness, who rulest over the world.’
-

@@ -3,7 +3,6 @@ book: "Ezra"
 chapter: 5
 canon: "Historical"
 ---
-
 # Ezra 5
 
 ### 1
@@ -56,4 +55,3 @@ Then the same Sheshbazzar came and laid the foundations of God’s house which i
 
 ### 17
 Now therefore, if it seems good to the king, let a search be made in the king’s treasure house, which is there at Babylon, whether it is so, that a decree was made of Cyrus the king to build this house of God at Jerusalem; and let the king send his pleasure to us concerning this matter.”
-

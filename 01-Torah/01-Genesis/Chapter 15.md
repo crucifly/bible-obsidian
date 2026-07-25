@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 15
 canon: "Torah"
 ---
-
 # Genesis 15
 
 ### 1
@@ -68,4 +67,3 @@ the Hittites, the Perizzites, the Rephaim,
 
 ### 21
 the Amorites, the Canaanites, the Girgashites, and the Jebusites.”
-

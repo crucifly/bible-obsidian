@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 125
 canon: "Poetic"
 ---
-
 # Psalms 125
 
 ### 1
@@ -20,4 +19,3 @@ Do good, Yahweh, to those who are good, to those who are upright in their hearts
 
 ### 5
 But as for those who turn away to their crooked ways, Yahweh will lead them away with the workers of iniquity. Peace be on Israel.
-

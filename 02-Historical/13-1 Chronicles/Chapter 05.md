@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 5
 canon: "Historical"
 ---
-
 # 1 Chronicles 5
 
 ### 1
@@ -83,4 +82,3 @@ They trespassed against the God of their fathers, and played the prostitute afte
 
 ### 26
 So the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath Pilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half-tribe of Manasseh, and brought them to Halah, Habor, Hara, and to the river of Gozan, to this day.
-

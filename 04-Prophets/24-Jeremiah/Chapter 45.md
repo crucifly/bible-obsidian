@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 45
 canon: "Prophets"
 ---
-
 # Jeremiah 45
 
 ### 1
@@ -20,4 +19,3 @@ The message that Jeremiah the prophet spoke to Baruch the son of Neriah, when he
 
 ### 5
 Do you seek great things for yourself? Don’t seek them; for, behold, I will bring evil on all flesh,’ says Yahweh; ‘but I will let you escape with your life wherever you go.’”
-

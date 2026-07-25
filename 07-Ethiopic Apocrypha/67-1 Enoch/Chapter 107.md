@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 107
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 107
 
 ### 1
@@ -14,4 +13,3 @@ And now, my son, go and make known to thy son Lamech that this son, which has be
 
 ### 3
 And when Methuselah had heard the words of his father Enoch--for he had shown to him everything in secret--he returned and showed (them) to him and called the name of that son Noah; for he will comfort the earth after all the destruction. An Appendix To The Book Of Enoch
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 50
 canon: "Poetic"
 ---
-
 # Psalms 50
 
 ### 1
@@ -74,4 +73,3 @@ You have done these things, and I kept silent. You thought that I was just like 
 
 ### 23
 Whoever offers the sacrifice of thanksgiving glorifies me, and prepares his way so that I will show God’s salvation to him.”
-

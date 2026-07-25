@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 7
 canon: "New Testament"
 ---
-
 # Acts 7
 
 ### 1
@@ -185,4 +184,3 @@ They stoned Stephen as he called out, saying, “Lord Jesus, receive my spirit!�
 
 ### 60
 He kneeled down, and cried with a loud voice, “Lord, don’t hold this sin against them!” When he had said this, he fell asleep.
-

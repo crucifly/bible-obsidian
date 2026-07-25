@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 20
 canon: "Torah"
 ---
-
 # Numbers 20
 
 ### 1
@@ -92,4 +91,3 @@ Moses stripped Aaron of his garments, and put them on Eleazar his son. Aaron die
 
 ### 29
 When all the congregation saw that Aaron was dead, they wept for Aaron thirty days, even all the house of Israel.
-

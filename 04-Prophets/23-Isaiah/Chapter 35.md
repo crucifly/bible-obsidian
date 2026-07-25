@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 35
 canon: "Prophets"
 ---
-
 # Isaiah 35
 
 ### 1
@@ -35,4 +34,3 @@ No lion will be there, nor will any ravenous animal go up on it. They will not b
 
 ### 10
 The Yahweh’s ransomed ones will return, and come with singing to Zion; and everlasting joy will be on their heads. They will obtain gladness and joy, and sorrow and sighing will flee away.”
-

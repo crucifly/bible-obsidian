@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 8
 canon: "Historical"
 ---
-
 # Joshua 8
 
 ### 1
@@ -110,4 +109,3 @@ Afterward he read all the words of the law, the blessing and the curse, accordin
 
 ### 35
 There was not a word of all that Moses commanded, which Joshua didn’t read before all the assembly of Israel, with the women, the little ones, and the foreigners who were among them.
-

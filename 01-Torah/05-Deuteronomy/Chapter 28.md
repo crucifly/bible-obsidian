@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 28
 canon: "Torah"
 ---
-
 # Deuteronomy 28
 
 ### 1
@@ -209,4 +208,3 @@ In the morning you will say, “I wish it were evening!” and at evening you wi
 
 ### 68
 Yahweh will bring you into Egypt again with ships, by the way of which I told to you that you would never see it again. There you will sell yourselves to your enemies for male and female slaves, and nobody will buy you.
-

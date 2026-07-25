@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 20
 canon: "Prophets"
 ---
-
 # Ezekiel 20
 
 ### 1
@@ -152,4 +151,3 @@ All flesh will see that I, Yahweh, have kindled it. It will not be quenched.”�
 
 ### 49
 Then I said, “Ah Lord Yahweh! They say of me, ‘Isn’t he a speaker of parables?’”
-

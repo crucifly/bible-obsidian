@@ -3,7 +3,6 @@ book: "John"
 chapter: 10
 canon: "New Testament"
 ---
-
 # John 10
 
 ### 1
@@ -55,7 +54,7 @@ even as the Father knows me, and I know the Father. I lay down my life for the s
 I have other sheep, which are not of this fold. I must bring them also, and they will hear my voice. They will become one flock with one shepherd.
 
 ### 17
-Therefore the Father loves me, because I lay down my life,  that I may take it again.
+Therefore the Father loves me, because I lay down my life, that I may take it again.
 
 ### 18
 No one takes it away from me, but I lay it down by myself. I have power to lay it down, and I have power to take it again. I received this commandment from my Father.”
@@ -131,4 +130,3 @@ Many came to him. They said, “John indeed did no sign, but everything that Joh
 
 ### 42
 Many believed in him there.
-

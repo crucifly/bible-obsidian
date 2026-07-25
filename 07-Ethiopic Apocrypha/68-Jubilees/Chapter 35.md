@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 35
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 35
 
 ### 1
@@ -92,4 +91,3 @@ The Book of Jubilees
 
 ### 29
 Isaac gives directions to his sons as to his burial: exhorts them to love one another and makes them imprecate destruction on him who injures his brother, 1-11. Divides his possessions, giving the larger portion to Jacob, and dies, 12-18. Leah dies: Jacob's sons come to comfort him, 21-4.
-

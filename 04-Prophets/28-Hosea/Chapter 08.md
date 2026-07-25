@@ -3,7 +3,6 @@ book: "Hosea"
 chapter: 8
 canon: "Prophets"
 ---
-
 # Hosea 8
 
 ### 1
@@ -47,4 +46,3 @@ As for the sacrifices of my offerings, they sacrifice meat and eat it; But Yahwe
 
 ### 14
 For Israel has forgotten his Maker and built palaces; and Judah has multiplied fortified cities; but I will send a fire on his cities, and it will devour its fortresses.”
-

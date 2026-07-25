@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Jeremiah 2
 
 ### 1
@@ -116,4 +115,3 @@ Why do you go about so much to change your ways? You will be ashamed of Egypt al
 
 ### 37
 You will also leave that place with your hands on your head; for Yahweh has rejected those in whom you trust, and you won’t prosper with them.
-

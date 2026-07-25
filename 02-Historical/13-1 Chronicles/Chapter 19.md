@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 19
 canon: "Historical"
 ---
-
 # 1 Chronicles 19
 
 ### 1
@@ -62,4 +61,3 @@ The Syrians fled before Israel; and David killed of the Syrian men seven thousan
 
 ### 19
 When the servants of Hadadezer saw that they were defeated by Israel, they made peace with David, and served him. The Syrians would not help the children of Ammon any more.
-

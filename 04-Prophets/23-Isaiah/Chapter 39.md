@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 39
 canon: "Prophets"
 ---
-
 # Isaiah 39
 
 ### 1
@@ -29,4 +28,3 @@ Then Isaiah said to Hezekiah, “Hear the word of Yahweh of Armies:
 
 ### 8
 Then Hezekiah said to Isaiah, “Yahweh’s word which you have spoken is good.” He said moreover, “For there will be peace and truth in my days.”
-

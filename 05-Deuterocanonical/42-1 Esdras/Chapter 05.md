@@ -3,7 +3,6 @@ book: "1 Esdras"
 chapter: 5
 canon: "Deuterocanonical"
 ---
-
 # 1 Esdras 5
 
 ### 1
@@ -224,4 +223,3 @@ But the heathen of the land lying heavy upon the inhabitants of
 
 ### 73
 And by their secret plots, and popular persuasions and commotions,
-

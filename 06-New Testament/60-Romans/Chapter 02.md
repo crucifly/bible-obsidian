@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 2
 canon: "New Testament"
 ---
-
 # Romans 2
 
 ### 1
@@ -76,7 +75,7 @@ You who say a man shouldn’t commit adultery. Do you commit adultery? You who a
 You who glory in the law, do you dishonor God by disobeying the law?
 
 ### 24
-For “the name of God is blasphemed among the Gentiles because of you,”  just as it is written.
+For “the name of God is blasphemed among the Gentiles because of you,” just as it is written.
 
 ### 25
 For circumcision indeed profits, if you are a doer of the law, but if you are a transgressor of the law, your circumcision has become uncircumcision.
@@ -92,4 +91,3 @@ For he is not a Jew who is one outwardly, neither is that circumcision which is 
 
 ### 29
 but he is a Jew who is one inwardly, and circumcision is that of the heart, in the spirit not in the letter; whose praise is not from men, but from God.
-

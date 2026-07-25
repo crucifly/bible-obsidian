@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 6
 canon: "Poetic"
 ---
-
 # Proverbs 6
 
 ### 1
@@ -110,4 +109,3 @@ For jealousy arouses the fury of the husband. He won’t spare in the day of ven
 
 ### 35
 He won’t regard any ransom, neither will he rest content, though you give many gifts.
-

@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 1
 canon: "Torah"
 ---
-
 # Deuteronomy 1
 
 ### 1
@@ -143,4 +142,3 @@ You returned and wept before Yahweh; but Yahweh didn’t listen to your voice, n
 
 ### 46
 So you stayed in Kadesh many days, according to the days that you remained.
-

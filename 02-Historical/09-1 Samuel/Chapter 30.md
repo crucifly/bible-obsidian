@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 30
 canon: "Historical"
 ---
-
 # 1 Samuel 30
 
 ### 1
@@ -98,4 +97,3 @@ to those who were in Hormah, to those who were in Borashan, to those who were in
 
 ### 31
 to those who were in Hebron, and to all the places where David himself and his men used to stay.
-

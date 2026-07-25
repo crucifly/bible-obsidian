@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 25
 canon: "Torah"
 ---
-
 # Leviticus 25
 
 ### 1
@@ -170,4 +169,3 @@ If he isn’t redeemed by these means, then he shall be released in the Year of 
 
 ### 55
 For to me the children of Israel are servants; they are my servants whom I brought out of the land of Egypt. I am Yahweh your God.
-

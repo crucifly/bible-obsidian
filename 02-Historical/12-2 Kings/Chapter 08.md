@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 8
 canon: "Historical"
 ---
-
 # 2 Kings 8
 
 ### 1
@@ -92,4 +91,3 @@ He went with Joram the son of Ahab to war against Hazael king of Syria at Ramoth
 
 ### 29
 King Joram returned to be healed in Jezreel from the wounds which the Syrians had given him at Ramah, when he fought against Hazael king of Syria. Ahaziah the son of Jehoram king of Judah went down to see Joram the son of Ahab in Jezreel, because he was sick.
-

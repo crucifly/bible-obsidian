@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 1
 canon: "Torah"
 ---
-
 # Leviticus 1
 
 ### 1
@@ -56,4 +55,3 @@ and he shall take away its crop with its filth, and cast it beside the altar on 
 
 ### 17
 He shall tear it by its wings, but shall not divide it apart. The priest shall burn it on the altar, on the wood that is on the fire. It is a burnt offering, an offering made by fire, of a pleasant aroma to Yahweh.
-

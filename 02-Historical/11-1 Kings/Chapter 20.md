@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 20
 canon: "Historical"
 ---
-
 # 1 Kings 20
 
 ### 1
@@ -134,4 +133,3 @@ He said to him, “Yahweh says, ‘Because you have let go out of your hand the 
 
 ### 43
 The king of Israel went to his house sullen and angry, and came to Samaria.
-

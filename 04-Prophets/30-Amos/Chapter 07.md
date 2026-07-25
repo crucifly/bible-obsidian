@@ -3,7 +3,6 @@ book: "Amos"
 chapter: 7
 canon: "Prophets"
 ---
-
 # Amos 7
 
 ### 1
@@ -56,4 +55,3 @@ Now therefore listen to Yahweh’s word: ‘You say, Don’t prophesy against Is
 
 ### 17
 Therefore Yahweh says: ‘Your wife shall be a prostitute in the city, and your sons and your daughters shall fall by the sword, and your land shall be divided by line; and you yourself shall die in a land that is unclean, and Israel shall surely be led away captive out of his land.’”
-

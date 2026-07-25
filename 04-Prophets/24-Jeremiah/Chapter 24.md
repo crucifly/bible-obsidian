@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 24
 canon: "Prophets"
 ---
-
 # Jeremiah 24
 
 ### 1
@@ -35,4 +34,3 @@ I will even give them up to be tossed back and forth among all the kingdoms of t
 
 ### 10
 I will send the sword, the famine, and the pestilence, among them, until they are consumed from off the land that I gave to them and to their fathers.’”
-

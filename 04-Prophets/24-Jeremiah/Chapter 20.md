@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 20
 canon: "Prophets"
 ---
-
 # Jeremiah 20
 
 ### 1
@@ -59,4 +58,3 @@ because he didn’t kill me from the womb. So my mother would have been my grave
 
 ### 18
 Why did I come out of the womb to see labor and sorrow, that my days should be consumed with shame?
-

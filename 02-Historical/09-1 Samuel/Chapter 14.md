@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 14
 canon: "Historical"
 ---
-
 # 1 Samuel 14
 
 ### 1
@@ -161,4 +160,3 @@ Kish was the father of Saul; and Ner the father of Abner was the son of Abiel.
 
 ### 52
 There was severe war against the Philistines all the days of Saul; and when Saul saw any mighty man, or any valiant man, he took him into his service.
-

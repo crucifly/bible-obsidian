@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 53
 canon: "Prophets"
 ---
-
 # Isaiah 53
 
 ### 1
@@ -41,4 +40,3 @@ After the suffering of his soul, he will see the light and be satisfied. My righ
 
 ### 12
 Therefore will I give him a portion with the great, and he will divide the plunder with the strong; because he poured out his soul to death, and was counted with the transgressors; yet he bore the sin of many, and made intercession for the transgressors.
-

@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 16
 canon: "Torah"
 ---
-
 # Deuteronomy 16
 
 ### 1
@@ -71,4 +70,3 @@ You shall not plant for yourselves an Asherah of any kind of tree beside Yahweh 
 
 ### 22
 Neither shall you set yourself up a sacred stone which Yahweh your God hates.
-

@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 14
 canon: "Torah"
 ---
-
 # Exodus 14
 
 ### 1
@@ -98,4 +97,3 @@ Thus Yahweh saved Israel that day out of the hand of the Egyptians; and Israel s
 
 ### 31
 Israel saw the great work which Yahweh did to the Egyptians, and the people feared Yahweh; and they believed in Yahweh, and in his servant Moses.
-

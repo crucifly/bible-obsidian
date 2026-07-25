@@ -3,7 +3,6 @@ book: "Daniel"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Daniel 3
 
 ### 1
@@ -95,4 +94,3 @@ Therefore I make a decree, that every people, nation, and language, which speak 
 
 ### 30
 Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon.
-

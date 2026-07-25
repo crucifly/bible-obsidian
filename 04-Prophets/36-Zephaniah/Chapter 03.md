@@ -3,7 +3,6 @@ book: "Zephaniah"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Zephaniah 3
 
 ### 1
@@ -65,4 +64,3 @@ Behold, at that time I will deal with all those who afflict you, and I will save
 
 ### 20
 At that time will I bring you in, and at that time will I gather you; for I will give you honor and praise among all the peoples of the earth, when I restore your fortunes before your eyes, says Yahweh.
-

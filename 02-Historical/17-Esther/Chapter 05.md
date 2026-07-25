@@ -3,7 +3,6 @@ book: "Esther"
 chapter: 5
 canon: "Historical"
 ---
-
 # Esther 5
 
 ### 1
@@ -47,4 +46,3 @@ Yet all this avails me nothing, so long as I see Mordecai the Jew sitting at the
 
 ### 14
 Then Zeresh his wife and all his friends said to him, “Let a gallows be made fifty cubits high, and in the morning speak to the king about hanging Mordecai on it. Then go in merrily with the king to the banquet.” This pleased Haman, so he had the gallows made.
-

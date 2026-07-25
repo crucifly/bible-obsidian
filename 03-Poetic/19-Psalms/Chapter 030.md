@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 30
 canon: "Poetic"
 ---
-
 # Psalms 30
 
 ### 1
@@ -41,4 +40,3 @@ You have turned my mourning into dancing for me. You have removed my sackcloth, 
 
 ### 12
 To the end that my heart may sing praise to you, and not be silent. Yahweh my God, I will give thanks to you forever!
-

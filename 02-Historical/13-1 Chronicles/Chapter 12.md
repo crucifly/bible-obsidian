@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 12
 canon: "Historical"
 ---
-
 # 1 Chronicles 12
 
 ### 1
@@ -125,4 +124,3 @@ They were there with David three days, eating and drinking; for their brothers h
 
 ### 40
 Moreover those who were near to them, as far as Issachar, Zebulun, and Naphtali, brought bread on donkeys, on camels, on mules, and on oxen: supplies of flour, cakes of figs, clusters of raisins, wine, oil, cattle, and sheep in abundance; for there was joy in Israel.
-

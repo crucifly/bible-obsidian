@@ -3,7 +3,6 @@ book: "Galatians"
 chapter: 4
 canon: "New Testament"
 ---
-
 # Galatians 4
 
 ### 1
@@ -98,4 +97,3 @@ However what does the Scripture say? “Throw out the servant and her son, for t
 
 ### 31
 So then, brothers, we are not children of a servant, but of the free woman.
-

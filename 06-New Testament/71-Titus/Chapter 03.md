@@ -3,7 +3,6 @@ book: "Titus"
 chapter: 3
 canon: "New Testament"
 ---
-
 # Titus 3
 
 ### 1
@@ -50,4 +49,3 @@ Let our people also learn to maintain good works for necessary uses, that they m
 
 ### 15
 All who are with me greet you. Greet those who love us in faith. Grace be with you all. Amen.
-

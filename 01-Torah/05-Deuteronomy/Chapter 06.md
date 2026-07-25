@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 6
 canon: "Torah"
 ---
-
 # Deuteronomy 6
 
 ### 1
@@ -80,4 +79,3 @@ Yahweh commanded us to do all these statutes, to fear Yahweh our God, for our go
 
 ### 25
 It shall be righteousness to us, if we observe to do all this commandment before Yahweh our God, as he has commanded us.”
-

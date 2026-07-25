@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 117
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 117
 
 ### 1
@@ -239,4 +238,3 @@ Help
 
 ### 78
 © 2012- Global Grey ebooks. All rights reserved.
-

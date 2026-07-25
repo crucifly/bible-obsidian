@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 51
 canon: "Deuterocanonical"
 ---
-
 # Sirach 51
 
 ### 1
@@ -95,4 +94,3 @@ Let your soul rejoice in his mercy, and be not ashamed of his
 
 ### 30
 Work your work betimes, and in his time he will give you your
-

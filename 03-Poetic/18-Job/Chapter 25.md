@@ -3,7 +3,6 @@ book: "Job"
 chapter: 25
 canon: "Poetic"
 ---
-
 # Job 25
 
 ### 1
@@ -23,4 +22,3 @@ Behold, even the moon has no brightness, and the stars are not pure in his sight
 
 ### 6
 How much less man, who is a worm, the son of man, who is a worm!”
-

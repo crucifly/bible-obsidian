@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 16
 canon: "Historical"
 ---
-
 # 2 Kings 16
 
 ### 1
@@ -65,4 +64,3 @@ Now the rest of the acts of Ahaz which he did, aren’t they written in the book
 
 ### 20
 Ahaz slept with his fathers, and was buried with his fathers in David’s city, and Hezekiah his son reigned in his place.
-

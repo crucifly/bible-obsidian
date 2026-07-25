@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 85
 canon: "Poetic"
 ---
-
 # Psalms 85
 
 ### 1
@@ -44,4 +43,3 @@ Yes, Yahweh will give that which is good. Our land will yield its increase.
 
 ### 13
 Righteousness goes before him, And prepares the way for his steps.
-

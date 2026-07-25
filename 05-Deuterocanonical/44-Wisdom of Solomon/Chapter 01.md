@@ -3,7 +3,6 @@ book: "Wisdom of Solomon"
 chapter: 1
 canon: "Deuterocanonical"
 ---
-
 # Wisdom of Solomon 1
 
 ### 1
@@ -53,4 +52,3 @@ For he created all things, that they might have their being: and
 
 ### 16
 But ungodly men with their works and words called it to them: for
-

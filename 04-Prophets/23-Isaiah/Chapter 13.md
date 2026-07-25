@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 13
 canon: "Prophets"
 ---
-
 # Isaiah 13
 
 ### 1
@@ -71,4 +70,3 @@ But wild animals of the desert will lie there, and their houses will be full of 
 
 ### 22
 Wolves will cry in their fortresses, and jackals in the pleasant palaces. Her time is near to come, and her days will not be prolonged.
-

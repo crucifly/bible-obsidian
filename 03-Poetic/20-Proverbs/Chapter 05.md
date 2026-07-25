@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 5
 canon: "Poetic"
 ---
-
 # Proverbs 5
 
 ### 1
@@ -74,4 +73,3 @@ The evil deeds of the wicked ensnare him. The cords of his sin hold him firmly.
 
 ### 23
 He will die for lack of instruction. In the greatness of his folly, he will go astray.
-

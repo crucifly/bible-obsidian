@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 3
 canon: "Torah"
 ---
-
 # Numbers 3
 
 ### 1
@@ -158,4 +157,3 @@ from the firstborn of the children of Israel he took the money, one thousand thr
 
 ### 51
 and Moses gave the redemption money to Aaron and to his sons, according to Yahweh’s word, as Yahweh commanded Moses.
-

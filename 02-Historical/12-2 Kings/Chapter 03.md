@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 3
 canon: "Historical"
 ---
-
 # 2 Kings 3
 
 ### 1
@@ -86,4 +85,3 @@ When the king of Moab saw that the battle was too severe for him, he took with h
 
 ### 27
 Then he took his oldest son who would have reigned in his place, and offered him for a burnt offering on the wall. There was great wrath against Israel; and they departed from him, and returned to their own land.
-

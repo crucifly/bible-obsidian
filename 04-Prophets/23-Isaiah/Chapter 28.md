@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 28
 canon: "Prophets"
 ---
-
 # Isaiah 28
 
 ### 1
@@ -49,7 +48,7 @@ Therefore Yahweh’s word will be to them precept on precept, precept on precept
 Therefore hear Yahweh’s word, you scoffers, that rule this people in Jerusalem:
 
 ### 15
-“Because you have said, ‘We have made a covenant with death, and with Sheol  are we in agreement. When the overflowing scourge passes through, it won’t come to us; for we have made lies our refuge, and we have hidden ourselves under falsehood.’”
+“Because you have said, ‘We have made a covenant with death, and with Sheol are we in agreement. When the overflowing scourge passes through, it won’t come to us; for we have made lies our refuge, and we have hidden ourselves under falsehood.’”
 
 ### 16
 Therefore thus says the Lord Yahweh, “Behold, I lay in Zion for a foundation a stone, a tried stone, a precious cornerstone of a sure foundation. He who believes shall not act hastily.
@@ -58,7 +57,7 @@ Therefore thus says the Lord Yahweh, “Behold, I lay in Zion for a foundation a
 I will make justice the measuring line, and righteousness the plumb line. The hail will sweep away the refuge of lies, and the waters will overflow the hiding place.
 
 ### 18
-Your covenant with death shall be annulled, and your agreement with Sheol  shall not stand. When the overflowing scourge passes through, then you will be trampled down by it.
+Your covenant with death shall be annulled, and your agreement with Sheol shall not stand. When the overflowing scourge passes through, then you will be trampled down by it.
 
 ### 19
 As often as it passes through, it will seize you; for morning by morning it will pass through, by day and by night; and it will be nothing but terror to understand the message.”
@@ -92,4 +91,3 @@ Bread flour must be ground; so he will not always be threshing it. Although he d
 
 ### 29
 This also comes out from Yahweh of Armies, who is wonderful in counsel, and excellent in wisdom.
-

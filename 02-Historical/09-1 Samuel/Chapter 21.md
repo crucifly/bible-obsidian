@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 21
 canon: "Historical"
 ---
-
 # 1 Samuel 21
 
 ### 1
@@ -50,4 +49,3 @@ Then Achish said to his servants, “Look, you see the man is insane. Why then h
 
 ### 15
 Do I lack madmen, that you have brought this fellow to play the madman in my presence? Should this fellow come into my house?”
-

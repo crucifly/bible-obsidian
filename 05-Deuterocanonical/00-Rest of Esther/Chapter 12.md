@@ -3,7 +3,6 @@ book: "Rest of Esther"
 chapter: 12
 canon: "Deuterocanonical"
 ---
-
 # Rest of Esther 12
 
 ### 1
@@ -23,4 +22,3 @@ So the king commanded Mardocheus to serve in the court, and for
 
 ### 6
 Howbeit Aman the son of Amadathus the Agagite, who was in great
-

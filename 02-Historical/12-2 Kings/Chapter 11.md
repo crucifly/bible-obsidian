@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 11
 canon: "Historical"
 ---
-
 # 2 Kings 11
 
 ### 1
@@ -68,4 +67,3 @@ So all the people of the land rejoiced, and the city was quiet. They had slain A
 
 ### 21
 Jehoash was seven years old when he began to reign.
-

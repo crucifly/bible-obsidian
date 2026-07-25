@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 24
 canon: "Torah"
 ---
-
 # Numbers 24
 
 ### 1
@@ -80,4 +79,3 @@ But ships shall come from the coast of Kittim. They shall afflict Asshur, and sh
 
 ### 25
 Balaam rose up, and went and returned to his place; and Balak also went his way.
-

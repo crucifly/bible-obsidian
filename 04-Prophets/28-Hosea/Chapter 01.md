@@ -3,7 +3,6 @@ book: "Hosea"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Hosea 1
 
 ### 1
@@ -38,4 +37,3 @@ Yet the number of the children of Israel will be as the sand of the sea, which c
 
 ### 11
 The children of Judah and the children of Israel will be gathered together, and they will appoint themselves one head, and will go up from the land; for great will be the day of Jezreel.
-

@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 26
 canon: "Historical"
 ---
-
 # 1 Samuel 26
 
 ### 1
@@ -80,4 +79,3 @@ Behold, as your life was respected today in my eyes, so let my life be respected
 
 ### 25
 Then Saul said to David, “You are blessed, my son David. You will both do mightily, and will surely prevail.” So David went his way, and Saul returned to his place.
-

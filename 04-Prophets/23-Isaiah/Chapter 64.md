@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 64
 canon: "Prophets"
 ---
-
 # Isaiah 64
 
 ### 1
@@ -41,4 +40,3 @@ Our holy and our beautiful house, where our fathers praised you, is burned with 
 
 ### 12
 Will you hold yourself back for these things, Yahweh? Will you keep silent, and punish us very severely?
-

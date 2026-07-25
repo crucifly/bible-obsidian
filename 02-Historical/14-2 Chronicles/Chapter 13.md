@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 13
 canon: "Historical"
 ---
-
 # 2 Chronicles 13
 
 ### 1
@@ -71,4 +70,3 @@ But Abijah grew mighty, and took for himself fourteen wives, and became the fath
 
 ### 22
 The rest of the acts of Abijah, his ways, and his sayings are written in the commentary of the prophet Iddo.
-

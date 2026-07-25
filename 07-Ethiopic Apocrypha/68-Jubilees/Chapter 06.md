@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 6
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 6
 
 ### 1
@@ -119,4 +118,3 @@ For this reason the years will come upon them when they will disturb (the order)
 
 ### 38
 For this reason I command and testify to thee that thou mayst testify to them; for after thy death thy children will disturb (them), so that they will not make the year three hundred and sixty-four days only, and for this reason they will go wrong as to the new moons and seasons and sabbaths and festivals, and they will eat all kinds of blood with all kinds of flesh.
-

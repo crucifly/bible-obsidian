@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 78
 canon: "Poetic"
 ---
-
 # Psalms 78
 
 ### 1
@@ -221,4 +220,3 @@ from following the ewes that have their young, he brought him to be the shepherd
 
 ### 72
 So he was their shepherd according to the integrity of his heart, and guided them by the skillfulness of his hands.
-

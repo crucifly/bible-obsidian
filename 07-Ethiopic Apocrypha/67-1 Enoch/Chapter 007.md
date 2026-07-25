@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 7
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 7
 
 ### 1
@@ -23,4 +22,3 @@ And they began to sin against birds, and beasts, and reptiles, and fish, and to 
 
 ### 6
 Then the earth laid accusation against the lawless ones.
-

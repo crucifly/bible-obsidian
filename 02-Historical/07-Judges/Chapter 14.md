@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 14
 canon: "Historical"
 ---
-
 # Judges 14
 
 ### 1
@@ -65,4 +64,3 @@ Yahweh’s Spirit came mightily on him, and he went down to Ashkelon, and struck
 
 ### 20
 But Samson’s wife was given to his companion who had been his friend.
-

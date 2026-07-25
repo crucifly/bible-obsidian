@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 36
 canon: "Prophets"
 ---
-
 # Jeremiah 36
 
 ### 1
@@ -101,4 +100,3 @@ I will punish him, his offspring, and his servants for their iniquity. I will br
 
 ### 32
 Then took Jeremiah another scroll, and gave it to Baruch the scribe, the son of Neriah, who wrote therein from the mouth of Jeremiah all the words of the book which Jehoiakim king of Judah had burned in the fire; and many similar words were added to them.
-

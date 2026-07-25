@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 20
 canon: "New Testament"
 ---
-
 # Luke 20
 
 ### 1
@@ -31,7 +30,7 @@ They answered that they didn’t know where it was from.
 Jesus said to them, “Neither will I tell you by what authority I do these things.”
 
 ### 9
-He began to tell the people this parable. “A  man planted a vineyard, and rented it out to some farmers, and went into another country for a long time.
+He began to tell the people this parable. “A man planted a vineyard, and rented it out to some farmers, and went into another country for a long time.
 
 ### 10
 At the proper season, he sent a servant to the farmers to collect his share of the fruit of the vineyard. But the farmers beat him, and sent him away empty.
@@ -58,7 +57,7 @@ He will come and destroy these farmers, and will give the vineyard to others.”
 But he looked at them, and said, “Then what is this that is written, ‘The stone which the builders rejected, the same was made the chief cornerstone?’
 
 ### 18
-Everyone who falls on that stone will be broken to pieces,  but it will crush whomever it falls on to dust.”
+Everyone who falls on that stone will be broken to pieces, but it will crush whomever it falls on to dust.”
 
 ### 19
 The chief priests and the scribes sought to lay hands on him that very hour, but they feared the people—for they knew he had spoken this parable against them.
@@ -76,7 +75,7 @@ Is it lawful for us to pay taxes to Caesar, or not?”
 But he perceived their craftiness, and said to them, “Why do you test me?
 
 ### 24
-Show me a denarius. Whose image and inscription are on it?”  They answered, “Caesar’s.”
+Show me a denarius. Whose image and inscription are on it?” They answered, “Caesar’s.”
 
 ### 25
 He said to them, “Then give to Caesar the things that are Caesar’s, and to God the things that are God’s.”
@@ -146,4 +145,3 @@ In the hearing of all the people, he said to his disciples,
 
 ### 47
 who devour widows’ houses, and for a pretense make long prayers: these will receive greater condemnation.”
-

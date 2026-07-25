@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 41
 canon: "Prophets"
 ---
-
 # Jeremiah 41
 
 ### 1
@@ -59,4 +58,3 @@ They departed and lived in Geruth Chimham, which is by Bethlehem, to go to enter
 
 ### 18
 because of the Chaldeans; for they were afraid of them, because Ishmael the son of Nethaniah had killed Gedaliah the son of Ahikam, whom the king of Babylon made governor over the land.
-

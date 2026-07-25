@@ -3,7 +3,6 @@ book: "Zechariah"
 chapter: 6
 canon: "Prophets"
 ---
-
 # Zechariah 6
 
 ### 1
@@ -50,4 +49,3 @@ The crowns shall be to Helem, and to Tobijah, and to Jedaiah, and to Hen the son
 
 ### 15
 Those who are far off shall come and build in Yahweh’s temple; and you shall know that Yahweh of Armies has sent me to you. This will happen, if you will diligently obey Yahweh your God’s voice.”’”
-

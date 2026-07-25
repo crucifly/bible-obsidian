@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 10
 canon: "Torah"
 ---
-
 # Deuteronomy 10
 
 ### 1
@@ -71,4 +70,3 @@ He is your praise, and he is your God, who has done for you these great and awes
 
 ### 22
 Your fathers went down into Egypt with seventy persons; and now Yahweh your God has made you as the stars of the sky for multitude.
-

@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 5
 canon: "New Testament"
 ---
-
 # Revelation 5
 
 ### 1
@@ -47,4 +46,3 @@ I heard every created thing which is in heaven, on the earth, under the earth, o
 
 ### 14
 The four living creatures said, “Amen!” Then the elders fell down and worshiped.
-

@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 16
 canon: "Prophets"
 ---
-
 # Ezekiel 16
 
 ### 1
@@ -194,4 +193,3 @@ I will establish my covenant with you. Then you will know that I am Yahweh;
 
 ### 63
 that you may remember, and be confounded, and never open your mouth any more, because of your shame, when I have forgiven you all that you have done,” says the Lord Yahweh.’”
-

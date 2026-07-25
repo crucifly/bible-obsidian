@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 91
 canon: "Poetic"
 ---
-
 # Psalms 91
 
 ### 1
@@ -53,4 +52,3 @@ He will call on me, and I will answer him. I will be with him in trouble. I will
 
 ### 16
 I will satisfy him with long life, and show him my salvation.”
-

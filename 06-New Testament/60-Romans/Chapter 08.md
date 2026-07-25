@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 8
 canon: "New Testament"
 ---
-
 # Romans 8
 
 ### 1
@@ -122,4 +121,3 @@ For I am persuaded that neither death, nor life, nor angels, nor principalities,
 
 ### 39
 nor height, nor depth, nor any other created thing, will be able to separate us from God’s love, which is in Christ Jesus our Lord.
-

@@ -3,7 +3,6 @@ book: "2 Timothy"
 chapter: 3
 canon: "New Testament"
 ---
-
 # 2 Timothy 3
 
 ### 1
@@ -56,4 +55,3 @@ Every Scripture is God-breathed and profitable for teaching, for reproof, for co
 
 ### 17
 that the man of God may be complete, thoroughly equipped for every good work.
-

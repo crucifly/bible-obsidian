@@ -3,7 +3,6 @@ book: "Nahum"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Nahum 1
 
 ### 1
@@ -50,4 +49,3 @@ Yahweh has commanded concerning you: “No more descendants will bear your name.
 
 ### 15
 Behold, on the mountains the feet of him who brings good news, who publishes peace! Keep your feasts, Judah! Perform your vows, for the wicked one will no more pass through you. He is utterly cut off.
-

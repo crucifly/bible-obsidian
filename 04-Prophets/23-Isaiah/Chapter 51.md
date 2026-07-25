@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 51
 canon: "Prophets"
 ---
-
 # Isaiah 51
 
 ### 1
@@ -74,4 +73,3 @@ Thus says your Lord Yahweh, your God who pleads the cause of his people, “Beho
 
 ### 23
 and I will put it into the hand of those who afflict you, who have said to your soul, ‘Bow down, that we may walk over you;’ and you have laid your back as the ground, like a street to those who walk over.”
-

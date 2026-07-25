@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 27
 canon: "Prophets"
 ---
-
 # Isaiah 27
 
 ### 1
@@ -44,4 +43,3 @@ It will happen in that day, that Yahweh will thresh from the flowing stream of t
 
 ### 13
 It will happen in that day that a great trumpet will be blown; and those who were ready to perish in the land of Assyria, and those who were outcasts in the land of Egypt, shall come; and they will worship Yahweh in the holy mountain at Jerusalem.
-

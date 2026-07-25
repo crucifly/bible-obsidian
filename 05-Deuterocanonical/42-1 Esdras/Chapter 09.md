@@ -3,7 +3,6 @@ book: "1 Esdras"
 chapter: 9
 canon: "Deuterocanonical"
 ---
-
 # 1 Esdras 9
 
 ### 1
@@ -170,4 +169,3 @@ Then went they their way, every one to eat and drink, and make
 
 ### 55
 Because they understood the words wherein they were instructed,
-

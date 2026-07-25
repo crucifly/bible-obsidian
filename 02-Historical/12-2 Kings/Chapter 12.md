@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 12
 canon: "Historical"
 ---
-
 # 2 Kings 12
 
 ### 1
@@ -68,4 +67,3 @@ His servants arose, and made a conspiracy, and struck Joash at the house of Mill
 
 ### 21
 For Jozacar the son of Shimeath, and Jehozabad the son of Shomer, his servants, struck him, and he died; and they buried him with his fathers in David’s city; and Amaziah his son reigned in his place.
-

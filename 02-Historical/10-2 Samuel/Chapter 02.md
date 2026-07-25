@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 2
 canon: "Historical"
 ---
-
 # 2 Samuel 2
 
 ### 1
@@ -101,4 +100,3 @@ But David’s servants had struck Benjamin and of Abner’s men so that three hu
 
 ### 32
 They took up Asahel, and buried him in the tomb of his father, which was in Bethlehem. Joab and his men went all night, and the day broke on them at Hebron.
-

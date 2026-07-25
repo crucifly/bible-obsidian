@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 9
 canon: "New Testament"
 ---
-
 # Mark 9
 
 ### 1
@@ -133,13 +132,13 @@ For whoever will give you a cup of water to drink in my name, because you are Ch
 Whoever will cause one of these little ones who believe in me to stumble, it would be better for him if he were thrown into the sea with a millstone hung around his neck.
 
 ### 43
-If your hand causes you to stumble, cut it off. It is better for you to enter into life maimed, rather than having your two hands to go into Gehenna,  into the unquenchable fire,
+If your hand causes you to stumble, cut it off. It is better for you to enter into life maimed, rather than having your two hands to go into Gehenna, into the unquenchable fire,
 
 ### 44
 ‘where their worm doesn’t die, and the fire is not quenched.’
 
 ### 45
-If your foot causes you to stumble, cut it off. It is better for you to enter into life lame, rather than having your two feet to be cast into Gehenna,  into the fire that will never be quenched—
+If your foot causes you to stumble, cut it off. It is better for you to enter into life lame, rather than having your two feet to be cast into Gehenna, into the fire that will never be quenched—
 
 ### 46
 ‘where their worm doesn’t die, and the fire is not quenched.’
@@ -155,4 +154,3 @@ For everyone will be salted with fire, and every sacrifice will be seasoned with
 
 ### 50
 Salt is good, but if the salt has lost its saltiness, with what will you season it? Have salt in yourselves, and be at peace with one another.”
-

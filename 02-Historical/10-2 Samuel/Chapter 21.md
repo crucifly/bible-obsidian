@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 21
 canon: "Historical"
 ---
-
 # 2 Samuel 21
 
 ### 1
@@ -71,4 +70,3 @@ When he defied Israel, Jonathan the son of Shimei, David’s brother, killed him
 
 ### 22
 These four were born to the giant in Gath; and they fell by the hand of David, and by the hand of his servants.
-

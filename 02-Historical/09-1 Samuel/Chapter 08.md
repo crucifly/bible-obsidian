@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 8
 canon: "Historical"
 ---
-
 # 1 Samuel 8
 
 ### 1
@@ -71,4 +70,3 @@ Samuel heard all the words of the people, and he rehearsed them in the ears of Y
 
 ### 22
 Yahweh said to Samuel, “Listen to their voice, and make them a king.” Samuel said to the men of Israel, “Everyone go to your own city.”
-

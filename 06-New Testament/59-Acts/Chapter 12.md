@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 12
 canon: "New Testament"
 ---
-
 # Acts 12
 
 ### 1
@@ -80,4 +79,3 @@ But the word of God grew and multiplied.
 
 ### 25
 Barnabas and Saul returned to Jerusalem, when they had fulfilled their service, also taking with them John who was called Mark.
-

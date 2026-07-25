@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 29
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 29
 
 ### 1
@@ -71,4 +70,3 @@ The Book of Jubilees
 
 ### 22
 Dinah ravished, 1-3. Slaughter of the Shechemites, 4-6. Laws against intermarriage between Israel and the heathen, 7-17. Levi chosen for the priesthood on account of his slaughter of the Shechemites, 18-23. Dinah recovered, 24. Jacob's reproof, 25-6. (Cf. Gen. xxxiii.18, xxxiv.2, 4, 7, 13-14, 25-30, xxxv.5.)
-

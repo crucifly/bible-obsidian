@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 94
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 94
 
 ### 1
@@ -17,4 +16,3 @@ And [the Queen] returned and encamped in the city of Zion, and they remained the
 
 ### 4
 This I found among the manuscripts of the Church of Sophia in Constantinople. And the Archbishops who were there said unto him [Domitius?], “This is what is written from the days of Solomon the King.” And Domitius of Antioch said, Yea, that which is written up to the day of the death of Solomon is to be accepted, and that which hath been written by other prophets after his death is to be accepted likewise.”
-

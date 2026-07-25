@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 20
 canon: "Torah"
 ---
-
 # Exodus 20
 
 ### 1
@@ -83,4 +82,3 @@ If you make me an altar of stone, you shall not build it of cut stones; for if y
 
 ### 26
 You shall not go up by steps to my altar, that your nakedness may not be exposed to it.’
-

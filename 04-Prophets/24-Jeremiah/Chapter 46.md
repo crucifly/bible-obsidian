@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 46
 canon: "Prophets"
 ---
-
 # Jeremiah 46
 
 ### 1
@@ -89,4 +88,3 @@ I will deliver them into the hand of those who seek their lives, and into the ha
 
 ### 28
 Don’t be afraid, O Jacob my servant,” says Yahweh; “for I am with you; for I will make a full end of all the nations where I have driven you; but I will not make a full end of you, but I will correct you in measure, and will in no way leave you unpunished.”
-

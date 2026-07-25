@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 13
 canon: "New Testament"
 ---
-
 # Luke 13
 
 ### 1
@@ -67,7 +66,7 @@ It is like a grain of mustard seed, which a man took, and put in his own garden.
 Again he said, “To what shall I compare God’s Kingdom?
 
 ### 21
-It is like yeast, which a woman took and hid in three measures  of flour, until it was all leavened.”
+It is like yeast, which a woman took and hid in three measures of flour, until it was all leavened.”
 
 ### 22
 He went on his way through cities and villages, teaching, and traveling on to Jerusalem.
@@ -110,4 +109,3 @@ Nevertheless I must go on my way today and tomorrow and the next day, for it can
 
 ### 35
 Behold, your house is left to you desolate. I tell you, you will not see me, until you say, ‘Blessed is he who comes in the name of the Lord!’”
-

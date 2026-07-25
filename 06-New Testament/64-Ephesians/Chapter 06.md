@@ -3,7 +3,6 @@ book: "Ephesians"
 chapter: 6
 canon: "New Testament"
 ---
-
 # Ephesians 6
 
 ### 1
@@ -77,4 +76,3 @@ Peace be to the brothers, and love with faith, from God the Father and the Lord 
 
 ### 24
 Grace be with all those who love our Lord Jesus Christ with incorruptible love. Amen.
-

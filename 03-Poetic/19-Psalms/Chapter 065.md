@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 65
 canon: "Poetic"
 ---
-
 # Psalms 65
 
 ### 1
@@ -44,4 +43,3 @@ The wilderness grasslands overflow. The hills are clothed with gladness.
 
 ### 13
 The pastures are covered with flocks. The valleys also are clothed with grain. They shout for joy! They also sing.
-

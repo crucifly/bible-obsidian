@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 26
 canon: "Torah"
 ---
-
 # Numbers 26
 
 ### 1
@@ -200,4 +199,3 @@ But among these there was not a man of them who were counted by Moses and Aaron 
 
 ### 65
 For Yahweh had said of them, “They shall surely die in the wilderness.” There was not a man left of them, except Caleb the son of Jephunneh, and Joshua the son of Nun.
-

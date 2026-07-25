@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 9
 canon: "New Testament"
 ---
-
 # Acts 9
 
 ### 1
@@ -134,4 +133,3 @@ And it became known throughout all Joppa, and many believed in the Lord.
 
 ### 43
 He stayed many days in Joppa with a tanner named Simon.
-

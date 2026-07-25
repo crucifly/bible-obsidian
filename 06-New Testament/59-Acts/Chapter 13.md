@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 13
 canon: "New Testament"
 ---
-
 # Acts 13
 
 ### 1
@@ -161,4 +160,3 @@ But they shook off the dust of their feet against them, and came to Iconium.
 
 ### 52
 The disciples were filled with joy and with the Holy Spirit.
-

@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 17
 canon: "Historical"
 ---
-
 # Judges 17
 
 ### 1
@@ -44,4 +43,3 @@ Micah consecrated the Levite, and the young man became his priest, and was in th
 
 ### 13
 Then Micah said, “Now know I that Yahweh will do good to me, since I have a Levite as my priest.”
-

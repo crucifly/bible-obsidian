@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 15
 canon: "Poetic"
 ---
-
 # Psalms 15
 
 ### 1
@@ -20,4 +19,3 @@ In whose eyes a vile man is despised, but who honors those who fear Yahweh; he w
 
 ### 5
 he who doesn’t lend out his money for usury, nor take a bribe against the innocent. He who does these things shall never be shaken.
-

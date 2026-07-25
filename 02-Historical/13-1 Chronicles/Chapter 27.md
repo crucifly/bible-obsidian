@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 27
 canon: "Historical"
 ---
-
 # 1 Chronicles 27
 
 ### 1
@@ -107,4 +106,3 @@ Ahithophel was the king’s counselor: and Hushai the Archite was the king’s f
 
 ### 34
 After Ahithophel was Jehoiada the son of Benaiah, and Abiathar. Joab was the captain of the king’s army.
-

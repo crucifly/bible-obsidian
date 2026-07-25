@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 37
 canon: "Torah"
 ---
-
 # Genesis 37
 
 ### 1
@@ -113,4 +112,3 @@ All his sons and all his daughters rose up to comfort him, but he refused to be 
 
 ### 36
 The Midianites sold him into Egypt to Potiphar, an officer of Pharaoh’s, the captain of the guard.
-

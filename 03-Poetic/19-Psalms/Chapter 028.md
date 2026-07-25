@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 28
 canon: "Poetic"
 ---
-
 # Psalms 28
 
 ### 1
@@ -32,4 +31,3 @@ Yahweh is their strength. He is a stronghold of salvation to his anointed.
 
 ### 9
 Save your people, and bless your inheritance. Be their shepherd also, and bear them up forever.
-

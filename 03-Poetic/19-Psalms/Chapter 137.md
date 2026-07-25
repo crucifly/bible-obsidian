@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 137
 canon: "Poetic"
 ---
-
 # Psalms 137
 
 ### 1
@@ -32,4 +31,3 @@ Daughter of Babylon, doomed to destruction, he will be happy who rewards you, as
 
 ### 9
 Happy shall he be, who takes and dashes your little ones against the rock.
-

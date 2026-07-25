@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 23
 canon: "Deuterocanonical"
 ---
-
 # Sirach 23
 
 ### 1
@@ -89,4 +88,3 @@ And they that remain shall know that there is nothing better than
 
 ### 28
 It is great glory to follow the Lord, and to be received of him
-

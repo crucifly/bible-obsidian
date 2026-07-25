@@ -3,7 +3,6 @@ book: "Daniel"
 chapter: 12
 canon: "Prophets"
 ---
-
 # Daniel 12
 
 ### 1
@@ -44,4 +43,3 @@ Blessed is he who waits, and comes to the one thousand three hundred thirty-five
 
 ### 13
 “But go you your way until the end; for you will rest, and will stand in your inheritance at the end of the days.”
-

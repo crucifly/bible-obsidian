@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 41
 canon: "Prophets"
 ---
-
 # Ezekiel 41
 
 ### 1
@@ -83,4 +82,3 @@ There were made on them, on the doors of the temple, cherubim and palm trees, li
 
 ### 26
 There were closed windows and palm trees on the one side and on the other side, on the sides of the porch. This is how the side rooms of the house and the thresholds were arranged.
-

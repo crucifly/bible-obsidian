@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 17
 canon: "Torah"
 ---
-
 # Leviticus 17
 
 ### 1
@@ -53,4 +52,3 @@ For as to the life of all flesh, its blood is with its life: therefore I said to
 
 ### 16
 But if he doesn’t wash them, or bathe his flesh, then he shall bear his iniquity.’”
-

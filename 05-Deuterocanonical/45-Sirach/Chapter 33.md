@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 33
 canon: "Deuterocanonical"
 ---
-
 # Sirach 33
 
 ### 1
@@ -98,4 +97,3 @@ If thou have a servant, let him be unto thee as thyself, because
 
 ### 31
 If thou have a servant, entreat him as a brother: for thou hast
-

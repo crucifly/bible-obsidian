@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 88
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 88
 
 ### 1
@@ -14,4 +13,3 @@ And one of them drew a sword, and gave it to those elephants and camels and asse
 
 ### 3
 And as I was beholding in the vision, lo, one of those four who had come forth stoned (them) from heaven, and gathered and took all the great stars whose privy members were like those of horses, and bound them all hand and foot, and cast them in an abyss of the earth.
-

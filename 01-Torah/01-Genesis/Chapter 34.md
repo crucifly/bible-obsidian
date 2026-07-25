@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 34
 canon: "Torah"
 ---
-
 # Genesis 34
 
 ### 1
@@ -98,4 +97,3 @@ Jacob said to Simeon and Levi, “You have troubled me, to make me odious to the
 
 ### 31
 They said, “Should he deal with our sister as with a prostitute?”
-

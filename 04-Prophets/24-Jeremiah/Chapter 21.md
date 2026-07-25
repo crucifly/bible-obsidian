@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 21
 canon: "Prophets"
 ---
-
 # Jeremiah 21
 
 ### 1
@@ -47,4 +46,3 @@ Behold, I am against you, O inhabitant of the valley, and of the rock of the pla
 
 ### 14
 I will punish you according to the fruit of your doings, says Yahweh; and I will kindle a fire in her forest, and it will devour all that is around her.’”
-

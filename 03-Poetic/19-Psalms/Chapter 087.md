@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 87
 canon: "Poetic"
 ---
-
 # Psalms 87
 
 ### 1
@@ -26,4 +25,3 @@ Yahweh will count, when he writes up the peoples, “This one was born there.”
 
 ### 7
 Those who sing as well as those who dance say, “All my springs are in you.”
-

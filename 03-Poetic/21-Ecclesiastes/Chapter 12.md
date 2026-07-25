@@ -3,7 +3,6 @@ book: "Ecclesiastes"
 chapter: 12
 canon: "Poetic"
 ---
-
 # Ecclesiastes 12
 
 ### 1
@@ -47,4 +46,3 @@ This is the end of the matter. All has been heard. Fear God, and keep his comman
 
 ### 14
 For God will bring every work into judgment, with every hidden thing, whether it is good, or whether it is evil.
-

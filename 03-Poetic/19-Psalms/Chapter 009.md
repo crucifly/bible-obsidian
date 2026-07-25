@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 9
 canon: "Poetic"
 ---
-
 # Psalms 9
 
 ### 1
@@ -65,4 +64,3 @@ Arise, Yahweh! Don’t let man prevail. Let the nations be judged in your sight.
 
 ### 20
 Put them in fear, Yahweh. Let the nations know that they are only men..
-

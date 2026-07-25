@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 2
 canon: "Torah"
 ---
-
 # Deuteronomy 2
 
 ### 1
@@ -116,4 +115,3 @@ From Aroer, which is on the edge of the valley of the Arnon, and the city that i
 
 ### 37
 Only to the land of the children of Ammon you didn’t come near; all the banks of the river Jabbok, and the cities of the hill country, and wherever Yahweh our God forbade us.
-

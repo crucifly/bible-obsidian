@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 7
 canon: "Historical"
 ---
-
 # Joshua 7
 
 ### 1
@@ -83,4 +82,3 @@ Joshua said, “Why have you troubled us? Yahweh will trouble you today.” All 
 
 ### 26
 They raised over him a great heap of stones that remains to this day. Yahweh turned from the fierceness of his anger. Therefore the name of that place was called “The valley of Achor” to this day.
-

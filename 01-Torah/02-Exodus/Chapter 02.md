@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 2
 canon: "Torah"
 ---
-
 # Exodus 2
 
 ### 1
@@ -80,4 +79,3 @@ God heard their groaning, and God remembered his covenant with Abraham, with Isa
 
 ### 25
 God saw the children of Israel, and God was concerned about them.
-

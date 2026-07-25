@@ -3,7 +3,6 @@ book: "Nehemiah"
 chapter: 13
 canon: "Historical"
 ---
-
 # Nehemiah 13
 
 ### 1
@@ -98,4 +97,3 @@ Thus I cleansed them from all foreigners, and appointed duties for the priests a
 
 ### 31
 and for the wood offering, at times appointed, and for the first fruits. Remember me, my God, for good.
-

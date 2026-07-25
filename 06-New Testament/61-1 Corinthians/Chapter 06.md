@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 6
 canon: "New Testament"
 ---
-
 # 1 Corinthians 6
 
 ### 1
@@ -65,4 +64,3 @@ Or don’t you know that your body is a temple of the Holy Spirit who is in you,
 
 ### 20
 for you were bought with a price. Therefore glorify God in your body and in your spirit, which are God’s.
-

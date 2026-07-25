@@ -3,7 +3,6 @@ book: "Amos"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Amos 2
 
 ### 1
@@ -53,4 +52,3 @@ neither shall he stand who handles the bow; and he who is swift of foot won’t 
 
 ### 16
 and he who is courageous among the mighty will flee away naked on that day,” says Yahweh.
-

@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 10
 canon: "Historical"
 ---
-
 # 1 Samuel 10
 
 ### 1
@@ -86,4 +85,3 @@ Saul also went to his house to Gibeah; and the army went with him, whose hearts 
 
 ### 27
 But certain worthless fellows said, “How could this man save us?” They despised him, and brought him no present. But he held his peace.
-

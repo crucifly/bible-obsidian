@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 21
 canon: "Torah"
 ---
-
 # Exodus 21
 
 ### 1
@@ -113,4 +112,3 @@ the owner of the pit shall make it good. He shall give money to its owner, and t
 
 ### 36
 Or if it is known that the bull was in the habit of goring in the past, and its owner has not kept it in, he shall surely pay bull for bull, and the dead animal shall be his own.
-

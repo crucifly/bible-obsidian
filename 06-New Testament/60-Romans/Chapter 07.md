@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 7
 canon: "New Testament"
 ---
-
 # Romans 7
 
 ### 1
@@ -80,4 +79,3 @@ What a wretched man I am! Who will deliver me out of the body of this death?
 
 ### 25
 I thank God through Jesus Christ, our Lord! So then with the mind, I myself serve God’s law, but with the flesh, the sin’s law.
-

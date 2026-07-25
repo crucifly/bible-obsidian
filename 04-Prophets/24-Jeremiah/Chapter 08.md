@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 8
 canon: "Prophets"
 ---
-
 # Jeremiah 8
 
 ### 1
@@ -71,4 +70,3 @@ For the hurt of the daughter of my people, I am hurt. I mourn. Dismay has taken 
 
 ### 22
 Is there no balm in Gilead? Is there no physician there? Why then isn’t the health of the daughter of my people recovered?
-

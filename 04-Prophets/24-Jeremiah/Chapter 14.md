@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 14
 canon: "Prophets"
 ---
-
 # Jeremiah 14
 
 ### 1
@@ -71,4 +70,3 @@ Do not abhor us, for your name’s sake. Do not disgrace the throne of your glor
 
 ### 22
 Are there any among the vanities of the nations that can cause rain? Or can the sky give showers? Aren’t you he, Yahweh our God? Therefore we will wait for you; for you have made all these things.
-

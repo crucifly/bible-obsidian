@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 113
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 113
 
 ### 1
@@ -17,4 +16,3 @@ And Gregory answered and said unto them, “I will reveal unto you concerning th
 
 ### 4
 And one answered and said unto the Worker of Wonders (i.e. Gregory), “Now when Samâlyâl cometh, who is the False Christ (Antichrist), will the faith of the people of Ethiopia be destroyed by his attack?” And Gregory answered and said, “Assuredly not. Hath not David prophesied saying, ‘Ethiopia shall make her hands come to God?’ And this that he saith meaneth that the Ethiopians will neither pervert nor change this our faith and what we have ordered, and the faith of those who were before us, the teachers of the Law of the Apostles.”
-

@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 33
 canon: "Torah"
 ---
-
 # Deuteronomy 33
 
 ### 1
@@ -92,4 +91,3 @@ Israel dwells in safety; the fountain of Jacob alone, In a land of grain and new
 
 ### 29
 You are happy, Israel! Who is like you, a people saved by Yahweh, the shield of your help, the sword of your excellency? Your enemies will submit themselves to you. You will tread on their high places.”
-

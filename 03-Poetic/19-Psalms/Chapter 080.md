@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 80
 canon: "Poetic"
 ---
-
 # Psalms 80
 
 ### 1
@@ -62,4 +61,3 @@ So we will not turn away from you. Revive us, and we will call on your name.
 
 ### 19
 Turn us again, Yahweh God of Armies. Cause your face to shine, and we will be saved.
-

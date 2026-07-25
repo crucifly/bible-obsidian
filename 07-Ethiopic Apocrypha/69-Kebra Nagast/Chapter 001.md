@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 1
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 1
 
 ### 1
@@ -11,4 +10,3 @@ THE interpretation and explanation of the Three Hundred and Eighteen Orthodox [F
 
 ### 2
 https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html And He made Adam in His own image and likeness, so that He might remove Satan because of his pride, together with his host, and might establish Adam—His own plant—together with the righteous, His children, for His praises. For the plan of God was decided upon and decreed in that He said, “I will become man, and I will be in everything which I have created, I will abide in flesh.” And in the days that came after, by His good pleasure there was born in the flesh of the Second Zion the second Adam, Who was our Saviour Christ. This is our glory and our faith, our hope and our life, the Second Zion.[[27]](https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-of-sheba_complete-text.html#_ftn27)
-

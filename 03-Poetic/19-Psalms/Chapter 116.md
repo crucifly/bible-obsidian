@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 116
 canon: "Poetic"
 ---
-
 # Psalms 116
 
 ### 1
@@ -62,4 +61,3 @@ I will pay my vows to Yahweh, yes, in the presence of all his people,
 
 ### 19
 in the courts of Yahweh’s house, in the middle of you, Jerusalem. Praise Yah!
-

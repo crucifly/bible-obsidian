@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 114
 canon: "Poetic"
 ---
-
 # Psalms 114
 
 ### 1
@@ -29,4 +28,3 @@ Tremble, you earth, at the presence of the Lord, at the presence of the God of J
 
 ### 8
 who turned the rock into a pool of water, the flint into a spring of waters.
-

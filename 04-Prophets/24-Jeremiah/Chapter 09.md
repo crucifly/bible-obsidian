@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 9
 canon: "Prophets"
 ---
-
 # Jeremiah 9
 
 ### 1
@@ -83,4 +82,3 @@ But let him who glories glory in this, that he has understanding, and knows me, 
 
 ### 26
 Egypt, Judah, Edom, the children of Ammon, Moab, and all who have the corners of their hair cut off, who dwell in the wilderness; for all the nations are uncircumcised, and all the house of Israel are uncircumcised in heart.”
-

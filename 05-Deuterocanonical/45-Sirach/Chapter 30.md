@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 30
 canon: "Deuterocanonical"
 ---
-
 # Sirach 30
 
 ### 1
@@ -80,4 +79,3 @@ Envy and wrath shorten the life, and carefulness bringeth age
 
 ### 25
 A cheerful and good heart will have a care of his meat and diet.
-

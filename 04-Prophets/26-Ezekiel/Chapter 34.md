@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 34
 canon: "Prophets"
 ---
-
 # Ezekiel 34
 
 ### 1
@@ -98,4 +97,3 @@ They will know that I, Yahweh, their God am with them, and that they, the house 
 
 ### 31
 You my sheep, the sheep of my pasture, are men, and I am your God,’ says the Lord Yahweh.”
-

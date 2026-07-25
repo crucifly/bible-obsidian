@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 7
 canon: "Deuterocanonical"
 ---
-
 # Tobit 7
 
 ### 1
@@ -59,4 +58,3 @@ Which when she had done as he had bidden her, she brought her
 
 ### 18
 Be of good comfort, my daughter; the Lord of heaven and earth give
-

@@ -3,7 +3,6 @@ book: "Micah"
 chapter: 7
 canon: "Prophets"
 ---
-
 # Micah 7
 
 ### 1
@@ -65,4 +64,3 @@ He will again have compassion on us. He will tread our iniquities under foot; an
 
 ### 20
 You will give truth to Jacob, and mercy to Abraham, as you have sworn to our fathers from the days of old.
-

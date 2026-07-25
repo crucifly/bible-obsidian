@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 16
 canon: "Prophets"
 ---
-
 # Jeremiah 16
 
 ### 1
@@ -68,4 +67,3 @@ Should a man make to himself gods, which yet are no gods?”
 
 ### 21
 “Therefore behold, I will cause them to know, this once I will cause them to know my hand and my might. Then they will know that my name is Yahweh.”
-

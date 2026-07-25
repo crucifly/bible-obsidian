@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 17
 canon: "New Testament"
 ---
-
 # Revelation 17
 
 ### 1
@@ -59,4 +58,3 @@ For God has put in their hearts to do what he has in mind, to be of one mind, an
 
 ### 18
 The woman whom you saw is the great city, which reigns over the kings of the earth.”
-

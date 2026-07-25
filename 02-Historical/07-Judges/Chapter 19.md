@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 19
 canon: "Historical"
 ---
-
 # Judges 19
 
 ### 1
@@ -95,4 +94,3 @@ When he had come into his house, he took a knife, and cut up his concubine, and 
 
 ### 30
 It was so, that all who saw it said, “Such a deed has not been done or seen from the day that the children of Israel came up out of the land of Egypt to this day! Consider it, take counsel, and speak.”
-

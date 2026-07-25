@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 5
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 5
 
 ### 1
@@ -116,4 +115,3 @@ And the waters disappeared from above the earth in the fifth week in the seventh
 
 ### 37
 And on the twenty-seventh thereof he opened the ark, and sent forth from it beasts, and cattle, and birds, and every moving thing.
-

@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 37
 canon: "Deuterocanonical"
 ---
-
 # Sirach 37
 
 ### 1
@@ -98,4 +97,3 @@ For excess of meats bringeth sickness, and surfeiting will turn
 
 ### 31
 By surfeiting have many perished; but he that taketh heed
-

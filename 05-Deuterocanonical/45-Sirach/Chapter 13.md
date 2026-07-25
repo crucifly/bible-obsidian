@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 13
 canon: "Deuterocanonical"
 ---
-
 # Sirach 13
 
 ### 1
@@ -83,4 +82,3 @@ The heart of a man changeth his countenance, whether it be for
 
 ### 26
 A cheerful countenance is a token of a heart that is in
-

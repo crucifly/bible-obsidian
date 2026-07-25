@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 49
 canon: "Prophets"
 ---
-
 # Isaiah 49
 
 ### 1
@@ -83,4 +82,3 @@ But Yahweh says, “Even the captives of the mighty shall be taken away, and the
 
 ### 26
 I will feed those who oppress you with their own flesh; and they will be drunk on their own blood, as with sweet wine. Then all flesh shall know that I, Yahweh, am your Savior, and your Redeemer, the Mighty One of Jacob.”
-

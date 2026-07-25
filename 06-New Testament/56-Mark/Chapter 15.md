@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 15
 canon: "New Testament"
 ---
-
 # Mark 15
 
 ### 1
@@ -79,7 +78,7 @@ They offered him wine mixed with myrrh to drink, but he didn’t take it.
 Crucifying him, they parted his garments among them, casting lots on them, what each should take.
 
 ### 25
-It was the third hour,  and they crucified him.
+It was the third hour, and they crucified him.
 
 ### 26
 The superscription of his accusation was written over him, “THE KING OF THE JEWS.”
@@ -100,10 +99,10 @@ save yourself, and come down from the cross!”
 Likewise, also the chief priests mocking among themselves with the scribes said, “He saved others. He can’t save himself.
 
 ### 32
-Let the Christ, the King of Israel, now come down from the cross, that we may see and believe him.”  Those who were crucified with him also insulted him.
+Let the Christ, the King of Israel, now come down from the cross, that we may see and believe him.” Those who were crucified with him also insulted him.
 
 ### 33
-When the sixth hour  had come, there was darkness over the whole land until the ninth hour.
+When the sixth hour had come, there was darkness over the whole land until the ninth hour.
 
 ### 34
 At the ninth hour Jesus cried with a loud voice, saying, “Eloi, Eloi, lama sabachthani?” which is, being interpreted, “My God, my God, why have you forsaken me?”
@@ -146,4 +145,3 @@ He bought a linen cloth, and taking him down, wound him in the linen cloth, and 
 
 ### 47
 Mary Magdalene and Mary, the mother of Joses, saw where he was laid.
-

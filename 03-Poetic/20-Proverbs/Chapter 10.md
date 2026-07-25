@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 10
 canon: "Poetic"
 ---
-
 # Proverbs 10
 
 ### 1
@@ -101,4 +100,3 @@ The mouth of the righteous produces wisdom, but the perverse tongue will be cut 
 
 ### 32
 The lips of the righteous know what is acceptable, but the mouth of the wicked is perverse.
-

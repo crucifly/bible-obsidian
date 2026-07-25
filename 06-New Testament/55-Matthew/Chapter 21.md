@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 21
 canon: "New Testament"
 ---
-
 # Matthew 21
 
 ### 1
@@ -31,7 +30,7 @@ and brought the donkey and the colt, and laid their clothes on them; and he sat 
 A very great multitude spread their clothes on the road. Others cut branches from the trees, and spread them on the road.
 
 ### 9
-The multitudes who went in front of him, and those who followed, kept shouting, “Hosanna  to the son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!”
+The multitudes who went in front of him, and those who followed, kept shouting, “Hosanna to the son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!”
 
 ### 10
 When he had come into Jerusalem, all the city was stirred up, saying, “Who is this?”
@@ -61,7 +60,7 @@ He left them, and went out of the city to Bethany, and camped there.
 Now in the morning, as he returned to the city, he was hungry.
 
 ### 19
-Seeing a fig tree by the road, he came to it, and found nothing on it but leaves. He said to it, “Let there be no fruit from you forever!”  Immediately the fig tree withered away.
+Seeing a fig tree by the road, he came to it, and found nothing on it but leaves. He said to it, “Let there be no fruit from you forever!” Immediately the fig tree withered away.
 
 ### 20
 When the disciples saw it, they marveled, saying, “How did the fig tree immediately wither away?”
@@ -79,7 +78,7 @@ When he had come into the temple, the chief priests and the elders of the people
 Jesus answered them, “I also will ask you one question, which if you tell me, I likewise will tell you by what authority I do these things.
 
 ### 25
-The baptism of John, where was it from? From heaven or from men?”  They reasoned with themselves, saying, “If we say, ‘From heaven,’ he will ask us, ‘Why then did you not believe him?’
+The baptism of John, where was it from? From heaven or from men?” They reasoned with themselves, saying, “If we say, ‘From heaven,’ he will ask us, ‘Why then did you not believe him?’
 
 ### 26
 But if we say, ‘From men,’ we fear the multitude, for all hold John as a prophet.”
@@ -130,7 +129,7 @@ When therefore the lord of the vineyard comes, what will he do to those farmers?
 They told him, “He will miserably destroy those miserable men, and will lease out the vineyard to other farmers, who will give him the fruit in its season.”
 
 ### 42
-Jesus said to them, “Did you never read in the Scriptures,  ‘The stone which the builders rejected, the same was made the head of the corner. This was from the Lord. It is marvelous in our eyes?’
+Jesus said to them, “Did you never read in the Scriptures, ‘The stone which the builders rejected, the same was made the head of the corner. This was from the Lord. It is marvelous in our eyes?’
 
 ### 43
 “Therefore I tell you, God’s Kingdom will be taken away from you, and will be given to a nation producing its fruit.
@@ -143,4 +142,3 @@ When the chief priests and the Pharisees heard his parables, they perceived that
 
 ### 46
 When they sought to seize him, they feared the multitudes, because they considered him to be a prophet.
-

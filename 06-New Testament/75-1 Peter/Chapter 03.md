@@ -3,7 +3,6 @@ book: "1 Peter"
 chapter: 3
 canon: "New Testament"
 ---
-
 # 1 Peter 3
 
 ### 1
@@ -71,4 +70,3 @@ This is a symbol of baptism, which now saves you—not the putting away of the f
 
 ### 22
 who is at the right hand of God, having gone into heaven, angels and authorities and powers being made subject to him.
-

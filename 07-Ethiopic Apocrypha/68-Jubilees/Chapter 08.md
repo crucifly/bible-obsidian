@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 8
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 8
 
 ### 1
@@ -95,4 +94,3 @@ This is the land which came forth for Japheth and his sons as the portion of his
 
 ### 30
 But it is cold, and the land of Ham is hot, and the land of Shem is neither hot nor cold, but it is of blended cold and heat.
-

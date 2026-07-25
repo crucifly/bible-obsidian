@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 39
 canon: "Prophets"
 ---
-
 # Jeremiah 39
 
 ### 1
@@ -59,4 +58,3 @@ But I will deliver you in that day,” says Yahweh; “and you will not be given
 
 ### 18
 For I will surely save you, and you won’t fall by the sword, but you will escape with your life; because you have put your trust in me,” says Yahweh.’”
-

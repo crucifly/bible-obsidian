@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 10
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 10
 
 ### 1
@@ -137,4 +136,3 @@ And Japheth and his sons went towards the sea and dwelt in the land of their por
 
 ### 44
 And he called his dwelling-place, and the dwelling-place of his sons, Media, after the name of their father Madai.
-

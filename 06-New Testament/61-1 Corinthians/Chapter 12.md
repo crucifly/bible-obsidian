@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 12
 canon: "New Testament"
 ---
-
 # 1 Corinthians 12
 
 ### 1
@@ -98,4 +97,3 @@ Do all have gifts of healings? Do all speak with various languages? Do all inter
 
 ### 31
 But earnestly desire the best gifts. Moreover, I show a most excellent way to you.
-

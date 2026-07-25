@@ -3,7 +3,6 @@ book: "Lamentations"
 chapter: 5
 canon: "Prophets"
 ---
-
 # Lamentations 5
 
 ### 1
@@ -71,4 +70,3 @@ Turn us to yourself, Yahweh, and we will be turned. Renew our days as of old.
 
 ### 22
 But you have utterly rejected us. You are very angry against us.
-

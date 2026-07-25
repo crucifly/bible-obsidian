@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 3
 canon: "New Testament"
 ---
-
 # Acts 3
 
 ### 1
@@ -83,4 +82,3 @@ You are the children of the prophets, and of the covenant which God made with ou
 
 ### 26
 God, having raised up his servant Jesus, sent him to you first to bless you, in turning away every one of you from your wickedness.”
-

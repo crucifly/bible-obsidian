@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 47
 canon: "Torah"
 ---
-
 # Genesis 47
 
 ### 1
@@ -98,4 +97,3 @@ but when I sleep with my fathers, you shall carry me out of Egypt, and bury me i
 
 ### 31
 He said, “Swear to me,” and he swore to him. Israel bowed himself on the bed’s head.
-

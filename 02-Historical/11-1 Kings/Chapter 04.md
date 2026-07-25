@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 4
 canon: "Historical"
 ---
-
 # 1 Kings 4
 
 ### 1
@@ -107,4 +106,3 @@ He spoke of trees, from the cedar that is in Lebanon even to the hyssop that gro
 
 ### 34
 People of all nations came to hear the wisdom of Solomon, sent by all kings of the earth, who had heard of his wisdom.
-

@@ -3,7 +3,6 @@ book: "Job"
 chapter: 19
 canon: "Poetic"
 ---
-
 # Job 19
 
 ### 1
@@ -92,4 +91,3 @@ If you say, ‘How we will persecute him!’ because the root of the matter is f
 
 ### 29
 be afraid of the sword, for wrath brings the punishments of the sword, that you may know there is a judgment.”
-

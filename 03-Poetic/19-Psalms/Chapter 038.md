@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 38
 canon: "Poetic"
 ---
-
 # Psalms 38
 
 ### 1
@@ -71,4 +70,3 @@ Don’t forsake me, Yahweh. My God, don’t be far from me.
 
 ### 22
 Hurry to help me, Lord, my salvation.
-

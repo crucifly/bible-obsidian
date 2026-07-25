@@ -3,7 +3,6 @@ book: "Ecclesiastes"
 chapter: 8
 canon: "Poetic"
 ---
-
 # Ecclesiastes 8
 
 ### 1
@@ -56,4 +55,3 @@ When I applied my heart to know wisdom, and to see the business that is done on 
 
 ### 17
 then I saw all the work of God, that man can’t find out the work that is done under the sun, because however much a man labors to seek it out, yet he won’t find it. Yes even though a wise man thinks he can comprehend it, he won’t be able to find it.
-

@@ -3,7 +3,6 @@ book: "John"
 chapter: 14
 canon: "New Testament"
 ---
-
 # John 14
 
 ### 1
@@ -52,7 +51,7 @@ If you will ask anything in my name, I will do it.
 If you love me, keep my commandments.
 
 ### 16
-I will pray to the Father, and he will give you another Counselor,  that he may be with you forever,—
+I will pray to the Father, and he will give you another Counselor, that he may be with you forever,—
 
 ### 17
 the Spirit of truth, whom the world can’t receive; for it doesn’t see him, neither knows him. You know him, for he lives with you, and will be in you.
@@ -98,4 +97,3 @@ I will no more speak much with you, for the prince of the world comes, and he ha
 
 ### 31
 But that the world may know that I love the Father, and as the Father commanded me, even so I do. Arise, let us go from here.
-

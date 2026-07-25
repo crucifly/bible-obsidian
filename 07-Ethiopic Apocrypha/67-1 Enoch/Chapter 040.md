@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 40
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 40
 
 ### 1
@@ -32,4 +31,3 @@ After that I asked the angel of peace who went with me, who showed me everything
 
 ### 9
 And he said to me: ‘This first is Michael, the merciful and long-suffering: and the second, who is set over all the diseases and all the wounds of the children of men, is Raphael: and the third, who is set over all the powers, is Gabriel: and the fourth, who is set over the repentance unto hope of those who inherit eternal life, is named Phanuel.’ And these are the four angels of the Lord of Spirits and the four voices I heard in those days.
-

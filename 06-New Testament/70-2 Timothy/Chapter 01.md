@@ -3,7 +3,6 @@ book: "2 Timothy"
 chapter: 1
 canon: "New Testament"
 ---
-
 # 2 Timothy 1
 
 ### 1
@@ -59,4 +58,3 @@ but when he was in Rome, he sought me diligently, and found me
 
 ### 18
 (the Lord grant to him to find the Lord’s mercy in that day); and in how many things he served at Ephesus, you know very well.
-

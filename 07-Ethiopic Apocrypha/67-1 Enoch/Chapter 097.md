@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 97
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 97
 
 ### 1
@@ -32,4 +31,3 @@ Woe to you who acquire silver and gold in unrighteousness and say: “We have be
 
 ### 9
 And now let us do what we purposed: For we have gathered silver, 9d And many are the husbandmen in our houses.” 9e And our granaries are (brim) full as with water, 10 Yea and like water your lies shall flow away; For your riches shall not abide But speedily ascend from you; For ye have acquired it all in unrighteousness, And ye shall be given over to a great curse.
-

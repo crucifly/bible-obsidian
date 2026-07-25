@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 67
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 67
 
 ### 1
@@ -44,4 +43,3 @@ And I heard Michael answering and saying: ‘This judgement wherewith the angels
 
 ### 13
 Because these waters of judgement minister to the healing of the body of the kings and the lust of their body; therefore they will not see and will not believe that those waters will change and become a fire which burns for ever.
-

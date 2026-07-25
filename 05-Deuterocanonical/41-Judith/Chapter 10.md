@@ -3,7 +3,6 @@ book: "Judith"
 chapter: 10
 canon: "Deuterocanonical"
 ---
-
 # Judith 10
 
 ### 1
@@ -74,4 +73,3 @@ So they shewed him of her; and he came out before his tent with
 
 ### 23
 And when Judith was come before him and his servants they all
-

@@ -3,7 +3,6 @@ book: "Wisdom of Solomon"
 chapter: 18
 canon: "Deuterocanonical"
 ---
-
 # Wisdom of Solomon 18
 
 ### 1
@@ -80,4 +79,3 @@ For in the long garment was the whole world, and in the four rows
 
 ### 25
 Unto these the destroyer gave place, and was afraid of them: for
-

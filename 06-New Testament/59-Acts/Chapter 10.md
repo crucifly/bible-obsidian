@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 10
 canon: "New Testament"
 ---
-
 # Acts 10
 
 ### 1
@@ -61,7 +60,7 @@ Now while Peter was very perplexed in himself what the vision which he had seen 
 and called and asked whether Simon, who was also called Peter, was lodging there.
 
 ### 19
-While Peter was pondering the vision, the Spirit said to him, “Behold, three  men seek you.
+While Peter was pondering the vision, the Spirit said to him, “Behold, three men seek you.
 
 ### 20
 But arise, get down, and go with them, doubting nothing; for I have sent them.”
@@ -149,4 +148,3 @@ For they heard them speaking in other languages and magnifying God. Then Peter a
 
 ### 48
 He commanded them to be baptized in the name of Jesus Christ. Then they asked him to stay some days.
-

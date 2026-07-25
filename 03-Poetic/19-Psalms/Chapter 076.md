@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 76
 canon: "Poetic"
 ---
-
 # Psalms 76
 
 ### 1
@@ -41,4 +40,3 @@ Make vows to Yahweh your God, and fulfill them! Let all of his neighbors bring p
 
 ### 12
 He will cut off the spirit of princes. He is feared by the kings of the earth.
-

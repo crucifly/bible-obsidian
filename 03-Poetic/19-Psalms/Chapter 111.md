@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 111
 canon: "Poetic"
 ---
-
 # Psalms 111
 
 ### 1
@@ -35,4 +34,3 @@ He has sent redemption to his people. He has ordained his covenant forever. His 
 
 ### 10
 The fear of Yahweh is the beginning of wisdom. All those who do his work have a good understanding. His praise endures forever!
-

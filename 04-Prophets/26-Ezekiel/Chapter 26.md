@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 26
 canon: "Prophets"
 ---
-
 # Ezekiel 26
 
 ### 1
@@ -68,4 +67,3 @@ then I will bring you down with those who descend into the pit, to the people of
 
 ### 21
 I will make you a terror, and you will no more have any being. Though you are sought for, yet you will never be found again,’ says the Lord Yahweh.”
-

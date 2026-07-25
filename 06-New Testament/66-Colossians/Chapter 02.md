@@ -3,7 +3,6 @@ book: "Colossians"
 chapter: 2
 canon: "New Testament"
 ---
-
 # Colossians 2
 
 ### 1
@@ -74,4 +73,3 @@ If you died with Christ from the elements of the world, why, as though living in
 
 ### 23
 Which things indeed appear like wisdom in self-imposed worship, and humility, and severity to the body; but aren’t of any value against the indulgence of the flesh.
-

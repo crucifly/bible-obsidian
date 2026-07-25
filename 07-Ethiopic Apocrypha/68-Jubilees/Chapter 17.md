@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 17
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 17
 
 ### 1
@@ -59,4 +58,3 @@ And the Lord knew that Abraham was faithful in all his afflictions; for He had t
 
 ### 18
 And in everything wherein He had tried him, he was found faithful, and his soul was not impatient, and he was not slow to act; for he was faithful and a lover of the Lord.
-

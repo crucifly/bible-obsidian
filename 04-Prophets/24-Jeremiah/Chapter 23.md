@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 23
 canon: "Prophets"
 ---
-
 # Jeremiah 23
 
 ### 1
@@ -125,4 +124,3 @@ therefore, behold, I will utterly forget you, and I will cast you off, and the c
 
 ### 40
 I will bring an everlasting reproach on you, and a perpetual shame, which will not be forgotten.’”
-

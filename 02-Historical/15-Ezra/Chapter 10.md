@@ -3,7 +3,6 @@ book: "Ezra"
 chapter: 10
 canon: "Historical"
 ---
-
 # Ezra 10
 
 ### 1
@@ -137,4 +136,3 @@ Of the sons of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Iddo, and Joel, Benaiah.
 
 ### 44
 All these had taken foreign wives; and some of them had wives by whom they had children.
-

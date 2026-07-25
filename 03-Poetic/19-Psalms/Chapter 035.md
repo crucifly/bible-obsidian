@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 35
 canon: "Poetic"
 ---
-
 # Psalms 35
 
 ### 1
@@ -89,4 +88,3 @@ Let them shout for joy and be glad, who favor my righteous cause. Yes, let them 
 
 ### 28
 My tongue shall talk about your righteousness and about your praise all day long.
-

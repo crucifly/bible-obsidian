@@ -3,7 +3,6 @@ book: "2 Meqabyan"
 chapter: 2
 canon: "Deuterocanonical"
 ---
-
 # 2 Meqabyan 2
 
 ### 1
@@ -38,4 +37,3 @@ For His eyes are revealed and He does not withhold; His ears are opened and He d
 
 ### 11
 He cast off his clothes, wore sackcloth, sprinkled dust on his head, and cried and wept before his Creator, the Lord, because of the sin he had committed.
-

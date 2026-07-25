@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 33
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 33
 
 ### 1
@@ -80,4 +79,3 @@ The Book of Jubilees
 
 ### 25
 Warfare of the Amorite kings against Jacob and his sons, 1-9. Jacob sends Joseph to visit his brethren, 10. Joseph sold and carried down into Egypt, 11-12 (cf. Gen. xxxvii.14, 17, 18, 25, 32-6). Deaths of Bilhah and Dinah, 15. Jacob mourns for Joseph, 13, 14, 17. Institution of Day of Atonement on day when news of Joseph's death arrived, 18-19. Wives of Jacob's son's, 20-1.
-

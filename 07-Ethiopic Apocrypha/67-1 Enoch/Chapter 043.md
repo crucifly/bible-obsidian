@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 43
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 43
 
 ### 1
@@ -17,4 +16,3 @@ And I asked the angel who went with me who showed me what was hidden: ‘What ar
 
 ### 4
 And he said to me: ‘The Lord of Spirits hath showed thee their parabolic meaning (lit. ‘their parable’): these are the names of the holy who dwell on the earth and believe in the name of the Lord of Spirits for ever and ever.’
-

@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 41
 canon: "Torah"
 ---
-
 # Genesis 41
 
 ### 1
@@ -176,4 +175,3 @@ The famine was over all the surface of the earth. Joseph opened all the store ho
 
 ### 57
 All countries came into Egypt, to Joseph, to buy grain, because the famine was severe in all the earth.
-

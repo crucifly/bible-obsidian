@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 42
 canon: "Deuterocanonical"
 ---
-
 # Sirach 42
 
 ### 1
@@ -80,4 +79,3 @@ All things are double one against another: and he hath made
 
 ### 25
 One thing establisheth the good or another: and who shall be
-

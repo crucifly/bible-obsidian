@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 3
 canon: "Torah"
 ---
-
 # Genesis 3
 
 ### 1
@@ -77,4 +76,3 @@ Therefore Yahweh God sent him out from the garden of Eden, to till the ground fr
 
 ### 24
 So he drove out the man; and he placed cherubim at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life.
-

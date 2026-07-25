@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 48
 canon: "Prophets"
 ---
-
 # Jeremiah 48
 
 ### 1
@@ -146,4 +145,3 @@ Woe to you, O Moab! The people of Chemosh are undone; for your sons are taken aw
 
 ### 47
 “Yet I will reverse the captivity of Moab in the latter days,” says Yahweh. Thus far is the judgment of Moab.
-

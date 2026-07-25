@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 45
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 45
 
 ### 1
@@ -59,4 +58,3 @@ The Book of Jubilees
 
 ### 18
 Prosperity of Israel in Egypt, 1-2. Death of Joseph, 3-5. War between Egypt and Canaan during which the bones of all the sons of Jacob except Joseph are buried at Hebron, 6-11. Egypt oppresses Israel, 12-16. (Cf. Gen. l.22, 25-6; Exod. i.6-14.)
-

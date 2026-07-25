@@ -3,7 +3,6 @@ book: "Nehemiah"
 chapter: 10
 canon: "Historical"
 ---
-
 # Nehemiah 10
 
 ### 1
@@ -122,4 +121,3 @@ The priest the son of Aaron shall be with the Levites, when the Levites take tit
 
 ### 39
 For the children of Israel and the children of Levi shall bring the wave offering of the grain, of the new wine, and of the oil, to the rooms, where the vessels of the sanctuary are, and the priests who minister, with the gatekeepers and the singers. We will not forsake the house of our God.
-

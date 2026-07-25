@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 110
 canon: "Poetic"
 ---
-
 # Psalms 110
 
 ### 1
@@ -26,4 +25,3 @@ He will judge among the nations. He will heap up dead bodies. He will crush the 
 
 ### 7
 He will drink of the brook on the way; therefore he will lift up his head.
-

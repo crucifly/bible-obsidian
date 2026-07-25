@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 40
 canon: "Torah"
 ---
-
 # Exodus 40
 
 ### 1
@@ -119,4 +118,3 @@ but if the cloud wasn’t taken up, then they didn’t travel until the day that
 
 ### 38
 For the cloud of Yahweh was on the tabernacle by day, and there was fire in the cloud by night, in the sight of all the house of Israel, throughout all their journeys.
-

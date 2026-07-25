@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 46
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 46
 
 ### 1
@@ -23,4 +22,3 @@ And these are they who †judge† the stars of heaven, [And raise their hands a
 
 ### 8
 And they persecute the houses of His congregations, And the faithful who hang upon the name of the Lord of Spirits.
-

@@ -3,7 +3,6 @@ book: "Hebrews"
 chapter: 5
 canon: "New Testament"
 ---
-
 # Hebrews 5
 
 ### 1
@@ -47,4 +46,3 @@ For everyone who lives on milk is not experienced in the word of righteousness, 
 
 ### 14
 But solid food is for those who are full grown, who by reason of use have their senses exercised to discern good and evil.
-

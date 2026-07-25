@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 4
 canon: "Deuterocanonical"
 ---
-
 # Sirach 4
 
 ### 1
@@ -98,4 +97,3 @@ Be not as a lion in thy house, nor frantick among thy servants.
 
 ### 31
 Let not thine hand be stretched out to receive, and shut when thou
-

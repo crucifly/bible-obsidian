@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 3
 canon: "New Testament"
 ---
-
 # Romans 3
 
 ### 1
@@ -98,4 +97,3 @@ since indeed there is one God who will justify the circumcised by faith, and the
 
 ### 31
 Do we then nullify the law through faith? May it never be! No, we establish the law.
-

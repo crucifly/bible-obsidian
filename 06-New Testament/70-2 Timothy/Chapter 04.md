@@ -3,7 +3,6 @@ book: "2 Timothy"
 chapter: 4
 canon: "New Testament"
 ---
-
 # 2 Timothy 4
 
 ### 1
@@ -71,4 +70,3 @@ Be diligent to come before winter. Eubulus salutes you, as do Pudens, Linus, Cla
 
 ### 22
 The Lord Jesus Christ be with your spirit. Grace be with you. Amen.
-

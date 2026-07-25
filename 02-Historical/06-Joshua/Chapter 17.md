@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 17
 canon: "Historical"
 ---
-
 # Joshua 17
 
 ### 1
@@ -59,4 +58,3 @@ Joshua spoke to the house of Joseph, that is, to Ephraim and to Manasseh, saying
 
 ### 18
 but the hill country shall be yours. Although it is a forest, you shall cut it down, and it’s farthest extent shall be yours; for you shall drive out the Canaanites, though they have chariots of iron, and though they are strong.”
-

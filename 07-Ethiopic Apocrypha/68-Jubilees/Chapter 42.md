@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 42
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 42
 
 ### 1
@@ -86,4 +85,3 @@ The Book of Jubilees
 
 ### 27
 Joseph's plan to stay his brethren, 1-10. Judah's supplication, 11-13. Joseph makes himself known to his brethren and sends them back for his father, 14-24. (Cf. Gen. xliv.3-10, 12-18, 27-8, 30-2; xlv.1-2, 5-9, 12, 18, 20-1, 23, 25-8.)
-

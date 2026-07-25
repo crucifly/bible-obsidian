@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 21
 canon: "Torah"
 ---
-
 # Leviticus 21
 
 ### 1
@@ -77,4 +76,3 @@ He shall not come near to the veil, nor come near to the altar, because he has a
 
 ### 24
 So Moses spoke to Aaron, and to his sons, and to all the children of Israel.
-

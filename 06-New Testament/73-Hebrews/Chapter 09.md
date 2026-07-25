@@ -3,7 +3,6 @@ book: "Hebrews"
 chapter: 9
 canon: "New Testament"
 ---
-
 # Hebrews 9
 
 ### 1
@@ -89,4 +88,3 @@ Inasmuch as it is appointed for men to die once, and after this, judgment,
 
 ### 28
 so Christ also, having been offered once to bear the sins of many, will appear a second time, without sin, to those who are eagerly waiting for him for salvation.
-

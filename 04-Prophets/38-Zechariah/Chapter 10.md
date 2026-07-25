@@ -3,7 +3,6 @@ book: "Zechariah"
 chapter: 10
 canon: "Prophets"
 ---
-
 # Zechariah 10
 
 ### 1
@@ -41,4 +40,3 @@ He will pass through the sea of affliction, and will strike the waves in the sea
 
 ### 12
 I will strengthen them in Yahweh; and they will walk up and down in his name,” says Yahweh.
-

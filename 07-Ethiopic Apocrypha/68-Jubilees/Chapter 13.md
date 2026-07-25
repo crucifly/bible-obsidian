@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 13
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 13
 
 ### 1
@@ -92,4 +91,3 @@ And the king of Sodom came to him and bowed himself before him, and said: 'Our L
 
 ### 29
 And Abram said unto him: 'I lift up my hands to the Most High God, that from a thread to a shoe-latchet I shall not take aught that is thine lest thou shouldst say, I have made Abram rich; save only what the young men have eaten, and the portion of the men who went with me -Aner, Eschol, and Mamre. These shall take their portion.'
-

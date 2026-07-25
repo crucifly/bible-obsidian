@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 26
 canon: "Torah"
 ---
-
 # Genesis 26
 
 ### 1
@@ -110,4 +109,3 @@ When Esau was forty years old, he took as wife Judith, the daughter of Beeri the
 
 ### 35
 They grieved Isaac’s and Rebekah’s spirits.
-

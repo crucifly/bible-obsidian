@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 15
 canon: "New Testament"
 ---
-
 # Acts 15
 
 ### 1
@@ -37,7 +36,7 @@ He made no distinction between us and them, cleansing their hearts by faith.
 Now therefore why do you tempt God, that you should put a yoke on the neck of the disciples which neither our fathers nor we were able to bear?
 
 ### 11
-But we believe that we are saved through the grace of the Lord Jesus,  just as they are.”
+But we believe that we are saved through the grace of the Lord Jesus, just as they are.”
 
 ### 12
 All the multitude kept silence, and they listened to Barnabas and Paul reporting what signs and wonders God had done among the nations through them.
@@ -128,4 +127,3 @@ but Paul chose Silas, and went out, being commended by the brothers to the grace
 
 ### 41
 He went through Syria and Cilicia, strengthening the assemblies.
-

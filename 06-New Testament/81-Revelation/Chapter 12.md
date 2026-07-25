@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 12
 canon: "New Testament"
 ---
-
 # Revelation 12
 
 ### 1
@@ -56,4 +55,3 @@ The earth helped the woman, and the earth opened its mouth and swallowed up the 
 
 ### 17
 The dragon grew angry with the woman, and went away to make war with the rest of her offspring, who keep God’s commandments and hold Jesus’ testimony.
-

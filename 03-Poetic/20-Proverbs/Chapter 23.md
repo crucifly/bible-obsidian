@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 23
 canon: "Poetic"
 ---
-
 # Proverbs 23
 
 ### 1
@@ -110,4 +109,3 @@ Yes, you will be as he who lies down in the middle of the sea, or as he who lies
 
 ### 35
 “They hit me, and I was not hurt! They beat me, and I don’t feel it! When will I wake up? I can do it again. I can find another.”
-

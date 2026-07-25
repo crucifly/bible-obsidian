@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 33
 canon: "Poetic"
 ---
-
 # Psalms 33
 
 ### 1
@@ -71,4 +70,3 @@ For our heart rejoices in him, because we have trusted in his holy name.
 
 ### 22
 Let your loving kindness be on us, Yahweh, since we have hoped in you.
-

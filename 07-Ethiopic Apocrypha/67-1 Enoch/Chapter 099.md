@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 99
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 99
 
 ### 1
@@ -53,4 +52,3 @@ Woe to them who work unrighteousness and help oppression, And slay their neighbo
 
 ### 16
 For He shall cast down your glory, And bring affliction on your hearts, And shall arouse His fierce indignation, And destroy you all with the sword; And all the holy and righteous shall remember your sins.
-

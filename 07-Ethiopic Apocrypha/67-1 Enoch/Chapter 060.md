@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 60
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 60
 
 ### 1
@@ -71,4 +70,3 @@ And the angel of peace who was with me said to me: ‘These two monsters, prepar
 
 ### 25
 When the punishment of the Lord of Spirits shall rest upon them, it shall rest in order that the punishment of the Lord of Spirits may not come, in vain, and it shall slay the children with their mothers and the children with their fathers. Afterwards the judgement shall take place according to His mercy and His patience.’
-

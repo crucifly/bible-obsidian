@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 1
 canon: "New Testament"
 ---
-
 # Acts 1
 
 ### 1
@@ -83,4 +82,3 @@ to take part in this ministry and apostleship from which Judas fell away, that h
 
 ### 26
 They drew lots for them, and the lot fell on Matthias, and he was counted with the eleven apostles.
-

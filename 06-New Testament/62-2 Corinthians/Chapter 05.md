@@ -3,7 +3,6 @@ book: "2 Corinthians"
 chapter: 5
 canon: "New Testament"
 ---
-
 # 2 Corinthians 5
 
 ### 1
@@ -68,4 +67,3 @@ We are therefore ambassadors on behalf of Christ, as though God were entreating 
 
 ### 21
 For him who knew no sin he made to be sin on our behalf; so that in him we might become the righteousness of God.
-

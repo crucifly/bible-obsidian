@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 19
 canon: "Torah"
 ---
-
 # Leviticus 19
 
 ### 1
@@ -116,4 +115,3 @@ You shall have just balances, just weights, a just ephah, and a just hin. I am Y
 
 ### 37
 “‘You shall observe all my statutes, and all my ordinances, and do them. I am Yahweh.’”
-

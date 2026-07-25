@@ -3,7 +3,6 @@ book: "2 Meqabyan"
 chapter: 14
 canon: "Deuterocanonical"
 ---
-
 # 2 Meqabyan 14
 
 ### 1
@@ -113,4 +112,3 @@ At that time you will see that you arise with the dead, and you will marvel at a
 
 ### 36
 You know that you will arise with the dead and that you will receive your hardship according to the work you performed.
-

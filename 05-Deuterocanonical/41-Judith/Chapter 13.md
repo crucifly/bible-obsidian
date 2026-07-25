@@ -3,7 +3,6 @@ book: "Judith"
 chapter: 13
 canon: "Deuterocanonical"
 ---
-
 # Judith 13
 
 ### 1
@@ -65,4 +64,3 @@ For this thy confidence shall not depart from the heart of men,
 
 ### 20
 And God turn these things to thee for a perpetual praise, to
-

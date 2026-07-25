@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 12
 canon: "Prophets"
 ---
-
 # Isaiah 12
 
 ### 1
@@ -23,4 +22,3 @@ Sing to Yahweh, for he has done excellent things! Let this be known in all the e
 
 ### 6
 Cry aloud and shout, you inhabitant of Zion; for the Holy One of Israel is great among you!”
-

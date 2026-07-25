@@ -3,7 +3,6 @@ book: "3 Meqabyan"
 chapter: 9
 canon: "Deuterocanonical"
 ---
-
 # 3 Meqabyan 9
 
 ### 1
@@ -50,4 +49,3 @@ And the Earth gathered the flesh of all who lived, whether in caves or in the gr
 
 ### 15
 As the dead shall arise quickly, in the blink of an eye, by the Lord’s Command when the drum is beaten—those who did evil works shall receive hardship according to the measure of their sins, and those who did good works shall be joyful.
-

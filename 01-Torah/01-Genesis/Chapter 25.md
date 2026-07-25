@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 25
 canon: "Torah"
 ---
-
 # Genesis 25
 
 ### 1
@@ -107,4 +106,3 @@ Jacob said, “Swear to me first.” He swore to him. He sold his birthright to 
 
 ### 34
 Jacob gave Esau bread and stew of lentils. He ate and drank, rose up, and went his way. So Esau despised his birthright.
-

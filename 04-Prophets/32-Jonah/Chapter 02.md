@@ -3,7 +3,6 @@ book: "Jonah"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Jonah 2
 
 ### 1
@@ -35,4 +34,3 @@ But I will sacrifice to you with the voice of thanksgiving. I will pay that whic
 
 ### 10
 Then Yahweh spoke to the fish, and it vomited out Jonah on the dry land.
-

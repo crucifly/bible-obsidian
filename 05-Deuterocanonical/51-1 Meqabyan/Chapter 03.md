@@ -3,7 +3,6 @@ book: "1 Meqabyan"
 chapter: 3
 canon: "Deuterocanonical"
 ---
-
 # 1 Meqabyan 3
 
 ### 1
@@ -20,4 +19,3 @@ He also commanded that they should eat the flesh of swine and sacrifice to idols
 
 ### 5
 Many of the children of Israel were afraid and did as the King commanded; but Meqabyan and his brothers remained firm in the Law of the Lord.
-

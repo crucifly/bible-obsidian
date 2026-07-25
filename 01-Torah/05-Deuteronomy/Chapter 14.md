@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 14
 canon: "Torah"
 ---
-
 # Deuteronomy 14
 
 ### 1
@@ -92,4 +91,3 @@ At the end of every three years you shall bring all the tithe of your increase i
 
 ### 29
 The Levite, because he has no portion nor inheritance with you, and the foreigner living among you, and the fatherless, and the widow, who are within your gates, shall come, and shall eat and be satisfied; that Yahweh your God may bless you in all the work of your hand which you do.
-

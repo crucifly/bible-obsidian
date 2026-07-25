@@ -3,7 +3,6 @@ book: "Ecclesiastes"
 chapter: 6
 canon: "Poetic"
 ---
-
 # Ecclesiastes 6
 
 ### 1
@@ -41,4 +40,3 @@ For there are many words that create vanity. What does that profit man?
 
 ### 12
 For who knows what is good for man in life, all the days of his vain life which he spends like a shadow? For who can tell a man what will be after him under the sun?
-

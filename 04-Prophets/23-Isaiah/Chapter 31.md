@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 31
 canon: "Prophets"
 ---
-
 # Isaiah 31
 
 ### 1
@@ -32,4 +31,3 @@ For in that day everyone shall cast away his idols of silver and his idols of go
 
 ### 9
 His rock will pass away by reason of terror, and his princes will be afraid of the banner,” says Yahweh, whose fire is in Zion, and his furnace in Jerusalem.
-

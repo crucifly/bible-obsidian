@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 29
 canon: "Poetic"
 ---
-
 # Psalms 29
 
 ### 1
@@ -38,4 +37,3 @@ Yahweh sat enthroned at the Flood. Yes, Yahweh sits as King forever.
 
 ### 11
 Yahweh will give strength to his people. Yahweh will bless his people with peace.
-

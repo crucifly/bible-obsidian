@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 4
 canon: "Deuterocanonical"
 ---
-
 # Tobit 4
 
 ### 1
@@ -68,4 +67,3 @@ And now I signify this to they that I committed ten talents to
 
 ### 21
 And fear not, my son, that we are made poor: for thou hast much
-

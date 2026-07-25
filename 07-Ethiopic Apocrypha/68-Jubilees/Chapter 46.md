@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 46
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 46
 
 ### 1
@@ -59,4 +58,3 @@ The Book of Jubilees
 
 ### 18
 Birth of Moses, 1-4. Adopted by Pharaoh's daughter, 5-9. Slays an Egyptian and flees (into Midian), 10-12. (Cf. Exod. i.22; ii. 2-15.)
-

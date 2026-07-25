@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 29
 canon: "Prophets"
 ---
-
 # Isaiah 29
 
 ### 1
@@ -77,4 +76,3 @@ But when he sees his children, the work of my hands, in the middle of him, they 
 
 ### 24
 They also who err in spirit will come to understanding, and those who grumble will receive instruction.”
-

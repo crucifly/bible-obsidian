@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 7
 canon: "Historical"
 ---
-
 # 1 Chronicles 7
 
 ### 1
@@ -125,4 +124,3 @@ The sons of Ulla: Arah, Hanniel, and Rizia.
 
 ### 40
 All these were the children of Asher, heads of the fathers’ houses, choice and mighty men of valor, chief of the princes. The number of them listed by genealogy for service in war was twenty-six thousand men.
-

@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 7
 canon: "New Testament"
 ---
-
 # 1 Corinthians 7
 
 ### 1
@@ -125,4 +124,3 @@ A wife is bound by law for as long as her husband lives; but if the husband is d
 
 ### 40
 But she is happier if she stays as she is, in my judgment, and I think that I also have God’s Spirit.
-

@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 32
 canon: "Prophets"
 ---
-
 # Ezekiel 32
 
 ### 1
@@ -67,7 +66,7 @@ Whom do you pass in beauty? Go down, and be laid with the uncircumcised.
 They will fall among those who are slain by the sword. She is delivered to the sword. Draw her away with all her multitudes.
 
 ### 21
-The strong among the mighty will speak to him out of the middle of Sheol  with those who help him. They have gone down. The uncircumcised lie still, slain by the sword.
+The strong among the mighty will speak to him out of the middle of Sheol with those who help him. They have gone down. The uncircumcised lie still, slain by the sword.
 
 ### 22
 “Asshur is there with all her company. Her graves are all around her. All of them slain, fallen by the sword;
@@ -101,4 +100,3 @@ They will not lie with the mighty who are fallen of the uncircumcised, who have 
 
 ### 32
 “For I have put his terror in the land of the living. He will be laid among the uncircumcised, with those who are slain by the sword, even Pharaoh and all his multitude,” says the Lord Yahweh.
-

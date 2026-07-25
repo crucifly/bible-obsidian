@@ -3,7 +3,6 @@ book: "John"
 chapter: 8
 canon: "New Testament"
 ---
-
 # John 8
 
 ### 1
@@ -182,4 +181,3 @@ Jesus said to them, “Most certainly, I tell you, before Abraham came into exis
 
 ### 59
 Therefore they took up stones to throw at him, but Jesus was hidden, and went out of the temple, having gone through the middle of them, and so passed by.
-

@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 15
 canon: "New Testament"
 ---
-
 # Luke 15
 
 ### 1
@@ -101,4 +100,3 @@ But when this your son came, who has devoured your living with prostitutes, you 
 
 ### 32
 But it was appropriate to celebrate and be glad, for this, your brother, was dead, and is alive again. He was lost, and is found.’”
-

@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 23
 canon: "Torah"
 ---
-
 # Exodus 23
 
 ### 1
@@ -104,4 +103,3 @@ You shall make no covenant with them, nor with their gods.
 
 ### 33
 They shall not dwell in your land, lest they make you sin against me, for if you serve their gods, it will surely be a snare to you.”
-

@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 24
 canon: "Torah"
 ---
-
 # Leviticus 24
 
 ### 1
@@ -74,4 +73,3 @@ You shall have one kind of law for the foreigner as well as the native-born; for
 
 ### 23
 Moses spoke to the children of Israel; and they brought him who had cursed out of the camp, and stoned him with stones. The children of Israel did as Yahweh commanded Moses.
-

@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 52
 canon: "Prophets"
 ---
-
 # Jeremiah 52
 
 ### 1
@@ -107,4 +106,3 @@ and changed his prison garments. Jehoiachin ate bread before him continually all
 
 ### 34
 For his allowance, there was a continual allowance given him by the king of Babylon, every day a portion until the day of his death, all the days of his life.
-

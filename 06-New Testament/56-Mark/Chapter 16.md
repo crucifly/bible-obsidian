@@ -3,7 +3,6 @@ book: "Mark"
 chapter: 16
 canon: "New Testament"
 ---
-
 # Mark 16
 
 ### 1
@@ -65,4 +64,3 @@ So then the Lord, after he had spoken to them, was received up into heaven, and 
 
 ### 20
 They went out, and preached everywhere, the Lord working with them, and confirming the word by the signs that followed. Amen.
-

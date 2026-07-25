@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 34
 canon: "Historical"
 ---
-
 # 2 Chronicles 34
 
 ### 1
@@ -104,4 +103,3 @@ He caused all who were found in Jerusalem and Benjamin to stand. The inhabitants
 
 ### 33
 Josiah took away all the abominations out of all the countries that belonged to the children of Israel, and made all who were found in Israel to serve, even to serve Yahweh their God. All his days they didn’t depart from following Yahweh, the God of their fathers.
-

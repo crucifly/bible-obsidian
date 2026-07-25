@@ -3,7 +3,6 @@ book: "2 Corinthians"
 chapter: 4
 canon: "New Testament"
 ---
-
 # 2 Corinthians 4
 
 ### 1
@@ -59,4 +58,3 @@ For our light affliction, which is for the moment, works for us more and more ex
 
 ### 18
 while we don’t look at the things which are seen, but at the things which are not seen. For the things which are seen are temporal, but the things which are not seen are eternal.
-

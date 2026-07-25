@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 44
 canon: "Prophets"
 ---
-
 # Ezekiel 44
 
 ### 1
@@ -98,4 +97,3 @@ The first of all the first fruits of every thing, and every offering of everythi
 
 ### 31
 The priests shall not eat of anything that dies of itself, or is torn, whether it is bird or animal.
-

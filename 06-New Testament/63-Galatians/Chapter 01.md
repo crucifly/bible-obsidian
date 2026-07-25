@@ -3,7 +3,6 @@ book: "Galatians"
 chapter: 1
 canon: "New Testament"
 ---
-
 # Galatians 1
 
 ### 1
@@ -77,4 +76,3 @@ but they only heard: “He who once persecuted us now preaches the faith that he
 
 ### 24
 And they glorified God in me.
-

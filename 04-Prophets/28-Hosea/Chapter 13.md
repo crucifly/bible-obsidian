@@ -3,7 +3,6 @@ book: "Hosea"
 chapter: 13
 canon: "Prophets"
 ---
-
 # Hosea 13
 
 ### 1
@@ -53,4 +52,3 @@ Though he is fruitful among his brothers, an east wind will come, the breath of 
 
 ### 16
 Samaria will bear her guilt; for she has rebelled against her God. They will fall by the sword. Their infants will be dashed in pieces, and their pregnant women will be ripped open.”
-

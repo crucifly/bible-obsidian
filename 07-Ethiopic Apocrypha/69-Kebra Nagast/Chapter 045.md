@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 45
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 45
 
 ### 1
@@ -20,4 +19,3 @@ https://www.globalgreyebooks.com/online-ebooks/ernest-alfred-wallis-budge_queen-
 
 ### 5
 And they each gave him ten dîdrachmas, and this money amounted to one hundred and forty dîdrachmas, and he took them and gave them to a carpenter, who straightway fashioned a good piece of work from the remains of the wood of the house of the sanctuary, and Azâryâs rejoiced and showed it to his brethren.
-

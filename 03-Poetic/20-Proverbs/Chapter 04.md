@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 4
 canon: "Poetic"
 ---
-
 # Proverbs 4
 
 ### 1
@@ -86,4 +85,3 @@ Make the path of your feet level. Let all of your ways be established.
 
 ### 27
 Don’t turn to the right hand nor to the left. Remove your foot from evil.
-

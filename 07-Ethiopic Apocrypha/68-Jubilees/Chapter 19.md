@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 19
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 19
 
 ### 1
@@ -140,4 +139,3 @@ Go in peace, my son.' And they both went forth together from Abraham.
 
 ### 45
 And Rebecca loved Jacob, with all her heart and with all her soul, very much more than Esau; but Isaac loved Esau much more than Jacob.
-

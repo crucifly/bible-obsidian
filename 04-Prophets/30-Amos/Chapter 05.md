@@ -3,7 +3,6 @@ book: "Amos"
 chapter: 5
 canon: "Prophets"
 ---
-
 # Amos 5
 
 ### 1
@@ -86,4 +85,3 @@ You also carried the tent of your king and the shrine of your images, the star o
 
 ### 27
 Therefore will I cause you to go into captivity beyond Damascus,” says Yahweh, whose name is the God of Armies.
-

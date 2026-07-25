@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 6
 canon: "Historical"
 ---
-
 # 2 Chronicles 6
 
 ### 1
@@ -131,4 +130,3 @@ then hear from heaven, even from your dwelling place, their prayer and their pet
 
 ### 42
 “Yahweh God, don’t turn away the face of your anointed. Remember your loving kindnesses to David your servant.”
-

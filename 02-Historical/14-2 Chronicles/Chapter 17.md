@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 17
 canon: "Historical"
 ---
-
 # 2 Chronicles 17
 
 ### 1
@@ -62,4 +61,3 @@ and next to him Jehozabad, and with him one hundred eighty thousand ready and pr
 
 ### 19
 These were those who waited on the king, besides those whom the king put in the fortified cities throughout all Judah.
-

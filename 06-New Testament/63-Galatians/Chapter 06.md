@@ -3,7 +3,6 @@ book: "Galatians"
 chapter: 6
 canon: "New Testament"
 ---
-
 # Galatians 6
 
 ### 1
@@ -59,4 +58,3 @@ From now on, let no one cause me any trouble, for I bear the marks of the Lord J
 
 ### 18
 The grace of our Lord Jesus Christ be with your spirit, brothers. Amen.
-

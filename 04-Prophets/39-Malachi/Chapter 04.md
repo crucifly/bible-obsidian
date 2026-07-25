@@ -3,7 +3,6 @@ book: "Malachi"
 chapter: 4
 canon: "Prophets"
 ---
-
 # Malachi 4
 
 ### 1
@@ -23,4 +22,3 @@ Behold, I will send you Elijah the prophet before the great and terrible day of 
 
 ### 6
 He will turn the hearts of the fathers to the children, and the hearts of the children to their fathers, lest I come and strike the earth with a curse.”
-

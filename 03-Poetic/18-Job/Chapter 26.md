@@ -3,7 +3,6 @@ book: "Job"
 chapter: 26
 canon: "Poetic"
 ---
-
 # Job 26
 
 ### 1
@@ -47,4 +46,3 @@ By his Spirit the heavens are garnished. His hand has pierced the swift serpent.
 
 ### 14
 Behold, these are but the outskirts of his ways. How small a whisper do we hear of him! But the thunder of his power who can understand?”
-

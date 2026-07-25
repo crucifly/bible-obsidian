@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 39
 canon: "Torah"
 ---
-
 # Exodus 39
 
 ### 1
@@ -134,4 +133,3 @@ According to all that Yahweh commanded Moses, so the children of Israel did all 
 
 ### 43
 Moses saw all the work, and behold, they had done it as Yahweh had commanded, even so had they done it: and Moses blessed them.
-

@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 1
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 1
 
 ### 1
@@ -32,4 +31,3 @@ But with the righteous He will make peace. And will protect the elect, And mercy
 
 ### 9
 And behold! He cometh with ten thousands of ⌈His⌉ holy ones To execute judgement upon all, And to destroy ⌈all⌉ the ungodly: And to convict all flesh Of all the works ⌈of their ungodliness⌉ which they have ungodly committed, And of all the hard things which ungodly sinners ⌈have spoken⌉ against Him.
-

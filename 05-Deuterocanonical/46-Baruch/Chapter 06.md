@@ -3,7 +3,6 @@ book: "Baruch"
 chapter: 6
 canon: "Deuterocanonical"
 ---
-
 # Baruch 6
 
 ### 1
@@ -224,4 +223,3 @@ And ye shall know them to be no gods by the bright purple that
 
 ### 73
 Better therefore is the just man that hath none idols: for he
-

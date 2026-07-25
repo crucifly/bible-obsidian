@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 17
 canon: "Torah"
 ---
-
 # Numbers 17
 
 ### 1
@@ -44,4 +43,3 @@ The children of Israel spoke to Moses, saying, “Behold, we perish! We are undo
 
 ### 13
 Everyone who keeps approaching Yahweh’s tabernacle, dies! Will we all perish?”
-

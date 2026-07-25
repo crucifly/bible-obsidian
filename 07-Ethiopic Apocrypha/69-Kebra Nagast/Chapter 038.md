@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 38
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 38
 
 ### 1
@@ -11,4 +10,3 @@ And then Solomon the King went back into his house, and he caused to be gathered
 
 ### 2
 And the priests, and the officers, and the councillors answered and said unto him, “Do thou send thy firstborn, and we will send our children also according to thy wish. Who can resist the commandment of God and the king? They are the servants of thee and of thy seed as thou hast proclaimed. If thou wishest, thou a, canst sell them and their mothers to be slaves; it is not for us to transgress thy command and the command of the Lord thy God.” And then they made ready to do for them (i.e., their children) what it was right to do, and to send them into the country of Ethiopia, so that they might reign there and dwell there for ever, they and their seed from generation to generation.
-

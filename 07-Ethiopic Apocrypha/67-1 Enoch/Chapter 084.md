@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 84
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 84
 
 ### 1
@@ -23,4 +22,3 @@ And now, O God and Lord and Great King, I implore and beseech Thee to fulfil my 
 
 ### 6
 And now, my Lord, destroy from the earth the flesh which has aroused Thy wrath, But the flesh of righteousness and uprightness establish as a plant of the eternal seed, And hide not Thy face from the prayer of Thy servant, O Lord.’
-

@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 58
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 58
 
 ### 1
@@ -11,4 +10,3 @@ Thus spake King Solomon. And the King rose up in wrath and set out to pursue [th
 
 ### 2
 And the King and his soldiers marched quickly, and they came to Gâzâ. And the King asked the people, saying, “When did my son leave you?” And they answered and said unto him, “He left us three days ago. And having loaded their wagons none of them travelled on the ground, but in wagons that were suspended in the air; and they were swifter than the eagles that are in the sky, and all their baggage travelled with them in wagons above the winds. As for us, we thought that thou hadst, in thy wisdom, made them to travel in wagons above the winds.” And the King said unto them, “Was Zion, the Tabernacle of the Law of God, with them?” And they said unto him, “We did not see anything.”
-

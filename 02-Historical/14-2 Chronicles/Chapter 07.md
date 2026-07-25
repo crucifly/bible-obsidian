@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 7
 canon: "Historical"
 ---
-
 # 2 Chronicles 7
 
 ### 1
@@ -71,4 +70,3 @@ This house, which is so high, everyone who passes by it shall be astonished, and
 
 ### 22
 They shall answer, ‘Because they abandoned Yahweh, the God of their fathers, who brought them out of the land of Egypt, and took other gods, worshiped them, and served them. Therefore he has brought all this evil on them.’”
-

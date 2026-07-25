@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 12
 canon: "New Testament"
 ---
-
 # Matthew 12
 
 ### 1
@@ -155,4 +154,3 @@ He stretched out his hand towards his disciples, and said, “Behold, my mother 
 
 ### 50
 For whoever does the will of my Father who is in heaven, he is my brother, and sister, and mother.”
-

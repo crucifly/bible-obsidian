@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 12
 canon: "Torah"
 ---
-
 # Numbers 12
 
 ### 1
@@ -53,4 +52,3 @@ Miriam was shut up outside of the camp seven days, and the people didn’t trave
 
 ### 16
 Afterward the people traveled from Hazeroth, and encamped in the wilderness of Paran.
-

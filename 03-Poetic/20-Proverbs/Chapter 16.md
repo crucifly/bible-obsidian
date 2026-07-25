@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 16
 canon: "Poetic"
 ---
-
 # Proverbs 16
 
 ### 1
@@ -104,4 +103,3 @@ One who is slow to anger is better than the mighty; one who rules his spirit, th
 
 ### 33
 The lot is cast into the lap, but its every decision is from Yahweh.
-

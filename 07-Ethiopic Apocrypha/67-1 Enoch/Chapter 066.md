@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 66
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 66
 
 ### 1
@@ -14,4 +13,3 @@ And the Lord of Spirits gave commandment to the angels who were going forth, tha
 
 ### 3
 And I went away from the presence of Enoch.
-

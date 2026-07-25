@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 34
 canon: "Torah"
 ---
-
 # Exodus 34
 
 ### 1
@@ -110,4 +109,3 @@ But when Moses went in before Yahweh to speak with him, he took the veil off, un
 
 ### 35
 The children of Israel saw Moses’ face, that the skin of Moses’ face shone: and Moses put the veil on his face again, until he went in to speak with him.
-

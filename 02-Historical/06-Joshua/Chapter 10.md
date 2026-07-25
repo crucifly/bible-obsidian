@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 10
 canon: "Historical"
 ---
-
 # Joshua 10
 
 ### 1
@@ -134,4 +133,3 @@ Joshua took all these kings and their land at one time because Yahweh, the God o
 
 ### 43
 Joshua returned, and all Israel with him, to the camp to Gilgal.
-

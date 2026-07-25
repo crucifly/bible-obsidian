@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 1
 canon: "New Testament"
 ---
-
 # Matthew 1
 
 ### 1
@@ -80,4 +79,3 @@ Joseph arose from his sleep, and did as the angel of the Lord commanded him, and
 
 ### 25
 and didn’t know her sexually until she had given birth to her firstborn son. He named him Jesus.
-

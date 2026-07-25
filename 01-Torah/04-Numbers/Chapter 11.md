@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 11
 canon: "Torah"
 ---
-
 # Numbers 11
 
 ### 1
@@ -100,7 +99,7 @@ Moses went into the camp, he and the elders of Israel.
 A wind from Yahweh went out and brought quails from the sea, and let them fall by the camp, about a day’s journey on this side, and a day’s journey on the other side, around the camp, and about two cubits above the surface of the earth.
 
 ### 32
-The people rose up all that day, and all of that night, and all the next day, and gathered the quails. He who gathered least gathered ten homers;  and they spread them all out for themselves around the camp.
+The people rose up all that day, and all of that night, and all the next day, and gathered the quails. He who gathered least gathered ten homers; and they spread them all out for themselves around the camp.
 
 ### 33
 While the meat was still between their teeth, before it was chewed, Yahweh’s anger burned against the people, and Yahweh struck the people with a very great plague.
@@ -110,4 +109,3 @@ The name of that place was called Kibroth Hattaavah, because there they buried t
 
 ### 35
 From Kibroth Hattaavah the people traveled to Hazeroth; and they stayed at Hazeroth.
-

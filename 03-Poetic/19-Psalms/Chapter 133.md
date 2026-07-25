@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 133
 canon: "Poetic"
 ---
-
 # Psalms 133
 
 ### 1
@@ -14,4 +13,3 @@ It is like the precious oil on the head, that ran down on the beard, even Aaronâ
 
 ### 3
 like the dew of Hermon, that comes down on the hills of Zion: for there Yahweh gives the blessing, even life forever more.
-

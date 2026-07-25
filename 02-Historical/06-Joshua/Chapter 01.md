@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 1
 canon: "Historical"
 ---
-
 # Joshua 1
 
 ### 1
@@ -59,4 +58,3 @@ Just as we listened to Moses in all things, so will we listen to you. Only may Y
 
 ### 18
 Whoever rebels against your commandment, and doesn’t listen to your words in all that you command him shall himself be put to death. Only be strong and courageous.”
-

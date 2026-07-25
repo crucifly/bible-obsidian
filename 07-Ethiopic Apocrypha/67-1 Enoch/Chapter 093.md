@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 93
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 93
 
 ### 1
@@ -56,4 +55,3 @@ And the first heaven shall depart and pass away, And a new heaven shall appear, 
 
 ### 17
 And after that there will be many weeks without number for ever, And all shall be in goodness and righteousness, And sin shall no more be mentioned for ever.
-

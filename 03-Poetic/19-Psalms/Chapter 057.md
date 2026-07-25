@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 57
 canon: "Poetic"
 ---
-
 # Psalms 57
 
 ### 1
@@ -38,4 +37,3 @@ For your great loving kindness reaches to the heavens, and your truth to the ski
 
 ### 11
 Be exalted, God, above the heavens. Let your glory be over all the earth.
-

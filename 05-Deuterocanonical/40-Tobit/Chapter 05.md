@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 5
 canon: "Deuterocanonical"
 ---
-
 # Tobit 5
 
 ### 1
@@ -71,4 +70,3 @@ For the good angel will keep him company, and his journey shall be
 
 ### 22
 Then she made an end of weeping.
-

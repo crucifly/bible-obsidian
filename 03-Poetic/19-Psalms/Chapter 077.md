@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 77
 canon: "Poetic"
 ---
-
 # Psalms 77
 
 ### 1
@@ -65,4 +64,3 @@ Your way was through the sea; your paths through the great waters. Your footstep
 
 ### 20
 You led your people like a flock, by the hand of Moses and Aaron.
-

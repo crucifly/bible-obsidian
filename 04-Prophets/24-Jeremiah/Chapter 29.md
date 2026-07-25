@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 29
 canon: "Prophets"
 ---
-
 # Jeremiah 29
 
 ### 1
@@ -101,4 +100,3 @@ Then Yahweh’s word came to Jeremiah, saying,
 
 ### 32
 therefore Yahweh says, “Behold, I will punish Shemaiah the Nehelamite and his offspring. He will not have a man to dwell among this people. He won’t see the good that I will do to my people,” says Yahweh, “because he has spoken rebellion against Yahweh.”’”
-

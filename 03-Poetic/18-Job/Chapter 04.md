@@ -3,7 +3,6 @@ book: "Job"
 chapter: 4
 canon: "Poetic"
 ---
-
 # Job 4
 
 ### 1
@@ -68,4 +67,3 @@ Between morning and evening they are destroyed. They perish forever without any 
 
 ### 21
 Isn’t their tent cord plucked up within them? They die, and that without wisdom.’
-

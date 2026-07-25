@@ -3,7 +3,6 @@ book: "Esther"
 chapter: 8
 canon: "Historical"
 ---
-
 # Esther 8
 
 ### 1
@@ -56,4 +55,3 @@ The Jews had light, gladness, joy, and honor.
 
 ### 17
 In every province, and in every city, wherever the king’s commandment and his decree came, the Jews had gladness, joy, a feast, and a good day. Many from among the peoples of the land became Jews; for the fear of the Jews was fallen on them.
-

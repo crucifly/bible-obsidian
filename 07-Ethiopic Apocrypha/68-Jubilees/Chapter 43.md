@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 43
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 43
 
 ### 1
@@ -83,4 +82,3 @@ The Book of Jubilees
 
 ### 26
 Jacob celebrates the feast of firstfruits, and encouraged by a vision goes down to Egypt, 1-10. Names of his descendants, 11-34. (Cf. Gen. xlvi.1-28.)
-

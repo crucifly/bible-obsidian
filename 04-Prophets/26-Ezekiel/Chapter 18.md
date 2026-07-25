@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 18
 canon: "Prophets"
 ---
-
 # Ezekiel 18
 
 ### 1
@@ -101,4 +100,3 @@ Cast away from you all your transgressions, in which you have transgressed; and 
 
 ### 32
 For I have no pleasure in the death of him who dies,” says the Lord Yahweh. “Therefore turn yourselves, and live!
-

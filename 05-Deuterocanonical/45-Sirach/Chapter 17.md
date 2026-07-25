@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 17
 canon: "Deuterocanonical"
 ---
-
 # Sirach 17
 
 ### 1
@@ -101,4 +100,3 @@ What is brighter than the sun? yet the light thereof faileth; and
 
 ### 32
 He vieweth the power of the height of heaven; and all men are but
-

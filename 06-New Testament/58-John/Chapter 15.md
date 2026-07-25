@@ -3,7 +3,6 @@ book: "John"
 chapter: 15
 canon: "New Testament"
 ---
-
 # John 15
 
 ### 1
@@ -86,4 +85,3 @@ But this happened so that the word may be fulfilled which was written in their l
 
 ### 27
 You will also testify, because you have been with me from the beginning.
-

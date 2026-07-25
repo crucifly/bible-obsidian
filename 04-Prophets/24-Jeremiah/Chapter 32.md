@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 32
 canon: "Prophets"
 ---
-
 # Jeremiah 32
 
 ### 1
@@ -137,4 +136,3 @@ Fields will be bought in this land, about which you say, ‘It is desolate, with
 
 ### 44
 Men will buy fields for money, sign the deeds, seal them, and call witnesses, in the land of Benjamin, and in the places around Jerusalem, in the cities of Judah, in the cities of the hill country, in the cities of the lowland, and in the cities of the South; for I will cause their captivity to be reversed,” says Yahweh.
-

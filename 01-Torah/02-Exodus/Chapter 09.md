@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 9
 canon: "Torah"
 ---
-
 # Exodus 9
 
 ### 1
@@ -110,4 +109,3 @@ When Pharaoh saw that the rain and the hail and the thunders had ceased, he sinn
 
 ### 35
 The heart of Pharaoh was hardened, and he didn’t let the children of Israel go, just as Yahweh had spoken through Moses.
-

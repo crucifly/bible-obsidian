@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 2
 canon: "Historical"
 ---
-
 # 2 Chronicles 2
 
 ### 1
@@ -59,4 +58,3 @@ Solomon counted all the foreigners who were in the land of Israel, after the cen
 
 ### 18
 He set seventy thousand of them to bear burdens, eighty thousand who were stone cutters in the mountains, and three thousand six hundred overseers to assign the people their work.
-

@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 3
 canon: "Historical"
 ---
-
 # Judges 3
 
 ### 1
@@ -98,4 +97,3 @@ So Moab was subdued that day under the hand of Israel. Then the land had rest ei
 
 ### 31
 After him was Shamgar the son of Anath, who struck six hundred men of the Philistines with an ox goad. He also saved Israel.
-

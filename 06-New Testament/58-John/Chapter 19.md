@@ -3,7 +3,6 @@ book: "John"
 chapter: 19
 canon: "New Testament"
 ---
-
 # John 19
 
 ### 1
@@ -131,4 +130,3 @@ Now in the place where he was crucified there was a garden. In the garden was a 
 
 ### 42
 Then because of the Jews’ Preparation Day (for the tomb was near at hand) they laid Jesus there.
-

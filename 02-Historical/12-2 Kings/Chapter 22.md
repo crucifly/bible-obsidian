@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 22
 canon: "Historical"
 ---
-
 # 2 Kings 22
 
 ### 1
@@ -65,4 +64,3 @@ because your heart was tender, and you humbled yourself before Yahweh, when you 
 
 ### 20
 ‘Therefore behold, I will gather you to your fathers, and you will be gathered to your grave in peace. Your eyes will not see all the evil which I will bring on this place.’”’” So they brought this message back to the king.
-

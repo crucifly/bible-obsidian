@@ -3,7 +3,6 @@ book: "3 Meqabyan"
 chapter: 10
 canon: "Deuterocanonical"
 ---
-
 # 3 Meqabyan 10
 
 ### 1
@@ -47,4 +46,3 @@ Because they lived firmly in the work of Cain, perished by the price of Balaamâ€
 
 ### 14
 They shall receive their hardship in Gehenna for the sins they committed.
-

@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 1
 canon: "Torah"
 ---
-
 # Genesis 1
 
 ### 1
@@ -98,4 +97,3 @@ To every animal of the earth, and to every bird of the sky, and to everything th
 
 ### 31
 God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day.
-

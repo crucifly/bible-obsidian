@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Jeremiah 3
 
 ### 1
@@ -80,4 +79,3 @@ But the shameful thing has devoured the labor of our fathers from our youth, the
 
 ### 25
 Let us lie down in our shame, and let our confusion cover us; for we have sinned against Yahweh our God, we and our fathers, from our youth even to this day. We have not obeyed Yahweh our God’s voice.”
-

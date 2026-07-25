@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 150
 canon: "Poetic"
 ---
-
 # Psalms 150
 
 ### 1
@@ -23,4 +22,3 @@ Praise him with loud cymbals! Praise him with resounding cymbals!
 
 ### 6
 Let everything that has breath praise Yah! Praise Yah!
-

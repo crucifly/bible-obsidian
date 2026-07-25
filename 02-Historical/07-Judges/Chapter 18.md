@@ -3,7 +3,6 @@ book: "Judges"
 chapter: 18
 canon: "Historical"
 ---
-
 # Judges 18
 
 ### 1
@@ -98,4 +97,3 @@ The children of Dan set up for themselves the engraved image; and Jonathan, the 
 
 ### 31
 So they set up for themselves Micah’s engraved image which he made, and it remained all the time that God’s house was in Shiloh.
-

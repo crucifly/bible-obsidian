@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 22
 canon: "Historical"
 ---
-
 # 2 Samuel 22
 
 ### 1
@@ -158,4 +157,3 @@ Therefore I will give thanks to you, Yahweh, among the nations, and will sing pr
 
 ### 51
 He gives great deliverance to his king, and shows loving kindness to his anointed, to David and to his offspring, forever more.”
-

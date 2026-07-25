@@ -3,7 +3,6 @@ book: "Hosea"
 chapter: 7
 canon: "Prophets"
 ---
-
 # Hosea 7
 
 ### 1
@@ -53,4 +52,3 @@ Though I have taught and strengthened their arms, yet they plot evil against me.
 
 ### 16
 They return, but not to the Most High. They are like a faulty bow. Their princes will fall by the sword for the rage of their tongue. This will be their derision in the land of Egypt.
-

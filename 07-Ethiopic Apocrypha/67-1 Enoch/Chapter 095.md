@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 95
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 95
 
 ### 1
@@ -26,4 +25,3 @@ Woe to you, lying witnesses, And to those who weigh out injustice, For suddenly 
 
 ### 7
 Woe to you, sinners, for ye persecute the righteous; For ye shall be delivered up and persecuted because of injustice, And heavy shall its yoke be upon you.
-

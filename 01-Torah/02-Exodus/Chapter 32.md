@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 32
 canon: "Torah"
 ---
-
 # Exodus 32
 
 ### 1
@@ -110,4 +109,3 @@ Now go, lead the people to the place of which I have spoken to you. Behold, my a
 
 ### 35
 Yahweh struck the people, because they made the calf, which Aaron made.
-

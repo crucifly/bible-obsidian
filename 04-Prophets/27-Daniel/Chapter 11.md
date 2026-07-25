@@ -3,7 +3,6 @@ book: "Daniel"
 chapter: 11
 canon: "Prophets"
 ---
-
 # Daniel 11
 
 ### 1
@@ -140,4 +139,3 @@ But news out of the east and out of the north will trouble him; and he will go o
 
 ### 45
 He will plant the tents of his palace between the sea and the glorious holy mountain; yet he will come to his end, and no one will help him.
-

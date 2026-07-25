@@ -3,7 +3,6 @@ book: "Job"
 chapter: 8
 canon: "Poetic"
 ---
-
 # Job 8
 
 ### 1
@@ -71,4 +70,3 @@ He will still fill your mouth with laughter, your lips with shouting.
 
 ### 22
 Those who hate you shall be clothed with shame. The tent of the wicked shall be no more.”
-

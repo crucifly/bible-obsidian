@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 17
 canon: "New Testament"
 ---
-
 # Luke 17
 
 ### 1
@@ -116,4 +115,3 @@ There will be two grinding grain together. One will be taken, and the other will
 
 ### 37
 They, answering, asked him, “Where, Lord?” He said to them, “Where the body is, there will the vultures also be gathered together.”
-

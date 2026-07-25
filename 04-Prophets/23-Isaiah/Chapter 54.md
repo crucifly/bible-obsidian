@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 54
 canon: "Prophets"
 ---
-
 # Isaiah 54
 
 ### 1
@@ -56,4 +55,3 @@ Behold, they may gather together, but not by me. Whoever gathers together agains
 
 ### 17
 No weapon that is formed against you will prevail; and you will condemn every tongue that rises against you in judgment. This is the heritage of Yahweh’s servants, and their righteousness is of me,” says Yahweh.
-

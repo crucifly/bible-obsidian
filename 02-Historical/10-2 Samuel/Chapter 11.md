@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 11
 canon: "Historical"
 ---
-
 # 2 Samuel 11
 
 ### 1
@@ -86,4 +85,3 @@ When Uriah’s wife heard that Uriah her husband was dead, she mourned for her h
 
 ### 27
 When the mourning was past, David sent and took her home to his house, and she became his wife, and bore him a son. But the thing that David had done displeased Yahweh.
-

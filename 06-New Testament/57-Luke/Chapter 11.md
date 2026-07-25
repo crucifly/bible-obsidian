@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 11
 canon: "New Testament"
 ---
-
 # Luke 11
 
 ### 1
@@ -16,7 +15,7 @@ He said to them, “When you pray, say, ‘Our Father in heaven, may your name b
 Give us day by day our daily bread.
 
 ### 4
-Forgive us our sins, for we ourselves also forgive everyone who is indebted to us.  Bring us not into temptation, but deliver us from the evil one.’”
+Forgive us our sins, for we ourselves also forgive everyone who is indebted to us. Bring us not into temptation, but deliver us from the evil one.’”
 
 ### 5
 He said to them, “Which of you, if you go to a friend at midnight, and tell him, ‘Friend, lend me three loaves of bread,
@@ -167,4 +166,3 @@ As he said these things to them, the scribes and the Pharisees began to be terri
 
 ### 54
 lying in wait for him, and seeking to catch him in something he might say, that they might accuse him.
-

@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 33
 canon: "Historical"
 ---
-
 # 2 Chronicles 33
 
 ### 1
@@ -80,4 +79,3 @@ His servants conspired against him, and put him to death in his own house.
 
 ### 25
 But the people of the land killed all those who had conspired against king Amon; and the people of the land made Josiah his son king in his place.
-

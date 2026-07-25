@@ -3,7 +3,6 @@ book: "John"
 chapter: 17
 canon: "New Testament"
 ---
-
 # John 17
 
 ### 1
@@ -83,4 +82,3 @@ Righteous Father, the world hasn’t known you, but I knew you; and these knew t
 
 ### 26
 I made known to them your name, and will make it known; that the love with which you loved me may be in them, and I in them.”
-

@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 7
 canon: "Poetic"
 ---
-
 # Proverbs 7
 
 ### 1
@@ -86,4 +85,3 @@ for she has thrown down many wounded. Yes, all her slain are a mighty army.
 
 ### 27
 Her house is the way to Sheol, going down to the rooms of death.
-

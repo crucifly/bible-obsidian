@@ -3,7 +3,6 @@ book: "2 Corinthians"
 chapter: 6
 canon: "New Testament"
 ---
-
 # 2 Corinthians 6
 
 ### 1
@@ -59,4 +58,3 @@ Therefore “‘Come out from among them, and be separate,’ says the Lord. ‘
 
 ### 18
 I will be to you a Father. You will be to me sons and daughters,’ says the Lord Almighty.”
-

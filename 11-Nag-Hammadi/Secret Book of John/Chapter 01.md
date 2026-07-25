@@ -3,42 +3,25 @@ book: "Secret Book of John"
 chapter: 1
 canon: "Nag-Hammadi"
 ---
-
 # Secret Book of John
 
 ![First page of "Gospel of Thomas" coptic manuscript. (Photo Courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)](/images/coptic.gif "First page of \"Gospel of Thomas\" coptic manuscript. (Photo Courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)")  
-
 [![Nag Hammadi Library main page](http://www.gnosis.org/images/butnhl.gif)](nhl.html)
-
 [![Introduction to Gnosticism and the Nag Hammadi Library](http://www.gnosis.org/images/butintro.gif)](/naghamm/Pagels-Gnostic-Gospels.html)
-
 [![Alphabetic Index of the Nag Hammadi Library](http://www.gnosis.org/images/butalpha.gif)](nhlalpha.html)
-
 [![Codex Index of the Nag Hammadi Library](http://www.gnosis.org/images/butcodex.gif)](nhlcodex.html)
-
 [![Gospel of Thomas Collection](http://www.gnosis.org/images/butgth.gif)](nhl_thomas.htm)
-
 [![Secret Book of John](http://www.gnosis.org/images/butrevjohn.gif)](nhl_sbj.htm)
-
 [![Return to The Gnostic Society Library page](http://www.gnosis.org/images/libbut.gif)](../library.html)
-
 [![Return to The Gnosis Archive main page](http://www.gnosis.org/images/butgnarch.gif)](../welcome.html)
-
 ###### (Above image of the Gospel of Thomas courtesy of the Institute for Antiquity and Christianity, Claremont Graduate University)
-
 [![The Secret Book of John, by Stevan Davies](../images/Bookstore/secretbookjohn.jpg)](http://www.amazon.com/exec/obidos/ASIN/1594730822/ref=nosim/gnosisarchive)
-
 _The Secret Book of John  
 _by Stevan Davies
-
-  
 ![The Gnostic Society Library](/images/GnosticSocietyLibrary.gif "The Gnostic Society Library - gnosis.org")
-
 **The Apocryphon of John Collection  
 (The Secret Revelation of John - The Secret Book of John)**
-
 ###### [Gnosis Archive](../welcome.html) | [Library](../library.html) | [Bookstore](../bookstore1.htm) | [Index](../search_form.html) | [Web Lectures](../lectures.html) | [Ecclesia Gnostica](../eghome.htm) | [Gnostic Society](../gnostsoc.htm)
-
 > * * *
 > 
 > **The Secret Book of John**
@@ -1330,5 +1313,4 @@ _by Stevan Davies
 > >  _� 2005 by Stevan Davies  
 > > This translation is presented in the Gnostic Society Library by exclusive permission of the author.  
 > > All rights including right of electronic reproduction are reserved by the author._
-
 ###### [Gnosis Archive](../welcome.html) | [Library](../library.html) | [Bookstore](../bookstore1.htm) | [Index](../search_form.html) | [Web Lectures](../lectures.html) | [Ecclesia Gnostica](../eghome.htm) | [Gnostic Society](../gnostsoc.htm)

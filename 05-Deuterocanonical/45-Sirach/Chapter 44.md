@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 44
 canon: "Deuterocanonical"
 ---
-
 # Sirach 44
 
 ### 1
@@ -71,4 +70,3 @@ Therefore he assured him by an oath, that he would bless the
 
 ### 22
 With Isaac did he establish likewise [for Abraham his father’s
-

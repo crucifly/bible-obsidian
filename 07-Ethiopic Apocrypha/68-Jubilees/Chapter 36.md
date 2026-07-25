@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 36
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 36
 
 ### 1
@@ -83,4 +82,3 @@ The Book of Jubilees
 
 ### 26
 Esau's sons reproach him for his subordination to Jacob, and constrain him to war with the assistance of 4,000 mercenaries against Jacob, 1-15. Jacob reproves Esau, 16-17. Esau's reply, 18-25.
-

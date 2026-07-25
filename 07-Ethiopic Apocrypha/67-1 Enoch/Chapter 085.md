@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 85
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 85
 
 ### 1
@@ -32,4 +31,3 @@ And after that she bore another white bull, and after him she bore many bulls an
 
 ### 9
 And I saw in my sleep that white bull likewise grow and become a great white bull, and from Him proceeded many white bulls, and they resembled him. And they began to beget many white bulls, which resembled them, one following the other, (even) many.
-

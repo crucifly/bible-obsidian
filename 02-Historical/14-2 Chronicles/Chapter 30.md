@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 30
 canon: "Historical"
 ---
-
 # 2 Chronicles 30
 
 ### 1
@@ -86,4 +85,3 @@ So there was great joy in Jerusalem; for since the time of Solomon the son of Da
 
 ### 27
 Then the priests the Levites arose and blessed the people. Their voice was heard, and their prayer came up to his holy habitation, even to heaven.
-

@@ -3,7 +3,6 @@ book: "Ezra"
 chapter: 4
 canon: "Historical"
 ---
-
 # Ezra 4
 
 ### 1
@@ -77,4 +76,3 @@ Then when the copy of king Artaxerxes’ letter was read before Rehum, Shimshai 
 
 ### 24
 Then work stopped on God’s house which is at Jerusalem. It stopped until the second year of the reign of Darius king of Persia.
-

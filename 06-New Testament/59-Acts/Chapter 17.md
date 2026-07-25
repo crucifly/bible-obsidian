@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 17
 canon: "New Testament"
 ---
-
 # Acts 17
 
 ### 1
@@ -22,7 +21,7 @@ Some of them were persuaded, and joined Paul and Silas, of the devout Greeks a g
 But the unpersuaded Jews took along some wicked men from the marketplace, and gathering a crowd, set the city in an uproar. Assaulting the house of Jason, they sought to bring them out to the people.
 
 ### 6
-When they didn’t find them, they dragged Jason and certain brothers  before the rulers of the city, crying, “These who have turned the world upside down have come here also,
+When they didn’t find them, they dragged Jason and certain brothers before the rulers of the city, crying, “These who have turned the world upside down have come here also,
 
 ### 7
 whom Jason has received. These all act contrary to the decrees of Caesar, saying that there is another king, Jesus!”
@@ -107,4 +106,3 @@ Thus Paul went out from among them.
 
 ### 34
 But certain men joined with him, and believed, among whom also was Dionysius the Areopagite, and a woman named Damaris, and others with them.
-

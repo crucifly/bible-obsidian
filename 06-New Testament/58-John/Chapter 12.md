@@ -3,7 +3,6 @@ book: "John"
 chapter: 12
 canon: "New Testament"
 ---
-
 # John 12
 
 ### 1
@@ -155,4 +154,3 @@ For I spoke not from myself, but the Father who sent me, he gave me a commandmen
 
 ### 50
 I know that his commandment is eternal life. The things therefore which I speak, even as the Father has said to me, so I speak.”
-

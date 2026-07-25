@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 23
 canon: "Prophets"
 ---
-
 # Isaiah 23
 
 ### 1
@@ -59,4 +58,3 @@ It will happen after the end of seventy years that Yahweh will visit Tyre, and s
 
 ### 18
 Her merchandise and her wages will be holiness to Yahweh. It will not be treasured nor laid up; for her merchandise will be for those who dwell before Yahweh, to eat sufficiently, and for durable clothing.
-

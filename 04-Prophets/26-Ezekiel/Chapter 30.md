@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 30
 canon: "Prophets"
 ---
-
 # Ezekiel 30
 
 ### 1
@@ -83,4 +82,3 @@ I will hold up the arms of the king of Babylon; and the arms of Pharaoh will fal
 
 ### 26
 I will scatter the Egyptians among the nations, and disperse them through the countries. Then they will know that I am Yahweh.’”
-

@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 19
 canon: "Torah"
 ---
-
 # Numbers 19
 
 ### 1
@@ -71,4 +70,3 @@ It shall be a perpetual statute to them. He who sprinkles the water for impurity
 
 ### 22
 “Whatever the unclean person touches shall be unclean; and the soul that touches it shall be unclean until evening.”
-

@@ -3,14 +3,12 @@ book: "obsidian-bible"
 chapter: 1
 canon: "Unknown"
 ---
-
 # obsidian-bible
 
 ### 00_Schema
 # Verse Schema
 
 All files in the `bible-obsidian` vault MUST adhere to the following YAML frontmatter:
-
 ```yaml
 ---
 id: [Unique Verse ID, e.g., GEN-1-1]

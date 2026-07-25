@@ -3,7 +3,6 @@ book: "2 Meqabyan"
 chapter: 4
 canon: "Deuterocanonical"
 ---
-
 # 2 Meqabyan 4
 
 ### 1
@@ -101,4 +100,3 @@ He would receive widows in their time of trouble; he gave his food to satisfy th
 
 ### 32
 He was pleased with the work of his hands; he gave money without grudging and gave tithes to the Temple. Meqabees died having lived in righteousness while doing these things.
-

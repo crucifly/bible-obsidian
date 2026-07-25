@@ -3,7 +3,6 @@ book: "Luke"
 chapter: 7
 canon: "New Testament"
 ---
-
 # Luke 7
 
 ### 1
@@ -124,7 +123,7 @@ Standing behind at his feet weeping, she began to wet his feet with her tears, a
 Now when the Pharisee who had invited him saw it, he said to himself, “This man, if he were a prophet, would have perceived who and what kind of woman this is who touches him, that she is a sinner.”
 
 ### 40
-Jesus answered him, “Simon, I have something to tell you.”  He said, “Teacher, say on.”
+Jesus answered him, “Simon, I have something to tell you.” He said, “Teacher, say on.”
 
 ### 41
 “A certain lender had two debtors. The one owed five hundred denarii, and the other fifty.
@@ -155,4 +154,3 @@ Those who sat at the table with him began to say to themselves, “Who is this w
 
 ### 50
 He said to the woman, “Your faith has saved you. Go in peace.”
-

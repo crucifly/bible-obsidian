@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 25
 canon: "Historical"
 ---
-
 # 1 Samuel 25
 
 ### 1
@@ -137,4 +136,3 @@ David also took Ahinoam of Jezreel; and they both became his wives.
 
 ### 44
 Now Saul had given Michal his daughter, David’s wife, to Palti the son of Laish, who was of Gallim.
-

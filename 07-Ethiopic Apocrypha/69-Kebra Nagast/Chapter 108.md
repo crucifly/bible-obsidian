@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 108
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 108
 
 ### 1
@@ -56,4 +55,3 @@ Thus Solomon his son prophesied and said, “A false balance is a hateful thing 
 
 ### 17
 Thus Jeremiah prophesied and said concerning Judah, “My hire is ready (or, weighed) for me—thirty [pieces of] silver.”
-

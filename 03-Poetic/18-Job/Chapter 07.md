@@ -3,7 +3,6 @@ book: "Job"
 chapter: 7
 canon: "Poetic"
 ---
-
 # Job 7
 
 ### 1
@@ -68,4 +67,3 @@ If I have sinned, what do I do to you, you watcher of men? Why have you set me a
 
 ### 21
 Why do you not pardon my disobedience, and take away my iniquity? For now shall I lie down in the dust. You will seek me diligently, but I shall not be.”
-

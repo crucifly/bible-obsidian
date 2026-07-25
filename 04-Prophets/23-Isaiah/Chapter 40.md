@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 40
 canon: "Prophets"
 ---
-
 # Isaiah 40
 
 ### 1
@@ -98,4 +97,3 @@ Even the youths faint and get weary, and the young men utterly fall;
 
 ### 31
 But those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint.
-

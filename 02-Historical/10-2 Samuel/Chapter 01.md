@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 1
 canon: "Historical"
 ---
-
 # 2 Samuel 1
 
 ### 1
@@ -86,4 +85,3 @@ I am distressed for you, my brother Jonathan. You have been very pleasant to me.
 
 ### 27
 How the mighty have fallen, and the weapons of war have perished!”
-

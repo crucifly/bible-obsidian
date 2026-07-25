@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 14
 canon: "Prophets"
 ---
-
 # Isaiah 14
 
 ### 1
@@ -101,4 +100,3 @@ Howl, gate! Cry, city! You are melted away, Philistia, all of you; for smoke com
 
 ### 32
 What will they answer the messengers of the nation? That Yahweh has founded Zion, and in her the afflicted of his people will take refuge.
-

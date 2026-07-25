@@ -3,7 +3,6 @@ book: "Ezra"
 chapter: 6
 canon: "Historical"
 ---
-
 # Ezra 6
 
 ### 1
@@ -71,4 +70,3 @@ The children of Israel who had returned out of the captivity, and all who had se
 
 ### 22
 and kept the feast of unleavened bread seven days with joy; because Yahweh had made them joyful, and had turned the heart of the king of Assyria to them, to strengthen their hands in the work of God, the God of Israel’s house.
-

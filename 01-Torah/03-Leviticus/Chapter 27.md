@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 27
 canon: "Torah"
 ---
-
 # Leviticus 27
 
 ### 1
@@ -52,7 +51,7 @@ But if he will indeed redeem it, then he shall add the fifth part of it to its v
 If he who dedicates it will redeem his house, then he shall add the fifth part of the money of your valuation to it, and it shall be his.
 
 ### 16
-“‘If a man dedicates to Yahweh part of the field of his possession, then your valuation shall be according to the seed for it. The sowing of a homer  of barley shall be valued at fifty shekels of silver.
+“‘If a man dedicates to Yahweh part of the field of his possession, then your valuation shall be according to the seed for it. The sowing of a homer of barley shall be valued at fifty shekels of silver.
 
 ### 17
 If he dedicates his field from the Year of Jubilee, according to your valuation it shall stand.
@@ -107,4 +106,3 @@ He shall not search whether it is good or bad, neither shall he change it. If he
 
 ### 34
 These are the commandments which Yahweh commanded Moses for the children of Israel on Mount Sinai.
-

@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 27
 canon: "New Testament"
 ---
-
 # Acts 27
 
 ### 1
@@ -137,4 +136,3 @@ But the centurion, desiring to save Paul, stopped them from their purpose, and c
 
 ### 44
 and the rest should follow, some on planks, and some on other things from the ship. So they all escaped safely to the land.
-

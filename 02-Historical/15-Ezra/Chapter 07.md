@@ -3,7 +3,6 @@ book: "Ezra"
 chapter: 7
 canon: "Historical"
 ---
-
 # Ezra 7
 
 ### 1
@@ -89,4 +88,3 @@ Blessed be Yahweh, the God of our fathers, who has put such a thing as this in t
 
 ### 28
 and has extended loving kindness to me before the king and his counselors, and before all the king’s mighty princes. I was strengthened according to Yahweh my God’s hand on me, and I gathered together chief men out of Israel to go up with me.
-

@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 90
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 90
 
 ### 1
@@ -131,4 +130,3 @@ Then I wept with a great weeping and my tears stayed not till I could no longer 
 
 ### 42
 On that night I remembered the first dream, and because of it I wept and was troubled--because I had seen that vision.’ The Concluding Section Of The Book
-

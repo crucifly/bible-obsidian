@@ -3,7 +3,6 @@ book: "Song of Songs"
 chapter: 5
 canon: "Poetic"
 ---
-
 # Song of Solomon 5
 
 ### 1
@@ -53,4 +52,3 @@ His legs are like pillars of marble set on sockets of fine gold. His appearance 
 
 ### 16
 His mouth is sweetness; yes, he is altogether lovely. This is my beloved, and this is my friend, daughters of Jerusalem.
-

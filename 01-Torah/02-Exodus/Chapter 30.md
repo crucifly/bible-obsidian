@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 30
 canon: "Torah"
 ---
-
 # Exodus 30
 
 ### 1
@@ -119,4 +118,3 @@ The incense which you shall make, according to its composition you shall not mak
 
 ### 38
 Whoever shall make any like that, to smell of it, he shall be cut off from his people.”
-

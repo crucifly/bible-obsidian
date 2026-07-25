@@ -3,7 +3,6 @@ book: "Joshua"
 chapter: 24
 canon: "Historical"
 ---
-
 # Joshua 24
 
 ### 1
@@ -104,4 +103,3 @@ They buried the bones of Joseph, which the children of Israel brought up out of 
 
 ### 33
 Eleazar the son of Aaron died. They buried him in the hill of Phinehas his son, which was given him in the hill country of Ephraim.
-

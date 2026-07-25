@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 66
 canon: "Prophets"
 ---
-
 # Isaiah 66
 
 ### 1
@@ -77,4 +76,3 @@ It shall happen that from one new moon to another, and from one Sabbath to anoth
 
 ### 24
 “They will go out, and look at the dead bodies of the men who have transgressed against me; for their worm will not die, nor will their fire be quenched, and they will be loathsome to all mankind.”
-

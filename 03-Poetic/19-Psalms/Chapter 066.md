@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 66
 canon: "Poetic"
 ---
-
 # Psalms 66
 
 ### 1
@@ -65,4 +64,3 @@ But most certainly, God has listened. He has heard the voice of my prayer.
 
 ### 20
 Blessed be God, who has not turned away my prayer, nor his loving kindness from me.
-

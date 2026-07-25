@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 9
 canon: "New Testament"
 ---
-
 # Romans 9
 
 ### 1
@@ -104,4 +103,3 @@ Why? Because they didn’t seek it by faith, but as it were by works of the law.
 
 ### 33
 even as it is written, “Behold, I lay in Zion a stumbling stone and a rock of offense; and no one who believes in him will be disappointed.”
-

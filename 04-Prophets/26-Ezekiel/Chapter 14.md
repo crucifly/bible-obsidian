@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 14
 canon: "Prophets"
 ---
-
 # Ezekiel 14
 
 ### 1
@@ -74,4 +73,3 @@ Yet, behold, there will be left a remnant in it that will be carried out, both s
 
 ### 23
 They will comfort you, when you see their way and their doings; then you will know that I have not done all that I have done in it without cause,” says the Lord Yahweh.
-

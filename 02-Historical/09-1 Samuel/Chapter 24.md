@@ -3,7 +3,6 @@ book: "1 Samuel"
 chapter: 24
 canon: "Historical"
 ---
-
 # 1 Samuel 24
 
 ### 1
@@ -71,4 +70,3 @@ Swear now therefore to me by Yahweh, that you will not cut off my offspring afte
 
 ### 22
 David swore to Saul. Saul went home, but David and his men went up to the stronghold.
-

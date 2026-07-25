@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 58
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 58
 
 ### 1
@@ -23,4 +22,3 @@ And after this it shall be said to the holy in heaven That they should seek out 
 
 ### 6
 And there shall be a light that never endeth, And to a limit (lit. ‘number’) of days they shall not come, For the darkness shall first have been destroyed, [And the light established before the Lord of Spirits] And the light of uprightness established for ever before the Lord of Spirits.
-

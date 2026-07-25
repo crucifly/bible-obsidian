@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 24
 canon: "Historical"
 ---
-
 # 2 Kings 24
 
 ### 1
@@ -65,4 +64,3 @@ He did that which was evil in Yahweh’s sight, according to all that Jehoiakim 
 
 ### 20
 For through the anger of Yahweh, this happened in Jerusalem and Judah, until he had cast them out from his presence. Then Zedekiah rebelled against the king of Babylon.
-

@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 70
 canon: "Poetic"
 ---
-
 # Psalms 70
 
 ### 1
@@ -20,4 +19,3 @@ Let all those who seek you rejoice and be glad in you. Let those who love your s
 
 ### 5
 But I am poor and needy. Come to me quickly, God. You are my help and my deliverer. Yahweh, don’t delay.
-

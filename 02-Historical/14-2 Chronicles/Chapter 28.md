@@ -3,7 +3,6 @@ book: "2 Chronicles"
 chapter: 28
 canon: "Historical"
 ---
-
 # 2 Chronicles 28
 
 ### 1
@@ -86,4 +85,3 @@ Now the rest of his acts, and all his ways, first and last, behold, they are wri
 
 ### 27
 Ahaz slept with his fathers, and they buried him in the city, even in Jerusalem, because they didn’t bring him into the tombs of the kings of Israel; and Hezekiah his son reigned in his place.
-

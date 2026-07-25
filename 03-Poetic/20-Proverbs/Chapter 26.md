@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 26
 canon: "Poetic"
 ---
-
 # Proverbs 26
 
 ### 1
@@ -89,4 +88,3 @@ Whoever digs a pit shall fall into it. Whoever rolls a stone, it will come back 
 
 ### 28
 A lying tongue hates those it hurts; and a flattering mouth works ruin.
-

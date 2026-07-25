@@ -3,7 +3,6 @@ book: "Zechariah"
 chapter: 7
 canon: "Prophets"
 ---
-
 # Zechariah 7
 
 ### 1
@@ -47,4 +46,3 @@ It has come to pass that, as he called, and they refused to listen, so they will
 
 ### 14
 “but I will scatter them with a whirlwind among all the nations which they have not known. Thus the land was desolate after them, so that no man passed through nor returned: for they made the pleasant land desolate.”
-

@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 39
 canon: "Prophets"
 ---
-
 # Ezekiel 39
 
 ### 1
@@ -92,4 +91,3 @@ They will know that I am Yahweh their God, in that I caused them to go into capt
 
 ### 29
 I won’t hide my face from them any more; for I have poured out my Spirit on the house of Israel,’ says the Lord Yahweh.”
-

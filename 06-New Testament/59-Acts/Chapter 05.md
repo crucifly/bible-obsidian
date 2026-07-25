@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 5
 canon: "New Testament"
 ---
-
 # Acts 5
 
 ### 1
@@ -131,4 +130,3 @@ They therefore departed from the presence of the council, rejoicing that they we
 
 ### 42
 Every day, in the temple and at home, they never stopped teaching and preaching Jesus, the Christ.
-

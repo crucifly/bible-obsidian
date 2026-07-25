@@ -3,7 +3,6 @@ book: "Wisdom of Solomon"
 chapter: 7
 canon: "Deuterocanonical"
 ---
-
 # Wisdom of Solomon 7
 
 ### 1
@@ -95,4 +94,3 @@ For she is more beautiful than the sun, and above all the order of
 
 ### 30
 For after this cometh night: but vice shall not prevail against
-

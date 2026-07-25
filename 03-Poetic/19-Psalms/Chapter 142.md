@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 142
 canon: "Poetic"
 ---
-
 # Psalms 142
 
 ### 1
@@ -26,4 +25,3 @@ Listen to my cry, for I am in desperate need. deliver me from my persecutors, Fo
 
 ### 7
 Bring my soul out of prison, that I may give thanks to your name. The righteous will surround me, for you will be good to me.
-

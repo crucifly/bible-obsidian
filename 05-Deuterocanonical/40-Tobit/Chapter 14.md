@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 14
 canon: "Deuterocanonical"
 ---
-
 # Tobit 14
 
 ### 1
@@ -50,4 +49,3 @@ And he died at Ecbatane in Media, being an hundred and seven and
 
 ### 15
 But before he died he heard of the destruction of Nineve, which
-

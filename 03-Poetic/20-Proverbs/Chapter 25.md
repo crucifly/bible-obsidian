@@ -3,7 +3,6 @@ book: "Proverbs"
 chapter: 25
 canon: "Poetic"
 ---
-
 # Proverbs 25
 
 ### 1
@@ -89,4 +88,3 @@ It is not good to eat much honey; nor is it honorable to seek one’s own honor.
 
 ### 28
 Like a city that is broken down and without walls is a man whose spirit is without restraint.
-

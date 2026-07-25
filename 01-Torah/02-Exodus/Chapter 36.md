@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 36
 canon: "Torah"
 ---
-
 # Exodus 36
 
 ### 1
@@ -119,4 +118,3 @@ He made a screen for the door of the tent, of blue, purple, scarlet, and fine tw
 
 ### 38
 and the five pillars of it with their hooks. He overlaid their capitals and their fillets with gold, and their five sockets were of brass.
-

@@ -3,7 +3,6 @@ book: "1 Meqabyan"
 chapter: 7
 canon: "Deuterocanonical"
 ---
-
 # 1 Meqabyan 7
 
 ### 1
@@ -17,4 +16,3 @@ They ruled in Jerusalem and kept the Command of the Lord.
 
 ### 4
 This is the book of 1 Meqabyan, which tells of the struggle of the children of Israel for the Law of their God.
-

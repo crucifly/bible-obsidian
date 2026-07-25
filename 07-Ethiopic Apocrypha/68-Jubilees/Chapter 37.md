@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 37
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 37
 
 ### 1
@@ -125,4 +124,3 @@ The Book of Jubilees
 
 ### 40
 War between Jacob and Esau. Death of Esau and overthrow of his forces, 1-10. Edom reduced to servitude 'till this day', 11-14. Kings of Edom, 15-24. (Cf. Gen. xxxvi.31-9.)
-

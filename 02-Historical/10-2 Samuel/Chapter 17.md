@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 17
 canon: "Historical"
 ---
-
 # 2 Samuel 17
 
 ### 1
@@ -92,4 +91,3 @@ brought beds, basins, earthen vessels, wheat, barley, meal, parched grain, beans
 
 ### 29
 honey, butter, sheep, and cheese of the herd, for David, and for the people who were with him, to eat; for they said, “The people are hungry, and weary, and thirsty in the wilderness.”
-

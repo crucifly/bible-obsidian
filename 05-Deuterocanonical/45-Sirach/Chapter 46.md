@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 46
 canon: "Deuterocanonical"
 ---
-
 # Sirach 46
 
 ### 1
@@ -65,4 +64,3 @@ And before his long sleep he made protestations in the sight of
 
 ### 20
 And after his death he prophesied, and shewed the king his end,
-

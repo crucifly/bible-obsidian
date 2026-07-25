@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 25
 canon: "Torah"
 ---
-
 # Exodus 25
 
 ### 1
@@ -125,4 +124,3 @@ It shall be made of a talent of pure gold, with all these accessories.
 
 ### 40
 See that you make them after their pattern, which has been shown to you on the mountain.
-

@@ -3,7 +3,6 @@ book: "Hebrews"
 chapter: 7
 canon: "New Testament"
 ---
-
 # Hebrews 7
 
 ### 1
@@ -89,4 +88,3 @@ who doesn’t need, like those high priests, to offer up sacrifices daily, first
 
 ### 28
 For the law appoints men as high priests who have weakness, but the word of the oath which came after the law appoints a Son forever who has been perfected.
-

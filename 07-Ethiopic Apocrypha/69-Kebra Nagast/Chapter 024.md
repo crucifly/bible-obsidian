@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 24
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 24
 
 ### 1
@@ -11,4 +10,3 @@ And the Queen said unto them, “Hearken, O ye who are my people, and give ye ea
 
 ### 2
 And her nobles, and her slaves, and her handmaidens, and her counsellors answered and said unto her, “O our Lady, as for wisdom, it is not lacking in thee, and it is because of thy wisdom that thou lowest wisdom. And as for us, if thou goest we will go with thee, and if thou sittest down we will sit down with thee; our death shall be with thy death, and our life with thy life.” Then the Queen made ready to set out on her journey with great pomp and majesty, and with great equipment and many preparations. For, by the Will of God, her heart desired to go to Jerusalem so that she might hear the wisdom of Solomon; for she had hearkened eagerly. So she made ready to set out. And seven hundred and ninety-seven camels were loaded, and mules and asses innumerable were loaded, and she set out on her journey and followed her road without pause, and her heart had confidence in God.
-

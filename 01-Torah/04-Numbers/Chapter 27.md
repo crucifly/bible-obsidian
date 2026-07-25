@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 27
 canon: "Torah"
 ---
-
 # Numbers 27
 
 ### 1
@@ -74,4 +73,3 @@ Moses did as Yahweh commanded him. He took Joshua, and set him before Eleazar th
 
 ### 23
 He laid his hands on him, and commissioned him, as Yahweh spoke by Moses.
-

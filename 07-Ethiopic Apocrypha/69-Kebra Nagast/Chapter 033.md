@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 33
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 33
 
 ### 1
@@ -17,4 +16,3 @@ And the Queen took the young man aside and when he was alone with her she gave h
 
 ### 4
 And the young man [and his retinue] made straight their way and they journeyed on and came into the country of the neighbourhood of Gâzâ. Now this is the Gâzâ which Solomon the King gave to the Queen of Ethiopia. And in the Acts of the Apostles Luke the Evangelist wrote, saying, “He was the governor of the whole country of Gâzâ, an eunuch of Queen Hendakê, who had believed on the word of Luke, the Apostle.”
-

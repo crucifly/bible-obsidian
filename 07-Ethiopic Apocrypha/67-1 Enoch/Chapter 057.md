@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 57
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 57
 
 ### 1
@@ -14,4 +13,3 @@ And the noise of their wagons was heard, and when this turmoil took place the ho
 
 ### 3
 And they shall all fall down and worship the Lord of Spirits. And this is the end of the second Parable. The Third Parable
-

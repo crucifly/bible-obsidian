@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 75
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 75
 
 ### 1
@@ -32,4 +31,3 @@ And I saw chariots in the heaven, running in the world, above those portals in w
 
 ### 9
 And one is larger than all the rest, and it is that that makes its course through the entire world.
-

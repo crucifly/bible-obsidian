@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 148
 canon: "Poetic"
 ---
-
 # Psalms 148
 
 ### 1
@@ -47,4 +46,3 @@ let them praise Yahweh’s name, for his name alone is exalted. His glory is abo
 
 ### 14
 He has lifted up the horn of his people, the praise of all his saints; even of the children of Israel, a people near to him. Praise Yah!
-

@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 15
 canon: "New Testament"
 ---
-
 # 1 Corinthians 15
 
 ### 1
@@ -139,7 +138,7 @@ It is sown in dishonor; it is raised in glory. It is sown in weakness; it is rai
 It is sown a natural body; it is raised a spiritual body. There is a natural body and there is also a spiritual body.
 
 ### 45
-So also it is written, “The first man, Adam, became a living soul.”  The last Adam became a life-giving spirit.
+So also it is written, “The first man, Adam, became a living soul.” The last Adam became a life-giving spirit.
 
 ### 46
 However that which is spiritual isn’t first, but that which is natural, then that which is spiritual.
@@ -179,4 +178,3 @@ But thanks be to God, who gives us the victory through our Lord Jesus Christ.
 
 ### 58
 Therefore, my beloved brothers, be steadfast, immovable, always abounding in the Lord’s work, because you know that your labor is not in vain in the Lord.
-

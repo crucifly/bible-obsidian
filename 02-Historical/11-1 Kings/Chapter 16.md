@@ -3,7 +3,6 @@ book: "1 Kings"
 chapter: 16
 canon: "Historical"
 ---
-
 # 1 Kings 16
 
 ### 1
@@ -107,4 +106,3 @@ Ahab made the Asherah; and Ahab did more yet to provoke Yahweh, the God of Israe
 
 ### 34
 In his days Hiel the Bethelite built Jericho. He laid its foundation with the loss of Abiram his firstborn, and set up its gates with the loss of his youngest son Segub, according to Yahweh’s word, which he spoke by Joshua the son of Nun.
-

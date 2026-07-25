@@ -3,7 +3,6 @@ book: "Tobit"
 chapter: 2
 canon: "Deuterocanonical"
 ---
-
 # Tobit 2
 
 ### 1
@@ -47,4 +46,3 @@ And when it was in my house, and began to cry, I said unto her,
 
 ### 14
 But she replied upon me, It was given for a gift more than the
-

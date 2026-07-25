@@ -3,7 +3,6 @@ book: "1 Corinthians"
 chapter: 5
 canon: "New Testament"
 ---
-
 # 1 Corinthians 5
 
 ### 1
@@ -44,4 +43,3 @@ For what do I have to do with also judging those who are outside? Don’t you ju
 
 ### 13
 But those who are outside, God judges. “Put away the wicked man from among yourselves.”
-

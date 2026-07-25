@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 18
 canon: "Historical"
 ---
-
 # 1 Chronicles 18
 
 ### 1
@@ -56,4 +55,3 @@ Zadok the son of Ahitub, and Abimelech the son of Abiathar, were priests; Shavsh
 
 ### 17
 and Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and the sons of David were chief officials serving the king.
-

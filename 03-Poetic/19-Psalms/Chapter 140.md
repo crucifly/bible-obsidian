@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 140
 canon: "Poetic"
 ---
-
 # Psalms 140
 
 ### 1
@@ -44,4 +43,3 @@ I know that Yahweh will maintain the cause of the afflicted, and justice for the
 
 ### 13
 Surely the righteous will give thanks to your name. The upright will dwell in your presence.
-

@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 32
 canon: "Torah"
 ---
-
 # Numbers 32
 
 ### 1
@@ -131,4 +130,3 @@ Jair the son of Manasseh went and took its villages, and called them Havvoth Jai
 
 ### 42
 Nobah went and took Kenath, and its villages, and called it Nobah, after his own name.
-

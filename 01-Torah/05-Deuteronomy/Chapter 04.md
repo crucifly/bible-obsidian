@@ -3,7 +3,6 @@ book: "Deuteronomy"
 chapter: 4
 canon: "Torah"
 ---
-
 # Deuteronomy 4
 
 ### 1
@@ -152,4 +151,3 @@ from Aroer, which is on the edge of the valley of the Arnon, even to Mount Sion 
 
 ### 49
 and all the Arabah beyond the Jordan eastward, even to the sea of the Arabah, under the slopes of Pisgah.
-

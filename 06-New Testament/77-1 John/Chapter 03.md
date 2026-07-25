@@ -3,7 +3,6 @@ book: "1 John"
 chapter: 3
 canon: "New Testament"
 ---
-
 # 1 John 3
 
 ### 1
@@ -77,4 +76,3 @@ This is his commandment, that we should believe in the name of his Son, Jesus Ch
 
 ### 24
 He who keeps his commandments remains in him, and he in him. By this we know that he remains in us, by the Spirit which he gave us.
-

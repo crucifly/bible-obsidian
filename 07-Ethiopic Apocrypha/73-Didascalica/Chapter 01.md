@@ -3,22 +3,16 @@ book: "Didascalica"
 chapter: 1
 canon: "Ethiopic Apocrypha"
 ---
-
 # 73-Didascalica
 
 ### Didascalica-CH-1
 . 
-
-
 THE DOCTRINE OF THE DIDASCALIA OF THE FATHERS, THE 
 HOLY AND PURE LIGHTS OF THE WORLD, THE 
 APOSTLES.! 
-
 IN THE NAME OF GOD THE FATHER ALMIGHTY AND OF HIS 
 ONLY-BEGOTTEN SON JESUS CHRIST, AND OF THE 
 PARACLETE, THE HOLY SPIRIT, 
-
-
 We,? the Twelve Apostles, ministers of His only- 
 begotten Son Jesus Christ, being gathered together in 
 one place in Jerusalem, the city of the great King, and 
@@ -36,20 +30,13 @@ as a minister, and the sub-deacon, behold, he is as the
 same; and the reader also, and the skilful singers’ . . . 
 and the rest of the people as those who hearken to the 
 word of the Gospel, and, moreover, understand the 
-
-
 A. adds: Their prayer and * P this one city. 
 their blessing, and the mercy of “P this right faith, We 
 their God be with their beloved have appointed. 
 Wild Sdala, and with us for 5 P degrees (and) offices. 
 ever and ever. Amen. * P adds: Christ. 
-
 * See Add. notes. ' See Add. notes. 
-
-
 2 THE ETHIOPIC DIDASCALIA 
-
-
 word of admonition. For thus have we ordained * the 
 law for the Church, (even) this book of admonition, 
 which we have written, and have sent with Clement, our 
@@ -63,7 +50,6 @@ bestowed on us this mystery which is from Himself.
 But those who keep not His law shall be cast into the 
 fire which is not quenched, and their abode also shall 
 be in the fire of Gehenna for ever, as it is written. 
-
 (AC. i.] But apostles and presbyters and all .the 
 people, who have believed '° in the name of *! our Lord 
 Jesus Christ and work righteousness and peace, shall 
@@ -83,30 +69,16 @@ partakers of His Holy Son. Hearken to the holy
 admonition, ye who receive at the commandment of our 
 Saviour the words of the Gospel and His glad tidings." 
 which is full of glory. 
-
 [i., 1.] O ye children of God, keep '* His com- 
 mandments and do!’ His will; but if there be 
 anyone that secketh’® to follow after sin and that 
-
-
 " P found and ordained. Lit. glory. 
-
 * P heard this which is. SP the glad tidings of His 
 ‘© P who believe. word. 
-
  P omits: the name of. © Po adds: His word and, 
-
-
 '2°P adds: and holy. Po adds: His law and. 
 * P fear. '* P desireth. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 3 
-
-
 docth all things that are not pleasing to God, he 
 shall be numbered with those who trangress His law 
 and His commandment. And now I say unto you, keep 
@@ -141,25 +113,14 @@ in the ears of the Lord of Sabaoth.”?’ And in another
 place ?* also it is said, ‘Cursed be everyone?® that 
 stealeth his neighbour’s landmark, and the people shall 
 say, So be it.’"?2° Wherefore Moses saith, ‘‘ Desire not 
-
-
 Ex 20, 17; Dt 5, 21. 7” On this phrase see PI's 
-
-
 2° P for this. note in loco. 
-
-
 *) P and. * Isa 5, 8. 
 22. P adds: the prophecy and. "Cf. Isa s, 8f. 
 2 P omits: with her. 7 P in the law. 
 7 Mt 5, 28. ” 7? he. 
-
 ae * De ony 17. 
-
-
 4 THE ETHIOPIC DIDASCALIA 
-
-
 thy neighbour’s landmark and take not away the law 
 which thy fathers ordained.” *' Because of these things 
 come fear, and death, and trouble; and judgment from 
@@ -193,27 +154,15 @@ for he maketh the sun to rise on the evil and the good,
 and sendeth rain on the just and unjust.” °7 — Beloved, 
 let us understand these commandments, that we may be 
 sons of light. 
-
 [i., 3-] Bear patiently with one another, O ye*® 
 sons of God. And let the husband also bear patiently 
 with his wife, and not be haughty or false; but let him 
 be merciful and upright, and cherish her alone in love 
-
-
 "Cf. Dt 10, 14. *5 Mt 5, 44; Mk 6, 28. 
 *2 Lit. bright. 2° Cf. Prov 20, 12. 
 *. Tob 4, 15 (16). "' Mt «. 44f 
-
-
 ** Nu 24, 9- * P adds: sons of light and. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 5 
-
-
 and humility. And let him not take pleasure in, nor 
 desire, another woman, lest she lead him** astray 
 unto evil. But if thou committest adultery, and 
@@ -249,25 +198,14 @@ put on a garment which is woven with wool and flax:
 thou shalt make for thyself a twisted fringe for thy 
 garment.” 47. 4®. But we ought not to shave our beards, 
 nor to change the nature of man into another fashion. 
-
-
 3* P to lead her. ‘S This is a mistake. There 
-
 “A omits: evil. is no quotation in AC. 
-
 “| A omits: not “* P adds: saying. 
-
 “7 Ex 20, 173 20, 13. ‘7 P omits: for thy garment. 
 3 
-
 “ P But if. “ Dt 22, rf. 
-
 “P the. 
-
-
 6 THE ETHIOPIC DIDASCALIA 
-
-
 And if thou doest thus, thou art a trans ress 
 law and far from God, who created tee ta His ee 
 and His likeness. But if thou desirest to please God, do 
@@ -283,15 +221,11 @@ or while thou sleepest, love the Lord thy God with all
 thy heart, and with all thy mind and’ with all thy 
 strength,” *! that thou mayest find from Him compas- 
 sion and mercy.
-
 ### Didascalica-CH-2
 . 
-
-
 THAT THE RICH OUGHT TO SEEK TO KNOW ! THE PROFIT OF 
 THE SCRIPTURES AT ALL TIMES IN THE STRENGTH OF 
 THE HOLY SPIRIT. 
-
 [i., 5] Bur if thou art rich, and hast no need of the 
 art and labour of thy hand, wherewith to earn thy bread 
 and livelihood, be not slothful, nor sit idle, but go to 
@@ -301,39 +235,20 @@ of the word of life, and read what is in the Book of
 Kings ? and the Prophets, and sing a psalm of praise, 
 and hearken to the word of the Gospel, which is the 
 fulfilment of the whole law.* 
-
 [i., 6.] And keep far from all service of the gods of 
 the Gentiles; and take no heed of any * words of vanity 
 which profit not, and seek no other law, nor false 
 prophets who change and corrupt the faith. What then 
 art thou unable (to find) in the law of God, that thou 
-
-
 “ P adds: evil and. 
-
-
 5° P adds: Christ. 
 *' Ps 1, 2; Dt 6, sf. 
 ' P omits: to know. 
-
-
 2 P the law of the Scriptures, 
 the Kings. PI mistranslates. 
-
 *> P omits: law. 
-
 * P omits: any. 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 7 
-
-
 shouldest seek after the learning of the Gentiles? But 
 if thou desirest to know* the power of the interpre- 
 tation of the Scriptures, seck out the Book of Kings: 
@@ -368,32 +283,22 @@ know how many evil kings have transgressed '? through
 lack of understanding. These have perished and been 
 destroyed by the stroke of the judgment of God,’* and 
 have lost eternal life. And knowing this, thou shalt be 
-
-
 * A adds: to read. Mt 11, 28. 
 * P omits: to seek. ' P adds: in righteousness. 
 ' Pl translates: Books of "Pp adds: the command- 
 Moses. The word has a wider ments of God. 
 meaning. '™ So P. A reads: of the 
 * P adds: all. anger of judgment. 
-
-
 * See PI's note. 
-
-
 8 THE ETHIOPIC DIDASCALIA 
-
-
 strong in the right faith, and shalt find grace and 
 favour with our Lord '* Jesus Christ, for thou art one 
 of His members. 
-
 Moreover, when thou desirest to bathe, enter not into 
 the bath where the women bathe, lest they see the 
 beauty of thy youth, and the charm of thy flesh, and 
 stumble because of thee, or thou thyself sin and fall 
 by reason of them. 
-
 {i., 7-] O my children, let us hear and understand 
 the word of the Holy One, which saith, “Keep ye my 
 commandment; say unto wisdom, Thou art my sister, 
@@ -425,24 +330,9 @@ days would he return to his house. And she led him
 astray with many words, and drew him on with the 
 ‘© P omits: our Lord. 17 Lit. make to fly. A trans- 
 18 Lit. townswoman. lation of wolel dlaracbai, 
-
-
  P of the night at evening. is y pace forth. 
 s. 
-
-
-
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 9 
-
-
 snare of her lips, and he followed her in the wicked ?° 
 blindness of his heart.” 2! And furthermore it is said, 
 “Look not on an evil woman, for honey floweth from 
@@ -468,36 +358,21 @@ unto a multitude of words, but may be strong in a8
 faith, and in doing good. And let us keep far from all 
 evil-doing, and be pure from all evil 2® (and) unclean- 
 ness before God, that we may find life eternal.
-
 ### Didascalica-CH-3
 . 
-
-
 THAT WIVES OUGHT TO OBEY THEIR HUSBANDS AND WALK 
 IN TRUE WISDOM. 
-
-
 fi., 8.] Ler the wife obey and? be subject to her 
 ‘husband, for ‘the head of a wife is her husband,” 
 and the head of the man that walketh in the 
-
-
 2° P adds: desire of his soul ne Eyey 8ff. 
 and the. adds: for you. 
 ‘a Pied 7, 4ff. *1 P this witness. 
-
-
 ™ Prov 5, 3f- % P adds: the right. 
 %-P the flesh of thy body is. 2” P omits . evil. 
 % P omits: that gave me ’ P omits: obey and. 
-
-
 commandments. 
-
-
 10 THE ETHIOPIC DIDASCALIA 
-
-
 way of righteousness is Christ; and “the head of 
 Christ is God” the Father, who is above all, who was 
 und is to come, the Creator of all, with His Son our 
@@ -531,27 +406,15 @@ household are clothed ;'° double cloaks of fine linen and
 purple she made for her husband, and for herself she 
 made garments. And her husband becometh notable in 
 the gates, when he sitteth in the assembly |! with the 
-
-
 7? P greatness and glory and * P her. 
 honour. ’ P stretched out. 
-
 * Or, strong, LXX yuvaina * P omits: in mercy. 
 avdpelav. * PT is open. 
-
-
 “ P good is the spoil, it. 'e The punctuation follows 
 5 This is the meaning of the the LXX. 
 word according to Dillmann. "So P; A reads: in the 
 UXX pnpvopérn, gates and the assembly. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 11 
-
-
 elders of the land. Linen parments she made,!? and 
 gave (them) away, and girdles for the Canaanites. And 
 her mouth she opened acording to the law, and set a 
@@ -586,25 +449,14 @@ as when a wicked man falleth into great aMiction, and
 bringeth on himself disgrace, and dishonour,?? and 
 sorrow. In like manner a wicked woman bringeth 7? 
 on herself dishonour: and as,a lion that lieth in wait 
-
-
 So P; A adds: for her Prov 31, 10ff. 
-
-
 husband. '© P omits: desirest and. 
 '* PL translates: rule. Greek " Greek dpdoxev. 
-
 rakiv. 2 P in the midst of the 
 " Lit. wheat. streets. 
 ‘6 P omits : many riches. " P omits: and dishonour, 
-
-
 1%? knowledge. 2.7? draweth. 
-
-
 12 THE ETHIOPIC DIDASCALIA 
-
-
 and rendeth, so she ensnareth fools, even as it is 
 written, saying, “As moths (destroy) a garment, and 
 as decay a tree, So sorrow wasteth the heart of a 
@@ -619,7 +471,6 @@ faces with dyes and painting and adornment, which
 have no profit, on the form which God created. Let 
 them not do thus, but when they walk in the way let 
 them incline their heads, being veiled. 
-
 [i., 10.] And take heed to yourselves, ye faithful 
 women, and speak no (word of) hate to anyone, but 
 above all (not) to your husbands. O ye good and 
@@ -630,37 +481,22 @@ that adornecth our life,?* and enlighteneth our -hearts,
 and bringeth us close to God, and winneth for us an 
 entrance into the Kingdom of heaven in life eternal and 
 rest.?°
-
 ### Didascalica-CH-4
 . 
 OF BISHOPS, PRESBYTERS, AND DEACONS, 
-
-
 [ii., 1.] OF bishops we have heard thus from our 
 Lord Jesus Christ, that the shepherd of the sheep who 
 is ordained bishop of ' all the Churches must needs be 
 blameless, pure and good,” who thinketh not on the care 
 of this world, who is full fifty years old, who hath 
-
-
 33 Prov 12, 4. 7° Or, as Pi: directeth our 
 * P omits: that thou course aright. 
 shouldest dwell. »” P in eternal rest. 
-
-
 25 Prov ai, 19. ' P in. 
 2* P adds: and virtuous. 2? P good and pure. 
 27 P our brethren and our 
-
 children. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 13 
-
-
 passed the strength of youth, who is not a slanderer,* 
 nor one that speaketh lics amongst the brethren. For 
 the Gospel saith, “lor every word that a man speaketh 
@@ -694,30 +530,19 @@ said, ‘Blessed arc the merciful, for they shall obtain
 mercy.” '4 Let him therefore be a peacemaker, for it 
 is said, ‘Blessed are the peacemakers; they shall be 
 called the children of God.” '® Let him be pure of 
-
-
 * Pl! omits in translation: fathers, perfect and humble. 
 who is not a slanderer. " Cf. « Ka, 12 LXX (cod A), 
 “Cf. Mt 12, 36. P by it he * See Add. notes. 
-
-
 shall be condemned in the day ‘* P adds : God. 
 of judgment, "Isa 66, 2 
 “Mt 12, 37. '? A adds: in heart. 
 © P pope (Eth. papas) and "Mt s, 5. 
 bishop. “Mt 5, 7. 
-
-
 ' P in the works of the holy Mt 5s, 0. 
-
-
 14 THE ETHIOPIC DIDASCALIA 
-
-
 heart, without revenge and evil and unrighteousness, 
 for it is said, “ Blessed are the pure in heart; they shall 
 see God.” 76 
-
 fii., 2.) Let him, then, be spiritual, and watchful !7 
 to do good, neither insatiable nor passionate, nor a 
 drunkard, nor vindictive, without hatred and strife, not 
@@ -733,14 +558,12 @@ who traineth her children in the true worship and in
 the fear of the Lord. It is right that the men of his 
 household should obey the bishop in humility and in 
 fear, and let him be ’® master even as it is written. 
-
 {ii., 3.] And let them try him that he be blameless, 
 not passionate, (for) thus saith wisdom, “Anger 
 destroyeth the wise man.” 1'® And let him be merciful 
 and charitable, for our Lord saith, ‘And by this shall 
 all know that ye are my disciples, if ye love one 
 another.” 7° 
-
 fii., 4.] Let him, then, be a lover of men, who 
 receiveth strangers, who accepteth not persons, a man 
 of understanding, who sheweth favour neither to rich, 
@@ -752,24 +575,13 @@ if there be a slothful man, or one who hath spent all
 his substance in drunkenness and fornication, and 
 desireth to receive alms, let not the bishop show any 
 care for him, nor permit him to enter the church. For 
-
 16 3° Jn 13, 35: 
-
 me hase ie and watchful. at { ie ae understand how 
 1 P omits: let him be. Pi gets his translation: who is 
 1” Prov 15, i. P reads: A ready to serve others. 
-
-
 passionate man destroyeth wis- 22° The words are fem. in Eth. 
 dom. 7 P omits: all. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 15 
-
-
 the Scripture saith unto those who act thus, “ How long 
 wilt thou lic, thou slugpard? and when wilt thou awake 
 from?' sleep? A while thou sleepest, and a while thou 
@@ -777,7 +589,6 @@ sittest; a while thou slumberest, and a while thou
 foldest thy hand to thy breast; and then as an evil 
 messenger cometh poverty upon thee, and want as a 
 swift) runner.” ?* 
-
 {ii., 5-] It is not right for the bishop to 
 judge, accepting the person of the rich, and to 
 neglect the poor. lor God said unto Moses, “ Judge 
@@ -799,7 +610,6 @@ spiritual 7° teaching, and fill®® them with the light of
 the law of God with much admonition. God saith, 
 “Make the light of wisdom to shine upon you, for it is 
 time.” 3! 
-
 {ii., 6.] ‘Thus, then, it is right for the bishop 
 to suffer and toil and wrestle for righteousness’ sake, 
 but above all before the people, that they, when they 
@@ -808,21 +618,12 @@ moreover, let him become surety for no man, nor
 associate with the great, nor be 7? of a double tongue, 
 nor follow after princes, but let him fear God; and let 
 him not hearken to a false accusation against his 
-
-
 * P adds: thy. * P omits: spiritual. 
-
 75 Prov 6, off. 2° Lit, water. 
-
 ** Cf. Lev 19, 15: Dt 1, 17. ‘Hos 10, 12. 
-
 2" P For our Lord. *2P adds: of a double heart 
 “8 Jn 5. 39. or. 
-
-
 16 THE ETHIOPIC DIDASCALIA 
-
-
 neighbour. And let him not be slothful in fasting, nor 
 seek occasions for eating, nor say, To-day is a feast, 
 as the Gentiles do, to eat and drink and be wanton: 
@@ -859,23 +660,12 @@ admonished him,‘! he shall surely die in his guilt, and
 his righteousness which he hath done I will not 
 remember, and his blood will I require from thy hand. 
 And if thou hast admonished the righteous man, so that 
-
-
 32g : then. ** P from thy hand. 
 ie P aay ** P omits: saith the Lord. 
 28 P adds: and my ordinance. «© P thou hast saved thyself. 
-
-
 © Cf Lev 18, 4. “1 P omits 7 and thou hast not 
 ay ae :, to. : admonished him. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 17 
-
-
 he sin not, that righteous man shall surely live, and 
 thou also hast saved thy soul.” 4? ‘As when war and 
 strife arise in the midst of a people, and they seek out 
@@ -910,31 +700,20 @@ and be saved from their iniquity.” °° And Moses also
 said unto the people, ‘“‘Hear, O Israel, the Lord our 
 God is one.” *' And again, it is said in the Holy 
 Gospel, ‘‘He that hath ears to hear, let him hear.” °? 
-
-
 “ Ezek 3, 17ff. “P watchmen are the 
 ‘3 A and P read: his blood. bishops. 
 ““ P blow the trumpet as. “* P adds: of the Scriptures. 
-
-
 “* Cf. Ezek 33. 2ff. 5° Cf. Jer 26, af. 
 “P omits: shall find life "Dt 6, 4. 
 eternal. *2 Mt at, 15. 
-
-
 ‘’ P omits : eternal. 
-
-
 18 THE ETHIOPIC DIDASCALIA 
-
-
 And Solomon also saith, ‘ Hear, my son, the instruction 
 of thy father and disregard not the commandment of 
 thy mother.” °° Yet they have not heard unto this day, 
 but have forsaken the Lord the only true God, and 
 He hath called them a generation of transgressors and 
 adulterers, concerning whom we have spoken before. 
-
 {ii., 7.] And now know, beloved, ye who have been 
 baptized into the death of our Lord Jesus Christ, that 
 it is not meet that they *4 should sin who have received 
@@ -942,7 +721,6 @@ such grace as this. Know, brethren, that such as
 these °° who, after they have received baptism, turn 
 back to deeds of sin, shall go down to the condemnation 
 of Gehenna. 
-
 {ii., 8.] And (there are) others also who have not 
 been believers, but (who) afterwards t when t¢ °* they 
 have believed and *’ been baptized become blessed 
@@ -964,29 +742,14 @@ from their own ways, the bishop ought to admonish
 them, and put to shame those who do thus. But it 1s 
 right that he teach them in the love of Christ how they 
 cught to serve. : 
-
 [ii., 9.] It is right for the bishop to seek after 
-
 s cute. 
 “ ae nig “ P adder anit Ge glad. 
-
-
 oe its: such as. "Mt 5, 11. 
-
 ae | oe when. *? P adds: falsely. ’ 
 57 P omits : believed and. *’ The source of this quotation 
 58 P omits: holy. is unknown, 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 19 
-
-
 righteousness, and not honour transgressors, nor be 
 partial in judgment, nor take a bribe from any man, 
 for a bribe blindeth the cyes of the wise, nor turn aside 
@@ -996,7 +759,6 @@ saith, “‘Come not into the place where they encamp;
 withdraw from them, and turn away. For they sleep 
 not, unless they do evil. Sleep is taken away from 
 them, and they sleep not who feed on sin.” 
-
 {ii., 10.) But if the bishop have no understanding, 
 and have walked in subtlety and vileness, even as Saul 
 did concerning Agag, and as Eli the priest, who 
@@ -1027,25 +789,16 @@ teach and admonish in humility,*® and turn them to
 repentance, with full knowledge of the life of each one, 
 Cf. 1 Cor 5, 13; Dt 17, 7. Achan is named in connection 
 P adds: unto many and. with Gehazi again in c. 35. 
-
-
 P receive. ** P adds; and in the fear of 
 “ Eth. has Nakor (AC. “Ayap) 9 God. 
-
-
 Cc 2 
-
-
 20 THE ETHIOPIC DIDASCALIA 
-
-
 and should order their manner of living, as is fitting, 
 in peace; that the people may lead good lives and 
 turn from their sins. This then is well-pleasing in 
 God’s sight, for when a man turneth from his sin and 
 returneth to repentance, others ** seeing him are taught 
 the true service. 
-
 [ii., 11.] Therefore ought the bishop to be watchful 
 to do good, that the beauty of his life may be known 
 unto all; for he is the guide of the people, and the 
@@ -1057,7 +810,6 @@ authority, and hath commanded them, saying, ““What-
 soever ye have bound on earth, let it be bound in 
 heaven, and whatsoever ye have loosed on earth, let it 
 be loosed in heaven.” 7? 
-
 [ii., 12.] It is right for the bishop to turn the people 
 to the knowledge of God, and to receive the repentance 
 of those who have turned 72 to God, (and) to teach them, 
@@ -1076,31 +828,14 @@ shall not be saved, when he hath sinned. When I speak
 to the righteous, if he trust in his righteousness and 
 commit sin, all his righteousness 7° I will not remember 
 unto him: in his sin which he hath committed, he shall 
-
-
 its: 5 16 A omits: saith. 
 7 rages aaa 7° P the death of the sinner. 
 "Mt 18, 18. 7? P adds: in your sins. 
 i : ™ P when. 
 ” F iogtl heart. 1 P adds: which he hath 
-
-
 ™ Ezek 33, 11-16. Pl omits: done, 
 say unto them. 
-
-
-
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 21 
-
-
 dic. And if T say unto the sinner, Thou shalt surely 
 die, and he repent of his sin and do justice and 
 righteousness, and return the pledye of his debt *° and 
@@ -1112,7 +847,6 @@ hath done justice and righteousness, and by it he shall
 live.” Wherefore sinners shall hope; when they turn 
 from their sins and repent, they shall find a good hope; 
 and they shall inherit the earth. 
-
 {ii., 13.] But let them that have not transgressed 
 take heed lest they fall ®? into ** affliction and sorrow 
 and weeping. Know, then, and understand, O man, 
@@ -1135,24 +869,16 @@ we ought to take heed to ourselves and fashion our-
 selves, and mark the time of the bridegroom, lest we 
 fall into sin; but he that doeth righteousness let him 
 take heed to do good ®* even unto the end. It is meet, 
-
-
 *® A omits: of his debt. serts the clause after the follow- 
 "' P omits: his sin and. ing quotation. 
 "? Lit. descend. " Ps 6, 6. 
 "* P adds: condemnation and. "' Cf. Ps 16, 5. 
 aes P adds: thou shalt surely ** P which is written in the 
 ie 
-
-
 F Holv-Gospel. 
 ** P omits: for after death ** P omits: good. 
 there is no repentance; and in- 
-
-
 22 THE ETHIOPIC DIDASCALIA 
-
-
 then, that the bishop be of understanding and judge 
 uprightly, for the judgment is the Lord’s. Let him 
 admonish sinners, that they may walk in the right way ; 
@@ -1160,7 +886,6 @@ and, when they turn, let him receive their repentance in
 compassion and in mercy. Remember, then, what our 
 Lord saith, “There is great joy in heaven over one 
 sinner that repenteth.”’ %° 
-
 (ii., 14.] But if thou receivest not them that repent, 
 but rejectest them, thou hast scattered thy flock, and 
 hast not understood what David saith, “Deliver not 
@@ -1190,45 +915,20 @@ and break the strength of bread,*? and send famine
 against it, and destroy from off it man and beast, if 
 these three men, Noah, Daniel, and Job, were in it, 
 they should not save (it) ** by their righteousness, saith 
-
-
 °° Lk 15, 7. ** P have thou. 
-
 oo. iT} 
-
 oe rae eccpte: a P Vegeeee 
-
 " Jer 8, 4f; 2% 22. ** P they shall be saved. 
-
-
 % P omits: turn to thee and. 
-
-
-
-
-
-
-
-
 THE EVTHIOPIC DIDASCALIA 23 
-
-
 the Lord God. And if 1 send evil beasts against and 
 upon that land, and punish it, and destroy it, and there 
 be none left to go about (therein) because of those 
 heasts, even if these three men were in it, as I live, 
-
-
 saith the Lord God, they shall not save their sons, nor 
-
-
 their daughters,*” but they alone shall be saved, and 
 the land shall be destroyed.” !° As it is written, “If 
-
-
 ‘there be in this world a righteous man and a sinner, the 
-
-
 righteous shall not perish with the sinner.” But He 
 sendeth rain on the good !"' and the evil. And if there 
 be anyone who thinketh and saith, Judgment is cqual 
@@ -1257,33 +957,20 @@ masters for their servants, nor kinsmen for their
 kinsmen, nor friends for their friends, nor sinners for 
 the righteous, nor the rightcous for sinners, but to each 
 one is rendered according to his deeds. For Noah was 
-
-
 ** P their sons, nor their chil- '02 P omits: it is not so. 
 dren, nor their daughters. 108 P omits: this. 
 te Ezck 14, 13ff. te P He hath made us to 
-
-
 10 A adds: and the sinners. understand. 
-
-
 24 THE ETHIOPIC DIDASCALIA 
-
-
 not recompensed '°° for the sin of the 
 : eople, 
 ag ea i of Te in the fire of Sadun ene 
 sake of Jericho, nor the children of Isra 
 , el f 
 the sake of the Egyptians. We ought not to follow 
-
-
 107 
 the steps and the works of the extortioners and the - 
-
-
 unjust !°* and murderers, who seek i i 
-
 men of hatred, who are ready '°* to nen deci a 
 everyone shall be requited according to his works even 
 as David saith, “For thou wilt requite everyone 
@@ -1300,47 +987,25 @@ of fools and those whose hearts are darkened but let
 us accomplish the good pleasure of God the Father the 
 Creator of all things ™ by our Lord Jesus Christ to 
 whom be glory for ever and ever. Amen.
-
 ### Didascalica-CH-5
 . 
-
-
 . 1 
-
 THAT © THE BISHOP OUGHT NOT TO HEARKEN TO THE WORD 
 OF ACCUSATION FROM AN EVIL MAN WHO SPEAKETH 
 FALSELY AGAINST HIS NEIGHBOUR. 
-
-
 But do thou put thy trust in God and order the 
 people as is fitting. And let not the son magnify him- 
 self against his father, nor the servant against his lord, 
-
-
 '*° P perished not. ™ P the whol 
 °° P nor did R. perish in the oP faite 6 nTvisia of 
 vin. chapters here. The word 
-
-
 1 P wa “that i i 
 , : is omitted, but the rest 
 ris P adds: and deceivers and of the title given is retained as 
 adulterers, a continuation of the pri i 
 *° P adds: for violence and. words. Bieseaine 
-
-
 1° Ps 61, 14. 
-
-
-
-
-
-
-
-
 THE EVTHIOPIC DIDASCALIA 25 
-
-
 nor the disciple against his master, nor the official 
 against the king, nor the layman against the bishop. 
 For the teacher ought to have no fellowship with the 
@@ -1377,22 +1042,14 @@ shall in no wise live, in all this sin of his* which he
 hath committed, he shall surely die, and his blood shall 
 5 P adds: from violence and. 
 3 * P adds: and uprightness. 
-
 * P adds: and in like manner ' A adds: the substance of 
 the soul of every man. the poor and needy. 
-
 “A slight change gives this * P adds: his money, 
 reading, which agrees with the * P all his sin. 
 words below. 
-
-
 * P omits: the disobedient 
 and 
-
-
 26 THE -ETHIOPIC DIDASCALIA 
-
-
 return on himself.’° And if he beget a son, and he see 
 all the sin of his father that hc committeth, and fear, and 
 do not likewise,'? and have not eaten upon the 
@@ -1425,8 +1082,6 @@ Do I at all desire that the sinner should die, saith the
 Lord, (and not) rather that he should turn from his 
 evil?! way and live? And if the righteous man turn 
 from his righteousness, and commit injustice and ® sin, 
-
-
 1° DP adds: except he repent 18 P omits: for ever. 
 and turn. 1* P commit injustice, and 
 1 Pp adds: and cease (there- plunder. 
@@ -1436,14 +1091,7 @@ his eyes from evil. '* P omits: and done.
 1® P or the substance of an- 3°) P adds: all. 
 other. ™ P omits: evil. 
  P omits: but, 27 P omits: injustice and. 
-
-
-
-
-
 THE EPHIOPIC DIDASCALIA 27 
-
-
 in all his iniquity which he hath done, the sinner shall as 
 die: all his rightcousness which he hath done I will not 
 remember unto him, and in his sin which he hath sinned, 
@@ -1467,52 +1115,31 @@ new heart and a new spirit; and why will ye die in
 your sins, O house of Isracl? For I desire not that 
 ye should in any wise dic, saith the Lord God, but that 
 ye should repent and live.” *?
-
 ### Didascalica-CH-6
 . 
-
-
 THAT BISHOPS OUGHT TO RECEIVE IN LOVE AND MEEKNESS 
 THE REPENTANCE OF THOSE WHO TURN. 
-
-
 [ii., 15-] See then, my 1 beloved brethren, the 
 greatness of the mercy of the Lord our? God, (who is) 
 good and righteous and a lover of men, merciful and 
-
-
 22 P he shall. 2° P omits: your evil and. 
 % Some words of the Greek *© P omits: and your sin. 
 text of the LXX have obviously 81 P adds: saith the Lord. 
 been omitted here per hom- Ezek 18, 3ff- P adds: 
-
-
 oioteleuton. saith the Lord God. Turn and 
 38 Or. and (if) he see, and repent of your evil, that ye may 
 turn : live. 
 7 1 + . 
 3° A reads: to the house. P omits : my. 
 31 P adds: O house of Israel. > P omits: our. 
-
-
 * P sin, 
-
-
 28 THE ETHIOPIC DIDASCALIA 
-
-
 compassionate to 
 He delighteth not in those that judge h 
 deceitfulness of heart, without mercy; but (willeth) that 
-
-
 one should convert and receive those ‘ 
-
-
 c ver that have ‘sinned 
 into the true religion, that they may be able to come to 
-
-
 repentance. And if bishops do not teach, and act thus, 
 God will require at their hands the sin of 
 even as Isaiah* saith, “ Admonish my people, saith 
@@ -1543,29 +1170,14 @@ my vineyard, and defiled my portion, and have made my
 portion, which I love, a desert and a waste; and it hath 
 become a desolation anda ruin: for my sake all the land 
 hath perished and is destroyed.” * 
-
-
 [ii., 16.] Thou also, if thou seest one that sinneth, 
 * P in placing heavy burdens, 
 “ P adds: the prophet. * P of Christ. 
-
-
 ’ Isa 40, 1f. * Jer 12, tof. P adds: for 
 * P adds: the lives of. my sake. 
-
-
 ' Lit. towards repentance. 
-
-
 the people, ~ 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 29 
-
-
 mand the deacons to expel him and put him forth, 
 sid to admonish him and teach him,’® that others, sa 
 they see, may fear. And when he turneth, se 
@@ -1599,37 +1211,20 @@ removed outside the camp for seven days, and a al
 journeyed not until Miriam was purified. And oe 
 they ?! journeyed.” 7? Let us do,” then, thus un o : as 
 who desire repentance for their sins. Let us appoin 
-
-
 1 P adds: bring him in and. 
-
-
 '© P teach him and admonish tr B that he may find. 
-
-
 4” P and repenteth. '" P God. 
-
 ts P antite with God and. 1% Ps 129, 3f. 
-
 'P adds: and instruct him. Gn 4, 7: 
-
 ‘P adds: this, and count it ™" P the people. 
 not a sin. 327 Nu 12, 14ff. 
-
 "© Lk 23. 34. " P sav. 
-
-
 30 THE ETHIOPIC DIDASCALIA 
-
-
 them a fixed time of years, accordin 
-
 their sin, wherein they shall feaente ep eric 
 repent, let us receive them, even as fathers sh 
 a ae their children. a eae 
-
 ii., 17.) But if bishops, and others i i 
-
 ane on them any defilement or stain, dae 
 of them the people are?! put to shame; and (if) the 
 judge not uprightly for the orphan, and the oor, 
@@ -1660,28 +1255,12 @@ if any man be a scorner, and a mocker, and contentious
 and a transgressor of the commandments which are in 
 the law, let him be put forth from the Church, lest he 
 corrupt the house of the Lord, and make (it) a den of 
-
-
 P and on account of this "Mt 7, 3; Lk 6, 41. 
-
-
 are. 2° P omits: Lord's. 
 Hi P the poor and the orphan. ?° P and destroyeth. 
 Lit. interest. *' P omits: the odour of. 
-
-
 *’ PI mistranslates ; perish. 2 P omits : all. 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 31 
-
-
 robbers. It is not right that we should keep silent 
 concerning sinners and wicked men, but we should 
 admonish them, that they may forsake ** their doings, 
@@ -1698,12 +1277,10 @@ condemnation which shall fall on sinners at the day of
 judgment. But let such as are slothful hear what is 
 said, “‘ Wherefore have ye kept silent concerning trans- 
 gressors and gathered their fruits? ” ** 
-
 (ii., 18.) ‘It is right that the bishop should feed 
 the people in peace; those that have not sinned let him 
 not suffer to fall: and those also that have sinned let 
 him turn to repentance. Hear, O bishops, what the 
-
 elLord saith unto you, ‘Despise not one of these little 
 ones.” 4° But they ought to forgive and pardon him 
 that hath sinned. And when a sinner confesseth his 
@@ -1717,8 +1294,6 @@ to thyself, and guard the flock of Christ. Walk in the
 way of righteousness, whilst thou livest in this world, 
 for thou shalt give account in the day of judgment. 
 “For to whom much hath been committed, of him 
-
-
 ** P adds: the evil of, be saved. 
 ** P omits: deeds and. °* Hos 10, 13. 
 ** P God. “© Mt 18, 10. PI translates : 
@@ -1726,14 +1301,8 @@ for thou shalt give account in the day of judgment.
 3°’ Lit. salvation. P omits: similar words. 
 and: hence PI's translation : “" P will answer, saving, The 
 fuide of salvation. Lord hath pardoned. 
-
-
 ** P for God that they may “ P to bind and to loose. 
-
-
 32 THE ETHIOPIC DIDASCALIA 
-
-
 shall much be required.” *? For there is no man that 
 liveth even one day without sin, except One, who for 
 our sakes became man, God the Word. And for this 
@@ -1765,8 +1334,6 @@ preserved); in like manner the sheep ™ that followeth
 the foolish and wicked shepherd of the sheep, the wolf 
 will devour before his face. Wherefore it is right that 
 we should keep far from evil and deceitful ** shepherds 
-
-
 4“) Lk 12, 48. 5! Ezek 34, 17. 
 “« P the deeds and the lives. 53-This sentence and the fol- 
 ‘6 Jn 10, 297f. lowing one, though introduced 
@@ -1774,27 +1341,13 @@ we should keep far from evil and deceitful ** shepherds
 “* Some words have dropped Scripture. 
 out here, possibly per homoiote- 83 Or, hywna. It is not the 
 lenton. same word as is used in the 
-
-
 “ Cf. Ezek 34, 17ff- quotation from Jn 10 in the next 
 ‘* P omits: ye are my sheep section. 
-
 and. 5 P he. 
 "© Ezek 34, 30f. 55 P hurtful. 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 33 
-
-
 who spare not, nor save the flocks, but follow the good 
 shepherds who spare and save ** their flocks. 
-
 {ii., 20.] For the people love a good shepherd, and 
 fear him as a father, and a lord, and as a priest, and 
 as God’s high-priest, for he admonisheth them, and 
@@ -1826,14 +1379,8 @@ heavy burden of thcir sin, that they may get them a
 good hope. And as for them, let them learn the law of 
 the Church, and turn to repentance. And if there be 
 any man who is cast out through not understanding the 
-
-
 5¢ P omits: the flock, but fol- ** Lk ro, 16. 
-
-
 ‘low the good shepherds who " P adds: with love and. 
-
-
 spare and save. A omits: not. 
 5" P and he that heareth his ** P omits: in heart. 
 voice, hath heard the voice of P and restore the lame in 
@@ -1841,11 +1388,7 @@ Christ, heart that they may be strong
 * P for. by. 
 5° P adds: the Father. 
 D 
-
-
 34 THE ETHIOPIC DIDASCALIA 
-
-
 words of the Scriptures, despise him not, nor suffer him 
 to fall into sin, but help him, and heal him from the 
 wound of sin, and turn him to thee, and restore him 
@@ -1869,40 +1412,24 @@ that God is merciful, and desireth not the death of a
 sinner, but his conversion and return to repentance. 
 And if there be anyone that sinneth through aindecstarie 
 ing not the commandments which God hath ordaine 
-
 for repentance, but walketh in the deceit of his or 
 and remembereth not his sin, and his evil which he hat 
-
 done, remembering ** not the words of the ner 
 Scriptures which have proclaimed mercy to him, ts 
-
 a one shall perish and be without hope. But ee ou 
 out a good shepherd, and a meek and patient teacher 
-
 and monitor, and one that Is merciful and a peice 
 maker, who goeth about and. feedeth his sheep 
 sceketh that which is lost, like the Lord our iar 
 For our Father who is in heaven sent His belove 
-
 Son our Saviour the Good Shepherd, our Teacher Jesus 
 Christ, who left the ninety and nine in the Na a 
 and went to seek one shcep that was lost. And when 
-
-
 © Jn 10, If. 
 “ P Hay shee: s f understanding. 
-
-
 7 P omits: the birds of the 1© A adds: and king. 
 heaven and. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 35 
-
-
 He found it He bore on His shoulder,’! and brought it 
 to the flock with joy, because He had found that which 
 was lost. Hear this, O bishop, guide them that have 
@@ -1929,7 +1456,6 @@ and in love, and mild severity"? without anger, not
 exalting thyself in thy position of authofity, for thou 
 art the shepherd of the sheep of Christ’s flock; and thou 
 shalt gather the lambs in thy bosom. 
-
 {ii., 21.] Be, then,’® merciful and just, without guile, 
 or revenge, or jealousy, or slandering, or calumny, or 
 hatred, or partiality, or evil speaking, or haughtiness, 
@@ -1939,28 +1465,18 @@ thyself away from their repentance, nor bring pretexts
 against them, nor drive them away from the Church.*° 
 Be of understanding, then, in judgment, and receive not 
 the witness of one man against any, but only the witness 
-
 ™ P shoulders. 
 ™ P the Lord. 
 "™ Cf. Mt 9, 2. 
 P and have repented. 
 ** P afflicted. 
 Mtg, 12; Lk 19, 10. 
-
-
 ™ A unintelligibly reads: and 
 for yourselves. 
-
 "* P adds: good and. 
-
 ™ P the people. 
-
 ** P adds: of God. 
-
-
 36 THE ETHIOPIC DIDASCALIA 
-
-
 of three good and faithful men,*'! to whom others bear 
 witness that they are good and faithful, who cherish not 
 hatred, nor revenge, nor jealousy. lor there are some ®? 
@@ -1996,31 +1512,16 @@ peace is our Saviour Jesus Christ, who hath taught us,
 saying, “Forgive, that he may forgive you; and give, 
 (and) men shall give unto you;”?* that is to say, 
 Forgive men their trespasses, that your heavenly Father 
-
-
 *' P three witnesses, good and ** P they think they have 
-
-
 faithful. gotten them great gain. 
 ** P man *' P that are far. 
 y- oe 
 ** Or, hyznas. P hope. 
-
-
 * Ro 3, sf. 
 © Cf. Uk 6, 37f. 
-
-
 P omits: evil. 
 P amits: seizeth and. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 37 
-
-
 may forgive you your trespasses. Moreover He hath 
 taught us in the Prayer, saying,*! “Forgive us our 
 trespasses and our iniquity as we also forgive him that 
@@ -2034,15 +1535,10 @@ brother, and a shedder of blood like Cain, who shed the
 blood of Abel his brother; and his blood cried unto 
 God. And if any bishop thrust forth (a man) being 
 innocent, he is, like Cain, a murderer.
-
 ### Didascalica-CH-7
 . 
-
-
 THAT WE OUGHT NOT TO ADMONISH ANY MAN EXCEPT IT 
 BE PROVED BY TESTIMONY THAT HE HATH SINNED. 
-
-
 For he that thrustcth forth an innocent person, is 
 worse than a murderer, and perceiveth not the mercy 
 of God, for he reniembereth not the love of his 
@@ -2056,23 +1552,14 @@ judgment, wherewith He judgeth all, righteous men and
 sinners; (He is) merciful to those who turn unto Him 
 in righteousness and mercy and meekness, as David the 
 beloved of God (saith).‘ 
-
-
 *' P adds: But ye when ye mandments of Christ, who 
 pray say thus, Our Father, etc. saith, There is joy in heaven 
 (quoting the whole prayer down over one sinner that repenteth. 
 to the words in the text). * P adds: of his soul. 
-
 * Lk at, 4. * P Christ, 
-
 ** P of your neighbour. “TT mceekness, in the love of 
-
 ‘ P remembereth not the com- God. 
-
-
 38 THE ETHIOPIC DIDASCALIA 
-
-
 [ii., 22.] The bishop, then, ought to judge upright 
 and follow after God * and do His will, fortod ident 
 righteously those* that turn to Him. Rememberest 
@@ -2107,28 +1594,13 @@ the house of the Lord, of which the Lord said,!! Let my
 name be 7? in Jerusalem for ever. And he built altars 
 for all the stars of heaven in'the two courts of the 
 house of the Lord; and he himself made his own sons 
-
-
 * P Christ. "™ P omits: of which the 
 * P judgeth the sinners. Lord said. 
-
 "Cf. 2S 12, 13. 2 P my name shall be. Some 
 * Lit. lifted up his heart. words are probably omitted in 
 * P adds: over Isracl. Eth. per homototeleuton. 
-
-
 2K 20, 21ff. 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 39 
-
-
 to pass through ' the fire in the land of Benomnimén,"* 
 and used signs, and [made himself like an ass '5], and 
 practised magic, and sct up diviners and soothsayers, 
@@ -2158,8 +1630,6 @@ of Hezekiah the King prayed, and said thus: “O
 Lord, Ruler of all the world, the God of our fathers, 
 Abraham, Isaac, and Jacob, and all their righteous race, 
 who hast made heaven and earth with all that in them 
-
-
 " Lit. serve in. ‘' Lit. on account of. The 
 ' P. Benonim. AC fe Be- word must be translated as 
 vevvéu, i.e. the valley of the above to give sense. The trans- 
@@ -2173,11 +1643,7 @@ with 8vos. 2 Chr 33, 2ff.
 1 have followed Platt’s ** What follows is an Eth. 
 emendation. A and P read: version of the apocryphal 
 the great land. Prayer of Manasseh., 
-
-
 40 THE ETHIOPIC DIDASCALIA 
-
-
 is; *! who didst rebuke 7? the sea with the word of thy 
 commandment; who didst shut up the depths, and seal 
 them in terrible majesty, and that by thy glorious name; 
@@ -2214,24 +1680,11 @@ multitude of thy compassion. I will glorify thee at all
 times and all the days of my life; for all the host of 
 heaven glorify thee, and thine is the glory for ever. 
 Amen.” 
-
 And when the Lord saw that Manasseh repented of 
 the evil ‘of his doings which he had done in his 
-
-
 >! Lit. with all their world.  we84oas was perhaps read as 
 »* Or, admonish. The Greek sra:dedoas. 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 41 
-
-
 ignorance, the Lord pardoned him and heard his prayer 
 and accepted the voice of his petition. And forthwith 
 a flame of fire encircled him, and the bonds of his chains 
@@ -2255,7 +1708,6 @@ peace; and Amon” his son reigned in his stead. And
 he did evil in the sight of the Lord, as Manassch his 
 father had done, and provoked the Lord his God to 
 anger.” 37 
-
 {ii., 23.] Behold then, ye have heard, our children, 
 how he served idols, and sacrificed to them, and in his 
 lawlessness slew many. And the Lord God afflicted him 
@@ -2269,21 +1721,12 @@ repentance. But whosoever transgresseth and com-
 mitteth sin, and saith in his heart,2* What will God do 
 unto me?—he is a rebel against God. For he doth not 
 first try himself, but walketh in his own way, and doeth 
-
-
 ** Some object must be sup- ** Eth. Amos. 
 plied, cf. 2 Chr 33, 14. ' Cf. 2 Chr 33, 13ff. 
-
 ** P has no verb. Pl in his 27° P even so that he restoreth 
 edition reads: cast forth. them. 
-
-
 ** P adds: of the Lord. ** P adds: concerning this. 
-
-
 42 THE ETHIOPIC DIDASCALIA 
-
-
 the desire of his soul, and saith, This is good. Whoso 
 doeth thus, and repenteth not, shall not have forgive- 
 ness.*° Thus, then, did Amon, the scn of Manassch. 
@@ -2302,7 +1745,6 @@ him from off the good land, and his servants [aid
 (hands) ** upon him, and slew him in (his) house. “And 
 the people of the land slew those who had laid (hands) 
 on King Amon. And he reigned two years.” 5¢ 
-
 {ii., 24.] Understand then, ye people, and think not 
 to do evil as Amon did, lest ye be destroyed. In like 
 manner, the bishop ought to’’ feed and convert the 
@@ -2317,33 +1759,17 @@ compassion and mercy with the Lord God, who sent His
 only-begotten Son into the world; and He was pleased 
 to be born of a woman, and was made man for our 
 sakes. And He endured suffering on the Cross, and 
-
 °° P adds : before the Lord. lator seems to have taken the 
-
 °' Lit. taunts, or, reproaches, word literally, 
 cf. 2 Chr 33, 22f. ** 2 Chr 33, 25; 33, 21. 
-
 *? P omits: therefrom. *’ P let the bishop. 
-
 ** A omits: evil, ** P adds: and teach them 
-
 ** Pl’s translation “above and make them to understand. 
 those who were before him” ** P those who have sinned. 
 is not in accordance with either “* P God. 
 A or P. “| P God. 
-
 3 Greek éwé@eyro. The trans- 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 43 
-
-
 was wounded,*? and died. He ** is God the Word, the 
 Angel of His great and terrible counsel; He took our 
 sicknesses and bare our suflerings, and by His wounds 
@@ -2351,7 +1777,6 @@ our wounds have been healed. .In_ like manner,
 let us, too, paticntly endure suffering and afflic- 
 tion, and receive the repentance of them that have 
 sinned. 
-
 See then the mercy of the Lord towards Matthew, 
 who was a publican—when he turned unto Him, He 
 made him an evangelist ; and towards Peter, who denied 
@@ -2379,27 +1804,16 @@ nor takers of bribes. Neither seek. ye honour and
 riches from strange gods, but keep far from them, for 
 ye have been called to this work, that ye should serve 
 God. : 
-
 {ii., 25.] Thus let the life of the bishop be. (Let) 
-
-
 ‘? Lit. pierced. P reads: His “Ink or. 
 side heing pierced, We died. “* P adds: and our God and 
 base id whe. our King. 
-
-
 “" Po adds: of her substance. 
 “ Cf. LK 7, 47. 
 “* P Jesus. 
-
-
 “* P omits: nor singers. 
 °° A repeats here: drunkards. 
-
-
 44 THE ETHIOPIC DIDASCALIA 
-
-
 his raiment and his food (be) in moderation and purity, 
 as much as is sufficient for him, that he transgress not 
 in any other way or matter.*? For he that serveth is 
@@ -2435,25 +1849,12 @@ who served in the tabernacle of the testimony, which is
 a type of the Holy Church. It is meet, then, that the 
 priests eat the offerings with their wives, and their sons, 
 and their daughters, from the offering that has been 
-
-
 5! P omits: or matter, 2 
 *2 P the. " 1 Coro, 9; 1 Tis, 18 P 
 *? P omits: and to them. reads: when it treadeth out the 
 ** Cf. Ezek 34, 3f. corn; as in Dt 25, 4. 
-
 ** Isa 5, 8. 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 45 
-
-
 offered to the Lord of Hosts,™ first-fruits, or tithes,) or 
 a sacrifice, or an oblation; for they have no other duty, 
 nor any portion of land with the children of Israel, but 
@@ -2486,8 +1887,6 @@ sicknesses and bare our sorrows, and for our sakes He
 was afflicted.”** And again he saith, ‘He was 
 wounded for our sakes and for our sins,** and was 
 afflicted for our iniquities.” 7° And in like manner 
-
-
 5° It would be nerhaps better *? P omits: and over all. 
 to follow the reading of P: to ** P adds: of the doctrine 
 the V.ord a vow which they ** P recompense and honour 
@@ -2498,22 +1897,12 @@ i - ugh Jesus rist,”” SA 5% 4.
 Lea aie Bed ** P was crucified for our 
 “' P omits: preachers. sins. 
 "2 — prophets and elders. 
-
-
 46 THE ETHIOPIC DIDASCALIA 
-
-
 should ye also save the people, even as Christ saved 
 you. Think not that the burden is light which 
 presbyters and ”* bishops bear. As they have borne a 
-
-
 heavy burden, so they shall receive the first-fruits, and 
-
-
 give”? thereof to the destitute.”> For One will call 
-
-
 you to account, with whom none can” dispute or 
 contend. It is right, then, that they who serve the Holy 
 Church should have their needs supplied, and receive 
@@ -2541,8 +1930,6 @@ daughters with thee as an ordinance for ever. Let
 everyone that is clean in thy house eat of it. And all7* 
 the first-fruits of oil, and all the first-fruits of wine 
 and wheat, even their first-fruits, and all that they 
-
-
 ™' P omits: presbyters and. "™ The words enclosed in 
 ™ P let them give. square brackets seem to be an 
 ™> In A the word is fem.; in insertion in A. The same 
@@ -2552,20 +1939,8 @@ P masc. words occur further on in both
 " P omits: unto me; but aconfusion here between yfpas 
 inserts the same words after and yépas. 
 “sanctified. ’’ ™ P omits: all. 
-
-
-
-
-
 ane. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 47 
-
-
 offer unto the Lord, to thee I have given it. All the 
 first-fruits of corn that are in all their land, and all 
 that they offer unto the Lord, to thee have I given it 
@@ -2578,11 +1953,7 @@ redeemed with a ransom—the first born of men, and
 the first born of beasts that are unclean, ye shall 
 redeem. And for a ransom for each one that is a month 
 old, the price shall be fifty shekels according to the 
-
-
 ’ shekel of the sanctuary, (that) is twenty obols.*? But 
-
-
 the first born of cows and the first born of sheep and 
 the first born of goats, thou shalt not redeem, for they 
 are holy; and thou shalt pour out their blood at the 
@@ -2595,32 +1966,19 @@ unto the Lord, I have given it ** to thy sons and thy
 daughters with thee as an ordinance for ever; and it 
 is a perpetual decree for ever before the Lord unto 
 thee *° and unto thy seed after thee.” **
-
 ### Didascalica-CH-8
 . 
-
-
 . THAT THE PEOPLE OUGHT TO BRING OFFERINGS TO THE 
 CHURCH ACCORDING TO THEIR ABILITY. 
-
-
 (ii. 26.) Hear now also, ye people of the elect 
 Church of God. For of old the Hebrews were called 
 the people of God, a holy people; but now ye are priests, 
-
-
 ** P connects with what fol- * T follow here the punctua- 
-
 lows: let every one that is tion of A. 
-
 clean, etc, "* P adds: to thee and. 
 *' P omits: of his mother. ** P omits: unto thee. 
 "? A adds: to me. ** Nu 18, 8f. Pi 
-
-
 48 THE ETHIOPIC DIDASCALIA © 
-
-
 a holy people, elect (in) your generation, and your 
 names are written in heaven for a kingdom and a 
 priesthood, a holy people, a bride adorned for the Lord 
@@ -2661,18 +2019,9 @@ ing to AC a new sentence be- oP adds: offerings and.
 gins with “Tithes.’’ * Platt omits : and vows. 
 > P omits: ten. * P omits: and. 
 “In P this goes with the pre- * P omits: as a ransom. 
-
-
 i y i h 1@ P adds: and sub-deacons. 
 ceding words: according to the Wee ua ence Line 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 49 
-
-
 children of the Most High.” '? Speak no evil word 
 against the gods, that is, the bishops; but let the 
 bishops have the first seat amongst you, for to them 
@@ -2694,7 +2043,6 @@ and to teach men to observe all that t Het ™ had
 commanded them. Honour widows and orphans as the 
 Church; and virgins also as the altar and the offering 
 of incense. 
-
 [ii., 27.] For of old none was able to offer sacrifice 
 except he were of the sons of Levi, and the people could 
 not approach the altar except along with the priests." 
@@ -2711,16 +2059,10 @@ anyone of the people that usurpeth the priest’s office,
 and doeth not the commandments of God, he shall not 
 escape judgment, for he hath taken an honour that 
 was not given unto him, and hath resisted the priest- 
-
-
 '? Ps 81, 6. Eth. (A and P) has: I. 
 'P omits: as Christ the '' P priest. 
 great High-priest. . 1S. 13, 13. 
-
-
 50 THE ETHIOPIC DIDASCALIA 
-
-
 hood, and hath not imitated Christ, ‘‘who glorified not 
 Himself to be made a great High-priest”;'7 but 
 patiently endured until '® He heard the voice of the 
@@ -2755,25 +2097,13 @@ them and set them each one in his place, as is fitting.
 And let them distribute unto them; and to the shepherd 
 also let them give thereof in secret, for the honour of 
 God, seeing that the priesthood hath been given unto 
-
-
 a 33 Lit. heart. 
-
 ue ae 2 ** A reads: destitute women. 
 '* Ps 109, 4. This does not agree with what 
 2° P adds: the gift of. follows. 
-
 2" P adds: also, 25 P adds: and orphans. 
-
 32 P adds: and Korah. 2* P adds: God. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 51 
-
-
 him. And after distribution hath been made unto the 
 widows, let the deacons take thereof two portions; and 
 in like manner the presbyters also, who watch, and 
@@ -2806,141 +2136,69 @@ them ; and they honour the idol-priests, and put their
 trust in them, and believe in their gods. Now if they 
 believe in these that have no life, and (if they) serve 
 unclean spirits in whom is no profit, and hope in vanity 
-
 and set themselves up as righteous, how much more 
 should we, who have received grace,** and have an 
 enlightened faith and a perfect hope wherein is no 
-
-
 3" P adds: honour. °° P th 1 
 = P adds: Jesus Christ. *" Mal ca is 
 ie naan ie people ive = P omits: and detest. 
 uc onour as 5 "Pg : 
 bean Ws e Spicie idds: of the Holy 
-
-
 E 2 
-
-
 52 THE ETHIOPIC DIDASCALIA 
-
-
 deceit,*! believe the message ** which is full of glory 
 and without fear, that we may please the Lord our 
 God. For know of a truth that the first fathers °* and 
-
-
 the bishops are the mouth of God. 
-
-
 (ii, 29.] For Aaron spake to Pharaoh, being a 
 _helper to Moses, and therefore he was called the 
-
-
 prophet, and Moses was ca 
-
-
 as a king and high-priest. 
-
-
 lled °7 the god of Pharaoh, 
-
-
 Even as God said unto 
-
-
 him,** “Behold, I have made thee to be a god unto 
 Pharaoh, and Aaron thy brother to be unto thee ** a 
 prophet.” ‘° How then do ye not believe them, for they 
 intercede for you, and deliver the word? 
-
-
 [ii., 30.] Serve them, 
-
-
 for they are prophets and 
-
-
 servants of God, the deacon like Aaron, and the bishop 
 like Moses. And if Moses was called a god by the 
 Lord, it is right that for you also to honour the bishops 
 as God, and the deacon as a prophet. As Christ did 
 vothing without the Father, in like manner let the 
 Jeacon do nothing without the counsel of the bishop. 
-
-
 Also there is nothing that 
-
-
 the Son doeth without the 
-
-
 Father, and as the Son is subject to His Father, in like 
 manner let the deacon be subject to the bishop.
-
 ### Didascalica-CH-9
 . 
-
-
 THAT THE DEACON OUGHT TO DO NOTHING EXCEPT 
 BY PERMISSION OF THE BISHOP. 
-
-
 Even-as the Son is the good pleasure of the Father, 
-
-
 and His angel of counse 
-
-
 1 and His prophet, in like 
-
-
 manner is the deacon the messenger! and prophet of 
-
-
 the bishop. : 
 [ii., 31.] Wherefore it 
-
-
 34 Lit. falsehood. P where 
 is no uncleanness, nor any’ de- 
-
-
 ceit. 
 33 Tit. preaching. P adds : 
-
-
 of the Gospel. ; 
 36 | have translated literally. 
-
-
 The phrase generally means 
-
-
 is not right that he should 
-
-
 “patriarchs,” but that is 
 scarcely suitable here. 
-
 *7 P omits: the prophet and 
 Moses was called. 
-
 3* P Moses. 
-
 %* P adds: a minister and. 
-
 “Ex 7, 1. 
-
 1 Lit. angel. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 53 
-
-
 do anything without the counsel of the bishop. And 
 if he give in secret to one that is destitute without the 
 knowledge of the bishop, he causeth reproach, and 
@@ -2952,10 +2210,8 @@ said, “Thou shalt not speak evil against the ruler of
 thy people.’’® For this law was not ordained concern- 
 ing stones and trees which the Gentiles 4 worship, but 
 reads ae ue to priests® and wise men. [or to 
-
 ese He said, ‘‘Ye are gods, and : 
 the Mest Hieh"® gods, and all of you sons of 
-
 [ii., _32-] Understand then, O deacon, if thou seest 
 a destitute man, and he be ashamed to beg, speak 
 concerning him? to the bishop, and reveal not his 
@@ -2976,8 +2232,6 @@ then shall those (be condemned) that blaspheme against
 the bishop. For when he stretcheth forth his hands 
 the Holy. Spirit cometh down'8; and by him ye are 
 taught the spiritual commandment, and know God, and 
-
-
 7 P adds: and destitute. * P the Lord. 
 : Bee 23. Ss ‘° P ashamed. 
 Lit. foreigners. "Ph i 
@@ -2985,21 +2239,14 @@ Lit. foreigners. "Ph i
 ; Ps 81, 6. them. oop 
 adds: in secret. 2 Of. N : 
 *So P. A seems to read: " Daas heed hie eee 
-
-
 threaten, 
-
-
 54 THE ETHIOPIC DIDASCALIA 
-
-
 have believed in Christ, by whom ye are saved by the 
 oil of gladness and the holy chrism, and are made the 
 sons of light. For when the bishop layeth his hand 
 upon you in holy baptism, the Lord sendeth His holy 
 Word upon you, saying, ‘““Ye arc my sons, and | 
 to-day have begotten you.’’ 16 
-
 {ii., 33-] Understand, then, O man, that by the 
 prayer of the bishop thou art called a son of God. Now 
 also know that!” which was granted unto thee; and 
@@ -3026,38 +2273,16 @@ thing, for they have been granted life from God, that
 they may give judgment against them that have sinned, 
 and save them from the fire of Gehenna, and pardon 
 them that turn from their sins. 
-
 (ii., 34-] These then you ought to fear as chiefs 
 and rulers; and obey them as kings, and receive them 
 into your houses. Even as Samuel the prophet com- 
-
-
 '© There is no “and "’ before '' P this gift. 
 this word in A. Therefore ‘© A omits: and called thee. 
 there is no need to supply “‘are '* P Revere him. 
 anointed ’’ as PI does. 3° Ex 20, 12; 21, 16. 
-
 8 Pp hands. 2! A different word from that 
-
-
 ’Ps2 7, used in the last sentence. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 55 
-
-
 manded the people concerning the king in the first 
 Book of Kings, and Moses also commanded concerning 
 the priests, we in like manner command you concerning 
@@ -3091,32 +2316,19 @@ the Lord may bless the work of your hands, and
 multiply the good fruits of your land. For the blessing 
 of the Lord is 2? upon the heads of the righteous who 
 shew mercy. 
-
 {ii., 35.] Behold now, know ye that the Lord hath 
 freed us from the curse of the Law, and brought us 
-
-
 27 P omits: and Elijah. ** P your tithes and your 
 23 Lit. medicines. P reads: _ sacrifices. 
-
 pardon (a similar word in Eth.) >" P the Lord pronounceth a 
 24 P omits: honour and. blessing. 
 *5 P bishops . them... 
-
 them, 
-
-
 56 THE ETHIOPIC DIDASCALIA 
-
-
 back to life, when we were scattered abroad and lost as 
 sheep without a shepherd, and as the beasts that cannot 
 speak. He hath turned us from our sins, and cleansed 
-
-
 us from our iniquities, and commanded us to bring our 
-
-
 sacrifices to the priests, and to give alms to the poor 
 who have nothing. For our Lord saith in the Gospel, 
 “Unless ye abound more than the Scribes and Pharisees 
@@ -3140,7 +2352,6 @@ done good or evil, or acted justly or unjustly, for the
 Lord God will require it of them, who hath given them 
 the office of the priesthood, and granted unto them the 
 greater degree. 
-
 (ii., 36.] But do thou set the fear of God before 
 thine eyes, and remember at all times the word that 
 saith, “Love the One % Lord, thy God with all thy 
@@ -3149,26 +2360,13 @@ the way which leadeth unto (false) gods, nor anything
 like thereto that have no life in them, nor the doctrine 
 of devils, and other creatures (? ) 5 which Christ has 
 not commanded. But seek thou to read the Scriptures 
-
-
 3* Or, reason, ** P adds: and with all thy 
 > Mt 5, 20. P reads: of mind. 
-
 God. “Dt 6, 5. 
 2° Ps rit, 9g. ?* PI translates : devices. The 
 *! Cf. Prov 15, 27 (16, 6). word does not seem to have 
 *? P omits: One. this sense. 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 57 
-
-
 which are the law of the Lord thy God,® and cease not 
 to read His ® Scriptures at all times. And remove from 
 thee all evil that opposeth itself, which is not com- 
@@ -3198,48 +2396,26 @@ the people, each one of them.’’ 45 But to you * it is
 not petmitted to judge any man. For it is said to those 
 that have not the office of the priesthood, “Judge not, 
 for your judgment shall not be acceptable.” 47 
-
 {ii., 37.) But let the bishop judge in uprightness, 
 even as it is written, saying, “Judge the poor and the 
-
-
 ** P omits: thy God. Zech 7, 9. 
-
 °’ P the. “* So A reads. PI translates 
-
 ** Pl wrongly translates: be thus the reading of P: give 
 a guide. judgment unto every man with 
-
 ** P adds: at all times. discernment. The words are a 
-
 “° P day or night. translation of the well-known 
-
 “" P who give. saying : “Show yourselves tried 
-
 “ P adds: all. money-changers.”’ 
-
 “ P them. “* P adds: O people. 
-
-
 “Cf Dt ww 16+ 16, 18; “Cf, Mt 7, 1; Lk 6, 37. 
-
-
 58 THE ETHIOPIC DIDASCALIA 
-
-
 orphan, do justice to the oppressed and the needy, and 
 save the desolate and destitute.” 8 And moreover it is 
 said, “Wherefore judge ye not amongst you® in up- 
 rightness, ’’ 5 
-
-
 CHAPTER xX. 
-
-
 THAT THE BISHOP OUGHT TO EXAMINE AND TRY EVERY 
 MATTER IN RIGHTEOUSNESS AND UPRIGHTNESS, 
-
-
 Be ye then pure as the first fathers, good and wise! 
 and prudent?; and put away from you (every) evil 
 habit and wicked custom. Choose rather for yourselves 
@@ -3263,8 +2439,6 @@ causeth trouble in the Church. Understand, then, and
 follow not the way of fools who rejoice in evil, neither 
 hearken to their voice,® but beware of them, for there 
 is * no fear of God before their eyes, but rather revenge 
-
-
 ““ Ps 81, 3f. fitteth. 
 “ P adds: in righteousness * P— adds: all. 
 and. * P omits: works. 
@@ -3273,18 +2447,10 @@ and. * P omits: works.
 ? P adds: and faithful. practise magic. 
 > P adds: right. * P adds: in evil. 
 “ P omits: and do as it be- ‘° P they have. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 59 
-
-
 and envy. For evil men accuse the good who are 
 without sin, and raise against them an evil report, and 
 bring them down into great trouble and affliction. 
-
 {ii., 38.) But thou, O bishop, understand, and 
 examine those who come unto thee to tell their cause, 
 and judge between them with wisdom, discerning how 
@@ -3305,7 +2471,6 @@ to enter the Church, nor reckon him with the
 Christians.” But those that repent of their sins, and 
 turn to our Lord Jesus Christ, the Son of 18 God—let 
 us receive !® their repentance. 
-
 {ii., 39.) Behold I, Matthew, one of the twelve, 
 declare unto you the teaching of this new ™ Didascalia, 
 though before I was a publican. And when I repented 
@@ -3315,28 +2480,16 @@ saved. And in like manner Zacchaeus also, though
 before he was a publican, (yet) when he turned and 
 repented @ and prayed to the Lord, He received his 
 repentance and despised him not. And behold as those 
-
-
 "" P omits: thyself alone. meaning which the word cannot 
-
 ' P omits: thee. have. 
-
 1% P and say unto him, Wis- ‘TP the Christian people. 
 dom. ' P adds: the living. 
-
 '« P bosom. '* P He will receive. 
-
 ‘© P saved himself and gained 7° P omits: new. 
-
-
 his soul. 2" P adds: of the word. 
 ' P adds: a layman. This ™ P omits: and repented. 
 Pl translates “Gentile,” a 
-
-
 60 THE ETHIOPIC DIDASCALIA 
-
-
 soldiers and publicans, who entered into the Church 
 heard the word of repentance from John the Baptist, 
 and that which he said after (their) baptism “Do 
@@ -3352,7 +2505,6 @@ reading of the Scriptures of the Law and the prophets
 and the Gospel. Then they shall be ready at all times 
 to serve in the Church, that others, when they see, may 
 fear and be admonished, and learn true godliness, 
-
 i., 40.] O bishop, help the sinners, and strengthen 
 them by the word of the Lord, and despise them not, 
 and refuse not to eat with them. For our Lord refused 
@@ -3369,31 +2521,17 @@ clap your hands and dance (with) your feet. Ye ought
 then to console the sorrowful of heart, and bear 
 patiently with the angry, lest they turn again unto folly, 
 for the passionate man is ever a fool. 
-
 {ii., 41.) But if any man turn, and show forth the 
 fruits of repentance, straightway receive him, as the 
 prodigal son who scattered all his father’s substance, 
-
-
 ™ Lk 4, 13. omits: with them. For our 
 *“ P adds: on sour brethren Lord refused not to eat. 
 and. * Mt 9, 11ff. 
-
-
 75 P adds: to God. ** This sentence, Be strong, 
-
 * P lest they despise the etc., represents a quotation from 
 teaching. Isa 35, 3 in AC. 
-
 7 iP per  homoioteleuton 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 61 
-
-
 “living riotously. And he spent all that he had, and 
 there came a great famine on that land, and he began 
 to be in want. And he went and joined himself to one 
@@ -3426,28 +2564,17 @@ flock. For when thou layest thy hand upon them the
 Holy Spirit descendeth upon them from our Lord 
 Jesus Christ. And if one of the faithful brethren asketh 
 thee, and saith to thee, Wherefore hast thou (slain 57] 
-
 ** Eth. berries of  tséra. Lk 15, 13ff. This quota- 
-
-
 Whether the last word is a tion is much longer in Eth. 
 proper name (=Greece) or the than in AC. 
-
-
 name of some tree is quite un- ‘3 P adds: on them and. 
 certain. ** P when the bishop layeth 
 " P servants (a different his hand upon them they re- 
 word). ceive the Holy Spirit. 
 ** P one of thy servants (a *' This seems just the wrong 
 different word), word, but both manuscripts 
-
-
 °° P omits: Father. agree in the reading. 
-
-
 62 THE ETHIOPIC DIDASCALIA 
-
-
 the sinner? Oughtest thou not to rejoice with him, and 
 to say to him, Because this thy brother was dead, and 
 lived again; and was lost, and is found? For God is 
@@ -3483,29 +2610,17 @@ and error, cut him off from the Church. For it is said,
 “Remove all 4 evil from you.” “ It is right that thou 
 admonish him, but it is right 47 that thou reckon him 
 not an‘48 enemy, for he is a member of thine. And 
-
-
 3® P adds: hath sinned, when ‘9 Lit. worship. 
 he. ““ P adds: and talkative. 
 3* P adds: he confessed. ‘5 P omits: all. 
 “* P adds: O Lord. “| Cf. Dt 17. 7. 
 “Or, powerful. Greek ‘TP omits: it is right. 
 Hyeuovixds. “* P they, 
-
-
 “2 Ps 50, 11ff- 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 63 
-
-
 \ 
 respect not persons in judgment, and favour neither the 
 rich nor the poor. 
-
 [ii., 42.] And yc, O shepherds of the sheep and 
 deacons, ought not to hearken to words of falsehood 
 and accusation against an innocent man in whom is no 
@@ -3530,39 +2645,24 @@ wise.’’ 5! But if ye pervert judgment by iniquity, know
 that ye shall bring on yourselves grievous * condemna- 
 tion. For our Lord saith, “Even as ye have judged, 
 ye shall be judged, and with the measure wherewith ye 
-
-
 -have measured, men shall measure unto you.”’ But 
-
-
 if ye have understanding, and enquire into matters of 
 judgment, ye shall discern the evil, and the false, and 
 the slanderers who would fain slay their neighbours by 
 wrongdoing. 
-
 [ii., 43-] These are they that cause trouble, and ob- 
 serve words of vanity, and make snares for themselves 
 by the words of their lips. Those that do thus put far 
 away,” lest they destroy © the Church of God. But if 
 they turn and repent, and forsake their wickedness, and 
-
-
 “Cf. Ex 23, 7f.; Dt 16, 19. 
 8° P thyself. 
-
 "V Isa, 5, 20f. 
-
 "2 P omits: grievous. 
-
-
 53 Mt 7.2; Lk 6, 37. 
 54 P adds: from the Church. 
 58 P defile. 
-
-
 64 THE ETHIOPIC DIDASCALIA 
-
-
 ’ 
 do good, let them be received that they ma enter into 
 the Church, for they have received the Body or Christ. If 
@@ -3588,7 +2688,6 @@ within her, troubling her. These are destroyers, haters
 of good, and lovers of wealth and vain praise, who are 
 wise unto evil, and scatter the sheep of the flock of 
 Jesus ® Christ. 
-
 lii., 44.] Bishops and people ought to judge ® in 
 righteousness; for our Lord saith, “If ye walk in a 
 ctooked way, I also will walk with you in a crooked 
@@ -3599,19 +2698,13 @@ shalt be elect; and with the crooked thou shalt be
 crooked.” & Walk, then, in the way of purity, that thou 
 mayest find honour and favour with the Lord. Be of 
 one heart and love one another: and let there be peace 
-
-
 * P live, behold. 
 ‘7 P in our Lord. " P omits: Jesus. 
 ** P and bring murder. "2 P the bishops ought to 
 ** P those that do thus drive judge the people. 
 out, and Ict them be put. * Lev 26, 27f. 
 *° P and when ye do thus, “Ps 17, 264 
-
-
 THE ETHIOPIC DIDASCALIA 65 
-
-
 among you."- And ye, O bishops, feed the people with 
 firmness, with one heart®® and in uprightness ™ and 
 fellowship, that ye may glorify God in one faith. Be, 
@@ -3625,7 +2718,6 @@ bishop, let him be ® an ear, and an eye, and a mouth
 to the bishop, and tell (him) the cares of the people as 
 befitteth: even as Jethro told Moses the prophet and 
 he received his word. 
-
 [ii., 45.] This honour 7 befitteth a Christian people. 
 Let not the layman judge, nor the elders, but rather 
 such as are set in authority in the Church. For Satan 
@@ -3633,7 +2725,6 @@ bringeth snares on the servants of God from the
 ungodly, and teacheth them reproaches and blasphemies. 
 Is there not one among us of understanding that is 
 able to judge between us in uprightness? 
-
 {ii., 46.] Suffer not, then, the heathen to know the 
 mystery of your hidden things, and accept not against 
 yourselves the testimony of those that believe not, but 
@@ -3647,39 +2738,21 @@ And ye, O servants of God, keep the commandments of
 Christ; and if ye see among the brethren a quarrel or 
 dispute, it is right for you to give word concerning them 
 to those that are set in authority. If they are men of 
-
-
 ** Pl omits in his transla- sentence; It is right that the 
 tion the words: and let there deacon, etc. 
-
-
-
-
-
 be peace among you. 
-
 ** P mind, 
-
 *' P omits: and in upright- 
 ness. 
-
 * P with a slight change of 
 reading joins this to the next 
-
-
 * P adds: as. 
-
 ‘© Something seems to have 
 been omitted here. There is 
 nothing to show what the 
 “honour "" is. 
-
 ™ Mt 22, 21. 
-
-
 66 THE ETHIOPIC DIDASCALIA 
-
-
 evil habits, and causers of trouble, and haters of good, 
 and such as walk not in the right way—them that are 
 such admonish and put to shame; but when they 
@@ -3697,7 +2770,6 @@ nor evil desire, but that they should make peace between
 brethren that they may live in unity.?8 For our Lord 
 saith, “Blessed are the peacemakers, for they shall be 
 called the sons of God.’’ 74 
-
 [ii., 47-] Ye ought not then on the Christian 
 Sabbath” to cause contention, but rather (to make) 
 peace. Let judgment be given on other days. And it is 
@@ -3716,25 +2788,12 @@ is 7 Christ the Son of God. And if any man say, Such
 a one hath blasphemed against the name of God, and 
 walketh not in the way of righteousness, let not (your) 
 judgment be given hastily, before his fellow appear. 
-
-
 ™ P omits: nor envy. Eth. name for Saturday. 
-
 ” Lit. in (or, with) one heart. ™ P priests. 
-
 ™ Mt 5, 9. '’ P adds: between them. 
 ™ T.e. on Sunday, the ‘‘Sab-  P omits: forth. 
-
-
 bath of the Jews,”’ being the ™ P sitteth. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 67 
-
-
 {ii., 49.] And when they have come both of them 
 judge between them. Il or the judgment which pro- 
 ceedeth from you leadeth unto life, and on the other 
@@ -3766,14 +2825,9 @@ commanded in the law, ‘‘And hearken not unto a false
 accusation, nor sit with him that is unjust, lest thou 
 become an unjust witness; nor join thyself with a 
 multitude to do iniquity.’’ 
-
 *© P feadeth. Perhaps the with AC and is probably cor- 
-
-
 right reading is “bringeth rect. 
 down."? A very slight change ** P omits: faithful and. 
-
-
 would be necessary. ** P adds: tover of God, 
 "' P omits: manifestly. F bal ‘ihe ' 
 a2 . . rf 
@@ -3782,11 +2836,7 @@ ea So st Pp “and esate carefully
 salem, and as those that spake ** P omits: the testimony of, 
 falsely against. This agrees Be 15, ‘, 
 x 23, If. 
-
-
 68 THE ETHIOPIC DIDASCALIA 
-
-
 [ii., 50.) And if there be one who cometh before 
 you in judgment, examine ®! his life and (see) what his 
 character and habits are; and (if) ye find witnesses 
@@ -3802,7 +2852,6 @@ he is his brother’s murderer; that others, when they
 see, may fear, and not follow his way. And if there be 
 one whose sin becometh manifest in judgment, admonish 
 him and put him to shame. 
-
 {ii., 51..] As we have said before, if there be one 
 who maketh an accusation, give not judgment for the 
 one until both of them are prcsent together in court. 
@@ -3814,7 +2863,6 @@ down to the court ™ unto a judgment of death. Howbeit
 Daniel the prophet saved Susanna, and brought down 
 to the condemnation of death them that had spoken 
 falsely against her.% 
-
 {ii., 53-] And ye also in like manner, if ye judge 
 not in righteousness and uprightness, shall find con- 
 demnation, and the scourge of God shall come upon 
@@ -3824,23 +2872,12 @@ heed, then, beloved brethren, and do good at all times,
 that ye may find honour before God with the holy 
 fathers, Abraham, Isaac and Jacob in the Kingdom of 
 heaven in life eternal; for that is right before God. 
-
-
 *! A omits: examine. ** P omits per homoiote- 
 °2 P openeth not. leuton: Howbeit Daniele. . . 
 °° P adds: in uprightness against her. 
-
 2 ** P adds: of the anger. 
-
 *¢ P adds: of controversy. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 69 
-
-
 Judge, then,"” in righteousness and peace without anger, 
 for he that provoketh his neighbour to anger without 
 a cause, his portion shall be in Gehenna. For it is said, 
@@ -3874,41 +2911,25 @@ hate thou thy brother with thy whole heart, nor hear
 an accusation against him, nor find?” occasion of 
 stumbling because of him. And persecute not the 
 stranger that dwelleth with thee, for thou wast a 
-
-
 *' P omits: then. ‘*" P adds: Holy. 
-
 * Eph 4, 26f. The second 19 Mt 5, a3f. 
 part of the quotation is omitted, ‘8 P meck heart and a 
 rightly, as it would seem, in P, humble spirit. 
-
 * Ps 4. 5. ' P adds: all, 
-
 109 DP and hear what our Lord 13 P adds: at all times. 
 Jesus Christ saith, and teaches ee Cf. Lev 19, 17. 
-
-
 us, ‘er P fest thou find. 
-
-
 e 
 70 THE ETHIOPIC DIDASCALIA 
-
-
 stranger in the land of Egypt; and hate not an 
 Edomite, for he is thy brother. And David also saith, 
 “If I have requited them that requited me evil, let mine 
 enemies cause me to fall down naked.’’ 1%
-
 ### Didascalica-CH-11
 . 
-
-
 THAT CHRISTIANS OUGHT EVER! TO FORGIVE THE 
 TRESPASSES OF THEIR NEIGHBOURS, AND NOT LET 
 REVENGE DWELL IN THEIR HEARTS, NOR THINK EVIL. 
-
-
 But if ye desire to be Christians indeed, walk in the 
 way of the Lord, and loose every band? of sin; for the 
 Saviour hath commanded you to forgive the trespasses 
@@ -3925,32 +2946,19 @@ thyself. And if thou doest thus, thou shalt be a son
 of thy Father who is in heaven, and when thou makest 
 supplication unto Him, He shall hear thy prayer as a 
 faithful friend. 
-
 (ii., 54.] Wherefore, O bishops, when ye are 
 gathered together for prayer and praise and worship, 
 and to hear the reading of the word of admonition, 
 read* the Holy Scriptures. Let the deacon stand 
 amongst you, crying with a loud voice, and saying, If 
 there be any man that hath’ in his heart revenge, or 
-
-
 nee PS 9-36: “ P because thou hast not 
 ' P omits: ever. forgiven. 
 *» P bands; though PI trans- 5 P be then slow. 
 lates as singular. * P omits: read. 
 * In AC a quotation follows ' P omits: that hath, 
 from Zech 8, 17. 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 71 
-
-
 envy, or deceit, or any malice against his neighbour,‘ 
 let him speedily be reconciled with him,® and then God 
 will receive their prayer and their supplication.!° And 
@@ -3961,18 +2969,13 @@ your peace shall rest upon them. Even as it is written,
 that are nigh,” 1? even to the people that believe in 
 Christ. All who enter into the Church of God ought 
 to pray unto Him to send peace '? upon His ** people.
-
 ### Didascalica-CH-12
 . 
-
-
 THAT BISHOPS OUGHT TO BE PEACEMAKERS, MEN OP MERCY, 
 WHO PARDON HIM THAT HATH TRESPASSED AGAINST 
 THEM, AND RECEIVE 1 THE REPENTANCE OF THOSE 
 THAT TURN TO GOD; AND IF THEY DO NOT THUS THEY 
 SHALL NOT BE CALLED BISHOPS, BUT EVIL. . a 
-
-
 But if the bishop pray for peace upon others, shall he 
 not much more then be peaceable himself that he be 
 not a son of darkness, and* that he may be called a 
@@ -3985,26 +2988,16 @@ guard them as a faithful friend, that they may be saved
 together and become one flock. But let evil men, who 
 work iniquity and (cause) hatred and trouble, be far 
 from God. 
-
-
 * P omits: against his neigh- ™ P the. 
 bour. ' P and should receive. 
 * P amits: with him. ® See Add. notes. 
 1° P omits: and their sup- * P omits: that he be not a 
-
-
 plication. son of darkness, and. 
 " P adds: salvation. “ P peace. 
 ' Eph 2, 17. * P peaceable. 
 His’ compassion and His “ P adds: reconcile and, 
-
-
 peace. 
-
-
 72 THE ETHIOPIC DIDASCALIA 
-
-
 [ii., 55-] For the Lord the God of mercy desired 
 to bring back all generations to repentance by the teach- 
 ing of the Holy Spirit, and the righteous, and the 
@@ -4037,8 +3030,6 @@ declare unto you perfectly that which we have heard '*
 from Him that none that believeth in Him’? shall 
 perish. To Him let us offer up praise with one voice 
 that we may obtain life eternal. 
-
-
 ' P bring back (men) to re- "PP omits: our Lady. 
 pentance by the teaching of the ” P the. 
 righteous even of all the genera- ' P who have been granted. 
@@ -4048,23 +3039,8 @@ to the admonition of Abel. ‘SA omits: that which we
 * Lit. first fathers, have heard. 
 '© P omits: became incarnate ’ P omits: that believeth in 
 and. Him, 
-
-
-
-
-
-
-
-
 ayeiysies a ee 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 73 
-
-
 [ii., 56.) Thus our Lord hath commanded us, When 
 we pray to the Father, saying, Thy will be done, as in 
 heaven, so also on earth; that as ** the hosts of heavenly 
@@ -4098,26 +3074,14 @@ unto life eternal. And ye also, O people, work amongst
 you (the works of) love and peace, that ye may walk 
 in the Church 2* of God with one heart. And for this 
 ye shall obtain a good reward from God. 
-
 [ii., 57-] But be thou, O bishop, holy,?4 without 
-
-
 ‘© P adds: all. Christ’s flock, thou shalt be an 
 1” Both manuscripts read here enemy of Christ. 
-
 the imperfect. It seems neces- ™" ?—P adds: thus. 
-
 sary to read the subjunctive as 23 Te, neophytes. 
-
 PL does. 2? P house. 
-
-
 2° Pp if thou scatterest 2¢ P omits: holy. 
-
-
 74 THE ETHIOPIC DIDASCALIA 
-
-
 blemish, and do not that which is unseemly, nor be 
 Passionate, nor deceitful, nor of evil-disposition, but be 
 a teacher and helper of those that perish, and a 
@@ -4145,11 +3109,7 @@ books after the captivity (and) return from Babylon,
 t after they have read t ?” from the books two at a 
 time, one shall rise up and sing praises in the words 
 of David, and the people shall answer with praises. 
-
-
 Then they shall read the Acts of the Apostles and the - 
-
-
 Epistles of our brother Paul, our beloved fellow- 
 labourer, which he wrote, and sent to all the churches 
 by the help of the Holy Spirit. And after this let the 
@@ -4158,22 +3118,11 @@ have given unto you, even I Matthew and John, and
 which Luke and Mark, the fellow-labourers of the 
 renowned Paul, have proclaimed, (and) which they have 
 appointed for you. And when ® fhe Gospel is read, let 
-
-
 °5 P priests. and P read: and then they shall 
 ** P in a lofty place. read. 
 *' The sense seems to require ** P presbyter or the deacon. 
-
-
 this slight alteration. Both A 3° P adds: he standeth when. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 75 
-
-
 the presbyters and the deacons and all the people stand 
 in great fear; for it is written, ‘Be silent, O Israel, 
 and hearken.” Then let the presbyters stand 5! one 
@@ -4210,19 +3159,11 @@ them to be silent. We ought, then, to stand in the
 church in fear and trembling, and to set our thoughts 
 to hearken to the word of the Scriptures. tt And when 
 the catechumens and those that are under penance have 
-
-
 * Det 27, 9. ignores this in his translation. 
-
 *' Tit, be. ** P stand. 
-
 *2P women (with pronouns ** P omits this whole sen- 
 following in the feminine). Pl tence. 
-
-
 76 THE ETHIOPIC DIDASCALIA 
-
-
 departed t °° let all the people rise up and look towards 
 the East, and pray unto God, who is in every place. 
 to bring them back to their former place, unto the 
@@ -4254,46 +3195,28 @@ And after this let the bishop make supplication, and
 say, Save Thy people, and bless Thine heritage; feed 
 them and lift them up for ever. Thou hast purchased 
 and redeemed by Thy precious Blood Thy Holy Church *4 
-
-
 °§ The words obelized are ‘° P omits: and betrayed Him 
-
-
 intended to give the sense of 
 the clause now found in A and 
 Pr. As the clause stands it im- 
 plies that  catechumens and 
 penitents were allowed to re- 
 main for the missa fidelium. 
-
 YP presbyter. 
-
 *7 P standeth with. 
-
 ?* P unto hatred. ° 
-
 °* Lit. people. 
-
-
 wickedly. 
-
 “' P omits: the whole world, 
 and. 
-
 “7 P and save thee. 
-
 “ P adds: and have mercy 
 on thee. 
-
 ““P Which is Thy Holy 
 Church which Thou hast pur- 
 chased by Thy name and re- 
 deemed by Thy blood. 
-
-
 THE ETHIOPIC DIDASCALIA 77 
-
-
 through our Lord Jesus Christ, Who hath called her 
 to be a congregation of kings and priests, a pure 
 family, a holy people. And after that the priests have 
@@ -4303,8 +3226,6 @@ men *® stand up, and the women also,‘*® veiling their
 heads, (and) let them put forth their hands, and pray 
 for pardon, (and) receive His holy ‘’ Flesh and precious 
 ood. 
-
-
 [ii., 58.) And if any brethren or sisters come from 
 a distant place, let the deacon enquire into their lives, 
 and get knowledge of their faith. And if they have 
@@ -4327,53 +3248,28 @@ of grace, do thou, O bishop, declare unto him the word
 of God. And when thou hearest them teaching °* or 
 reading the Scriptures, cease not the work of thy 
 ministry.°7 The brethren ought to receive strangers,°* 
-
-
 ‘3 Lit. people. 
-
-
 °° Lk 4, 34; Jn 4. 44. 
 “« P adds: by themselves. A 
-
-
 *¢ P adds: then 
-
-
-
-
-
 ‘7 P omits: holy. 
-
 “© P the true tokens of the 
 faith, 
-
 4* Lit. receive. 
-
 ** Lit. and behold as these 
 the deacons. 
-
 51 P adds: and exhort and 
 comfort. 
-
 * P them. 
-
-
 5§ P he desireth not to offer 
 up the sacrifice. 
-
 5 P singing. 
-
 *' P cease not to minister, 
 the work of thy hand. 
-
 ** Or, according to the order 
 in A: Men ought to receive 
 strangers (who are) brethren. 
-
-
 78 THE ETHIOPIC DIDASCALIA 
-
-
 and magnify and honour them. But if there be one 
 (who is) haughty, and (who) honoureth not a stranger, 
 let the deacon coming admonish him, and set him behind 
@@ -4385,7 +3281,6 @@ as befitteth, without respect of persons, but (so) that
 your service be that which is well pleasing to God. 
 And let the deaconess also do in like manner with the 
 women, whether rich or poor. 
-
 {ii., 59.] Admonish, then, O bishop, thy people, 
 and bid them come to the church day and night, and 
 never absent themselves from it, that the congregation 
@@ -4410,32 +3305,18 @@ to suffer according to His will, and was buried in the
 earth,** and rose again from the dead. But if ye come 
 not to the church, what excuse, or what answer will ye 
 make to God? For on this day, the Christian Sabbath, 
-
-
 5* P old or young. Jews and on the first day (of 
 * Mt 12, 30. the week) the Christian Sab- 
 " P omits: and His Blood. bath. 
-
 * P omits: God. ** P tomb. 
-
 ** P on the Sabbath of the 
-
-
 a 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 79 
-
-
 we ought to hear the preaching of His holy resurrection, 
 and remember His sufferings, and make remembrance 
 of Him, and read the Scriptures of the prophets, and 
 the *> Gospel ; and (celebrate) the eucharist, the sacrifice, 
 and ** oblation, (our) spiritual food. 
-
 [ii., Go.] But if ye watch not day and night,*’ and 
 do not according as we say, ye are transgressors against 
 God, and enemjes unto Him,** for ye have chosen 
@@ -4465,24 +3346,14 @@ that ye who have received grace from the Lord God,
 are slothful, and neglect the service of the church? If 
 ye keep far from the church, ye shall lose your hope, 
 and abandon your salvation, and become ungodly, 
-
-
 “© P adds: holy (omitting: saken. . perisheth. 
 and celebrate the eucharist). "© P other peoples. 
-
 ** P of the oblation. "' P spake unto. 
-
 *' P night and day. "Cf. Ezek 16, §2. 
-
 ** P are transgressors of the ™ P adds: that save not and 
 law and enemies of God. ' P those who. 
-
 ** P omits: and ye have for- ™ P adds: their. 
-
-
 80 THE ETHIOPIC DIDASCALIA 
-
-
 + ye who f 7° turn aside from that which is good, and 
 become ™ evil. Behold the Lord said by 7 Jeremiah 
 the prophet, “I‘or my people have forsaken my law 
@@ -4508,15 +3379,11 @@ waxeth old and perisheth,*’ but for the meat that
 endureth unto life eternal.” ** And moreover He 
 saith, ‘‘The work which pleaseth God is this that ye 
 believe in him whom he hath sent unto you.” °° 
-
-
 (ii., 61.] Take heed, then, that ye keep not far from 
 the church of God, nor follow the steps of the ungodly 
 and unbelievers, and the worshippers of idols, and the 
 congregation of the Jews. And go not toa temple of 
 devils, nor have fellowship with Christ’s murderers, nor 
-
-
 ™ This is merely a conjec- " Jer so, 6. 
 ture. The text as it stands " P who delay. 
 ‘ aa " | Ak 
@@ -4525,20 +3392,11 @@ seems meaningless. P adds: and their work.
 ™ P adds: the mouth of. ** P adds: and its pleasure 
 ™ P way. remaineth not. 
 °° Jer 9, 13f. *' P omits: that waxeth old 
-
-
 "' Jer 3, 11. A reads differ- and perisheth. 
 ently: The rebellion of I. hath au Jn 6, 27. 
 justified itself more than the Cf. Jn 6, 29. 
 shame (?) of J. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 81 
-
-
 enter into a congregation of the ungodly. Have ye *° 
 not heard that which is said, “I have not sat in the 
 assembly of vanity, nor have I gone in with evil-doers : 
@@ -4574,34 +3432,20 @@ purchased with His °* Blood. For His *? Church is the
 Daughter of the Most High, she who strengtheneth our 
 hearts, and bringeth us near to God, that we may find a 
 place with Him; for we are His members and His 
-
-
 ** P hast thou, ** P omits: the prophet. 
 "' Ps 25, af. P omits: and ** Jer 35, 17. 
-
 evil-doers. ** P adds : precious. 
 7" Ps 1, if. *’ P the. 
-
-
 ** P adds: the adulterers and. 
-
-
 82 THE ETHIOPIC DIDASCALIA 
-
-
 friends. Let us, then, be good and pure, without 
 uncleanness, and perfect*® in the right faith and in 
 every good work.®*
-
 ### Didascalica-CH-13
 . 
-
-
 THAT CHRISTIANS OUGHT NOT TO ENTER INTO THE 
 CONGREGATION OF THE HEATHEN, NOR BE SPECTATORS 
 IN THE THEATRE, NOR LISTEN TO (THEIR) SONGS. 
-
-
 (ii., 62.] Beware, then, of deeds such as these, and 
 take no part in the assembly of the Gentiles, and keep 
 far from the devices of Satan, for the devil hath no 
@@ -4622,30 +3466,18 @@ enter into their houses, nor eat with them, nor drink;
 for they are full of * the deeds of Satan. Let us turn 
 aside from worshipping of idols and from error, and 
 their salutations’ and (their) vows to their gods. 
-
 [ii., 63.] Ye also, young men, perform without sloth 
 for the Holy Church every duty that is fitting, and 
 support yourselves by the fruit of your toil in purity, 
 that ye may need nothing, nor be a burden on the 
 Church of God: * so that we may be without care. But 
-
-
 ** P omits: and perfect. * P which, 
 ** P adds: which is pleasing * P wicked. 
-
-
 * Or, perfected in. 
 Oe dias and magicians. ' So literally. Pl suggests : 
 > Cf. Nu 23, 23. their social meetings. 
 * P customs. * P Christ, 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 83 
-
-
 in ® the preaching of the holy Gospel let us not neglect 1° 
 the labour of our hands, nor be slothful. For some of 
 us are fishermen, and some of us tent-makers, and some 
@@ -4676,12 +3508,8 @@ bring it to his mouth.”® “He appeared wise unto
 himself."’??_ “A foolish sluggard foldeth his hands 
 together, and eateth his own flesh” ;7° for the doings 
 * I follow the punctuation in the LXX TpohxOn. 
-
-
 A. Pl following P takes with ® P wilt thou sleep (a dif- 
 the preceding clause: without ferent word), 
-
-
 care except for the preaching, ‘* P adds: thy. 
 etc. ‘7 P adds: on thee. 
 ‘© P adds: to labour. ** P omits: of water. 
@@ -4692,17 +3520,9 @@ _ '? P and how good her work ** This seems a quotation
 is. from Prov 26, 16. PI trans- 
 * In this clause the reading lates: The wise man provideth 
 of P is followed. for himself, 
-
-
 “T translate according to ™ Eccl 4, ° 
-
-
 G2 
-
-
 84 THE ETHIOPIC DIDASCALIA 
-
-
 of a sluggard are without remedy. Whosoever will not 
 work, let him not eat, and let him not sit idly with you. 
 Fear Him,?' then, at all times, and keep far from sloth,?* 
@@ -4710,12 +3530,9 @@ for the Lord our ?* God hateth all the slothful. Let not
 the slothful man sit with those that are obedient to 
 God the Father, to whom be honour and glory 27 for ever 
 and ever. Amen.
-
 ### Didascalica-CH-14
 . 
 OF WIDOWS. 
-
-
 {iii., 1.] (A wipow) ought to be # appointed at sixty 
 years of age, in whom are good works, and (who is) 
 elect and pure, and desireth not another husband. 
@@ -4736,37 +3553,19 @@ hath lived for a little while 82 with her husband, and
 been separated from him by death, and then hath lived 
 alone, and observeth the duties of the wigows, she who 
 doeth thus is blessed: for she is like unto the widow 
-
-
 "The word is unusual. I 
 follow the meaning given by 
 Dillmann, who refers (sth 
 voce) to the present passage. 
-
-
 2% P them. 
-
 35 P the slothful. 
-
 2° P omits: our. 
-
 31 P glory and honour. 
-
-
 * P let (a widow) be ap- *2 Pp omits: for a little while 
 pointed. (inserting the same words after 
 2° P thou. “from him’ in the next 
-
-
 © P who is. clause). 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 85 
-
-
 who was in Sarepta of Sidon unto whom Elijah the holy 
 prophet of God came, and she received him, and unto 
 the daughter of Phanuel of the tribe of Asher, who 
@@ -4781,7 +3580,6 @@ of the salvation of Israel. The widow who doeth thus
 findeth honour and favour ™ and praise in this world, 
 and also in the next before God in the Kingdom of 
 heaven. 
-
 {iii., 2.] And let not younger widows be appointed 
 to the order (of widows) of the Church, for they cannot 
 have continency while they are in the vigour of their 
@@ -4804,22 +3602,13 @@ command the younger women; if their first husbands
 die, let them marry a second husband,® if they cannot 
 have continency, lest they fall again ® into the snare 
 and devices of Satan, and into evil desires that destroy 
-
-
 *® See Add. notes. ** P omits: the Lord. 
-
 ** P favour and glory. *' P marry again. 
-
 *. P omits: And as for such ‘** P omits: again. 
 as these. 
-
-
 86 THE ETHIOPIC DIDASCALIA 
-
-
 souls, and go down themselves into the eternal con- 
 demnation of Gehenna, where is no “ rest. 
-
 [iii., 3.] But widows who are known for righteous- 
 ness, women who have married one man, and concern- 
 ing whom many bear witness that they have lived in 
@@ -4830,7 +3619,6 @@ what they need, for their trust is in God. And now
 also ® stretch forth thy hand to give, and remember 
 the poor,’ and give to each one according to his need, 
 and visit the widows and the orphans and the afflicted. 
-
 {iii., 4.] The bishop, then, ought to help and save 
 and supply the need of all the destitute and troubled, 
 and help them,*4 and feed in his good pasture all the 
@@ -4852,29 +3640,14 @@ either thy friend, or thine enemy, or thy kinsman, or
 a stranger, or one that is married, or one that hath no 
 wife, or a widow, or an orphan—even to every one that 
 is 5! destitute do thou good. For our Lord hath com- 
-
-
 ** P the soul, given to thee. 
-
 «* P adds: refreshment nor. “* P they. 
-
 “\ Lit. impurity. ‘' P omits: for him. 
 ‘2 P adds: O bishop. “ P we. 
-
 “ P adds: and needy. “ Lk 6, 30. 
-
 ‘« P omits: and help them. 5° P omits: that is. 
-
-
 P omits: what they have "| P to all the. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 87 
-
-
 ’ ful 
 din the Scriptures that we should be mercifu 
 Cane poor, for He saith by the mouth of Tale a 
@@ -4896,11 +3669,8 @@ poor: and his righteousness remaineth a ae
 And again ee prec eee) : a : eal 
 mercy to the poor lendeth unto : ee aa 
 mpensed even as he hath given. ° 
-
 aes! his ear, lest he hear the cry of the poor, a 
-
 he that covereth Res be Sn pee the oppressed, 
-
 i hall the Lord be deal. ™ ; 
 2 ae a * Widows ought to be patient, not Luerpie 
 (women) in whom is no evil nor anger, but ae es 
@@ -4909,28 +3679,18 @@ they see evil deeds, or hear ® evil words, oe eae
 silent, as if they saw and heard not. Let Maca 
 have no care aes to es “ne ck ae ae aiean weet 
 ba offerings to the : } 
-
 or ce ata aoe A tler idle words of vanity, let 
 ing i ** P omits: and he that... 
-
 : ce ae la iad the | oppressed gece SA 
 iniguity 4, 24. A omits: thine P ads and he that covert 
 5! P omits: Solomon. s eye lest. ae a 
 wb by ergy andy th Pe ant and shal oo 
-
 Ey him. 
 “ Hs arg g. P adds: and Me P adds: and meek. 
-
-
 *2 P omits: hear, 
 ever. “PD give alms. 
-
-
 88 THE ETHIOPIC DIDASCALIA 
-
-
 them not answer him, but let them recei 
-
 seek words of faith and deeds of soe an Mgr 
 good hope before God. But let those (widows) that 
 desire to learn that which is appointed,® go to those in 
@@ -4950,9 +3710,7 @@ they trample your pearls with their feet, and turn and
 rend you.’’ _ For when the ungodly know the word 
 of the mysteries, they despise (it), and in their foll 
 a (it) i dishonour and a shame. : 
-
 i., 6.) But teach them rather ® the words of t 
-
 Law, and the prophets who prophesied of the ae 
 of Christ. For our Master 7 Jesus Christ sent us the 
 Twelve to teach all nations; but He commanded not 
@@ -4966,34 +3724,15 @@ and Salome, and others also with them”: (and) since
 He commanded not them to teach along with us 
 neither is it right for other women to teach. For 75 
 the man is the head of the woman, so it is not right 
-
-
 *s Lit. learn the ordinance.  P our Lord. 
-
 ** P omits: learn and. ™ P for hearing 
-
 ‘7 P adds: lest they turn and 77 P adds: His mother and 
 bite you, nor to swine. His sisters. 
-
 “Mt 7, 6. P omits: and '* P sister. 
 turn and rend you. ™ P omits: with them. 
-
-
 ** P adds: to understand. '™ P But if, 
-
-
 > 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 89 
-
-
 that the member should be greater than the head.”6 
 Widows and virgins ought not to walk about in the 
 streets, nor enter men’s houses 77, but they who do 
@@ -5010,7 +3749,6 @@ concerning them that do thus Isaiah the prophet saith,
 “Hearing they shall hear, and shall not understand; 
 and seeing they shall see, and shall not perceive: for 
 the heart of this people is darkened.” © 
-
 [iii.,°7-] And to widows such as these show thou 
 not the sacrifice of Christ. But let her that desireth to 
 please Christ 8 dwell in her house in quietness, and 
@@ -5028,24 +3766,15 @@ speaketh not lies, and her food is in moderation. As
 for her whose works are such, the Lord will hear her 
 prayer and her supplication, for it ts said, ‘‘ When ® 
 1 call upon thee, hear me speedily."’®7 Let such a 
-
-
 © P omits: it Is not right *! P omits : of the book. 
 . head. "2 Isa 6, of. 
 ” P enter the law-court (?). > P the Lord. 
-
 Pl enter into public assemblies. * P omits: every day. 
 ™ P and those that. * P adds: the desire of. 
 1* A omits the negative here "© P In the day that. 
-
 and with the next verb. "' Ps 101, 3- 
-
 "© P the word of. 
-
-
 go THE ETHIOPIC DIDASCALIA 
-
-
 widow be appointed, who loveth not money, in whom is 
 no vanity, nor avarice, (who is) no lover of gain, but 
 is elect ® and prudent, and abideth at home, giving 
@@ -5061,7 +3790,6 @@ more than all they that offered to the treasury. For all
 they that offered," offered of their abundance,” but she 
 of her want offered all that she had, even all her 
 living.” 8 
-
 {iii., 8.] The widows, then, ought to be pure, and to 
 be in subjection with fear and trembling, but above all 
 to the bishop % and to the presbyters and to the deacons 
@@ -5080,8 +3808,6 @@ bishop, and to honour him as God. But if there be
 anyone that receiveth alms from the evil-doers and the 
 ungodly,% he shall fall into their error, and die in their 
 iniquity. If he prayeth for them, he grieveth Christ. 
-
-
 ** Or, approved. ** P omits: and trembling. 
 ** P adds: our Lord, ** P bishops. 
 *© P adds: and said. ** Lit. interest. 
@@ -5089,33 +3815,15 @@ iniquity. If he prayeth for them, he grieveth Christ.
 omits: to the treasury. For all changers. 
 they that offered. * P the ungodly and the 
 , 
-
-
 P of that which they had. — eyil-doers. 
 °° Mk 12, 43- : 
-
-
-
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 9! 
-
-
 But let him turn them to repentance; and those that 
 convert not’ the evil-doers and liars! and sinners are 
 partakers with them in the evil of their deeds.
-
 ### Didascalica-CH-15
 . 
 THAT WOMEN OUGHT NOT TO BAPTIZE, 
-
-
 [ili., 9.] Benotp we declare unto you that great is 
 the condemnation of those that thus do these deeds.! 
 We command you not to do this,? for this thing is a 
@@ -5143,32 +3851,18 @@ mand you that they do no such thing. Even if they
 are very wise, and have faith, and know the Scriptures, 
 we do not permit them? to baptize or preach the 
 Gospel. 
-
 ** A omits: and those that * The suffix of the verb in A 
 convert not. is feminine. 
-
 '° P the erring. Lit. law. 
-
 ' P omits: these deeds. P God, 
-
 7 Lil, this deed. P omits: never. 
-
 P adds: teach, or. 
-
-
 ~ eee 
-
-
 92 THE ETHIOPIC DIDASCALIA
-
 ### Didascalica-CH-16
 . 
-
-
 THAT THE LAYMAN OUGHT NOT TO EXECUTE THE OFFICE 
 OF THE PRIESTHOOD. 
-
-
 [iii., 10.] We command you,! then, that no layman 
 execute the office of the priesthood, . (that he) neither 
 offer incense, nor baptize, nor lay on hands, nor bless,® 
@@ -5178,7 +3872,6 @@ God. But they must needs receive this grace and
 honour from the bishop. And he to whom the dignity 
 of the priesthood hath not been given shall find con- 
 demnation, if he transgress, like Uzziah the King. 
-
 {iii., 11.) Moreover we do not command that all 
 that are in the Church should baptize—(that is) neither 
 the readers, nor the singers, nor the doorkeepers but 
@@ -5191,40 +3884,22 @@ nor readers, nor singers, nor doorkeepers; but let
 bishops only ordain according to the order of the 
 Church—and such in whom is no revenge, nor envy, 
 nor slander, nor hatred, nor malice. 
-
 {iii., 12.) Behold we have told you before that they 
 that do thus are aliens 5 from the society ® of Christians : 
 and above all widows.
-
 ### Didascalica-CH-17
 . 
 OF WIDOWS. 
-
-
 For Satan seeketh an occasion whereby to ensnare, 
 as he did of old in the case of Cain. For there are 
 some who say, We are widows, but do not do the 
-
-
 “ P omits: nor deaconesses. 
 * P far removed from. 
 * Lit. people. 
-
-
 ' P omits: you. 
 7 P omits: nor bless. 
 * P and the deacons who. 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 93 
-
-
 works that befit widows, even as Cain! did toward his 
 brother that which befitted not. These then are they 
 that 2 have no knowledge. For it is not by being called 
@@ -5240,7 +3915,6 @@ kept the word of admonition. If there be one of the
 sisters, and (others of them) see men give her alms, 
 whether money, or raiment,® or food, or drink, and (if) 
 she then rejoice and find rest, they ought to say thus: 
-
 {iii., 13.] Blessed be the Lord our !°© God, Who hath 
 granted rest and ¥ joy to the widow, our beloved sister, 
 O Lord send blessing and honour ? on him who hath 
@@ -5253,40 +3927,24 @@ given unto us: give him the crown of glory when he
 shall depart this life. And in like manner let this 
 widow pray and entreat along with them for those that 
 have shewn mercy towards her. 
-
 (iii., 14.] And now’ also let her give to the 
 destitute from that which she hath received; and for 
 this cause shall her works be well-pleasing before God, 
 as it is written, saying, ‘Let not thy left hand know 
 what thy right hand doeth, and let thine alms be 
-
-
 ' P adds: who. ' P find condemnation before 
 > P omits: are they that. God for ever. 
-
 2 P shall inherit. * P omts: and _ slanderers. 
-
 “ P by patience. * P adds: of any kind. 
-
 * P the devil. ‘* P omits: our. 
-
-
 ™ P omits: rest and. 
-
 ‘13 P omits: and honour. 
-
 ** P omits: the greatness of. 
 P omits: now. 
-
-
 * The reading is uncertain. 
 Pl. translates : is a deceiver, in- 
 somuch that she shall receive. 
-
-
 94 THE ETHIOPIC DIDASCALIA 
-
-
 secret.” '* Thus let '* the widow ra 
 anes unto her and bestowed Hes eee 
 ines bel Sr, bys thy Father, who seeth 
@@ -5317,11 +3975,7 @@ sinned, but shall rather return on him that uttered it
 He that hath cursed another without cause, hath cursed 
 himself, as Solomon saith.?* In like manner ye also 
 shall be requited even as ye have done unto others. 
-
-
 THE ETHLOPIC DIDASCALIA 95 
-
-
 For it is said, ‘“‘ He hath digged a pit, and hollowed it 
 out, and he shall fall into the pit which he made. And 
 his toil shall return on his own head, and his wickedness 
@@ -5342,7 +3996,6 @@ ought to admonish and teach ** and command the people
 that no word of cursing proceed from their mouths.** 
 But let him show care for priests, and deacons, and 
 virgins, and widows, and the people. 
-
 [iii., 16.] Wherefore, O bishop, prove the deacons 
 who do service with thee, and help them in doing good, 
 that they may be ready to minister unto the people, and 
@@ -5355,36 +4008,20 @@ to the women, and let her anoint them with oil, and
 clothe them after baptism. And do thou, O bishop, 
 anoint the foreheads of them that are baptized, men and 
 women, with holy oil according to the ordinance of 
-
-
 '* Mt 6, 3f. 
-
 1 P ai 
-
  P omits: and bestowed 
 alms upon her. 
-
 ‘* P adds: of God. 
-
 '* P adds: widow. 
-
 7° P omits: But if. 
-
 ™' P and trouble. 
-
 _ ‘ hath shewn. 
-
 rather in rightcousness 
-
 (?) let them genial 
-
-
 ?* P For our Lord. 
-
 75 Lk 10, 6. 
-
 ** P omits : peace. 
-
 *" A omits: she abideth not 
 there. 
 _ 7™* A new chapter (xvi accord- 
@@ -5393,41 +4030,22 @@ in P with the title, “That ye
 ought not to do evil to your 
 neighbours."’ There is no break 
 in 
-
-
-
-
-
 holy baptism. And after this, O bishops and presbyters, 
-
-
 * Ps 7, 16f. 
 2° P adds: himself. 
 * P do thou teach them 
-
-
 Pp and admonish them 
 (masc.). 
-
 *? P command them not that 
 which is evil, but rather that 
-
-
 they do good and (make) peace. 
-
 ** P omits: lest he inherit a 
 curse. 
-
 ** P teach and admonish. 
-
 ** P and no word of cursing 
 (ought) to proceed from his 
 mouth. 
-
-
 96 THE ETHIOPIC DIDASCALIA 
-
-
 pray for them that are under you, and baptize them into 
 the name of the Father, and of the Son, and of the 
 Holy Spirit. And then let the deacon take the men, 
@@ -5437,7 +4055,6 @@ may be holy and pure. And after they have been
 baptized, let the bishop anoint them with the oil of 
 balsam, for they have been baptized into the death of 
 * Christ. 
-
 {ili., 17.] The oil of balsam is the strength of faith, 
 for when a man cometh forth from the water,*’ he is 
 in the likeness of Christ whom the Father raised from 
@@ -5445,7 +4062,6 @@ the dead. This is He who is over all;°* our Lord
 Jesus Christ is the only-begotten Son the Lord of life, 
 and the Paraclete is the Spirit of truth who was sent 
 by the Father to teach all things. 
-
 (iii., 18.) But let them that are baptized be far from 
 transgression and be pure from sin, and let them be 
 friends of God and enemies of the devil, and fellow- 
@@ -5462,25 +4078,15 @@ as we also forgive him that hath trespassed against us.
 And bring us not into temptation, but save us and 
 deliver us from all evil. For thine is the Kingdom, 
 the power and the glory, for ever and ever. Amen. 
-
 [ili., 19.) The deacons then must needs be pure 
 and good, without blame, as the bishop; and serve 
 continually in the Holy Church, and minister unto God 
-
-
 * After this word there is a clause. 
 leaf lost in Platt’s manuscript. ** So E reads, A by an in- 
 ** This follows the punctua-  terchange of two letters has the 
 tion of AC. The Eth. takes absurd reading: servants of 
 these words with the preceding Satan. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 97 
-
-
 with a good ministry, and fulfil their office in wisdom 
 with one -heart and one spirit, and understand the 
 reward of their service, and not be puffed up in 
@@ -5516,25 +4122,14 @@ scek to satisfy the desires of the poor, before they ask
 them. Moreover let them do service unto the bishop, 
 and be of one mind ‘** (with him), and account him as 
 father and teacher and monitor. 
-
 [iii., 20.) And behold we command that a bishop be 
 ordained by three bishops, and if not, by two. But by 
-
-
 ““ The word is singular in “ At this word the lacuna in 
-
-
 Eth. Platt’s manuscript ends. 
 “7 E adds: and girded Him- *. P omits: as ourselves. 
 self. “Lit. soul. 
-
-
 H 
-
-
 98 THE ETHIOPIC DIDASCALIA 
-
-
 one bishop it is not possible to give ‘* ordination: for 
 by the testimony of three or two ‘* (witnesses) let ¢’ 
 every word be established. Presbyters and deacons and 
@@ -5546,15 +4141,10 @@ and offer up the sacrifice. And as for the deacon there
 ‘is nothing that he may do except minister to the bishop 
 and the presbyters;‘*® and let him fulfil aright his 
 ministry.¢® 
-
-
 -
-
 ### Didascalica-CH-18
 . 
 OF ORPHANS. 
-
-
 [iv., 1.] CHRISTIAN people who have no children 
 ought to educate orphans, whether youths or virgins, 
 and adopt them as their own children, and love them 
@@ -5572,40 +4162,20 @@ fulfil in himself * that which the Scripture saith, “ What
 the saints have not eaten, the Syrians‘ shall eat,” even 
 as Isaiah saith, “Your land a foreign enemy shall 
 devour it in your sight.” * 
-
-
 ‘* P receive. * Pi translates wrongly: 
 “* P two or three. avenger. 
 “’ P shall. * P in him shall be fulfilled. 
-
-
 ‘* P without the authority of “P absurdly reads: Phari- 
 the bishop, and (he is) to sees. AC has: Assyrians. The 
-
-
 minister to the presbyter. source of the quotation is not 
 “* P fulfil (it) with a good known. 
-
 Ministry. ‘Isa 1, 7. 
 ' P orphan. 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA y9
-
 ### Didascalica-CH-19
 . 
-
-
 THAT BISHOPS OUGHT TO SHOW CARE FOR WIDOWS AND 
 ORPHANS. 
-
-
 {iv., 2.] Ye bishops, provide for the sustenance of 
 the destitute and supply their needs, and give to the 
 orphans' as an inheritance the substance of their 
@@ -5617,7 +4187,6 @@ and satisfy the hungry; and give drink to the thirsty,
 and clothe the naked, and visit the sick, and help the 
 prisoners. Think on this, and do thus for the orphans 
 and widows by day and night. 
-
 [iv., 3.] For he that can do thus, blessed is he. 
 Behold then he hath saved himself, for he hath received 
 the widow, and the orphan, and the stranger. Where- 
@@ -5631,7 +4200,6 @@ hath children—him that doeth thus, blame not, but
 commend, for he is an altar of God. It is right also 
 that he pray at all times without slothfulness § for those 
 that have given him alms. 
-
 {iv., 4.] But he that receiveth alms while he hath 
 (sufficient}—with him God will reckon, for he hath 
 snatched away the bread of the poor, and hath* not 
@@ -5639,18 +4207,12 @@ done good to himself nor to others. And he also that
 hath wealth, and giveth not to the destitute, is like 
 unto the rich man who gathered together, and filled 
 his barns in vain, and he shall be destroyed from before 
-
-
 » P supply the needs of the “ P adds: or to the poor. 
 orphans and give (them). * P omits: without slothful- 
 2? P adds: and the stranger. ness. 
 > Acts 20, 35. * Lit, for he hath. 
 H 2 
-
-
 100 THE ETHIOPIC DIDASCALIA 
-
-
 God, for his wealth shall not profit him in the fire’ 
 of the anger of God. But he that doeth thus, believeth 
 not in God,*® but worshippeth ® his wealth and trusteth 
@@ -5662,16 +4224,11 @@ thus, his wealth shall perish, and a foreign enemy
 shall devour it, either while he liveth, or after he is 
 dead. For it is said, ‘‘He that gathereth his riches 
 by evil-doing, his riches shall be taken from him.” ™
-
 ### Didascalica-CH-20
 . 
-
-
 THAT UNMARRIED WOMEN AND WIDOWS! OUGHT TO 
 RECEIVE WITH THANKSGIVING THAT WHICH 1S 
 BESTOWED UPON THEM. 
-
-
 [iv., 5.) Ler us exhort widows and unmarried 
 women? to receive that which God hath bestowed 
 on them with thanksgiving in fear and_ trembling, 
@@ -5684,33 +4241,18 @@ giveth corn‘ to the young men, wine to the
 maidens, and the oil of rejoicing to the living; * 
 abundance to the cattle, and liberty to servants, and 
 flesh to the beasts, and fruits to the birds, and food 
-
-
 ' ?—P day. seems to be that the former 
 * P Lord (a different word). means a “woman without a 
 * Or, maketh a god of. husband.’’ The title of the 
-
-
 © In his translation Pl omits: corresponding chapter in Arabic 
 but accepteth persons. (II) has: widows and orphans. 
-
-
 Cf, Job 20, 18; Jer 17, IT. 2 P unmarried women and 
 1 The two words translated widows. 
 “unmarried women” and » P and stretcheth. 
 “widows ’’ may each mean, ‘A omits: who giveth corn. 
 when used separately, “ widow.” 5p adds: and he giveth. 
-
-
 When contrasted the difference 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 101 
-
-
 to all, as it befitteth. Wherefore our Lord saith, “ Be 
 ye like unto the birds of heaven * which sow not, nor 
 reap, nor gather into barns, and your heavenly Father 
@@ -5725,16 +4267,11 @@ that reccive the widow and the orphan God the Father
 shall give gladness in the Kingdom of heaven, through ° 
 His* Son our Lord Jesus Christ, to whom be honour 
 and glory for ever and ever. Amen.
-
 ### Didascalica-CH-21
 . 
-
-
 THAT THE BISHOP ! OUGHT TO SHOW UNDERSTANDING IN 
 RECEIVING OFFERINGS FROM THOSE (ONLY) THAT ARE 
 WORTHY. 
-
-
 [iv., 6.) THe bishop ought to show understanding 
 and? make a difference about receiving offerings in 
 cases when it befitteth not.° Beware, then,‘ of the seller 
@@ -5745,27 +4282,16 @@ ness and fornication, for the Lord God saith, “ Bring
 ye not an offering of the reward of fornication.” 7 
 Beware of the extortioners® and of them that lend their 
 money on interest, and of the defiled in spirit. Those 
-
-
 * P omits: of heaven. ceive that which is not right. 
-
-
 ' Mt 6, 26ff. “ P omits: then. 
 " P omits: heaven, through. * Cf. Isa 1, 22. P reads: 
 * P adds : beloved wine with water. 
 ' That bishops. * P adds: then. 
 a bg x 7 
-
 ing a esene UIees a oP a puss (joining with 
 > P offerings from those that the preceding words). 
-
-
 are worthy; and let him not re- 
-
-
 102 THE ETHIOPIC DIDASCALIA 
-
-
 that make sacrifice thus are not well pleasing unto God. 
 The bishop must needs keep far from those that oppress 
 widows and orphans, and from those that fill the prison 
@@ -5800,29 +4326,14 @@ obtaineth by his toil for the sustenance of the widow,
 be it much or little, is acceptable before God, because 
 it was not (gotten) by iniquity. For it is written, 
 saying,’’ “Better is a little with righteousness than the 
-
-
 * P adds; evil men. joteleuton omits this quotation. 
-
 ** P omits: of the ungodly. ™ Ps 5, 6f 
-
 " P (and of) unclean wizards * P is unintelligible. A by 
 and of all such. altering the position of two con- 
-
 '? P omits: and of drunkards. sonants reads as above. 
-
 " P omits: for such... God. ™ P omits: it is written, 
-
-
 “Ps 36, 16. A per homo- saying. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 103 
-
-
 great riches of sinners.” '* But if a widow eat and be 
 filled at the hands of the ungodly, and pray for them, 
 God shall not hear her prayer, for God trieth the heart 
@@ -5835,7 +4346,6 @@ refused to turn unto repentance. And when they pray
 He will not hear their prayer 2° for them that do such 
 things; but they provoke God to anger, and remember 
 not the evil of their doings. 
-
 {iv., 7.] Keep far, then, from all such deeds, for 
 all they that do thus are transgressors of the Jaw. For 
 Elisha #4 did not receive the offering of Hazael who 
@@ -5852,14 +4362,11 @@ given unto him by God. Keep far, then, from the pol-
 luted offerings which they bring into the house of God. 
 And again it is said, ‘Depart from iniquity in fear and 
 trembling.” 7* . ; 
-
 {iv., 8.] But if ye say, If we receive not offerings 
 from the ungodly, what shall we give to the widows 
 and orphans, and to the destitute who have no sus- 
 tenance ?—if ye do thus it shall become sin unto you. 
 For God?’ hath appointed for you, as of old for the 
-
-
 ™ Ps 76, 16. their prayer. Perhaps the 
 * P jis unintelligible in this clause belongs to some other 
 clause. part of the context. Neither 
@@ -5868,14 +4375,8 @@ clause. part of the context. Neither
 32 Jer 15, 1. 7° P in like manner let bis- 
 33 A here reads: And when hops. 
 they turn T will have compas- %* Cf. Isa 54, 14. 
-
-
 sion on them, and will hear 3" P adds: hath done and. 
-
-
 104 THE ETHIOPIC DIDASCALIA 
-
-
 Levites, that they should receive offerings of the people. 
 But if all this which ?* hath been appointed for the 
 Church is not sufficient for you,?* ye ought to endure 
@@ -5890,7 +4391,6 @@ the faithful brethren that love God, that they may give
 (thee) what thou needest. And from that which thou 
 receivest from them, give unto the widows and orphans 
 in righteousness. 
-
 [iv., 9.] Solomon *? said to the people, “Give to the 
 Lord of thy labour in righteousness, that he may ‘fill 
 thy barns with wheat and that thy wine-press “may 
@@ -5901,7 +4401,6 @@ ing to the ordinance of the saints, and redeem the
 captives, and visit the prisoners, and deliver those that 
 oe appointed) unto death,** that ye may find life before 
 10d. 
-
 fiv., 10.1 Behold, then, we command you that ye 
 follow not the way of the ungodly and unbelievers, nor 
 accept their offerings, nor take their money,** for they 
@@ -5909,33 +4408,16 @@ are prepared as fuel for fire, and that ye be not partakers
 with them, for the offering of sinners is unclean in the 
 sight of God. This have we spoken to you, brethren, 
 for the profit of your souls. 
-
-
 7° P omits: which. *? P Even as Solomon. 
 2° P omits: is not sufficient ** Prov 3, 9f. 
 for vou, ** A reads: deliver the slain. 
-
-
 ** P omits: and remain. 27* P omits: nor take their 
 °' Ps 140, §. money. 
-
-
-
-
-
 bas 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 105
-
 ### Didascalica-CH-22
 . 
 THAT FATHERS OUGHT TO CORRECT THEIR CHILDREN. 
-
-
 [iv., 11.] ANpb ye also, fathers,’ teach your children 
 to observe the commandment of the Lord, and to follow 
 the way of Christ and command them to learn a handi- 
@@ -5965,28 +4447,18 @@ in pure wedlock, lest the impure desires of youth assault
 them, and they be sin unto them. And because of this 
 God will require the sin at the hands of their fathers in 
 the day of recompense. 
-
-
 ‘Pp adds: admonish and * P from. 
-
 teach. ’ P adds: forsake and. 
 2 P thv. * P they be defiled. 
 * Cf. Prov 23, 14: 19, 18. * P omits: and correcting. 
 “ P omits: teacheth not and. 1 P when the full time of 
 * Cf. Sir 30, 12; Prov 13, 24. youth hath come 
-
-
 106 THE ETHIOPIC DIDASCALIA
-
 ### Didascalica-CH-23
 . 
-
-
 THAT SERVANTS OUGHT TO BE SUBJECT IN ALL PURITY 10 
 THEIR MASTERS WHETHER THEY BE UNGODLY OR 
 FAITHFUL.? 
-
-
 {iv., 12.) What say ye then concerning servants? 
 Let them be prudent and serve their masters in the 
 fear of God. And if a servant be a Christian and his 
@@ -6001,7 +4473,6 @@ his master. And if there be a master who hath a
 servant, a believer, and he doeth his will,? let him love 
 him as his son, and count him as his brother for the 
 love of the faith. 
-
 {iv., 13.] Humble yourselves and obey kings and?” 
 princes * who fear God, for they are God’s ministers. 
 Fear them then who are set in authority, as is fitting, 
@@ -6010,42 +4481,18 @@ and obedience, for so hath God commanded. Make for
 yourselves no excuses (?), but rather love one another, 
 even as the Lord God hath commanded by His Son, 
 our Lord and Saviour Jesus Christ.
-
 ### Didascalica-CH-24
 . 
-
-
 THAT VIRGINS OUGHT NOT TO VOW UNTIL THEY PROVE 
 THEMSELVES. 
-
-
 [iv., 14.]  (Vircins) ought not to enter on this 
 service until they prove themselves, and keep them- 
-
-
 ' P faithful or ungodly. ‘ Platt’s manuscript ends 
 * P the will of his master. with this word, 
 * P omits: kings and, 
-
-
 | 
-
-
-
-
-
 mee ees 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 107 
-
-
 selves in purity. Thus we command them that they 
 enter not hastily (on it) before their full time come, 
 even as Solomon saith, “It is better not to vow, than 
@@ -6060,16 +4507,11 @@ about in the city, nor walk in evil ways, nor be of a
 double heart; but let her be wise and pure, without 
 blame, and not desirous of praise, nor, above all, of 
 idle talk.
-
 ### Didascalica-CH-25
 . 
-
-
 OF THE MARTYRS WHO ARE BROUGHT TO TRIAL AND 
 AFFLICTED WITH SORE PUNISHMENT. [OF THE 
 FEASTS OF THE PASSOVER. |] ! 
-
-
 {v., 1.] Ir there be any Christian who hath been 
 brought before the judgment-seat of the ungodly, 
 whether for execution, or banishment, or imprison- 
@@ -6085,17 +4527,11 @@ the judgment-seat for the name of the Lord our God.
 He is a holy martyr, the brother of our Lord, and the 
 son of the Most High, and the habitation of the Holy 
 Spirit. He is a faithful (witness) who hath kept the 
-
-
 ® Eccl 5, 4. the chapter. This long chapter 
 ' The last words of the title is divided in Arabic (IT) at AC 
 seem to be out of place, having v., 7. 
 nothing to say to the subject of 
-
-
 108 THE ETHIOPIC DIDASCALIA 
-
-
 commandment of the Gospel and inherited the crown 
 of life, and is a martyr for the sake of the sufferings 
 of our Lord Jesus Christ, and the t¢ fellowship t? of 
@@ -6134,27 +4570,10 @@ prison, and ye spake unto me. And then shall the
 righteous answer and say, Lord, when saw we thee 
 hungry, and gave thee meat? or thirsty, and gave thee 
 to drink? and when saw we thee a stranger, and 
-
-
 2So0 AC rowwvla. Eth. has: 
-
-
 > Mt 10, 32. 
 heloved, 
-
-
-
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 109 
-
-
 received thee? or naked, «and clothed thee? or sick, 
 (and) visited thee? or in prison, and spake unto thee? 
 And the King shall answer and say unto them, Verily 
@@ -6175,7 +4594,6 @@ I say unto you, whatsoever ye did not to one of these
 little ones, ve did not to me. And these shall go away 
 into eternal condemnation, but the rightcous into 
 eternal life.” 4 
-
 {v., 2.] If there be anyone who saith, I am a 
 Christian; and doeth evil, committeth fornication, and 
 is impure; and they pass on him the sentence of death, 
@@ -6195,17 +4613,10 @@ and affliction from Caiaphas, and those with Alexander,
 and Annas the high-priest, and afterwards we went out 
 from them rejoicing that we were worthy to endure the 
 sufferings of Christ. In like manner do ye also endure 
-
-
 “Mt 25, 34ff. 
-
-
 116 THE. ETHIOPIC DIDASCALIA 
-
-
 patiently and rejoice concerning suffering, tha 
 be blessed in that day. Penna estar 
-
 {[v., 3.] But as for those who are persecuted for 
 the sake of the faith, and go forth from city to city 
 for the sake of the commandment of the Gospel of our 
@@ -6228,7 +4639,6 @@ mony ’’; 1° and, “He who patiently endureth to the
 end, shall be saved.’’!! | He who is persecuted for 
 Christ’s name’s sake, and by patient endurance 
 becometh a martyr is in truth a man of God. 
-
 [v., 4.] But he who consorteth with the ungodly, 
 and hath denied Christ lest the unbelievers should hate 
 him and loveth himself more than his Lord, ¢ in whose 
@@ -6241,32 +4651,16 @@ for himself the eternal fire of Gehenna prepared for
 Satan and his angels. And concerning such a one our 
 Lord answered, and said, “ Whosoever denieth me in 
 the presence of men, him will I also deny in the 
-
-
 * So E. A has: called. 
 * Mt s, wf. 
-
 7 Jn 15, 20. 
-
 * Mt 10, 23. 
-
 * Cf. Jn. 16, 33. 
-
-
 '° Mt 10, 17. 
-
 ™ Mt 10, 22. 
-
 " The word “hand ”’ has been 
 supplied from AC. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 111 
-
-
 presence of my lather who is in heaven.” 13 And 
 again, He hath commanded, saying, “He that loveth 
 father or mother more than me is not worthy of me: 
@@ -6281,7 +4675,6 @@ ransom for his life?” 25 And again He saith, “ Fear
 not them that kill your bodies, but are not able to kill 
 your souls; but fear him who is able to destroy soul 
 and body in Gehenna.” !¢ 
-
 {v., 5-] For it is right that he who hath learned a 
 craft should teach others, and if he teach not others 
 he is not perfect as his master. Jesus Christ is our 
@@ -6302,23 +4695,14 @@ our sakes, yet we do not (suffer) for His sake, but
 rather hope for His mercy.'’® But there is nothing 
 which He desireth to receive from us, but only a belief 
 in the right faith. 
-
 {v., 6.) Wherefore let us lightly esteem our parents, 
-
-
 1 Mt 10, 33- ‘® This sentence is not clear. 
 14 Lit. the cross of his death. It seems as if some words had 
 Ss Mt 10, 37 ff; 16, 26. dropped out per homoioteleuton. 
-
-
 1° Mt 10, 28, The words 8 juas occur twice 
 " Lit. despised. in the corresponding Greek text 
 1° Lit. received wounds. of AC. 
-
-
 112 THE ETHIOPIC DIDASCALIA 
-
-
 and our kinsfolk, and our friends, and our wives, and 
 our children, and all the good things of this world. 
 And if we love these, we shall not keep this command- 
@@ -6359,14 +4743,7 @@ perfect in the right faith. And if a catechumen suffer
 and patiently endure affliction and die for Christ’s sake, 
 his sufferings shall be to him instead of baptism, and 
 2° The word ‘‘and "’ is added in E. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 113 
-
-
 he shall win-a good hope and life eternal. And others 
 too who have fought a good fight, and died for Christ’s 
 name's sake in the right faith, shall rejoice and be 
@@ -6391,7 +4768,6 @@ God, the Father, and Jesus Christ, the great High-
 priest, our teacher and the guide of our souls, and the 
 Giver of our life; to Him be glory for ever and ever. 
 Amen. 
-
 [v., 7.] He then is the Lord God Almighty, our 
 Saviour Jesus Christ, who shall confirm us in His faith, 
 and raise us up with those that have fallen asleep, and 
@@ -6404,21 +4780,12 @@ in His hand. Wherefore He hath taught us, saying,
 For at the last day every creature shall rise again, 
 righteous men and sinners. And concerning the resur- 
 rection of the dead, and the reward of the martyrs 
-
 " Cf. Lk 6, 40. human race will rise at the re- 
-
 7? Lk 23, 46. surrection, both the righteous 
-
 ** In the Arabic Didascalia and sinners. 
-
-
 (II) a fresh chapter begins here 7 Or, acquire. 
 with the title: That the whole * Lk at, 19. 
-
-
 114 THE ETHIOPIC DIDASCALIA 
-
-
 Gabriel said unto Daniel, ‘Many of those who have 
 fallen asleep shall rise from the dust, some shall rise 
 to life eternal, and some shall rise in shame and con- 
@@ -6455,21 +4822,12 @@ did not taste of death, and hath revealed unto us that
 the dead shall rise in His time. Elijah raised the 
 widow’s son, and Elisha raised (the son of) the 
 2° Dn 12, 2f. * Cf. Ezek 37, 11ff. 
-
 37 Lit. grown old. 2° Isa 26, 19. ; 
-
 %* The Eth. has: abide. A *! The Eth. word has various 
 change of one letter gives: meanings. “Abode ”” seems to 
 speak. LXX and AC have suit best the reading of AC 
 AeAdANKA. (3:aporh). 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 115 
-
-
 t Shunammite ¢ 52. Behold we understand that the 
 death of the righteous is not a judgment of those saints 
 who receive it with joy. In like manner Jesus Christ 
@@ -6492,7 +4850,6 @@ from the furnace of fire in the land of Babylon, and
 Daniel from the mouth of the lions. He, then, who 
 hath authority and might will raise the dead at the last 
 day. 
-
 But if the ungodly who believe not the Holy Scrip- 
 tures mock at us, behold the Sibyl their own prophetess 
 maketh glad * their hearts, and saith thus unto them, 
@@ -6503,32 +4860,21 @@ taise up again the bones which were burned in the fire
 and became ashes. Then shall God pronounce the 
 sentence of judgment upon all the world. Such as have 
 done ® evil shall descend to the depths of the earth, 
-
-
 ** The Eth. is obviously a *? So E. The reading of A 
 corruption of this. seems to mean: we believe that 
 ‘ #* The next two sentences are the resurrection of the dead is 
 rather obscure. The translation the second coming of Christ. 
-
-
 given is literal, but can hardly ** The Eth. word has no 
 claim to be very intelligible. other meaning. It seems strange 
 *“ Or, we too toil. even as a paraphrase of the 
 33 Or, Him. Greek wiotwadto. 
 * Jn 5, 45- ** So E reads. A has: do. 
-
-
 12 
-
-
 116 THE ETHIOPIC DIDASCALIA 
-
-
 and those that have kept his commandment shall have 
 eternal life, and God will give unto them the spirit of 
 life; and those that are saved shall look one upon 
 another.” 40 
-
 And if they believe not in the resurrection, let them 
 not refuse belief in (?) another creature.4! Behold that 
 bird whose name is the phoenix will cause the ungodly 
@@ -6556,14 +4902,9 @@ that all things are created by His Word, it was His
 pleasure that there should be heaven and earth, and 
 light and darkness, and night, (and) day,‘® and the 
 stars, and birds, and whales, and beasts, and creeping 
-
-
 “* The reference given by Eth. word according to Dill- 
 Funk is Orac. Sibyll. iv, 179- mann. AC kas: balsam-wood. 
-
-
 185, 189, 189-90. Ed. Geffcken. 
-
 ‘“' The Eth. is obscure. AC 
 gives no help. The words might 
 mean: let them not lead astray 
@@ -6571,30 +4912,17 @@ another generation. The trans-
 lation in the text is only a para- 
 phrase guessing at the meaning 
 intended. 
-
 “2 Such is the meaning of the 
-
-
 “? Obviously some confusion, 
 with the name of the city On, 
 or Heliopolis. Neither AC nor 
 the Syriac Didascalia mention 
 On, though both allude to the 
 “altar of the sun.’’ 
-
 “« Or, the West. 
-
 “© Lit. renewal. 
-
 “* Lit. brightness. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 117 
-
-
 things, and trees, and herbs. Thus He raised them 
 up by His will, and needed no other helper. He it is 
 who is able by His power to renew the world again 
@@ -6629,8 +4957,6 @@ again, David, the lover of God, saith, ‘Thy hands have
 made me and fashioned me; give me understanding, 
 and I will learn thy commandment.” 4 And elsewhere 
 he saith, ‘‘Thou hast created me and laid thy hand 
-
-
 “A slight change of reading the Father said. 
 is required to give this sense. "Gn 1, 26f. 
 As the MS. reads it should be : *? Job 42, 17a. In a_ pas. 
@@ -6638,11 +4964,7 @@ and He shall raise. sage not found in the Hebrew.
 ““ Jer 1, 5. * Job 10, 10ff.” 
 “* Zech 12, 1. ** Ps 118, 73. 
 ** So E. A reads: God said, 
-
-
 118 THE ETHIOPIC DIDASCALIA 
-
-
 upon me. Marvellous is thy work, and (that) my soul 
 knoweth right well. And my bones were not hidden 
 from thee, which thou didst make in secret, nor my 
@@ -6679,30 +5001,15 @@ five thousand men with five barley loaves and two fishes
 —and (who) made water wine; who sent Peter, and 
 he took a penny from the fish’s mouth. He it is who 
 will raise the dead. Behold we are His witnesses con- 
-
-
 ** Possibly this and the two 
 following words (one word in 
 Eth.) should be omitted. There 
 is nothing to correspond in AC. 
-
-
 55 Ps 138, 14ff. 
 ** Isa 64, 8. 
-
 *T Ps 144, 17. 
 ** Lit. creation. 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 119 
-
-
 cerning everything which the prophets proclaimed con- 
 cerning Him. We, His companions, ate and drank 
 with Him, and saw His miracles and His life. And 
@@ -6719,14 +5026,9 @@ of us, ascended into heaven to the Father who had
 sent Him. If ye thus believe, blessed are ye, but if 
 ye believe not, ye are far from Him because ye have 
 not kept His commandment.
-
 ### Didascalica-CH-26
 . 
-
-
 OF THE MARTYRS. 
-
-
 {v., 8.) BeHoLD I" say unto you, magnify and extol 
 with double honour the martyrs, even as the blessed 
 James and Stephen the first martyr are had in honour 
@@ -6740,27 +5042,16 @@ And furthermore Solomon saith, ‘“‘The remembrance of
 the righteous is perfect with praise.” * And again the 
 prophet saith, ‘His horn shall be exalted with 
 honour.” ¢ 
-
 {v., 9.) This we have said concerning those who 
 have been martyrs in truth for the sake of the name 
 of our Lord Jesus Christ. Behold, then, we understand 
-
 *° Lit. weakness. 
-
-
 ' AC has: we. 
 * Ps rs, 6. 
-
-
 * Prov 10, 7. 
 “Ps rit, 9. 
-
-
 120 THE ETHIOPIC DIDASCALIA 
-
-
 and know that those, who honour the mart 
-
 : yrs and the 
 faithful who have fought a good fight and finished their 
 course, and died for Christ’s sake in the right faith, 
@@ -6768,16 +5059,11 @@ te win a good reward and eternal life. And those
 ’ho were martyrs in truth, and judged uprightly, and 
 Gleaged God iw thei nes _aiichs aball (ehientt 
 Kingdom of heaven. : pee ay ne
-
 ### Didascalica-CH-27
 . 
-
-
 THAT CHRISTIANS OUGHT NOT TO ENTER A HOUSE OF 
 REVELRY AND DANCING, BUT (OUGHT) RATHER TO 
 GIVE PRAISE AND SING IN THE CHURCH.' 
-
-
 [v., 10.] BEHOLD, beloved brethren, we giv 
 good counsel, that ye keep far from impure edi ad 
 hearing of songs, and from dainty meats and luxury 
@@ -6792,80 +5078,39 @@ names of the (falsé) gods and idols, nor name the name
 of Satan and his angels,* for, when they name his 
 name, the Holy Spirit departeth from them, and in His 
 stead an unclean spirit abideth on them. ;
-
 ### Didascalica-CH-28
 . 
-
-
 THAT A CHRISTIAN OUGHT NOT TO SWEAR BY THE NAMES 
 OF THE (FALSE) GODS AND DEMONS, NOR EVER MAKE 
 MENTION OF THEM ACCORDING TO HIS FORMER WONT. 
-
-
 [v., 11.] We Christians ought not to swear by the 
 names of the (false) gods, nor make mention of their 
 The title of this chapter in i ip.”” 
-
 Arabic ay i auite i aac on aie . vente worship. 
 at we shou shun evil "So E. A has: 
 deeds and lying words especially The two words Rese 
-
-
-
-
-
-
-
-
-
-
-
 THE EYTHIOPIC DIDASCALIA 121 
-
-
 names with our lips, nor b 
-
-
 ow before them, nor fear 
-
-
 them, for he who so doeth and serveth (false) gods, 
 shall be far from God, the giver * of life. Howbeit they 
 are not gods, but the work of men’s hands, and spirits 
 of Satan. For God said concerning’ the children of 
-
-
 Israel, ‘They have forsaken 
-
-
 me, and have sworn by 
-
-
 strange gods, and have provoked me to anger by their 
 gods.” * For despised and hateful and impure (is 
 accounted) in the Scriptures every one that worshippeth 
 and serveth (false) gods, and that sweareth by their 
-
-
 names. 
-
-
 {v., 12.] And not these only (are so accounted), but 
 also astrologers‘ and magicians who practise super- 
 stition. [Serve them not nor worship them.] § And 
 moreover it is said, “ When thou regardest the heavens, 
-
-
 worship not the sun, and the moon, and the stars. 
 “Walk not then in the way 
-
-
 (And elsewhere it is said), 
-
-
 im } 
-
-
 of the nations, nor learn their works, nor fear the signs 
 of the heaven.” ’ For (God) created the sun, and the 
 moon, and the stars, to give light to men, and not that 
@@ -6878,48 +5123,33 @@ many (other) gods and (also the god with) the dog's
 face.* And in Judah (they worshipped) gods of gold 
 and silver, as God saith by the mouth of the prophet, 
 “The gods of the nations are of gold and silver, the 
-
-
 1 Lit, maker. 
-
 - AC has wepi. The Eth. 
 would more naturally mean 
 “to.” 
-
 * Jer s, 7; Dt 32, 21. 
-
 4 Lit. star-gazers. 
-
 5 These words come in awk- 
 wardly here. In AC the pre- 
 vious clause mentions “idols ” 
 and ‘‘luminaries."’ Perhaps the 
 words belong to the end of the 
 following quotation. 
-
 * Cf. Dt 4, 19. 
-
-
 ‘Ter 10, 2- 
-
 * It is not clear whether the 
 Eth. translator meant this to 
 refer to what follows, or, as in 
 AC, to what precedes. The 
 words following are not found 
 in Ezekiel. 
-
 * The Egyptian god named in 
 AC is Apis. The text here 
 seems to refer rather to Anubis, 
 who was represented with the 
 head of a dog, or rather, of a 
 jackal. 
-
-
 122 THE ETHIOPIC DIDASCALIA 
-
-
 work of the hands of men. They have mouths, and 
 speak not; they have eyes, and see not; they have ears, 
 and hear not; they have noses, and smell not; they have 
@@ -6946,37 +5176,18 @@ falsely transgresseth the law, and honoureth the (false)
 gods as the truth, since God hath made them to err in 
 the blindness of their hearts and in the evil of their 
 doings, that they may do that which is unseemly.
-
 ### Didascalica-CH-29
 . 
-
-
 THAT MEN OUGHT TO KEEP AND OBSERVE THE FEAST-DAYS 
 WITH SPIRITUAL JOY. 
-
-
 {v., 13.] Keep, then, the feast-days, beloved brethren. 
 The first feast is the day of Christ’s Birth, on the 
 twenty-fifth (day) of the ninth month according to the 
 reckoning of the Hebrews, but according to the reckon- 
 ing of the Egyptians on the twenty-ninth (day) of the 
-
-
 © Ps 113, 12ff. “Mt §, 34ff- 
-
-
-
-
-
 mT 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 123 
-
-
 month Tahsas,' which is the fourth month. And after 
 this celebrate the feast of the Epiphany, on which the 
 Lord manifested the glory of His Godhead in (His) 
@@ -7006,47 +5217,30 @@ money of the poor. And though he did all this, the Lord
 did not thrust him away, for He knew the evil of his 
 heart. And while we were eating with Him, our Lord 
 desired to admonish him; and behold He gave us to 
-
-
 * The name of the fourth possibly a translation of Xan- 
 month in Ethionic. thicus. the month which is 
-
-
 ® Ter is the Ethiopic, Tobi the 
 Coptic name of this month. 
-
 ®* There is some confusion 
 here between the two fasts— 
 one for forty davs before Holy 
 Week, the second during Holy 
 Week. 
-
 “Tie. the Sunday before 
 Easter. 
-
 * A word follows in Eth. 
 which means “bright.” It is 
-
-
 named in AC. Dillmanff in his 
 Lex. refers to the clause as 
 “haud satis clarus.’’ 
-
 ‘Te the eighth Ethiopic 
 month. 
-
 ' Lit, added and multiplied 
 counsel. 
-
 ® Lit. fulfilled the counsel. 
-
 * Lit. the offerings of the 
 purse. 
-
-
 124 THE ETHIOPIC DIDASCALIA 
-
-
 understand that he should betray Him. Wherefore He 
 said,’® Verily, verily, I say unto you that one of you 
 shall betray me. And we spake among ourselves, each 
@@ -7085,18 +5279,10 @@ went forth to the Mount of Olives, and we also went
 with Him, praying and singing praises, as we were 
 wont. He withdrew a little from us, and prayed to the 
 Father, saying, O my Father, if it be possible, let this 
-
-
 1© The references to the vari- following passage are omitted. 
 ous N.T. texts alluded to in the 
-
-
 a ee ed 
-
-
 THE ETHIOPIC DIDASCALIA 125 
-
-
 cup pass from me, nevertheless let Thy will and not my 
 will be done. ‘hus He did three times. And our eyes 
 were heavy with sleep because of sorrow; and our 
@@ -7130,22 +5316,15 @@ unseemly to utter. And Pilate, the Roman governor,
 when he heard, believed them not, but said unto them, 
 I have found in this man no fault for which He should 
 die. And then they brought against Him'™* two 
-
-
 11 There is some confusion in the Romans to take away the 
 the text here, but the general — sacrifices. AC has: ‘‘a taker- 
 meaning is clear enough. away of sacrifices, an enemy of 
-
 12 As the Eth. text stands, it the Romans." This has been 
 means: will take away the followed in the text. 
 sacrifices of the Romans; or ’ Cf. Ps at, 13. ; 
 possibly (construing the verb 1 Or, to him (i.e. to Pilate). 
 with two accusatives): cause 
-
-
 126 THE ETHIOPIC DIDASCALIA 
-
-
 witnesses who uttered and spake lies against Christ. 
 And Pilate knew that their witness agreed not. Then 
 they changed their minds,'® and devised a plan by which 
@@ -7182,31 +5361,14 @@ transgressors.” 71 And then there came a darkness
 for three hours, from the sixth hour until the ninth 
 hour: and then the darkness departed, and the light 
 appeared, even as it is written, saying, “It was not 
-
-
 ‘S Lit. they turned. ™ See Add. notes. 
-
-
 ‘ * Ps 34, Wf, AC quotes . Ps 68, 22. 
 s 26, 12. Ps 21, 19. 
 ' Ps ar, 17. *" Isa 53, 12. 
-
-
 " 
-
-
-
-
-
 thee, 
-
-
 wets, SS, 
-
-
 THE ETHIOPIC DIDASCALIA 1297 
-
-
 day, nor night: and in the evening the light 
 appeared.” 7? And at the ninth hour Jesus cried with a 
 loud voice, and said, ‘Elohe, ‘elohe, lama sab&qtani, 
@@ -7241,21 +5403,13 @@ us honour because our Lord rested from all His work
 on the Sabbath day. For our Lord came, but they 
 believed not on Him, and received not His teaching; 
 and therefore they have missed their salvation. 
-
 {v., 15.] But ye are blessed and a holy race, for ye 
 are not as the people of old, but ye have been saved 
-
-
 2 Zech 14, 7. T have left the reading of the 
 39 See Add. notes. MS. in the text on account of 
 34 An obvious emendation is its strangeness. 
-
 to omit the words ‘‘the son of." 8 Lit. salvation. 
-
-
 128 THE ETHIOPIC DIDASCALIA 
-
-
 from ungodliness and idolatry.. And ye are a people of 
 God, and to you have been opened the gates of life, 
 though formerly ye were hateful and despised. But 
@@ -7278,7 +5432,6 @@ to a disobedient people, who neither hear, nor obey;
 but walk in an evil way, that is not good; for” (they 
 are) a people who follow after sin, and provoke me 
 to anger continually.” °° 
-
 {v., 16.] Behold, then, ye have seen that they have 
 transgressed against the Lord, and believed not on 
 Him. Wherefore it is said, “These did provoke the 
@@ -7290,39 +5443,23 @@ the Lord God, who was begotten of the Father™
 before the Creation, the only-begotten Son, the Word 
 of the Father. But they being lacking in faith knew 
 Him not, and understood not the prophecies of the 
-
-
-
-
-
 %* E reads: But now ye are 
 His elect and beloved a holy, 
 etc. 
-
 37 Isa 65, 1. , 
-
 3° Eth. “my name,’”’ which is 
 unintelligible. The whole 
 phrase is a corruption of the 
 latter part of verse just quoted 
-
-
 from Isaiah. For intelligibility 
 either the suffix must be altered 
 as above, or ‘‘I said '’ must be 
 read. 
-
 2° Eth. but. 
-
 ** Isa 65, 2f. 
-
 *! Eth. (A) omits : the Father. 
 The word is found in E. 
-
-
 THE ETINOPIC DIDASCALIA 129 
-
-
 prophets that were written concerning Him, that Christ 
 should be borne of a virgin, though they read and 
 heard what He saith, ‘‘ Behold a virgin shall conceive, 
@@ -7358,19 +5495,13 @@ needs, then, be as new-born babes that have no evil in
 their hearts. Put away sin from you, for He hath 
 redeemed you with His precious blood, that ye should 
 worship the living God. In those days the Lord spake 
-
-
 33 Lit. beginning. The word ** Isa 53, 1. 
 &pxh of the Greek has been ** Isa, 6, of. 
 taken by the translator in a °** Or, bv it. So the clause 
 wrong sense. runs in AC. 
 3 Isa 7, 143.9, Of. 
 K 
-
-
 130 THE ETHIOPIC DIDASCALIA 
-
-
 concerning Israel in the case of °’ those that believed 
 not: ‘The kingdom of heaven shall be taken from 
 them, and given to a nation that doeth righteous- 
@@ -7387,20 +5518,13 @@ stone which the builders rejected].‘° And concerning
 you it is said, “‘A people whom I knew not, hath served 
 me, and at the hearing of the ear have they obeyed 
 me.’? #!
-
 ### Didascalica-CH-30
 . 
-
-
 THAT WE CHRISTIANS OUGHT TO UNDERSTAND TO OBSERVE 
 THE PASCHAL SEASON AND NOT KEEP IT IN ERROR ON 
 ANY OTHER DAYS, BUT IN THE WEEK IN WHICH THE 
 PASSOVER COMES ON THE FOURTEENTH DAY (OF THE 
-
-
 MONTH).! 
-
-
 [v., 17.] Ye, beloved brethren, who have been 
 bought with the precious blood of Christ, ought to 
 keep the feast of the holy Passover with all exactness 
@@ -7410,34 +5534,15 @@ your reckoning sure, for our Lord did not suffer twice
 in one year. Do you also take heed to keep the 
 memorial of His sufferings once only every year. For 
 our sakes He died, and (therefore) consent not to 
-
-
 37 This seems to be the mean- as it stands. 
 ing of the Eth. preposition used. “Ps 17, 44f- 
-
 °° Mt 21, 43. ' See Add. notes. 
-
 2° Lit. sweet. ? A reads: fifteenth. 
-
 “9 Some strange — confusion > Te, the seventh Ethiopic 
 here, but 1 have Ieft the reading = month. 
-
-
 a 
-
-
 = 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 131 
-
-
 keep the feast along with the Jews, for there is no love 
 between us and them. [or they in folly have erred in 
 their reckoning, though they think they are exact. 
@@ -7453,7 +5558,6 @@ Hosanna, that the Passover may not fall twice in one
 year through inaccurate reckoning. But let the holy 
 day of the resurrection of our Lord and Saviour Jesus 
 Christ be celebrated on the holy Christian Sabbath. 
-
 (v., 18.) And further let the fast of the holy Pass- 
 over be from the second day of the week until the first 
 Sabbath,‘ the vigil of the Passover. And in the week 
@@ -7468,7 +5572,6 @@ saith, “The sons of the bridegroom cannot fast so long
 as the bridegroom is with them, but days will come when 
 the bridegroom shall be taken from them; then shall 
 they fast.’ 6 
-
 [v., 19.] For in these six days the Jews took our 
 Lord from us, and crucified Him on the Cross, and 
 reckoned Him with the transgressors. Wherefore we 
@@ -7478,17 +5581,10 @@ days, let them fast on the fourth and sixth days of the
 week until the ninth hour, and whoso wisheth let him 
 fast till the sun set. And keep vigil at night until the 
 cock crow, being: gathered together in the church for 
-
 * That is, Saturday. * Mt 9, 15; Mk 2, 19of; Lk 
-
-
 5, 34f. 
 K 2 
-
-
 132 THE ETHIOPIC DIDASCALIA 
-
-
 praise and prayer, (and) reading the Law, and the 
 prophets, and the psalms of David. And after ye have 
 baptized (the catechumens), read the Gospel with fear 
@@ -7524,30 +5620,13 @@ be thou exalted above mine enemies.” And more-
 over it is said, ‘Render to them their recompense upon 
 their heads.” 1.16 And for this cause offer ye also your 
 sacrifice as the Lord hath commanded you. [For He 
-
-
 * Mt a7, 24f. 2 Ps 81, 8. 
 ' Lit. the King. ™ Ps it, 6. 
 * Lit. save this man alive. Meet Se eke fe 
 * Jn 19, 15. * Or, unto them. LXX 
 1° Ps z, if. reads: aitois. 
-
-
 " Cf. Isa 14, 19. Ps 27, 4. 
-
-
-
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 133 
-
-
 said, “Thus do ye in remembrance of me.” 17 Finish 18 
 the fast, then, with joy and gladness, and keep the feast, 
 for our Lord Jesus Christ hath risen from the dead, and 
@@ -7557,7 +5636,6 @@ again in glory. For the Jews have not believed in the
 resurrection of our Saviour, but we Christians believe 
 in His resurrection, for all who hope in His holy resur- 
 rection shall find life eternal. 
-
 [v., 20.) Keep, then, a feast on the eighth day, for 
 on it the Lord appeared. Thomas said, To me also 
 He appeared, and made me glad, (shewing me) the 
@@ -7574,7 +5652,6 @@ and great power to judge the living and the dead, and
 He shall render to everyone according to his works. 
 And behold the Jews who crucified Him shall see the 
 beloved Son of God. 
-
 For even until now the Jews are gathered together 
 on the tenth (day) of the ninth month, reading the 
 Lamentations of Jeremiah the prophet (where it is said) 
@@ -7585,26 +5662,16 @@ is none other that is like unto him. He found every
 way of life, and gave it to Jacob his servant and to 
 Israel his beloved. And after this he walked upon the 
 earth.” %8 And as they read this, they weep and mourn. 
-
-
 Lk 22, 19. to read the nominative with E, 
 ‘ Lit. fast. A slight altera- as in AC. 
-
 tion of the text would give: ** The Eth. answers to the 
-
 “fulfil the fast.’ Greek words oixovoulay xa) té Ev. 
 '* The words are in the accu- 7" La 4, 20, 
-
 sative in A. It seems necessary » Bar 3, 36ff. 
-
-
 134 THE ETHIOPIC DIDASCALIA 
-
-
 And thus they do, making it seem a mourning for the 
 desolation which Nebuchadnezzar wrought, and pretend- 
 ing it is the truth.8 
-
 And ten days after He ascended (was) the fulfilment 
 of Pentecost, for on that day at the third hour Jesus 
 Christ sent unto us the Paraclete, and filled us with 
@@ -7638,24 +5705,12 @@ righteousness, and uprightness, and meekness, and the
 glory of thy right hand shall lead thee. Thy arrows 
 are sharp, O mighty one—the peoples shall fall under 
 thee—in the heart of the king’s enemies. Thy throne, 
-
-
 23 ‘The translation of this last have mistaken the Greek which 
 dlause is doubtful. in AC is: He (Samuel) named 
-
 7" Cf. Gn 19, 24. the kings and priests, the 
-
 27 (in 32, 30. anointed. 
-
 2° The translator seems {0 
-
-
-
-
-
 THE ETINOPIC DIDASCALIA 135 
-
-
 O Lord, is for ever and ever, a sceptre of righteousness 
 is the sceptre of thy Kingdom. Thou hast loved 
 righteousness and hated iniquity; therefore the Lord 
@@ -7664,11 +5719,7 @@ above thy fellows.” 77 And concerning Him Solomon
 saith, ‘“‘The Lord created me in the beginning of his 
 way for his works, before the world be founded me, in 
 the beginning before he made the earth, and before he 
-
-
 -made the abysses, and before the fountains of water 
-
-
 issued forth, and before he set in order the mountains; 
 before all the hills he begat me.”?8 And moreover 
 Isaiah the prophet saith, “A rod shall come forth from 
@@ -7683,7 +5734,6 @@ ass, and on the foal of an ass.” *! And moreover,
 Daniel saith, ‘‘The Son of man came to the ancient of 
 days. He then is the stone (that) came down from the 
 mountain, (cut out) without hands."; 3? 
-
 We also declare (and) proclaim unto you that He is 
 the Word of God that was before the world, and more- 
 over is equal with Him in everything. Believe in Him 
@@ -7691,7 +5741,6 @@ that ye may find life eternal; but if ye believe not in
 Him, ye shall find condemnation. He who believeth 
 not on the Son shall not see life eternal, and the wrath 
 of God abideth on him. 
-
 And after the feast of Pentecost keep a feast for seven 
 days, and then fast; for we ought to rejoice and be 
 glad because He hath granted us that we should receive 
@@ -7699,16 +5748,10 @@ the gift of the Holy Spirit. Moses and Elijah fasted
 for forty days. And Daniel also fasted for three weeks, 
 and ate no pleasant food, nor did flesh and wine enter 
 into his mouth. And the blessed Hannah, when she 
-
-
 TPs a4, uff. ” Prov. y, 1. 
 ™ Prov 8, 22ff. Zech 9, 9. 
 2 Isaort, 1 to. 2 Dn 7, 13: 2, 34. 
-
-
 136 THE ETHIOPIC DIDASCALIA 
-
-
 made supplication to God to grant her a son [Samuel], 
 said, “I have not drunk wine to be drunken, but my 
 heart was strong in the Lord.” °° And the men of 
@@ -7717,11 +5760,7 @@ and Mordecai, and Judith were saved by fasting from
 the wicked Holofernes ¢ and from Hamant.*4 And 
 David also saith, ‘My knees are weak through fasting, 
 and my flesh is dried for want of oil.” ** Do ye also 
-
-
 fast and ask of Him pardon of sin. And fast besides. 
-
-
 on the fourth and sixth days of the week, giving alms 
 to the poor; and honour the Sabbath being gathered 
 together in the church with joy and gladness; and on 
@@ -7731,51 +5770,33 @@ fasteth on the Christian Sabbath which is (the day of)
 His holy resurrection, or at Pentecost, (that is) until 
 the feast of Pentecost **—they who do thus, and mourn 
 on the feasts of the Lord, have no remission of sin. 
-
-
 ne ye keep on them a spiritual feast, and never appear 
 sad.
-
 ### Didascalica-CH-32
 . 
-
-
 HOW SATAN INTRODUCED DIVISIONS AND ENMITIES INTO 
 THE CHURCH EVEN AS HE DID OF OLD IN THE CASE 
 OF THE PEOPLE OF ISRAEL. 
-
-
 Bruotp, then, see and understand the craft and deeds 
 of Satan, the enemy of all good, how he caused 
 divisions and unbelief and ungodliness in the midst of 
 the people. 
-
 [vi., 7.) The first division which he caused was 
 with Simon in the city called + Gitthae t* Now this 
 man was a sorcerer, and by his own impure craft, he 
 clothed himself with Satan as with a garment, and 
 served him as a slave, performing all the evil of his will. 
-
-
 2* In AC these words refer 
 to the Essenes only, a sect not 
 mentioned by the translator. 
-
 ' So the word is found in AC. 
 The Etn. has: Goton. 
-
-
 2° The word evidently refers 
 to some practice like the 
 Barriopol of Mk 7, 4. 
-
 21 The Eth. is obviously a 
 corruption of this. 
-
-
 142 THE ETHIOPIC DIDASCALIA 
-
-
 And Philip the Apostle our brother wrought mighty 
 works and great signs, and healed the sick in the city 
 of Samaria by the grace of the Lord and the doctrine 
@@ -7812,23 +5833,16 @@ thee unto perdition. Dost thou think that with gold
 thou mayest purchase the gift of God? For thy heart 
 is not right before God. Turn from the evil of thy 
 deeds, and pray to God that He pardon the sin on 
-
-
 > Some change is necessary in the translation above given. 
 the text. either in the order of The text as it stands runs: 
 words, ‘when we saw this evil ‘‘When-we-saw, I Peter, this 
 deed, I Peter, etc.,’’ or, as in evil deed.” 
-
-
 THE ETHIOPIC DIDASCALIA, 143 
-
-
 which thy heart hath thought, for I see that thou art 
 as bitter gall in doing evil. ‘Then Simon feared exceed- 
 ingly, and said unto us, Pray ye for me to the Lord 
 that there come on me nothing of all this that ye have 
 said unto me. 
-
 {[vi., 8.) Then we went forth to preach in all the 
 world the word of life, but Satan sent after us false 
 apostles, and he raised up also those that caused the 
@@ -7851,37 +5865,26 @@ is not from God; and others who despise and abhor the
 union of the sexes; and others who commit fornication 
 without shame; and others who deny (?) the law and 
 their teacher is + Nicolas.t * : 
-
 [vi., 9.} Moreover (it was) I, Peter, to whom Simon 
 came in Caesarea, the city of ® Cornelius, the faith- 
 ful in Jesus Christ. But Simon took counsel to seduce 
 the blessed and holy children, Zacchaus, who was once 
 a publican, and Barnabas, and Nicetas, and Aquila, the 
 brother of Clement, who was ordained bishop in the 
-
-
 > From this, the reading of del cuvévras davrois of AC. 
-
 AC, the Eth. is very far re- * AC has: Nicolaitans; so it 
-
 moved. would seem that the strange 
 ‘ Eth. them. form now found in the Eth. re- 
 © Eth has what is evidently presents Nicolas. . 
-
 a corrupt form of this name. * The word found in A is 
 * T.e, acons. meaningless. The reading in 
 ' This seems to represent the text is found in E. 
-
-
 144 THE ETHIOPIC DIDASCALIA 
-
-
 city of Rome, (and) who was the disciple of Paul the 
 righteous in the doctrine of the holy Gospel. And | 
 spake unto him before them thrice by the word of 
 frophecy, and overcame ¢ him t¢ '° by the power of the 
 Lord. Then he fled away, and went into Italy. 
-
 And when he came to the city of Rome, he disturbed 
 the Church, and destroyed the faith of many, and 
 perverted the Gentiles, and turned them to himself; and 
@@ -7903,11 +5906,7 @@ kim as a potter’s vessel.’ Then I turned to Simon,
 and said unto him, If thou art a man of God and an 
 apostle of Jesus Christ, and teachest His command- 
 ments and His truth, come not down; but if thou art 
-
-
 a seducer and a destroyer, O Simon—I command you. 
-
-
 demons ™ that bear up Simon the Sorcerer, be ye far 
 from him, and forsake him that he may fall down, and 
 be made a mockery before those whom he hath seduced. 
@@ -7915,37 +5914,20 @@ And when I had spoken thus, the unclean spirits fled
 away and forsook Simon. Then he fell to the earth, 
 and was bruised with a great [amazement] ; '® and his 
 limbs were broken. Then all the people cried out with 
-
-
 ’ Eth.: them. man of God, ete. 
-
 " The strange touch of this 'S This hardly seems right. 
 last clause is not found in AC. The Eth. word means ‘‘amaze- 
-
 12-The end of this sentence ment.’’ or ‘‘fright.’’ | The 
-
-
 in Eth. runs awkwardly. In parallel sentence in AC has 
-
-
 AC the beginning is: If I be a 
-
-
 “with a great noise.” 
-
-
 ——. 
-
-
 THE ETHIOPIC: DIDASCALIA 145 
-
-
 a loud voice, and said, There is one Lord, the God of 
 Peter, whom he hath preached to us in truth, And 
 forthwith the people forsook Simon, and from that day 
 the ungodliness and divisions amongst the Simonians 
 were increased. 
-
 Then Satan entered into the hearts of the false 
 prophets who led men astray, [vi., 10] and caused them 
 1o utter words of blasphemy against God Almighty, 
@@ -7976,43 +5958,23 @@ men may eat of whatsoever was clean under the law.
 And there are some who practise circumcision, and 
 believe that Christ was (but) a holy man, or as: one 
 of the prophets. And there are some who without 
-
 The reading of A is mean- representation of the Greek 
 ingless. E reads as ahove.  abroyévebdov. 
-
-
 This answers to the reading of '§ ‘The words in brackets give 
 AC. an exactly opposite turn to the 
-
-
-
-
-
 'S This in Ethiopic guise docs 
 not seem unorthodox. It is a 
-
-
 corresponding: words of AC. 
-
-
 L 
-
-
 146 THE ETHIOPIC DIDASCALIA 
-
 shame openly teach lust, and do the pleasure of the 
 flesh, and are completely given over to every deed of 
 uncleanness. Now these are as instruments (whom) 
 the devil hath led captive,'’ and children of wrath.
-
 ### Didascalica-CH-33
 . 
-
-
 OF THE RIGHT FAITH AND THE HOLY TRINITY WHICH THE 
 APOSTLES PREACHED TO US IN TRUTH. 
-
-
 [vi., 11.] But we, (being) children of God and sons 
 of peace, preach this holy word to those who are 
 obedient in uprightness. We belicve in One God, the 
@@ -8038,20 +6000,11 @@ suffered and diced without sin in the flesh, and rose from
 the dead on the third day, and ascended into heaven 
 to the Father, who had sent Him, and sat down on the 
 right hand of power; and He sent to us the Paraclete, 
-
-
  E. reads here: the habita- ‘ Or, to it (i.e., to the light). 
 tion of the devil. This may be It is thus in AC. 
 right, as it avoids the necessity * Lit. was reared. 
 of supplying a relative pronoun 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 147 
-
-
 the Holy Spirit, who proceedeth § from the Father, and 
 hath saved the world; who is co-existent with the 
 Father and the Son. We say then that every creature 
@@ -8077,7 +6030,6 @@ who fulfilled the Law and the prophets, for whose
 coming all the nations hoped, Jesus Christ who sprang 
 from Judah and from the root of Jesse, and whose 
 government 4 is on His shoulder. 
-
 {vi., 12.] For in those days ungodliness grew 
 strong, and led many astray, whereby the Church was 
 disturbed. Then we gathered together in Jerusalem, 
@@ -8087,22 +6039,14 @@ his office let another take ";5 and we were assembled
 together with James our Lord’s brother, the bishop of 
 Jerusalem, and we took counsel with the presbyters to 
 speak to the people words of admonition. For® there 
-
-
 * Or, hath come forth. The translation was ‘‘beginning.”’ 
 verb is in the perfect tense. * Ps 108, 8. 
-
 “Here the Eth. gives the * In the passage which fol- 
 correct translation ‘‘govern- lows [ have not given the re- 
 ment.’’ Above [v., 16] in the ferences to the chapters of the 
 same passage from Isaiah the Acts of the Apostles. 
-
 L@2 
-
-
 148 THE ETHIOPIC DIDASCALIA 
-
-
 were some who set forth from Judwa, and went to 
 Antioch to teach the brethren who were in that place, 
 saying, Unless ye be circumcised according to the law 
@@ -8143,17 +6087,8 @@ Then I thought in my heart, and believed what the
 Scripture saith, ‘‘ Whosoever shall call on the name of 
 the Lord shall be saved";7 and again it is said, “Let 
 7 Joel 2, 32. 
-
-
 7 
-
-
-
-
-
 THE ETHIOPIC: DIDASCALIA 149 
-
-
 all the ends of the carth remember and turn unto the 
 Lord, and let all the lands of the nations worship 
 before him; for the kingdom is the Lord’s, and he 
@@ -8190,19 +6125,11 @@ from) fornication, (and from) what is not commanded
 in the law, and is not written in the book of the fathers, 
 Enosh, Enoch and Noah and Melchizedek and Job and 
 others such as thev. Then the apostles, and James, 
-
-
 * Ps at, 28f. '! The same word is used in 
 ° Eth. he. some MSS. of the Eth. version 
 Amo, ttf. of Lev 22, 8, where the English 
-
-
 Bible translates as in the text. 
-
-
 150 THE ETHIOPIC DIDASCALIA 
-
-
 the bishop of Jerusalem, and the presbyters of the 
 Church agreed, and chose from amongst us men whom 
 they should send with Barnabas and Paul the tem- 
@@ -8225,11 +6152,9 @@ dieth of itself, and from blood, and from fornication;
 and that what they hate for themselves they should not 
 do to their neighbours. Take heed to these things 
 and peace be to you. 
-
 (vi., 13.] This letter we sent, (but) we laboured in 
 Jerusalem for many days, desiring to do what was 
 good for us and you (? ).35 
-
 And after a few days we visited the brethren and 
 confirmed ‘them with the word of admonition, and com- 
 manded them to keep far from those who blasphemed 
@@ -8237,8 +6162,6 @@ against the name of the Lord and against Moses. For
 these are ravening (wolves), and make themselves like 
 unto sheep, and strive against the Lord and Moses 
 and the prophets, (being) false Christs and false 
-
-
 '™ The AC has: of Tarsus. not found in AC occurs in the 
 The Eth. has the word used Eth. version of Acts 15, 29. 
 above (ii., 63) for “tent- '§ So the MS. reads. Pos- 
@@ -8246,22 +6169,10 @@ maker.’’ It also translates sibly ‘‘them’’ should be read.
 “tanner ’’ in Act 9, 43. Pos- ‘You ’’ may have been written 
 siblv here there was a confusion from an idea that the words 
 between rapoéa and Aupaéa. form part of the preceding 
-
 13 Eth. Barnabas. epistle. 
-
 1 This last clause, which is 
-
-
-
-
-
-
-
-
 f 
 THE ETHIOPIC DIDASCALIA 151 
-
-
 prophets and lying apostles who destroy the natjons, 
 and bow down themsclves to the earth, and think all 
 (manner of) evil, and spoil the holy vineyard. And 
@@ -8294,28 +6205,16 @@ parents, and abstain from all that contendeth against
 the law; and believe in the resurrection arid the day 
 af judgment; and wait in hope for that time. when 
 He shall render to every man according to his works. 
-
-
 ‘© The Eth. has a word, one N.T. begin with Kaf. 
 of whose meanings is “depart.” '* Eth. has the colourless 
 Possibly puyhoeras was confused word ‘‘good.”” As AC _ has 
 with some part of pevyu. ““chosen vessel,”’ I have read as 
-
-
 "Mt 7. 1sf. above. The words for “good ’* 
 17 have written Cananean and ‘‘chosen "’ are similar. © 
 rather than Canaanite, as the 7° In Eth, the same word as 
-
-
 first letter of the word is Qaf. that translated ‘‘letter ’’ above. 
-
-
 -Canaan and Canaanite in Eth. 
-
-
 152 THE -ETHIOPIC DIDASCALIA 
-
-
 lor the whole creation is from God, and not from 
 Satan; but all evil is from Satan. And in lawful 
 marriage there is no defilement nor loss, but rather it 
@@ -8336,17 +6235,12 @@ the law. Cut off the adulteress from thy flesh, for she
 is not thine. Defile ye not then your flesh, for circum- 
 cision of the heart in a pure spirit is sufficient for the 
 faithful. 
-
 ([vi., 15.] Make no repetition of baptism: the first 
 baptism which you have received sufficeth for you, for 
 ye were buried into the death of Christ; (a baptism) 
 which hath not been given to the ungodly and unbeliev- 
 ing, but to holy priests who have bestowed it upon you 
-
-
 into the name of the Father and of the Son and of the. 
-
-
 Holy Spirit. Receive not baptism at the hands of 
 apostates from the faith. For there is one baptism, 
 and one God, the Father, and our Lord and Saviour 
@@ -8356,32 +6250,14 @@ let your baptism which ye have received into His death
 be one. And he that believeth not, and doeth not thus, 
 his portion shall be with the ungodly in their evil 
 doctrine.26 To those who do thus, God saith, “ Because 
-
 2 Cf. Mt 19, af. 2 Mtg, 6. 
-
 22: Cf. Mal 2, 14f. The 24 Lit, making two fleshes. 
 quotation in AC and Eth. is in- 25 This word should perhaps 
 teresting as reading ovx &AdAos ro with the following clause. 
 and not ob «adds. Cf. Swete, 4° Lit, doctrine of evil. 
-
 O.T. in Greek (in loco). 
-
-
-
-
-
 4 
-
-
-
-
-
-
-
-
 THE EYVHLOPIC DIDASCALIA 153 
-
-
 ye have rejected my doctrine, | also will reject you and 
 forsake you, and not make you priests unto me. - 
 And those who are baptized by ¢ them ** are not 
@@ -8418,18 +6294,12 @@ and t Cleobius +, and those with them in every place,
 who lead men astray. [Ye also are they that have 
 7 los 4, 6. 2 The same word as 
 2 Eth. by you. The words “babes * above. 
-
-
 seem to have been taken as part ce Mt 19, 14 
 receding quotation. wit, make. 
 7 ee. si 33 Lit. regard the beauty of 
 © Mk 16, 16. their derds. 
 2! Lit. counteth unclean. 3¢ Restored from AC. 
-
-
 154 THE ETHIOPIC DIDASCALIA 
-
-
 loved Christ (and) we are His servants.] 87 And others 
 also of the ancients have written apocryphal 8° books 
 of Moses, and Enoch, and Adam, and Seth, and 
@@ -8442,7 +6312,6 @@ From those who do thus keep far away, lest ye be
 condemned with those that have written to lead astray 
 the faithful—who are blameless, the disciples of our 
 Lord Jesus Christ. 
-
 [vi., 17-] We said, then, concerning bishops and 
 presbyters that they should live with one wife before 
 ordination, but that after ordination it is net right that 
@@ -8458,48 +6327,32 @@ a widow, even as it is written in the law. Moreover
 let the deaconess be a pure virgin, or a faithful widow 
 who hath been married to one man. (Such) women 
 ought to be appointed. 
-
 (vi., 18.] Those women ® also who turn from sin, 
 receive. This is the will of God in Jesus Christ. And 
 as touching the catechumens when they understand the 
 teaching, baptize them into the name to the Father, 
-
-
 31 These words come in awk- 
 wardly here. In AC the former 
 sentence runs on: to deceive 
 you who love Christ and us His 
 servants, 
-
 ** The Eth. word (meaning : 
 hard, difficult, strange, etc.) is 
 probably intended as a_trans- 
 lation of “apocryphal.”” 
-
 »” Seth is not mentioned here 
-
-
 in AC, 
-
 “© In AC the clause char- 
 acterises the books as ‘‘per- 
 nicious and repugnant to the 
 truth.” 
-
 “' Lit. even as vanity. 
-
 “2 The verb “turn” and the 
 suffix of the following verb are 
 fem. in Eth. AC has) rots 
 MeTavooyrras, 
-
-
 ae ee le | 
-
-
 THE EVHIOPIC) DIDASCALIA 155 
-
-
 and of the Son, and of the Holy Spirit; and command 
 the faithful to separate themselves from those that serve 
 not God, (and not to have fellowship with them) in any- 
@@ -8536,24 +6389,14 @@ been a help to a sinner; wilt thou then save him whom
 the Lord hath hated?’ “8 Wherefore there came on 
 him speedily the anger of the Lord; because his heart 
 was not right with Him, his works were diminished in 
-
-
 “| Ps 138, 21f. 
 “7 See Add. notes. 
 “2 Chr 19, 2. 
-
-
 “3 Cf. Prov 14, 12. 
-
 “4 Lit, chosen for themselves 
 blasphemy. 
-
 “ See Cant 2, 15. 
-
-
 156 THE ETHIOPIC DIDASCALIA 
-
-
 the earth. Keep, then, far from them, and recei 
 ‘their salutation.” Concerning them saith dee 
 The wicked have no rejoicing before God.” © These 
@@ -8592,24 +6435,11 @@ gave them a memorial by Malachi the prophet, who
 saith, “ Remember the law of Moses the man of God 
 who enjoined on you these commandments of righteous- 
 ness and holiness.” 5? But our Lord Jesus Christ did 
-
-
 «* Lit, peace. " Cf. Mt 
 "© Isa 57, 21. aS cf Mal 4: 6 
-
-
 aera 
-
-
 a cats ee “ee 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 157 ‘ 
-
-
 not abolish the ordinances of the Law, nor diminish 
 (them), but rather said, “ One word shall not pass from 
 the Law, till all this be fullilled.” | Again, He saith, 
@@ -8620,7 +6450,6 @@ appeared with our Lord when He was transfigured
 before them, bare testimony concerning His passion 
 and His death and His incarnation as friends, and men 
 of His household, and not as strangers. 
-
 [vi., 20.] ‘he Lord gave the ordinance, the ten 
 words which are in the Law and the holy prophets, and 
 they heard His voice continuously, before they made 
@@ -8646,20 +6475,12 @@ is ¢ therein.” In days of old t the people forgat
 God, and made for themselves a calf as a god instead 
 of the true God. And when they came out of Egypt it 
 is said, “Is this thy god, O Israel, that brought thee 
-
-
 53 Mts, 17-18. 5* If this emendation be right, 
-
 ™ Restored from AC. a letter must be added to get 
-
 58 Or perhaps: of earth. So the word translated “therein.” 
 in AC. The reference is to Fx The Eth. punctuates with a stop 
 20, 24- at “mine.” 
-
-
 158 THE ETHIOPIC DIDASCALIA 
-
-
 forth from the land of Egypt?” ° They worshi 
 calf in (their) fae salibess and Veins Gol ne tea 
 ree Moses, and brought them out of sore afiliction. 
@@ -8696,34 +6517,15 @@ be bound with the bonds of the commandment. Take
 heed then and fall not into the error of (having) many 
 gods, lest there come upon you the word which saith 
 “Where is thy God, O Israel?”*' And remember 
-
-
 51 Cf. Ex 32, 4. 
-
 58 Ex 32, 1. 
-
 8° Lit, fell. 
-
 *© The sense seems to require 
-
-
 the omission of this word, un- 
-
 less the verb be taken as in the 
-
 subjunctive: Be not ye bound. 
 5! Cf. Ex 32, 4. 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 15y 
-
-
 what is written, saying, “lear, O Isracl, the Lord thy 
 God is One.” And abide ye in this ordinance, and 
 know that there is no other god besides Him in heaven 
@@ -8732,7 +6534,6 @@ thy strength, and with all thy mind; and fear Him
 alone, and set not in thy heart the name of strange 
 gods, nor make mention of them with thy mouth, for 
 because of the guile of their hearts God bound them. 
-
 [vi., 21.] But as for you, since ye have known the 
 One God with a pure heart, and a good understanding, 
 and have heard the voice of the Saviour, blessed are 
@@ -8745,7 +6546,6 @@ friends. Behold I have taught you all that I have
 heard from my Father.” But as for those who desire 
 not to see nor to hear, their heart hath been hardened, 
 and they are far from Him. 
-
 (vi., 22.) But blessed are ye from whom God hath 
 taken away His curse. lor Christ the Son of God came, 
 (and) established and fulfilled the law; and He removed 
@@ -8762,19 +6562,11 @@ over it is said, “ Wherefore bring ye to me incense
 from Saba, and cinnamon from a far country? I have 
 no pleasure in your sacrifices, and will not receive your 
 incense.” 6 And again Isaiah saith, ‘ Wherefore offer 
-
-
 " Dt 6, 4. simply: let him come. What 
-
 Jn 15, 15. meaning the Eth. translator had 
-
 “Cf. Mt 16, 24. The second — in view is far from clear. 
 clause of the quotation in AC is ** Jer 6, 20. . 
-
-
 160 THE ETHIOPIC DIDASCALIA 
-
-
 ye to me your sacrifices; I am sated with the sacrifices 
 of rams and oxen and with the fat of sheep. I desire 
 not the blood of oxen and goats. If ye bring (them), 
@@ -8808,30 +6600,17 @@ is unclean. But He desireth above all a meek heart
 and a humble spirit which are better than sacrifice. 
 Behold, then, He came to bring to an end the sacrifices 
 of blood which they offered. 
-
 [vi., 23-] Tor He said in the Law, “The Lord thy 
 God is One”;7 again He said in the Gospel, ‘This 
 is life eternal that they should know the One true 
-
-
 Isa i, inf. 
-
 "7 Cf. Am §, 23. The trans- 
 lation in the Eth. text evidently 
 confuses épydvev with dpyav. 
-
-
 1S 15, 22. 
 * Ps qo, off. 
 ™ Dt 6, 4. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 161 
-
-
 God." 7 Moreover He said, ‘Love thy neighbour as 
 thyself”; 72 (and) repeated (it in the Gospel) and said, 
 “T have given you a commandment that ye love one 
@@ -8865,37 +6644,26 @@ And David also saith, “ But the law of the Lord is his
 delight, and in his law he will meditate day and 
 night.” 78 And everywhere He hath commanded that 
 they should do that which (is written) in the law, and 
-
-
 "1 Jn 17, 3- sense of the omitted clause. 
 7 Lev 19, 18. ™%® Lit. in evil, 
 "Jn a 34. ™ The Eth. has here a word 
-
-
 ™ There is a corruption in the 
 text of this passage, and some 
 words must have dropped out. 
 The words given above in 
 brackets would naturally be the 
-
-
 meaning “to the (or, his) priest- 
 hood,’’ but I cannot understand 
 how it is to be taken. 
 Cf, Dt 6, 7. 
 ™ Ps 1, 2. 
 M 
-
-
 162 THE ETHIOPIC DIDASCALIA 
-
-
 not transgress the ordinance. And again it is said, 
 “Blessed are they that are pure in their way, and that 
 walk in his ways, and seek him with all their heart.” 7 
 Moreover it is said in the Gospel, “ Blessed are ye, if 
 ye do this.” 8 
-
 (vi., 24.] For on account of this is the law manifest 
 in righteousness, and illumineth all the world, (even) 
 those who believe in our Lord, and have forsaken the 
@@ -8914,7 +6682,6 @@ therefore are they accursed because they have not been
 able to do His commandment. Moreover it is said, 
 “Cursed is he that doeth not all the commandments 
 which are written in the book of the law.” & 
-
 {[vi., 25.] But we follow ® the way of Christ, that 
 we may receive a blessing: and let us receive the law, 
 and the prophets, and the holy Gospel; and turn aside 
@@ -8924,26 +6691,15 @@ slew the prophets. These are the unbelieving Jews.
 And let us be humble and firm in faith in Christ the 
 King who hath authority over all things, and is the 
 teacher of the law, and the guardian of the ordinances. 
-
 ([vi., 26.] Keep far, then, bishops and priests and 
 people, from (those that cause) division (even) from 
 those that account unclean the Law and the prophets, 
 being the enemies of God Almighty; and who believe 
-
-
 = Hs 118, 1f. Bs sg Jn ey 50. 
-
 n 13, 17. t 27, 26. 
 Jn 19, 5. *® Or (by a change of vowel) : 
 23 Jn ot, 48. Iet us follow. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 163 
-
-
 not ® in Christ the Son of God, and separate (?)* 
 His birth in the flesh, and blaspheme against His suffer- 
 ings in the flesh, and revile His cross, and mock at 
@@ -8977,41 +6733,28 @@ Holy Spirit abide upon me, while | am unclean? and
 E. The whole of the following thing that is clear shows that 
 passage is obscure in Eth., and the translator misunderstood his 
 the translation is tentative. text, if it was anything like 
-
-
 *™ | do not see the meaning 
 intended. AC has “deny,” a 
 meaning foreign to the Eth. 
 word, which means ‘‘separate "’ 
 or ‘‘discern.”’ 
-
 “© Tit, unclean. This sen- 
 tence is without the interroga- 
 tive suffix, but it seems neces- 
 sary to take it as a question. 
-
 ** The first part of this sec- 
-
-
 what we find now in AC. 
-
 °° The phrase “void of the 
 Holy Spirit’? occurs in AC. 
 This seems to represent it, but 
 how the meaning is extracted 
 from the Eth. I fail to see. 
-
 "\ Cf. Prov 6, 22. The quota- 
 tion is hardly recognisable, 
 showings how deep-seated is the 
 corruption of the passage. 
-
 M 2 
-
-
 164 THE ETHIOPIC DIDASCALIA 
-
-
 if (her) faith grow weak, and she be without good 
 works, the Holy Spirit will not abide upon her. For 
 this matter is not a transgression of the law, but 
@@ -9039,7 +6782,6 @@ of God, who created all things, and to follow His law,
 (and) not work the pleasure of the flesh, except only in 
 lawful wedlock. Beware then of the counsel of evil 
 men, and of union with them. 
-
 [vi., 28.] Wherefore separate yourselves, beloved 
 brethren, from all the heathen who practise evil, and 
 keep far from them; and count not as an abomination 
@@ -9052,17 +6794,9 @@ unto them, “Increase and multiply, and fill the
 earth.” ¥ Behold we understand that from God are all 
 these things; without Him was not anything. Howbeit 
 the men of Sodom ‘sinned; they perverted nature and 
-
-
 2 Gn a, 28. 
-
-
 ee | 
-
-
 THE ETHIOPIC DIDASCALIA 165 
-
-
 wrought abomination; % and in like manner (sin) those 
 who practise bestiality, which is unclean and is a trans- 
 gression of the law. They that do such things shall 
@@ -9088,7 +6822,6 @@ house, and thy children also as young olive plants at
 thy table. Lo, thus shall the man be blessed that 
 fearcth the Lord.” ® For a man that is a lover of God 
 ought not to be subject to lust.1° 
-
 {vi., 29.] And let the women also be obedient to 
 their own husbands in love and fear, even as the blessed 
 Sarah was obedient to her husband Abraham, and said 
@@ -9096,8 +6829,6 @@ to him, My lord. She did not name his name, but said
 of him, My lord is old. And in like manner, ye men, 
 love your wives, for they are your members and sharers 
 with vou in the begetting of children. It is said, “ Love 
-
-
 °2 The Eth. word is not given 
 in the Lex. It is very similar *' Dt 23, 18. 
 to the name of Gomorrah, and * The quotation kere in AC 
@@ -9107,14 +6838,8 @@ and render: and (so) did) the 100 So the sentence runs in EF.
 men of Gomorrah. A omits “not and “God,"’ and 
 * Rom 1, 27. is unintelligible. 
 ** Lev 20, 13, 15- 
-
-
 °¢ Tev 20, 10 
-
-
 166 THE ETHIOPIC DIDASCALIA 
-
-
 the wife of thy youth, as the hart loveth the fountains 
 of waters; for she is thine and is with thee at all 
 times, and is a member of thine.” 1 For it is said, 
@@ -9128,24 +6853,17 @@ a harlot, and, when he riseth, wash himself in the sea,
 and in all the waters of the rivers, he shall not be able 
 to cleanse himself; but his portion shall be rather in 
 eternal condemnation. 
-
 [vi., 30.] Take no heed then of laws relating tothe 
 flesh, for lawful marriage is not unclean; nor seek 
 after the way ! of the Jews, nor use at all times (such 
 ceremonial) washings, nor practise their customary 
 purifications.
-
 ### Didascalica-CH-34
 . 
-
-
 THAT MEN OUGHT TO PRAY AND MAKE SUPPLICATION AND 
-
 . GIVE PRAISE AND SING OVER THOSE THAT HAVE 
 ENTERED INTO REST; AND TO GIVE ALMS ON THEIR 
 BEHALF. 
-
-
 GaTuER yourselves together diligently in the church, 
 and read the holy Scriptures over those righteous 
 Christians who have fallen asleep, and your brethren 
@@ -9155,22 +6873,12 @@ offer in the church His holy Body and precious Blood.
 And when ye bring (them) to the church and to the 
 tomb sing psalms over them, for (it is said,) “precious 
 in the sight of the Lord is the death of the righteous.” ® 
-
-
 11 Cf. Prov 5, 18f. 1 Lit. the thanksgiving of the 
-
 42 Cf. Mal 2, 15. oblation. Either word can be 
-
 '9°So E. A is unintelligible. used separately of the cucharist. 
 * Ps 11s, 6 (116, 15). 
-
-
 Nae sa 
-
-
 THE ETHIOPIC DIDASCALIA 167 
-
-
 (And again,) Return unto thy rest, O my soul, for the 
 Lord is thy help.” 3) And again it is said, ‘The remem- 
 brance of the righteous man is with praise”; and 
@@ -9206,20 +6914,12 @@ dead, and shall come again with glory and with great
 power; (and) shall raise the dead, and render to every 
 man according to his works; and He ascended with 
 great glory to His Father. And after He rose from 
-
-
 2 Ps 114 (116), 7. ™ The words in brackets (the 
 “ Prov 10, 7. last word in the Eth. is to me 
 * Wis 3, 1. unintelligible) are apparently a 
 * Mt 22, 38. gloss. There is nothing to cor- 
-
-
 respond in AC, 
-
-
 168 THE ETHIOPIC DIDASCALIA 
-
-
 the dead, we saw Him, and ate and drank and abode 
 with Him forty days; and then He ascended into 
 heaven, and sat on the right hand of the Father, the 
@@ -9233,12 +6933,9 @@ hand of God’”’;® who created the hosts of: angels; to
 whom be great glory and honour and thanksgiving and 
 dominion with His Father and the Holy Spirit, now 
 and for ever and ever. Amen.
-
 ### Didascalica-CH-35
 . 
 OF TOIL AND THANKSGIVING.! 
-
-
 {vii., 1.] Moses the prophet said plainly unto the 
 people, even unto the people of Israel, ‘And behold 1 
 shew you plainly the way of death, and (the way of) 
@@ -9250,44 +6947,22 @@ is One; seek Him.”® Our Lord Jesus Christ said,
 will obey one, and disobey the other. Ye cannot then 
 serve God and wealth. We have followed our Lord 
 Jesus Christ, who hath mercy on the whole world. 
-
 (vii., 2.] We say then that there are two ways, one 
 of death, and one of life: separate and having no 
 connection one with the other; one which leadeth unto 
 death, and one (which leadeth) unto life. The first is 
 the way of life concerning which the Law hath spoken, 
-
-
 * Ps icg. 1. 
-
 * Acts 7, 56. 
-
 ' See Add, notes. 
-
 2 Cf. Dt 30, 15, 19. 
 * Cf. 1 K 18, 20. 
-
-
 “Mt 6, 24; Lk 16, 13. The 
 word “mammon” is not re- 
-
-
 tained here in Eth. nor in the 
 Eth. N.T. in Mt or Lk. 
-
-
 eae 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 169 
-
-
 and said, “Love the Lord thy God with all thy heart, 
 and with all thy strength and with (all) thy soul, besides 
 whom there is no other god,” © and, “love thy neighbour 
@@ -9323,23 +6998,13 @@ nor separate (what is) thy flesh, nor make two parts
 flesh,” and one spirit; and in form (only) are they 
 separate; and “Thou shalt not steal,” for when Achan 
 the Israelite stole, they stoned him with stones, and he 
-
-
 * Dt 6, 5. "Mt §, 39 
-
 * Lev 19, 18. "Ps 7, § 
-
 yobs 18 (16). - Hy eoP 40. 
 uk 6, 28. Cf. Lk 6, 30. 
-
 "Lk 6, 33. ‘Mt 5, 42. 
-
 ‘© Cf. Dt 23, 7: “Mt 5, 45- 
-
-
 170 THE ETHIOPIC DIDASCALIA 
-
-
 perished ; and in like manner. Gehazi stole and lied and 
 was clad with the leprosy of Naaman the Syrian; and 
 Judas Iscariot also stole the purse of alms (from) which 
@@ -9350,23 +7015,17 @@ he died; ‘Ananias and Sapphira his wife kept back part
 of the price of their possessions, and lied to the Holy 
 Spirit, and died by (the sentence of) our beloved 
 brother Peter the Apostle. 
-
 _ [vii., 3-] Thou shalt not practise magic, nor use 
 divination, nor consult wizards, for it is said, ‘Ye shall 
 not trust in wizards.” And, Thou shalt not kill a child 
 by abortion, for it is the image and spirit of God. And, 
-
-
 “Thou shalt not covet the possessions of thy brother, | 
-
-
 nor his wife, nor his servant, nor his maid, nor his ass, 
 nor his ox.” Moreover, thou shalt never swear falsely, 
 but if thou swearest, swear truly. And again it is said, 
 “Thou shalt not bear false witness,” for “he that 
 speaketh lies against the poor provoketh his creator to 
 anger.” 18 
-
 [vii., 4.] And the way of evildoers leadeth unto 
 death. Thou shalt not be of a double heart, or of a 
 double tongue, for “the snare of a man is the word of 
@@ -9375,7 +7034,6 @@ upon earth.” And let not your words be idle, for
 everyone that speaketh thoughtlessly shall be con- 
 demned. And, Thou shalt not be rapacious, for it is 
 said, “Woe unto them that wrong their neighbours.” # 
-
 [vii., 5.] And ye shall not accept persons, nor be 
 deceitful in heart, nor proud, for ‘God humbleth the 
 proud.” And, Thou shalt not hate any man, nor 
@@ -9383,104 +7041,68 @@ curse thy brother, nor do evil unto him. And abstain
 from all evil, and be not passionate, nor envious, lest 
 that befall thee that befell Cain, and Saul, and Joab. 
 For Cain slew Abel his brother, and God chose Abel 
-
-
 '' Lit. love. A change of '* Cf. Prov 6, 2. 
 one consonant would give the 2° Ps 139, 12. 
 reading : desire. ™" Cf. Hab 2, 9. 
-
 ™ Prov 14, 31. acer tee ae ae 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 171 
-
-
 and accepted his sacrifice; and t Saul persecuted t% 
 David, when he overcame Goliath the Philistine, (and) 
 was envious of him because of the songs which the 
 women sang; and Joab, also slew Abner the Israelite, 
 and Amasa of Judah. 
-
 {vii., 6.) And, Thou shalt not be an augur, for it 
 leadeth to idolatry, and concerning this Samuel saith, 
 “This thing is sin,” and it shall not be thus in Israel, 
 for all these things are rejected in the law. 
-
 (vit., 7-],And, Thou shalt not be a murmurer, for 
 ye have heard what befell those who murmured against 
 Moses. Be meck like Moses and David, for the meék 
 shall inherit the earth. 
-
 [vii., 8.] Be ye therefore merciful, for they shall 
 obtain mercy. Accept every toil that cometh upon thee, 
 like Job and Lazarus, that thou mayest receive a reward 
 from God. 
-
 {[vii., 9.] And honour him that teacheth thee the 
 word of God, and be mindful of him day and night, 
 for where instruction is, there God is. 
-
 (vii., 10.] And reconcile those who are at variance, 
 and judge uprightly, for the judgment is the Lord’s. 
-
 {vii., 11.) And when thou prayest, be not of a 
 double heart. Peter said, He said to me while I] was 
 on the sea, Whercfcre dost thou doubt, and makest for 
 thyself a double heart? 
-
 {vii., 12.) And if thou givest alms to the poor, 
 Doubt not; know thou then who it is that will render 
 the reward; is it not the Lord? Give, then, to everyone 
 that asketh of thee that which he needeth. 
-
 [vii., 14.] And forget not any of the command- 
 ments of the Lord; and confess thy trespass before 
 Him, and sin no more, that thou mayest find (that 
 which is) good before the Lord thy God, for He 
 desireth not the death of a sinner, but that he should 
 turn to repentance. 
-
 [vii., 15.] And honour thy father and thy mother; 
 forsake not thy brethren and thy kinsmen. 
-
 [vii., 16.1 And fear the King, and know that his 
-
-
 72, As the MS. reads: And on Saul who persecuted, etc. 
-
-
 172 THE ETHIOPIC DIDASCALIA 
-
-
 position is from the Lord; and h 
-
 pad ena and honour rulers, for they 
 : vil., 17.) And offer not a sacrifice whilst thou d 
-
 evil, before thou repentest of the evil of thy ane, 
-
 This ae ie oe of death and (the way) of life; and 
-
 may God make you worthy to foll 
-
 Lord Jesus Christ. : pea werah glove’
-
 ### Didascalica-CH-36
 . 
 OF THE CHRISM. 
-
-
 _(vii., 27.] Tou shalt give thanks thus: We gi 
 thanks to Thee, Creator of all things, for the aucue 
 -of this chrism, and for this oil of immortality,’ which 
 ss hast agi to us by Jesus Christ Thy Son. For 
-
 ine is the glory, and i 
 for ever and ani ee cai ca ae 
-
 [vii., 28.] And whosoever cometh to you, and gi 
 thanks thus, receive him as a disciple * Cause a 
 if there be anyone that teacheth contrary to the law 
@@ -9497,31 +7119,16 @@ his doing; and pray not with him, lest ye be defiled
 together with him. And every prophet and teacher that 
 cometh unto you and teacheth truly is worthy of his 
 meat, as a good workman who serveth his lord. 
-
 {vii., 29.] To the priests also give the first-fruits 
 that they may bless your labours; and give all the tithes 
-
-
 a eae 
 Lit. oil that hath no death. Iated ‘‘judge ’? in’ the next 
-
-
 2 Or, judge. The word is a clause. Th 
 different one from that trans- different eR Oe a 
-
-
 ae 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 173 
-
-
 to the widows, and to the orphans, and to travellers,” 
 and to strangers. 
-
 [vii., 30] And on the Sabbath day, which is (the 
 day of) the resurrection of our Lord, gather ye together 
 in one place, and give thanks to God for all the good 
@@ -9532,7 +7139,6 @@ therein, and offer up incense and sacrifice, (for) ‘I,
 saith the Lord, am a great King upholding all the 
 world, and my name is terrible in all the world, and 
 (among) the Gentiles.” * 
-
 [vii., 31.] Appoint for yourselves bishops, pres- 
 byters, and deacons, meek men and humble, who are 
 chosen from the people, pure and tried in every good 
@@ -9551,7 +7157,6 @@ Blessed are those servants whom their Lord, when he
 cometh, shall find so doing. Behold, He will gird 
 Himself, and go about, and serve them. Pray then and 
 work, lest death come upon you suddenly. 
-
 [vii., 32-] And when the glory of the Son of Man 
 shall appear in heaven, and the archangel shall blow 
 the trumpet, and the dead shall be raised, and our Lord 
@@ -9559,24 +7164,15 @@ shall come with His Saints in the clouds of heaven,
 and all the angels of His power with Him, then shall 
 He sit on the throne of His Kingdom, and destroy the 
 devil, the deceiver, and shall render to every man 
-
-
 2 A change of one consonant been lost. The words that fol- 
 would give “poor,’? as in AC. low are a mixture of the next 
-
 “Cf. Maloy, ur. 14, two sentences in AC. 
-
 * Some words have evidently 
-
-
 174 THE ETHIOPIC DIDASCALIA 
-
-
 according to his works; and then shall the sinners go 
 into eternal condemnation, but the righteous into life 
 eternal, and (these) shall rejoice in the Kingdom of 
 heaven through our Lord Jesus Christ. © 
-
 [vii., 33-] Be ye, then, ready that ye may receive His 
 good things. Let us pray and make supplication unto 
 Him, and say, O, our Saviour; Who art before the 
@@ -9609,23 +7205,12 @@ multiply thy seed as the stars of heaven, and as the
 sand of the sea”; ® and Thou gavest Isaac unto him; 
 Thou didst bless him and say unto him, “I will be with 
 thy seed after thee.”® For we have known Christ in 
-
 * Eth. Him. In this prayer * Gn 22, 17. 
-
 the suffixes as well as the verbs * Cf. Gn 26, 3. E reads: 
 are frequently in the third per- with thee and with thy seed, 
-
-
 son instead of the second. etc. 
 7 Or, walked of old, 
-
-
-
-
-
 THE RTHIOPIC DIDASCALIA 175 
-
-
 our father Jacob, whom Thou didst send to the land 
 of Egypt,’® and didst say unto him, “ Behold I will be 
 with thee, and will surely multiply thy seed exceed- 
@@ -9635,7 +7220,6 @@ am from before the world (was), and my name shall be
 for ever”; '? and Thy memorial also is for generations 
 of generations; Who didst bless the seed of Abraham 
 that they might be blessed for ever. ; 
-
 [vii., 34.] }* Thou didst create man that he might 
 be a rational (creature), and Thou didst say in Thy 
 wisdom, ‘Let us make man in our image and in our 
@@ -9646,7 +7230,6 @@ from the garden, and didst bring death on him. Then
 Thou didst send Thy only-begotten Son and didst raise 
 him from his fall, and didst restore him to the garden 
 of delight. 
-
 {vii., 35-] Thou, O Lord, alone are great, and 
 powerful, dnd terrible, merciful and kind, the Almighty 
 who doest wonders, and withdrawest not ‘Thy com- 
@@ -9660,28 +7243,16 @@ supported '* by Thy commandment, and by Thy word
 the earth is established, for Thou, O Lord, art mighty, 
 and the righteousness of Thy judgment hath filled the 
 earth which Thou hast created. 
-
-
 1% AC has: Mesopotamia: This section is very much 
 which suits the following quota- shorter than the corresponding 
 tion better. chapter in AC, 
-
 "Gn 28, 15: 48, 4. * Lit. suspended. 
-
-
 "Cf. Ex 4, 14f. 
-
-
 176 THE ETHIOPIC DIDASCALIA
-
 ### Didascalica-CH-37
 . 
-
-
 OF THE SERVICE OF THE HOSTS OF SPIRITUAL ONES AND 
 THE HOLY CHURCH. 
-
-
 ALL the spiritual hosts of angels are a flame of fire, 
 and the holy cherubim with six wings glorify Thee with 
 a loud voice, and sing with a voice that is never silent, 
@@ -9711,28 +7282,12 @@ Jesus Christ, Thy only-begotten Son. Thou alone art
 Almighty, good, and loving mercy, and beneficent, for 
 Thine is the glory and power for ever and ever. Amen. 
 Thou art in heaven, and Thou art on earth, and Thou 
-
-
 ’ The words look like a gloss. * Isa 6, 3. 
 There is nothing to correspond * Ps 67, 18. 
 in AC. * Or, eucharist. 
-
-
-
-
-
-
-
-
 ee ee 
-
-
 wee ne ee 
-
-
 THE ETHIOPIC DIDASCALIA 177 
-
-
 art in the sea; Who hast gathered together the whole 
 creation from the confines of the earth, and there is no 
 end of Thy greatness. Tor it is not we who have said 
@@ -9762,29 +7317,18 @@ hood ;. Who takest no bribe in judgment, Whose praises
 are innumerable. To Thee is due the honour, and glory, 
 and worship which every rational soul ¢ sendeth up ¢ ' 
 to Thee for ever and ever. Amen. 
-
-
 ° Cf. Dt 4, 39. 
 * Lit. maker. 
-
-
 ' A slight change is necessary 
 to get this reading. 
-
-
 178 THE ETHIOPIC DIDASCALIA
-
 ### Didascalica-CH-38
 . 
-
-
 THAT WE OUGHT TO REST ON THE SABBATH DAYS AND 
 HEARKEN TO THE WORDS OF THE HOLY SCRIPTURES 
 THAT WE°MAY DO HIS WILL, AND REMEMBER THE 
 SUFFERINGS WHICH GOD THE WORD ENDURED FOR 
 OUR SAKES.? 
-
-
 [vii., 36.] O Lorp Acmicuty, who didst create the 
 world by? Jesus Christ our Saviour, and didst appoint 
 the Sabbath, and rest thereon from all Thy work, and 
@@ -9799,7 +7343,6 @@ was God, and endured patiently the sufferings of the
 Cross, died and rose from the dead in great might. 
 Wherefore we keep as a feast the holy day of His 
 resurrection, and honour the first a of ie week, = 
-
 ive glory, and sing praise to Him who conquer 
 death and cave light to the whole world, and hath 
 bestowed on us incorruptible honour and glory, and 
@@ -9812,8 +7355,6 @@ the sea, and from the labour of the brick-kiln, and didst
 bring them forth from the power of Pharaoh and his 
 hosts ; and leddest them through the sea on dry ground, 
 and didst sustain them with all good things in the 
-
-
 . . “ d mm and 
 1 It seems best to take this from D. A omits “Lor 
 last clause as part of the title “by,’’ thereby making the prayer 
@@ -9821,17 +7362,7 @@ of the chapter. It is so punc- addressed to eg does
 i . A has a stop at not agree with the AC. 
 Presi iy . e * Or, matter. The Eth. 
 * | have made the correction word has manifold meanings. 
-
-
-
-
-
-
-
-
 THE ETIHTOPIC DIDASCALIA 179 
-
-
 wilderness, and appoint for them the law of the ten 
 words which Thou didst utter with Thy voice, and didst 
 write with Thy hands, and didst command them to rest 
@@ -9857,7 +7388,6 @@ and the oblation, and the eucharist of Thy holy peace,‘
 this great portion which Thou hast given unto us, that 
 we may offer (?) * that which is good unto the greatness 
 of Thy power. 
-
 (vii., 37.] And Thou hast fulfilled the prophecy, and 
 hast shown mercy unto Zion, and hast had compassion 
 on Jerusalem, and hast exalted the throne of David thy 
@@ -9871,15 +7401,9 @@ respect and receive; of Noah when he was going forth
 from the Ark; of Abraham when he was going forth 
 from the land of the Chaldees; of Isaac when he was 
 going forth from the Well of the Oath; of Jacob in 
-
-
 * DE read (perhaps rightly) : ° Lit, do. 
 to Thy holy name. 
-
-
 180 THE ETHIOPIC DIDASCALIA 
-
-
 Bethlehem ; © and of Moses in the mount; and of Aaron 
 in the wilderness; and of Joshua the son of Nun in 
 Gilgal; and of Gideon on the rock; and of Manoah and 
@@ -9911,29 +7435,17 @@ and Noah, (and didst help) in the days of Moses and
 Joshua, (and) the Judges, and in the days of Samuel 
 and Elijah and the other prophets, and in the days 
 - of David and the other kings, and in the days of Esther 
-
-
 : imilarly as Bethlehem 1° Two of the sacrifices men- 
 aa of Bethel. a in AC are here joined to- 
-
 7So in AC. Eth. has ap-_ gether. 7 
 parently a proper name, but in ™ AC has é re ChAy hae 
 a hopelessly corrupt form. The _Eth. word has _ severa 
-
 * No verv great change would meanings. Which the translator 
 be required to obtain “in the intended, or what his idea was, 
 davs of,”’ as Is found in AC. I am unable to conjecture. 
-
 * So AC reads. Eth. omits: AC has: Jael, or Jabel. 
 and. Possibly Job is intended. 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 181 
-
-
 and Mordecai, and in the days of Judith, and in the 
 days of Judas Maccabzus '° and his brethren: receive 
 us also in like manner in our days through Thy Son 
@@ -9971,35 +7483,23 @@ for all that Thou hast done for us through Thy Son our
 Saviour Jesus Christ for ever and ever. Amen. Follow 
 after this at all times, brethren; the Lord be with you 
 on earth and in heaven and in the Kingdom of His 
-
-
 ” Eth. Judas and Mac- '¢ Lit, from the sickness of 
 cabreus. evil tongues, and hath pro 
 tected us from. them. 
-
-
 182 THE ETHIOPIC DIDASCALIA 
-
-
 Father, who sent Him to free us from deeds of sin, 
 and the service of Satan, and (who) hath given life to 
 the sons of men, even to those that believe in the Lord 
 rola the Creator, that those who belicve in Christ may 
 ive. 
-
 [vii., 39.] What thanks is it fitting that we should 
 offer to God the Father through Jesus Christ? Behold 
 we have told you before, and have taught you. Observe 
 all this that ye may find life eternal. Amen. 
-
-
 NS
-
 ### Didascalica-CH-39
 . 
 OF THE CATECHUMENS WHO DESIRE TO BE BAPTIZED. 
-
-
 HE that desireth to be baptized must nceds be taught 
 the word of instruction, and be made to understand the 
 knowledge of God the Father, and be instructed as to 
@@ -10025,14 +7525,7 @@ receive baptism. And let him who layeth hands upon
 him worship God the Father the maker of all things, 
 who sent unto us His only-begotten Son Jesus Christ to 
 save mankind, from filthiness of flesh and soul, and to 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 183 
-
-
 sanctify them according to the good pleasure of His 
 goodness, and to Icad them in the way, and to enlighten 
 the eyes of their hearts, that they might understand 
@@ -10046,7 +7539,6 @@ may enter into life. And after the thanksgiving let
 them be taught the incarnation of the Lord and His 
 sufferings, and His resurrection from the dead, and His 
 ascension into heaven. 
-
 (vii., 40.) And let the catechumen who desireth to 
 be baptized be taught to renounce Satan, and to believe 
 in Christ, and to forsake his former habits, and to 
@@ -10059,7 +7551,6 @@ cleanse your hearts from evil, that ye may be worthy
 to receive holy baptism. For thus our Lord taught us, 
 saying, ‘Baptize all nations into the name of the 
 Father, and of the Son, and of the Holy Spirit.” 
-
 {vii., 41.) And again, let them command him that 
 is baptized to say thus, I renounce thee, Satan, and all 
 thy works, and all thine evil, and all thy service, and 
@@ -10074,14 +7565,8 @@ begotten before the world (was), by the will of the
 Father, by whom all things were made, both those in 
 heaven and those in earth, both visible and invisible; 
 and who came down from heaven in the latter days, 
-
-
 ' Mt 28, «9. 7 Or, host. 
-
-
 184 THE ETHIOPIC DIDASCALIA 
-
-
 and was incarnate of the Holy Virgin Mar and wa 
 born in purity; and (who) fulfilled the ae of His 
 Father, and was crucified for us in the days of Pontius 
@@ -10096,15 +7581,10 @@ the Father, and was strong (?) through the Son, and
 dwelt in the holy patriarchs; and (who), again, was 
 sent upon the apostles from the Father by our Lord 
 Jesus Christ; and after the apostles He was sent and 
-
-
 given to the faithful in Jesus Christ; and (I am. 
-
-
 baptized) into® the apostolic Church for remissio 
 sins, and for the Kingdom of heaven, and for ihe tie 
 to come for ever. 
-
 ; [vii., 42.] And after he has made confession, let 
 him draw near to the anointing of the holy oil which 
 the priests have consecrated for the remission of sins 
@@ -10115,43 +7595,22 @@ sanctify and purify this oil in the name of His only-
 begotten Son Jesus Christ; may it be a spiritual grace 
 and power for the remission of sins; and a pledge (?) 
 for this baptism by the anointing of this holy oil, that 
-
-
 (he that cometh thereto) may be worthy. to keep Thy 4 
 commandments.
-
 ### Didascalica-CH-40
 . 
 ° 
 CONCERNING THE PRAYER WHICH IS SAID OVER THE WATER 
-
-
 [vii., 43-] WHEN the priest standeth over the water, 
 let him pray thus, saying, O Lord our God, the 
 * Or, given to those that be- pected. Perhaps this whole 
-
-
 lieve in Jesus Christ and in. prayer ought rath 
 ‘ “His "’ would rather be ex- itfe ectcndinuson eae 
-
-
-
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 185, 
-
-
 Almighty, Father of Thine only-begotten Son our Lord 
 Jesus Christ, I give Thee thanks for that thou didst 
 send Thine only-begotten Son, and He hath saved the 
-
-
 - whole world, and He hearcth all who make supplication 
-
-
 unto Him, and proclaimeth concerning the Kingdom of 
 heaven, and remission of sins, and the resurrection of 
 the dead. I glorify Thee, and give Thee thanks, and 
@@ -10177,53 +7636,31 @@ death of sin, and that they may live in righteousness.
 (vii., 44.] And after this let him baptize? into the 
 name of the Father, and of the Son, and of the Holy 
 Spirit, and anoint with the oil of balsam, and say :
-
 ### Didascalica-CH-41
 . 
 OF THE PRAYER WHICH IS SAID OVER THE CHRISM. 
-
-
 O Lorp Gon, the Lord of the whole Creation, Who 
 hast granted us the sweet savour of this chrism, even 
-
 1 MS. reads: sanctify. A » Possibly ‘‘him ’’ or “them” 
 very slight change gives the should be inserted here and 
 above reading. after ‘“‘anoint."’ AC reads 
-
 * Eth. Thy; and so with the ‘“‘him ” after “baptize.” 
 following words. 
-
-
 186 THE ETHIOPIC DIDASCALIA 
-
-
 to all the nations who believe in Th I 
-
 the eflicacy of this chrism as tery ( arte 
 t . 
-
 are baptized into Thy ratie: se aa RSs 
-
 [vii., 45.) And after this he shall stand 
-
 this prayer which our Lord hath taught tne Jon 
-
 Father who art in heaven,” unto the end thereof. Then 
-
 let he Priest turn towards the East, and raise his eyes 
-
 to heaven, and say, “Glorify the l.ord, for the Lord 
-
-
 is good; and sing to His name for it is yr i 
 mercy is for ever.” ? Secs
-
 ### Didascalica-CH-42
 . 
-
-
 THE catechumens * who have been ba tized shall 
-
 this prayer: O God Almighty, the Father of our Lord 
 and Saviour Jesus Christ, the only-begotten Son, that 
 lovest a body undefiled, and acceptest a meek heart and 
@@ -10232,42 +7669,21 @@ no decay, make Thy Holy Spirit to dwell in us by Thy
 good will and the strength of Thy power through Jesus 
 Christ, by whom to Thee be glory and power with Him 
 and with the Holy Spirit for ever and ever. Amen.
-
 ### Didascalica-CH-43
 . 
 OF THE BISHOPS WHO WERE ORDAINED BY THE APOSTLES. 
-
-
 [vii., 46.] THESE are the names of those who were 
 ordained by us. First in Jerusalem, James, the brother 
-
-
 - Unless some verb be sup- preceding verses, citing the book 
 plied the sentence will be un- by name. 
 finished. * Lit. new ones. It i 
 5 ‘ is not the 
 ia Cf. 2 Chr 5. 13- AC refers same word as has been used 
 definitely to this verse and the aboye, 
-
-
 Sa 
-
-
 pm 
-
-
-
-
-
 a™ 
-
-
-
-
-
 THE ETHIOPIC DIDASCALIA 187 
-
-
 of our Lord; and after him was ordained in his stead 
 Simeon, the son of Cleopas; and after him Judas the son 
 of James. And in Caesarea of Palestine, first, Zacchzus 
@@ -10293,61 +7709,33 @@ in Beroea, Onesimus (the servant) of Philemon. And in
 the Church of Galatia, Crescens. In the region of Asia, 
 Aquila and Nicetas. And in the Church 6f Aegina, 
 Crispus. 
-
 These are they whom we entrusted (with the 
 churches), and ordained in Jerusalem, and sent forth to 
 preach and to teach in their several regions. Remember, 
 then, their toil, and receive their admonition, and 
 observe their words. 
-
 May the Lord be with you from henceforth and for 
 ever, even as He said unto us when He was ascending 
 to heaven to the Father, “Behold I am with you all 
 the days unto the end of the world.” ¢ 
-
 Glory be to God, to whom be glory and honour for 
-
-
 1 This and the other words 2 Eth, distinguishes in form 
 similarly marked in this section Aristos and = Ariston. In AC 
 have been restored in conformity they are identical. 
 with AC. The Eth. has forms >A translation of Tripolis. 
 which are very corrupt. “Mt 28, 20. 
-
-
 188 THE ETHIOPIC DIDASCALIA 
-
-
 ever, and ever, and ever. 
-
-
 Saibe it Amen and Amen. So be it. 
-
-
 Here endeth the doctrine of th i i 
 : : e Didascal f 
 fathers the Apostles. Their Prayer and their bee 
-
-
 with their beloved B i is wi 
 Ppa nels rans and with his wife, Wald Sdala, 
-
-
 pa 
-
-
 va 
-
-
 ve 
-
-
-
-
-
 ADDITIONAL NOTES 
-
-
 A. [The “ preface '’].—The opening section which I have 
 referred to in the Introduction as the ‘preface’? is not 
 contained in AC. It is found, however, not only in all 
@@ -10356,7 +7744,6 @@ of the Arabic Didascalia, and in the Mesopotamian codex
 of the Syriac Didascalia edited by Mrs. Gibson. It com- 
 prises the opening paragraph as far as the words, ‘shall 
 be in the fire of Gehenna for ever, as it is written.’’ 
-
 B., p. 1.—The Ethiopic manuscripts have after “ skilful 
 singers" the word ‘nipilobanos,’’ obviously a corruption 
 of some Greek word, the first syllable being the plural 
@@ -10375,7 +7762,6 @@ would explain the reading of the Ethiopic, t.e. as ‘ni,’
 the Coptic definite article, and gAdrovos. The reading is 
 important as showing probably a close connection between 
 the Ethiopic and Coptic versions. 
-
 C. [ii 1], p. 13.-—‘' Joash . . . when he was seven years old, 
 etc.” The Eth. reads Uzziah both in A and P. In AC 
 we find: ‘Josiah at eight years of age reigned righteously, 
@@ -10387,17 +7773,11 @@ read: ‘‘and afterward +tJosiaht in his eighth year reigned
 in righteousness.’ In Mt 1, 18, owing to the omission of 
 the names of three kings, we have the words, ‘‘ Joram begat 
 Uzziah.” It is hardly correct to say, as Platt does in his 
-
 189 
-
-
 190 ADDITIONAL NOTES 
-
-
 note, that ‘Joash is called Ozias i 
 St. Matthew's Copel Ozias in the first chapter of 
 - [ii 18], p. 32.—'tAnd He answered and sai 
-
 people, etc.’? On this passage Platt's note is: ‘ Hee i 
 find in the Greek Constitutions a long quotation from the 
 prophet Ezekiel, containing above one-half of the 34th 
@@ -10408,7 +7788,6 @@ Saviour’s from St. John’s Gospel, as though He had spoken
 to the people these words from Ezekiel also.’? This is an 
 accurate statement of the facts, except that the length of 
 the quotation from Ezelciel in AC is rather exaggerated. 
-
 E. [ii. 54], p- 71-—The second last word of the title of 
 Chapter xil. is somewhat mysterious in Ethiopic. Trans- 
 literated in its singular form it is “'Abibilosawi” in P. 
@@ -10417,7 +7796,6 @@ and ‘‘diabolus,’’ but finally translated generally ‘ evil-
 doers.” In three of the British Museum MSS. (ABE) 
 the form of the word is somewhat different, ‘ ’Abibolosawi.” 
 The. first two syllables represent the Greek preposition 
-
 epi,’’ as they do, for example, in the Ethiopic form of 
 the Greek name Epimachos (cf. Dillmann’s Lex.). This 
 being so, this second form of the word seems to be a trans- 
@@ -10425,7 +7803,6 @@ literation of ‘‘epiboulos,’’ or some kindred word, in the
 sense of i schemer " or ‘‘plotter.’? The corresponding word 
 of the title in Arabic (II) is translated by Baumstark by 
 **Widersacher.’”” : ‘ 
-
 F. fiii. 1], p. 85.—Platt translates thus: ‘At seven years 
 did she enter into the Temple, and she remained fifty-seven 
 years, continuing a virgin.’? This is meaningless. The 
@@ -10435,7 +7812,6 @@ resemblance to the word for ‘‘years.”” Why the number
 fiftv-seven is chosen is not clear. It may be the result of 
 a calculation, taking the age of Anna at marriage to have 
 been sixteen years (16+7+57=80). 
-
 G. [v. 14], p. 126.—"At the third hour they raised Him 
 on the tree, and at the sixth hour they crucified Him, etc.” 
 There seems to be no difference between these two events, 
@@ -10445,21 +7821,14 @@ Statutes of the Apostles, Statute 48 (Ethiopic) is, ‘‘Con-
 cerning the times at which it is seemly to prav."’ In it 
 are found these words, “pray at the third hour... 
 because in that hour thev stripped Jesus Christ and nailed 
-
-
 es a 
-
-
 ADDITIONAL NOTES 191 
-
-
 Him upon the wood of the cross... . And again pray at 
 the sixth hour; for at that hour was the hanging of our 
 Lord Christ upon the wood of the cross’? (Horner’s trans- 
 lation). The word for ‘raised’ differs only in one letter 
 from the word for ‘‘stripped.’’ Probably the latter was 
 the original reading in the Ethiopic Didascalia also. 
-
 H. [v. 14], p. 127-—‘‘and it was evening, etc.” The 
 Eth. has a stop at the word “tomb.” The first four 
 words of the next sentence are: ‘and-when-it-was-evening 
@@ -10471,7 +7840,6 @@ a translation of éé 8¢ caBBdrwr, 19 émupwoxoven. The first
 of the four words is possibly a translation of the ‘when it 
 was evening’ of Mt 27, 57- 1 have given as a translation 
 of the last three words the R.V. of Mt 28, 1. 
-
 I. [v. 17], p. 130.—In the title the words occur ‘‘on the 
 fourteenth day of the month.” This translation omits the 
 last of the Ethiopic words which correspond. The word is 
@@ -10480,7 +7848,6 @@ refers to the fact that the fourteenth day is to be reckoned
 in a special way—that is, that the beginning of the month 
 was to be reckoned by a particular night rather than a 
 particular day. 
-
 J. [vi. 18], p. 155.—** Uzziah . Joel.” I have left these 
 names enclosed in brackets. though it might have been 
 better to emend them in accordance with what is found in 
@@ -10488,7 +7855,6 @@ AC. There it is Jehoshaphat's alliance with Ahaziah that
 is. mentioned, for which he was reproved by Jehu the 
 prophet. The change from Jehu to Joel is found in several 
 MSS. of AC. a 
-
 K. [vii. 1], p. 168.—The title “ OF toil and thanksgiving.” 
 I have given the translation ‘‘toil,’’ as such is the literal 
 translation. The word probably has reference to the 
@@ -10496,178 +7862,107 @@ translation. The word probably has reference to the
 Arabic (IT) as given by Baumstark runs, ‘Ueber das 
 auserwihlte Leben und Dank.” The life of ascetics is 
 often described in Ethiopic by this same word “‘toil.”” 
-
 The latter part of the title, as already mentioned in the 
 Introduction (p. xviii.), has apparently nothing to correspond 
 to it in the chapter as it at present stands. I have sug- 
 gested that the presence of the word “ thanksgiving ”’ in 
-
 this title is an indication that at some time the Ethiopic 
 Didascalia, or its original, did include that part of AC vii. 
 which treats of the administration of the eucharist. 
-
-
 BRIEF BIBLIOGRAPHY OF WORKS DEALING 
 WITH THE ETHIOPIC DIDASCALIA, OR 
 KINDRED DOCUMENTS. 
-
-
 Piatt. The Ethiopic: Didascalia, or the Ethiopic version 
 of the Apostolical Constitutions received in the Church 
 of Abyssinia. (London, 13834.) 
-
 LaGarpve. Didascalia apostolorum syriace. (1854.) 
-
 Gipson. The Didascalta Apostolorum in Syriac, with an 
 English Translation. Horae Semiticae I and II. 
 (London and Cambridge, 1903.) 
-
 Hautrr. Didascalia Apostolorum fragmenta veronensia 
 latina. (Leipsic, 1900.) 
-
 Funk. Didascalia et Constitutiones Apostolorum. Vols. 1., 
 II. (Paderborn, 1905.) 
-
 MacLean. The Ancient Church Orders. (Cambridge, 1910.) 
-
 Cooper AND MacLean. The Testament of our Lord. (Edin- 
 burgh, 1902.) 
-
 O'Leary. The Apostolical Constitutions and cognate 
 documents. (S.P.C.K., 1906.) 
-
-
 | : 
 \ 
-
-
-
-
-
 INDICES 
-
-
 GENERAL INDEX 
-
-
 (Numbers in heavier type refer to the titles of the chapters of the 
 Ethiopio Didascalia. ) 
-
-
 *dbibolosawi, xxii, 190 
-
 Abd Ishaq, translator of Arabic 
 Didascalia, xiii 
-
 Acolytes, 189 
-
 Acts of the Apostles, Reading 
 of, 74 
-
 Adultery, 3, 5 f, 8f, 152, 166 
-
 Aeons, of Gnostics, 143 n. 
-
 gee ae at baptism, 95/f, 
 184 f. 
-
 apo pha books, 154 
-
 Apostles, List of, 151 
-
 Apostolic Church Order, x; 
 (Ethiopic), ix n. 
-
 Apostolic Constitutions (i-vi), 
 xi, xii, xv, xvi; (i-vii), xv, 
 xvii; (vii), xvi; (vii, 1-32), 
 x, xvi; (vii, 33-viii, 2), xi; 
-
-
 (viii), x, xii, xvi, xxi; 
 numeration of chapters 
 adopted, xxiii; work of 
-
-
 editor of, xvi 
-
 Arabic Didascalia, xi, xii f, 189 
-
 Arabic Didascalia (I), xi, xii, 
 xv, 189; extra chapters in, 
 x, xi, xili, xiv 
-
 Arabic Didascalia (II), xi, xv n, 
 xvi, xvin, xviii n, xix, xx 7, 
 100m, 107, I13m, 120n, 
 189 ff; titles of chapters 
 which differ from Ethiopic, 
 xix-xx 
-
 Ascension, Feast of. 133 
-
 Assyrians, 98 n. 
-
-
 ETHIOPIC DIDASCALIA 
-
-
 Astrologers and magicians, 121, 
 163 
 Augurs and diviners, 82, 171 
-
-
 Babylon, Return from, 74 
-
 Baptism, by unbelievers, 153 ; 
 formula of, 49, 96, 119, 154, 
 183,185 ; not to be repeated, 
 152; of catechumens, 132, 
 182 ; of infants enjoined, 153 
-
 Baruch quoted, 133 
-
 Baths, public, 8 
-
 Baumstark, xiii, xvi, xvi n, 191 
-
 Berries of tstva, 61 n. 
-
 Biblical references in this edi- 
 tion, v, xxiii 
-
 Bibliography of Didascalia and 
 kindred. documents, 192 
-
 Bickell, xii 
-
 Bishop, Age required in a, 12 f ; 
 qualifications of a, 14 ff; 
 place of his throne, 74 
-
 Bishops, Pepys and dea- 
 cons, Of, 12 ff. 
-
 Bishops and presbyters not to 
 marry after ordination, 154 
-
 Bishops, to be married, 14,154; 
 to be hospitable, 14; not to 
 show partiality, 14 f, 19, 30, 
 66; not be slothful in fast- 
 ing, 16; not to hearken to 
-
 umnies, 24 ff, 63; not to 
-
 be sureties, 15; to receive 
-
-
 195 o° 
-
-
 196 GENERAL INDEX 
-
-
 the penitent, 27/f; not to 
 admonish before proof of 
 offence, 37 ff; to try every 
@@ -10682,20 +7977,14 @@ Apostles, List of, 186 f.
 Bloodless sacrifice, 45, 161 
 Bribes, 19, 63 
 Burial of the dead, 166 
-
-
 Canons of Hippolytus, x 
-
 Catechumens, 19, 61, 75, 112, 
 132, 154, 182 ff; Confession 
 by, 183; instruction of, 
 182f; Prayer of, 186 
-
 Chrism, 54, 172 
-
 Christian Sabbath, i.e., Sunday 
 66, 78, 179 
-
 Christians, to forgive their 
 neighbours, 70 ff; not to 
 enter a heathen temple, 80 ; 
@@ -10707,85 +7996,56 @@ heathen, 82; not to swear
 by false gods, 120f; who 
 are criminals not to be 
 helped, 109 
-
 Chronicles, Books of, 38, 74 
-
 Church Orders, ix; different 
 groups of, x, xi 
-
 Church, Arrangement of a, 74 ; 
 arrangement of people in, 
 75; like a ship, 74f 
-
 Constitutions through Hippo- 
 lytus, x 
-
 Cooper and Maclean’s Edition 
 of Testament of our Lord, 
 xiv, 192 
-
 Coptic Didascalia, xiii, xxii, 
 189 . 
-
 Covetousness, Against, 3 
-
 Creed, 183 
-
-
 Deacon, Prayer of, 76; pro- 
 clamation of (with loud 
 voice), 74 
-
 Deacons, 1, 29, 48-53, 63, 65, 
 75 f, 90, 92, 95-98; duty of, 
 98; like sailors, 74; not to 
 baptize -women, 95; to do 
 nothing without the bishop’s 
 consent, 49, 52 ff, 65 
-
 Deaconess, Order of, 48 f, 75, 
 78, 90, 92, 95 ; to be a virgin, 
 or a widow married but 
 once, 154 
-
 Deuteronomy, Book of, 5, 7 
-
 Diabolos, xxii 
-
 Atardfers trav ’AxootéAwy, Xvi 
-
 Didache, viii, x, xvi; expan- 
 sion of, 168 ff. 
-
 Didascalia, Different versions 
 of, xi-xv; parts of Ap. 
 Const. corresponding with 
 versions of, xv 
-
 Distribution of offerings, 51 
-
 Divisions, of ungodly and un- 
 believing, 186 ff; caused by 
 Satan, 141 ff. 
-
 Divorce, Fornication sole 
 ground for, 152 
-
 Doorkeepers, 48, 75, 92, 154 
-
 Drunkenness, Against, 6, 1or 
-
-
 Ebionites, 141 
-
 Egyptian Church Order, x 
-
 Epiphany, Feast of, 123 
-
 Essenes, 141 ". 
-
 Ethiopic Church Order, x 
-
 Ethiopic Didascalia, xi, xiii; 
 analysis of, vii-ix; British 
 Museum manuscripts of, v, 
@@ -10796,583 +8056,332 @@ edition, xiv; part probably
 lost, xviii, xx n, 191 ; Platt’s 
 manuscript of, xvii, 967, 
 97, 106 n. 
-
 Eucharist, xviii, 54, 176 ”, 179, 
 191; to be celebrated on 
 Sunday, 79, 173; for the 
 departed, 166 
-
-
-
-
-
 GENERAL INDEX 197 
-
-
 Excommunicaticn of unfaith- 
 ful, 64, 155 
 Exorcists, 189 
-
-
 Fasika (Pascha), xxiii 
-
 Fast, on eighth day after Pente- 
 cost, 135; of Lent, 123; on 
 Vigil of Passover, 127, 136; 
 see Paschal fast 
-
 Fasting, as a penance, 29; 
 prohibited on the Sabbath, 
 127, 136; on Sunday, 136; 
 on Pentecost, 136 
-
 Fasts of fourth and sixth days 
 of the week, 127, 136 
-
 Fathers to correct their chil- 
 dren, 105 
-
 Feast-days, 122 ff. 
-
 Feast, after Pentecost for seven 
 days, 135; on Sunday after 
 Easter, 133; sec Ascension, 
 Epiphany, Nativity, Pente- 
 cost. 
-
 First-fruits, 45-48, 50, 55/, 
 172 
-
 Flemming, xii 
-
 Formula of 
 Baptism 
-
 Funk, xii f, xv n, xxiii m, 116, n 
 192 
-
-
 Baptism, — see 
-
-
 Gehenna, 2, 54, 69, 86, 110 ff, 
-
-
 15 
 Gentile worship, 79 
 Gibson, Mrs., xii f, xxiii, 189, 
-
-
 192 
 Gift of tongues at third hour, 
-
-
 134 
-
 Gifts not to be taken from 
 sinners, 90 
-
 Gnostics, Contempt of marriage 
 by, 143, 145; immorality of, 
 143, 146; tenets of, 145, 
 162 f. 
-
 Gospel, Reading of the, 74; 
 standing at the, 75 
-
 Greek Didascalia, The original, 
 xi, xvi 
-
-
 Harris, J. R., xii 
-
 Hauler, x, xii, 192 
-
 Hippolytus, ix, x 
-
 Holy Spirit, Descent of at 
 Baptism, 53, 61 
-
 Horae Semiticae, xii #, 192 
-
 Horner, 191 
-
 Hosanna, Feast of (Palm Sun- 
 day), 123, 131 
-
 Hosts of Spiritual ones, Of the 
 service of, 176 
-
 Husbands and wives, 9 
-
-
 Idolatry, 6, 41, 82, 120, 171 
 Idol priests, 51 
-
 Incense, 49 f, 55, 92, 173, 176 
 Iota, Church founded on, 48 
-
-
 Jewish ceremonies forbidden, 
 166 
-
 Joshua, Book of, 74 
-
 Jowett, Rev. W., xiv 
-
 Judgment to be given when 
 both parties are present, 
 66 ff. 
-
 Judges, Book of, 74 
-
-
 Kings, Books of, 6, 7, 38, 55, 
 74,102 . 
 Kiss of peace, 76 
-
-
 Lagarde, xii, 192 
-
 Lamentations of 
 Book of, 13 
-
 Latin Didascalia, xi, xii 
-
 Law and Gospel contrasted, 
 Commandments of, 161 
-
 Laymen, not to execute priests’ 
 office, 49, 92; not to judge, 
 57» 65 
-
 Lord’s Prayer, 37, 73, 96, 186 
-
 Ludolf, xiv 
-
-
 Jeremiah, 
-
-
 Maclean, ix n, x, xiv, 18y, 192 
 ‘* Made himself like an ass”"’ 
 (of Manasseh), 39 
-
-
 198 GENERAL INDEX 
-
-
 Magabit, Month of, 130 f. 
-
 Magic, 170 
-
 Marriage not unholy, 147, 152, 
 164-166 ee 
-
 Marriages, Second, 85 
-
 Martyrdom an equivalent of 
 Baptism, 112 
-
 Martyrs, Of the, 107 ff, 119 ff. 
-
 Messianic prophecies of O. T., 
-
-
 134 
-
 Miyazya, Month of, 123 
-
 Moses, Miracles of, 138, 158; 
 stoning of, 138 
-
 Mysteries to be kept from the 
 heathen, 65 
-
-
 Nativity, Feast of the, 122 
 Nau, F., xii 
-
 Necromancy, 82 
 Nicolaitans, 143 n. 
 Nipilobanos, xxii, 189 
 Numbers, Book of, 4, 46 
-
-
 Octateuch, Syriac, x 
-
 Offerings not to be received 
 from the unworthy, 101 ff. 
-
 Oil ss balsam at Baptism, 96, 
 I 
-
 O'Leary, xiv, xvii n, 192 
-
 ‘orit, xxiii 
-
 Orphans, 48 f, 98, 99 
-
-
 Pascha, xxiii 
-
 Paschal fast 123, 127, 131 
-
 Passion and Death of Our 
 Lord, Narrative of, 124 ff. 
-
 Passover, 123, 131; date of, 
 130 f. 
-
 Paul, St., Epistles of, 74 
-
 Penitents, 75 
-
 Pentecost, Feast of, 134; two 
 meanings of, 136 #. 
-
 People, not to absent them- 
 selves from CFurch, 78; to 
 show liberality in offerings, 
 4? ff. 
-
-
 Peter, St., Conflict at Rome 
 with Simon, 144; story of 
 his vision, 148 
-
 Pharisees, 60, 98 n, 141 
-
 Phoenix, Legend of, 116 
-
 Platt’s manuscript of the 
 Ethiopic Didascalia, xiii, 
 96", 97", 106 n. 
-
 Prayer, for benefactor of a 
 widow, 93; of Consecration 
 of oil, 184; over Chrism, 
 185 f; over the water, 184 f; 
 toward the East, 76, 186 
-
 Frayer of Manasseb, Version 
 oO 
-
-
 » 39f. 
-
 “ Preface '’ to the Didascalia, 
 xiii, xviii, 1 f, 189 
-
 Presbyters, their place in 
 Church, 74 
-
 Presbyters and deacons to sit 
 with the bishop in judgment, 
 20, 66; not to ordain, 92, 98 
-
 Priests and presbyters, synony- 
 mous usage of terms, xxiii 
-
 Priestly office superior to 
 kingly, 55, 137 
-
 Prophets, The fifteen, 74 
-
 Psalms of David, 7, 78 
-
 Psalms to be used in the 
 evening and the morning, 78 
-
-
 Reader, 1, 48, 74, 92, 154 
 Renunciation by catechumens, 
-
 Formula of, 183 
 Resurrection of the dead, 113 ff 
 Rich, Duty of the, 6 
-
-
 Sabbath, Observance of, 178 f : 
 by the Jews, 79 
-
 Sabbath of the Passion, Fast 
 on, 127, 131 
-
 Sabbath of the Jews ( = Satur- 
 day), 66 . 
-
 Sacrifices of the righteous, List 
 of, 179 
-
 Sadducees, 141, 167 
-
 Sahidic Ecclesiastical Canons,x 
-
 Saitan, xxiii 
-
-
-
-
-
 GENERAL INDEX 199 
-
-
 Scripture, Reading of, 6 f, 57 
-
 soe references in this 
 edition, v, xxiii 
-
 Servants to be subject both to 
 believing and unbelieving 
 masters, 106 
-
 Seven deacons, 72 
-
 Shaving of beards forbidden, 5 
-
 Sheol, 21, 50, 139, 155 
-
 Sibyl, Quotation from the, 115 
-
 Simonians, 145 
-
 Singers, 1, 48, 92 
-
 Sloth forbidden, 14, 83 ff. 
-
 Socin, xiii 
-
 Statutes of the 
 (Ethiopic), 190 
-
 Stranger, Reception of a, 77 
-
 Sub-deacons, 1, 15 
-
 Symbols and abbreviations, 
 List of, v 
-
 Syriac Didascalia, xi, xii, 116 7, 
 189 ; two recensions of, xii 
-
 Syrians, 98 
-
 Swete, v, 152 n. 
-
-
 Apostles 
-
-
 Tahsas, Month of, 123 
 Ter, Month of, 123 
 Testament of Our Lord, x, xiv, 
-
-
 xv n. 
 “That which dieth of itself,’’ 
-
-
 149 7. 
 Theatre, Attendance at for- 
 bidden, 82 
-
-
 Tithes, 45, 48, 50, 172 
-
 Tobi, Month of, 123 
-
 Tobit quoted, 4 
-
 Toil and thanksgiving, Of, 
 168 ff, 191 
-
 Transliteration of Ethiopic 
 words, Method of, xxiii, 
 xxii n. 
-
 Trinity, Doctrine of the, 146 
-
 Two Ways, x 
-
-
 Verona fragments of Latin 
 Didascalia, x, xii, 192 
-
 Virgins, 48f, 75, 95; not to 
 take vows hastily, 106 f 
-
-
 Wansleb, xiv 
-
 ‘Way of Death,” viii, ix n. 
-
 Widows, 48-50, 75, 84 ff, 82 ff, 
 95; requisite age in, 84 ; not 
 to gossip, 87; to show 
 gratitude to benefactors, 100 
-
 Wisdom quoted, ei 
-
 Woman taken in adultery, 43 
-
 Women, not to baptize, 91; 
 not to teach or preach, 88, 
 gt; to be veiled, 12, 77; to 
 sit apart in Church, 74 
-
 Wordsworth on the Didascalia, 
 vii 
-
-
 Xanthicus, Month of, :23 n. 
-
-
 NAME INDEX 
-
-
 INDEX TO NAMES OF PERSONS AND PLACES MENTIONED 
 IN THE ETHIOPIC DIDASCALIA AND THE NOTES. 
-
-
 Aaron, 50, 52, 118, 137/, 158, 
 180 
-
 Abeddadan, 137 2. 
-
 Abel, 37, 72, 157, 170, 179 
-
 Abiram, 50, 137 
-
 Abner, 171 
-
 Abraham, 39/, 68, 134, 157, 
 165, 167, 174 f, 179, 182 
-
 Absalom, 137 
-
 Achan, 19, 169 
-
 Adam, I15, 142, (54, 175, 185 
-
 Adonias (Jadon), 102 
-
 Aegina, 187 
-
 Agag, 19 
-
 Abab, 155 
-
 Ahaziah, 191 
-
 Ahijah, 103 
-
 Alexander, 109 
-
 Alexandria, 187 
-
 Amasa, 171 
-
 Amon, 41 f. 
-
 Ananias and Sapphira, 170 
-
 Andrew, 151 
-
 Anna, 85, 190 
-
 Annas, 109, 125 
-
 Annianus, 187 
-
 Anubis, 121 7. 
-
 Antioch, 148, 150, 187 
-
 Apis, 121 ”, 157 
-
 Aquila, 143, 187 
-
 Arabia, 116 
-
 Archippus, 187 
-
 Ariston, 187, 187 7. 
-
 Aristos, 187, 187 n. 
-
 Asia, 187 
-
 Athens, 187 
-
 Avilius, 187 
-
-
 201 
-
-
 Babylon, 39, 58, 68, 74, 115 
 Barak, 180 
-
 Barnabas, 143, 150, 156 
 Bartholomew, 151 
-
 Baruch, 133 
-
 Basilides, 143 
-
 Benomnimén, Land of, 39 
 Beroea, 187 
-
 Bethel, 180 n. 
-
 Bethlehem, 180, 180 n. 
-
-
 Caesarea, 143, 148, 187 
 Caiaphas, 109, 125 
-
 Cain, 29, 37, 92 f, 170 
 Caleb, 72, 182 
-
 Carmel, Mount, 180 
 Cenchreae, 187 
 Cerinthus, 143 
-
 Clement, 2, 143, 156, 187 
 Cleobius, 143, 153 
 Cleopas, Son of, 127, 187 
 Colassae, 187 
-
 Cornelius, 143, 148, 187 
 Crescens, 187 
-
 Crete, 187 
-
 Crispus, 187 
-
-
 Daniel, 22, 68, 87, 114 f, 135, 
 180 
-
 Dathan, 50, 136 f. 
-
 Davjd, 21 f, 24, 37-39, 48, 62, 
 69 f, 74, 78, 87, 117 ff, 134, 
 137, 154f, 160 f. 165, 168 f, 
 171, 179 f. 
-
 Deborah, 180 
-
-
 202 
-
-
 Demetrius, 187 
 Dionysius, 187 
 Dositheus, 143 
-
-
 Egypt, 70, 116, 121, 138 f,157f, 
 Pa ee 38 f,157f, 
 Eleazar the priest, 137 
@@ -11381,70 +8390,39 @@ ijah, 55, 85, 114, 135, 154,
 Elisha, 103, 114, 167, 180 
 ar 72, 114, 149, 154, 180, 
 182 
-
-
 Enosh, 149, 180, 182 
 Ephesus, 187 
-
 Esther, 136, 180 
-
 Evodius, 187 
-
 Ezekiel, 20, 22, 25, 121, 190 
 Ezra, 180 
-
-
 Gabriel, 114 
-
 Gaius, 187 
-
 Galatia, 187 
-
 Gehazi, 19, 170 
-
 Gibeon, 180 
-
 Gideon, 180 
-
 Gilgal, 180 
-
 Gitthae oe 20): 141, 141". 
 Gomorrah, 165 n. 
-
 Greece, 61 n, 
-
-
 Ham, 23 
-
 Haman, 136 
-
 Hannah, 135, 180 
 Hazael, 103 
 Heliopolis (On), 116 n. 
 Hephzibah, 38 
-
 Herod, 167 
-
 Hezekiah, 38 f, 180 
 Holofernes, 136 
-
-
 Ignatius, 187 
 "Ion, 116 
 Isaac, 30f, 68, 167, 174, 179 
-
-
 NAME INDEX 
-
-
 Isaiah, 28, 45, 87, 89, 114, 118, 
 135, 140, 154, 159 
 Italy, 144 : 
-
-
 Jacob, 39 f, 68, 133, 167, 174 f, 
-
-
 179 
 bee or Jabel, 180 n. 
 airus, 115 
@@ -11489,252 +8467,126 @@ Judas Maccabaeus, 181
 udas, son of James, 187 
 udith, 89, 136, 181 
 Judges, The, 180 
-
-
 ow air: Ke as 
-
-
 NAME 
-
-
 Korah, 19, 50, 92, 137 /. 
-
-
 Laodicea, 187 
-
 Lazarus of Bethany, 88, 115 
 Lazarus the beggar 171 
 Levi, 49 
-
 Linus, 187 
-
 Lois, 187. 
-
 Lot, 23, 72 
-
 Lucius, 156, 187 
-
 Luke, 74, 156, 187 
-
-
 Macedonia, 187 
-
 Malachi, 51, 156 
-
 Manasseh, 38-42, 180 
-
 Manoah, 180 
-
 Marcus, 143 
-
 Mark, 74, 156, 187 
-
 Marthones, 187 
-
 Mary and Martha, 88 
-
 Mary Magdalene, 88, 127 
-
 Mary, mother of James, 127 
-
 Mary, The Virgin, 72, 91, 141, 
 146, 179, 184 
-
 Mattathias, 180 
-
 Matthew, 43, 59. 74, 15! 
-
 Matthias, 147, 151 
-
 Melchizedek, 50, 72, 149, 182 
-
 Menander, 143 
-
 Mesopotamia, 475 n. 
-
 Miriam, 29, 137, 138 7. 
-
 Mizpeh, 180 
-
 Mordecai, 136, 181 
-
 Moses, 3, 15, 17, 29, 39 59, 
 52 f, 55, 65, 72, 74, 103, 116, 
 125, 134f, 137f, 150, 154, 
 157, 161, 167 f, 171, 180, 182 
-
-
 Naaman, 19, 170 
 Naboth, 6 
-
 Nathan, 3 
 Nebuchadnezzar, 134 
 Nehemiah, 180 
 Nicetas, 143, 187 
-
-
 INDEX 203 
-
-
 Nicolas, 143 
-
 Nineveh, 38, 136 
-
 Noah, 19, 22f, 72, 149, 157. 
 179 f, 182 
-
-
 Obededom, 137 #. 
 Olives, Mount of, 124 
 Onesimus, 187 
 Ornan, 180 
-
-
 Pasa, 180 
-
 Paul, 1, 43, 72, 74, 150 f, 187 
-
 Pergamus, 187 
-
 Peter, 43, 66, 103, 118, 124, 
 142-145, 148, 151, 170 f, 187 
-
 Phanuel, Daughter of, 85, 190 
-
 Pharaoh, 52, 138, 178 
-
 Philadelphia, 187 
-
 Philemon, 187 
-
 Philip the Evangelist, 142 
-
 Philip the Apostle, 151 
-
 Phinehas, 72, 182 
-
 Pheenicia, 187 
-
 Pilate, 125 f, 132, 167, 179, 184 
-
 Potiphar’s wife, 58 
-
-
 Rahab, 23 f. 
 Red Sea, 158 
 Reuben, 138 
 Rome, 144, 187 
-
-
 Saba, 159 
-
 Salome, 88 
-
 Samaria, 67, 142 
-
 Samson, 180 
-
 Samuel, 49, 54 f, 103, 134, 136, 
 160, 180 
-
 Sarah, 165 
-
 Sarepta of Sidon, 85 
-
 Saturnilus, 143 
-
 Saul, 19, 49, 160, 170 f. 
-
 Sennacherib, 180 
-
 Seth, 72, 154, 182 
-
 Shimei, 137 #. 
-
 Shunammite’s son, 115 
-
 Silas, 150 
-
-
 204 NAME 
-
-
 Simeon, ye 
-
 Simon the anean, 151 
-
 Simon (Magus), 23, 103,141-45, 
 153 
-
 Sinai, 176 
-
 Sisera, 180 
-
-
 Sm , 187 
-
 sudan 24: 72, 164 
-
 Solomon, 7, 10, 13, 18 f, 39, 
 74, 83, 87, 94, 104, 107, I19, 
 135, 155, 165, 180 
-
 Sosipater, 156 
-
 Stephen, 67, 119, 168 
-
 Strataeas, 187 - 
-
 Syria, 103, 150 
-
 Susanna, 58, 67 f. 
-
-
 Tarsus, 150 n. 
 Thaddeus, 151 
-
-
 INDEX 
-
-
 Theophilus, 187 
-
 Thomas, 133, 151 
-
 Three Children, 113, 115, 180 
 Timothy, 156, 187 
-
 Titus, 156, 187 
-
 Tripolis, 187 n. 
-
-
 Uriah’'s wife, 62 
-
-
 Uzziah, 49, 92, 137, 155, 189, 
 191 . 
-
-
 Well of the Oath, 179 
-
-
 Zacchaeus, 59, 143, 187 
 Zechariah, 135 
 Zerubbabel, 180 
-
 Zion, 135, 179 
-
-
 PRINTED IN GREAT BRITAIN BY R. CLAY AND SONS, LTD., 
 BRUNSWICK STREET, STAMFORD STREET, S.E.1, 4ND BUNGAY, SUPFOLK 
-
-
-
-
-
-
-
-
 N. MANCHESTER, INDIANA 46962
-

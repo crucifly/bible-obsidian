@@ -3,7 +3,6 @@ book: "1 Thessalonians"
 chapter: 1
 canon: "New Testament"
 ---
-
 # 1 Thessalonians 1
 
 ### 1
@@ -35,4 +34,3 @@ For they themselves report concerning us what kind of a reception we had from yo
 
 ### 10
 and to wait for his Son from heaven, whom he raised from the dead—Jesus, who delivers us from the wrath to come.
-

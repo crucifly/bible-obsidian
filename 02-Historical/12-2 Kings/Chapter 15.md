@@ -3,7 +3,6 @@ book: "2 Kings"
 chapter: 15
 canon: "Historical"
 ---
-
 # 2 Kings 15
 
 ### 1
@@ -119,4 +118,3 @@ In those days, Yahweh began to send Rezin the king of Syria and Pekah the son of
 
 ### 38
 Jotham slept with his fathers, and was buried with his fathers in his father David’s city, and Ahaz his son reigned in his place.
-

@@ -3,7 +3,6 @@ book: "1 Esdras"
 chapter: 6
 canon: "Deuterocanonical"
 ---
-
 # 1 Esdras 6
 
 ### 1
@@ -107,4 +106,3 @@ The Lord therefore, whose name is there called upon, utterly
 
 ### 34
 I Darius the king have ordained that according unto these things
-

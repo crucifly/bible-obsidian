@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 5
 canon: "New Testament"
 ---
-
 # Matthew 5
 
 ### 1
@@ -22,7 +21,7 @@ Blessed are those who mourn, for they shall be comforted.
 Blessed are the gentle, for they shall inherit the earth.
 
 ### 6
-Blessed are those who hunger and thirst after righteousness,  for they shall be filled.
+Blessed are those who hunger and thirst after righteousness, for they shall be filled.
 
 ### 7
 Blessed are the merciful, for they shall obtain mercy.
@@ -34,7 +33,7 @@ Blessed are the pure in heart, for they shall see God.
 Blessed are the peacemakers, for they shall be called children of God.
 
 ### 10
-Blessed are those who have been persecuted for righteousness’ sake,  for theirs is the Kingdom of Heaven.
+Blessed are those who have been persecuted for righteousness’ sake, for theirs is the Kingdom of Heaven.
 
 ### 11
 “Blessed are you when people reproach you, persecute you, and say all kinds of evil against you falsely, for my sake.
@@ -70,7 +69,7 @@ For I tell you that unless your righteousness exceeds that of the scribes and Ph
 “You have heard that it was said to the ancient ones, ‘You shall not murder;’ and ‘Whoever murders will be in danger of the judgment.’
 
 ### 22
-But I tell you, that everyone who is angry with his brother without a cause   will be in danger of the judgment; and whoever says to his brother, ‘Raca!’  will be in danger of the council; and whoever says, ‘You fool!’ will be in danger of the fire of Gehenna.
+But I tell you, that everyone who is angry with his brother without a cause will be in danger of the judgment; and whoever says to his brother, ‘Raca!’ will be in danger of the council; and whoever says, ‘You fool!’ will be in danger of the fire of Gehenna.
 
 ### 23
 “If therefore you are offering your gift at the altar, and there remember that your brother has anything against you,
@@ -85,7 +84,7 @@ Agree with your adversary quickly, while you are with him on the way; lest perha
 Most certainly I tell you, you shall by no means get out of there, until you have paid the last penny.
 
 ### 27
-“You have heard that it was said,  ‘You shall not commit adultery;’
+“You have heard that it was said, ‘You shall not commit adultery;’
 
 ### 28
 but I tell you that everyone who gazes at a woman to lust after her has committed adultery with her already in his heart.
@@ -133,7 +132,7 @@ Whoever compels you to go one mile, go with him two.
 Give to him who asks you, and don’t turn away him who desires to borrow from you.
 
 ### 43
-“You have heard that it was said, ‘You shall love your neighbor  and hate your enemy.’
+“You have heard that it was said, ‘You shall love your neighbor and hate your enemy.’
 
 ### 44
 But I tell you, love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you,
@@ -149,4 +148,3 @@ If you only greet your friends, what more do you do than others? Don’t even th
 
 ### 48
 Therefore you shall be perfect, just as your Father in heaven is perfect.
-

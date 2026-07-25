@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 29
 canon: "Deuterocanonical"
 ---
-
 # Sirach 29
 
 ### 1
@@ -89,4 +88,3 @@ Give place, thou stranger, to an honourable man; my brother
 
 ### 28
 These things are grievous to a man of understanding; the
-

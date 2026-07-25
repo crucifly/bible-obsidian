@@ -3,7 +3,6 @@ book: "Numbers"
 chapter: 4
 canon: "Torah"
 ---
-
 # Numbers 4
 
 ### 1
@@ -152,4 +151,3 @@ even those who were counted of them, were eight thousand five hundred eighty.
 
 ### 49
 According to the commandment of Yahweh they were counted by Moses, everyone according to his service, and according to his burden. Thus were they counted by him, as Yahweh commanded Moses.
-

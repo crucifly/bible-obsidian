@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 20
 canon: "Torah"
 ---
-
 # Genesis 20
 
 ### 1
@@ -59,4 +58,3 @@ Abraham prayed to God. God healed Abimelech, and his wife, and his female servan
 
 ### 18
 For Yahweh had closed up tight all the wombs of the house of Abimelech, because of Sarah, Abraham’s wife.
-

@@ -3,7 +3,6 @@ book: "2 Timothy"
 chapter: 2
 canon: "New Testament"
 ---
-
 # 2 Timothy 2
 
 ### 1
@@ -83,4 +82,3 @@ in gentleness correcting those who oppose him: perhaps God may give them repenta
 
 ### 26
 and they may recover themselves out of the devil’s snare, having been taken captive by him to his will.
-

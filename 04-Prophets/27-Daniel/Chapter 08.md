@@ -3,7 +3,6 @@ book: "Daniel"
 chapter: 8
 canon: "Prophets"
 ---
-
 # Daniel 8
 
 ### 1
@@ -86,4 +85,3 @@ Through his policy he will cause deceit to prosper in his hand. He will magnify 
 
 ### 27
 I, Daniel, fainted, and was sick for some days. Then I rose up, and did the king’s business. I wondered at the vision, but no one understood it.
-

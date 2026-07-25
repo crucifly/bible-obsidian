@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 24
 canon: "Historical"
 ---
-
 # 1 Chronicles 24
 
 ### 1
@@ -98,4 +97,3 @@ The sons of Mushi: Mahli, Eder, and Jerimoth. These were the sons of the Levites
 
 ### 31
 These likewise cast lots even as their brothers the sons of Aaron in the presence of David the king, Zadok, Ahimelech, and the heads of the fathers’ households of the priests and of the Levites; the fathers’ households of the chief even as those of his younger brother.
-

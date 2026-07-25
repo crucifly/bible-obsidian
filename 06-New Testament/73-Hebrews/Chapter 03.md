@@ -3,7 +3,6 @@ book: "Hebrews"
 chapter: 3
 canon: "New Testament"
 ---
-
 # Hebrews 3
 
 ### 1
@@ -62,4 +61,3 @@ To whom did he swear that they wouldn’t enter into his rest, but to those who 
 
 ### 19
 We see that they were not able to enter in because of unbelief.
-

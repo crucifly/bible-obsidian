@@ -3,7 +3,6 @@ book: "Revelation"
 chapter: 9
 canon: "New Testament"
 ---
-
 # Revelation 9
 
 ### 1
@@ -68,4 +67,3 @@ The rest of mankind, who were not killed with these plagues, didn’t repent of 
 
 ### 21
 They didn’t repent of their murders, their sorceries, their sexual immorality, or their thefts.
-

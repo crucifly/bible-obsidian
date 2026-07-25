@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 63
 canon: "Prophets"
 ---
-
 # Isaiah 63
 
 ### 1
@@ -62,4 +61,3 @@ Your holy people possessed it but a little while. Our adversaries have trodden d
 
 ### 19
 We have become like those over whom you never ruled, like those who were not called by your name.
-

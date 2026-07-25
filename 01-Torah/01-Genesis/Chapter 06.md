@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 6
 canon: "Torah"
 ---
-
 # Genesis 6
 
 ### 1
@@ -71,4 +70,3 @@ Take with you some of all food that is eaten, and gather it to yourself; and it 
 
 ### 22
 Thus Noah did. He did all that God commanded him.
-

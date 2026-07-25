@@ -3,7 +3,6 @@ book: "Nehemiah"
 chapter: 7
 canon: "Historical"
 ---
-
 # Nehemiah 7
 
 ### 1
@@ -224,4 +223,3 @@ That which the rest of the people gave was twenty thousand darics of gold, plus 
 
 ### 73
 So the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel, lived in their cities. When the seventh month had come, the children of Israel were in their cities.
-

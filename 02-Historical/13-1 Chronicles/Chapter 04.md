@@ -3,7 +3,6 @@ book: "1 Chronicles"
 chapter: 4
 canon: "Historical"
 ---
-
 # 1 Chronicles 4
 
 ### 1
@@ -134,4 +133,3 @@ Some of them, even of the sons of Simeon, five hundred men, went to Mount Seir, 
 
 ### 43
 They struck the remnant of the Amalekites who escaped, and have lived there to this day.
-

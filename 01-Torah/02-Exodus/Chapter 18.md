@@ -3,7 +3,6 @@ book: "Exodus"
 chapter: 18
 canon: "Torah"
 ---
-
 # Exodus 18
 
 ### 1
@@ -86,4 +85,3 @@ They judged the people at all times. They brought the hard causes to Moses, but 
 
 ### 27
 Moses let his father-in-law depart, and he went his way into his own land.
-

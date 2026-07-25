@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 94
 canon: "Poetic"
 ---
-
 # Psalms 94
 
 ### 1
@@ -74,4 +73,3 @@ But Yahweh has been my high tower, my God, the rock of my refuge.
 
 ### 23
 He has brought on them their own iniquity, and will cut them off in their own wickedness. Yahweh, our God, will cut them off.
-

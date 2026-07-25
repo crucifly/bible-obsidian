@@ -3,7 +3,6 @@ book: "Genesis"
 chapter: 10
 canon: "Torah"
 ---
-
 # Genesis 10
 
 ### 1
@@ -101,4 +100,3 @@ These are the sons of Shem, by their families, according to their languages, lan
 
 ### 32
 These are the families of the sons of Noah, by their generations, according to their nations. The nations divided from these in the earth after the flood.
-

@@ -3,7 +3,6 @@ book: "Job"
 chapter: 34
 canon: "Poetic"
 ---
-
 # Job 34
 
 ### 1
@@ -116,4 +115,3 @@ I wish that Job were tried to the end, because of his answering like wicked men.
 
 ### 37
 For he adds rebellion to his sin. He claps his hands among us, and multiplies his words against God.”
-

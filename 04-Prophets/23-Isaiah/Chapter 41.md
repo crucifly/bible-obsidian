@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 41
 canon: "Prophets"
 ---
-
 # Isaiah 41
 
 ### 1
@@ -92,4 +91,3 @@ When I look, there is no man; even among them there is no counselor who, when I 
 
 ### 29
 Behold, all of them, their deeds are vanity and nothing. Their molten images are wind and confusion.
-

@@ -3,7 +3,6 @@ book: "2 Corinthians"
 chapter: 2
 canon: "New Testament"
 ---
-
 # 2 Corinthians 2
 
 ### 1
@@ -56,4 +55,3 @@ to the one a stench from death to death; to the other a sweet aroma from life to
 
 ### 17
 For we are not as so many, peddling the word of God. But as of sincerity, but as of God, in the sight of God, we speak in Christ.
-

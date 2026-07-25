@@ -3,7 +3,6 @@ book: "Joel"
 chapter: 1
 canon: "Prophets"
 ---
-
 # Joel 1
 
 ### 1
@@ -65,4 +64,3 @@ Yahweh, I cry to you, For the fire has devoured the pastures of the wilderness, 
 
 ### 20
 Yes, the animals of the field pant to you, for the water brooks have dried up, And the fire has devoured the pastures of the wilderness.
-

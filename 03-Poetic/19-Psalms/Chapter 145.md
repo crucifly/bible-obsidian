@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 145
 canon: "Poetic"
 ---
-
 # Psalms 145
 
 ### 1
@@ -68,4 +67,3 @@ Yahweh preserves all those who love him, but all the wicked he will destroy.
 
 ### 21
 My mouth will speak the praise of Yahweh. Let all flesh bless his holy name forever and ever.
-

@@ -3,7 +3,6 @@ book: "Zechariah"
 chapter: 2
 canon: "Prophets"
 ---
-
 # Zechariah 2
 
 ### 1
@@ -44,4 +43,3 @@ Yahweh will inherit Judah as his portion in the holy land, and will again choose
 
 ### 13
 Be silent, all flesh, before Yahweh; for he has roused himself from his holy habitation!”
-

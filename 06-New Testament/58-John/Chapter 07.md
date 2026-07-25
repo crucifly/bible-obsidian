@@ -3,7 +3,6 @@ book: "John"
 chapter: 7
 canon: "New Testament"
 ---
-
 # John 7
 
 ### 1
@@ -130,7 +129,7 @@ Many of the multitude therefore, when they heard these words, said, “This is t
 Others said, “This is the Christ.” But some said, “What, does the Christ come out of Galilee?
 
 ### 42
-Hasn’t the Scripture said that the Christ comes of the offspring of David,  and from Bethlehem, the village where David was?”
+Hasn’t the Scripture said that the Christ comes of the offspring of David, and from Bethlehem, the village where David was?”
 
 ### 43
 So there arose a division in the multitude because of him.
@@ -164,4 +163,3 @@ They answered him, “Are you also from Galilee? Search, and see that no prophet
 
 ### 53
 Everyone went to his own house,
-

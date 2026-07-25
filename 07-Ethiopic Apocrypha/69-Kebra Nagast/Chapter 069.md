@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 69
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 69
 
 ### 1
@@ -17,4 +16,3 @@ And straightway he turned his face to Rehoboam his son, and he said unto him, �
 
 ### 4
 And he said unto him, “Write me in the roll of the Book, and lay it in the chest.” And he said unto Zadok the priest, “Anoint my son and make him king. As my father David, my lord, made me king whilst he was alive, even so do I make my son Rehoboam king. And his seed shall be the salvation of myself and of my fathers for ever, according to what the Angel of the Lord spake unto me.”
-

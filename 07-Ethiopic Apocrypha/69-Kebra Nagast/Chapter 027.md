@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 27
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 27
 
 ### 1
@@ -14,4 +13,3 @@ And he spake further unto the Queen, saying, “What is the use of us, the child
 
 ### 3
 And when the Queen heard this she said, “How thy voice doth please me! And how greatly do thy words and the utterance of thy mouth delight me! Tell me now: whom is it right for me to worship? We worship the sup according as our fathers have taught us to do, because we say that the sun is the king of the gods. And there are others among our subjects [who worship other things]; some worship stones, and some worship wood (i.e., trees), and some worship carved figures, and some worship images of gold and silver. And we worship the sun, for he cooketh our food, and moreover, he illumineth the darkness, and removeth fear; we call him ‘Our King,’ and we call him ‘Our Creator,’ and we worship him as our god; for no man hath told us that besides him there is another god. But we have heard that there is with you, Israel, another God Whom we do not know, and men have told us that He hath sent down to you from heaven a Tabernacle and hath given unto you a Tablet of the ordering of the angels, by the hand of Moses the Prophet. This also we have heard—that He Himself cometh down to you and talketh to you, and informeth you concerning His ordinances and commandments.”
-

@@ -3,7 +3,6 @@ book: "Kebra Nagast"
 chapter: 106
 canon: "Ethiopic Apocrypha"
 ---
-
 # Kebra Nagast 106
 
 ### 1
@@ -140,4 +139,3 @@ Thus David the Prophet prophesied and said, “Hearken unto Me, O My people, and
 
 ### 45
 Thus Moses the Prophet prophesied and said concerning the Trinity, “Hear, O Israel, the Lord thy God is One.” And this is to be explained thus Father, and Son, and Holy Spirit are One God, Whose kingdom is one, Whose dominion is one, and as One men shall worship Them in the heavens and in the earth, in the sea and in the abysses. And to Him be praise for ever and ever! Amen.
-

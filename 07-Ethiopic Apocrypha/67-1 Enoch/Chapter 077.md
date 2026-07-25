@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 77
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 77
 
 ### 1
@@ -56,4 +55,3 @@ And in the time of her going out she appears for three months (of) thirty days e
 
 ### 17
 At night she appears like a man for twenty days each time, and by day she appears like the heaven, and there is nothing else in her save her light.
-

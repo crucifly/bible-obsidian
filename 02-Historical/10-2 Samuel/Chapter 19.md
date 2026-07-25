@@ -3,7 +3,6 @@ book: "2 Samuel"
 chapter: 19
 canon: "Historical"
 ---
-
 # 2 Samuel 19
 
 ### 1
@@ -134,4 +133,3 @@ All the men of Judah answered the men of Israel, “Because the king is a close 
 
 ### 43
 The men of Israel answered the men of Judah, and said, “We have ten parts in the king, and we have also more claim to David than you. Why then did you despise us, that our advice should not be first had in bringing back our king?” The words of the men of Judah were fiercer than the words of the men of Israel.
-

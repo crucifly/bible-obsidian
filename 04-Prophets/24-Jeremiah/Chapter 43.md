@@ -3,7 +3,6 @@ book: "Jeremiah"
 chapter: 43
 canon: "Prophets"
 ---
-
 # Jeremiah 43
 
 ### 1
@@ -44,4 +43,3 @@ I will kindle a fire in the houses of the gods of Egypt. He will burn them, and 
 
 ### 13
 He will also break the pillars of Beth Shemesh, that is in the land of Egypt; and he will burn the houses of the gods of Egypt with fire.’”
-

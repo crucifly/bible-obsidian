@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 11
 canon: "New Testament"
 ---
-
 # Acts 11
 
 ### 1
@@ -95,4 +94,3 @@ As any of the disciples had plenty, each determined to send relief to the brothe
 
 ### 30
 which they also did, sending it to the elders by the hands of Barnabas and Saul.
-

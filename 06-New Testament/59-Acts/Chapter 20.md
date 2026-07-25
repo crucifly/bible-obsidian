@@ -3,7 +3,6 @@ book: "Acts"
 chapter: 20
 canon: "New Testament"
 ---
-
 # Acts 20
 
 ### 1
@@ -88,7 +87,7 @@ Therefore I testify to you today that I am clean from the blood of all men,
 for I didn’t shrink from declaring to you the whole counsel of God.
 
 ### 28
-Take heed, therefore, to yourselves, and to all the flock, in which the Holy Spirit has made you overseers, to shepherd the assembly of the Lord and  God which he purchased with his own blood.
+Take heed, therefore, to yourselves, and to all the flock, in which the Holy Spirit has made you overseers, to shepherd the assembly of the Lord and God which he purchased with his own blood.
 
 ### 29
 For I know that after my departure, vicious wolves will enter in among you, not sparing the flock.
@@ -119,4 +118,3 @@ They all wept a lot, and fell on Paul’s neck and kissed him,
 
 ### 38
 sorrowing most of all because of the word which he had spoken, that they should see his face no more. And they accompanied him to the ship.
-

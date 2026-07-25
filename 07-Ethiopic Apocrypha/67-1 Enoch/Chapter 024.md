@@ -3,7 +3,6 @@ book: "1 Enoch"
 chapter: 24
 canon: "Ethiopic Apocrypha"
 ---
-
 # 1 Enoch 24
 
 ### 1
@@ -23,4 +22,3 @@ Then I said: ‘⌈How⌉ beautiful is this tree, and fragrant, and its leaves a
 
 ### 6
 Then answered Michael, one of the holy⌈⌈and honoured⌉⌉ angels who was with me, and was their leader.
-

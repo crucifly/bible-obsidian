@@ -3,7 +3,6 @@ book: "Sirach"
 chapter: 34
 canon: "Deuterocanonical"
 ---
-
 # Sirach 34
 
 ### 1
@@ -83,4 +82,3 @@ He that washeth himself after the touching of a dead body, if he
 
 ### 26
 So is it with a man that fasteth for his sins, and goeth again,
-

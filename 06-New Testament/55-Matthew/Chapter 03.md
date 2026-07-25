@@ -3,7 +3,6 @@ book: "Matthew"
 chapter: 3
 canon: "New Testament"
 ---
-
 # Matthew 3
 
 ### 1
@@ -56,4 +55,3 @@ Jesus, when he was baptized, went up directly from the water: and behold, the he
 
 ### 17
 Behold, a voice out of the heavens said, “This is my beloved Son, with whom I am well pleased.”
-

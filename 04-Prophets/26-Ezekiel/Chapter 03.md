@@ -3,7 +3,6 @@ book: "Ezekiel"
 chapter: 3
 canon: "Prophets"
 ---
-
 # Ezekiel 3
 
 ### 1
@@ -86,4 +85,3 @@ I will make your tongue stick to the roof of your mouth, that you will be mute, 
 
 ### 27
 But when I speak with you, I will open your mouth, and you shall tell them, ‘Thus says the Lord Yahweh.’ He who hears, let him hear; and he who refuses, let him refuse; for they are a rebellious house.”
-

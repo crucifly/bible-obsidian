@@ -3,7 +3,6 @@ book: "Romans"
 chapter: 11
 canon: "New Testament"
 ---
-
 # Romans 11
 
 ### 1
@@ -113,4 +112,3 @@ Oh the depth of the riches both of the wisdom and the knowledge of God! How unse
 
 ### 36
 For of him, and through him, and to him, are all things. To him be the glory for ever! Amen.
-

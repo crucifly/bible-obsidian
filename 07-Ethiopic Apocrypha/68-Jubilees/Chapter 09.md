@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 9
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 9
 
 ### 1
@@ -50,4 +49,3 @@ And thus the sons of Noah divided unto their sons in the presence of Noah their 
 
 ### 15
 And they all said, 'So be it; so be it ' for themselves and their sons for ever throughout their generations till the day of judgment, on which the Lord God shall judge them with a sword and with fire for all the unclean wickedness of their errors, wherewith they have filled the earth with transgression and uncleanness and fornication and sin.
-

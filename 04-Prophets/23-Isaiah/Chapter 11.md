@@ -3,7 +3,6 @@ book: "Isaiah"
 chapter: 11
 canon: "Prophets"
 ---
-
 # Isaiah 11
 
 ### 1
@@ -53,4 +52,3 @@ Yahweh will utterly destroy the tongue of the Egyptian sea; and with his scorchi
 
 ### 16
 There will be a highway for the remnant that is left of his people from Assyria, like there was for Israel in the day that he came up out of the land of Egypt.
-

@@ -3,7 +3,6 @@ book: "John"
 chapter: 21
 canon: "New Testament"
 ---
-
 # John 21
 
 ### 1
@@ -19,7 +18,7 @@ Simon Peter said to them, “I’m going fishing.” They told him, “We are al
 But when day had already come, Jesus stood on the beach, yet the disciples didn’t know that it was Jesus.
 
 ### 5
-Jesus therefore said to them, “Children, have you anything to eat?”  They answered him, “No.”
+Jesus therefore said to them, “Children, have you anything to eat?” They answered him, “No.”
 
 ### 6
 He said to them, “Cast the net on the right side of the boat, and you will find some.” They cast it therefore, and now they weren’t able to draw it in for the multitude of fish.
@@ -80,4 +79,3 @@ This is the disciple who testifies about these things, and wrote these things. W
 
 ### 25
 There are also many other things which Jesus did, which if they would all be written, I suppose that even the world itself wouldn’t have room for the books that would be written.
-

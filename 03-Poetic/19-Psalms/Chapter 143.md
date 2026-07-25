@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 143
 canon: "Poetic"
 ---
-
 # Psalms 143
 
 ### 1
@@ -41,4 +40,3 @@ Revive me, Yahweh, for your name’s sake. In your righteousness, bring my soul 
 
 ### 12
 In your loving kindness, cut off my enemies, and destroy all those who afflict my soul, For I am your servant.
-

@@ -3,7 +3,6 @@ book: "1 Esdras"
 chapter: 4
 canon: "Deuterocanonical"
 ---
-
 # 1 Esdras 4
 
 ### 1
@@ -194,4 +193,3 @@ And they praised the God of their fathers, because he had given
 
 ### 63
 To go up, and to build Jerusalem, and the temple which is called
-

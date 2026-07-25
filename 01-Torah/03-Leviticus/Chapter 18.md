@@ -3,7 +3,6 @@ book: "Leviticus"
 chapter: 18
 canon: "Torah"
 ---
-
 # Leviticus 18
 
 ### 1
@@ -95,4 +94,3 @@ that the land not vomit you out also, when you defile it, as it vomited out the 
 
 ### 30
 Therefore you shall keep my requirements, that you do not practice any of these abominable customs, which were practiced before you, and that you do not defile yourselves with them. I am Yahweh your God.’”
-

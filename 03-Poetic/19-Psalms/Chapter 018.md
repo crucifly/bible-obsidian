@@ -3,7 +3,6 @@ book: "Psalms"
 chapter: 18
 canon: "Poetic"
 ---
-
 # Psalms 18
 
 ### 1
@@ -155,4 +154,3 @@ Therefore I will give thanks to you, Yahweh, among the nations, and will sing pr
 
 ### 50
 He gives great deliverance to his king, and shows loving kindness to his anointed, to David and to his offspring, forever more.
-

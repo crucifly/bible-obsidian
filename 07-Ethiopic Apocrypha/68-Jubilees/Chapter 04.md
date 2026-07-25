@@ -3,7 +3,6 @@ book: "Jubilees"
 chapter: 4
 canon: "Ethiopic Apocrypha"
 ---
-
 # Jubilees 4
 
 ### 1
@@ -104,4 +103,3 @@ For this reason it was ordained on the heavenly tablets: With the instrument wit
 
 ### 33
 And in the twenty-fifth [1205 A.M.] jubilee Noah took to himself a wife, and her name was `Emzârâ, the daughter of Râkê'êl, the daughter of his father's brother, in the first year in the fifth week [1207 A.M.]: and in the third year thereof she bare him Shem, in the fifth year thereof [1209 A.M.] she bare him Ham, and in the first year in the sixth week [1212 A.M.] she bare him Japheth.
-

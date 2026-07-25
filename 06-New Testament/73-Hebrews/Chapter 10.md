@@ -3,7 +3,6 @@ book: "Hebrews"
 chapter: 10
 canon: "New Testament"
 ---
-
 # Hebrews 10
 
 ### 1
@@ -122,4 +121,3 @@ But the righteous will live by faith. If he shrinks back, my soul has no pleasur
 
 ### 39
 But we are not of those who shrink back to destruction, but of those who have faith to the saving of the soul.
-
