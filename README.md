@@ -26,7 +26,7 @@ Built by **Crucifly, LLC** for the JEXXXUS Theological & Gnostic Intelligence En
 
 Every verse exists as a `### N` header inside an individual Markdown chapter file with structured YAML frontmatter, designed to serve as the **Source of Truth** for training, fine-tuning, and RAG (Retrieval-Augmented Generation) across large language models.
 
-This vault contains **zero commentary, zero interpretation, and zero subjective opinions** — only verbatim scripture and canonical metadata.
+This vault contains **zero commentary, zero interpretation, and zero subjective opinions**—only verbatim scripture and canonical metadata.
 
 ---
 
@@ -34,7 +34,7 @@ This vault contains **zero commentary, zero interpretation, and zero subjective 
 
 A strict validation rule governs this vault: only files tagged `source_type: Scripture` (canonical texts) or `source_type: Gnostic-Codex` (Nag Hammadi codices) are permitted to enter fine-tuning pipelines. Any file containing subjective commentary, modern commentary, or web-navigation noise is quarantined and purged.
 
-This architectural constraint — the **Iron Curtain** — ensures that AI models trained on this repository produce accurate, verbatim canonical output rather than hallucinated theology.
+This architectural constraint—the **Iron Curtain**—ensures that AI models trained on this repository produce accurate, verbatim canonical output rather than hallucinated theology.
 
 ---
 
@@ -72,8 +72,8 @@ bible-obsidian/
 │   ├── Apocryphon of John/
 │   ├── Gospel of Thomas/
 │   ├── Gospel of Philip/
-│   ├── Gospel of Mary/               #  Berlin Codex 8502 — ch. 4, 5, 8, 9
-│   ├── Poimandres/                   #  Corpus Hermeticum — G.R.S. Mead trans.
+│   ├── Gospel of Mary/               #  Berlin Codex 8502—ch. 4, 5, 8, 9
+│   ├── Poimandres/                   #  Corpus Hermeticum—G.R.S. Mead trans.
 │   └── ...
 ├── 09-Pseudepigrapha/                # Old Testament Pseudepigrapha (7,047 notes)
 │   ├── Book of Jasher/               #   Chapters 01 → 91
